@@ -326,4 +326,4 @@ One limitation of OBV is that it is a leading indicator, meaning that it may pro
 
 \[4\] [https://en.wikipedia.org/wiki/On-balance\_volume](https://en.wikipedia.org/wiki/On-balance_volume)
 
-\[5\] [https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f](https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f)
+\![5\] [https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f](https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f)

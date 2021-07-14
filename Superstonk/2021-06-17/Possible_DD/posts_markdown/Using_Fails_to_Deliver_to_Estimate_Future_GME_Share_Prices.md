@@ -87,7 +87,7 @@ Wait and minute, you're telling me **HOLDING** works? Yeah, if you don't sell, t
 
 Here is a graph I am **calling** the Titty Jacker Express.
 
-[Titty Jacker Express](https://preview.redd.it/3ibxn1zesr571.jpg?width=1100&format=pjpg&auto=webp&s=7a3bb576424daa424f556e3e750d797ae49612d8)
+![Titty Jacker Express](https://preview.redd.it/3ibxn1zesr571.jpg?width=1100&format=pjpg&auto=webp&s=7a3bb576424daa424f556e3e750d797ae49612d8)
 
 This is not financial advice. For real, I'm pretty dumb. You shouldn't take advice from me. I just think we're gonna see anywhere from 0% - 350% increase in the next 2 weeks based on FTDs alone. BUY & HOLD is the way.
 

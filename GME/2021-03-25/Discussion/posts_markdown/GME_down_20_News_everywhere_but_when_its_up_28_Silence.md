@@ -4,4 +4,4 @@
 
 Funny how that works
 
-[50%?](https://i.pinimg.com/originals/9e/a2/7c/9ea27cfc2db7c9d86afcbbd5c166a214.jpg)
+![50%?](https://i.pinimg.com/originals/9e/a2/7c/9ea27cfc2db7c9d86afcbbd5c166a214.jpg)

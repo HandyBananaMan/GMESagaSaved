@@ -75,7 +75,7 @@ For the moon boys there are 33,300 calls on GME being $800 or higher by Friday 1
 In summary, there really isn't a need for more DD... Hedgefunds put the house, the yacht, the instagram model wives all on GME going bankrupt and it just isn't going to happen. GME recently reported that preliminary sales are up 11% from the same time last year.   
 
 
-[https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html](https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html)
+![https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html](https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html)
 
 Remember that they have also massively reduced costs by moving to ecommerce and closing underpreforming stores, they could very well be on pace to have a more profitable start to the year in 2021 than they did in 2019 precovid and this is just the beginning for the Cohen era for GME. 
 

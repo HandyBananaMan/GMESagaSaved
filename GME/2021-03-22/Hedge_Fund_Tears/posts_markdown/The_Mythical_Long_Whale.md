@@ -162,7 +162,7 @@ The second was when a guy just had to get in front of me to pass. I was about to
 
 A lot of you have asked if I’m on other social media. I absolutely hate Facebook and will never join that cesspool.  I'm on LinkedIn but that's more for my professional career.  I've linked to that already so I won't do so again.  Most social media is lost on me.  So I don't have a presence on many of the other platforms.
 
-I do have a Twitter ([clmoffatt](https://twitter.com/clmoffatt)) and a website/blog ([clmoffatt.com](https://clmoffatt.com)).
+I do have a Twitter ([clmoffatt](https://twitter.com/clmoffatt)) and a website/blog (![clmoffatt.com](https://clmoffatt.com)).
 
 I do enjoy writing, especially for you apes. During the long drive, I came up with a bunch of various topics that I’d like to write about in the future. I’ll continue to post GME related thoughts on this subreddit. But things unrelated to GME, I’ll post over there and send out a tweet when something new gets posted on my site.
 

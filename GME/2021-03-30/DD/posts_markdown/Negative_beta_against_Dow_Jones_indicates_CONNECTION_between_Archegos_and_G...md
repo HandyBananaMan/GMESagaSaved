@@ -24,6 +24,6 @@ The only two banks on that list? **Goldman Sachs** and **JPMorgan Chase**. Who w
 
 *My (speculative) interpretation:* GME shorts are net short on their overall portfolio of longs and shorts. The only way to survive for them is to position net short the entire market and engineer a crash. To look more into the connection between the liquidations and GME, I would need to see how the beta is behaving against the **S&P 500**, because that contains pretty much all of the largest US companies, so if anyone can share a screenshot of today's beta or if apes who read this know someone and can ask them, I would be **VERY GRATEFUL**.
 
-**UPDATE:** see here for follow-up, I kept following the trail: [https://www.reddit.com/r/GME/comments/mgkqa8/prime\_brokerage\_business\_ie\_risk\_exposure\_to/](https://www.reddit.com/r/GME/comments/mgkqa8/prime_brokerage_business_ie_risk_exposure_to/) 
+**UPDATE:** see here for follow-up, I kept following the trail: ![https://www.reddit.com/r/GME/comments/mgkqa8/prime\_brokerage\_business\_ie\_risk\_exposure\_to/](https://www.reddit.com/r/GME/comments/mgkqa8/prime_brokerage_business_ie_risk_exposure_to/) 
 
 **"Prime brokerage business (i.e. risk exposure to hedge funds) may blow up US banks and with them the market; negative beta against Dow Jones (i.e. not S&P 500) indication of CONNECTION with GameStop"**

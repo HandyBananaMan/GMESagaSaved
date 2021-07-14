@@ -61,7 +61,7 @@ As per the proxy statement, there were "70,771,778 shares of common stock that w
 
 MYTH: TOO MANY VOTES WOULD INVALIDATE THE MEETING. THE FACT THAT THE MEETING HAPPENED MEANS THERE WAS NOT OVER-VOTING!
 
-That's not correct. ***Too many votes would not make the meeting invalid***. In fact, the Delaware law even contemplates that there might be over voting for public companies that is corrected by the inspector of elections. ([https://delcode.delaware.gov/title8/c001/sc07/index.html](https://delcode.delaware.gov/title8/c001/sc07/index.html), section 231(d)). However, it is necessary for the inspector of elections to correct the vote so that in the final voting results you do not record more shares voted than actually issued, because then the company's books would be fraudulent and that just doesn't work.
+That's not correct. ***Too many votes would not make the meeting invalid***. In fact, the Delaware law even contemplates that there might be over voting for public companies that is corrected by the inspector of elections. (![https://delcode.delaware.gov/title8/c001/sc07/index.html](https://delcode.delaware.gov/title8/c001/sc07/index.html), section 231(d)). However, it is necessary for the inspector of elections to correct the vote so that in the final voting results you do not record more shares voted than actually issued, because then the company's books would be fraudulent and that just doesn't work.
 
 MYTH: THIS MUST MEAN THE SHORTS HAVE COVERED.
 
@@ -75,7 +75,7 @@ MYTH: IF THEY CORRECTED THE VOTE, THEN THE TOTAL SHARES VOTED WOULD HAVE BEEN 10
 
 This is a great question and I completely understand the line of thinking to come to this conclusion. ***However, when votes are corrected, that is done on a shareholder-by-shareholder basis and not to the aggregate votes cast.*** So if there are shareholders on Computershare's list holding 15 million shares that Computershare knows have not voted (and they have not advised Computershare that they have granted a proxy to another party to vote their shares), then **Computershare must not include those shares in the count**. This is why there can be the correction of over-voting without the end voting result being 100% of all of the issued and outstanding shares represented in the vote.
 
-This is set out under the corporate law of Delaware [https://delcode.delaware.gov/title8/c001/sc07/index.html](https://delcode.delaware.gov/title8/c001/sc07/index.html) (Sect 231).
+This is set out under the corporate law of Delaware ![https://delcode.delaware.gov/title8/c001/sc07/index.html](https://delcode.delaware.gov/title8/c001/sc07/index.html) (Sect 231).
 
 "In determining the validity and counting of proxies and ballots, the inspectors shall be limited to an examination of the proxies, any envelopes submitted with those proxies, any information provided in accordance with § 211(e) or § 212(c)(2) of this title, or any information provided pursuant to § 211(a)(2)b.(i) or (iii) of this title, ballots and the regular books and records of the corporation, **except that the inspectors may consider other reliable information for the limited purpose of reconciling proxies and ballots submitted by or on behalf of banks, brokers, their nominees or similar persons** ***which represent more votes than the holder of a proxy is authorized by the record owner to cast or more votes than the stockholder holds of record***."
 

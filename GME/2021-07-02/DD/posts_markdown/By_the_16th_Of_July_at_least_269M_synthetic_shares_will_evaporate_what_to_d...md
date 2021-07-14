@@ -58,4 +58,4 @@ I let you answer the question yourself!!!
 
 Edit1 :Not financial advice in any shape, way, or form!!
 
-Edit2: Some comments suggest that those contracts were probably sold by bulls when the price was below 10/20 usd. Well, I don't think so as the 0.50$ contract for example reached the max price/volume on the 27th of January as you can see [here](https://finance.yahoo.com/quote/GME210716P00000500?p=GME210716P00000500). We all know what happened on the 27th Of January and what was the price back then!
+Edit2: Some comments suggest that those contracts were probably sold by bulls when the price was below 10/20 usd. Well, I don't think so as the 0.50$ contract for example reached the max price/volume on the 27th of January as you can see ![here](https://finance.yahoo.com/quote/GME210716P00000500?p=GME210716P00000500). We all know what happened on the 27th Of January and what was the price back then!

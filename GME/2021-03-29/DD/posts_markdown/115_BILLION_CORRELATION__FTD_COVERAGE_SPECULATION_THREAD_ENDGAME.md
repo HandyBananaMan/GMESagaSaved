@@ -435,4 +435,4 @@ https://www.youtube.com/watch?v=LyYBrywHmvg
 
 &#x200B;
 
-[WHALE WATCH SEASON](https://youtu.be/pWh4O6ujK4o?t=75)
+![WHALE WATCH SEASON](https://youtu.be/pWh4O6ujK4o?t=75)

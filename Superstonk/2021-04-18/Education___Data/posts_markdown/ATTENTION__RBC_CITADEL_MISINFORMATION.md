@@ -159,4 +159,4 @@ Have a great Sunday! -Rugby
 
 DATES=FUD [Blackrock & 4D Chess](https://www.reddit.com/r/Superstonk/comments/msez57/blackrock_4d_chess/)
 
-DD POLICE ep.1 [SEC Rule 15c3-3](https://www.reddit.com/r/Superstonk/comments/mtl77t/dd_police_ep_1_sec_rule_15c33/)
+DD POLICE ep.1 ![SEC Rule 15c3-3](https://www.reddit.com/r/Superstonk/comments/mtl77t/dd_police_ep_1_sec_rule_15c33/)

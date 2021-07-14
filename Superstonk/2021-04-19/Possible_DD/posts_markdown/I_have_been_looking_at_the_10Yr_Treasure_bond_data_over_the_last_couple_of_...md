@@ -68,7 +68,7 @@ Taken from article : [https://moneyweek.com/473408/heres-what-happened-the-last-
 
 An apette u/G_KG with more brains did an amazing and scary write up of what I stumbled over during my monday morning coffee: [~~https://www.reddit.com/r/wallstreetbets/comments/mtxrfy/crayonbrained\_manifesto\_banks\_are\_unloading\_their/?utm\_source=share&utm\_medium=mweb~~](https://www.reddit.com/r/wallstreetbets/comments/mtxrfy/crayonbrained_manifesto_banks_are_unloading_their/?utm_source=share&utm_medium=mweb)
 
-Nothing to see here just got deleted of WSB -> new link : [https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained\_manifesto\_banks\_are\_unloading\_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
+Nothing to see here just got deleted of WSB -> new link : ![https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained\_manifesto\_banks\_are\_unloading\_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
 
 **TADR; it looks like the last time the vault of banana's was this overbought all the bananas went brown the week after.**
 

@@ -273,6 +273,6 @@ https://preview.redd.it/0pxzh9brwjq61.png?width=1193&format=png&auto=webp&s=040e
 
 https://preview.redd.it/zfakzckswjq61.png?width=1064&format=png&auto=webp&s=30268b16b5e7ba89cb1213c981cbc7f82cb60291
 
-[https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20](https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20)
+![https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20](https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20)
 
 &#x200B;

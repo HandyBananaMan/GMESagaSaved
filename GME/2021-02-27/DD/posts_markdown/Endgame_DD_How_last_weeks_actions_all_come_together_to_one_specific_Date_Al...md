@@ -406,7 +406,7 @@ Quadruple witching is similar to the triple witching dates, when three out of th
 
 &#x200B;
 
-**6**. **Gamestop Q4 Earnings are released** **~~4~~** **(EDIT 03/14. Apparently the date moved up to 03/23, so it's 2 Business Days) Business Days after March 19th**, that’ll be another catalyst to keep the flame going for a few days. Because Q4 is the the quarter, where retail makes their most revenue. [https://www.nasdaq.com/market-activity/stocks/gme/earnings#:\~:text=Earnings%20announcement\*%20for%20GME%3A%20Mar%2025%2C%202021 HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"& HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%241.27](https://www.nasdaq.com/market-activity/stocks/gme/earnings).
+**6**. **Gamestop Q4 Earnings are released** **~~4~~** **(EDIT 03/14. Apparently the date moved up to 03/23, so it's 2 Business Days) Business Days after March 19th**, that’ll be another catalyst to keep the flame going for a few days. Because Q4 is the the quarter, where retail makes their most revenue. ![https://www.nasdaq.com/market-activity/stocks/gme/earnings#:\~:text=Earnings%20announcement\*%20for%20GME%3A%20Mar%2025%2C%202021 HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"& HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%241.27](https://www.nasdaq.com/market-activity/stocks/gme/earnings).
 
 &#x200B;
 

@@ -4,7 +4,7 @@
 
 GME is out of shares to borrow. Zero.
 
-[https://iborrowdesk.com/report/GME](https://iborrowdesk.com/report/GME)
+![https://iborrowdesk.com/report/GME](https://iborrowdesk.com/report/GME)
 
 They don't report when it's zero! 
 

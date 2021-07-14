@@ -139,4 +139,4 @@ EDIT 4: Yes mortgages are sold to Mortgage Backed Securities. In which case, its
 
 " Finally, for banks that had been involved in FHA lending, the period following the GFC highlighted the particular risks for servicers. If a servicer made an insurance claim on a defaulted FHA loan, and it was later found that an error had been made with respect to the origination or servicing of that loan, the servicer could be liable under the FCA for treble damages. These cases were pursued aggressively by the U.S. Department of Justice (DOJ), and many large bank servicers paid extremely large fines, often for very minor origination errors. "
 
-[https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/](https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/)
+![https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/](https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/)

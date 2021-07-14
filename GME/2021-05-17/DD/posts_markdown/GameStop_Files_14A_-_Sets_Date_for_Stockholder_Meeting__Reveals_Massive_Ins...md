@@ -26,7 +26,7 @@ CONGRATS EVERYONE!  BUY, HOLD AND VOTE !!
 
 Not a financial advice  :)
 
-[https://advancedplays.com/gamestop-files-14a-sets-date-for-stockholder-meeting-reveals-massive-institutional-ownership](https://advancedplays.com/gamestop-files-14a-sets-date-for-stockholder-meeting-reveals-massive-institutional-ownership/)
+![https://advancedplays.com/gamestop-files-14a-sets-date-for-stockholder-meeting-reveals-massive-institutional-ownership](https://advancedplays.com/gamestop-files-14a-sets-date-for-stockholder-meeting-reveals-massive-institutional-ownership/)
 
 &#x200B;
 

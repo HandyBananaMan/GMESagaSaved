@@ -48,7 +48,7 @@ A Market Maker will charge a fee per transaction.  That means they are primarily
 >  
 >The maker-taker plan harks back to 1997, when Island Electronic Communications Network creator, Joshua Levine, designed a pricing model to give providers an incentive to trade in markets with narrow spreads. Under this scenario, makers would receive a $0.002 per share rebate, and takers would pay a $0.003 per share fee, and the exchange would keep the difference. By the mid-2000s, rebate capture strategies had emerged as a staple of market incentive features, **with payments ranging from 20 to 30 cents for every 100 shares traded.**
 
-In English?  We know MM act as the middle person between a buyer and seller, and one party pays $0.30 and the other receives $0.20, and the MM gets the difference ($0.10) per 100 shares.
+In English?  We know ~~MM~~ Exchanges act as the middle person between a buyer and seller, and one party pays $0.30 and the other receives $0.20, and the ~~MM~~ Exchange gets the difference ($0.10) per 100 shares.
 
 (If your keen eye caught that the LPs act when there is a buyer without a seller, we cover that at the end.  For now, we are focusing on profits that exceed their normal revenue streams, assuming three parties.  Trust me.  You'll see why it doesn't matter in the slightest.)
 
@@ -77,6 +77,12 @@ This gives us an equation of roughly...
 ( # of Shares Sold / 100 ) \* Share Price \* Δt > $1,042.86
 
 \# of Shares Sold \* Share Price \* Δt > $104,286.16
+
+===================================================================
+
+Edit #4: I originally did the math for 10c per 100 shares sold for Market Makers, but I got the relationship wrong.  Because the LP can be either a buyer or seller, they can either pay 30c per 100 shares or receive 20c per 100 shares.  Oddly enough, it really doesn't change the math, and I'll highlight that point down below.  Keep reading.
+
+===================================================================
 
 &#x200B;
 
@@ -152,13 +158,13 @@ Even if the MM LP cut is $0.30 per 100 shares, that increases the Maker-Taker re
 
 Let's be real.  You don't care about the Maker-Taker revenue.  *That's a fart in a hurricane.*
 
-&#x200B;
+==== \^\^  See Edit #4 down below \^\^ ====
 
 Now take a look at the resistance image again.
 
 https://preview.redd.it/ayq8hwogvj971.png?width=1872&format=png&auto=webp&s=23c2932705e45b29f32183025fbe6ab1af5211fd
 
-I never understood how the daily drops' volume was always so much higher than the [available borrows](https://iborrowdesk.com/report/GME), even when accounting for the \~10M shares in ETFs.  And I never understood why the resistances kept increasing.  I could understand the resistances to some effect, because each % we eat of their borrows increases their overall short position, but the two pieces never added up.
+I never understood how the daily drops' volume was always so much higher than the ![available borrows](https://iborrowdesk.com/report/GME), even when accounting for the \~10M shares in ETFs.  And I never understood why the resistances kept increasing.  I could understand the resistances to some effect, because each % we eat of their borrows increases their overall short position, but the two pieces never added up.
 
 Retail, simply put, does not have the power to effect that much volume in either direction right now.  (Yes.  Effect with an E.  I will fight you.)
 
@@ -171,3 +177,15 @@ I'm not really sure where to go with this next.  I hope someone finds language i
 Edit: Formatting changes and cleaned up redundant formulas.  Also edited TLDR to reflect my personal take.
 
 Edit 2: Longer TLDR
+
+# 
+
+# Edit #4:
+
+Both Maker-Taker and PFOF are competing for roughly the same market inventory.  It might be weird to think of transactions as market inventory, but it is.  They've got their pros and cons between them, but they're either a flat fee or a percentage take.  Either way, the revenue from this is large enough to make a business (or augment existing revenue streams), but small enough that it doesn't drive business away.  That means there's no reasonable way either MT or PFOF could realistically compete with selling purchased shares for profit (ΔShare Price), much less selling \[as of yet\] unpurchased shares for profit.
+
+I wish I had similar metrics for PFOF so we could do both maths side by side, but I don't.  But we know the numbers should be similar because they are competing for the same market inventory.  Even if we give PFOF 10x the revenue impact ($15.00) as MT ($1.50), the example provided demonstrates *it just doesn't matter.*
+
+Details matter *for so many reasons*, especially when we try to convey important points accurately to people who understand these systems well.  But these details don't change the big picture.
+
+When you can sell something you don't own and don't intend to purchase, you make money hand over fist.

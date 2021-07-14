@@ -154,7 +154,7 @@ More Russel Info
 
 &#x200B;
 
-[\\"Original Content\\"](https://preview.redd.it/otlnmbdjfnx61.png?width=554&format=png&auto=webp&s=a6516c3fcdd2a01b3465ad9371bf83ed9d4aa866)
+![\\"Original Content\\"](https://preview.redd.it/otlnmbdjfnx61.png?width=554&format=png&auto=webp&s=a6516c3fcdd2a01b3465ad9371bf83ed9d4aa866)
 
 **Edit: Corrected ETF/Index wording.**
 

@@ -11,4 +11,4 @@ I finished watching this Frontline documentary and was flabbergasted to learn th
 
 
 The same guy bailed out Melvin Capital when Individual investors were beating Hedge Funds fair and square:
-[Melvin Announces $2.75 Billion Investment from Citadel and Point72](https://apnews.com/press-release/pr-newswire/business-investment-management-trusts-and-fund-management-financial-services-steven-cohen-8935453622eaa23ee976ca07fa65cb2d)
+![Melvin Announces $2.75 Billion Investment from Citadel and Point72](https://apnews.com/press-release/pr-newswire/business-investment-management-trusts-and-fund-management-financial-services-steven-cohen-8935453622eaa23ee976ca07fa65cb2d)

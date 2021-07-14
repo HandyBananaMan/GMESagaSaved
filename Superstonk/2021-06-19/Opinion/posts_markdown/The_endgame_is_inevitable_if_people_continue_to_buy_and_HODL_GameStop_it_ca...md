@@ -4,7 +4,7 @@
 
 # 
 
-[Moon, we are coming soon....](https://preview.redd.it/36zu6q2aq7671.jpg?width=1080&format=pjpg&auto=webp&s=8d951593adfaf25f9fdd29e09ba26f2e696fd4f9)
+![Moon, we are coming soon....](https://preview.redd.it/36zu6q2aq7671.jpg?width=1080&format=pjpg&auto=webp&s=8d951593adfaf25f9fdd29e09ba26f2e696fd4f9)
 
 # Dear Apes,
 

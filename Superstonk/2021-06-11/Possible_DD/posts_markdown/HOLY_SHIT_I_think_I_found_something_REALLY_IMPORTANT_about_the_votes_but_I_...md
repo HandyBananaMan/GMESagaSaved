@@ -126,7 +126,7 @@ Also, great top-up from u/greysweatseveryday :
 
 Edit 2: u/Bit-corn pointed out that:
 
->[The SEC](https://www.sec.gov/divisions/investment/13ffaq.htm) states that filers of Form 13-F should report securities that they own and have loaned to a third party.  
+>![The SEC](https://www.sec.gov/divisions/investment/13ffaq.htm) states that filers of Form 13-F should report securities that they own and have loaned to a third party.  
 >  
 >Question #42 in the link above  
 >  

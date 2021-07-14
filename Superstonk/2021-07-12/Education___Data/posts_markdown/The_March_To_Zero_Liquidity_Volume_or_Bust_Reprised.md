@@ -56,7 +56,7 @@ So, I've updated the chart for your pent up viewing pleasure:
 
 And.... **here's the data to go along for you beautiful Apes that have trust issues:**
 
-[Numbers + a #DIV\/0!](https://preview.redd.it/5j7f9sn1xva71.png?width=661&format=png&auto=webp&s=7d5bbe527944a46a5d1a71d1afb552813e8fd60c)
+![Numbers + a #DIV\/0!](https://preview.redd.it/5j7f9sn1xva71.png?width=661&format=png&auto=webp&s=7d5bbe527944a46a5d1a71d1afb552813e8fd60c)
 
 # 3. Onward to Neverland.
 

@@ -14,6 +14,6 @@ I will not be silence, Hedgies. You can shut me up, you can kill me, but you can
 
 https://preview.redd.it/8yz1vusxqlt61.png?width=1169&format=png&auto=webp&s=5c2b96d2ae38e008e788b06f77508df45c795e93
 
-# EDIT FOR BREVITY: Of fucking course we don't coordinate prices, shit's illegal yo, not an advisor.SHILL SCRIPT EDIT: [https://www.reddit.com/r/Superstonk/comments/mulstf/cointelpro\_techniques\_for\_dilution\_misdirection/](https://www.reddit.com/r/Superstonk/comments/mulstf/cointelpro_techniques_for_dilution_misdirection/)
+# EDIT FOR BREVITY: Of fucking course we don't coordinate prices, shit's illegal yo, not an advisor.SHILL SCRIPT EDIT: ![https://www.reddit.com/r/Superstonk/comments/mulstf/cointelpro\_techniques\_for\_dilution\_misdirection/](https://www.reddit.com/r/Superstonk/comments/mulstf/cointelpro_techniques_for_dilution_misdirection/)
 
 Now you can read it better

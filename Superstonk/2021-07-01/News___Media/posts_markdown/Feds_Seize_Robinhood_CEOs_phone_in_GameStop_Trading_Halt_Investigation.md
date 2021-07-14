@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/obsyo1/feds_seize_robinhood_ceos_phone_in_gamestop/](https://www.reddit.com/r/Superstonk/comments/obsyo1/feds_seize_robinhood_ceos_phone_in_gamestop/)
 
 
-[Feds Seized Robinhood CEO's Phone in GameStop Trading Halt Investigation (vice.com)](https://www.vice.com/en/article/wx5p8z/feds-seized-robinhood-ceos-phone-in-gamestop-trading-halt-investigation)
+![Feds Seized Robinhood CEO's Phone in GameStop Trading Halt Investigation (vice.com)](https://www.vice.com/en/article/wx5p8z/feds-seized-robinhood-ceos-phone-in-gamestop-trading-halt-investigation)
 
 Looks like Vlad is feeling some heat right now!  Maybe another 12M for clients and 58M for the lawyers...... /s
 

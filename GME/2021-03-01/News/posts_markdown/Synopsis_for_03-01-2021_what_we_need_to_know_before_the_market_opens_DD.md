@@ -197,7 +197,7 @@ Edit 1:
 
 Edit 2:   
 DFV tweeted!   
-[https://twitter.com/TheRoaringKitty/status/1366430996690841600](https://twitter.com/TheRoaringKitty/status/1366430996690841600)  
+![https://twitter.com/TheRoaringKitty/status/1366430996690841600](https://twitter.com/TheRoaringKitty/status/1366430996690841600)  
 
 
 Omar is coming ya'll

@@ -6,6 +6,6 @@
 
 &#x200B;
 
-[plato waiting for his salt bags, 346bc, Athens, colorised](https://preview.redd.it/5ogq8tt0q3q61.jpg?width=640&format=pjpg&auto=webp&s=c403d3ffacd81ee24eccd319f0fa892ceb6940a6)
+![plato waiting for his salt bags, 346bc, Athens, colorised](https://preview.redd.it/5ogq8tt0q3q61.jpg?width=640&format=pjpg&auto=webp&s=c403d3ffacd81ee24eccd319f0fa892ceb6940a6)
 
 Edit: holy fuck why am I getting death threats about this post!? Imma fuck off for a while see y’all on the moon 🌝 fucken hell

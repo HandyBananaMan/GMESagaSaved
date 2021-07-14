@@ -143,7 +143,7 @@ The right to demand variation margin is included in many contractual agreements 
 
 The default of Archegos at the end of March triggered losses at multiple investment banks, incluiding a mammoth $4.7 billion loss at Credit Suisse, which collected less margin from Archegos than the likes of Goldman Sachs and Deutsche Bank.
 
-None of the hedge funds that [Risk.net](https://risk.net/) spoke to have received intraday variation margin calls from JP Morgan, but they all fear that they will have to pay up in the future. The chief financial officer of one US hedge fund says that he was shocked when JP Morgan said it would exercise its legal right to make margin calls multiple times a day.
+None of the hedge funds that ![Risk.net](https://risk.net/) spoke to have received intraday variation margin calls from JP Morgan, but they all fear that they will have to pay up in the future. The chief financial officer of one US hedge fund says that he was shocked when JP Morgan said it would exercise its legal right to make margin calls multiple times a day.
 
 "I have worked at small firms and multi-billion-dollar firms and this was a first", he says. "I was surprised to hear this."
 

@@ -68,6 +68,6 @@ Disclaimer: I'm not saying buy calls, that shit is riskier than buying shares if
 
 EDIT - to make something clear: For a price increase, there would need to be a balance of calls and shares being bought. It's totally possible that Citadel (big MM at play here) is just writing totally naked options and disregarding delta neutrality because they realize they're fucked either way. Either the price doesn't go up naturally and they win big or it does and they go bankrupt regardless of whether they'd written the contracts or not (because of their short positions).
 
-This theory is implied by the DTCC's recent rule change (but, again, just a theory): [https://www.reddit.com/r/GME/comments/lzebps/new\_rules\_imposed\_by\_dtcc\_signed\_yesterday/](https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/)
+This theory is implied by the DTCC's recent rule change (but, again, just a theory): ![https://www.reddit.com/r/GME/comments/lzebps/new\_rules\_imposed\_by\_dtcc\_signed\_yesterday/](https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/)
 
 If that's the case, then buying shares could actually have more pressure since they may not be delta hedging at all. In this case, those leverage numbers would be near meaningless.

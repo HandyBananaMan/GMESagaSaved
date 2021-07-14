@@ -192,7 +192,7 @@ References:
 15. [https://i.redd.it/q4cythnt8jf61.jpg](https://i.redd.it/q4cythnt8jf61.jpg)
 16. [https://www.investopedia.com/articles/basics/03/103103.asp](https://www.investopedia.com/articles/basics/03/103103.asp)
 17. [https://www.sec.gov/litigation/apdocuments/3-17189-event-9.pdf](https://www.sec.gov/litigation/apdocuments/3-17189-event-9.pdf)
-18. [https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13](https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13)
+18. ![https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13](https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13)
 
 TLDR: Read the title.
 

@@ -68,7 +68,7 @@ That said, I am insanely proud to be a part of this community. The fact that we 
 
 Now, let's go! 🚀🚀🚀
 
-[Art by u\/YoungbloodAA](https://preview.redd.it/i707ol57g7471.jpg?width=3840&format=pjpg&auto=webp&s=c1e8195f1f18bda5bd4f67c0689af98db96ce8a1)
+![Art by u\/YoungbloodAA](https://preview.redd.it/i707ol57g7471.jpg?width=3840&format=pjpg&auto=webp&s=c1e8195f1f18bda5bd4f67c0689af98db96ce8a1)
 
 Edit: 
 

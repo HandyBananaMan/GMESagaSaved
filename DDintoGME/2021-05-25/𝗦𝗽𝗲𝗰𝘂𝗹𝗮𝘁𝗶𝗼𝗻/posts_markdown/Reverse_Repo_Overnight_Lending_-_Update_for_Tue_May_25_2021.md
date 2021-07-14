@@ -13,6 +13,6 @@ One more thing (doing my best Columbo impersonation): there have been local dips
 Yesterday's chart: [https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse\_repo\_overnight\_lending\_will\_hit\_the\_upper/](https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/)  
 Fed Repo data: [https://apps.newyorkfed.org/markets/autorates/temp](https://apps.newyorkfed.org/markets/autorates/temp)  
 Some great DD on the true limit of the reverse repo by u/BlindasBalls: [https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response\_to\_the\_post\_about\_the\_reverse\_repo\_limit/](https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/)  
-Helpful/hilarious post on the Reverse Repo situation: [https://www.reddit.com/r/Superstonk/comments/nixxvc/fed\_is\_in\_a\_pickle\_economy\_is\_fuk\_edition/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/nixxvc/fed_is_in_a_pickle_economy_is_fuk_edition/?utm_source=share&utm_medium=ios_app&utm_name=iossmf):
+Helpful/hilarious post on the Reverse Repo situation: ![https://www.reddit.com/r/Superstonk/comments/nixxvc/fed\_is\_in\_a\_pickle\_economy\_is\_fuk\_edition/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/nixxvc/fed_is_in_a_pickle_economy_is_fuk_edition/?utm_source=share&utm_medium=ios_app&utm_name=iossmf):
 
 Keep on HODLin'! 🚀🚀🚀

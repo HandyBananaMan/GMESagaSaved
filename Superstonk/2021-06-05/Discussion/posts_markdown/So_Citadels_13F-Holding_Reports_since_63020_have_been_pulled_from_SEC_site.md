@@ -57,7 +57,7 @@ Now wtf could possibly explain this.... oh IDK maybe being investigated by the S
 
 &#x200B;
 
-**TL;DR:** Citadel's 13F-HR filing information since 6.30.20 (filed on 8.14.20) containing their specific holdings and information on the SEC site, has all been pulled, minus the cover pages. 3rd party sites like [holdingschannel.com](https://holdingschannel.com) have the latest information, but not the SEC, leading me to believe Citadel is currently being investigated.
+**TL;DR:** Citadel's 13F-HR filing information since 6.30.20 (filed on 8.14.20) containing their specific holdings and information on the SEC site, has all been pulled, minus the cover pages. 3rd party sites like ![holdingschannel.com](https://holdingschannel.com) have the latest information, but not the SEC, leading me to believe Citadel is currently being investigated.
 
 I hope you apes enjoyed the read, I worked hard on it. It's not much but it's something my slightly-wrinkled brain was able to look into a little bit.
 

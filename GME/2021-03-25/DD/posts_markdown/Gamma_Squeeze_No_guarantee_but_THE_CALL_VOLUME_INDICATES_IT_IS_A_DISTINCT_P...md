@@ -64,7 +64,7 @@ There are also tons of videos online from people that know what they are doing. 
 
 \*\*\*EDIT 15\*\*\* My data is based on the call volume (per trade-ideas, which is a stock screening platform I use).  I don't know what portion of the call volume is people (like me) who bought and are holding call options, or people who flipped them as the price went up.  Thanks to u/87CSD, here is some data on the actual option contract activity.
 
-According to this page: [https://gme.crazyawesomecompany.com/](https://gme.crazyawesomecompany.com/)
+According to this page: ![https://gme.crazyawesomecompany.com/](https://gme.crazyawesomecompany.com/)
 
 March 26:
 

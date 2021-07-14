@@ -10,7 +10,7 @@ I needed the data in CSV format so I could play with it.  So I bought the GME Op
 
 I then filtered out the lowest strike Put option for each of the major options expirations (Feb, March, April, Jan 2022 leap, and Jan 2023 leap) during that time and charted the daily Open Interest Change.
 
-[Daily OI Change for Lowest Strike Puts](https://preview.redd.it/mfk5o6z1r8971.png?width=1097&format=png&auto=webp&s=26b7024d5072bbb0683b9d9c1a3d34e596ddfa4e)
+![Daily OI Change for Lowest Strike Puts](https://preview.redd.it/mfk5o6z1r8971.png?width=1097&format=png&auto=webp&s=26b7024d5072bbb0683b9d9c1a3d34e596ddfa4e)
 
 Guess what?  Most of these low strike puts were opened around GME's Jan run up!
 

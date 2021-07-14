@@ -168,7 +168,7 @@ Citadel accepts these fines as they aren't high enough to be a deterrent (no sha
 
 Just watch this, he doesn't blink and ABSOLUTELY believes everything he says:
 
-[https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
+![https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
 
 &#x200B;
 

@@ -123,7 +123,7 @@ Most of the hidden volume is running through Nasdaq, with a tie for second place
 
 I could go on with many more charts, but at this point **it is clear that HFTs have used and continue to use hidden orders when trading GME.** **~~This is a special type of order not available to retail investors.~~** 
 
-**EDIT 1 (May 6)**:  u/Musaran2 pointed out that hidden order types actually **are** available to some retail investors, at least those who use Interactive Brokers.  I confirmed it [here](https://www.interactivebrokers.com/en/index.php?f=596).  IB says this about hidden orders (emphasis added):
+**EDIT 1 (May 6)**:  u/Musaran2 pointed out that hidden order types actually **are** available to some retail investors, at least those who use Interactive Brokers.  I confirmed it ![here](https://www.interactivebrokers.com/en/index.php?f=596).  IB says this about hidden orders (emphasis added):
 
 >Investors wishing to hide large-size orders can do use by applying the "Hidden" attribute to a large volume order to completely hide the submitted quantity from the market. **The Hidden order type is a simple solution to maintaining anonymity in the market when trying to buy or sell large amounts of stocks**, options, bonds, warrants, futures or futures options. The Hidden order type is simple to add to the main trading window within TWS and requires a simple check-mark in the box in order to activate. Display the Hidden field from the Layout Manager, and check the Hidden attribute in the order line. Your order is submitted but evidence of the order is hidden from the market.
 

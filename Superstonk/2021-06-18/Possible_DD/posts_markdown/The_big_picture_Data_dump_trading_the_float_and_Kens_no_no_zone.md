@@ -66,4 +66,4 @@ Please share thoughts, critiques, ect. I'm more of data nerd if anyone wants to 
 
 If you need something to jack your tits to.
 
-[https://www.youtube.com/watch?v=HCfVvnF9GOA&t=1s](https://www.youtube.com/watch?v=HCfVvnF9GOA&t=1s)
+![https://www.youtube.com/watch?v=HCfVvnF9GOA&t=1s](https://www.youtube.com/watch?v=HCfVvnF9GOA&t=1s)

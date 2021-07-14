@@ -82,6 +82,6 @@ Gonna keep this post very minimal and ELIA less i confuse people more than i sho
 
 **My own Crap**
 
-[How i see the cycles. More dynamic than static singular equidistant singular lines. The cycles are alive, you can't just put arbitrary equidistant lines and that's that. I think this is a more accurate version of the cycles, but that's just me and who am i to say anything so yeah.](https://preview.redd.it/snuslnqqer971.png?width=2437&format=png&auto=webp&s=57f950ae3f4a0767d975f09b3ef66088b2111f4d)
+![How i see the cycles. More dynamic than static singular equidistant singular lines. The cycles are alive, you can't just put arbitrary equidistant lines and that's that. I think this is a more accurate version of the cycles, but that's just me and who am i to say anything so yeah.](https://preview.redd.it/snuslnqqer971.png?width=2437&format=png&auto=webp&s=57f950ae3f4a0767d975f09b3ef66088b2111f4d)
 
 u/buttfarm69 penis

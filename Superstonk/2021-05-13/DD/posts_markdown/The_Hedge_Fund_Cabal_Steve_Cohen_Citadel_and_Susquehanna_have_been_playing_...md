@@ -166,7 +166,7 @@ Do you see how the pieces are starting to fit together? Could this be the very s
 
 Boy oh boy... could... could that be the same **Wolverine Trading LLC** that is one of the largest options holders of GME as per the latest Bloomberg Terminal data dump, with 23,459 options contracts???
 
-[https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021\_gme\_bloomberg\_terminal\_information/](https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021_gme_bloomberg_terminal_information/)
+![https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021\_gme\_bloomberg\_terminal\_information/](https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021_gme_bloomberg_terminal_information/)
 
 I don’t know about you guys. But I’m **JACKED TO THE TITS** by all these weird “coincidences”.
 
@@ -190,7 +190,7 @@ I don’t know about you guys. But I’m **JACKED TO THE TITS** by all these wei
 
 \- Melvin received a $2.85 billion bailout from Point72 and Citadel in January 2021 during the gamma squeeze. I wonder why...
 
-\- **Susquehanna** is a major institutional player in the GME saga... check out their various GME holdings in the latest Bloomberg terminal data - [https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021\_gme\_bloomberg\_terminal\_information/](https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021_gme_bloomberg_terminal_information/)
+\- **Susquehanna** is a major institutional player in the GME saga... check out their various GME holdings in the latest Bloomberg terminal data - ![https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021\_gme\_bloomberg\_terminal\_information/](https://www.reddit.com/r/DDintoGME/comments/nb063p/12052021_gme_bloomberg_terminal_information/)
 
 \- **Susquehanna** was the institution who objected to the new **OCC rule 2021-003** and is holding up implementation of the same...
 

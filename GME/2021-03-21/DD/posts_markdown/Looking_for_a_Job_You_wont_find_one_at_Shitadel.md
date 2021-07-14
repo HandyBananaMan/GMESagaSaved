@@ -40,7 +40,7 @@ I have been searching to uncover if they've also been shedding employees to save
 
 **P.s.** I'll also note any findings I uncover through the use of the funky letters above.  **💎🙌**
 
-**EDIT:** Findings given post has been up for an hour, I've been running a scraper which refreshes this posts' [JSON](https://www.reddit.com/r/GME/comments/m9vizg/looking_for_a_job_you_wont_find_one_at_shitadel/.json) and stores the upvotes and upvote ratio. So far I have not seen the upvote ratio drop below 99%, which possibly suggests the funky wording above might fuck around with their scraping.
+**EDIT:** Findings given post has been up for an hour, I've been running a scraper which refreshes this posts' ![JSON](https://www.reddit.com/r/GME/comments/m9vizg/looking_for_a_job_you_wont_find_one_at_shitadel/.json) and stores the upvotes and upvote ratio. So far I have not seen the upvote ratio drop below 99%, which possibly suggests the funky wording above might fuck around with their scraping.
 
 I suggest we all start using variations of these funky letters, entering whitespaces, adding hyphens between characters etc... to *FUCK WITH THEIR BOTS*. In my case I'm using Unicode accents Me̿̔̉l̘̝̙̃ͤ͂̾̆vî̩́n =  **Me**\\u033f\\u0314\\u0309**l**\\u0303\\u0364\\u0342\\u033e\\u0306\\u0318\\u031d\\u0319**vi**\\u0302\\u0341\\u0329**n**.
 

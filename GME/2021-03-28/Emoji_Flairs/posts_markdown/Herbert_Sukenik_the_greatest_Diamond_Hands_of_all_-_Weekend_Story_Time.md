@@ -32,4 +32,4 @@ sources:
 
 [A Stubborn NYC Tenant Held Out For An Absolutely Insane Amount Of Money To Finally Leave His Rent-Controlled Apartment by Brian Warner](https://www.celebritynetworth.com/articles/entertainment-articles/stubborn-tenant-holds-absolutely-insane-amount-money-finally-leave-rent-controlled-nyc-apartment/)
 
-[The High-Rise Holdout, New York Style by Randy Kutz](https://www.scotworkusa.com/negotiation-blog/2019/the-high-rise-holdout-new-york-style/)
+![The High-Rise Holdout, New York Style by Randy Kutz](https://www.scotworkusa.com/negotiation-blog/2019/the-high-rise-holdout-new-york-style/)

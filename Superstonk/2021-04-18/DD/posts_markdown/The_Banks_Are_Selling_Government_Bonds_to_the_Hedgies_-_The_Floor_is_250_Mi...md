@@ -172,7 +172,7 @@ Also, why are a bunch of retirement funds 8ks showing 1 gamestop share? Fellow a
 
 And I'll go over why prospectus is important, cause all your banks are frantically filing them to change their contract language.
 
-[Part 1.5](https://www.reddit.com/r/Superstonk/comments/mtt8wg/master_feeder_funds_privately_negotiated_loans/?utm_medium=android_app&utm_source=share)
+![Part 1.5](https://www.reddit.com/r/Superstonk/comments/mtt8wg/master_feeder_funds_privately_negotiated_loans/?utm_medium=android_app&utm_source=share)
 
 Edit: changed billions to TRILLIONS
 

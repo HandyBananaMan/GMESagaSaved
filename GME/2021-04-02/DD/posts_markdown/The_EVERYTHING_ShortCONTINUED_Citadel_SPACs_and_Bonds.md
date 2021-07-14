@@ -610,4 +610,4 @@ Some links -
 
 [Citadel Advisors LLC SEC page](https://sec.report/CIK/0001423053/1#documents)
 
-[More SPAC info](https://www.marketplace.org/2021/02/18/whats-a-spac-a-simple-guide-to-the-investment-trend/)
+![More SPAC info](https://www.marketplace.org/2021/02/18/whats-a-spac-a-simple-guide-to-the-investment-trend/)

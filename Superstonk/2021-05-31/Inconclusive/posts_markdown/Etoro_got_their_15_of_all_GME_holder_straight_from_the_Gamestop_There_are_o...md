@@ -94,7 +94,7 @@ Edit13: according to the following [article](https://www.tradingsitereviews.com/
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 
-*EDIT: if we take our 89M Gme holders and apply the average of 14.5 Shares per holder (provided from* [*Nordnet data*](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)*) we have a minimum of 1.29B shares. this is pure assumption. if we take an absolute conservative number of 2 we still have 178M shares, which is also batshit insane.*
+*EDIT: if we take our 89M Gme holders and apply the average of 14.5 Shares per holder (provided from* ![*Nordnet data*](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)*) we have a minimum of 1.29B shares. this is pure assumption. if we take an absolute conservative number of 2 we still have 178M shares, which is also batshit insane.*
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 

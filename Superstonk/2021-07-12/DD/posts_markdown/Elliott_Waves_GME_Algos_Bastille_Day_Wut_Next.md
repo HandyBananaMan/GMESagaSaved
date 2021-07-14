@@ -116,7 +116,7 @@ Take from this what you will, not sure this constitutes statistical significance
 
 WEN MOON? whenever we get a catalyst that forces closure of short positions. My money is on a dividend, as to when that gets **announced and distributed** is anyone's guess. If 7/14 passes and nothing changes, the only thing that changes with me is my share count, as I will buy more.
 
-As always, if you like intraday analysis I post on my [twitter](https://twitter.com/gavinmayreal) all day, and I did a [video breakdown](https://www.youtube.com/watch?v=3n5g_B1WXMY&t=560s) of SPY and GME yesterday if anyone is interested in seeing how to apply ew step by step.
+As always, if you like intraday analysis I post on my [twitter](https://twitter.com/gavinmayreal) all day, and I did a ![video breakdown](https://www.youtube.com/watch?v=3n5g_B1WXMY&t=560s) of SPY and GME yesterday if anyone is interested in seeing how to apply ew step by step.
 
 Thanks for reading! I'm Jacked as shit and I'm gonna go get high af and stare at fib levels, my definition of a great Monday night.
 

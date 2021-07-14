@@ -20,4 +20,4 @@ Fuck Reuters.  /EndEdit
 
 Article:
 
-[https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS](https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS)
+![https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS](https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS)

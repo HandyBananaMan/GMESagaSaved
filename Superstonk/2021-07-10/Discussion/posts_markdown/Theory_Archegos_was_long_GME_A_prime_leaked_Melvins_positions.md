@@ -240,7 +240,7 @@ Some more tweets:
 
 Fun fact: Bill Hwang's Tiger Asia was long on VW during 2008 and lost out on the short squeeze.
 
-Check out this video to learn more about the Archegos fund and Bill Hwang's risky bets: [https://youtu.be/NtP3xT53dkU](https://youtu.be/NtP3xT53dkU)
+Check out this video to learn more about the Archegos fund and Bill Hwang's risky bets: ![https://youtu.be/NtP3xT53dkU](https://youtu.be/NtP3xT53dkU)
 
 Also Viacom issued shares diluting the stock and the Archegos position causing Bill to be margin called. 
 

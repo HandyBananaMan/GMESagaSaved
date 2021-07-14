@@ -46,6 +46,6 @@ So then why does Bloomberg feel the need to remind us - while telling us about C
 
 This can be a lot to take in if you haven't followed me up until now because each post I have written builds on the next, so here is my timeline up to 4 April. I published this in a post on Sunday night before the mod drama started:
 
-[At 4 April 2021](https://preview.redd.it/81zt6ntjdkr61.png?width=838&format=png&auto=webp&s=fe09641ab61f6084c90aa5e3d2495fe07fd11e15)
+![At 4 April 2021](https://preview.redd.it/81zt6ntjdkr61.png?width=838&format=png&auto=webp&s=fe09641ab61f6084c90aa5e3d2495fe07fd11e15)
 
 **Disclaimer:** Not financial advice. My opinions and errors are my own. Continuing thought experiment of an uninformed ape. I am posting here in r/GME because I want this post to be on record online in connection with GameStop itself, together with all my other previous posts. But if anyone finds this useful and wants to crosspost, please feel free.

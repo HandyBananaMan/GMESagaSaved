@@ -4,7 +4,7 @@
 
 TL;DR: 005 clarifies that all borrowed securities remain in the lenders account. Does this mean all lenders will ask for the shares they are currently loaning out to be placed in their accounts? 
 
-u/EvilBeanz59 asked the below question in [my post about 005](https://www.reddit.com/r/Superstonk/comments/o0rkj7/big_deal_rule_005_prevents_pledged_securities/?utm_source=share&utm_medium=web2x&context=3):
+u/EvilBeanz59 asked the below question in ![my post about 005](https://www.reddit.com/r/Superstonk/comments/o0rkj7/big_deal_rule_005_prevents_pledged_securities/?utm_source=share&utm_medium=web2x&context=3):
 
 https://preview.redd.it/pqu1r1dvtj571.png?width=959&format=png&auto=webp&s=7cf12d62428eed028c64cb4d386561bed105f9a0
 

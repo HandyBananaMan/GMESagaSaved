@@ -90,7 +90,7 @@ Looks like the exponential rocket ignited some time between may 3rd overnight an
 
 &#x200B;
 
-[https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD#](https://preview.redd.it/cwranwpwa3571.png?width=1168&format=png&auto=webp&s=21ba2bd1a8acc7b7f698821f9f9d5cee059fc038)
+![https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD#](https://preview.redd.it/cwranwpwa3571.png?width=1168&format=png&auto=webp&s=21ba2bd1a8acc7b7f698821f9f9d5cee059fc038)
 
 I believe that prior to the NSCC filing being passed and enacted, the SHF have been using DeFi Proof of stake coins to hide a lot of the cash that had been amassed from having sold short soo many shares across the field, not only in GME.
 

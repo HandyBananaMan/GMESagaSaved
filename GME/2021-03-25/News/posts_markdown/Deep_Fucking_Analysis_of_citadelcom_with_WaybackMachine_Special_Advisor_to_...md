@@ -24,7 +24,7 @@ Perry Vais, Global Treasurer and Mark Stainton, Kenny's Special Advisor are gone
 
 &#x200B;
 
-[Jan 20th 2021 on the left. Mar 21st on the right.](https://preview.redd.it/3baqcr0km5p61.png?width=3828&format=png&auto=webp&s=392b6ec005a57501cdd496cc9421c66ac89899d1)
+![Jan 20th 2021 on the left. Mar 21st on the right.](https://preview.redd.it/3baqcr0km5p61.png?width=3828&format=png&auto=webp&s=392b6ec005a57501cdd496cc9421c66ac89899d1)
 
 Isn't it interesting, guys? I tried to google any press releases about these guys leaving, but found nothing. Do you have any information about them leaving? 
 

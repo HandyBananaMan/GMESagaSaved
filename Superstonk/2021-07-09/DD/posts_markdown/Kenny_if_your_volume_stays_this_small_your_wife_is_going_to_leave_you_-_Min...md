@@ -135,7 +135,7 @@ This data is unfortunately skewed a good amount by 7/7, which by itself containe
 
 &#x200B;
 
-[This week has taken years off me](https://preview.redd.it/3nzo4ovzi9a71.jpg?width=225&format=pjpg&auto=webp&s=a321fa585af3355e1763b88365e719e73262e0d0)
+![This week has taken years off me](https://preview.redd.it/3nzo4ovzi9a71.jpg?width=225&format=pjpg&auto=webp&s=a321fa585af3355e1763b88365e719e73262e0d0)
 
 ***Closing thoughts***
 

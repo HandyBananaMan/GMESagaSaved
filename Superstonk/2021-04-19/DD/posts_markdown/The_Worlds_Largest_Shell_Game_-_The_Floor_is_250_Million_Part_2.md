@@ -350,7 +350,7 @@ Another nod to Citigroup, who's been in some trouble lately.
 
 
 
-I get it, so you're like they're all like that, right? Well, smaller companies with a dream and a need to raise capital, they have to file a lot of stuff to get an IPO to be able to offer stock, and THEN hope someone meets the minimum projected capital. Cause, look at [Brix Reit](https://www.sec.gov/Archives/edgar/data/0001723028/000114420419020703/tv519457_40app.htm) trying to raise funds for student housing. I like this company and they seem so much more transparent. And they're [struggling](https://www.sec.gov/Archives/edgar/data/0001723028/000172302821000003/brixreit-202102121uxmessag.htm)
+I get it, so you're like they're all like that, right? Well, smaller companies with a dream and a need to raise capital, they have to file a lot of stuff to get an IPO to be able to offer stock, and THEN hope someone meets the minimum projected capital. Cause, look at [Brix Reit](https://www.sec.gov/Archives/edgar/data/0001723028/000114420419020703/tv519457_40app.htm) trying to raise funds for student housing. I like this company and they seem so much more transparent. And they're ![struggling](https://www.sec.gov/Archives/edgar/data/0001723028/000172302821000003/brixreit-202102121uxmessag.htm)
 
 Considering how many small businesses have filed Beneficial Ownership with big banks, what a shame these guys are struggling so much.
 

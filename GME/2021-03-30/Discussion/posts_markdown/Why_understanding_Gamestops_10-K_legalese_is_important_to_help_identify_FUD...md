@@ -26,7 +26,7 @@ But I digress, let's go back to the point of my post.
 
 This is a screenshot from u/WardenElite's [post yesterday](https://redd.it/mg10gp):
 
-[Character assassination attempt using FUD](https://iili.io/qelmSR.jpg)
+![Character assassination attempt using FUD](https://iili.io/qelmSR.jpg)
 
 Notice anything?
 

@@ -393,7 +393,7 @@ Bad Guys:
 
 &#x200B;
 
-Now we plug in /u/atobitt 's ["Everything Short"](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/) thesis here. I believe Hedge Funds have been taking advantage of the low interest rates that are being gamed. They decide they're going to take this to a whole new extreme through rehypothecation and the repo market.
+Now we plug in /u/atobitt 's !["Everything Short"](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/) thesis here. I believe Hedge Funds have been taking advantage of the low interest rates that are being gamed. They decide they're going to take this to a whole new extreme through rehypothecation and the repo market.
 
 MY OPINION: THIS IS MONEY THEY'RE NEVER GOING TO BE ABLE TO PAY BACK. CITADEL AND FRIENDS ASPIRED TO REACH THE GRAND SIZE THAT THE LIKES OF BLACKROCK AND VANGUARD ARE THROUGH ANY MEANS NECESSARY. I BELIEVE THEY'VE TAKEN ON MASSIVE RISK AND ARE NOW BEING CLOSED IN ON BY THE DTCC + THE SEC WITH THE SOFR ADJUSTMENT. 
 

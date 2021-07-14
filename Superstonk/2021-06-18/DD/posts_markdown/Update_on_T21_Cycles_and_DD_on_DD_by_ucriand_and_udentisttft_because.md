@@ -93,4 +93,4 @@ Seeing this data, I'm JACKED for next week.  We have an upcoming wambo combo on 
 
 **so yeah, here's what I'm looking like this weekend:**
 
-[credit to u\/encab91](https://preview.redd.it/9s1ozooxo9671.png?width=512&format=png&auto=webp&s=16947e5dbfff3a34b5faeb963cb2a68b190f5602)
+![credit to u\/encab91](https://preview.redd.it/9s1ozooxo9671.png?width=512&format=png&auto=webp&s=16947e5dbfff3a34b5faeb963cb2a68b190f5602)

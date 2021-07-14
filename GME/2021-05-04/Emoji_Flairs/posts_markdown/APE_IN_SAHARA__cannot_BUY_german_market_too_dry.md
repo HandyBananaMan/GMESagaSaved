@@ -12,7 +12,7 @@ I have 3 pending orders with limits at 136€, 137 and 139 (ATM 135,86) since 45
 
 Have a good day!
 
-[https://preview.redd.it/08u05vf9w2x61.jpg?width=1920&format=pjpg&auto=webp&s=6234437c00b1031e75f3582f4823298f54892fab](https://preview.redd.it/08u05vf9w2x61.jpg?width=1920&format=pjpg&auto=webp&s=6234437c00b1031e75f3582f4823298f54892fab)
+![https://preview.redd.it/08u05vf9w2x61.jpg?width=1920&format=pjpg&auto=webp&s=6234437c00b1031e75f3582f4823298f54892fab](https://preview.redd.it/08u05vf9w2x61.jpg?width=1920&format=pjpg&auto=webp&s=6234437c00b1031e75f3582f4823298f54892fab)
 
 **edit 1:17pm (GMT+2)** \- orders went through, took 1h10 to execute
 

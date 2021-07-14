@@ -41,7 +41,7 @@ I looked up the top 10 holdings of the index (as of end of Jan this year) and ro
 
 [Amazon: Closed down -0.46&#37; but formed a beautiful doji, and went on to close +14.71&#37; in July and +9.05&#37; in August.](https://preview.redd.it/iufgnzm5lf671.jpg?width=1125&format=pjpg&auto=webp&s=259a5ea2d6b25fad102839c66070d9d401326e56)
 
-[Johnson & Johnson: Increased +0.89&#37; on the 29th, then had a +3.65&#37; close in July and a +5.25&#37; increase for the month of August.](https://preview.redd.it/qajz12n5lf671.jpg?width=1125&format=pjpg&auto=webp&s=eaf50612554a15660be5de1bcdcb6f2ef0f3c604)
+![Johnson & Johnson: Increased +0.89&#37; on the 29th, then had a +3.65&#37; close in July and a +5.25&#37; increase for the month of August.](https://preview.redd.it/qajz12n5lf671.jpg?width=1125&format=pjpg&auto=webp&s=eaf50612554a15660be5de1bcdcb6f2ef0f3c604)
 
 &#x200B;
 

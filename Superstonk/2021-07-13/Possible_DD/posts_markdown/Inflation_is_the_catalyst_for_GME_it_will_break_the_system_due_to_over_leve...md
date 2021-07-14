@@ -134,7 +134,7 @@ I know the market will crash soon due to inflation, because black rock is buying
 
 Black rock controls over $9 trillion in assets, this is their hedge against inflation and rising interest rates. Black rock is now IMO in the asset protection mode, they know that the stock market will crash soon, they have signaled it in an article here:
 
-[https://www.cnbc.com/2021/07/07/blackrock-downgrades-us-stocks-says-reopening-momentum-is-peaking.html](https://www.cnbc.com/2021/07/07/blackrock-downgrades-us-stocks-says-reopening-momentum-is-peaking.html)
+![https://www.cnbc.com/2021/07/07/blackrock-downgrades-us-stocks-says-reopening-momentum-is-peaking.html](https://www.cnbc.com/2021/07/07/blackrock-downgrades-us-stocks-says-reopening-momentum-is-peaking.html)
 
 Asset protection is a real strategy for most banks/institutions. 
 

@@ -4,7 +4,7 @@
 
 Happy Friday fam!  You know what this post is?  *Not financial advice.*
   
-If you haven't already, I highly suggest reading u/beowulf77's post of u/WuzGoodieN1gz 's DD, [here](https://www.reddit.com/r/GME/comments/m844o8/not_all_sells_are_enemies/).  It's really good.  
+If you haven't already, I highly suggest reading u/beowulf77's post of u/WuzGoodieN1gz 's DD, ![here](https://www.reddit.com/r/GME/comments/m844o8/not_all_sells_are_enemies/).  It's really good.  
   
 Now, you might be left asking after closing at 200 today: wHy DIdN't tHeRe bE sQueeZEs FoR mUh TEnDieS tOdAY?  
   

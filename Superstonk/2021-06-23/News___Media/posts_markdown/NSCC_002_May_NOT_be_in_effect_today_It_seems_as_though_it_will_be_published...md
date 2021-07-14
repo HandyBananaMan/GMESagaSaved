@@ -6,6 +6,6 @@ https://preview.redd.it/jzxzpop651771.png?width=845&format=png&auto=webp&s=d1216
 
 So the Federal Register has put up the 002 rule. The DTCC has said its effective today. It looks like we might be in a grey area for the rule. Either way it looks like it will DEFINITELY be in effect tomorrow.
 
-[https://public-inspection.federalregister.gov/2021-13413.pdf](https://public-inspection.federalregister.gov/2021-13413.pdf)
+![https://public-inspection.federalregister.gov/2021-13413.pdf](https://public-inspection.federalregister.gov/2021-13413.pdf)
 
 Edit: If im understanding this correctly it may be that the DTCC has the option to enforce this rule today at their own will. And we all know which side the DTCC is on. But once its on the Federal register, its legit. 

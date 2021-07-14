@@ -60,7 +60,7 @@ If we look closer into the **Net Income estimate** we see that the current conse
 
 &#x200B;
 
-[GameStop Growth Estimates](https://preview.redd.it/mtg9ciaatmo61.png?width=1920&format=png&auto=webp&s=6768af3b0ab5ee773d0ea2633753afa2a42ebe6b)
+![GameStop Growth Estimates](https://preview.redd.it/mtg9ciaatmo61.png?width=1920&format=png&auto=webp&s=6768af3b0ab5ee773d0ea2633753afa2a42ebe6b)
 
 Here are also some future estimates **for the next quarters** and they are looking quite good. The percentages you see are all **YoY Growth rates**.
 

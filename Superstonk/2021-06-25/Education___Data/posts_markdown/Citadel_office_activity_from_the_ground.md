@@ -17,5 +17,5 @@ Now, this is a huge building that's probably full of many businesses, but you sh
 ---
 
 ***This is not financial advice!***  
-*This post was **anonymously** submitted via **[www.superstonk.net](https://www.superstonk.net/)** and reviewed by our team.
+*This post was **anonymously** submitted via **![www.superstonk.net](https://www.superstonk.net/)** and reviewed by our team.
 Submitted posts are unedited and published as long as they follow r/Superstonk rules.*

@@ -4,7 +4,7 @@
 
 &#x200B;
 
-[Tried to exercise a $50 26Feb21 Call Option, with ample funds in account to purchase 100 shares with cash, and the order was rejected.  ](https://preview.redd.it/avrxqbgwcuj61.png?width=662&format=png&auto=webp&s=cf35ae0f56aaa9bcb3d6c12da7a7d229656ee5f5)
+![Tried to exercise a $50 26Feb21 Call Option, with ample funds in account to purchase 100 shares with cash, and the order was rejected.  ](https://preview.redd.it/avrxqbgwcuj61.png?width=662&format=png&auto=webp&s=cf35ae0f56aaa9bcb3d6c12da7a7d229656ee5f5)
 
 **Update to Update**, because I see so many people still have a lot of questions.  This is everything I can think to tell you:
 

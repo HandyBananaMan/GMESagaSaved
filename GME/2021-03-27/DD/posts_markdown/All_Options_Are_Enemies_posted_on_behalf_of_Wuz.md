@@ -16,7 +16,7 @@ Notice how the entire call and put option spread is owned by net short positions
 
 EMBRACE THE GRIND. BUY THE DIP AND HODL.
 
-[https://www.youtube.com/watch?v=kbsTAWcjt0o](https://www.youtube.com/watch?v=kbsTAWcjt0o)
+![https://www.youtube.com/watch?v=kbsTAWcjt0o](https://www.youtube.com/watch?v=kbsTAWcjt0o)
 
 ——
 From beowulf77:

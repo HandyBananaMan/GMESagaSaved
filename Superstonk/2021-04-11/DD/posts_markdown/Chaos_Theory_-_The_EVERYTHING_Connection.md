@@ -14,7 +14,7 @@ EDIT 5: It is not my intention to make this community appear as a team of conspi
 
 EDIT 6: Look I get it, some of you feel that the fact we have tax havens around the world AREN'T a big deal. What is interesting however is that all these players are registered to the same place, and it appears that the government wants to do something about it
 
-EDIT 7 (April 12th, 2021): We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: [https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
+EDIT 7 (April 12th, 2021): We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: ![https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
 
 EDIT 8:   In-case you're curious, the former SEC chairman, **Jay Clayton** (brought in during the Trump administration) just took a job at **Apollo Global Management** (which \[Tiger Global Management\] holds a 14.8% stake in, making them the largest shareholder of Apollo other than a private holdings company from Apollo themselves (BRH) ([https://fintel.io/so/us/apo](https://fintel.io/so/us/apo))); 
 
@@ -303,7 +303,7 @@ As I was compiling this information look for no further than the POTUS himself f
 
 >*I've also proposed a global minimum tax... Let me tell you what the means, that means companies won't be able to hide their incomes in places like the Cayman Islands or Bermuda*
 
-**EDIT (April 12th, 2021):** We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: [https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
+**EDIT (April 12th, 2021):** We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: ![https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
 
 &#x200B;
 

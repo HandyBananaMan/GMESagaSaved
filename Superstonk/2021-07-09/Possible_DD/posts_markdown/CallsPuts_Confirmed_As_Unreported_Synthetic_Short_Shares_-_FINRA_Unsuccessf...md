@@ -42,7 +42,7 @@ But what would happen if a company so severely shorted reimagined itself, found 
 
 [Margin Debt 1997 - Current \(Source: FINRA\)](https://preview.redd.it/6zyntbass7a71.jpg?width=558&format=pjpg&auto=webp&s=1ccb5a9307aeab561438a541af100e8794207275)
 
-[S&P Share Price 1997 - May 2021 \(Source: https:\/\/www.multpl.com\/s-p-500-historical-prices\/table\/by-month\)](https://preview.redd.it/1j6w8gf4t7a71.jpg?width=555&format=pjpg&auto=webp&s=30ecc48bbca580af33be9fb090e09cf92323f5b4)
+![S&P Share Price 1997 - May 2021 \(Source: https:\/\/www.multpl.com\/s-p-500-historical-prices\/table\/by-month\)](https://preview.redd.it/1j6w8gf4t7a71.jpg?width=555&format=pjpg&auto=webp&s=30ecc48bbca580af33be9fb090e09cf92323f5b4)
 
 June margin debt numbers will be interesting to keep an eye on if we haven’t begun our long awaited journey by that time. The numbers should be released by the 15th of this month.
 

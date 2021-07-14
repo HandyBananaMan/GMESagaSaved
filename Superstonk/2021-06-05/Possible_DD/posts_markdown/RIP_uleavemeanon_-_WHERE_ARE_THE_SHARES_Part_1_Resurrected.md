@@ -228,7 +228,7 @@ Another 1.3 million GME.
 
 *last but not least*
 
-[Wedbush back at it again with](https://www.stocklaw.com/securities-fraud-blog/2019/june/wedbushs-latest-penalty-is-an-8-1-million-sec-fi/) **GAMR** \- (1.42% GME) - **70.77m shares outstanding and 190,000 institutional ownership.**
+![Wedbush back at it again with](https://www.stocklaw.com/securities-fraud-blog/2019/june/wedbushs-latest-penalty-is-an-8-1-million-sec-fi/) **GAMR** \- (1.42% GME) - **70.77m shares outstanding and 190,000 institutional ownership.**
 
 Another million.
 

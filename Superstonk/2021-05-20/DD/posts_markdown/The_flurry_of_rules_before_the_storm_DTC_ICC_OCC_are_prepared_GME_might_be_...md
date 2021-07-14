@@ -156,7 +156,7 @@ The first T+35 spike is more significant than the T+21 spikes. Check it out. **I
 
 Guess what? This happens in AMC too. You can apply this to KOSS as well, and find the same exact patterns. Anyone want to have fun and check more meme stocks? Be my guest!
 
-[AMC T+35 and T+21 Loop](https://preview.redd.it/ukts9ax547071.png?width=1432&format=png&auto=webp&s=8bbb4512b90d99eec4530ca76dc5198779a4b050)
+![AMC T+35 and T+21 Loop](https://preview.redd.it/ukts9ax547071.png?width=1432&format=png&auto=webp&s=8bbb4512b90d99eec4530ca76dc5198779a4b050)
 
 See that shit? We're lining up for not just a T+35 spike, but a T+21 spike **one day after another next week**. This is going to effect **all** meme stocks if the cycle continues and April 16th actually triggers another loop.
 

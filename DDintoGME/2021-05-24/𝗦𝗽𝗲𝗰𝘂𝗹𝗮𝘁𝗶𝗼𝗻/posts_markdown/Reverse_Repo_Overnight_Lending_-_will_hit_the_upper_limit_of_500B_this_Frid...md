@@ -16,4 +16,4 @@ Another ape posted some useful commentary on what it might mean when it hits $50
 
 Edit2:
 
-u/BlindAsBalls did some DD on the true limit of reverse repo and it may be as high as $4.5T but is still $80B per participant: [https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response\_to\_the\_post\_about\_the\_reverse\_repo\_limit/](https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/)
+u/BlindAsBalls did some DD on the true limit of reverse repo and it may be as high as $4.5T but is still $80B per participant: ![https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response\_to\_the\_post\_about\_the\_reverse\_repo\_limit/](https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/)

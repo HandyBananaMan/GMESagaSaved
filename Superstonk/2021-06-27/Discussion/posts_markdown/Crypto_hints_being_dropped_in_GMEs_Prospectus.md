@@ -48,7 +48,7 @@ Most critically, and most tactically awesome: this isn't a compulsory program. N
 
 Link to the relevant portion of the Prospectus here:
 
-[Prospectus](https://gamestop.gcs-web.com/node/18961/html#supprom192873_27)
+![Prospectus](https://gamestop.gcs-web.com/node/18961/html#supprom192873_27)
 
 **TL;DR**
 

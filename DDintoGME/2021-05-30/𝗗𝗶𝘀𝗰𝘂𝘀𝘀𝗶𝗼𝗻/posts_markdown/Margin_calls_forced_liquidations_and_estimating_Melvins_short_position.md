@@ -61,7 +61,7 @@ The above examples all use shorts opened $40 and below. As we all know and specu
 
 **EDIT: The obligatory link that apes like.** [**See here**](https://www.tdameritrade.com/retail-en_us/resources/pdf/AMTD086.pdf) **- this document is from TD Ameritrade called the Margin Handbook and describes margin, margin requirements, and margin calls in detail.**
 
-**EDIT2:** [u/lvprentiss9](https://www.reddit.com/u/lvprentiss9/) asked a question in the comments about Melvin getting their $2b+ cash infusion. This gave me an interesting thought. We can estimate Melvin's short position as of that date. Not exact of course, just a ballpark to get a feel for what we're talking about here.
+**EDIT2:** ![u/lvprentiss9](https://www.reddit.com/u/lvprentiss9/) asked a question in the comments about Melvin getting their $2b+ cash infusion. This gave me an interesting thought. We can estimate Melvin's short position as of that date. Not exact of course, just a ballpark to get a feel for what we're talking about here.
 
 **SPECULATION TIME**
 

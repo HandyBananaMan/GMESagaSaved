@@ -304,7 +304,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 &#x200B;
 
-EDIT: [Breaking News- IBKR changes its terms of service (in preparation for MOASS?)](https://www.reddit.com/r/Superstonk/comments/nahwr5/warning_ibkr_is_changing_its_terms_of_services_in/?utm_source=share&utm_medium=web2x&context=3)
+EDIT: ![Breaking News- IBKR changes its terms of service (in preparation for MOASS?)](https://www.reddit.com/r/Superstonk/comments/nahwr5/warning_ibkr_is_changing_its_terms_of_services_in/?utm_source=share&utm_medium=web2x&context=3)
 
 Mod comment from u/leaglese:
 

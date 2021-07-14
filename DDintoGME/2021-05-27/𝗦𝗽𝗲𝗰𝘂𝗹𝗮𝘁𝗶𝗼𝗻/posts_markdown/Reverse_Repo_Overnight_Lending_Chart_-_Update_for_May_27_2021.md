@@ -27,7 +27,7 @@ Keep on HODLin', friends! 🚀🚀🚀
 
 Edit:
 
-Our friend u/wehadmagnets was kind enough to get the walled FT article for me "US investors park cash at Fed as market wrestles with negative yields" from here: [https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f](https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f).
+Our friend u/wehadmagnets was kind enough to get the walled FT article for me "US investors park cash at Fed as market wrestles with negative yields" from here: ![https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f](https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f).
 
 TA;DR:
 

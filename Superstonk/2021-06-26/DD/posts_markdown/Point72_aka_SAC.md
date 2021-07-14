@@ -178,4 +178,4 @@ edit 2- submitted by banks\_y: Cohen hates the nickname Stevie so I will refer t
 
 edit3- Tribune-of-the-plebs points out more dd on point72 here  [https://www.reddit.com/r/Superstonk/comments/nbqbrc/the\_hedge\_fund\_cabal\_steve\_cohen\_citadel\_and/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/nbqbrc/the_hedge_fund_cabal_steve_cohen_citadel_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
-edit 4- a really good write up on Stevie  [https://www.reddit.com/r/Superstonk/comments/nb0261/a\_dd\_into\_steven\_a\_cohen\_one\_of\_the\_main\_villains/](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/)
+edit 4- a really good write up on Stevie  ![https://www.reddit.com/r/Superstonk/comments/nb0261/a\_dd\_into\_steven\_a\_cohen\_one\_of\_the\_main\_villains/](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/)

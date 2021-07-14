@@ -6,7 +6,7 @@ Need a wrinkly brain to explain this to me. Regardless of explanation, no one he
 
 Fuck these HF's and regulatory bodies. A 275k fine is fucking nothing to them.
 
-[https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/](https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/)
+![https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/](https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/)
 
 &#x200B;
 

@@ -6,7 +6,7 @@ You may not be on social media, but this isn’t just about you. This is about a
 
 [Example](https://i.imgur.com/ZryrMkY.jpg)
 
-[Another example ](https://twitter.com/roguethelegacy/status/1407062626849509377?s=21)
+![Another example ](https://twitter.com/roguethelegacy/status/1407062626849509377?s=21)
 
 We are moving into the FUD endgame. The seeds are being planted right in the open right now. We need to be vigilant and exterminate this before it gets out of control. 
 

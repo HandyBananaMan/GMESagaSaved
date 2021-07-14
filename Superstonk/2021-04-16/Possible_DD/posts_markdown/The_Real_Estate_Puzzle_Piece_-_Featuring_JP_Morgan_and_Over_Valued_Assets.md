@@ -142,7 +142,7 @@ I don’t fully understand this so im just gonna leave it here in case someone e
 
 but I think its just saying Palafox sponsored itself, Citadel Global Fixed Income Master Fund, so they could clear cash and repo trades faster.
 
-[In April, JP Morgan became the first member](https://www.thetradenews.com/jp-morgan-clears-first-repo-new-dtcc-sponsor-programme/) under the DTCC’s fixed income sponsor member programme to clear a repo transaction.
+![In April, JP Morgan became the first member](https://www.thetradenews.com/jp-morgan-clears-first-repo-new-dtcc-sponsor-programme/) under the DTCC’s fixed income sponsor member programme to clear a repo transaction.
 
 Its just weird to me that these two end up in another article together but seemingly unrelated, idk I need another ape to elaborate on this one, I’m beat.
 

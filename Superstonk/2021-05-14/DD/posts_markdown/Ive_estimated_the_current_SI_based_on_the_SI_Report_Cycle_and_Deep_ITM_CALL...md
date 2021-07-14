@@ -102,7 +102,7 @@ Per /u/Dan_Bren, between March 1st and March 11th, inclusive, [there were approx
 
 In another post, on April 1st, [there were approximately 5,960 Deep ITM CALLs purchased](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/). Likewise, this equates to **5,960 \* 100 = 596,000 synthetic shares on April 1st.**
 
-[Figure 5: Cumulative Deep ITM CALL Volumes, March 1st to March 11th](https://preview.redd.it/eznmnbrc20z61.png?width=1890&format=png&auto=webp&s=c3002fadc94ca03ab92d3a4b17f322f97c2c5091)
+![Figure 5: Cumulative Deep ITM CALL Volumes, March 1st to March 11th](https://preview.redd.it/eznmnbrc20z61.png?width=1890&format=png&auto=webp&s=c3002fadc94ca03ab92d3a4b17f322f97c2c5091)
 
 Look at the volumes between March 1st and March 11th compared to everything else. Oof. All those blips of ITM CALL anomalies is nothing compared to January and the spike in February.
 

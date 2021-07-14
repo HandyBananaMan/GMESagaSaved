@@ -337,7 +337,7 @@ Edit 1:
 
 STOP POSTING YOUR POSITIONS!
 
-[https://www.reddit.com/r/GME/comments/m71xqx/stop\_posting\_your\_positions/](https://www.reddit.com/r/GME/comments/m71xqx/stop_posting_your_positions/)
+![https://www.reddit.com/r/GME/comments/m71xqx/stop\_posting\_your\_positions/](https://www.reddit.com/r/GME/comments/m71xqx/stop_posting_your_positions/)
 
 &#x200B;
 

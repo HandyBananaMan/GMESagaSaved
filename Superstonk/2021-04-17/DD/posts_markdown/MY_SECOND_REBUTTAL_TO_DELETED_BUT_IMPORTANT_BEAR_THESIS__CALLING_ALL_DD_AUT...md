@@ -138,6 +138,6 @@ which gives us an overestimate of 39% of the float being covered—and yields a 
 
 It is worth noting that although the graph shows two separate blocks of FTD resets (6.6m for the first, 30m for the second), there is no two week gap between these blocks (as there is between these blocks and the next block, and between the next block and the beginning of the third block) which has led me to characterize the entire January 1 to February 4 period as one FTD reset cycle, the first of three. You sort of do this as well when you use the full 36 million figure (as you should) instead of using 6.6m and 30m separately.
 
-Edit: Part 2 is at [https://www.reddit.com/r/Superstonk/comments/msm7fo/my\_second\_rebuttal\_to\_deleted\_but\_important\_bear/](https://www.reddit.com/r/Superstonk/comments/msm7fo/my_second_rebuttal_to_deleted_but_important_bear/)
+Edit: Part 2 is at ![https://www.reddit.com/r/Superstonk/comments/msm7fo/my\_second\_rebuttal\_to\_deleted\_but\_important\_bear/](https://www.reddit.com/r/Superstonk/comments/msm7fo/my_second_rebuttal_to_deleted_but_important_bear/)
 
 Edit 2: If you don't want to read the whole thing, I'd say you should at least read sections 4.1 and 5.2

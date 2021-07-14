@@ -239,7 +239,7 @@ For example let's say you have set TP to $980 and the current price is $150. MOA
 
 Please take a look at what these fucking retards are posting:
 
-[Raw example of clueless ape reposting things he doesn't understand because of fear.](https://preview.redd.it/jmte7lzso3171.png?width=661&format=png&auto=webp&s=5f334a74eb2b26c99eada33f3ba419fdfcb4c8b0)
+![Raw example of clueless ape reposting things he doesn't understand because of fear.](https://preview.redd.it/jmte7lzso3171.png?width=661&format=png&auto=webp&s=5f334a74eb2b26c99eada33f3ba419fdfcb4c8b0)
 
 &#x200B;
 

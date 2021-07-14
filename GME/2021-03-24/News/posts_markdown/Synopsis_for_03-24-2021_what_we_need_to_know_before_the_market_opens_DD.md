@@ -312,7 +312,7 @@ Edit 1:
 
 Reevaluating senior board members
 
-On page 17 of:[https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593)
+On page 17 of:![https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593)
 
     Turnover in our senior management or our inability to attract and retain qualified personnel could have a material adverse impact on our business and results of operations.
     

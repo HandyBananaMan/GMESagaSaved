@@ -125,7 +125,7 @@ Edit 1: What if the Dark Pools are largely being used for the married put trades
 
 Edit 2: [u/Cuttingwater\_](https://www.reddit.com/u/Cuttingwater_/) helped look into the options and found this:
 
->[@broccaaa](https://www.reddit.com/user/broccaaa) if you tally up all puts <25$ (which just seem like write offs and would never be used) purchased for all available options dates, we are looking at > 150% of the float  
+>![@broccaaa](https://www.reddit.com/user/broccaaa) if you tally up all puts <25$ (which just seem like write offs and would never be used) purchased for all available options dates, we are looking at > 150% of the float  
 208% if you include all puts OTM
 
 I will add this to the main text. Could suggest that at least 150% is naked short sold. Other options as part of the scam could've already expired meaning this is a lower bound.

@@ -81,7 +81,7 @@ The **red line is what I think the OBV SHOULD look like for the current stock pr
 
 **Stake:** Shares in GME
 
-[This is an update to my previous post on OBV and I have had several people ask for an update.](https://www.reddit.com/r/GME/comments/m6fjld/the_ultimate_fud_killer_definitive_proof_that/)
+![This is an update to my previous post on OBV and I have had several people ask for an update.](https://www.reddit.com/r/GME/comments/m6fjld/the_ultimate_fud_killer_definitive_proof_that/)
 
 &#x200B;
 

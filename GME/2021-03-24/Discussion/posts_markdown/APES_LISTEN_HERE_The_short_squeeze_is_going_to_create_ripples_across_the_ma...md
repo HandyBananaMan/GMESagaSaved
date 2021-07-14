@@ -70,7 +70,7 @@ Edit 69: When the price ~~drops~~ gets such a nice discount its your job to help
 
 &#x200B;
 
-[You the true AMA \(Alpha Male APE\)](https://i.redd.it/g8p14e7ydzo61.gif)
+![You the true AMA \(Alpha Male APE\)](https://i.redd.it/g8p14e7ydzo61.gif)
 
 &#x200B;
 

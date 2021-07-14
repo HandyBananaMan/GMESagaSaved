@@ -10,7 +10,7 @@ P.S. I would love to hear from Paul Wilmott now, but I think he keeps out of the
 
 Another serious wrinkle brain, Haim Bodek used his experience at previous investment firms to create a high frequency trading company in 2007. (Edit: A glimpse into the history of high frequency trading and automation on wall street and including interviews with u/dlauer)
 
-[Flash Crash 2010 (2011)](https://youtu.be/aq1Ln1UCoEU) \- May 6th 2010, an incredible market crash happened. Hear from traders, analysts and journalists (an most importantly, Paul Wilmott again!) about experiencing the most unprecedented market crash - then recovery - in market history (up until that point).
+![Flash Crash 2010 (2011)](https://youtu.be/aq1Ln1UCoEU) \- May 6th 2010, an incredible market crash happened. Hear from traders, analysts and journalists (an most importantly, Paul Wilmott again!) about experiencing the most unprecedented market crash - then recovery - in market history (up until that point).
 
 This is just a great story, and give you a little peak into the madness that happens when the market runs away from the people who try to control it.
 

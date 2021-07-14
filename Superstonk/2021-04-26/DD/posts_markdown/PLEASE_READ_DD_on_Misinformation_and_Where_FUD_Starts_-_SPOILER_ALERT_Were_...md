@@ -219,7 +219,7 @@ I'm also asking mods to enforce their duplicate post rules more aggressively or 
 
 EDIT:
 
-Just to add in an even more recent example of exactly what I’m pointing out in this post. The [new Daily Post](https://www.reddit.com/r/Superstonk/comments/myuecm/superstonk_daily_04262021/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) just included an entire section on the idea that GME is urging people to vote this year. THIS IS FALSE. 
+Just to add in an even more recent example of exactly what I’m pointing out in this post. The ![new Daily Post](https://www.reddit.com/r/Superstonk/comments/myuecm/superstonk_daily_04262021/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) just included an entire section on the idea that GME is urging people to vote this year. THIS IS FALSE. 
 
 Again, it’s false information getting picked up and spread around. 
 

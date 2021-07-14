@@ -280,7 +280,7 @@ Oh, and to reiterate from the first post:
 
 So they don't have to report these shares - that's bad enough. But what's that part at the end? Does that imply the AP's who *are* institutional buyers *can* receive "restricted securities eligible for resale"? How much borrowing do they have to account for *in the prospectus?*
 
-(( The very *existence* of this mechanism depicts the chasm between Wall Street and the public. They would say it improves liquidity and decreases volatility. I would say it's potentially manipulative, potentially *deflationary* to underlying securities, and I'd argue that [**it's actually major culprit in liquidity issues**](https://scholar.harvard.edu/files/kevin_pan/files/etfarbunderliqmismatch.pdf). Which isn't so surprising since it's the very mechanism siphoning liquidity away in the first place. ))
+(( The very *existence* of this mechanism depicts the chasm between Wall Street and the public. They would say it improves liquidity and decreases volatility. I would say it's potentially manipulative, potentially *deflationary* to underlying securities, and I'd argue that ![**it's actually major culprit in liquidity issues**](https://scholar.harvard.edu/files/kevin_pan/files/etfarbunderliqmismatch.pdf). Which isn't so surprising since it's the very mechanism siphoning liquidity away in the first place. ))
 
 //
 

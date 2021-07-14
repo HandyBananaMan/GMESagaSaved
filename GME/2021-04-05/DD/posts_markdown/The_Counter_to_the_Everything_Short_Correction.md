@@ -104,4 +104,4 @@ In reality, people should already be in jail for this because they have/been bre
 
 🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗
 
-[Part 2: World War 3](https://www.reddit.com/r/GME/comments/mm959z/world_war_3_longs_vs_shorts/?utm_medium=android_app&utm_source=share)
+![Part 2: World War 3](https://www.reddit.com/r/GME/comments/mm959z/world_war_3_longs_vs_shorts/?utm_medium=android_app&utm_source=share)

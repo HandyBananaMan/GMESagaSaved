@@ -29,6 +29,6 @@ If you have a lot to say, please make a post instead. Familiarize yourself with 
 
 * Made with ❤️ by the r/GME mod team.
 
-💎 [**Previous Mega Threads**](https://www.reddit.com/r/GME/comments/nngw7n/rgme_megathread_for_saturday_may_29_2021/?utm_medium=android_app&utm_source=share) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 [**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
+💎 [**Previous Mega Threads**](https://www.reddit.com/r/GME/comments/nngw7n/rgme_megathread_for_saturday_may_29_2021/?utm_medium=android_app&utm_source=share) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 ![**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
 
 r/GME Megathreads are posted daily at 2:00 a.m. EST

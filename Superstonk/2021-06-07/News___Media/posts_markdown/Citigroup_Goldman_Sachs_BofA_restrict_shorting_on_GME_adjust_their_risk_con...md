@@ -30,7 +30,7 @@ https://preview.redd.it/1zai4bphpv371.jpg?width=640&format=pjpg&auto=webp&s=374e
 
 For those unaware:
 
-1. [Bank of America is the prime broker for 96% of Citadel’s “activities”](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/).
+1. ![Bank of America is the prime broker for 96% of Citadel’s “activities”](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/).
 2. BofA recently terminated analyst coverage of GME.
 3. On June 4, BofA also restricted short positions on GME and increased collateral requirements for existing positions.
 4. Citigroup, Goldman Sachs did the same.

@@ -179,6 +179,6 @@ backups:
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 **Countdown to the Annual shareholder meeting 6 days to go**

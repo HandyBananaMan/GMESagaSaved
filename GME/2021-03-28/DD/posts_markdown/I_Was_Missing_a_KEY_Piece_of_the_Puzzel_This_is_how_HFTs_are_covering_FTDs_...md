@@ -333,6 +333,6 @@ Edit: Readability changes
 
 Edit: Thanks the the suport everyone. I've just woken up - so i'll go through your comments today and respond. Keep in mind there are nearly a thousand, if you have a valid point or really want to ask, PM me!
 
-**Edit:** Checkout my [collaborators comment](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/gsl7jsq?utm_source=share&utm_medium=web2x&context=3) in regards to ALO in particular, thanks u/SmithEchoes
+**Edit:** Checkout my ![collaborators comment](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/gsl7jsq?utm_source=share&utm_medium=web2x&context=3) in regards to ALO in particular, thanks u/SmithEchoes
 
 Edit: Added acronym legend, sorry for those newer apes for using a bunch of them without saying what they were.

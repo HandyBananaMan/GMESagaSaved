@@ -21,6 +21,6 @@ For a full summary, please view
 
 EDIT1: Link to the DTCC 2021-005 - Date: 04/01/2021Description: Modify the DTC Settlement Service Guide and the Form of DTC Pledgee’s Agreement
 
-[https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2021/04/SR-DTC-2021-005-2.pdf](https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2021/04/SR-DTC-2021-005-2.pdf)
+![https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2021/04/SR-DTC-2021-005-2.pdf](https://mk0thetokenist81xfs9.kinstacdn.com/wp-content/uploads/2021/04/SR-DTC-2021-005-2.pdf)
 
 EDIT2: No dates or timeframe whatsoever; Just HoDL 💎🙌 - this is not a financial advice!

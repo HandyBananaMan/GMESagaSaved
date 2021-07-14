@@ -30,4 +30,4 @@ Image Source: [https://imgur.com/gallery/jOMYThR](https://imgur.com/gallery/jOMY
 
 &#x200B;
 
-[4. Russell Investment Company](https://preview.redd.it/blzrd7w63yv61.png?width=828&format=png&auto=webp&s=e75f814d645d37d0209a4851ba07de65d534fbb6)
+![4. Russell Investment Company](https://preview.redd.it/blzrd7w63yv61.png?width=828&format=png&auto=webp&s=e75f814d645d37d0209a4851ba07de65d534fbb6)

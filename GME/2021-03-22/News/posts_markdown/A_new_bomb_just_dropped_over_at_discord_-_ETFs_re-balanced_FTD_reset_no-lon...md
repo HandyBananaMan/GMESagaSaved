@@ -18,6 +18,6 @@ Edit: u/Turdfurg23 claims that he's the originator of the idea/DD.
 
 [https://imgur.com/gallery/a6NdcMg](https://imgur.com/gallery/a6NdcMg)
 
-[His comment on this thread](https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/grwgy3i?utm_source=share&utm_medium=web2x&context=3)
+![His comment on this thread](https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/grwgy3i?utm_source=share&utm_medium=web2x&context=3)
 
 No matter whose DD it is, appreciate your work, and look forward to the formal DD post!

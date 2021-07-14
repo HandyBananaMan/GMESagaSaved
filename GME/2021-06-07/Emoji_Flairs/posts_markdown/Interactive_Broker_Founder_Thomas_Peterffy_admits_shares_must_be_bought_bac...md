@@ -4,7 +4,7 @@
 
 This is a link to the 10 min. version video... the last 6 seconds is what counts!
 
-[https://www.youtube.com/watch?v=kV\_P8wnY854](https://www.youtube.com/watch?v=kV_P8wnY854)
+![https://www.youtube.com/watch?v=kV\_P8wnY854](https://www.youtube.com/watch?v=kV_P8wnY854)
 
 https://reddit.com/link/nu5m47/video/1egbm1h7ds371/player
 

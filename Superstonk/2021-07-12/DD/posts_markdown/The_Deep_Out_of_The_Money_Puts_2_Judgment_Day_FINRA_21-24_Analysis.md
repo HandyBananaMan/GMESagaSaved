@@ -54,7 +54,7 @@ Sorry for adding the date, but hot damn...7/16 is already hyped enough, what's a
 
 &#x200B;
 
-[Buy and Hodl](https://preview.redd.it/jdnx33v86va71.png?width=487&format=png&auto=webp&s=360d9f6d57587ef8d236d7bb1688b6c83baa5faf)
+![Buy and Hodl](https://preview.redd.it/jdnx33v86va71.png?width=487&format=png&auto=webp&s=360d9f6d57587ef8d236d7bb1688b6c83baa5faf)
 
 &#x200B;
 

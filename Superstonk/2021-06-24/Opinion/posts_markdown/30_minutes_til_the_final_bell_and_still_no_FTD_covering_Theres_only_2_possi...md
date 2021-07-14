@@ -12,4 +12,4 @@ Buy & hodl. Not financial advice. Only up.
 
 **EDIT:** - both theories fit into the [Death by 1000 Cuts](https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/) theory. We could see margin calls and forced liquidations in the near future and this is their behavior in the interim of the inevitable occurring. Crossing my fingers.
 
-**EDIT2:** [Juneteenth Federal Holiday - this could also](https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) explain why we didn't see the validation of the T+21 price spike today.
+**EDIT2:** ![Juneteenth Federal Holiday - this could also](https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) explain why we didn't see the validation of the T+21 price spike today.

@@ -102,4 +102,4 @@ Sources:
 
 [https://www.wealthsimple.com/en-ca/magazine/gme-data](https://www.wealthsimple.com/en-ca/magazine/gme-data)
 
-[https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20](https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20)
+![https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20](https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20)

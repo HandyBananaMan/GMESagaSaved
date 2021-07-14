@@ -118,7 +118,7 @@ Before we go any further, let’s do some quick level setting on bonds and their
 
 [Any excuse to use this clip again makes my day... ](https://reddit.com/link/oe6i3l/video/gt4rvt8gzd971/player)
 
-Again, JPow believes this inflation is transitory and will drop back down to 2%. The Fed has been 2 steps behind on inflation and I think they are severely underplaying a new wild dynamic in this inflation madness—people and businesses are willing to pay these prices!
+Again, JPow believes this inflation is transitory and will drop back down to 2%. The Fed has been 2 steps behind on inflation and I think they are severely underplaying a new wild dynamic in this inflation madness—people and businesses are willing to pay these [increased prices](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/)!
 
 We have looked extensively at the record median prices in homes, but let’s consider cars for a minute. This is why I think the inflation game has changed! According to data from the [Bureau of Economic Analysis](https://apps.bea.gov/iTable/iTable.cfm?1921=underlying&isuri=1&reqid=19&step=2#1921=underlying&isuri=1&reqid=19&step=2) June sales for autos fell to 1.30 million vehicles, down 14.2% from June 2019, after a strong March, April, and May.
 
@@ -208,6 +208,8 @@ EDIT 1: Many in the comments are viewing the crypto turn to fight inflation as m
 
 [Again, I understand that RC and company are going to be deploying a lot of that war chest but how do we best protect the cash war chest in the interim?!?! ](https://preview.redd.it/53wm6muddf971.png?width=826&format=png&auto=webp&s=68e07ffe18433ea474db230136b470bf1c3fbb70)
 
-[Elon has done it and seen this technique make his company more money than they have by actually selling cars? RC and GameStop bring the metaverse fire! ](https://preview.redd.it/8kfhlvl4tf971.jpg?width=375&format=pjpg&auto=webp&s=5df969267ceae2f21223f6e19cbb4bed2222c4d5)
+![Elon has done it and seen this technique make his company more money than they have by actually selling cars? RC and GameStop bring the metaverse fire! ](https://preview.redd.it/8kfhlvl4tf971.jpg?width=375&format=pjpg&auto=webp&s=5df969267ceae2f21223f6e19cbb4bed2222c4d5)
+
+Edit 2:  The E t h e r e u m London hard fork (which includes EIP-1559) has been confirmed for block 12965000 on August 4th 👀
 
 TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket.

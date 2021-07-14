@@ -10,7 +10,7 @@
 
 &#x200B;
 
-[\\"See you next week, San Diego. Thanks for stopping by ... \\"](https://preview.redd.it/7u7256sp6su61.jpg?width=1080&format=pjpg&auto=webp&s=dc5b3ad2568bc62632161848c2f6a5255ab29853)
+![\\"See you next week, San Diego. Thanks for stopping by ... \\"](https://preview.redd.it/7u7256sp6su61.jpg?width=1080&format=pjpg&auto=webp&s=dc5b3ad2568bc62632161848c2f6a5255ab29853)
 
 ... and stay tuned... an **Ape Art Gallery** is on the way - a vartiable Musée d'Ape - to showcase all 128 banners (and more)! And a number of other fun sub-initiatives in the works too.  🖼🖼🖼 
 

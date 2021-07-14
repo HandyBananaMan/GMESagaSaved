@@ -76,4 +76,4 @@ Tin Foil Hat Theory: Shitedal crashed the evergiven to crash the US Economy or b
 
 
 
-Credit also goes to [BlackRock a Trillion Dollar Honey Pot](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/) from u/weeknddev for helping my collect my thoughts and evidence together on this, giving me an opposing view leading to the obvious truth 🦍 in control 😏
+Credit also goes to ![BlackRock a Trillion Dollar Honey Pot](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/) from u/weeknddev for helping my collect my thoughts and evidence together on this, giving me an opposing view leading to the obvious truth 🦍 in control 😏

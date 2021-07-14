@@ -140,7 +140,7 @@ Her complaint also stated that female employees “regularly and openly discuss 
 
 Haynes resigned a little more than four weeks after the sexual discrimination lawsuit was filed.
 
-[Badly needed at Point72...](https://i.redd.it/jf0nb5vj9ry61.gif)
+![Badly needed at Point72...](https://i.redd.it/jf0nb5vj9ry61.gif)
 
 And the list goes on and on and on…
 

@@ -71,7 +71,7 @@ What do APE think?
 
 I googled the above and found a few other postings on linkedin so they must be working with multiple consultancy firms. Here is one of them:
 
-[https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080](https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080)
+![https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080](https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080)
 
 &#x200B;
 

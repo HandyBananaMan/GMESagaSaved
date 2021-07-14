@@ -44,7 +44,7 @@ https://preview.redd.it/x6oq4x2qgnp61.png?width=800&format=png&auto=webp&s=e35f9
 
 Additionally, I looked at every single Citadel job listing on Indeed and every single one had been posted more than 30 days ago. THEY ARE NOT HIRING! 
 
-[https://www.indeed.com/cmp/Citadel/jobs](https://www.indeed.com/cmp/Citadel/jobs)
+![https://www.indeed.com/cmp/Citadel/jobs](https://www.indeed.com/cmp/Citadel/jobs)
 
 If they had truly covered their short position and everything was "business ass usual" then we would expect to see continued workforce increases and regular new job postings. 
 

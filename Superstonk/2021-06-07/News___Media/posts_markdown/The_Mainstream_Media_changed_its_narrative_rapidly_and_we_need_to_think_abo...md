@@ -74,7 +74,7 @@ CNBC/Interactive Brokers then:
 
 CNBC/Interactive Brokers now:
 
-[https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr\_chairman\_thomas\_peterffy\_warns\_tempted\_short/](https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr_chairman_thomas_peterffy_warns_tempted_short/)
+![https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr\_chairman\_thomas\_peterffy\_warns\_tempted\_short/](https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr_chairman_thomas_peterffy_warns_tempted_short/)
 
 &#x200B;
 

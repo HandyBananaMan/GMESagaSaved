@@ -14,7 +14,7 @@ Link for the PDF filing NSCC 005 [https://public-inspection.federalregister.gov/
 
 Link for the PDF filing DTC 005 [https://public-inspection.federalregister.gov/2021-13912.pdf](https://public-inspection.federalregister.gov/2021-13912.pdf)
 
-Here is a old post for brief description on each rule that has been put through since January. Its not up to date.... Yet. [https://www.reddit.com/r/Superstonk/comments/nmodiq/just\_three\_left\_updated\_for\_occ033\_from/](https://www.reddit.com/r/Superstonk/comments/nmodiq/just_three_left_updated_for_occ033_from/)
+Here is a old post for brief description on each rule that has been put through since January. Its not up to date.... Yet. ![https://www.reddit.com/r/Superstonk/comments/nmodiq/just\_three\_left\_updated\_for\_occ033\_from/](https://www.reddit.com/r/Superstonk/comments/nmodiq/just_three_left_updated_for_occ033_from/)
 
 &#x200B;
 

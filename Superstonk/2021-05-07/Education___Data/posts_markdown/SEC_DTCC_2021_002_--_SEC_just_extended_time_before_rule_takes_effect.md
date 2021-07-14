@@ -4,7 +4,7 @@
 
 Just now a filing on the SEC web site for SEC DTCC 2021 002 (which we're watching closely because it's also connected with 008) went up. It's a notice that the intial 45 day time period for consideration has been extended to the maximum 90 day period.
 
-[https://www.sec.gov/rules/sro/nscc/2021/34-91788.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91788.pdf)
+![https://www.sec.gov/rules/sro/nscc/2021/34-91788.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91788.pdf)
 
 This one thing remains: I can hold longer than hedgies can stay solvent.
 

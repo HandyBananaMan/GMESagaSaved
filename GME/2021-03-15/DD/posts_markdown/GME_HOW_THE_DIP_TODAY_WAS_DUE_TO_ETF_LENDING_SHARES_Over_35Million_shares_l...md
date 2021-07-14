@@ -71,7 +71,7 @@ ETF's are a growing force in financial markets and constitute almost 25% of US e
 
 &#x200B;
 
-[ETF's being shorted in the past](https://preview.redd.it/sfv8cphdvan61.png?width=801&format=png&auto=webp&s=01f548b1193bbfc06dbc78c3ac1f1d787650eb05)
+![ETF's being shorted in the past](https://preview.redd.it/sfv8cphdvan61.png?width=801&format=png&auto=webp&s=01f548b1193bbfc06dbc78c3ac1f1d787650eb05)
 
 Comparing both charts depict how the recent increase in FTD has had a direct correlation with ETF volume being shorted. Point being? The finance industry has used ETF's as a way of covering up their FTD's way before  $GME. **Bunch of snakes**
 

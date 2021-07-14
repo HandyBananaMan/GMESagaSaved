@@ -34,4 +34,4 @@ Let’s try to reduce the gap between the amount of information that the Hedge F
 
 Bloomberg Terminal, we’re coming for you.
 
-Feel free to join our discord at [https://discord.gg/Up2QGbMKHY](https://discord.gg/Up2QGbMKHY).
+Feel free to join our discord at ![https://discord.gg/Up2QGbMKHY](https://discord.gg/Up2QGbMKHY).

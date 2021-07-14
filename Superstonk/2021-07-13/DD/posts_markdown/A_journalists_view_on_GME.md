@@ -164,7 +164,7 @@ Any journalist worth half their salt would have asked for additional proof befor
 
 **I HAVE NO IDEA WHAT I AM DOING**
 
-[When Payday?](https://preview.redd.it/9mi5uy32tza71.png?width=455&format=png&auto=webp&s=12b1674d7865397ed9df717f7649e8f999df83f5)
+![When Payday?](https://preview.redd.it/9mi5uy32tza71.png?width=455&format=png&auto=webp&s=12b1674d7865397ed9df717f7649e8f999df83f5)
 
 Another major problem in this industry is we are hiring people with no life or work experience at all. They come into these organisations, told they are God's gift to the world - and told to start doing journalism. They have no understanding of how the real world works, or how real working class people live or survive.
 

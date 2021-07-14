@@ -350,7 +350,7 @@ now lets zoom out a bit more... what if there is a second cup being made at the 
 
 For the people not sure what I mean, this is what I'm referring to:
 
-[https://school.stockcharts.com/doku.php?id=chart\_analysis:chart\_patterns:cup\_with\_handle\_continuation](https://school.stockcharts.com/doku.php?id=chart_analysis:chart_patterns:cup_with_handle_continuation)
+![https://school.stockcharts.com/doku.php?id=chart\_analysis:chart\_patterns:cup\_with\_handle\_continuation](https://school.stockcharts.com/doku.php?id=chart_analysis:chart_patterns:cup_with_handle_continuation)
 
 &#x200B;
 

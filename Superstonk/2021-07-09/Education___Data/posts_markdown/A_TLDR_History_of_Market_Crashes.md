@@ -110,4 +110,4 @@ A SEVERE WORLDWIDE ECONOMIC DEPRESSION. Various countries felt it at various tim
 
 Have a great night!
 
-[hehe\_pomeranian\_dd\_go\_brrrrr](https://www.reddit.com/r/Superstonk/comments/o4tnz4/hehe_pomeranian_dd_go_brrrrr/)
+![hehe\_pomeranian\_dd\_go\_brrrrr](https://www.reddit.com/r/Superstonk/comments/o4tnz4/hehe_pomeranian_dd_go_brrrrr/)

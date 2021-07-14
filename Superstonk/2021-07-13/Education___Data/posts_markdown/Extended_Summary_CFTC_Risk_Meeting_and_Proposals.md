@@ -85,6 +85,6 @@ Wow, so much for this thing being a TL;DR for the other post.... I guess the ove
 
 EDIT: for those asking how this ties to GME... besides the fact that futures and derivatives are utilized to manipulate the share-price, u/[Useful\_Tomato\_409](https://www.reddit.com/user/Useful_Tomato_409/) pointed out that **the former head of the CFTC (the commission about which this post was written) is now the chief legal officer for Citadel**
 
-[**https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3**](https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3)
+![**https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3**](https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3)
 
 &#x200B;

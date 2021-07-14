@@ -166,6 +166,6 @@ Love you all
 
 Part 1: [https://www.youtube.com/watch?v=rexpWI0nJTc&t=336s](https://www.youtube.com/watch?v=rexpWI0nJTc&t=336s)
 
-Part 2: [https://www.youtube.com/watch?v=xw05sDpFL3s](https://www.youtube.com/watch?v=xw05sDpFL3s)
+Part 2: ![https://www.youtube.com/watch?v=xw05sDpFL3s](https://www.youtube.com/watch?v=xw05sDpFL3s)
 
 &#x200B;

@@ -103,4 +103,4 @@ Fellow ape answer: Ape need read DD.
 
 # Compilation of sell limits from brokers:
 
-I hit the 40k character limit with this bottom bit so you can find the updated list [https://www.reddit.com/r/Superstonk/comments/ml2lnw/28_and_counting_brokers_and_their_sell/](HERE).
+I hit the 40k character limit with this bottom bit so you can find the updated list ![https://www.reddit.com/r/Superstonk/comments/ml2lnw/28_and_counting_brokers_and_their_sell/](HERE).

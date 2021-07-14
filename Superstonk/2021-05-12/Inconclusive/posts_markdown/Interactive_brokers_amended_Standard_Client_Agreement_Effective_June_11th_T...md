@@ -6,7 +6,7 @@ I saw a post by [u/scwizard](https://www.reddit.com/user/scwizard/) about this S
 
 EDIT: Agreement was posted on 4/16 so many apes are likely already aware
 
-* link to the full written amended agreement [https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
+* link to the full written amended agreement ![https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
 
 &#x200B;
 
@@ -44,4 +44,4 @@ https://preview.redd.it/lzpzvsoggmy61.png?width=745&format=png&auto=webp&s=9e82e
 
 There is a lotttt more juice in this amended agreement and I highly suggest you read it in full🚀🌚🔜
 
-[https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
+![https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)

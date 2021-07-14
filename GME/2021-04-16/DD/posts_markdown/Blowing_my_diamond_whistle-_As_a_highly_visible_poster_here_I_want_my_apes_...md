@@ -24,7 +24,7 @@ But it sure jacked my tits in the confirmation bias dept.
 
 As I said, I'm not going into detail about what was discussed. But I would be paid to post DD and other content about a certain assigned company or stock and essentially, it seemed to me, to "pump" that stock in our beloved subs (ok I can actually prove that with the offer itself). It is in fact a real media company making this offer. I think they are paid to come to us top posters and try to ~~bribe~~ distract us away from talking about GME. The woman I talked to was just a rep that knew nothing of reddit or how it works, but she said their "expert team of social media analysts familiar with reddit has been watching me and chose to approach me."🤷‍♀️(Please don't out yourself here if you're among us ༼ つ ◕_◕ ༽つ as I've tried very hard to avoid calling anyone out or accuse of anything directly.)
 
-I did not give them my real name. They got a burner phone number to [contact me](http://imgur.com/a/itcxxer). I actually requested they just call me Pink for the phone call 🤭👑 
+I did not give them my real name. They got a burner phone number to ![contact me](http://imgur.com/a/itcxxer). I actually requested they just call me Pink for the phone call 🤭👑 
 
 **I want you to know I'm certainly not taking the offer.** I am not going to be paid to blow up this sub with posts about other stocks besides my precious GME. Like, I literally don't care about them. And nothing will ever pay me enough to mislead or distract my fellow apes. There is no other situation like GME, we all know that. I just got enough information from them to validate that this is a very legit offer, and now I have it. It's my own confirmation bias that all of this is legit, it's not just in our heads.  
 

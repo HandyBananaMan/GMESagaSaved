@@ -70,4 +70,4 @@ There are several things about this response that I find interesting:
 
 I plan to resubmit my questions and point out that I still do need help with "actual use of \[their\] site". After all they claim to offer "Institutional Grade Research Tools" to help you "Dominate the Financial Markets" with "more accurate data" for "better decisions". Yet, I am still not sure what numbers I can rely on. They discovered a "programming error". What if there are other errors in the data that have yet to be discovered? I probably won't get a response since they seem to be circling the wagons, but I can try.
 
-Any ideas for additional questions are welcome. Or, please feel free to send them questions of your own. They can be reached at [support@fintelio.atlassian.net](mailto:support@fintelio.atlassian.net). 
+Any ideas for additional questions are welcome. Or, please feel free to send them questions of your own. They can be reached at ![support@fintelio.atlassian.net](mailto:support@fintelio.atlassian.net). 

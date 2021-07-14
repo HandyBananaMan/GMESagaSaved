@@ -80,4 +80,4 @@ Edit 2:  u/InvincibearREAL pointed out that I forgot to include the most obvious
 
 # "Margin call is a shart. It stinks and can be a little messy, but it's really just a warning. If you don't heed that warning and take care of your business in a timely fashion, you'll shit your pants in a forced liquidation."
 
-Edit 4: Created [visual TL;DR Post](https://www.reddit.com/r/Superstonk/comments/ni9oc1/margin_call_vs_forced_liquidation_in_ape_ape/)
+Edit 4: Created ![visual TL;DR Post](https://www.reddit.com/r/Superstonk/comments/ni9oc1/margin_call_vs_forced_liquidation_in_ape_ape/)

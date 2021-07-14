@@ -4,7 +4,7 @@
 
 I work for a medium-sized Software Company as a manager in the Technical Support department. I specifically work with software in the distribution unit. Today, we had our monthly division update meeting, which is usually just information on financials, stats, and some industry trends. Casually, they slipped in some information on a huge trend:
 
-[Removed information that was confidential and irrelevant](https://preview.redd.it/lnhnuv3xdxv61.jpg?width=2180&format=pjpg&auto=webp&s=8c11ce948feda9c230bf2bbb2b700632eee95e4c)
+![Removed information that was confidential and irrelevant](https://preview.redd.it/lnhnuv3xdxv61.jpg?width=2180&format=pjpg&auto=webp&s=8c11ce948feda9c230bf2bbb2b700632eee95e4c)
 
 Our customers in this division are typically wholesale or office supply sales. As of this past quarter, they are experiencing MASSIVE inflation on their commodities they sell.
 

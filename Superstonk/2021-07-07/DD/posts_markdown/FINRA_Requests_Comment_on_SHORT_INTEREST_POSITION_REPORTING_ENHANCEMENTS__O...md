@@ -95,7 +95,7 @@ FINRA also is considering reducing the FINRA processing time involved in dissemi
 
 **D. Information on Allocations of Fail-to-Deliver Positions**
 
-Regulation SHO permits a member that is a participant of a registered clearing agency to allocate a portion of its Rule 204 fail-to-deliver position to another broker-dealer based on that other broker-dealer’s short position.[14](https://www.finra.org/rules-guidance/notices/21-19#_edn14) FINRA is considering enhancing its short sale reporting program by adopting a new rule to require members to submit to FINRA (for regulatory purposes only; not for public dissemination) a report of daily allocations of fail-to-deliver positions to correspondent firms pursuant to Rule 204(d) of Regulation SHO.
+Regulation SHO permits a member that is a participant of a registered clearing agency to allocate a portion of its Rule 204 fail-to-deliver position to another broker-dealer based on that other broker-dealer’s short position.![14](https://www.finra.org/rules-guidance/notices/21-19#_edn14) FINRA is considering enhancing its short sale reporting program by adopting a new rule to require members to submit to FINRA (for regulatory purposes only; not for public dissemination) a report of daily allocations of fail-to-deliver positions to correspondent firms pursuant to Rule 204(d) of Regulation SHO.
 
 The proposed allocation report may include the following fields:
 

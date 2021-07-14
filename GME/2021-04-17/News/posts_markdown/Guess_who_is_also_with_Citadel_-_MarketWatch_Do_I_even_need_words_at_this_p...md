@@ -62,4 +62,4 @@ Comment Section is lit today:
 
 &#x200B;
 
-[https:\/\/www.linkedin.com\/in\/anne-dias-0b345189](https://preview.redd.it/39vl51o6att61.png?width=997&format=png&auto=webp&s=801015561fbdb29fe4dcd1f43845ab76ba3534e6)
+![https:\/\/www.linkedin.com\/in\/anne-dias-0b345189](https://preview.redd.it/39vl51o6att61.png?width=997&format=png&auto=webp&s=801015561fbdb29fe4dcd1f43845ab76ba3534e6)

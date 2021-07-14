@@ -25,7 +25,7 @@ Price action shows steady linear drop in price, typically seen in ***iceberg ord
 
 &#x200B;
 
-[EDIT June 22:](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-completes-market-equity-offering-program-0)
+![EDIT June 22:](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-completes-market-equity-offering-program-0)
 
 GME didn't waste time. ATM offer completion took 9 trading days and approx. 10% dilution (5M shares) to free float dropped the price by 33% while bringing free cash flow per share to almost $20. New exec compensation is calculated using avg share price between May 27 and June 30. So greenlight from GME starting July 1st. 
 

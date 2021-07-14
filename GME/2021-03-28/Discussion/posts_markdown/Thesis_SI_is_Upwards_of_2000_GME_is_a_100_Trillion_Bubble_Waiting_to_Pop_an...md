@@ -394,7 +394,7 @@ In my opinion, there's too many new tactics that conveniently started popping up
 
 [The Wallstreet Conspiracy](https://www.youtube.com/watch?v=Kpyhnmd-ZbU)
 
-[Who Really Owns Your Money](https://seekingalpha.com/article/98297-who-really-owns-your-money-part-i-the-dtcc)
+![Who Really Owns Your Money](https://seekingalpha.com/article/98297-who-really-owns-your-money-part-i-the-dtcc)
 
 &#x200B;
 

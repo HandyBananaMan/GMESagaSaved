@@ -5,7 +5,7 @@
 u/atobitt was on AndrewMoMoney's stream just a few minutes ago and he needs our help! We need to scour EDGAR for any connections to convertible bonds and any of the Citadel companies. He is putting together another DD. 
 
 EDGAR lookup  
-[https://www.sec.gov/edgar/search/?r=el#](https://www.sec.gov/edgar/search/?r=el#)
+![https://www.sec.gov/edgar/search/?r=el#](https://www.sec.gov/edgar/search/?r=el#)
 
 (I put this as news flair, but I really have no idea what to flair it as. I just didn't want to get killed by flairing it as "DD")
 

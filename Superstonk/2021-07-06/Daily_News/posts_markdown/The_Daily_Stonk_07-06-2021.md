@@ -154,6 +154,6 @@ Edit 1:
 
 Gamestop continues expansion of their fulfillment network
 
-[https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility)
+![https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility)
 
 &#x200B;

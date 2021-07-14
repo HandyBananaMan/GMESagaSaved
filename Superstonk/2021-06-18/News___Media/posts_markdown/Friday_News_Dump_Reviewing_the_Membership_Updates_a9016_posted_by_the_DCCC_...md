@@ -61,7 +61,7 @@ I wonder what sort of time-critical information they could be gearing up to shar
 
 # Finally, the last thing I would like to show you, looks like some folks getting kicked off the OTC market?
 
-[More intrigue!](https://preview.redd.it/bj21r907g4671.png?width=1013&format=png&auto=webp&s=b35deab446ad0d2a10932156b00e3d87bc44e8aa)
+![More intrigue!](https://preview.redd.it/bj21r907g4671.png?width=1013&format=png&auto=webp&s=b35deab446ad0d2a10932156b00e3d87bc44e8aa)
 
 I hope you have enjoyed this walkthrough (even if it makes your blood boil) and it will be interesting to see any additional membership updates in the coming days! Have a great weekend all!
 

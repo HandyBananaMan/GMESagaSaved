@@ -10,7 +10,7 @@
 
 116.5, 125.5, 132.5, 141, 145, 147.5, 150, 152.5, 156.5, 162.5, 172, 176.5, 183.5, 184.5, 187.5, 190.5, 192, 195, 196.5, 197.5, 200, 209, 211.5, 214.5, 218, 226, 230, 234, 243, 250, 253, 256.5
 
-Finished a stream today comparing my predictions to ChristianRauchenwald's Elliot waves live! [https://www.youtube.com/watch?v=DO7BwSg0-Xg&ab\_channel=WardenElite](https://www.youtube.com/watch?v=DO7BwSg0-Xg&ab_channel=WardenElite)
+Finished a stream today comparing my predictions to ChristianRauchenwald's Elliot waves live! ![https://www.youtube.com/watch?v=DO7BwSg0-Xg&ab\_channel=WardenElite](https://www.youtube.com/watch?v=DO7BwSg0-Xg&ab_channel=WardenElite)
 
 **Edit 35 3:57PM:**
 

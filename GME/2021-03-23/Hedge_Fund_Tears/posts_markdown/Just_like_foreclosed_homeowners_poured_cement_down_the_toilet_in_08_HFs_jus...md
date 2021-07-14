@@ -22,4 +22,4 @@ Edit1: see [https://www.dtcc.com/legal/sec-rule-filings.aspx](https://www.dtcc.c
 
 \*801 enforces daily checks. **COMING SOON TO A THEATER NEAR YOU** (publishes in a few hours)
 
-Edit2: still not SEC approved, what are they waiting on??? [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
+Edit2: still not SEC approved, what are they waiting on??? ![https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)

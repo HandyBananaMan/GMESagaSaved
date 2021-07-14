@@ -94,6 +94,6 @@ https://preview.redd.it/wzozk2aw5f771.png?width=1400&format=png&auto=webp&s=c73b
 
 >Additional reporting by Miles Kruppa  
 >  
->[laurence.fletcher@ft.com](mailto:laurence.fletcher@ft.com), [madison.darbyshire@ft.com](mailto:madison.darbyshire@ft.com)
+>[laurence.fletcher@ft.com](mailto:laurence.fletcher@ft.com), ![madison.darbyshire@ft.com](mailto:madison.darbyshire@ft.com)
 
 Edit: changed paragraph spacing to make it more mobile friendly

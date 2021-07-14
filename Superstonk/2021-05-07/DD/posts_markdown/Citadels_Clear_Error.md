@@ -88,7 +88,7 @@ EDIT 3
 
 Holy crap - posted this and went for a few garage beers and woke up to lots of questions/comments - glad people reviewed this. 
 
-u/Pouyaaaa sent a message that /uECSJay posted [this](https://www.reddit.com/r/fidelityinvestments/comments/n5qurg/how_do_you_get_a_negative_1_million_volume/gx7ah70/?context=3) which confirmed that Fidelity is aware of volume "disappearing". 
+u/Pouyaaaa sent a message that /uECSJay posted ![this](https://www.reddit.com/r/fidelityinvestments/comments/n5qurg/how_do_you_get_a_negative_1_million_volume/gx7ah70/?context=3) which confirmed that Fidelity is aware of volume "disappearing". 
 
 u/bluewhitecup sent a couple of interesting links that I have yet to dig through. 
 

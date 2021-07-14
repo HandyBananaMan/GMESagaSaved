@@ -69,4 +69,4 @@ I really believe that they want to start doing the right and correct things.
 
 ## 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-Edit:  [Timelines for NSCC-801 and NSCC-002 approvals](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)
+Edit:  ![Timelines for NSCC-801 and NSCC-002 approvals](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)

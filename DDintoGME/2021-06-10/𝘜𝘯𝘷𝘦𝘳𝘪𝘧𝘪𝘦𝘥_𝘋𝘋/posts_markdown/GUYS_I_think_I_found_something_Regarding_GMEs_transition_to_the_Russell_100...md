@@ -24,7 +24,7 @@ To quote Wikipedia:
 
 Russell Investment, who founded the index, was bought by the London Stock Exchange Group in 2014. 
 
-If you click on the “Frank Russell Company” link in the article you get directly redirected to the [LSEG article](https://en.m.wikipedia.org/wiki/London_Stock_Exchange_Group) even though [Russell Investments](https://en.m.wikipedia.org/wiki/Russell_Investments) has its own Wikipedia article.
+If you click on the “Frank Russell Company” link in the article you get directly redirected to the [LSEG article](https://en.m.wikipedia.org/wiki/London_Stock_Exchange_Group) even though ![Russell Investments](https://en.m.wikipedia.org/wiki/Russell_Investments) has its own Wikipedia article.
 
 But back to LSEG. They are in fact a publicly traded company, so let’s have a look at the biggest shareholder of the company:
 

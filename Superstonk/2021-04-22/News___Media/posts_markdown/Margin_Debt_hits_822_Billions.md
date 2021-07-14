@@ -6,7 +6,7 @@ Margin Debt hits record his:  See Finra Report:
 
 Now I dont trust finra, or market watch, I bet ya its in the trillions.
 
-[https://markets.businessinsider.com/news/stocks/finra-margin-debt-hit-another-record-march-topping-822-billion-2021-4-1030330216](https://markets.businessinsider.com/news/stocks/finra-margin-debt-hit-another-record-march-topping-822-billion-2021-4-1030330216)
+![https://markets.businessinsider.com/news/stocks/finra-margin-debt-hit-another-record-march-topping-822-billion-2021-4-1030330216](https://markets.businessinsider.com/news/stocks/finra-margin-debt-hit-another-record-march-topping-822-billion-2021-4-1030330216)
 
 &#x200B;
 

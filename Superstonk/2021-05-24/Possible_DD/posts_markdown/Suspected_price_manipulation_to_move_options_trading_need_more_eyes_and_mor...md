@@ -30,7 +30,7 @@ Options on GME also had a huge swing. This chart is clipped from barcharts optio
 
 Ive highlighted the main ones that look appear to be used in these trades on the put side.
 
-[Small open interest, huge volume, large price changes... nothing weird about that.](https://preview.redd.it/rtbvwf5fk6171.png?width=1172&format=png&auto=webp&s=d56a1c29a4b9a6c73fd53a54edb95cc741c8ea5e)
+![Small open interest, huge volume, large price changes... nothing weird about that.](https://preview.redd.it/rtbvwf5fk6171.png?width=1172&format=png&auto=webp&s=d56a1c29a4b9a6c73fd53a54edb95cc741c8ea5e)
 
 Many of these Puts had their price change from high to lows by about 4$ per contract. If this was timed correctly, napkin math puts just the ones I highlighted netting the group about 2.5m dollars.
 

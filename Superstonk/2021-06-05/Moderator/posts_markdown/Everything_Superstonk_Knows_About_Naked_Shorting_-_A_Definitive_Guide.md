@@ -134,4 +134,4 @@ With that being said, stay excellent to each other and stay hungry.
 
 &#x200B;
 
-Please feel free to retweet my post to get superstonk's voice out there! [https://twitter.com/u\_sharkbaitlol/status/1401233432060076032](https://twitter.com/u_sharkbaitlol/status/1401233432060076032)
+Please feel free to retweet my post to get superstonk's voice out there! ![https://twitter.com/u\_sharkbaitlol/status/1401233432060076032](https://twitter.com/u_sharkbaitlol/status/1401233432060076032)

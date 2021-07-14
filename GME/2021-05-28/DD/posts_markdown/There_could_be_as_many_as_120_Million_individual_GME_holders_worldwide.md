@@ -32,7 +32,7 @@ This post from  u/socrates6210  from 3 months ago [https://www.reddit.com/r/GME/
 
 This post from  u/Anthony-Bluebeard  from 2 months ago[https://www.reddit.com/r/GME/comments/m82afl/909\_of\_etoros\_20\_mil\_users\_holding\_gme/](https://www.reddit.com/r/GME/comments/m82afl/909_of_etoros_20_mil_users_holding_gme/)states that 9.09% of eToro investors hold GME
 
-and this post from  u/circusmonkey89  from 1 month ago[https://www.reddit.com/r/GME/comments/mw09f7/etoro\_user\_stats\_for\_gme\_good\_hodling\_apes/](https://www.reddit.com/r/GME/comments/mw09f7/etoro_user_stats_for_gme_good_hodling_apes/)states that 8.31% of eToro investors hold GME
+and this post from  u/circusmonkey89  from 1 month ago![https://www.reddit.com/r/GME/comments/mw09f7/etoro\_user\_stats\_for\_gme\_good\_hodling\_apes/](https://www.reddit.com/r/GME/comments/mw09f7/etoro_user_stats_for_gme_good_hodling_apes/)states that 8.31% of eToro investors hold GME
 
 **EDIT: I have deleted the old calculations and replaced them with the more accurate ones based on todays eToro figures for GME holders. That figure has been quoted several times in the comments as 6.47% so let's work from that.**
 

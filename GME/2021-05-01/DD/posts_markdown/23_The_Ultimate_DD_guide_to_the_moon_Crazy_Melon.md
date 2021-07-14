@@ -9,7 +9,7 @@
 
 **CONTENTS:**
 
-[PART 1](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+![PART 1](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 * **US DOLLAR BACKING**
 * **OVERVIEW OF KENNY'S/SHITADEL'S FUCKERY EXPOSED!**
@@ -534,7 +534,7 @@ Majority report proving one of my hypothesis after o released this videos!! I’
 https://www.ft.com/content/ea6f3104-eeec-466a-a082-76ae78d430fd
 
 **EDIT 7: more shady business connected!! Real estate fraud 
-GO BACK TO [PART 1](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+GO BACK TO ![PART 1](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 Now this chart does look that crazy now?
 

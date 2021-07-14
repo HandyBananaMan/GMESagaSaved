@@ -285,4 +285,4 @@ I have briefly covered these changes before in this [DD](https://www.reddit.com/
 
 [https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/](https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/)
 
-[https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)
+![https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)

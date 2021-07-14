@@ -124,7 +124,7 @@ This turbulence between BlackRock and Citadel can only end poorly for them... Bl
 
 Speaking of which....
 
-Citadel has owned shares of BlackRock (BLK) since Q3 of 2008. Their business relationship started at a rather *peculiar* time if you ask me. Although it has fluctuated since at least Q4 2018 (earliest I can see) , they just sold off [48.31%](https://fintel.io/so/us/blk/citadel-advisors-llc) of their BLK portfolio and own 206,500 BLK puts to 135,700 BLK calls (1.52 put/call).. For those who don't know... 1.52 is an EXTREMELY high put ratio. They've actually had a large put ratio on BlackRock for quite a while... anything over 0.7 signals bearish, and anything over 1 is treated like a dumpster fire. It's like Citadel knows that BlackRock is screwed without a mule like Citadel Securities.
+Citadel has owned shares of BlackRock (BLK) since Q3 of 2008. Their business relationship started at a rather *peculiar* time if you ask me. Although it has fluctuated since at least Q4 2018 (earliest I can see) , they just sold off ![48.31%](https://fintel.io/so/us/blk/citadel-advisors-llc) of their BLK portfolio and own 206,500 BLK puts to 135,700 BLK calls (1.52 put/call).. For those who don't know... 1.52 is an EXTREMELY high put ratio. They've actually had a large put ratio on BlackRock for quite a while... anything over 0.7 signals bearish, and anything over 1 is treated like a dumpster fire. It's like Citadel knows that BlackRock is screwed without a mule like Citadel Securities.
 
 *"Want to know what you get out of it? You get the ice cream, the hot fudge, the banana, and the nuts. Right now, I get the sprinkles, and yeah, if this goes through, I get the cherry. But you get the Sundae, Vinnie. You get the sundae"*
 

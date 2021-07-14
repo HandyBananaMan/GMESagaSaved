@@ -184,7 +184,7 @@ You've all seen the reverse repo market. Things are bad bad BAD in the market. T
 
 Everyone in the repo market is terrified of the 2008 bomb that wasn't allowed to finish going off. They're most likely [colluding to prop each other up](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/) because of the absolute insanity that could follow. Not just in the stock market. But the repo market, the crypto market, the treasury market, every market potentially.
 
-[Possible Collusion In Repo Market](https://preview.redd.it/6fw8d1jild471.png?width=775&format=png&auto=webp&s=77e35c7d45e37fa81b0cc17e250dce5c13b4892b)
+![Possible Collusion In Repo Market](https://preview.redd.it/6fw8d1jild471.png?width=775&format=png&auto=webp&s=77e35c7d45e37fa81b0cc17e250dce5c13b4892b)
 
 But hey, all it takes is that one.
 

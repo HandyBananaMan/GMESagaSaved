@@ -110,7 +110,7 @@ Now to something a little more fun. Let's check out some indexes and see what's 
 
 &#x200B;
 
-[Index List](https://preview.redd.it/mghpvyq2j8671.png?width=801&format=png&auto=webp&s=44ffa036222e8366b67ce56db25ca88a7c9fbaf4)
+![Index List](https://preview.redd.it/mghpvyq2j8671.png?width=801&format=png&auto=webp&s=44ffa036222e8366b67ce56db25ca88a7c9fbaf4)
 
 This week wasn't pretty. When anything in the above list moves more than 0.5% in a week, something big is going on, or about to happen. Above shows just Friday alone. It might not seem like much but those are pretty big numbers.
 

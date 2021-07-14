@@ -185,7 +185,7 @@ EDIT: Adding some more plots specifically to show OTC trade data for GME and the
 
 &#x200B;
 
-[Normalised OCT average trade sizes for GME and the movie stock](https://preview.redd.it/6alxu3v24o571.png?width=4500&format=png&auto=webp&s=8f0dd839938d006fb7517b23d494141ffe21e4b1)
+![Normalised OCT average trade sizes for GME and the movie stock](https://preview.redd.it/6alxu3v24o571.png?width=4500&format=png&auto=webp&s=8f0dd839938d006fb7517b23d494141ffe21e4b1)
 
 I added these figures in response to a request in the comments. Both GME and the movie stock show similar OTC trade patterns. Some spikes and shares traded in Jan and late Feb. And after Jan both stocks saw a large decrease in average trade sizes OTC compared to their historical norms.
 

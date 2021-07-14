@@ -98,7 +98,7 @@ One last example- Here's an in-depth look at why and how flash crashes occur in 
 
 EDIT: Thanks to u/shiftyasiankid for grabbing this pic from a Rensole morning post- this is what GME's flash crash on 3/10/21 looked like:
 
-[holy fucking sweeps, batman](https://preview.redd.it/wiewbkss16b71.png?width=2048&format=png&auto=webp&s=a6e09dcdfced66e3bf50b0c6029b76839a7007b6)
+![holy fucking sweeps, batman](https://preview.redd.it/wiewbkss16b71.png?width=2048&format=png&auto=webp&s=a6e09dcdfced66e3bf50b0c6029b76839a7007b6)
 
 Every time someone has posted about these "straight up and/or down lines" they get bombarded by Gabe's data scientists, trying to convince them either: 1) it's just a glitch, 2) someone fat-fingered a trade (illegal for a broker to take advantage of that because of reasons above), 3) someone at the broker fat-fingered the trade (seriously....   what?)  and they ALL know these are market sweeps. **I passionately hate getting lied to.  I have NO IDEA why they're all lying about this.**
 

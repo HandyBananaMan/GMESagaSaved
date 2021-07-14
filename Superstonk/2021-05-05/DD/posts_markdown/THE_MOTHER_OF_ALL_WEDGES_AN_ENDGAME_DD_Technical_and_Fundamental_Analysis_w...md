@@ -96,7 +96,7 @@ The problem is we see consistent higher buy:sell ratio, meaning that more people
 
 Furthermore, what's even worse, is that the daily short volume percent is greater than 50% on average.
 
-u/dinghino crunched FINRA's own short volume numbers and concluded that the majority of daily volume was short selling. Here's his tool for grabbing historical data: [https://github.com/dinghino/stocks-historical-data](https://github.com/dinghino/stocks-historical-data)
+u/dinghino crunched FINRA's own short volume numbers and concluded that the majority of daily volume was short selling. Here's his tool for grabbing historical data: ![https://github.com/dinghino/stocks-historical-data](https://github.com/dinghino/stocks-historical-data)
 
 https://preview.redd.it/f9ofzm1x7cx61.png?width=2098&format=png&auto=webp&s=1370117bc4f55b069038b4c670422e01e3175ff1
 

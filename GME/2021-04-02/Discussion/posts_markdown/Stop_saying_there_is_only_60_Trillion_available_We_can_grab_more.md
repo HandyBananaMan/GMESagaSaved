@@ -13,7 +13,7 @@ Edit5: I cant answer all questions, everytime i go to my inbox its just full of 
 
 &#x200B;
 
-[Daddy](https://preview.redd.it/g3n6fmhz8rq61.jpg?width=650&format=pjpg&auto=webp&s=b57709ac63879361255bcf6e0746bba9c4618fb6)
+![Daddy](https://preview.redd.it/g3n6fmhz8rq61.jpg?width=650&format=pjpg&auto=webp&s=b57709ac63879361255bcf6e0746bba9c4618fb6)
 
 # Start reading here:
 

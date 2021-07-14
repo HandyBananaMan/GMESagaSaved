@@ -108,7 +108,7 @@ I understand we wants our tits jacked but it's important to fact check DDs, espe
 
 but is incapable of explaining his numbers when challenged in the comments (turns out the math DOES lie when done incorrectly).
 
-I do believe both OP's wrote their DDs in good faith but again, it is crucial that DDs (especially ones that reach the top) have been reviewed and fact checked to avoid spreading misinformation whether or not they please [Jacques Tits](https://en.wikipedia.org/wiki/Jacques_Tits), especially if OPs are non-receptive when clearly debunked or given valid criticism.
+I do believe both OP's wrote their DDs in good faith but again, it is crucial that DDs (especially ones that reach the top) have been reviewed and fact checked to avoid spreading misinformation whether or not they please ![Jacques Tits](https://en.wikipedia.org/wiki/Jacques_Tits), especially if OPs are non-receptive when clearly debunked or given valid criticism.
 
 Also, I think we really need a **DEBUNKED** (or Counter-DD) flair which will encourage wrinkled apes to debunk or atleast challenge top DDs ultimately increasing their reliability and quality.
 

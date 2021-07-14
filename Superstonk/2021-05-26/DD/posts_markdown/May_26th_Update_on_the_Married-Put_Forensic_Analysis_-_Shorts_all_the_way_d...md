@@ -114,7 +114,7 @@ I really hope Cohen just comes out and tells us how many shares are outstanding.
 
 [Barchart Options](https://www.barchart.com/stocks/quotes/GME/options?expiration=2021-05-21-m&moneyness=allRows)
 
-[Stonk Tracker](https://gme.crazyawesomecompany.com)
+![Stonk Tracker](https://gme.crazyawesomecompany.com)
 
 **Required** 
 

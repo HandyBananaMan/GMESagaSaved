@@ -142,7 +142,7 @@ I write my own algorithms to produce the results above. The following lists some
       * Fill in any missing relativities with the nearest relativity, within its own ticker/trade date/expiration date. This mostly just applies to far OTM strikes.
       * Smooth the relativities using rloess, which is a local regression using weighted linear least squares and a 2nd degree polynomial model. This method assigns zero weight to data outside six mean absolute deviations.
       * Apply the smoothed call/put mid-price relativities to the smoothed orats IV estimates to get the final call/put IV estimates.
-* Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: [https://www.macroption.com/option-greeks-excel](https://www.macroption.com/option-greeks-excel/#gamma-in-excel)
+* Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: ![https://www.macroption.com/option-greeks-excel](https://www.macroption.com/option-greeks-excel/#gamma-in-excel)
 * For the total market delta and total market gamma, I rely on the OI x delta and OI x gamma for each strike price.
    * Note that the delta of a call is usually equal to (1 - put delta), so not adjustment is needed to the delta signs when calculating the total market delta.
    * However, the call/put gammas are both positive based on the B-S calculation. If you're calculating the total gamma for a portfolio, or the total market, you have to add the call gamma and subtract the put gamma.

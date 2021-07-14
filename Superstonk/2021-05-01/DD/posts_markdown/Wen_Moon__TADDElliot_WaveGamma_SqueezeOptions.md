@@ -85,7 +85,7 @@ Buy and HOLD. MACD, giant Wedge, Elliot Wave Theory and Options are extremly bul
 [https://www.youtube.com/watch?v=GDeMralCaiY](https://www.youtube.com/watch?v=GDeMralCaiY)    
 
 
-Only reason this will work is because I know most APES by now have hands as hard as  [**💎**](https://emojipedia.org/gem-stone/) and would never sell at a low price. Remember the upside is limitless 🚀  
+Only reason this will work is because I know most APES by now have hands as hard as  ![**💎**](https://emojipedia.org/gem-stone/) and would never sell at a low price. Remember the upside is limitless 🚀  
 I apologize in advance for mistakes as english isn't my first language.   
 
 

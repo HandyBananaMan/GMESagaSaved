@@ -4,6 +4,6 @@
 
 GameStop is listed in the new list published today for the Russell 1000 additions!
 
-Source: [https://content.ftserussell.com/sites/default/files/ru1000\_membershiplist\_20210628.pdf](https://content.ftserussell.com/sites/default/files/ru1000_membershiplist_20210628.pdf)
+Source: ![https://content.ftserussell.com/sites/default/files/ru1000\_membershiplist\_20210628.pdf](https://content.ftserussell.com/sites/default/files/ru1000_membershiplist_20210628.pdf)
 
 Very pumped for Monday and every day thereafter!!

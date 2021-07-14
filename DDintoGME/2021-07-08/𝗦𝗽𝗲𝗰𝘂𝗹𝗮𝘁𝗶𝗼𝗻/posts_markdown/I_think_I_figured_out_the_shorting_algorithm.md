@@ -130,6 +130,6 @@ While the dates are interesting that they occur at the same intervals (Farm A an
 
 Edit 4: Today's data
 
-[Fucking lol](https://preview.redd.it/wuxla94ax8a71.png?width=953&format=png&auto=webp&s=1623ba2c85b348eaf732cfd82066882e645719e2)
+![Fucking lol](https://preview.redd.it/wuxla94ax8a71.png?width=953&format=png&auto=webp&s=1623ba2c85b348eaf732cfd82066882e645719e2)
 
 # None of this is financial advice.

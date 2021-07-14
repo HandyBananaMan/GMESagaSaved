@@ -134,7 +134,7 @@ Adding in DFV: 200k shares = **8,007,772 extra** shares.
 
 Goldman Sachs as of April 1st lists 900k shares according to
 
-[https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n)
+![https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n)
 
 ("Per end date" 1/31/2021 but pdf says still good as of April 1st. They also own 12m of AMC for some reason)
 

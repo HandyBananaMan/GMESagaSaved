@@ -60,7 +60,7 @@ I like cats.
 
 Speaking of relational analysis,  can someone please link that post about the Food Delivery Guy in the comments? If I remember correctly, his post was the one that started the wheels turning on this DD. Unique and fun bit to read if you get a chance!
 
-**EDIT 2:** Here is the food post, another unique way of  looking at relational Data. Thank you kind apes for the quick response! [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel\_office\_activity\_from\_the\_ground/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/?utm_medium=android_app&utm_source=share)
+**EDIT 2:** Here is the food post, another unique way of  looking at relational Data. Thank you kind apes for the quick response! ![https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel\_office\_activity\_from\_the\_ground/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/?utm_medium=android_app&utm_source=share)
 
 **Secret Edit:**
 

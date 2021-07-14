@@ -10,7 +10,7 @@ its awesome to meet you!
 
 \->   I heard that the morning data is about otc, not darkpool. This is just one hypothesis. 
 
-(link: [https://otctransparency.finra.org/otctransparency/Agreement](https://otctransparency.finra.org/otctransparency/Agreement))
+(link: ![https://otctransparency.finra.org/otctransparency/Agreement](https://otctransparency.finra.org/otctransparency/Agreement))
 
 Before read, I can be not smart and not accurate.
 

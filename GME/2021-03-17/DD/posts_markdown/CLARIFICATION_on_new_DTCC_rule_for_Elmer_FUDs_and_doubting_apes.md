@@ -32,7 +32,7 @@ DTCC can now essentially audit its members at anytime, and they have to respond 
 
 &nbsp;
 
-If you got any value out of this post, [please check out this one](https://www.reddit.com/r/GME/comments/m6zzku/crucial_stimmie_info_a_critical_rundown_on_price/) that I've been trying to get eyes on. It is an important message for anyone planning to buy GME and it is great to know for trading in general.
+If you got any value out of this post, ![please check out this one](https://www.reddit.com/r/GME/comments/m6zzku/crucial_stimmie_info_a_critical_rundown_on_price/) that I've been trying to get eyes on. It is an important message for anyone planning to buy GME and it is great to know for trading in general.
 
 &nbsp;
 

@@ -250,7 +250,7 @@ Just as valid and logical, great AND important to understand the positive perspe
 
 **Edit:**
 
-Thanks u/serbeardless for linking [this](https://old.reddit.com/r/Superstonk/comments/mpp2yr/why_we_and_our_whales_are_waiting_for_the_dtcocc/). It delves into why LWs could be holding back until the DTTC put up the "firewalls" before they press the ignition button.
+Thanks u/serbeardless for linking ![this](https://old.reddit.com/r/Superstonk/comments/mpp2yr/why_we_and_our_whales_are_waiting_for_the_dtcocc/). It delves into why LWs could be holding back until the DTTC put up the "firewalls" before they press the ignition button.
 
 Highlights an important fact that there are many different scenarios that could play out and this is yet another reason why we do not discuss dates of a squeeze.
 

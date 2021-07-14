@@ -15,7 +15,7 @@ If you are a good ape and do your own research you find, but for those that need
 
 &#x200B;
 
-[https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441)
+![https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441)
 
 &#x200B;
 

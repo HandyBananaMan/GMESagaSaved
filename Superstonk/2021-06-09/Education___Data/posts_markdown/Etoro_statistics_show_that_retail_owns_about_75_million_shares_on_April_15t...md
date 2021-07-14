@@ -34,7 +34,7 @@ As I do not believe there are tens of thousands of institutions that own a signi
 
 According to Etoro, as of April, retail owns \~75 million shares out of the \~41 million float. I know that myself, along with **many others, purchased more shares after April.**
 
-**However, according to this filing, the top 6 institutions + insider ownership accounts for \~39.5 million shares, leaving only \~31.5 million shares up for grabs.** [**https://news.gamestop.com/node/18846/html**](https://news.gamestop.com/node/18846/html)
+**However, according to this filing, the top 6 institutions + insider ownership accounts for \~39.5 million shares, leaving only \~31.5 million shares up for grabs.** ![**https://news.gamestop.com/node/18846/html**](https://news.gamestop.com/node/18846/html)
 
 Ding Dong the price is wrong. 
 

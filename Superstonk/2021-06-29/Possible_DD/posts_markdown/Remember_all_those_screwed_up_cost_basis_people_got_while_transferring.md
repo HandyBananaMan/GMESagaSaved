@@ -26,7 +26,7 @@ As you can see the last five price sell ranges are above the retail highs buy as
 
 &#x200B;
 
-[https://www.reddit.com/r/Superstonk/comments/o25oi1/nyse\_president\_admitted\_dark\_pool\_exchanges\_are/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/o25oi1/nyse_president_admitted_dark_pool_exchanges_are/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/o25oi1/nyse\_president\_admitted\_dark\_pool\_exchanges\_are/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/o25oi1/nyse_president_admitted_dark_pool_exchanges_are/?utm_source=share&utm_medium=web2x&context=3)
 
 &#x200B;
 

@@ -56,7 +56,7 @@ The longer this drags out, the higher the price floor becomes, until it kicks of
 
 # 2. Hello FTD Loop - Or Should I Say SI Report Loop
 
-This isn't T+21 or T+35 or anything. But I think it might finally paint the picture of why we have theories ranging from T+13 to T+21 to T+35, and everything in between. We definitely have  a loopthat is occurring. And  it's most likely due to something called [Short Interest Reporting](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest) from FINRA.
+This isn't T+21 or T+35 or anything. But I think it might finally paint the picture of why we have theories ranging from T+13 to T+21 to T+35, and everything in between. We definitely have  a loopthat is occurring. And  it's most likely due to something called ![Short Interest Reporting](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest) from FINRA.
 
 Short interest?! That's two words we're all very familiar with. What exactly is this?
 

@@ -270,4 +270,4 @@ Edit 5:
 
 Because people asked about the psychology stuff here is the link:
 
-[https://www.reddit.com/r/GME/comments/lemt4r/psychology\_2\_electric\_boogaloo/](https://www.reddit.com/r/GME/comments/lemt4r/psychology_2_electric_boogaloo/)
+![https://www.reddit.com/r/GME/comments/lemt4r/psychology\_2\_electric\_boogaloo/](https://www.reddit.com/r/GME/comments/lemt4r/psychology_2_electric_boogaloo/)

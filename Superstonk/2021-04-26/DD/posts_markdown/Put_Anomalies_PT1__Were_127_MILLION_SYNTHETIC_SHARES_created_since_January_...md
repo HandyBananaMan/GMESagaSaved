@@ -230,7 +230,7 @@ Similar is true on other strikes with this unusual volume. **There was no profit
 
 &#x200B;
 
-[A hint, perhaps.](https://preview.redd.it/cd6hrrp2imv61.png?width=1680&format=png&auto=webp&s=c37d6f2736ea4d8770e99a2472cee393498e7d63)
+![A hint, perhaps.](https://preview.redd.it/cd6hrrp2imv61.png?width=1680&format=png&auto=webp&s=c37d6f2736ea4d8770e99a2472cee393498e7d63)
 
 # The Weird Coincidence
 

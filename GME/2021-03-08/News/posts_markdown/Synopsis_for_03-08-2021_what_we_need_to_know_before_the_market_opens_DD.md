@@ -378,4 +378,4 @@ Edit 4:
 
 But it seems pixel may have found out, his take on this does make sense to me!
 
-[https://www.reddit.com/r/GME/comments/m0j6bz/is\_dfv\_congratulating\_ryan\_cohen\_on\_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)
+![https://www.reddit.com/r/GME/comments/m0j6bz/is\_dfv\_congratulating\_ryan\_cohen\_on\_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)

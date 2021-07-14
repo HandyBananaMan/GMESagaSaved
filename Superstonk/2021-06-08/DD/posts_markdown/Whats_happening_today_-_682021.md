@@ -36,7 +36,7 @@ This is not normal behavior and is HIGHLY unlikely that retail is responsible. P
 
 As you continue to hold, **THEIR** problem will become worse and worse. It will **ONLY** work if you sell. Once the short attack is over, you should see the price rebound. We know that $350 has been a dangerous point for them because they triggered a flash crash at $350 on Mar10 (Mario day). Low and behold, they *done-did-it* again
 
-[https://imgur.com/NnLH3We](https://imgur.com/NnLH3We)
+![https://imgur.com/NnLH3We](https://imgur.com/NnLH3We)
 
 https://preview.redd.it/d813st4ba2471.jpg?width=1893&format=pjpg&auto=webp&s=e0080c01e8e2a8061c2f771bf4ba9aedf10cf79c
 

@@ -104,4 +104,4 @@ TL:DR – I believe inflation is the match that has been lit that will light the
 
 &#x200B;
 
-[Tik Tock and I hope I didn't screw this up too badly!  ](https://i.redd.it/zfeirmk1ar471.gif)
+![Tik Tock and I hope I didn't screw this up too badly!  ](https://i.redd.it/zfeirmk1ar471.gif)

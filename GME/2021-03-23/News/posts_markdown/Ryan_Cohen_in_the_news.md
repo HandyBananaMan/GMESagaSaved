@@ -7,7 +7,7 @@ Hi everyone! This is my first-ever post on Reddit. Would like to share this news
 
 From the article: "I certainly wouldn't bet against Ryan. He has a knack for figuring things out,"
 
-[Ryan Cohen](https://www.channelnewsasia.com/news/business/from-pet-food-to-video-games--inside-ryan-cohen-s-gamestop-obsession-14472500)
+![Ryan Cohen](https://www.channelnewsasia.com/news/business/from-pet-food-to-video-games--inside-ryan-cohen-s-gamestop-obsession-14472500)
 
 https://www.channelnewsasia.com/news/business/from-pet-food-to-video-games--inside-ryan-cohen-s-gamestop-obsession-14472500
 

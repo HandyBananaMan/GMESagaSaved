@@ -162,4 +162,4 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 \[8\] [https://www.sec.gov/comments/s7-08-08/s70808-318.pdf](https://www.sec.gov/comments/s7-08-08/s70808-318.pdf)
 
-\[9\] [https://abcnews.go.com/Business/story?id=7189668&page=1](https://abcnews.go.com/Business/story?id=7189668&page=1)
+\![9\] [https://abcnews.go.com/Business/story?id=7189668&page=1](https://abcnews.go.com/Business/story?id=7189668&page=1)

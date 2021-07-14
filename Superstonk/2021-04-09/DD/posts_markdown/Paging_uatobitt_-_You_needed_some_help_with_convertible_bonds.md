@@ -138,7 +138,7 @@ Ironically, he would have been short vol due to this and only ended up with a pr
 
 WRINKLESSSS
 
-[link to the above](https://www.quora.com/Why-was-Ken-Griffin-so-successful-with-his-convertible-bond-arbitrage-strategy-in-1987)
+![link to the above](https://www.quora.com/Why-was-Ken-Griffin-so-successful-with-his-convertible-bond-arbitrage-strategy-in-1987)
 
 &#x200B;
 

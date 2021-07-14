@@ -412,6 +412,6 @@ Apex 存在一个维持了 47 个月的问题，即某些客户在\***未发送*
 
 \[33\] [https://files.brokercheck.finra.org/firm/firm\_361.pdf](https://files.brokercheck.finra.org/firm/firm_361.pdf)
 
-\[34\] [https://files.brokercheck.finra.org/firm/firm\_19585.pdf](https://files.brokercheck.finra.org/firm/firm_19585.pdf)
+\![34\] [https://files.brokercheck.finra.org/firm/firm\_19585.pdf](https://files.brokercheck.finra.org/firm/firm_19585.pdf)
 
 Edit 1: I hereby repent my sin and correct my sacrilegious DD by adding the mandatory 🚀s and🌝s

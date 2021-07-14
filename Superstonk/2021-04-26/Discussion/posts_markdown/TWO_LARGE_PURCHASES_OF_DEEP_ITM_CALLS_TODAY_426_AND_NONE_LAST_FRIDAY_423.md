@@ -14,7 +14,7 @@ I'm curious if we will see another large wave of these appearing this week and h
 
 Here is the data from last Friday as well, as you can see there were no large block purchases of DEEP ITM calls.
 
-[GME Biggest Options Trades 4\/23\/21](https://preview.redd.it/9jwn28hmplv61.png?width=1227&format=png&auto=webp&s=4f882d6184f45e9344819d47925e9bea4feaa2d9)
+![GME Biggest Options Trades 4\/23\/21](https://preview.redd.it/9jwn28hmplv61.png?width=1227&format=png&auto=webp&s=4f882d6184f45e9344819d47925e9bea4feaa2d9)
 
 See you all tomorrow if my wife's boyfriend lets me use the computer.
 

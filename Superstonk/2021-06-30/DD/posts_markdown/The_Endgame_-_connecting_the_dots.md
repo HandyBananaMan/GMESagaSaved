@@ -243,7 +243,7 @@ https://preview.redd.it/4ogw319arh871.png?width=921&format=png&auto=webp&s=83a28
 
 **TECHNICAL REASONS FOR MOASS**
 
-I want to give a shout out to Reddit-censored youtuber\*\*. Who's most of the time down to earth. In one of his more recent summaries found [here](https://www.youtube.com/watch?v=WCSb61wD7aM) he made an interesting observation.
+I want to give a shout out to Reddit-censored youtuber\*\*. Who's most of the time down to earth. In one of his more recent summaries found ![here](https://www.youtube.com/watch?v=WCSb61wD7aM) he made an interesting observation.
 
 There are bullish technical indicators all around indicating huge suppression and fuckery, as of late.
 

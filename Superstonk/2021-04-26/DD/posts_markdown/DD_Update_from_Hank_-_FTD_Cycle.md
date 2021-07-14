@@ -96,7 +96,7 @@ Finally, thank you to u/karasuuchiha for commenting links to these posts about F
 
 [T21 is happening now](https://www.reddit.com/r/Superstonk/comments/mvtpne/t21_ftd_squeeze_is_happening/?utm_medium=android_app&utm_source=share)
 
-[What happened during the T 21 in February and why T21 may not matter](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/?utm_medium=android_app&utm_source=share)
+![What happened during the T 21 in February and why T21 may not matter](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/?utm_medium=android_app&utm_source=share)
 
 https://preview.redd.it/4ckdzs595mv61.png?width=1280&format=png&auto=webp&s=17be5c89f5c170508b272b00f8f5c4d2a6c520be
 

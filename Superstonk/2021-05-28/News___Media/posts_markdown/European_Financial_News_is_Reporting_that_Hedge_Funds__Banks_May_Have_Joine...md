@@ -60,7 +60,7 @@ But here's this chart:
 
 &#x200B;
 
-[Source: Bloomberg](https://preview.redd.it/36q16i216z171.png?width=680&format=png&auto=webp&s=fc395d95c2d30d730a456aaa05d1d73b47b26f31)
+![Source: Bloomberg](https://preview.redd.it/36q16i216z171.png?width=680&format=png&auto=webp&s=fc395d95c2d30d730a456aaa05d1d73b47b26f31)
 
 shows how in a further and suspicious contemporary, the short interest on the ETF that traces the Standard & Poor's 500 - SPY, a giant worth 357 billion - has risen to the maximum level since the beginning of the year. **About 4.8% of the fund's shares are now on loan pending a collapse in valuations, just as the index fluctuates at an all-time high.** A month and a half ago that percentage was 2% and 1.7% at the beginning of the year. Of course, during 2020 that level had risen several times above 7% but today's timing appears decidedly different. At the time, in fact, the market was suffering from the evolution of the pandemic but benefited from the support of central banks that appeared to force four and indefinite, **today instead we talk more and more frequently and openly about tapering that stimulus.**
 

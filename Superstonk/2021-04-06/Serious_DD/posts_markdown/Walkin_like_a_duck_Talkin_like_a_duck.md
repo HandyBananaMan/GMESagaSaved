@@ -279,7 +279,7 @@ If you're wondering where the auditor (PWC) is in all of this, they just have to
 
 You want to see how bad the situation has become? Check out this [10K](https://www.sec.gov/ix?doc=/Archives/edgar/data/0001820727/000110465921046086/tm218735d1_10k.htm) (PG 4) from one of Citadel's recent 13G/A filings on 2/16/2021. Keep in mind, this is an acquisition company that *specializes* in purchasing companies that are headed for bankruptcy...
 
-[ MUDRICK CAPITAL ACQUISITION CORPORATION II ](https://preview.redd.it/3as170q7ugr61.png?width=1871&format=png&auto=webp&s=3ba5b3f536def5931ff633895a79bc2f3440f50d)
+![ MUDRICK CAPITAL ACQUISITION CORPORATION II ](https://preview.redd.it/3as170q7ugr61.png?width=1871&format=png&auto=webp&s=3ba5b3f536def5931ff633895a79bc2f3440f50d)
 
 This is so much more than speculation..... Citadel is a *duck*.
 

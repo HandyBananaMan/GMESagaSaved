@@ -64,7 +64,7 @@ I also tested this theory with AMC and it works just as well (didn't feel like p
 
 [YES](https://preview.redd.it/vj65861nxbw61.png?width=320&format=png&auto=webp&s=b76b2a3311140af633c8e7f644c5d3a5fa840904)
 
-I will now direct your attention to an important DD about 2 important OCC rules that I think everyone should be aware of. These could explain why we are trading sideways and could also show where we might be heading. These have to do with FTDs, so it compliments this theory: [https://www.reddit.com/r/Superstonk/comments/mu9xed/why\_were\_still\_trading\_sideways\_and\_why\_we\_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/) 
+I will now direct your attention to an important DD about 2 important OCC rules that I think everyone should be aware of. These could explain why we are trading sideways and could also show where we might be heading. These have to do with FTDs, so it compliments this theory: ![https://www.reddit.com/r/Superstonk/comments/mu9xed/why\_were\_still\_trading\_sideways\_and\_why\_we\_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/) 
 
 Shoutout to u/c-digs for this post, you are also loved by Hank.
 

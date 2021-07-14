@@ -192,7 +192,7 @@ Notice the word "could" each time. This is a series of possible events that coul
 
 .
 
-*and... just putting this here:* [*https://www.gmefloor.com/*](https://www.gmefloor.com/)
+*and... just putting this here:* ![*https://www.gmefloor.com/*](https://www.gmefloor.com/)
 
 .
 

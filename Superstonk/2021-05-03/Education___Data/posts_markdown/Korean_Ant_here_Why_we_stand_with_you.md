@@ -216,7 +216,7 @@ Koreans love Aesop's fables, and we often describe ourselves as ants, who are so
 
 [Pre-MOASS](https://preview.redd.it/wsyes75dp0x61.jpg?width=800&format=pjpg&auto=webp&s=4ce861ee9da0916fd4e95ce756eb8b0fe9375076)
 
-[Post-MOASS](https://preview.redd.it/kws80p5dp0x61.jpg?width=250&format=pjpg&auto=webp&s=5208cdebbe470839a4b86980f7b16aa00f5ef9af)
+![Post-MOASS](https://preview.redd.it/kws80p5dp0x61.jpg?width=250&format=pjpg&auto=webp&s=5208cdebbe470839a4b86980f7b16aa00f5ef9af)
 
 But we would like to embrace that identity, and become the King of our personal ant Hills.
 

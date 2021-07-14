@@ -66,4 +66,4 @@ Very important remark by u/yosaso:
 
 Link to the whole document:
 
-[https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf)
+![https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf)

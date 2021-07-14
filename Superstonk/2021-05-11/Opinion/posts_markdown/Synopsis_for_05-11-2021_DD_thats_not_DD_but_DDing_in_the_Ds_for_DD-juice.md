@@ -46,7 +46,7 @@ Yesterday we saw a sharp decline in price... no kidding it was just about 10% an
 
 The thing that's interesting to me is the latest post of u/wardenelite, in it he describes multiple scenarios that could happen and what they may be able to do on a technical level to give off certain ideas.
 
-[https://www.reddit.com/r/Superstonk/comments/n5me5g/the\_mother\_of\_all\_wedges\_an\_endgame\_dd\_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
+![https://www.reddit.com/r/Superstonk/comments/n5me5g/the\_mother\_of\_all\_wedges\_an\_endgame\_dd\_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
 
 But more specific I like this image 
 

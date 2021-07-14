@@ -130,4 +130,4 @@ Edit 2:
 
  [u/PWNWTFBBQ](https://www.reddit.com/user/PWNWTFBBQ/)'s post about Shorting Algorithm
 
-[https://www.reddit.com/r/Superstonk/comments/ogjkao/i\_think\_i\_figured\_out\_the\_shorting\_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)
+![https://www.reddit.com/r/Superstonk/comments/ogjkao/i\_think\_i\_figured\_out\_the\_shorting\_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)

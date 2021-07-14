@@ -49,7 +49,7 @@ What I just read on Reddit u/JustBeingPunny found out that J.P. Morgan has now a
   
  So much is falling into place lately and more and more things are coming to light. Many stocks are collapsing AH as one can surmise that HF and banks are liquidating their positions to have money as quickly as possible. It looks like we are in for a lot of margin calls as the shorts are running out of money and bleeding but trying to keep that hidden from the public. 
 
-[No caption needed](https://preview.redd.it/w5fu4eydaju61.png?width=578&format=png&auto=webp&s=d2699e097febbf75a719ae968d8a15c932dd2b73)
+![No caption needed](https://preview.redd.it/w5fu4eydaju61.png?width=578&format=png&auto=webp&s=d2699e097febbf75a719ae968d8a15c932dd2b73)
 
 *TLDR*: **J.P. Morgan** is trying to make money through several attempts and it looks like we are about to have a crash like 2008. I am so “jacked to the Titts” because I know they can't hold their positions much longer like they are doing right now. 
 

@@ -6,7 +6,7 @@ Good evening Apes,
 
 u/Dan_Bren here. Hope everyone had a great Monday as I know I did. The weekends feel like an eternity when you're waiting for the market to open. What a weird world we live in where on the weekend I look forward to Monday. What is wrong with me? Besides the fact that I eat crayons and sleep in my wife's boyfriends Honda Civic. Enough chit-chat let's get into the data.
 
-[GME Biggest Trades 4-19-2021](https://preview.redd.it/7d36bp1t38u61.jpg?width=1222&format=pjpg&auto=webp&s=51decc9d6190708a6d7ca15d5d323b3f19841d54)
+![GME Biggest Trades 4-19-2021](https://preview.redd.it/7d36bp1t38u61.jpg?width=1222&format=pjpg&auto=webp&s=51decc9d6190708a6d7ca15d5d323b3f19841d54)
 
 As you can see from the image above there were no large block purchases of DEEP ITM calls.  Nothing really important to note in the options activity (on the Biggest Trades list) as the largest transaction looked to be some $190 calls that traded for less than $1 million. Pocket change compared to the tens of millions we saw in purchases previously.  As always I will continue to monitor this on-going situation  and keep you posted.
 

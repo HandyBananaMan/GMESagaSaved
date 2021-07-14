@@ -99,7 +99,7 @@
 <li>Apply the smoothed call/put mid-price relativities to the smoothed orats IV estimates to get the final call/put IV estimates.</li>
 </ul>
 </li>
-<li>Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: <a href="https://www.macroption.com/option-greeks-excel/#gamma-in-excel">https://www.macroption.com/option-greeks-excel</a></li>
+<li>Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: <img alt="https://www.macroption.com/option-greeks-excel" src="https://www.macroption.com/option-greeks-excel/#gamma-in-excel" /></li>
 <li>For the total market delta and total market gamma, I rely on the OI x delta and OI x gamma for each strike price.</li>
 <li>Note that the delta of a call is usually equal to (1 - put delta), so not adjustment is needed to the delta signs when calculating the total market delta.</li>
 <li>However, the call/put gammas are both positive based on the B-S calculation. If you're calculating the total gamma for a portfolio, or the total market, you have to add the call gamma and subtract the put gamma.</li>

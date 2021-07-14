@@ -8,4 +8,4 @@ Taiwan’s $2 trillion stock market triggered a rush of activity in the options 
 
 As the Taiex sank 3.8% on Tuesday, the level of margin debt fell by NT$12.6 billion, the most since October 2018. That suggests traders faced margin calls by brokers to cover losses in their stock accounts. Wednesday’s rout is likely to have spurred a bigger unwinding of leverage.
 
-Will the over-leveraged brokers in Taiwan and [Canadian U.S. Bond selling](https://www.reddit.com/r/Superstonk/comments/naiy1g/bloomberg_canada_sells_its_largest_us_dollar_bond/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) lead to fear for the U.S. markets on opening bell?
+Will the over-leveraged brokers in Taiwan and ![Canadian U.S. Bond selling](https://www.reddit.com/r/Superstonk/comments/naiy1g/bloomberg_canada_sells_its_largest_us_dollar_bond/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) lead to fear for the U.S. markets on opening bell?

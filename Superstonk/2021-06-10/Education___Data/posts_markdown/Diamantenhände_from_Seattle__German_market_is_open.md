@@ -9,7 +9,7 @@ Hello world! 👋 What a day to be a GME shareholder! New Chairman of the Board!
 Let's see where Germany leads us...
 
 
-- 🚀 [US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
+- 🚀 ![US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
 - 🟩 120 minutes in: **$283.00 / 232,35 €**
 - 🟩 115 minutes in: $280.93 / 230,65 €
 - 🟩 110 minutes in: $280.75 / 230,50 €

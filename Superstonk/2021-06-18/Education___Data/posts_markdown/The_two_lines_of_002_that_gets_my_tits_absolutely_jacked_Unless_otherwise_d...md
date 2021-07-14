@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/](https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/)
 
 
-[Source Document](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/NSCC/SR-NSCC-2021-002.pdf)
+![Source Document](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/NSCC/SR-NSCC-2021-002.pdf)
 
 **NSCC-2021-002, SEC. 8. Satisfaction of Intraday Supplemental Liquidity Calls.**
 

@@ -20,6 +20,6 @@ I bring fantastic news to all the bagholding crayon eaters on this sub. This pos
 
 (3/3) Wednesday another massive purchase of deep ITM calls from PHLX $45 million expiring 4/16/21
 
-[https://imgur.com/gallery/Z05Vqmg](https://imgur.com/gallery/Z05Vqmg) = 4210 calls
+![https://imgur.com/gallery/Z05Vqmg](https://imgur.com/gallery/Z05Vqmg) = 4210 calls
 
 In total here we are looking at a purchase of roughly 9425 calls from what we believe is the same buyer over the course of the last 3 days. Unfortunately I do not have access to the historical data to see if the same buyer had bought more previously. Regardless this gives the buyer the rights to buy 942,500 shares by April 16 (presuming these options expire ITM). This is just one of the many factors setting up a potential gamma squeeze.

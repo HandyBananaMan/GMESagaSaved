@@ -98,4 +98,4 @@ The market was moving towards a crash even without GameStop but when it does fin
 
 \*\*Edit 17\*\* u/fortifier22 just released more [great information](https://www.reddit.com/r/Superstonk/comments/mvj8fz/where_there_is_smoke_there_is_fire/) in a recent post.
 
-\*\*Edit 18\*\*  [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) does a comparison of negative beta and distribution [days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/).
+\*\*Edit 18\*\*  [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) does a comparison of negative beta and distribution ![days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/).

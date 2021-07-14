@@ -106,6 +106,6 @@ This data appears to show a shift of short positions from GME to related ETFs af
 
 As well as FTDs being shifted we see evidence of SI being shifted from GME to ETFs. The main ETF used here appears to be IWM. Total  remains as high as ever at 27+ billion dollars owed.
 
-The short fuckery being done with ETFs as well as [what we've seen using options trades](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) paints a clear picture of manipulation on the short side. All of these efforts reek of desperation from the shorts as their only hope of escape is making apes scared or bored. But I ain't going anywhere. ***I like the stonk***.
+The short fuckery being done with ETFs as well as ![what we've seen using options trades](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) paints a clear picture of manipulation on the short side. All of these efforts reek of desperation from the shorts as their only hope of escape is making apes scared or bored. But I ain't going anywhere. ***I like the stonk***.
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀

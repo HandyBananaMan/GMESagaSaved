@@ -18,6 +18,6 @@ But this can be avoided if you check the url before clicking the link. To check 
 
 Edit: Like an ape pointed out: **Another way to check the link is to scroll over it with your mouse, but not click the link. The real link will show up in the bottom left corner of your browser when you hover over it.**
 
- Edit 2: You can go to [https://urlscan.io/](https://urlscan.io/) to check if the url is safe. 
+ Edit 2: You can go to ![https://urlscan.io/](https://urlscan.io/) to check if the url is safe. 
 
 Stay safe apes, see you on the moon 🚀 🚀

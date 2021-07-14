@@ -305,7 +305,7 @@ Hey wait I've seen this one before...
 
 &#x200B;
 
-[The fuck?](https://preview.redd.it/hpbcknl9po971.png?width=460&format=png&auto=webp&s=fb85bd5e7e35af7a832de15842350e67d142f42f)
+![The fuck?](https://preview.redd.it/hpbcknl9po971.png?width=460&format=png&auto=webp&s=fb85bd5e7e35af7a832de15842350e67d142f42f)
 
 The same minute with super high volume? **Both on T+21 days? Last time this happened, a massive spike followed, that's definitely not going to happen again eh?**  
 

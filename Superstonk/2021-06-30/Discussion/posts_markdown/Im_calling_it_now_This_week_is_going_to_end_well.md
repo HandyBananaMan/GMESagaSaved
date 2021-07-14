@@ -58,8 +58,10 @@ EDIT 3: I am not saying Friday's going to trade well btw, just that we might get
 
 ~~EDIT 4: Okay so dividend declaration dates might be able to be done on weekend/holidays? I figured not for SEC filing purposes... however I can't find anything that says that they can't [and some evidence that says that they can...](https://www.reddit.com/r/Superstonk/comments/oatbcn/im_calling_it_now_this_week_is_going_to_end_well/h3l5uxx) if so then July 4th might be the actual date.~~
 
-EDIT 5: From reading [this](https://academic.oup.com/rfs/article/2/4/607/1587121?casa_token=WeDq43HiQqkAAAAA:vlVkPBxiT35evI8B8winiCD8HqjUDSCpK90k1qeK-wFSBX98r9e0xXl5QPez_GvhAFwqd4pUTVsXpg) academic article that studies the timing of when dividends are released and their effect on the market, it implies that dividends can only be released on weekdays.
+EDIT 5: From reading ![this](https://academic.oup.com/rfs/article/2/4/607/1587121?casa_token=WeDq43HiQqkAAAAA:vlVkPBxiT35evI8B8winiCD8HqjUDSCpK90k1qeK-wFSBX98r9e0xXl5QPez_GvhAFwqd4pUTVsXpg) academic article that studies the timing of when dividends are released and their effect on the market, it implies that dividends can only be released on weekdays.
 
 EDIT 6: https://twitter.com/ryancohen/status/1410398196610723842?s=20 
 
 If it happens tomorrow I'm going to cum. Send all those options ITM? Yes please Daddy Cohen.
+
+EDIT 7: Lmao.

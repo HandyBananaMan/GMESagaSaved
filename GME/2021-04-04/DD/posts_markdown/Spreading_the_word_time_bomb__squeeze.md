@@ -39,6 +39,6 @@ Fear not fellow apes, for the squeeze has yet to be squoze and the wick on this 
 
 Now sit back, jerk one to the thought of your future waifu sitting in your lambo as you raid a Wendy’s for those precious tendies.
 
-Edit: [Options Data for proof of ITM / OTM contracts, scroll down and you will see a table full of options data!](https://gme.crazyawesomecompany.com) 
+Edit: ![Options Data for proof of ITM / OTM contracts, scroll down and you will see a table full of options data!](https://gme.crazyawesomecompany.com) 
 
 **TLDR: HEDGIES FUKD, IM HARD, BUY AND HODL**

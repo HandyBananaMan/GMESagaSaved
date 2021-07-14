@@ -50,4 +50,4 @@ Sauce's
 
 [https://nj.gov/oag/oag/ag\_bio.htm](https://nj.gov/oag/oag/ag_bio.htm)
 
-[https://www.sec.gov/news/press-release/2021-114](https://www.sec.gov/news/press-release/2021-114)
+![https://www.sec.gov/news/press-release/2021-114](https://www.sec.gov/news/press-release/2021-114)

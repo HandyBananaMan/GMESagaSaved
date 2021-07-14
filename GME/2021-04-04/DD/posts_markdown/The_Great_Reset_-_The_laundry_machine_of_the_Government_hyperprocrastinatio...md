@@ -206,4 +206,4 @@ https://preview.redd.it/sk3osfg0fbr61.png?width=905&format=png&auto=webp&s=e4eb4
 
 &#x200B;
 
-[u\/MemeMannnnnn saved you from my wall of text](https://preview.redd.it/uy4168u1k6r61.png?width=925&format=png&auto=webp&s=b1fe36122a3a4bb1065af999f14537a60c5fc1ee)
+![u\/MemeMannnnnn saved you from my wall of text](https://preview.redd.it/uy4168u1k6r61.png?width=925&format=png&auto=webp&s=b1fe36122a3a4bb1065af999f14537a60c5fc1ee)

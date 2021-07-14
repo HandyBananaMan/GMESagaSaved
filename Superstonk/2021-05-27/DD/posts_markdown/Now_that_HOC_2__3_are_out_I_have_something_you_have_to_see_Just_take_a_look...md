@@ -10,7 +10,7 @@ This is 114 months from 4/14/21 there are so many data points you can't see it's
 
 So a beautiful autist wrote some code and put the data on tableau, it's the harvested FINRA FTD data for all tickers available.
 
-Link: [https://public.tableau.com/app/profile/gmeshortsqueeze/viz/SECFails-to-DeliverData/SECFails-to-DeliverData](https://public.tableau.com/app/profile/gmeshortsqueeze/viz/SECFails-to-DeliverData/SECFails-to-DeliverData)
+Link: ![https://public.tableau.com/app/profile/gmeshortsqueeze/viz/SECFails-to-DeliverData/SECFails-to-DeliverData](https://public.tableau.com/app/profile/gmeshortsqueeze/viz/SECFails-to-DeliverData/SECFails-to-DeliverData)
 
 This is worth playing around with. But, when you do, you will come to the conclusion that this has been going on a long time, and has been predatory and systematic in nature.
 

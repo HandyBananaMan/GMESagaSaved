@@ -118,7 +118,7 @@ What the fuck are you people doing?  Gary, if your intern or lower level grunt s
 
 &#x200B;
 
-[For the record, the Ape being held captive is a shill.... lol](https://preview.redd.it/ub2cchsj1u571.png?width=1000&format=png&auto=webp&s=5501e7bc116887d09b89205cf2d5468acab29e3d)
+![For the record, the Ape being held captive is a shill.... lol](https://preview.redd.it/ub2cchsj1u571.png?width=1000&format=png&auto=webp&s=5501e7bc116887d09b89205cf2d5468acab29e3d)
 
 &#x200B;
 

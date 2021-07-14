@@ -56,7 +56,7 @@ Steve Cohen is a fanatic "art - collector" / (better to say: tax evader):
 
 [https://www.forbes.com/sites/afontevecchia/2013/03/26/hedge-fund-billionaire-steve-cohens-155m-picasso-isnt-his-first-multi-million-piece-of-art/?sh=52e73baf3613](https://www.forbes.com/sites/afontevecchia/2013/03/26/hedge-fund-billionaire-steve-cohens-155m-picasso-isnt-his-first-multi-million-piece-of-art/?sh=52e73baf3613)
 
-"In an extensive interview with [*Vanity Fair*](http://www.vanityfair.com/business/features/2010/07/steve-cohen-201007)  from 2010, the hedgie’s art adviser Sandy Heller revealed Cohen had  bought **more than 300 pieces** since he began collecting in 2000."
+"In an extensive interview with ![*Vanity Fair*](http://www.vanityfair.com/business/features/2010/07/steve-cohen-201007)  from 2010, the hedgie’s art adviser Sandy Heller revealed Cohen had  bought **more than 300 pieces** since he began collecting in 2000."
 
 &#x200B;
 

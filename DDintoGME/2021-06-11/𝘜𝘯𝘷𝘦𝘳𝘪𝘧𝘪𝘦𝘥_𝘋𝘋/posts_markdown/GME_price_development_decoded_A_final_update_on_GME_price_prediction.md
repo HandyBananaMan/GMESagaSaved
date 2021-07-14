@@ -72,7 +72,7 @@ Alright, this was long, sorry for that. But as a transparent community, I would 
 
 Model details
 
-You find all the model details here: [https://github.com/rocketapes123/GMEmodel](https://github.com/rocketapes123/GMEmodel)
+You find all the model details here: ![https://github.com/rocketapes123/GMEmodel](https://github.com/rocketapes123/GMEmodel)
 
 With a linear model, you can model a variable (in this case: GME price change to previous day in percent) as simple equation:
 

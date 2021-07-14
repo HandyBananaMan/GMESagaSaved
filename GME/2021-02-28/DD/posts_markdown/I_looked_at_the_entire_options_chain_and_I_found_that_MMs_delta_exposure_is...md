@@ -21,4 +21,4 @@ I personally only see two outcomes, one as the stock rises it will become more a
 
 Calculations: 
 
-[**https://docs.google.com/spreadsheets/d/1\_vi\_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl\_zQ/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1_vi_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl_zQ/edit?usp=sharing)
+![**https://docs.google.com/spreadsheets/d/1\_vi\_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl\_zQ/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1_vi_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl_zQ/edit?usp=sharing)

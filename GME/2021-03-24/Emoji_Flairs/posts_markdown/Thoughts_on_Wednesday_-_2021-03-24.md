@@ -179,7 +179,7 @@ A DM conversation I had today with u/the-bevilacqua-kid questioning if GME will 
 
 &#x200B;
 
-[Ignore the Typos](https://preview.redd.it/9n1k8wzz13p61.jpg?width=704&format=pjpg&auto=webp&s=78fcf393993763d1e87cfdca4898b3368490bb8b)
+![Ignore the Typos](https://preview.redd.it/9n1k8wzz13p61.jpg?width=704&format=pjpg&auto=webp&s=78fcf393993763d1e87cfdca4898b3368490bb8b)
 
 Redditor u/liloozykert shared this post with me from u/GoldenSheriff. Something to lift your spirits.
 

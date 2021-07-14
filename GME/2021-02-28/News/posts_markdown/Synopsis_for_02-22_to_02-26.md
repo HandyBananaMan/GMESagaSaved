@@ -582,7 +582,7 @@ and the funny thing, this is also a reference to Cohens former company Chewy, wh
 
 https://preview.redd.it/n47kbjviz7k61.png?width=2856&format=png&auto=webp&s=666392255ee4e9de4bd5504fddd39239386f772b
 
-[https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
+![https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
 
 he is still in!
 

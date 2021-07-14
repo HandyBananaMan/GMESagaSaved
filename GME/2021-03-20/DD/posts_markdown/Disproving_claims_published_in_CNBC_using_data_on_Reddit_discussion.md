@@ -32,7 +32,7 @@ From both of these graphs I see no indication of the number of recent conversati
 
 To take it a step further, we can look at what % of comments mentioning different stocks also mention stimulus, as I did recently in the graphic below. A larger proportion of comments mentioning $GME on WSB also mention stimulus than for any other major meme stocks, save for $TSLA.
 
-[Table](https://preview.redd.it/7oxjt2ukt6o61.png?width=1072&format=png&auto=webp&s=f9a1d42a27108bbc1d90253bb36ab05a843d6e77)
+![Table](https://preview.redd.it/7oxjt2ukt6o61.png?width=1072&format=png&auto=webp&s=f9a1d42a27108bbc1d90253bb36ab05a843d6e77)
 
 I don't know how the conclusion was reached that the number of recent conversations on reddit including GME and stimulus is low. Assuming that this is an honest mistake, I'd encourage BofA, Market Watch, CNBC, or any of the other parties involved to get better data. There are a lot of people out there who have started collecting data on WSB, but not many who do it well and with good intentions. I've been doing it for a while now, and I like to think I fit both those criteria which is why I feel qualified to write this post.
 

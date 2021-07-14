@@ -47,7 +47,7 @@ Sources:
 * [https://www.fool.com/earnings/call-transcripts/2020/06/09/gamestop-corp-new-gme-q1-2020-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2020/06/09/gamestop-corp-new-gme-q1-2020-earnings-call-transc.aspx)
 * [https://www.fool.com/earnings/call-transcripts/2020/03/26/gamestop-corp-new-gme-q4-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2020/03/26/gamestop-corp-new-gme-q4-2019-earnings-call-transc.aspx)
 * [https://www.fool.com/earnings/call-transcripts/2019/12/10/gamestop-corp-new-gme-q3-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/12/10/gamestop-corp-new-gme-q3-2019-earnings-call-transc.aspx)
-* [https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx)
+* ![https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx)
 
 I don’t have the karma to post on r/SuperStonk and I’m far too smooth brained to know how to farm karma. So feel free to cross post this if it’s interesting.
 

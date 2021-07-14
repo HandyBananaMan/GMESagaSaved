@@ -34,4 +34,4 @@ Source: [https://constantinecannon.com/2021/05/21/client-receives-maximum-award-
 
 ITG Inc. is owned by Virtu Financial.  Clicking on [www.itginc.com](http://www.itginc.com/) redirects to [https://www.virtu.com/](https://www.virtu.com/).  They had a press release on Mar 1, 2019: [Virtu Financial, Inc. Completes Acquisition of ITG to Create Premier Agency and Broker Neutral Franchise](https://ir.virtu.com/press-releases/press-release-details/2019/Virtu-Financial-Inc-Completes-Acquisition-of-ITG-to-Create-Premier-Agency-and-Broker-Neutral-Franchise/default.aspx)
 
-Virtu and dark pool trading was previously mentioned here by [u/HoldYourGroundon](https://www.reddit.com/user/HoldYourGroundon/) : [Let's not forget Citadel's partner in crime: VIRTU AMERICAS LLC](https://www.reddit.com/r/Superstonk/comments/mw6zx9/lets_not_forget_citadels_partner_in_crime_virtu/)
+Virtu and dark pool trading was previously mentioned here by [u/HoldYourGroundon](https://www.reddit.com/user/HoldYourGroundon/) : ![Let's not forget Citadel's partner in crime: VIRTU AMERICAS LLC](https://www.reddit.com/r/Superstonk/comments/mw6zx9/lets_not_forget_citadels_partner_in_crime_virtu/)

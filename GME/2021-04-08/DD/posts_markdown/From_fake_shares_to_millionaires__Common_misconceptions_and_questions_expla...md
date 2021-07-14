@@ -198,7 +198,7 @@ Even if you don't completely buy my theory, I believe there are some general gui
 * **Trust your fellow apes!** Apes together strong! In the end, squeezing those Shits is a collective effort, and the peak of the squeeze will be determined by the collective effort of all apes. If you trust that your fellow apes are holding, you will hold too!
 * **Don't listen to anyone saying the squeeze is over until it is over!** The MSM, maybe even our subs, will be overrun by people telling you to "cash in before it's too late", or anything that will convince you that the squeeze is over, and all other apes are selling. **Don't you dare believe them!** Stay calm, stick to your plan, and follow all the above guidelines. This is not over until it's over!
 
-If you want to read more about exit strategy, I recommend [Warden's post](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/). You will also find more links in the compilation of all DD in r/GME.
+If you want to read more about exit strategy, I recommend ![Warden's post](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/). You will also find more links in the compilation of all DD in r/GME.
 
 **What did we learn?**
 

@@ -76,6 +76,6 @@ References
 
 [https://oic.ivolatility.com/](https://oic.ivolatility.com/)
 
-[https://www.theocc.com/](https://www.theocc.com/)
+![https://www.theocc.com/](https://www.theocc.com/)
 
 Edit 1. Sorry to all the gen x people who've lived with this for longer. I got you.

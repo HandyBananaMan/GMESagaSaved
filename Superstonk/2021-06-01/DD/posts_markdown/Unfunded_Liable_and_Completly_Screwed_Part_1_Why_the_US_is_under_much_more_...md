@@ -86,7 +86,7 @@ Privatization of health care have lead to rampant cost increases, about [twice a
 
 People take more than they put in, especially with longer life expectancy.
 
-The 1% are barely taxed for social security, the maximum you can be taxed for social security is $8,537.40, [regardless of what you own](https://www.adp.com/spark/articles/2020/08/social-security-wage-base-for-2020-announced.aspx) (wow, more tax benefits for the 1%).
+The 1% are barely taxed for social security, the maximum you can be taxed for social security is $8,537.40, ![regardless of what you own](https://www.adp.com/spark/articles/2020/08/social-security-wage-base-for-2020-announced.aspx) (wow, more tax benefits for the 1%).
 
 To be honest, this doesn't even convince me. I have some speculation on what's happening, but since I can't prove it with sources, I won't elaborate.
 

@@ -208,7 +208,7 @@ Archegos served as an alarm bell for the system to wake up and act to protect it
 
 Edit: formatting.
 
-[Link to original](https://www.futurimagazine.it/scenari/siamo-sullorlo-di-una-nuova-crisi-finanziaria-il-caso-gamestop-i-segnali-degli-hedge-funds-e-lascesa-delle-criptovalute/)
+![Link to original](https://www.futurimagazine.it/scenari/siamo-sullorlo-di-una-nuova-crisi-finanziaria-il-caso-gamestop-i-segnali-degli-hedge-funds-e-lascesa-delle-criptovalute/)
 
 Thanks for the awards! 💎🙌
 

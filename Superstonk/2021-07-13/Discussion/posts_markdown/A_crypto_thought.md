@@ -14,7 +14,7 @@ The part that looks like a cartridge has the etherium stamped on it, and of cour
 
 But then I started reading  Jordan Holberg's post on Magic the gathering.
 
-(which can be found [here](https://www.linkedin.com/pulse/magic-gathering-multiverse-metaverse-jordan-holberg))
+(which can be found ![here](https://www.linkedin.com/pulse/magic-gathering-multiverse-metaverse-jordan-holberg))
 
 It goes into detail on how Hasbro and Wizards of the coast could use NFT's in multiple actual use scenarios.
 

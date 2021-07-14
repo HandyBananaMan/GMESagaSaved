@@ -6,7 +6,7 @@ If you wanted a definitive proof about who CNBC plays for, we got ya, retards. T
 
 Original video: [https://www.youtube.com/watch?v=imRzHXRq80I](https://www.youtube.com/watch?v=imRzHXRq80I) \- duration 04:37:06
 
-CNBC video: [https://www.youtube.com/watch?v=d2DU6DXfGPM](https://www.youtube.com/watch?v=d2DU6DXfGPM) \- duration 04:17:58
+CNBC video: ![https://www.youtube.com/watch?v=d2DU6DXfGPM](https://www.youtube.com/watch?v=d2DU6DXfGPM) \- duration 04:17:58
 
 We're missing about 20 minutes.
 

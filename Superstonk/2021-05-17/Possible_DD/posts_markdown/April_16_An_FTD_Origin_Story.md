@@ -4,7 +4,7 @@
 
 As I write this at 9:10 CDT, $GME is up 5%. **A solid, solid green day.**
 
-Yesterday I [argued in some DD](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/) that **there are not one, but at least FIVE active FTD cycles**. This explains the previously random 3%+ upswings in GME through identifying the data at which the initial naked short sell scam began for each cycle.
+Yesterday I ![argued in some DD](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/) that **there are not one, but at least FIVE active FTD cycles**. This explains the previously random 3%+ upswings in GME through identifying the data at which the initial naked short sell scam began for each cycle.
 
 **I did not include April 16th as an origin date because we did not have confirmation** of a solid green day.
 

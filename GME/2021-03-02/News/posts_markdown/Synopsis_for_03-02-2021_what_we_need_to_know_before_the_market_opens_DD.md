@@ -149,7 +149,7 @@ And those Fundamentals have changed drastically, in such a way that it's not goi
 
 And because the focus has been on the Squeeze itself a lot of people forgot these fundamentals.
 
-[Bruce \\"soon moon\\" Lee](https://preview.redd.it/lxh5zsttelk61.jpg?width=720&format=pjpg&auto=webp&s=fd5e501eb4792fdce881b92af15073d7420986d4)
+![Bruce \\"soon moon\\" Lee](https://preview.redd.it/lxh5zsttelk61.jpg?width=720&format=pjpg&auto=webp&s=fd5e501eb4792fdce881b92af15073d7420986d4)
 
 if you focus on the Squeeze, you'll forget to look at the rest, and as Wen Moon's big bro has said once, if you focus to much on one thing you will miss everything surrounding that.
 

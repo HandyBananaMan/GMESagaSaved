@@ -84,7 +84,7 @@ There is evidence of this in the charts as well. As I stated before, stocks like
 
 **Take a look at this chart and get familiar with these important levels** 
 
-[I included notes on this chart, but will be doing a breakdown for all of these levels](https://preview.redd.it/q8svsestyp371.png?width=1776&format=png&auto=webp&s=66ca0a69bc2e81fdd3c4b037a003ad941d076642)
+![I included notes on this chart, but will be doing a breakdown for all of these levels](https://preview.redd.it/q8svsestyp371.png?width=1776&format=png&auto=webp&s=66ca0a69bc2e81fdd3c4b037a003ad941d076642)
 
 **Let's break it down for you from left to right**
 

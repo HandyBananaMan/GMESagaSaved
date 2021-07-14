@@ -24,7 +24,7 @@ Did I read that right, 7 times as many treasury security backed assets as they o
 
 https://preview.redd.it/522gn9j8nhq61.jpg?width=408&format=pjpg&auto=webp&s=f963eceba95828408aba0ce2391f43b738cdd3ed
 
-So this part about the eSLR rule is interesting, but it didn't hold up. Next I will show some 2020 data from the same author which shows the collateral multiplier back up around 9 in April 2020.Source: [https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf](https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf)
+So this part about the eSLR rule is interesting, but it didn't hold up. Next I will show some 2020 data from the same author which shows the collateral multiplier back up around 9 in April 2020.Source: ![https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf](https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf)
 
 &#x200B;
 

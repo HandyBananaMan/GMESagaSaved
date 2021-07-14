@@ -34,7 +34,7 @@ https://preview.redd.it/i1uslhzd63471.jpg?width=1454&format=pjpg&auto=webp&s=6cf
 
 &#x200B;
 
-[I never requested paper materials, but I have now. I only used this to vote. Shares were DEF purchased on the 22nd of APRIL](https://preview.redd.it/7291dlgq0h371.jpg?width=1755&format=pjpg&auto=webp&s=7a23420ecbdf276cc4a3ad1bfa6558fea67b9107)
+![I never requested paper materials, but I have now. I only used this to vote. Shares were DEF purchased on the 22nd of APRIL](https://preview.redd.it/7291dlgq0h371.jpg?width=1755&format=pjpg&auto=webp&s=7a23420ecbdf276cc4a3ad1bfa6558fea67b9107)
 
 &#x200B;
 

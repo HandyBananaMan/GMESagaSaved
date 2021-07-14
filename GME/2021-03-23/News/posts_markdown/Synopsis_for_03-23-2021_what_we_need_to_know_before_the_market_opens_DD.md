@@ -244,7 +244,7 @@ Also if people see the AH go crazy, take a look at the level 2 data, it's algo t
 
 Also DFV did not sell a single thing, he's still in, I'm still in
 
-[https://www.reddit.com/r/wallstreetbets/comments/mbpclz/gme\_yolo\_update\_mar\_23\_2021/](https://www.reddit.com/r/wallstreetbets/comments/mbpclz/gme_yolo_update_mar_23_2021/)
+![https://www.reddit.com/r/wallstreetbets/comments/mbpclz/gme\_yolo\_update\_mar\_23\_2021/](https://www.reddit.com/r/wallstreetbets/comments/mbpclz/gme_yolo_update_mar_23_2021/)
 
 &#x200B;
 

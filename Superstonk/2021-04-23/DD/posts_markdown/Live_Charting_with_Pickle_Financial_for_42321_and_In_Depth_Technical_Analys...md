@@ -216,7 +216,7 @@ I just wanna say thanks for all of you flooding in here to support me. We really
 
 Docotor, I can't get my stock up. It's just laying there doing nothing.
 
-[Limp Stonk](https://preview.redd.it/5sisp3qa5yu61.png?width=1024&format=png&auto=webp&s=c01167e42293da8430519f64cf44e843c2359752)
+![Limp Stonk](https://preview.redd.it/5sisp3qa5yu61.png?width=1024&format=png&auto=webp&s=c01167e42293da8430519f64cf44e843c2359752)
 
 **Edit 25 12:00**
 

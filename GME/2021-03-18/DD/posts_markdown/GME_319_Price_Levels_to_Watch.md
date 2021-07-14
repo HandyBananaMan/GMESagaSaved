@@ -32,7 +32,7 @@ That being said, I LOVE buying my favorite stock for CHEAP, so the levels that I
 
 This rocket is about to take off, and idk about you, but **IM JACKED TO THE FUCKING TITS**
 
-[MACD and TTM Squeeze look Bullish on the 4hr](https://preview.redd.it/od10e20rivn61.png?width=2880&format=png&auto=webp&s=fbef8a7209f6b25e2d94da8669710024b4b60ff3)
+![MACD and TTM Squeeze look Bullish on the 4hr](https://preview.redd.it/od10e20rivn61.png?width=2880&format=png&auto=webp&s=fbef8a7209f6b25e2d94da8669710024b4b60ff3)
 
 I would love to see us liftoff tomorrow, but I don't like putting dates on things as it just leads to disappointment should it not happen on said date. nonetheless, payday is coming soon. I can feel it. I've never seen this community so excited, even when GME has been having a down week.
 

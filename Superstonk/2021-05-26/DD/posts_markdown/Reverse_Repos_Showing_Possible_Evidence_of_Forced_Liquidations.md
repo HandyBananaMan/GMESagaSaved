@@ -50,7 +50,7 @@ Here's why I think we might be seeing both *forced liquidations* as well as *mor
 
 [Repo and Reverse Repo Operations - Federal Reserve Bank of New York (newyorkfed.org)](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000)
 
-[System Open Market Account Holdings of Domestic Securities - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)](https://www.newyorkfed.org/markets/soma-holdings)
+![System Open Market Account Holdings of Domestic Securities - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)](https://www.newyorkfed.org/markets/soma-holdings)
 
 As always, thank you for reading my DDs you guys. I will try to hang in the comments for edits as well if anything. :)
 

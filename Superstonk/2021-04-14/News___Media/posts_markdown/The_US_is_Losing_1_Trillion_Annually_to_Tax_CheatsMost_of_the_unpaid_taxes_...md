@@ -6,4 +6,4 @@ We will pay taxes. They stand to gain so much when the squeeze has squozed and t
 
 &#x200B;
 
-[https://www.nytimes.com/live/2021/04/13/business/stock-market-today](https://www.nytimes.com/live/2021/04/13/business/stock-market-today)
+![https://www.nytimes.com/live/2021/04/13/business/stock-market-today](https://www.nytimes.com/live/2021/04/13/business/stock-market-today)

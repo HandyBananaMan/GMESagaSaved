@@ -9,4 +9,4 @@ Link to some articles :
 
 [economictimes](https://economictimes.indiatimes.com/news/international/while-us-economy-burned-sec-staff-surfed-for-porn/articleshow/5850805.cms)
 
-[reuters.com](https://www.reuters.com/article/urnidgns852573c4006938800025770e005fc355-idUS217604535120100423)
+![reuters.com](https://www.reuters.com/article/urnidgns852573c4006938800025770e005fc355-idUS217604535120100423)

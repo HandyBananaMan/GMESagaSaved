@@ -107,4 +107,4 @@ The agencies have decided to break down the application/companies into 4 categor
 3. Category III: 85%
 4. Category IV: 70%
 
-**Short Sales** \- I SUGGEST YOU READ THE WHOLE SECTION (IT IS GOLD) ([https://www.federalregister.gov/d/2020-26546/p-810](https://www.federalregister.gov/d/2020-26546/p-810))
+**Short Sales** \- I SUGGEST YOU READ THE WHOLE SECTION (IT IS GOLD) (![https://www.federalregister.gov/d/2020-26546/p-810](https://www.federalregister.gov/d/2020-26546/p-810))

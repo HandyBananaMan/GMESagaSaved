@@ -64,6 +64,6 @@ Everything points to a major squeeze of many assets in traded on the US Markets 
 **Links to European Market News**
 
 1. EU Rules on Short Selling [https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial-markets/securities-markets/short-selling\_en](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial-markets/securities-markets/short-selling_en)
-2. EU Lift Bans on Short Selling [https://www.thetradenews.com/short-selling-bans-lifted-in-europe/](https://www.thetradenews.com/short-selling-bans-lifted-in-europe/)
+2. EU Lift Bans on Short Selling ![https://www.thetradenews.com/short-selling-bans-lifted-in-europe/](https://www.thetradenews.com/short-selling-bans-lifted-in-europe/)
 
 (Credits: u/this-understanding85)

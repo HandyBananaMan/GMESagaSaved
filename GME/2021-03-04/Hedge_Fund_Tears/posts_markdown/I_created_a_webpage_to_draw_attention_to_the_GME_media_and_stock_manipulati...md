@@ -35,7 +35,7 @@ Thanks for all the comments and feedback, I have made some changes to the site t
 \- Added links relating to the supposed 20% gains for Melvin Capital;  
 \- Added MarketWatch / Barron's to the list of biased media outlets;  
 \- Adjusted the margin on desktop for easier reading;  
-\- Added a 404 for any confused apes [https://gmetruth.com/404](https://gmetruth.com/404);
+\- Added a 404 for any confused apes ![https://gmetruth.com/404](https://gmetruth.com/404);
 
 Further changes are coming, including a full timeline of events - future requests are welcome too.
 

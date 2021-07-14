@@ -20,7 +20,7 @@ I am currently invested $250k in GME, starting in the upper $200s lower 300 rang
 
 **\*\*\*Edit\*\*\***
 
-Well it turns out I don't quite have 400k in GME, \~23k in other positions. Due to the pre-market this morning there is a bit of green though. In any case, as promised [https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/](https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/)
+Well it turns out I don't quite have 400k in GME, \~23k in other positions. Due to the pre-market this morning there is a bit of green though. In any case, as promised ![https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/](https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/)
 
 \*\*\*Edit 2 \*\*\*
 

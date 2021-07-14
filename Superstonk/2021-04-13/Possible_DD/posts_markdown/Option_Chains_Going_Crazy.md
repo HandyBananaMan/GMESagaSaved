@@ -14,7 +14,7 @@ That dark pool buy / open market sell trick. Yeah, they are going to keep doing 
 
 The options market is where to watch the fight this week.  And it’s already growing.
 
-I made a post here [https://www.reddit.com/r/Superstonk/comments/mowgh9/faking\_a\_squeeze\_would\_backfire/](https://www.reddit.com/r/Superstonk/comments/mowgh9/faking_a_squeeze_would_backfire/) on Sunday, where I fortunately was tracking option numbers.
+I made a post here ![https://www.reddit.com/r/Superstonk/comments/mowgh9/faking\_a\_squeeze\_would\_backfire/](https://www.reddit.com/r/Superstonk/comments/mowgh9/faking_a_squeeze_would_backfire/) on Sunday, where I fortunately was tracking option numbers.
 
 We already see some major changes in the numbers
 

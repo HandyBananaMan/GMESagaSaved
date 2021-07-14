@@ -96,7 +96,7 @@ Where is Bill Hwang? Is he dead? Is he in the Caribbean? Why isn’t he suing Go
 
 &#x200B;
 
-[Movie recommendation](https://preview.redd.it/yf4gvik5o6t61.jpg?width=590&format=pjpg&auto=webp&s=093b70aab5e51c0ed83dfa91b0f022db876be5b9)
+![Movie recommendation](https://preview.redd.it/yf4gvik5o6t61.jpg?width=590&format=pjpg&auto=webp&s=093b70aab5e51c0ed83dfa91b0f022db876be5b9)
 
 Check it out – is a very good financial thriller about private money, special relationships and sacrificing your life as a whistleblower.
 

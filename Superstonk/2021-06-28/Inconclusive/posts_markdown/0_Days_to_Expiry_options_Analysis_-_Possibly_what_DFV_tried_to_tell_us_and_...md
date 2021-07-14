@@ -228,7 +228,7 @@ So yeah, here's the latest clean posting for this map. It doesn't have the small
 
 &#x200B;
 
-[Get munched already. If you or someone you paperhand because of a date, you deserve your fate. \\"oH nO NoThInG hApPeNeD oN a DaTe, BeTtEr SeLl EvEryThInG\\", don't give me this shit. This is the dumbest most irrational fear i've seen people have...](https://preview.redd.it/bvd1buqyez771.jpg?width=500&format=pjpg&auto=webp&s=e02f4691beb7268e5b870c221bb56dead4983b4b)
+![Get munched already. If you or someone you paperhand because of a date, you deserve your fate. \\"oH nO NoThInG hApPeNeD oN a DaTe, BeTtEr SeLl EvEryThInG\\", don't give me this shit. This is the dumbest most irrational fear i've seen people have...](https://preview.redd.it/bvd1buqyez771.jpg?width=500&format=pjpg&auto=webp&s=e02f4691beb7268e5b870c221bb56dead4983b4b)
 
 EDIT: As always, buy hodl etc. Let's see what happens over the next 2 weeks and whether i'm right or just a clown.
 

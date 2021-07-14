@@ -100,4 +100,4 @@ It's also up by 15% or so AH so yay for the power of Superstonk I guess?
 
 **EDIT 4:** No I don't have a damn clue what's going on with the All Seeing Awards. Maybe DFV's mouse button got stuck and he needs help with the mouse since he's not a cat?
 
-**EDIT 5:** For those who STILL don't believe this is an organic post, here are the screenshots ( [https://i.imgur.com/naiRTJP.png](https://i.imgur.com/naiRTJP.png) and [https://i.imgur.com/f3CEioL.png](https://i.imgur.com/f3CEioL.png) ) of how the idea originated in our private Discord and that should be the end of it or I swear to Wendy's tendies I will turn into a vibrator from so much shaking of my head.
+**EDIT 5:** For those who STILL don't believe this is an organic post, here are the screenshots ( [https://i.imgur.com/naiRTJP.png](https://i.imgur.com/naiRTJP.png) and ![https://i.imgur.com/f3CEioL.png](https://i.imgur.com/f3CEioL.png) ) of how the idea originated in our private Discord and that should be the end of it or I swear to Wendy's tendies I will turn into a vibrator from so much shaking of my head.

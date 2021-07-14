@@ -236,7 +236,7 @@ TL;DR: This is a fight Wall Street is not going to win. Chances are this will tr
 
 Notes:
 
-I truly didn't expect this level of reception on the post. Fun fact, this post was at least 51% because of [this chain of events](https://www.reddit.com/r/Superstonk/comments/nhv856/dear_shfsfxstreet_in_response_to_literally/). You just had to call out our Diamond Hands.
+I truly didn't expect this level of reception on the post. Fun fact, this post was at least 51% because of ![this chain of events](https://www.reddit.com/r/Superstonk/comments/nhv856/dear_shfsfxstreet_in_response_to_literally/). You just had to call out our Diamond Hands.
 
 Edit: interestingly enough, this post seemed to have gotten a pretty good amount of exposure outside of r/Superstonk. Thought it was being shilled, but they were just comments from the unenlightened. Quite an outcome. Definitely will be reposting an even more refined version.
 

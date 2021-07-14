@@ -169,7 +169,7 @@ Again please take a look at [u/AOCsquad126](https://www.reddit.com/user/AOCsquad
 
 **EDIT: An ape in the comments said that a Citadel Executive of 16 years stepped down today. Article below. CONFIRMATION BIAS TO THE MAX. I'm JAQ LE TIT**
 
-[https://www.pionline.com/money-management/head-citadels-surveyor-capital-steps-down](https://www.pionline.com/money-management/head-citadels-surveyor-capital-steps-down)
+![https://www.pionline.com/money-management/head-citadels-surveyor-capital-steps-down](https://www.pionline.com/money-management/head-citadels-surveyor-capital-steps-down)
 
 &#x200B;
 

@@ -84,7 +84,7 @@ A question I am asking myself is this: I demonstrated that the +ß of GME short 
 
 &#x200B;
 
-[How hedge funds work](https://preview.redd.it/4fp1j4qf06p61.png?width=598&format=png&auto=webp&s=8769f2ac25e12329f0385e2120ab1f05e3d58769)
+![How hedge funds work](https://preview.redd.it/4fp1j4qf06p61.png?width=598&format=png&auto=webp&s=8769f2ac25e12329f0385e2120ab1f05e3d58769)
 
 Volatility is opportunity when risk management is good.
 

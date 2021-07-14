@@ -18,6 +18,6 @@ It is time for all of this to explode, let us count only on ourselves to lead th
 
 Please dear mods, consider this opportunity u/atobitt u/pinkcatsonacid u/rensole
 
-The link to ICIJ is here : [https://www.icij.org/](https://www.icij.org/)
+The link to ICIJ is here : ![https://www.icij.org/](https://www.icij.org/)
 
 PS: Forgive the mistakes, I am only a French ape in your beautiful forest.

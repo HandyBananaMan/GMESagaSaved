@@ -16,6 +16,6 @@ Edit 2: 90% Upvoted. They are trying sooooo hard.
 
 Edit 3: [Link to the Official Q4 Earnings Report](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-reports-fourth-quarter-and-fiscal-2020-results) tl;dr **it's damn good!**
 
-Edit 4: [Link to YouTube Earnings Call Broadcast](https://www.youtube.com/watch?v=oMnY8yIFbr4&ab_channel=SmashJT) for those apes who are late to the party and can't get into the full conference call.
+Edit 4: ![Link to YouTube Earnings Call Broadcast](https://www.youtube.com/watch?v=oMnY8yIFbr4&ab_channel=SmashJT) for those apes who are late to the party and can't get into the full conference call.
 
 Edit 5: This thread is getting overwhelmed by shills, spreading FUD. You know what this means, my diamond handed apes. I will definitey hold and buy more tomorrow at the opening on such a tasty price. Moon is waiting.

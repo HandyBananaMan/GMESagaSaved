@@ -51,7 +51,7 @@ https://preview.redd.it/fy0llcnmy8p61.png?width=1923&format=png&auto=webp&s=8b87
 
 The annual GME stockholder meeting, as screenshotted from the sec [10k filing](https://sec.report/Document/0001326380-21-000032/). Date is \~June 10. May not be exactly **June 10**, but will likely be AROUND that time give or take a few days.
 
-[GME stockholder meeting. June 10, we all know this.](https://preview.redd.it/mxos0jztx8p61.png?width=2477&format=png&auto=webp&s=99d5e4b9f94951029b4baf9cf3d6fdf7ab7e768e)
+![GME stockholder meeting. June 10, we all know this.](https://preview.redd.it/mxos0jztx8p61.png?width=2477&format=png&auto=webp&s=99d5e4b9f94951029b4baf9cf3d6fdf7ab7e768e)
 
 This day could be a red day as the kick out a bunch of boomers out of their board, the MM spin this negatively and do a fake attack to drop the price as usual. Also GME likely HAS to to pay these 'people' big bonuses for them to leave (willingly) so that will be a small but acceptable price to pay which again could take us in red territory.
 

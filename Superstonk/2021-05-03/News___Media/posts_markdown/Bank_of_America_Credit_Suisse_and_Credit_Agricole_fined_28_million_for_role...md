@@ -23,4 +23,4 @@
 >  
 >Of the €28 million penalty, Bank of America Merrill Lynch received the most severe fine of €12, 642,000, followed by Credit Suisse who received a fine of €11,859,000, and Crédit Agricole who received a fine of €3,993,000.  
 >  
->The fine marks the latest crackdown on cartel activity within large investment banks by the Commission. In 2019, Barclays, RBS, Citi, JP Morgan and MUFG paid a [combined €1.07 billion in penalties](https://www.thetradenews.com/major-banks-fined-e1-billion-role-fx-trading-cartel/) for their involvement in a cartel that rigged FX spot prices for 11 currencies.
+>The fine marks the latest crackdown on cartel activity within large investment banks by the Commission. In 2019, Barclays, RBS, Citi, JP Morgan and MUFG paid a ![combined €1.07 billion in penalties](https://www.thetradenews.com/major-banks-fined-e1-billion-role-fx-trading-cartel/) for their involvement in a cartel that rigged FX spot prices for 11 currencies.

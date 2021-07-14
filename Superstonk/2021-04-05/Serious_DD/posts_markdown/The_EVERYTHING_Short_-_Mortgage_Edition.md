@@ -277,7 +277,7 @@ Other Points I wanted to incorporate:
 1. Removed the point about $RKT owner selling, sites / 4K's confused me. I believe only 20M not 60M were sold, and the proceeds weren't for a "golden" parachute as I initially described.
 2. GHLD's balance sheet
 
-[GHLD Balance Sheet](https://preview.redd.it/yrzpsn47amr61.png?width=2360&format=png&auto=webp&s=6fbafe7d06ec16f92dee10ff702ecf5a443e59e2)
+![GHLD Balance Sheet](https://preview.redd.it/yrzpsn47amr61.png?width=2360&format=png&auto=webp&s=6fbafe7d06ec16f92dee10ff702ecf5a443e59e2)
 
 3. If you look at the "other assets" of the condensed RKT balance sheet, they are primarily (5.7B) in "loans subject to repurchase right from Ginnie Mae (These are also written as Liabilities, seeing as they don't want to be a Lehman Brothers... i know its not the same thing, but you catch my drift. It can be either an asset or a liability, they don't know yet... but spoiler... it's a liability)
 

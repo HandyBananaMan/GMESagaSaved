@@ -6,4 +6,4 @@
 
 &#x200B;
 
-[FOLLOW SHILL SNIFFING DOG!](https://preview.redd.it/0yikddfwzwt61.png?width=994&format=png&auto=webp&s=90684456c36a939f8ec2a178d2525f50b811ccc1)
+![FOLLOW SHILL SNIFFING DOG!](https://preview.redd.it/0yikddfwzwt61.png?width=994&format=png&auto=webp&s=90684456c36a939f8ec2a178d2525f50b811ccc1)

@@ -14,7 +14,7 @@
 
 &#x200B;
 
-[**Docs link**](https://docs.google.com/document/d/e/2PACX-1vSsrsCvdsDUQK-yapdQllwk0PqzN6jZgG-ykDi6csJfJC3fvFrnpp5sZuMa8oQneUhLDY3z78vVFd8s/pub)
+![**Docs link**](https://docs.google.com/document/d/e/2PACX-1vSsrsCvdsDUQK-yapdQllwk0PqzN6jZgG-ykDi6csJfJC3fvFrnpp5sZuMa8oQneUhLDY3z78vVFd8s/pub)
 
 &#x200B;
 

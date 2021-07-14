@@ -82,4 +82,4 @@ edit2: grammatical error
 
 edit3: cleaned up first repo section, adding context. added link to WSJ video on repos  ([https://www.youtube.com/watch?v=gzCkXNrjFQM](https://www.youtube.com/watch?v=gzCkXNrjFQM)). added context for importance of treasury market.
 
-edit 4: WOW this blew up much more than I thought. Thank you all for the awards, everyone! Also, for you nerds out there, for this DD I also read this paper from the SEC released in February of this year: [https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf](https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf). Check it out if you're interested :)
+edit 4: WOW this blew up much more than I thought. Thank you all for the awards, everyone! Also, for you nerds out there, for this DD I also read this paper from the SEC released in February of this year: ![https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf](https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf). Check it out if you're interested :)

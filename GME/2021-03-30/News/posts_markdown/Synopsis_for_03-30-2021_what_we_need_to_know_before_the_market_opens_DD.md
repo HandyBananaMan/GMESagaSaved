@@ -199,4 +199,4 @@ Additionally, the Company made two other executive hires:
 * **Tom Petersen, Vice President of Merchandising** – Mr. Petersen, who previously served as Chewy’s Vice President of Merchandising, started March 29, 2021. He has also held senior marketing and merchandising roles at specialty retailers such as Artenza and Corro. In his new role, Mr. Petersen will help drive vendor relations, product management and related merchandising initiatives.  
 
 
-[https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html](https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html)
+![https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html](https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html)

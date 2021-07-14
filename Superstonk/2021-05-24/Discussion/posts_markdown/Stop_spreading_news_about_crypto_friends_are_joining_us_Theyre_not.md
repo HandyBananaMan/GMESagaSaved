@@ -6,7 +6,7 @@ I've seen countless of posts as of today where multiple people are posting about
 
 https://preview.redd.it/6xnmj3lll2171.png?width=703&format=png&auto=webp&s=608904bb5ede0153cc7081aade9f202ea0d5bf80
 
-[This one is sorted by controversial, as I know some of you will comment on it. But still, see if you can find anyone in the comment section with little to no activity in subreddits like r\/superstonk or r\/amc totally trusting this information.](https://preview.redd.it/421i6poul2171.png?width=702&format=png&auto=webp&s=4eac2085f27d5439197ec303df08821e787940e0)
+![This one is sorted by controversial, as I know some of you will comment on it. But still, see if you can find anyone in the comment section with little to no activity in subreddits like r\/superstonk or r\/amc totally trusting this information.](https://preview.redd.it/421i6poul2171.png?width=702&format=png&auto=webp&s=4eac2085f27d5439197ec303df08821e787940e0)
 
 There are no posts from actual people from the r/CryptoCurrency subreddit acknowledging our view of what is happening with the market as of now.
 

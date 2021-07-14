@@ -17,7 +17,7 @@ Rule #003 is helpful, but isn't the huge deal everyone has been making it out to
 
 Rule #801 is the rule we are waiting for that does do those things, was proposed on 5 March, and hasn't been approved yet.
 
-Many people speculated that Rule #801 would go into effect 19 March, 10 Days after filing. . .  Clearly this hasn't happened yet or the DTCC would have updated their page at [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings) to show the SEC approval notice.
+Many people speculated that Rule #801 would go into effect 19 March, 10 Days after filing. . .  Clearly this hasn't happened yet or the DTCC would have updated their page at ![https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings) to show the SEC approval notice.
 
 So I wrote to the DTCC point of contact (POC) listed in their public filing of rule #801 and asked for an update.
 

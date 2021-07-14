@@ -296,7 +296,7 @@ Edit 1:
 
 ETF holdings update
 
-[https://www.reddit.com/r/GME/comments/makcor/etf\_holdings\_of\_gme\_compiled\_current\_as\_of\_22\_mar/](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/)
+![https://www.reddit.com/r/GME/comments/makcor/etf\_holdings\_of\_gme\_compiled\_current\_as\_of\_22\_mar/](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/)
 
 &#x200B;
 

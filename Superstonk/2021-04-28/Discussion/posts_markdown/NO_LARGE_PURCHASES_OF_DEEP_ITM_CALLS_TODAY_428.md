@@ -10,4 +10,4 @@ Were there any large purchases? No
 
 Since there's no new news on the DEEP ITM call front (which is always good news). I wanted to take this time to give a shoutout to my fellow ape [u/YoungbloodAA](https://www.reddit.com/user/YoungbloodAA/) for the kickass background. My setup wasn't truly complete until now.
 
-[Disclaimer: I did not pay for this setup with GME stock because that would require me to have ever sold a share](https://preview.redd.it/kbmp96lzo0w61.jpg?width=3818&format=pjpg&auto=webp&s=540511231bf94874a88b3e04d0a0d70e06dd5e76)
+![Disclaimer: I did not pay for this setup with GME stock because that would require me to have ever sold a share](https://preview.redd.it/kbmp96lzo0w61.jpg?width=3818&format=pjpg&auto=webp&s=540511231bf94874a88b3e04d0a0d70e06dd5e76)

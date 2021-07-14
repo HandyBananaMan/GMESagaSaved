@@ -36,7 +36,7 @@ And of course, get ready to raise hell post MOASS if Tali wins.
 
 EDIT 3:
 
-u/RL_Fl0p shared [this article](https://nymag.com/intelligencer/article/who-will-replace-cy-vance-manhattan-district-attorney.html) that I think needs emphasis. It summarizes the race pretty well, but the real interest is a quote from Tali justifying taking money from the hedgies. She says, 
+u/RL_Fl0p shared ![this article](https://nymag.com/intelligencer/article/who-will-replace-cy-vance-manhattan-district-attorney.html) that I think needs emphasis. It summarizes the race pretty well, but the real interest is a quote from Tali justifying taking money from the hedgies. She says, 
 
 "I’m not the first person to have a spouse with interests and concerns of his own... You cannot predict in advance who is going to be a defendant or a victim or a witness in a case, but it is predictable that the defense bar is going to appear in front of the district attorney’s office.”
 

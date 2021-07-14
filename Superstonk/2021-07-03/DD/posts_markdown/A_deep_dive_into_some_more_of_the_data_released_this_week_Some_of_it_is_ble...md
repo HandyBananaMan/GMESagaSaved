@@ -100,4 +100,4 @@ So Apes, on this long holiday weekend, please take care of yourselves and look t
 
 Have a great rest of the weekend and enjoy the fireworks!
 
-[BOOM!](https://i.redd.it/yg7orrgrb3971.gif)
+![BOOM!](https://i.redd.it/yg7orrgrb3971.gif)

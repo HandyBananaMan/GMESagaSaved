@@ -177,7 +177,7 @@ Potential for a blockchain dividend. Also describes what an NFT is.
 &nbsp;
 
 
-[u/Pop-Tart_Rabies_MonkA lot of advice recently around passive income through ETFs etc - this says no](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/?utm_medium=android_app&utm_source=share)
+![u/Pop-Tart_Rabies_MonkA lot of advice recently around passive income through ETFs etc - this says no](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/?utm_medium=android_app&utm_source=share)
 
 
 &nbsp;

@@ -22,4 +22,4 @@ Would love for other folks to chime in and provide some thoughts and counterpoin
 
 My secondary goal is to uncover other avenues of due diligence and ideas to explore to see if we can find data that explains the market activity leading into and including this week.
 
-**Edit**: [Then we have this Tweet from Ihor Dusaniwsky that mentions S3 rating GME and AMC 10/10 for a short squeeze](https://www.reddit.com/r/Superstonk/comments/nlkrke/confirmation_bias_tits_jacked/).  Definitely the sense that some fuckery is afoot.
+**Edit**: ![Then we have this Tweet from Ihor Dusaniwsky that mentions S3 rating GME and AMC 10/10 for a short squeeze](https://www.reddit.com/r/Superstonk/comments/nlkrke/confirmation_bias_tits_jacked/).  Definitely the sense that some fuckery is afoot.

@@ -12,7 +12,7 @@ Not going to post very often unless I really think it'll be of interest, but it 
 
 **The Epidemic of Regulators Selling Out to the Highest Big Finance Bidder & Undermining Public Confidence via the Revolving Door Must be Outlawed**
 
-**Washington, D.C.** **–** Dennis M. Kelleher, President and Chief Executive Officer of Better Markets, issued the following statement in response to [reports](https://www.bloomberg.com/news/articles/2021-04-01/citadel-securities-hires-ex-cftc-chairman-tarbert-as-legal-chief?sref=mQvUqJZj) that the most recent Chairman of the Commodities Futures Trading Commission (CFTC) was just hired by Citadel Securities:
+**Washington, D.C.** **–** Dennis M. Kelleher, President and Chief Executive Officer of Better Markets, issued the following statement in response to ![reports](https://www.bloomberg.com/news/articles/2021-04-01/citadel-securities-hires-ex-cftc-chairman-tarbert-as-legal-chief?sref=mQvUqJZj) that the most recent Chairman of the Commodities Futures Trading Commission (CFTC) was just hired by Citadel Securities:
 
 “The announcement that the most recent Chairman of the Commodities Futures Trading Commission (CFTC) has been hired by Citadel Securities as its Chief Legal Officer is just the latest regrettable example of a senior government regulator appearing to sell out his public service to big finance via the revolving door. Recent ex-regulator hires at Robinhood, Coinbase, D.E. Shaw, Apollo Global Management, Spring Labs and many others preceded this latest revolving door hire by Citadel. 
 

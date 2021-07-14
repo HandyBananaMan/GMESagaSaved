@@ -134,6 +134,6 @@ We know that Citadel is the market-maker for practically all traded securities s
 
 &#x200B;
 
-[Stepping back into the \\"real\\" world of the market and the longs](https://preview.redd.it/q2c6e7gu1oo61.jpg?width=201&format=pjpg&auto=webp&s=1aa9e56cf415414d3461299b3a89ae491e3368c9)
+![Stepping back into the \\"real\\" world of the market and the longs](https://preview.redd.it/q2c6e7gu1oo61.jpg?width=201&format=pjpg&auto=webp&s=1aa9e56cf415414d3461299b3a89ae491e3368c9)
 
 EDIT: Before I go to bed I just want to say thank you for all the awards, karma and generous, warm words, for my first beta post as well 😭 😭 😭 😭 I really didn’t expect so much appreciation for my DD, but then I never knew that GME apes are the REAL MVP. And how cool is it that we all just want to get rich? That’s like the best community haha

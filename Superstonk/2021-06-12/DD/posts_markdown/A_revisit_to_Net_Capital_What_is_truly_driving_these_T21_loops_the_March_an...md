@@ -169,7 +169,7 @@ With the same exact timeframe of AMC, let's finally look at GME and the current 
 
 Otherwise, it might just be the standard T+21 Net Capital loop, which has that extra pressure from the ETF FTDs, where the Net Capital loop initiated on May 25th, and ends on June 24th.
 
-[GME Behavior from May 12th to June 24th](https://preview.redd.it/p3yueytz4r471.png?width=1441&format=png&auto=webp&s=48a0f3e70ac922a345e5b58c0219bd1470dff2ab)
+![GME Behavior from May 12th to June 24th](https://preview.redd.it/p3yueytz4r471.png?width=1441&format=png&auto=webp&s=48a0f3e70ac922a345e5b58c0219bd1470dff2ab)
 
 By the time of T+7 (25% Threshold), it appears that they really needed to apply some buy-ins, and the price started to rise quite significantly. Just like AMC, but not as extreme, because they want to put all of their energy into keeping this bad boy from popping off.
 

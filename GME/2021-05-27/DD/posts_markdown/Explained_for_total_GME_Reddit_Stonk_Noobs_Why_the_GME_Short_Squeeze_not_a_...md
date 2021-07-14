@@ -160,6 +160,6 @@ Disclaimers: This is NOT financial advice and I am not a financial advisor! I'm 
 
 &#x200B;
 
-[Not a financial advisor, not financial advice,  just a crazy Tanooki that likes moon voyages!](https://preview.redd.it/1h4uyv81or171.jpg?width=201&format=pjpg&auto=webp&s=a54ca5803865789e6d9515a00d66709d684a58fa)
+![Not a financial advisor, not financial advice,  just a crazy Tanooki that likes moon voyages!](https://preview.redd.it/1h4uyv81or171.jpg?width=201&format=pjpg&auto=webp&s=a54ca5803865789e6d9515a00d66709d684a58fa)
 
 UPDATE: thanks soooo much for all the awards!!!

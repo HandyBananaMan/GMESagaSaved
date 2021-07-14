@@ -46,7 +46,7 @@ THERE'S NOTHING STOPPING THEM FROM CONTINUALLY WORKING WITH EACH OTHER TO CREATE
 
 It's in my personal opinion that we're starting to see the bridges built, and it's team Citadel versus team BlackRock (I believe the Fed is on that team).
 
-I think the light at the end of the tunnel is that **Gary Gensler** will take the seat in the SEC JUST a day prior to the share recall [https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/) he was the one that brought what happened in 2008 to light through his extensive knowledge of darkpools. He also has a deep background in cryptocurrencies from what I understand.
+I think the light at the end of the tunnel is that **Gary Gensler** will take the seat in the SEC JUST a day prior to the share recall ![https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/) he was the one that brought what happened in 2008 to light through his extensive knowledge of darkpools. He also has a deep background in cryptocurrencies from what I understand.
 
 NOW get this; he's only stepping in until June when his terms will be renegotiated. It's quite concerning that he's making an appearance at this stage for such a short period of time.
 

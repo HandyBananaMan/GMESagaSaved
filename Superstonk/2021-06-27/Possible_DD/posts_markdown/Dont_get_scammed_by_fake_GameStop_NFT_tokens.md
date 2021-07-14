@@ -15,7 +15,7 @@ Here's [a post](https://www.reddit.com/r/Superstonk/comments/o99ms3/stay_calm_bu
 
 How'd they get scammed? Someone made a token and called it GameStop. But it wasn't GameStop. So jack your tits smartly.
 
-Here's [the scam](https://www.reddit.com/r/Superstonk/comments/o9967o/gme_just_transferred_42069_gmetoken_to_itself_on/?utm_medium=android_app&utm_source=share) in action again. 
+Here's ![the scam](https://www.reddit.com/r/Superstonk/comments/o9967o/gme_just_transferred_42069_gmetoken_to_itself_on/?utm_medium=android_app&utm_source=share) in action again. 
 
 You think scammers don't know our memes? Hedgies know our memes... they're scammers. This coin world (won't say the banned word) is notorious for scams. Watch out for scammers.
 

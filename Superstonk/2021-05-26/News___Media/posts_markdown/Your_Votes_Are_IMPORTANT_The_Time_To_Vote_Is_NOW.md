@@ -199,7 +199,7 @@ https://www.reddit.com/r/Superstonk/comments/n3weyj/schwab_how_to_get_your_contr
 
 * WEBULL
 
-1. You should have received an email with your control number and a link to: [https://www.proxyvote.com/](https://www.proxyvote.com/) Contact Webull if you don’t have it.  
+1. You should have received an email with your control number and a link to: ![https://www.proxyvote.com/](https://www.proxyvote.com/) Contact Webull if you don’t have it.  
 
 
 

@@ -80,7 +80,7 @@ Now Citadel
 
 [Sold Not yet Purchased end of 2020](https://preview.redd.it/9sqxnvsthlx61.png?width=775&format=png&auto=webp&s=c4578c7cb2d09662d60f08fe61f8573b44d1de1b)
 
-[Sold not yet Purchased 2019](https://preview.redd.it/k5xk6rkyhlx61.png?width=1376&format=png&auto=webp&s=8bf5cbcfbff516c08d07af727da192fb9c036f2f)
+![Sold not yet Purchased 2019](https://preview.redd.it/k5xk6rkyhlx61.png?width=1376&format=png&auto=webp&s=8bf5cbcfbff516c08d07af727da192fb9c036f2f)
 
 Large increase in US government securities being sold and not paid for....I believe others have covered this.  Most of the increase(over 20B) is in selling options and not purchasing them.
 

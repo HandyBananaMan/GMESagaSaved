@@ -211,7 +211,7 @@ HEY EVERYBODY, IN ABOUT A FEW MINUTES, IM MOVING THIS POST INTO A PROPERLY TITLE
 
 **Edit 10 9:56 AM:**
 
-On it's way back down to either the 182 level or the 180 diagonal.  [https://www.reddit.com/r/GME/comments/m6711i/15\_million\_etf\_shares\_to\_short\_were\_just\_borrowed/](https://www.reddit.com/r/GME/comments/m6711i/15_million_etf_shares_to_short_were_just_borrowed/)
+On it's way back down to either the 182 level or the 180 diagonal.  ![https://www.reddit.com/r/GME/comments/m6711i/15\_million\_etf\_shares\_to\_short\_were\_just\_borrowed/](https://www.reddit.com/r/GME/comments/m6711i/15_million_etf_shares_to_short_were_just_borrowed/)
 
 Yes a shit load of shares were borrowed for short attacks. Given the SSR in place, Melvin and friends can only slowly drop the price. My assumption is they are trying to shape the price perfectly within the descending channel, so all the bots and algorithms beginning going short biased and trading the channel.
 

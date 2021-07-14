@@ -520,7 +520,7 @@ u/atobitt good DD to inform yourself
 
 u/sharkbaitlol chaos theories connect a lot of dots 
 
-[u/toffis](https://www.reddit.com/r/gme_capitalists/comments/mvwc9k/financial_system_historical_ownership_and/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)
+![u/toffis](https://www.reddit.com/r/gme_capitalists/comments/mvwc9k/financial_system_historical_ownership_and/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)
 
 Now this chart does look that crazy now?
 

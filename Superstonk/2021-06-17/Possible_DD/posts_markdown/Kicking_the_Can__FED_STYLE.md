@@ -93,4 +93,4 @@ Sources:
 
 4[https://fred.stlouisfed.org/graph/?id=DRSFRMACBS,DRCRELEXFACBS,DRCCLT100S,DRCCLACBS,DRCLACBS,DRALACBS](https://fred.stlouisfed.org/graph/?id=DRSFRMACBS,DRCRELEXFACBS,DRCCLT100S,DRCCLACBS,DRCLACBS,DRALACBS),
 
-5 [https://www.investopedia.com/terms/t/taper-tantrum.asp](https://www.investopedia.com/terms/t/taper-tantrum.asp)
+5 ![https://www.investopedia.com/terms/t/taper-tantrum.asp](https://www.investopedia.com/terms/t/taper-tantrum.asp)

@@ -150,7 +150,7 @@ The process as I understand it will happen as follows with thanks to u/OnlyGoesU
 
 [FINRA confirming this process](https://preview.redd.it/s9tsaa6673w61.jpg?width=745&format=pjpg&auto=webp&s=c8c47c216c3d6946e1e0930dcd926885142d01ae)
 
-[FINRA Sauce](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)
+![FINRA Sauce](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)
 
 # Part 8: Putting it all Together
 

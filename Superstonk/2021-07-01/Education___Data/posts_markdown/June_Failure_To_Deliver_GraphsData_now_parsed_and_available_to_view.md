@@ -32,4 +32,4 @@ Suggestions, feedback and so on is welcomed.
 
 Edit: Source code available here -> [https://github.com/davegtt/cnsfails](https://github.com/davegtt/cnsfails)
 
-Edit3: Raw data from the SEC available here -> [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
+Edit3: Raw data from the SEC available here -> ![https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)

@@ -98,7 +98,7 @@ Interestingly they even refer to finite gain and “infinite loss” in the Mark
 
 If you do some searching on CLOs and citadel you will find several connections. Here is even an article that refers to a CLO purchase by MS:
 
-[https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo](https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo)
+![https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo](https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo)
 
 Would be great for someone with more wrinkles to dive into this part of the whole story. Just feels like an onion with many layers. It also reminds me of the scene from the Big Short where they are in the casino and people bet on the bet of someone’s bet.
 

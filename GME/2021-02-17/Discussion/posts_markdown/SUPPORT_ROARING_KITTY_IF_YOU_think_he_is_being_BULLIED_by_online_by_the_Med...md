@@ -142,6 +142,6 @@ I think any reasonable person watching him will come to the same conclusion, he 
 
 **Keith Gill is a lone retail investor struggling like many of us trying to earn an honest living and do our best** without the perks of bloomberg terminals, idea dinners, CEOs on speed-dial and cosy relationships with research analysts, newsrooms and journalists.  **link to his own words below**
 
-written **TESTIMONY OF KEITH PATRICK GILL BEFORE THE U.S. HOUSE COMMITTEE ON FINANCIAL SERVICES** [**https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf**](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf)
+written **TESTIMONY OF KEITH PATRICK GILL BEFORE THE U.S. HOUSE COMMITTEE ON FINANCIAL SERVICES** ![**https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf**](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf)
 
 **I LIKE THE STOCK.**

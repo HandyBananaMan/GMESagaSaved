@@ -29,7 +29,7 @@ So what should we make of Citadel being at MEMX?  *Does Citadel really control M
 
 #2.0: Introduction
 
-The price of $GME is artificial.  Prior posts have shown how $GME is being illegally manipulated by  key players to the financial system, namely Citadel.  These companies abuse their legitimate privileges to profit themselves at the expense of the market and investors.  But it goes much deeper: **Citadel is now positioned to do more than just monopolize securities transactions.  Citadel is positioned to BE the market for securities transactions.**
+The price of $GME is artificial.  Prior posts have shown how $GME is being illegally manipulated by  key players to the financial system, namely Citadel.  These companies abuse their legitimate privileges to profit themselves at the expense of the market and investors.  But it goes much deeper: ***Citadel is now positioned to do more than just monopolize securities transactions.  Citadel is positioned to BE the market for securities transactions.***
   
 &nbsp;
 
@@ -43,20 +43,20 @@ Buckle up.
 
 Citadel’s influence on the market is all due to one quality:  **Volume.**  
   
-###**Volume is king.**  
+Volume is king.  There is no way to understate it.  
 
-* There is no way to understate it.  Remember [this chart?](https://i.redd.it/idkn9cchpn571.png)  **Citadel and Virtu’s combined volume being larger than ANY exchange** is only the *beginning*, it’s our *starting point*.  
+* Remember [this chart?](https://i.redd.it/idkn9cchpn571.png)  Citadel and Virtu’s combined volume being larger than any exchange is only the beginning; it’s our starting point.  
   
 Do you want to know why it’s taking so long to MOASS?  
   
 * Look at this [tweet estimating the fees the MMs make off of volume.](https://i.redd.it/0ruptccy0u871.png) -  [sauce](https://twitter.com/EricBalchunas/status/1354775322445701128)
-* MMs made an estimated $350M+ in **four days**.  January 27 (the “sneeze”) [volume was 24.8 billion equities traded](https://www.marketsmedia.com/us-equity-trading-volume-reaches-record/) for a **single day**.
+* MMs made an estimated $350M+ in four days.  January 27 (the “sneeze”) [volume was 24.8 billion equities traded](https://www.marketsmedia.com/us-equity-trading-volume-reaches-record/) for a single day.
 
  * (we now know the MMs also took the full income of the shares they sold since they were selling pledged shares and never delivered)
 
 * This illustrates how the MMs generate revenue off of any volume.  They do this with nearly any security or transaction they make a market for.
 
-***So the same activities that empower Apes to create the MOASS also provide the MMs with more resources to prolong the arrival of MOASS.***
+*So the same activities that empower Apes to create the MOASS also provide the MMs with more resources to prolong the arrival of MOASS.*
   
 &nbsp;
 
@@ -66,7 +66,7 @@ What a fuckin’ paradox.
 
 #2.2: Kneel before the crown  
 
-**Volume is king.**  Once a firm hits a critical mass of transactions, it become impossible NOT to deal with that firm.  For example: 
+**Volume is king.**  Once a firm hits a critical mass of transactions, it becomes impossible NOT to deal with that firm.  For example: 
 
 &nbsp;  
 
@@ -87,13 +87,13 @@ What a fuckin’ paradox.
 
 * Awhile back there was a post about how a broker sent notice to clients saying in effect that they wouldn’t know how to source their transactions in the event of Citadel defaulting.  Users should expect delays in transactions if that happened.
 
- * (*eToro? WeBull? Schwab? TDA?* ***Superstonk I need the source, help![]***)
+ * (*eToro? WeBull? Schwab? TDA?* *Superstonk I need the source, help![]*)
 
 * If confirmed, this implies major brokerages are becoming or already are reliant on Citadel for basic, essential functions.
 
 [WHAT. THE. FUCK.](https://www.reactiongifs.com/wp-content/uploads/2013/10/tom-delonge-wtf1.gif)
   
-###Let me it say again another way: we are at a point where *MAJOR BROKERAGES AND EVEN EXCHANGES DO NOT KNOW HOW TO FUNCTION WITHOUT CITADEL.*
+Let me it say again another way: we are at a point where **MAJOR BROKERAGES AND EVEN EXCHANGES DO NOT KNOW HOW TO FUNCTION WITHOUT CITADEL.**
 
 But it’s bigger than that – it’s not just key players in the market that are reliant on Citadel.
 
@@ -108,13 +108,14 @@ But first.
   
 &nbsp;  
 
-That Ken Griffin quote stood out to me, I have a background in operations with experience in manufacturing & logistics.  “Manufacture” implies **certainty** of output, given the correct inputs.  Looking at Citadel’s actions in the context of manufacturing - supply and demand – we can reverse engineer the strategy.  Understand how we got here.  Let's go.  (***This is important groundwork, but if you need to skip you can jump to "2.4: Corner 3: Buyer"***)
+That Ken Griffin quote stood out to me, I have a background in operations with experience in manufacturing & logistics.  “Manufacture” implies **certainty** of output, given the correct inputs.  Looking at Citadel’s actions in the context of manufacturing - supply and demand – we can reverse engineer the strategy.  Understand how we got here.  Let's go.  (*This is important groundwork, but if you need to skip you can jump to "2.6: Corner 3: Buyer"*)
 
 ##Overview  
   
 You can think of the financial industry as one that manufactures “transactions”, in the same way that the automotive industry manufactures “vehicles” of all varieties.
 
-##To manufacture a transaction requires a **buyer**, a **seller**, a **product**, and is produced in **a venue** (a.k.a. a *“Transaction factory”*).
+To manufacture a transaction requires a **buyer**, a **seller**, a **product**, and is produced in **a venue** (a.k.a. a “Transaction factory”).  
+  
 
 * The national “supply” comes from the collection of the different “factories”: exchanges, ATS’s (Dark Pools), SDP’s (single-company terminals), etc.  Each of the venues produces a slice of the overall Transactions pie chart.
 * Supply of “raw materials” (lol) - buyers and sellers with products - flow into the various factories.  Exchanges have been the primary “Transaction factories” for centuries.  NYSE and Nasdaq still produce a large portion of US transactions every year.
@@ -122,41 +123,50 @@ You can think of the financial industry as one that manufactures “transactions
 
 So...
 
-### if you were a Market Maker, and you already provide the raw materials for **buyer, seller, and product** pieces of “production,” *what would you want to do next if you wanted to grow?*
+...*if you were a Market Maker, and you already provide the raw materials for* **buyer, seller, and product** *pieces of “production,” what would you want to do next if you wanted to grow?*
   
+&nbsp; 
+
 You would want a **venue.**  Then you could manufacture transactions independently.
 
-####***So guess what Citadel wants to do?***
+So guess what Citadel wants to do?
+
+&nbsp; 
 
 But – is Citadel is ready? Do they really have enough **Products, Sellers, and Buyers** to supply a “factory” of their own?
 
 ***
 
-#2.2: Corner 1: PRODUCT
+#2.4: Corner 1: PRODUCT
 
-**Product is about range.**  Range of available products is CRITICAL feature demanded by clients, as well as the necessary volume.
+Product is about **range.**  Range of available products is the critical feature demanded by clients, as well as the necessary volume.
 
 Storytime: 
 
-* A few months back a reddit user commented about their experience working at a financial firm (***for the love of everything I can’t find the comment now – Superstonk help again!?[]***).  I don’t remember the username, probably something like “stocksniffer42” or whatevs, lol.  Let’s call him “Greg.”
+* A few months back a reddit user commented about their experience working at a financial firm. 
+
+ * (*for the love of everything I can’t find the comment now – Superstonk help again!?[]*)  
+
+* I don’t remember the username, probably something like “stocksniffer42” or whatevs, lol.  Let’s call him “Greg.”
 
 * Greg would occasionally need to make securities transactions at a nearby terminal, a couple times a week.  Price wasn’t really important to Greg.  
   
-* But what WAS significant was **availability**.  Greg had providers he preferred because they had what he needed.  When they didn’t it was super inconvenient for him because THEN Greg would have to search through enough providers to find what he needed.  **The more “availability” that a certain provider offered, the more likely Greg used them.**
+* But what WAS significant was **availability**.  Greg had providers he preferred because they had what he needed.  When they didn’t it was super inconvenient for him because THEN Greg would have to search through enough providers to find what he needed.  
+* **The more “availability” that a certain provider offered, the more likely Greg used them.**
 
  * This is pretty much the Amazon/WalMart/Target strategy.  You’re more likely to buy from them since they have everything.  Even if it’s not the lowest price.
 
 Exchanges have a limited offering – CBOE doesn’t offer the same products as NYSE and vice-versa.
 
-###Huh, look at that.  Citadel is a MM for multiple exchanges - CBOE, NYSE, and NASDAQ.  Looks like Citadel can offer options, securities, bonds, [swaps](https://www.bloomberg.com/news/articles/2016-09-01/ken-griffin-gets-redemption-in-swaps-market-once-ruled-by-banks), and pretty much [any product under the sun](https://www.citadel.com/disclosures/). 
+*Huh, look at that.  Citadel is a MM for multiple exchanges - CBOE, NYSE, and NASDAQ.  Looks like Citadel can offer options, securities, bonds, [swaps](https://www.bloomberg.com/news/articles/2016-09-01/ken-griffin-gets-redemption-in-swaps-market-once-ruled-by-banks), and pretty much [any product under the sun](https://www.citadel.com/disclosures/).* 
 
-Seems like they have “Product” pretty well sorted.  What about the other pieces?
+Seems like Citadel has “Product” pretty well sorted.  What about the other pieces?
 
 ***
 
-#2.3: Corner 2: SELLER
+#2.5: Corner 2: SELLER
 
-Generally, Sellers are interested in only **PRICE**.  However, price is the LEAST important aspect of all demand, believe it or not. (*Note: we’ll assume some interests overlap between buyer and seller because the same party can alternate roles.*)
+Generally, Sellers are interested in only **price**.  However, price is the LEAST important aspect of all demand, believe it or not. (*Note: we’ll assume some interests overlap between buyer and seller because the same party can alternate roles.*)
 
 Price is supported market-wide by a sense of trust and pre-arranged transaction costs:
 
@@ -167,38 +177,42 @@ Price is supported market-wide by a sense of trust and pre-arranged transaction 
  * **Buyers** will proceed if the price is within their acceptable range and doesn’t have an undue markup.
  * **Market Makers** make very little money on individual transactions, usually.
 
-* (We individual retail investors may want maximum profit through a single transaction (\**cough*\* DIAMOND HANDS \**cough*\*)... but not Market Makers.)
+* We individual retail investors may want maximum profit through a single transaction (\**cough*\* DIAMOND HANDS \**cough*\*)... but not Market Makers.
 
-However, institutional sellers have an **additional price agenda**:
+However, institutional sellers have an additional price agenda:
 
 * Volume sellers don’t want to flood the market of their given security, dropping the price right as they sell.  They want to offload the asset in a price-friendly way.
 * Strategic sellers don’t want the marketplace to know that they changed a position, they want to keep their transactions private.
 
 These sellers would want a venue that won’t affect the public price and remains private.
 
-So **price agenda is relative** - it’s up to each party to decide their interests.  At the point of transaction **price is either pre-negotiated (for volume sells), or else** *precise* **price does not matter for non-HFT transactions.**  (*Would you sell $XYZ at $220.05 but NOT at $220.02?*)
+* So price agenda is relative - it’s up to each party to decide their interests.  At the point of transaction price is either pre-negotiated (for volume sells), or else *precise* price does not matter for non-HFT transactions.  (*Would you sell $XYZ at $220.05 but NOT at $220.02?*)
 
-###Strategically, if Citadel wanted to increase its volume of sellers it would need:
+Strategically, if Citadel wanted to increase its volume of sellers it would need:
 
 * the ability to absorb large volumes of securities (i.e. buy a lot at a competitive price)
 * source a large volume of buyers to match with the sellers.
 * have a private transaction venue to attract sellers of any volume
 
-###Interesting.  Seems like Citadel is probably already doing a lot of this activity through the exchanges or Dark Pools they might be connected to.  
+*Interesting.  Seems like Citadel is probably already doing a lot of this activity through the exchanges or Dark Pools they might be connected to.*  
   
 How about the last piece?  
 
 ***
 
-#2.4: Corner 3: BUYER
+#2.6: Corner 3: BUYER
 
-A Buyer is interested in one thing: **EASE OF ACCESS.**
+A Buyer is interested in one thing: **ease of access.**
 
-***Like Greg, a buyer wants easy access to a range of securities, acceptable prices, and easy access to to sellers.***
+Like Greg, a buyer wants easy access to a range of securities, acceptable prices, and easy access to to sellers.
 
 Citadel can be all of these and/or provide them, but, wait –
 
-### *How exactly can clients BUY from Citadel?*
+&nbsp;
+
+How exactly can clients **buy** from Citadel?
+
+&nbsp;
 
 *Maybe clients can buy from Citadel on the public exchanges?*
 
@@ -212,7 +226,7 @@ Citadel can be all of these and/or provide them, but, wait –
 
 *So why doesn’t Citadel do their own Dark Pool then?  Why should the US’s largest Market Maker pay to use someone else’s Dark Pool?*
 
-* Okay, let’s check if Citadel Has their own ATS.  Hmmm… that’s weird.  There is [no ATS registered to Citadel](https://www.sec.gov/files/data/alternative-trading-system-ats-list/atslist053121.pdf).  ***Anywhere.***
+* Okay, let’s check if Citadel Has their own ATS.  Hmmm… that’s weird.  There is [no ATS registered to Citadel](https://www.sec.gov/files/data/alternative-trading-system-ats-list/atslist053121.pdf).  *Anywhere.*
 
 * (Dark Pools have to [register through form ATS-N](https://www.sec.gov/divisions/marketreg/form-ats-n-filings.htm) due to SEC regulation ATS)
 
@@ -222,21 +236,21 @@ Easy.
   
 &nbsp;
 
-###Citadel Connect.  
+Citadel Connect.  
   
 &nbsp;
 
 *Wait, what?*  
   
-##**[Citadel Connect](https://i.redd.it/v35705zpru871.png).**  
+**[Citadel Connect](https://i.redd.it/v35705zpru871.png).**  
 
 That’s right.  You’ve been in these subs for 6 months and you haven’t heard of **Citadel Connect**? Citadel’s “not a Dark Pool” Dark Pool?  (That’s not by coincidence, btw).
 
 &nbsp;
 
-##[***MOTHERFUCKER WHAT?!?!***](https://i.redd.it/wy0fpnnb0u871.jpg)
+[***MOTHERFUCKER WHAT?!?!***](https://i.redd.it/wy0fpnnb0u871.jpg)
 
-&nbsp;
+
 
 Citadel Connect is an SDP, not an ATS. The difference is the reporting requirements.  SDPs do not have to make the disclosures that either the exchanges or even the ATSs (a.k.a. Dark Pools) have to.
 
@@ -268,7 +282,7 @@ However…
 
 ***
 
-#2.5: KING, II
+#2.7: KING, II
 
 **Volume is king.**
 
@@ -292,10 +306,12 @@ Like Amazon, WalMart, and Target, Citadel is offering *everything*: a wide range
 
 ***
 
-#2.6: The Final Piece: VENUE
+#2.8: The Final Piece: VENUE
 
 
-####***So guess what Citadel wants to do?***
+So guess what Citadel wants to do?
+  
+&nbsp;
 
 But… do you get it?  Have you figured it out?
 
@@ -309,15 +325,17 @@ But… do you get it?  Have you figured it out?
 
 Citadel is [internalizing](https://www.investopedia.com/terms/i/internalization.asp) a substantial volume of transactions from the marketplace.  It’s conducting the transactions inside its own walls, acting AS the venue in itself.  
 
-###Said another way, Citadel is “black box”-ing the transaction market, and it’s doing so at a [massive volume](https://i.redd.it/drdcsznn0u871.png) - [sauce](https://www.rblt.com/market-reports/let-there-be-light-us-edition-24).
+**Said another way, Citadel is “black box”-ing the transaction market, and it’s doing so at a [massive volume](https://i.redd.it/drdcsznn0u871.png) - [sauce](https://www.rblt.com/market-reports/let-there-be-light-us-edition-24).**
 
-* *Okay, so it sounds like Citadel is just buying and selling from multiple parties, and making a profit off the spread.  Every firm does that, though, right?  It’s just arbitrage, it doesn’t make them an exchange.*
+*Okay, so it sounds like Citadel is just buying and selling from multiple parties, and making a profit off the spread.  Every firm does that, though, right?  It’s just arbitrage, it doesn’t make them an exchange.*
 
-Citadel is offering the features of an exchange, or even benefiting from existing exchanges (i.e. the NBBO, MM powers across multiple exchanges) without any of the regulations of an exchange.  It can offer more products, more easily, more quickly, more cheaply, and more privately than an exchange could.  It’s so non-competitive that IEX - yeah, the exchange - [wrote about the decline of exchanges](https://medium.com/boxes-and-lines/the-rising-tide-of-broker-costs-and-the-shrinking-pool-of-competitors-40d4d389e59a):
+* Citadel is offering the features of an exchange, or even benefiting from existing exchanges (i.e. the NBBO, MM powers across multiple exchanges) without any of the regulations of an exchange.  It can offer more products, more easily, more quickly, more cheaply, and more privately than an exchange could.  It’s so non-competitive that IEX - yeah, the exchange - [wrote about the decline of exchanges](https://medium.com/boxes-and-lines/the-rising-tide-of-broker-costs-and-the-shrinking-pool-of-competitors-40d4d389e59a):
 
-> “...trends of the past decade have seen a sharp increase in costs to trade on exchanges, a sharp decrease in the number of exchange broker members, and a steady erosion in the ability of smaller or new firms to compete for business.” 
+ > “...trends of the past decade have seen a sharp increase in costs to trade on exchanges, a sharp decrease in the number of exchange broker members, and a steady erosion in the ability of smaller or new firms to compete for business.” 
   
-It is doing this at the same time that brokers and even exchanges are relying on Citadel more and more.  And, by the way - *why are they so reliant on Citadel in the first place?*  Glad you asked.
+* It is doing this at the same time that brokers and even exchanges are relying on Citadel more and more.  And, by the way - *why are they so reliant on Citadel in the first place?*  Glad you asked...
+  
+&nbsp;  
 
 **Volume is limited.**  So the more volume Citadel takes...
 
@@ -333,7 +351,7 @@ This “rich-get-richer” advantage is known as a “virtuous cycle” (hah –
 
 ***
 
-#2.7: “...to forgive, devine.”
+#2.9: “...to forgive, divine.”
 
 Apes, I told you I would follow up on “how” and “why” I missed on Citadel not being an MM across the EU.  
 
@@ -341,7 +359,7 @@ The EU marketplace is structured differently than the American markets, with dif
 
 ***
 
-#2.8: TL;DR
+#2.10: TL;DR
 
 **Citadel is moving beyond monopolizing the MM role, it has captured a massive portion of all securities transactions and is moving them off-exchange.  For an undisclosed portion of transactions, Citadel IS the market.**
 
@@ -384,14 +402,14 @@ Let me summarize.  Mary and Ken commented that:
 * Citadel (Ken) sees a Market Maker’s role as a stabilizer, to make sure there are no violent price swings.
 * Citadel worked with NYSE and SEC to re-architect the markets/economy on this belief that MMs will stablize and calm markets.
 
-###IF this is true, and IF what Ken spoke of is an accurate reflection of how the market is now structured, then here is the subtext and implications:
+**IF this is true, and IF what Ken spoke of is an accurate reflection of how the market is now structured, then here is the subtext and implications:**
 
 * Market Makers, specifically Citadel and Virtu, are now the ECONOMY’S “immune system,” they are the **first and best line of defense against catastrophic collapse.**
 * Their function is to make sure that no single security or asset class can expose the market to overwhelming risk.
 * They manage this risk through statistical arbitrage and coordination with authorities (NYSE & SEC) on behalf of the market.
 * Citadel worked with the oversight organizations to influence the structure of the overall market.
 
-#Going deeper:
+**Going deeper:**
 
 Everyone in this room knew about naked shorting.  And that Citadel was a primary culprit.
 
@@ -405,7 +423,9 @@ Which implies that somewhere, at some point, a deal was reached, tacitly or expl
 
 &nbsp;
 
-#[WHAT THE FUCK.](https://i.giphy.com/media/kGweWfIbaezO8/giphy.webp)  I have no words.
+**![WHAT THE FUCK.](https://i.giphy.com/media/kGweWfIbaezO8/giphy.webp)  I have no words.**
+
+&nbsp;
 
 IF this is true, the implications for the MOASS are...
 
@@ -423,7 +443,9 @@ This video is from 2018.  It has been over 2 years since then, at the time of th
 ***
 
 Note 1: u/dlauer if you're reading this I'd like to connect re:part 3 - HMU with chat (DMs are off)   
+  
 Note 2: If you guys find the links I couldn't find (i.e. "Greg", and the brokerage letter saying Citadel defaulting would delay their transactions) - comment and I'll update!  
+  
 Note 3: Apes, I've seen responses to part one that end in despair.  **Be encouraged** - regulators (NYSE, SEC, et. al) don't seem to like the current setup anymore.  Gary Gensler's speech last month was laser-focused on Citadel and Virtu (and also confirms this DD):  
  
 > Further, wholesalers have many advantages when it comes to pricing compared to exchange market makers. The two types of market makers are operating under very different rules. [...] 
@@ -436,4 +458,6 @@ I don't think the guy likes Citadel very much lol
   
 ***  
   
-Edit: I'm seeing some responses that think this post implies Citadel is all powerful or controls everything.  Very much not the case.  Apes have them by the balls.  Buy and Hodl, as always.  But it helps to know exactly *what* we are up against, and *why* the MOASS is taking time.  Also, we don't really want Citadel to just change the name on the building and get a new CEO - that doesn't really solve the problem, does it?
+Edit 1: I'm seeing some responses that think this post implies Citadel is all powerful or controls everything.  Very much not the case.  Apes have them by the balls.  Buy and Hodl, as always.  But it helps to know exactly *what* we are up against, and *why* the MOASS is taking time.  Also, we don't really want Citadel to just change the name on the building and get a new CEO - that doesn't really solve the problem, does it?  
+  
+Edit 2: In a deleted comment, someone commented that the formatting was a nuisance.  I re-read the post - they were right!  I've re-edited this to be less of an eyestrain.  Also changed some grammatical & spelling errors.

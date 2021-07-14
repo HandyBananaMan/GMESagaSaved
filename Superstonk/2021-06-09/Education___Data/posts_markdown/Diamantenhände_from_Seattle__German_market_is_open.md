@@ -6,7 +6,7 @@
 
 Hello everyone, I again am guest-hosting Diamantenhände while we all eagerly await u/DerGurkenraspler's glorious return. Apes unite around the world to watch the German market carry the torch until US pre-market opens!
 
-- 🚀 [US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
+- 🚀 ![US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
 - 🟥 120 minutes in: **$305.42 / 250,60 €**
 - ⬜ 115 minutes in: $306.52 / 251,50 €
 - 🟥 110 minutes in: $306.52 / 251,50 € (back to Lang & Schwartz)

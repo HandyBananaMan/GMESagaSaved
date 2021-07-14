@@ -175,4 +175,4 @@ Some references and further reading:
 * [The ‘Phantom Shares’ Menace (2008)](https://web.archive.org/web/20190623164454/http://rgmcom.com/articles/PhantomShares.pdf)
 * [What is a Regulation SHO bona-fide market maker? (2017)](https://web.archive.org/web/20190623164454/http://rgmcom.com/articles/PhantomShares.pdf)
 * [(Naked) Short Selling Around Earnings Announcement (2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2867383)
-* [Three Essays on Naked Short Selling and Fails-to-Deliver  (2013)](https://search.proquest.com/openview/b7759a0d7c621f67d82668197d99c379/1?pq-origsite=gscholar&cbl=18750&diss=y)
+* ![Three Essays on Naked Short Selling and Fails-to-Deliver  (2013)](https://search.proquest.com/openview/b7759a0d7c621f67d82668197d99c379/1?pq-origsite=gscholar&cbl=18750&diss=y)

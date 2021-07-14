@@ -44,4 +44,4 @@ edit: getting a lot of downvotes but no one giving counter DD in the comments. H
 
 edit 2:  [**Jpmorgan Chase (JPM) CEO Commercial Banking Douglas B Petno Sold $1.7 million of Shares**](https://finance.yahoo.com/news/jpmorgan-chase-jpm-ceo-commercial-031501920.html) **-** this news just came out today (16th April 2021). Now i know this seems conveniently timed. Just remember $1.7 million is chump-change to these people so i wouldn't read too much into it that they are expecting Armageddon, I say he is just doing some profit taking. Regardless, market watch articles pumping bank stocks around the same time is convenient to say the least.
 
-edit 3: [**JP Morgan with a 43% chance of Bankruptcy**](https://www.reddit.com/r/Superstonk/comments/mrxln5/macroaxis_a_company_started_in_the_wake_of_the/) **-** make of this what you will.
+edit 3: ![**JP Morgan with a 43% chance of Bankruptcy**](https://www.reddit.com/r/Superstonk/comments/mrxln5/macroaxis_a_company_started_in_the_wake_of_the/) **-** make of this what you will.

@@ -9,4 +9,4 @@ If the SHFs were truly innocent of any or all of the claims, surely one of them 
 Now, some of you might be thinking, "But u/iamthinksnow, maybe we haven't heard about anything because they aren't allowed to talk about ongoing legal actions!" Sure, good point, but let me reply by pointing out that they also *wouldn't be continuing to post new findings.* Q.E.D.
 
 
-**Edit to add:** [even award winning journalists agree](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/?utm_medium=android_app&utm_source=share)
+**Edit to add:** ![even award winning journalists agree](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/?utm_medium=android_app&utm_source=share)

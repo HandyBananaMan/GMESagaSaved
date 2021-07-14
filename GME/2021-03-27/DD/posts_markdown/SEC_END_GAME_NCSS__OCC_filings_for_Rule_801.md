@@ -24,7 +24,7 @@ I will keep this as simple as possible as reading compression in this group is e
 
 *(Release No. 34-91347; File No. SR-NSCC-2021-801)*
 
-[https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf](https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf)
+![https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf](https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf)
 
 &#x200B;
 

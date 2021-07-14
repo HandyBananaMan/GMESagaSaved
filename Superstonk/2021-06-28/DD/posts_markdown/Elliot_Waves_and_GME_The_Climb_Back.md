@@ -104,7 +104,7 @@ There is a gap on the DAILY chart around 300 from a few weeks back, in the image
 
 &#x200B;
 
-[DAILY gaps](https://preview.redd.it/uhfxxoppe3871.png?width=2794&format=png&auto=webp&s=aed6a9a8d9ea89db6525a3a304b65699a2610e35)
+![DAILY gaps](https://preview.redd.it/uhfxxoppe3871.png?width=2794&format=png&auto=webp&s=aed6a9a8d9ea89db6525a3a304b65699a2610e35)
 
 these are only daily gaps, not intraday. all intraday gaps are filled. 
 

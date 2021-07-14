@@ -20,4 +20,4 @@ Funny Edit: The bot I have running that watches for changes to the SEC rules web
 
 &#x200B;
 
-[Red highlights are what showed before the update and green shows the update](https://preview.redd.it/bdvu8hwq02b71.png?width=1894&format=png&auto=webp&s=ce1d17e5fb97020be157a30eaf0b85ed17d214ea)
+![Red highlights are what showed before the update and green shows the update](https://preview.redd.it/bdvu8hwq02b71.png?width=1894&format=png&auto=webp&s=ce1d17e5fb97020be157a30eaf0b85ed17d214ea)

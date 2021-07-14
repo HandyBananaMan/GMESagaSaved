@@ -24,7 +24,7 @@ u/Meowper8tor aka my girlfriend's husband
 
 [u/TheDragon-44](https://www.reddit.com/u/TheDragon-44/)
 
-[u/TimOnTheLam](https://www.reddit.com/u/TimOnTheLam/)
+![u/TimOnTheLam](https://www.reddit.com/u/TimOnTheLam/)
 
 u/RicoStuntz aka my other girlfriend's husband
 

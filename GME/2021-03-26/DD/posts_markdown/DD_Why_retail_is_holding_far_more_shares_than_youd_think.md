@@ -147,7 +147,7 @@ There are likely millions more from all the other ETFs and mutual funds that did
 
 **So in total, it would mean that at least 54 million of the 70 million outstanding shares are actually locked away and will not be sold during the squeeze.**
 
-*Side note: it might look like I counted RC's 9 million shares twice, since I said he was an insider by the SEC's standard, however when looking at the* [*insider transaction history*](https://finance.yahoo.com/quote/GME/insider-transactions?p=GME)*, we can see that RC's 9-million-share purchase is not listed, therefore he isn't part of the % held by insiders.*
+*Side note: it might look like I counted RC's 9 million shares twice, since I said he was an insider by the SEC's standard, however when looking at the* ![*insider transaction history*](https://finance.yahoo.com/quote/GME/insider-transactions?p=GME)*, we can see that RC's 9-million-share purchase is not listed, therefore he isn't part of the % held by insiders.*
 
 &#x200B;
 

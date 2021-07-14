@@ -186,7 +186,7 @@ backups:
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-[https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
 
 \-------------------------------------------------------------------------------------
 

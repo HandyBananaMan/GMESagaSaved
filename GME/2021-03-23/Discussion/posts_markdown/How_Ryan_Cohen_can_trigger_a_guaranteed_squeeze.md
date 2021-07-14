@@ -40,4 +40,4 @@ The short Hedge Funds sued and lost, making it completely legal:
 
 Gamestop might not even need to pay out a crypto dividend. Simply getting involved in crypto as part of the business seems to make people very bullish on top of  scaring the shit out of shorts. Check out what happened today to this company when they announced they were getting involved in crypto:
 
-[https://www.youtube.com/watch?v=-jRllnHmV5w](https://www.youtube.com/watch?v=-jRllnHmV5w)
+![https://www.youtube.com/watch?v=-jRllnHmV5w](https://www.youtube.com/watch?v=-jRllnHmV5w)

@@ -116,5 +116,5 @@ References:
 2. [https://www.theocc.com/](https://www.theocc.com/)
 3. [https://www.theocc.com/Company-Information/Board-of-Directors](https://www.theocc.com/Company-Information/Board-of-Directors)
 4. [https://oic.ivolatility.com/oic\_adv\_options.j;jsessionid=a-dh\_HwzV6lh](https://oic.ivolatility.com/oic_adv_options.j;jsessionid=a-dh_HwzV6lh)
-5. [https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows](https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows)
+5. ![https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows](https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows)
 6. Oh and the fucking terminal drops.

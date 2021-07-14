@@ -63,7 +63,7 @@ Banks, hedge funds, hell the whole house of cards are truly on the brink of dest
 
 Quick Edit: changed the source that reported on this story to a more reputable source
 
-[You're seeing that right: a Georgia man woke up to 1 TRILLION in his account, after investing only 20 dollars in a random C-coin called Rocket Bunny.](https://preview.redd.it/iqso3j3x3m671.png?width=932&format=png&auto=webp&s=22c1a4e3c37d6a4aee386f6306d71ee847aca13c)
+![You're seeing that right: a Georgia man woke up to 1 TRILLION in his account, after investing only 20 dollars in a random C-coin called Rocket Bunny.](https://preview.redd.it/iqso3j3x3m671.png?width=932&format=png&auto=webp&s=22c1a4e3c37d6a4aee386f6306d71ee847aca13c)
 
 Now obviously, he's probably not gonna get to take out *all* 1 trillion dollars, but something is definitely suspicious here regarding the timing of all of this. I mean, do you know how much money 1 fucking trillion dollars is? Who the hell is capable of inflating a random C.C. to the extent that a random guy that put 20 dollars into it got 1 TRILLION out of it? There's only two entities that I believe are capable of such feat, and they are ALSO the ones in massively overleveraged positions:
 

@@ -183,7 +183,7 @@ The page?
 
 &#x200B;
 
-[Crayon go brr](https://preview.redd.it/kvnjndf3ecu61.png?width=884&format=png&auto=webp&s=897fdea90adcd04bde204fd93f22051c0f74622e)
+![Crayon go brr](https://preview.redd.it/kvnjndf3ecu61.png?width=884&format=png&auto=webp&s=897fdea90adcd04bde204fd93f22051c0f74622e)
 
 &#x200B;
 

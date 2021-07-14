@@ -6,7 +6,7 @@ Smooth brain 🦍 checking in.
 
 My first shot at something like this, please feel free to poke holes in my conclusions, I will be happy to redact my post in case I got it wrong. Also, TL;DR at end.
 
-u/brachr8 shared this [wonderful article](https://www.reddit.com/r/Superstonk/comments/o1inbj/nyse_president_admits_to_off_exchange_price/) about the NYSE President admitting that price in some stock does not properly reflect supply and demand.
+u/brachr8 shared this ![wonderful article](https://www.reddit.com/r/Superstonk/comments/o1inbj/nyse_president_admits_to_off_exchange_price/) about the NYSE President admitting that price in some stock does not properly reflect supply and demand.
 
 As a January HODLER I am very tired of reading all this FUD in MSM and many apes in the comment section of the post were pointing out that this is just another article that should be mistrusted.
 

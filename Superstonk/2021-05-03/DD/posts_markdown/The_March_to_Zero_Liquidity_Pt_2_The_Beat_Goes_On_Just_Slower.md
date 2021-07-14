@@ -28,7 +28,7 @@ Here are three important things to note:
 
 &#x200B;
 
-[Yeah, I checked every first hour TradingView volume candle in 2021 cause I got time like that.](https://preview.redd.it/oztkmu9ru3x61.png?width=297&format=png&auto=webp&s=ce19b96a85f990c328b8a784b6f0c4ff2101395e)
+![Yeah, I checked every first hour TradingView volume candle in 2021 cause I got time like that.](https://preview.redd.it/oztkmu9ru3x61.png?width=297&format=png&auto=webp&s=ce19b96a85f990c328b8a784b6f0c4ff2101395e)
 
 **So, what's this mean?**
 

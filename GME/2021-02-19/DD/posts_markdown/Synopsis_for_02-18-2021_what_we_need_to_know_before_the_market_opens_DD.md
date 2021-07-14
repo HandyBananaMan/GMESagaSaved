@@ -186,4 +186,4 @@ As user u/Fenrir324 pointed out:
 so regardless if we go down in price today, we have been holding for weeks now, we will remain holding many more weeks if needed.  
 
 
-[remember, fate loves irony](https://preview.redd.it/s9nwp1psmfi61.jpg?width=828&format=pjpg&auto=webp&s=b1bcaf54f8e86f5c4caee1111ba575f478e0bf18)
+![remember, fate loves irony](https://preview.redd.it/s9nwp1psmfi61.jpg?width=828&format=pjpg&auto=webp&s=b1bcaf54f8e86f5c4caee1111ba575f478e0bf18)

@@ -12,7 +12,7 @@
 
 -----------
 
-Okay hi. Earlier today I posted [a question](https://www.reddit.com/r/GME/comments/m8bhfk/daily_discussion_chat_start_here/grid6un/) in the daily thread that was a bit controversial about how the market price would actually go up to the millions and how I could be able to sell my shares for that high. So **I decided to do a little DD myself and figure this whole thing out.**
+Okay hi. Earlier today I posted ![a question](https://www.reddit.com/r/GME/comments/m8bhfk/daily_discussion_chat_start_here/grid6un/) in the daily thread that was a bit controversial about how the market price would actually go up to the millions and how I could be able to sell my shares for that high. So **I decided to do a little DD myself and figure this whole thing out.**
 
 I'll start with some of the basics and move onto some more details about what actually would happen in the event of a short squeeze.
 

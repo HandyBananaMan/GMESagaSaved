@@ -8,7 +8,7 @@ You have seen u/criand [DD](https://www.reddit.com/r/Superstonk/comments/o7klxj/
 
 Let's do a simple math here. For them to cover 110M GME shares, that's $1.1B at $10/share, 11B at $100/sh, and $33B at $300/sh.
 
-Guess how much Citadel LLC have assets under management?  [$35B](https://en.wikipedia.org/wiki/Citadel_LLC). So somewhere slightly above $300/share, Citadel gets margin called and they go to zero even before they buy all the shares. 
+Guess how much Citadel LLC have assets under management?  ![$35B](https://en.wikipedia.org/wiki/Citadel_LLC). So somewhere slightly above $300/share, Citadel gets margin called and they go to zero even before they buy all the shares. 
 
 Coincident? 
 

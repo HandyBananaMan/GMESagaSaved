@@ -103,6 +103,6 @@ EDIT: Some are asking for more validation. The person who discovered the 2008 ma
 
 [https://i.imgur.com/cYWsJWZ.png](https://i.imgur.com/cYWsJWZ.png)
 
-[https://i.imgur.com/hG4Bcyz.png](https://i.imgur.com/hG4Bcyz.png)
+![https://i.imgur.com/hG4Bcyz.png](https://i.imgur.com/hG4Bcyz.png)
 
 I haven't gone through them all but he is continuously hinting at backlogged financial systems and inflation.

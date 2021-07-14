@@ -14,7 +14,7 @@ Once more, I am *incredibly* sorry for the confusion/whiplash. This is a good le
 
 Hey everyone, I wanted to bring some more attention to this news since this move seems like it could have a pretty decent impact on GME and the sentiment around it as well. 
 
-I want to start by giving credit to u/WisePhantom as his post ([link](https://www.reddit.com/r/Superstonk/comments/ns4bza/russell_reconstitution_is_today_at_6pm_edt/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))was the first I saw here mentioning this. Personally, I heard about this through the radio but wanted to give credit to them since they already made a post mentioning this. 
+I want to start by giving credit to u/WisePhantom as his post (![link](https://www.reddit.com/r/Superstonk/comments/ns4bza/russell_reconstitution_is_today_at_6pm_edt/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))was the first I saw here mentioning this. Personally, I heard about this through the radio but wanted to give credit to them since they already made a post mentioning this. 
 
 Now, this move hasn’t been completed or finalized yet, the preliminary list of companies on the Russell index’s is getting released tonight. The confirmation of the index changes is completed on June 28th. 
 

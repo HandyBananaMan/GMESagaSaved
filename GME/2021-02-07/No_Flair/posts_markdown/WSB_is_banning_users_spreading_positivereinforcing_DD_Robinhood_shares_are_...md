@@ -20,7 +20,7 @@ People who have tried to speak out:
 
 [https://www.reddit.com/r/wallstreetbets/comments/lel3zx/check\_your\_acount\_status\_now\_shady\_brokers/](https://www.reddit.com/r/wallstreetbets/comments/lel3zx/check_your_acount_status_now_shady_brokers/)
 
-[https://www.reddit.com/r/wallstreetbets/comments/lec568/please\_read\_i\_work\_at\_fidelity\_investments\_in\_the/](https://www.reddit.com/r/wallstreetbets/comments/lec568/please_read_i_work_at_fidelity_investments_in_the/)
+![https://www.reddit.com/r/wallstreetbets/comments/lec568/please\_read\_i\_work\_at\_fidelity\_investments\_in\_the/](https://www.reddit.com/r/wallstreetbets/comments/lec568/please_read_i_work_at_fidelity_investments_in_the/)
 
  
 

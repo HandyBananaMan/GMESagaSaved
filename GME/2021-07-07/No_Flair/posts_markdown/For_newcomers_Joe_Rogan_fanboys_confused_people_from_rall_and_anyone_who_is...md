@@ -52,4 +52,4 @@ Thanks.
 
 &#x200B;
 
-Edit: Big shoutout to u/Meticulous-, for this very helpful [website](https://github.com/verymeticulous/wikAPEdia) containing a ton of information.
+Edit: Big shoutout to u/Meticulous-, for this very helpful ![website](https://github.com/verymeticulous/wikAPEdia) containing a ton of information.

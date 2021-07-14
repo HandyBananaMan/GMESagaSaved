@@ -4,7 +4,7 @@
 
 Hi all,
 
-I'd like to point out an irony that I found funny today. Earlier I [tweeted](https://twitter.com/dlauer/status/1398271311617662980) about AMC's intense move up:
+I'd like to point out an irony that I found funny today. Earlier I ![tweeted](https://twitter.com/dlauer/status/1398271311617662980) about AMC's intense move up:
 
 &#x200B;
 

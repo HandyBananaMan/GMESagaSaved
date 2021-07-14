@@ -26,4 +26,4 @@ Be aware these bonds do not grant them capital unless they have purchasers. This
 
 EDIT 2: post to link correcting and clarifying the difference between volume in bonds and volume in an underlying asset. Thanks to u/International_Gold20 for the wrinkles.
 
- [(1) Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds. : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+ ![(1) Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds. : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 

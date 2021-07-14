@@ -159,7 +159,7 @@ The Welborn article describes the case for \[stock\], but the implications remai
    * Disclaimer: Some of this post is speculative, but I still think the data presented is really interesting and definitely worth a read if you haven't seen it yet.
    * TLDR: OP built an AI that detected 140 million FTDs via Deep ITM calls, married puts, and other dark pool trading data.
    * Deep ITM calls were purchased and immediately exercised in order to "deliver" counterfeit shares to reset the FTD cycle. Another excellent post that dissects this:
-      * [https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
+      * ![https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
 
 # Do the SEC & DTCC know that missing FTDs can be obscured?
 

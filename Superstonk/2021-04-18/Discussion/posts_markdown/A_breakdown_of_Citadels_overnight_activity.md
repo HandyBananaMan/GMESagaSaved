@@ -142,4 +142,4 @@ The [entire London banking district is throwing a 3AM block party it appears](ht
 
 [Citadel is still up and at it](https://www.reddit.com/r/Superstonk/comments/mtsr31/why/)
 
-Ok so.. [the lawyers that represented the Federal Reserve Bank in 2008 are awake at midnight](https://www.reddit.com/r/Superstonk/comments/mtszx0/leading_law_firm_in_financial_services_regulation/)... *that's fine right?*
+Ok so.. ![the lawyers that represented the Federal Reserve Bank in 2008 are awake at midnight](https://www.reddit.com/r/Superstonk/comments/mtszx0/leading_law_firm_in_financial_services_regulation/)... *that's fine right?*

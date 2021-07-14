@@ -192,4 +192,4 @@ Ryan Cohen buys in August, wrights a letter in November and in less than 6 month
 
 Orginal Post on reverse merger( POsted 3 weeks ago)
 
-[https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan\_cohens\_kill\_shotthe\_reverse\_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
+![https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan\_cohens\_kill\_shotthe\_reverse\_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)

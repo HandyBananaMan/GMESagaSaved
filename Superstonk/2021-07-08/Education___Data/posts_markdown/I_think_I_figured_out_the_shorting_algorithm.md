@@ -136,4 +136,4 @@ While the dates are interesting that they occur at the same intervals (Farm A an
 
 Edit 7: Today's data:
 
-[Fucking lol](https://preview.redd.it/u1w0n245x8a71.png?width=953&format=png&auto=webp&s=b5edea0971095436b1b23a4aff3de8adc1aa1054)
+![Fucking lol](https://preview.redd.it/u1w0n245x8a71.png?width=953&format=png&auto=webp&s=b5edea0971095436b1b23a4aff3de8adc1aa1054)

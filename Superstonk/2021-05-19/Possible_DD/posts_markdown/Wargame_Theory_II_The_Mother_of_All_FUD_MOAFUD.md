@@ -334,7 +334,7 @@ u/GrubWurm89xx points out more evidence this is a game the wealthy play.
 
 >I think u may be right about his medieval naming obsession thing. Motley Fool is like his Court Jester
 
-**EDIT 8:** Just heard about Ashler Capital from [this thread unraveling all of Citadel's umbrella companies](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/). According to the Free Dictionary an ashler is,
+**EDIT 8:** Just heard about Ashler Capital from ![this thread unraveling all of Citadel's umbrella companies](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/). According to the Free Dictionary an ashler is,
 
 >a rectangular block of hewn stone used for building purposes building block - a block of material used in construction work stone - building material consisting of a piece of rock hewn in a definite shape for a special purpose; "he wanted a special stone to mark the site"
 

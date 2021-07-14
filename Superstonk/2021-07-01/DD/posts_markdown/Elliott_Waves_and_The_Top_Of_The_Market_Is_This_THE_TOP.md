@@ -55,7 +55,7 @@ IE, it is TOTALLY POSSIBLE for SPX (not spy) to drop down to around 2200 before 
 
 &#x200B;
 
-[SPX](https://preview.redd.it/805vzcbw3m871.png?width=2758&format=png&auto=webp&s=feb08ec4cc03935410f6240a547d5bb245068243)
+![SPX](https://preview.redd.it/805vzcbw3m871.png?width=2758&format=png&auto=webp&s=feb08ec4cc03935410f6240a547d5bb245068243)
 
 I'll leave you with this. I won't theorize too much on the events that will cause this, I believe everyone has a pretty solid idea of whats about to happen. I just want to lay out the technicals, and how I PERSONALLY believe this will play out. I can be 100% wrong as can anyone else.
 

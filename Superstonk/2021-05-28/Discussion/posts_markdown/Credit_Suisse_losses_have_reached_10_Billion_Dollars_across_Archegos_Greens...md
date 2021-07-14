@@ -48,7 +48,7 @@ Updated names that I missed. (22:57 AEST)
 
 **Paul Galietto.** Head of Equity Sales and Trading. Co head of global trading. Joined Suisse in 2017. [1,](https://www.credit-suisse.com/microsites/conferences/china-investment-conference/en/speakers/paul-galietto.html)  [2](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483?mod=article_inline)
 
-**Eric Varvel.** Head of the asset management that ran the funds. Demoted but not fired. Evidently the mess he created was so great he needed to go, but not until he helped clean it up.[1](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483?mod=article_inline)
+**Eric Varvel.** Head of the asset management that ran the funds. Demoted but not fired. Evidently the mess he created was so great he needed to go, but not until he helped clean it up.![1](https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483?mod=article_inline)
 
 &#x200B;
 

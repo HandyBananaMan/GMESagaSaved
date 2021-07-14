@@ -6,7 +6,7 @@ What up Apes,
 
 u/Dan_Bren with a quick update on today's DEEP ITM calls.
 
-[GME Biggest Options Trades 4\/21\/2021](https://preview.redd.it/0rve0srysmu61.png?width=1226&format=png&auto=webp&s=e12f5155f7ecc8bc1d7e2963ba12eef3863c2e63)
+![GME Biggest Options Trades 4\/21\/2021](https://preview.redd.it/0rve0srysmu61.png?width=1226&format=png&auto=webp&s=e12f5155f7ecc8bc1d7e2963ba12eef3863c2e63)
 
 There weren't any. (Large purchases)
 

@@ -132,4 +132,4 @@ You can't use banana contracts to close banana debts.
 
 Go check out their post here for more info:
 
-[https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005\_1st\_april\_2021/](https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005_1st_april_2021/)
+![https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005\_1st\_april\_2021/](https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005_1st_april_2021/)

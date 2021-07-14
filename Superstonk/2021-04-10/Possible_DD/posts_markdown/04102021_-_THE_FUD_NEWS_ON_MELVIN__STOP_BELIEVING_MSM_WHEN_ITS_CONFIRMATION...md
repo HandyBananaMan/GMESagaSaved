@@ -148,7 +148,7 @@ And regarding the question ‘what about a margin call’? Well can you not see 
 
 **EDIT 2 - Oh yeah, remember when Melvin were caught doing this in February?**
 
-Found that link about "Melvin planted stories": [**LINK**](https://web.archive.org/web/20210304081626/https://old.reddit.com/r/wallstreetbets/comments/lxatg6/melvin_planted_stories_about_their_feb_performance/) \*\*(\*\*thanks u/Tavmania)
+Found that link about "Melvin planted stories": ![**LINK**](https://web.archive.org/web/20210304081626/https://old.reddit.com/r/wallstreetbets/comments/lxatg6/melvin_planted_stories_about_their_feb_performance/) \*\*(\*\*thanks u/Tavmania)
 
 &#x200B;
 

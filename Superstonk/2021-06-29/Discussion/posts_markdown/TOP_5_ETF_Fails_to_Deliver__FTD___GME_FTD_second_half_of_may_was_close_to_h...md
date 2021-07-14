@@ -20,7 +20,7 @@ And here is the data of the FTD in the top 5 GME ETF holders and GME stock itsel
 
 &#x200B;
 
-[Second half MAY GME FTD](https://preview.redd.it/s8vdia1bc6871.jpg?width=1375&format=pjpg&auto=webp&s=52f4e073303cbcf4aca5b6c5c2e06055ce56a00d)
+![Second half MAY GME FTD](https://preview.redd.it/s8vdia1bc6871.jpg?width=1375&format=pjpg&auto=webp&s=52f4e073303cbcf4aca5b6c5c2e06055ce56a00d)
 
 So, as we can see, nearly half million shares FTD just from those top 5 ETF. I expect some more where also FTD in the other ETFs.
 

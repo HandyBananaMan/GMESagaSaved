@@ -54,4 +54,4 @@ If you're interested in this research, please follow me and keep an eye out for 
 
 Edit #2: Since comments are closed, if the DD idea outlined above is something you support, please visit this older posts about this and let me know (the initial reception of the idea was pretty bad, and you can see by the 0 Upvote count):
 
-[https://www.reddit.com/r/Superstonk/comments/nxmkp4/still\_collecting\_data\_shooting\_for\_n300\_us\_adult/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxmkp4/still_collecting_data_shooting_for_n300_us_adult/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/nxmkp4/still\_collecting\_data\_shooting\_for\_n300\_us\_adult/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxmkp4/still_collecting_data_shooting_for_n300_us_adult/?utm_source=share&utm_medium=web2x&context=3)

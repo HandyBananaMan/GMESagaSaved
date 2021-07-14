@@ -14,7 +14,7 @@ There seemed to be an incomplete and inaccessible data resource for some Gamesto
 
 **Methods**
 
-So I went through all the SEC N-CSR forms from 2021-01-01 through to 2021-05-20 [HERE](https://sec.report/Document/Search/). Searched for "gamestop", and tabulated all of them under fund and portfolio (if applicable).
+So I went through all the SEC N-CSR forms from 2021-01-01 through to 2021-05-20 ![HERE](https://sec.report/Document/Search/). Searched for "gamestop", and tabulated all of them under fund and portfolio (if applicable).
 
 N-CSR data is supposed to be uploaded a maximum of 60 days after the end of each quarter. I removed any redundant filings in the period of the search (some had already filed twice). While some aren't super recent, they should be updated by may 30th (60 days after end of Q1).
 

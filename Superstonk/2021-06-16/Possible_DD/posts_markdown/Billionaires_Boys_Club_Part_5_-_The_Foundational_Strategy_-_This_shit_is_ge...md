@@ -26,7 +26,7 @@
 
 (THIS IS GME RELATED)
 
-(Shameless PLUG: Follow me on Twitter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twitter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
 
 \------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -414,7 +414,7 @@ Remember, there are lots of beautiful things out there including this community 
 
 **LET ME KNOW WHAT YOU THINK OF THIS SERIES AS IT REALLY HELPS KEEP ME MOTIVATED!**
 
-(Shameless PLUG: Follow me on Twtter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twtter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
 
 &#x200B;
 

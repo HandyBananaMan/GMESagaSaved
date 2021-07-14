@@ -18,7 +18,7 @@ But I saw a post earlier either here or in the movie stock sub, talking about ho
 
 [Ownership of News Corp. according to FINTEL](https://preview.redd.it/nqhhify44x371.png?width=1252&format=png&auto=webp&s=79a7eb09dd6c93df76a0184513a0298e52bf5279)
 
-[https://fintel.io/so/us/nws](https://fintel.io/so/us/nws)
+![https://fintel.io/so/us/nws](https://fintel.io/so/us/nws)
 
 Well well, look who we've got up top... our frenemies, **Vanguard and Blackrock**. Now, Citadel also owns a portion of News Corp, even increasing their position from 5 mill shares in Jan 2021 to 6.5 mill shares in March 2021, but combined, Vanguard and Blackrock own **more than 10x what Citadel does.**
 

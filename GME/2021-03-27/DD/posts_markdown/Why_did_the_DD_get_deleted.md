@@ -225,4 +225,4 @@ And apparently I missed a part
 >
 >\-------------
 >
->Edit: I think this DD is good to be read with another one: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
+>Edit: I think this DD is good to be read with another one: ![https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)

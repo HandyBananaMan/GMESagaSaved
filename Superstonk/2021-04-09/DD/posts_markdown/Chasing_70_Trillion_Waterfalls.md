@@ -154,7 +154,7 @@ I really don't think so, because I believe the Fed will have no choice in such a
 
 DTCC's key subsidiaries: NSCC, DTC, and the Fixed Income Clearing Corporation (FICC), and OCC are 4 of the 8 **Designated Financial Market Utilities by the Fed.** What does that mean?
 
-[https:\/\/www.federalreserve.gov\/paymentsystems\/designated\_fmu\_about.htm](https://preview.redd.it/utbc5hev35s61.png?width=1404&format=png&auto=webp&s=57e9f1ae6348bb5ea65b54eaf500523f43de8c93)
+![https:\/\/www.federalreserve.gov\/paymentsystems\/designated\_fmu\_about.htm](https://preview.redd.it/utbc5hev35s61.png?width=1404&format=png&auto=webp&s=57e9f1ae6348bb5ea65b54eaf500523f43de8c93)
 
 **What can the Fed do?**
 

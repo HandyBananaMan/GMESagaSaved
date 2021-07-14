@@ -8,4 +8,4 @@
 
  [Release No. 34-91430; File No. SR-FICC-2021-002](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/FICC/SR-FICC-2021-002-Approval-Notice.pdf) 
 
- [Release No. 34-91429; File No. SR-DTC-2021-004](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-004-Approval-Notice.pdf)
+ ![Release No. 34-91429; File No. SR-DTC-2021-004](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-004-Approval-Notice.pdf)

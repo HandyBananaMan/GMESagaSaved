@@ -6,7 +6,7 @@
 
 This rule is set to drop tomorrow (April 6, 2021) on the federal register. You are able to see unpublished versions of proposed rule changes.
 
-[https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
+![https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
 
 This new rule change amends the Options Clearing Corporation (OCC) Rule 1104. What's really interesting about this rule is that it provides an order of events in the case that an options clearing member is suspended. Remember, think: OCC = options contracts, NSCC = Stocks/shorts
 

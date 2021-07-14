@@ -23,6 +23,6 @@ Never have I been more Zen 😎
 Edit: After the eToro history yesterday evening, I take it with a grain of salt but still :)
 
 Edit2: 
-[Screenshot](https://imgur.com/a/3s7U30h)
+![Screenshot](https://imgur.com/a/3s7U30h)
 
 Edit3: https://www.swissquote.ch/sqw-static/project-resources/pdf/tutorials/swissquote-eTrading-Platform_de.pdf Page 40: It seems normal that for a voluntary corporate action, shares can be blocked.

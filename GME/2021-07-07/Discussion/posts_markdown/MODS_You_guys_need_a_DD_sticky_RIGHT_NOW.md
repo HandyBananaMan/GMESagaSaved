@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/GME/comments/offc1p/mods_you_guys_need_a_dd_sticky_right_now/](https://www.reddit.com/r/GME/comments/offc1p/mods_you_guys_need_a_dd_sticky_right_now/)
 
 
-**EDIT: THANK YOU**  [**u/creakfast**](https://www.reddit.com/user/creakfast/) 
+**EDIT: THANK YOU**  ![**u/creakfast**](https://www.reddit.com/user/creakfast/) 
 
 \--------------------------------------------------------
 

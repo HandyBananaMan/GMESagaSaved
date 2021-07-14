@@ -96,4 +96,4 @@ buy put + sell put + buy call = married put
 
 Note the put/call ratio of these transactions would be 2. So, as long as the put call ratio for each particular option chain is above 2, it would be valid to say that it is possible that these techniques could be being used. My post aims to prove statistically that these techniques are being used. So with the put/call ratio of the 7/16 options being above 2, I am aiming to correlate the FTDs with the opening of these contracts. 
 
-Here is the section of the SEC paper that talks about the married put trades being used to reset the clock.  [https://imgur.com/a/dWKtvF0](https://imgur.com/a/dWKtvF0). The full paper is linked at the beginning of this post if you are interested in reading. 
+Here is the section of the SEC paper that talks about the married put trades being used to reset the clock.  ![https://imgur.com/a/dWKtvF0](https://imgur.com/a/dWKtvF0). The full paper is linked at the beginning of this post if you are interested in reading. 

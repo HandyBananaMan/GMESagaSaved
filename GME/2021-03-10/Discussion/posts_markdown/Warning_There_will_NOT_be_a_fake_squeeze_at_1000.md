@@ -4,7 +4,7 @@
 
 #TL;DR : If you sell at $1,000 in the hopes of a dip from a massive short attack, YOU'LL MISS THE SQUEEZE.
 
-I've now seen [multiple posts](https://www.reddit.com/r/wallstreetbets/comments/m1j32k/beware_the_most_likely_hedge_fund_tactic_coming/?utm_medium=android_app&utm_source=share) of people claiming that the shorts will attack the stock heavily at $1,000 and bring it back down to sub-100 levels. And here's why I think this WON'T happen and might become the next shill tactic.
+I've now seen ![multiple posts](https://www.reddit.com/r/wallstreetbets/comments/m1j32k/beware_the_most_likely_hedge_fund_tactic_coming/?utm_medium=android_app&utm_source=share) of people claiming that the shorts will attack the stock heavily at $1,000 and bring it back down to sub-100 levels. And here's why I think this WON'T happen and might become the next shill tactic.
 
 First off, let's look back at the January pre-squeeze. The shorties had to *cheat* and TURN OFF the buy button to get the price down when it reached close to 500$. 
 

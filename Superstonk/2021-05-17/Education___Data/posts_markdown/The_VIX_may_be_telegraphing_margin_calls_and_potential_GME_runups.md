@@ -46,7 +46,7 @@ And we just had post from a European Financial News talking about all the margin
 
 Post:  [https://www.reddit.com/r/Superstonk/comments/nb9pon/european\_financial\_news\_is\_reporting\_major\_margin/](https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/)The link:  [https://www.money.it/Fed-repo-miliardi-Wall-Street](https://www.money.it/Fed-repo-miliardi-Wall-Street)  If you can read European :O
 
-Counter DD (updated as of 5/16 and debunked): [https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter\_dd\_ny\_fed\_400\_bln\_reverse\_repos\_is\_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
+Counter DD (updated as of 5/16 and debunked): ![https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter\_dd\_ny\_fed\_400\_bln\_reverse\_repos\_is\_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
 
 Lets take a look at the options expiring Wednesday, 5/19/21:
 

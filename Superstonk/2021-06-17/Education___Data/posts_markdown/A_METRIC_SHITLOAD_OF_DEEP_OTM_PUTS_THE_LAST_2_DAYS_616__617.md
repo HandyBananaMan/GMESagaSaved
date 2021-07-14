@@ -8,7 +8,7 @@ We've got some interesting things to discuss. I have saved all of the data since
 
 [GME Biggest Options Trades 6-16-21](https://preview.redd.it/vs4q8zeq6x571.png?width=1136&format=png&auto=webp&s=e4de78eb81ea9c0ba664d47458cf332011b63877)
 
-[GME Biggest Options Trades 6-17-21](https://preview.redd.it/czt860fq6x571.png?width=1132&format=png&auto=webp&s=fe0dbae53040a774766bae06dfbcd2fc5431f717)
+![GME Biggest Options Trades 6-17-21](https://preview.redd.it/czt860fq6x571.png?width=1132&format=png&auto=webp&s=fe0dbae53040a774766bae06dfbcd2fc5431f717)
 
 That is an absolutely absurd amount of DEEP OTM puts.  The most interesting is Wednesday's data where not only are there a massive amount of OTM puts but we are only seeing the time frame from 3:28pm - to close. The data set is limited to the most recent 20 large block order options trades.  In my mind this paints out two possible scenarios.
 

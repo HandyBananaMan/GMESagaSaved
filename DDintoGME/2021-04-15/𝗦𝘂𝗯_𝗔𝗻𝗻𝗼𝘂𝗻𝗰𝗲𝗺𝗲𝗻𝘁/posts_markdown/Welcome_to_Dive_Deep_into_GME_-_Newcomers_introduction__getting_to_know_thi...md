@@ -108,6 +108,6 @@ If you support our cause encourage DD authors to repost on our sub and crosspost
 
 &#x200B;
 
-[Official Disclaimer](https://www.reddit.com/r/DDintoGME/wiki/disclaimer)
+![Official Disclaimer](https://www.reddit.com/r/DDintoGME/wiki/disclaimer)
 
 All Graphics by u/AzzyAus

@@ -12,6 +12,6 @@ As you can see blow there were no large block trades of DEEP ITM calls.
 
 &#x200B;
 
-[GME Biggest Trades 4-9-2021](https://preview.redd.it/9s9lsmn88ls61.jpg?width=1219&format=pjpg&auto=webp&s=c50e94578306731cf613f2d42dc36032f595605a)
+![GME Biggest Trades 4-9-2021](https://preview.redd.it/9s9lsmn88ls61.jpg?width=1219&format=pjpg&auto=webp&s=c50e94578306731cf613f2d42dc36032f595605a)
 
 I am unsure if this is the last of these DEEP ITM or we have possibly one more wave of them to expect.  Time will tell I'll keep you posted. Refer to my recent posts for more discussion on the topic.

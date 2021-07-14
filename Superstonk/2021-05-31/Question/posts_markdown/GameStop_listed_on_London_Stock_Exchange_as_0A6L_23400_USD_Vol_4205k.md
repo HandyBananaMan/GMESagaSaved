@@ -4,7 +4,7 @@
 
 \[GAMESTOP CORP GAMESTOP ORD SHS CLASS A\] 0A6L LSE. Showing volume started on 5/18/21
 
-[https://www.londonstockexchange.com/market-stock/0A6L/gamestop-corp/overview](https://www.londonstockexchange.com/market-stock/0A6L/gamestop-corp/overview)
+![https://www.londonstockexchange.com/market-stock/0A6L/gamestop-corp/overview](https://www.londonstockexchange.com/market-stock/0A6L/gamestop-corp/overview)
 
 Screen shot below from TradingView
 

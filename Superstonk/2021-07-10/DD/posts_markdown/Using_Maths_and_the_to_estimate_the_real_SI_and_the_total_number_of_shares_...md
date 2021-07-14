@@ -227,4 +227,4 @@ We'll look at the time period after the January Sneeze to approximately mid-Apri
 
 &#x200B;
 
-[I DID NOT MAKE THIS! ORIGINAL MEME POSTED BY u\/Archisaurus, https:\/\/www.reddit.com\/r\/Superstonk\/comments\/oev08e\/this\_is\_my\_brain\_going\_through\_the\_due\_diligence\/](https://preview.redd.it/lmundof7pga71.png?width=942&format=png&auto=webp&s=0e77d79ba2b5bc4739a4372513080174f9a3efc3)
+![I DID NOT MAKE THIS! ORIGINAL MEME POSTED BY u\/Archisaurus, https:\/\/www.reddit.com\/r\/Superstonk\/comments\/oev08e\/this\_is\_my\_brain\_going\_through\_the\_due\_diligence\/](https://preview.redd.it/lmundof7pga71.png?width=942&format=png&auto=webp&s=0e77d79ba2b5bc4739a4372513080174f9a3efc3)

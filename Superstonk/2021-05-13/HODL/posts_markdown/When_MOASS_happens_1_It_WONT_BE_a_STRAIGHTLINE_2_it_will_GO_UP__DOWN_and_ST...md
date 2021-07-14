@@ -21,6 +21,6 @@ However this is advice from someone who has been Determined, Patient, and Smart 
 
 btw, this 3 min video of Andy Lee gives us an idea of how MOASS will be like if it does not end up a Long Straight line Up:
 
-[https://www.youtube.com/watch?v=mVDGU-iFLIU&t=97s&ab\_channel=AndyLee](https://www.youtube.com/watch?v=mVDGU-iFLIU&t=97s&ab_channel=AndyLee)
+![https://www.youtube.com/watch?v=mVDGU-iFLIU&t=97s&ab\_channel=AndyLee](https://www.youtube.com/watch?v=mVDGU-iFLIU&t=97s&ab_channel=AndyLee)
 
 Posted this to Super Stonk and AMC, No F%@$ ups Ladies and Gentlemen!

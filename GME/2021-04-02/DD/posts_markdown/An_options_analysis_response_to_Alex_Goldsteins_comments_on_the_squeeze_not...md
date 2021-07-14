@@ -92,7 +92,7 @@ https://preview.redd.it/xb7kad89gtq61.png?width=2139&format=png&auto=webp&s=aaf9
 
 There was even an article on it.
 
-[https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote](https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote)
+![https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote](https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote)
 
 In the article, Justin Dopierala, the President and Founder of DOMO Capital states:
 

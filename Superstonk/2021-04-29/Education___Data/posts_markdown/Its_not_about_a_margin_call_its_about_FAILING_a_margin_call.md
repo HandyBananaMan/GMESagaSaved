@@ -12,7 +12,7 @@ It starts when they can't meet the new margin deposit requirement, either becaus
 
 The DTCC holds margin deposits for its Participants. But these are mostly U.S Treasury Securities or U.S Debt Securities. They also hold some Cash in Money Market Funds as margin. They don't really fluctuate in value once they are deposited.
 
-[From their Annual Report.](https://imgur.com/a/Lv3hHN1)
+![From their Annual Report.](https://imgur.com/a/Lv3hHN1)
 
 So either GME increases and they need to add more dollars OR margin requirements change (new rules on the horizon) and they need to liquidate other positions to add more dollars. If they can meet the new requirement by adding more dollars, it's business as usual. BUT IF THEY CAN'T..... 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 

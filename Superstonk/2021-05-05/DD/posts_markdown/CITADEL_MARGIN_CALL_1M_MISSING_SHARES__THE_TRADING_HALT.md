@@ -174,7 +174,7 @@ Well, I guess I'm not sleeping tonight:
 
 [are you](https://preview.redd.it/fs2cg74p4gx61.png?width=729&format=png&auto=webp&s=7937661f6dd8080317d9253ee0469d1e5f49e0b2)
 
-[fucking kidding me](https://preview.redd.it/mvuf1bvp4gx61.png?width=1648&format=png&auto=webp&s=2a5210edcc9a1a7a82fea313e56ff7f544312db9)
+![fucking kidding me](https://preview.redd.it/mvuf1bvp4gx61.png?width=1648&format=png&auto=webp&s=2a5210edcc9a1a7a82fea313e56ff7f544312db9)
 
 My calculation: 1,016,670
 

@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/](https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/)
 
 
-[Stop the Ape on Ape violence, fucking now!](https://preview.redd.it/xxjd77sxa6q61.png?width=2100&format=png&auto=webp&s=8a5a2ac6d6f776da158ec52d8e449aa22fcbe574)
+![Stop the Ape on Ape violence, fucking now!](https://preview.redd.it/xxjd77sxa6q61.png?width=2100&format=png&auto=webp&s=8a5a2ac6d6f776da158ec52d8e449aa22fcbe574)
 
 (Edit:  Thank you all for noticing my "amazing cropped Ape PNG" file.  I would love to pretend it was on purpose but I kind of just suck in general.  :)  On the bright side, I do HODL onto my GME shares really well!   At least I'm good for something)
 

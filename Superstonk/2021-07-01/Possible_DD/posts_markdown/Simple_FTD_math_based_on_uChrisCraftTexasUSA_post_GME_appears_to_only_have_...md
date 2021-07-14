@@ -58,6 +58,6 @@ TSLA FTD data [https://sec.report/fails.php?tc=TSLA](https://sec.report/fails.ph
 
 GME Outstanding Share Count data: [https://ycharts.com/companies/GME/shares\_outstanding](https://ycharts.com/companies/GME/shares_outstanding)
 
-TSLA Outstanding Share Count data: [https://ycharts.com/companies/TSLA/shares\_outstanding](https://ycharts.com/companies/TSLA/shares_outstanding)
+TSLA Outstanding Share Count data: ![https://ycharts.com/companies/TSLA/shares\_outstanding](https://ycharts.com/companies/TSLA/shares_outstanding)
 
 No fuckery going on here people....

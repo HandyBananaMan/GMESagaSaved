@@ -94,6 +94,6 @@ Edit 4: Shits and giggles
 
 Edit 5: Another bivariate plot
 
-Edit 6:  [tweet](https://twitter.com/pwnwtfbbq/status/1412557445143031811?s=20)
+Edit 6:  ![tweet](https://twitter.com/pwnwtfbbq/status/1412557445143031811?s=20)
 
 Edit 7: Needed to highlight how this data also included July data.

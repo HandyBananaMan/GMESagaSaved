@@ -370,7 +370,7 @@ The amount of money they could lose is unfathomable.
 
 With the collapsing SI%, it is mathematically impossible for the squeeze to have happened - its mathematically impossible for them to have covered. /u/atobitt also discusses this in [House of Cards Part 2](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/).
 
-[https:\/\/www.thebharatexpressnews.com\/short-squeeze-could-save-gamestop-investors-a-third-time\/](https://preview.redd.it/6hge0pxfhi571.png?width=871&format=png&auto=webp&s=aab736cc279cc727524d2cf96384ea3e33109250)
+![https:\/\/www.thebharatexpressnews.com\/short-squeeze-could-save-gamestop-investors-a-third-time\/](https://preview.redd.it/6hge0pxfhi571.png?width=871&format=png&auto=webp&s=aab736cc279cc727524d2cf96384ea3e33109250)
 
 And in regards to all the other rules that look good for the MOASS - I see them in a negative light.
 

@@ -81,6 +81,6 @@ Apparently Kenny has been inspired by our favourite hedge fund, I mean media com
 
 [March](https://www.insidermonkey.com/blog/billionaire-ken-griffins-top-10-stock-picks-923670/)
 
-[April](https://www.insidermonkey.com/blog/10-best-tech-stocks-to-buy-according-to-billionaire-ken-griffin-930846/)
+![April](https://www.insidermonkey.com/blog/10-best-tech-stocks-to-buy-according-to-billionaire-ken-griffin-930846/)
 
 "Stepping out of the shadows to offer stock info? Why Ken?"

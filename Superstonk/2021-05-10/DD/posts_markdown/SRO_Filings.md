@@ -14,7 +14,7 @@ Here's what happened. Certain rule changes by exchanges are "immediately effecti
 
 The NYSE filed a change to co-location as immediately effective, and several clients of the NYSE contracted to receive the service. The SEC then decided that the rule change was not ok, and told NYSE they couldn't do it. NYSE is asking the SEC to allow them to provide the service while those clients transition off of it, because those clients (including other exchanges) likely rely on it for their NYSE data.
 
-If you're interested in reading SRO files, you can find them here: [https://www.sec.gov/rules/sro.shtml](https://www.sec.gov/rules/sro.shtml)
+If you're interested in reading SRO files, you can find them here: ![https://www.sec.gov/rules/sro.shtml](https://www.sec.gov/rules/sro.shtml)
 
 I used to read every single SRO filing every money, and it was the best way to deeply learn about market structure. They're incredibly boring and written in obtuse legalese, but once you learn to read them you'll learn a lot.
 

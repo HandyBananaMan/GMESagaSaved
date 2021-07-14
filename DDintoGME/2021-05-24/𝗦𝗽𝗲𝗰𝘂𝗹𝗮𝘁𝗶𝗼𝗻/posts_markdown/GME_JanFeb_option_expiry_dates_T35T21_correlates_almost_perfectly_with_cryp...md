@@ -14,6 +14,6 @@ Huge credit to everyone who figured it out before me... I just really like this 
 
 &#x200B;
 
-[https:\/\/i.imgur.com\/R2KTYmW.jpg](https://preview.redd.it/y045iz58o1171.jpg?width=2383&format=pjpg&auto=webp&s=9266f2a0819d61a9e65c1c24381f998b57ae4628)
+![https:\/\/i.imgur.com\/R2KTYmW.jpg](https://preview.redd.it/y045iz58o1171.jpg?width=2383&format=pjpg&auto=webp&s=9266f2a0819d61a9e65c1c24381f998b57ae4628)
 
 Edit: Ignore the label on the chart that says "(35 US trading days)" T+35 should be Calendar days. Dates are still correct. TY u/iLikeMangosteens

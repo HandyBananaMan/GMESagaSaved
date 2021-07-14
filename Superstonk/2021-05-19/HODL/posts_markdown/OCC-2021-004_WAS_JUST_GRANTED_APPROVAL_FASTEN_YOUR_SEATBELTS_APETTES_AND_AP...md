@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/ngkjkd/occ2021004_was_just_granted_approval_fasten_your/](https://www.reddit.com/r/Superstonk/comments/ngkjkd/occ2021004_was_just_granted_approval_fasten_your/)
 
 
-https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004[https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004](https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004)
+https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004![https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004](https://www.sec.gov/rules/sro/occ.htm#SR-OCC-2021-004)
 
 Wrinkles branis assemble, I believe this is the missing piece before MOASS!
 

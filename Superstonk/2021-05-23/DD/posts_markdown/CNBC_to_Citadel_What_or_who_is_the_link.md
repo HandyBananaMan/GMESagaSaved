@@ -120,7 +120,7 @@ Is it a surprise, therefore, that the organisation he leads spouts out stories t
 
 [FUD](https://preview.redd.it/38ymn8yg2y071.png?width=1439&format=png&auto=webp&s=7c9577327042c1c77c9cc0d76561e9ccc7490dad)
 
-[Cramer](https://preview.redd.it/tq2ugtzg2y071.png?width=2173&format=png&auto=webp&s=d8417ae887e76f3c9e172fc0b78815f8c3cf8226)
+![Cramer](https://preview.redd.it/tq2ugtzg2y071.png?width=2173&format=png&auto=webp&s=d8417ae887e76f3c9e172fc0b78815f8c3cf8226)
 
 &#x200B;
 

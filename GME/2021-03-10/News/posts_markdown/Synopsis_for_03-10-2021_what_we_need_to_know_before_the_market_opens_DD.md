@@ -330,7 +330,7 @@ Edit 8:
 
 Apparently CNBC is so fast they wrote this in less then 50 seconds...
 
-[https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
+![https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
 
 **PUBLISHED WED, MAR 10 202112:41 PM EST**
 

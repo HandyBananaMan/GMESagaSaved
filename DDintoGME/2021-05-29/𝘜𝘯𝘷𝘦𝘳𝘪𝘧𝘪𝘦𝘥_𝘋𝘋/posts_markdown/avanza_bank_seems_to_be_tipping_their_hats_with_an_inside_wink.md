@@ -26,4 +26,4 @@ disclosing that this was also posted on superstank, but memes and shitposts reig
 
 &#x200B;
 
-edit: this is a comment from u/[DBRASCO1891](https://www.reddit.com/user/DBRASCO1891/) "Avanza is only for swedes. Avanza buys shares from the US via an  custodian bank.. BNP paribas.. yeah I know.. I have my worries as well.  But thats the reality! So we swedes who buys through this custodian  probably gets counted in the "unknown" on bloomberg terminal."
+edit: this is a comment from u/![DBRASCO1891](https://www.reddit.com/user/DBRASCO1891/) "Avanza is only for swedes. Avanza buys shares from the US via an  custodian bank.. BNP paribas.. yeah I know.. I have my worries as well.  But thats the reality! So we swedes who buys through this custodian  probably gets counted in the "unknown" on bloomberg terminal."

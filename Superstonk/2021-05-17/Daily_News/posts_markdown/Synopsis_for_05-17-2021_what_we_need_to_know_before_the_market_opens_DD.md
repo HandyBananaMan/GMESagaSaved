@@ -112,7 +112,7 @@ backups:
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 &#x200B;
 

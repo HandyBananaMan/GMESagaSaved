@@ -170,7 +170,7 @@ https://preview.redd.it/vpf7mt81ozo61.png?width=2140&format=png&auto=webp&s=f019
 
 I'm on AndrewMoMoney! Sorry forgot to update you guys!
 
-[https://www.youtube.com/watch?v=KIEBHyvKw4A&ab\_channel=AndrewMoMoney](https://www.youtube.com/watch?v=KIEBHyvKw4A&ab_channel=AndrewMoMoney)
+![https://www.youtube.com/watch?v=KIEBHyvKw4A&ab\_channel=AndrewMoMoney](https://www.youtube.com/watch?v=KIEBHyvKw4A&ab_channel=AndrewMoMoney)
 
 **Edit 3 9:36AM:**
 

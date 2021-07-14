@@ -10,7 +10,7 @@ Prepare your Diamantenhände, [read some God-tier DD](https://redd.it/o0scoy), r
 
 As usual, prices are from [https://www.ls-tc.de/de/aktie/gamestop-aktie](https://www.ls-tc.de/de/aktie/gamestop-aktie) and are converted in Google. Let's have some fun!
 
-🚀 [US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
+🚀 ![US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
 
 🟥120 minutes in: 184,72 € / $221.41
 

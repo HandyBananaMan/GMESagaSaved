@@ -13,7 +13,7 @@
 1. 69 Coins and 420 lives. In the original video it is 72 and 75. So he or someone for him edited that into the video. ([https://www.youtube.com/watch?v=nwrAXCWpOlg](https://www.youtube.com/watch?v=nwrAXCWpOlg)
 2. Mario is wearing a frog costume while throwing an ice cream cone. In the original video that cone is a magical wand. But the fact that he is wearing a frog costume and DFV added an ice cream cone, seems to refer to Ryan Cohnes tweet. ([https://twitter.com/ryancohen/status/1364650709669601289](https://twitter.com/ryancohen/status/1364650709669601289))
 3. EDIT: Toad says "Oh me, oh my! You've been transformed! And asks: **Shall I change you back with this "cone**" (in the original "wand")? Again refering to Cohens Tweet and probably refering to GameStop hopefully becoming loved again by Ryan Cohen transforming it back to a beloved store we all know.
-4. The blue box in the middle in the bottom right contains the [GameStop Power-Up Rewards Logo](https://www.shacknews.com/article/116497/gamestops-redesigned-powerup-rewards-program-cuts-used-game-discount), which is not in the original Video! (Thx to [akgogreen](https://www.reddit.com/user/akgogreen/), who told me this is the logo!)
+4. The blue box in the middle in the bottom right contains the [GameStop Power-Up Rewards Logo](https://www.shacknews.com/article/116497/gamestops-redesigned-powerup-rewards-program-cuts-used-game-discount), which is not in the original Video! (Thx to ![akgogreen](https://www.reddit.com/user/akgogreen/), who told me this is the logo!)
 5. The GameStop Logo also next to the Super Mushroom, which makes you a lot larger in the Game. This might mean Mushroom + GameStop = Becoming really big.
 
 &#x200B;

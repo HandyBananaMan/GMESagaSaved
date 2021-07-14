@@ -204,7 +204,7 @@ Finally, I am starting to think we aren't waiting for a squeeze
 
 **we are in the middle of one**.
 
-[MOASS? When in doubt, zoom out :\)](https://preview.redd.it/5dkw4pcv78y61.png?width=1082&format=png&auto=webp&s=f151c6b82a092e76bcf9d5f240a774481f3779a7)
+![MOASS? When in doubt, zoom out :\)](https://preview.redd.it/5dkw4pcv78y61.png?width=1082&format=png&auto=webp&s=f151c6b82a092e76bcf9d5f240a774481f3779a7)
 
 So that's where my heads at right now...
 

@@ -260,7 +260,7 @@ This would also affect the ownership %, which should be cut in half. So use 2.66
 
 Edit #5: Numbers For Netherlands from u/Fast_Sandwich6034
 
-[https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
+![https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
 
 Using an adult population of 13.3MM, reduced to 8.8MM (to account for coupled households) \* ownership of 7.5%, reduced to 5% (coupled-households) = 440,000 GME owners \* average shares of 22.3= 
 

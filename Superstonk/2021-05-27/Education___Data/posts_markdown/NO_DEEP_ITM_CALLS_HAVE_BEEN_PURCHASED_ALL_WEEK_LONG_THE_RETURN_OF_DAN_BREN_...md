@@ -18,7 +18,7 @@ Once again no DEEP ITM call options but some more action on both the $800 call (
 
 Quite a bit a of action with both DEEP OTM Puts and Calls being purchased in mass quantities but no large purchases of DEEP ITM Calls.
 
-[Thursday GME Biggest Options Trades 5\/27\/21](https://preview.redd.it/gxy6o42r7s171.png?width=1134&format=png&auto=webp&s=0bbe8737e338395ef668c7e6895af6626414168b)
+![Thursday GME Biggest Options Trades 5\/27\/21](https://preview.redd.it/gxy6o42r7s171.png?width=1134&format=png&auto=webp&s=0bbe8737e338395ef668c7e6895af6626414168b)
 
 Today contained one large block purchases of ITM calls but I wouldn't completely consider this a DEEP ITM calls like we saw with the $12 and $15 calls in the past. This was a purchase (or sale) of 200 of the $130 call. Other than this a pretty uneventful day in terms of large block purchases of options.
 

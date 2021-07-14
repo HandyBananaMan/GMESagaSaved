@@ -185,4 +185,4 @@ Short-Sellers:
 *Market Crash / Economic Crisis*
 
 * [So much is going on that it might all be connected and a crash may be on the horizon](https://www.reddit.com/r/Superstonk/comments/mvj8fz/where_there_is_smoke_there_is_fire/)
-* [Indications of market crash related to GME](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
+* ![Indications of market crash related to GME](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)

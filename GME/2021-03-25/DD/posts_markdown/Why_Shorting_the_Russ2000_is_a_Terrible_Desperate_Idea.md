@@ -40,7 +40,7 @@ This is more anecdotal, but seems to be a sentiment among the investing communit
 
 &#x200B;
 
-[QQQ Daily Chart](https://preview.redd.it/shem9n1x28p61.png?width=1535&format=png&auto=webp&s=254e198fc676adecffbfb7333e6f8c66bbe52509)
+![QQQ Daily Chart](https://preview.redd.it/shem9n1x28p61.png?width=1535&format=png&auto=webp&s=254e198fc676adecffbfb7333e6f8c66bbe52509)
 
 As you can see in the charts, IWM trailed QQQ during most of 2020.  Tech hype was so high that people were just blindly throwing cash at it and it soared.  However, during the last month or so of 2020 into this year IWM has caught up in terms of percentage gains from the pre-corona highs.  In fact, if not for the recent sell-off from the shorting, it would have easily surpassed the Q's.  People are hungry for the recovery plays and vaccines start to roll out and that means success for IWM.  Big money, again, doesn't want their positions fucked because some idiot forgot to do the math on how long the GME dildo is.
 

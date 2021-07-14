@@ -295,7 +295,7 @@ CONTINUE IN [PART 2](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimat
 
 [PART 3](https://www.reddit.com/r/GME/comments/n2hjnk/33_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
-[https://www.reddit.com/r/GME/comments/n2hhhn/23\_the\_ultimate\_dd\_guide\_to\_the\_moon\_crazy\_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+![https://www.reddit.com/r/GME/comments/n2hhhn/23\_the\_ultimate\_dd\_guide\_to\_the\_moon\_crazy\_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 Lets go!
 

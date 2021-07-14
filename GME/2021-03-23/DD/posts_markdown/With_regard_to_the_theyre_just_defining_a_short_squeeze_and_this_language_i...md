@@ -92,7 +92,7 @@ The phrase is found in **67** of all 10-K filings in the past 5 years or **0.026
 
 The phrase is found in **109** of all 10-k filings of the past 10 years or **0.021%** of all filings 
 
-[https://www.sec.gov/edgar/search/#/q=%2522perception%2520that%2520such%2520sales%2520will%2520occur%2522&dateRange=10y&filter\_forms=10-K](https://www.sec.gov/edgar/search/#/q=%2522perception%2520that%2520such%2520sales%2520will%2520occur%2522&dateRange=10y&filter_forms=10-K)
+![https://www.sec.gov/edgar/search/#/q=%2522perception%2520that%2520such%2520sales%2520will%2520occur%2522&dateRange=10y&filter\_forms=10-K](https://www.sec.gov/edgar/search/#/q=%2522perception%2520that%2520such%2520sales%2520will%2520occur%2522&dateRange=10y&filter_forms=10-K)
 
 &#x200B;
 

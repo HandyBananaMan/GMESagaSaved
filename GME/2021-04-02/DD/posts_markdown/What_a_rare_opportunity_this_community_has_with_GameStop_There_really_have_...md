@@ -211,4 +211,4 @@ For the smooth brains.  If you issue 10 million shares at 200 dollars that would
 
 &#x200B;
 
-[https://preview.redd.it/2mevl49eusq61.jpg?width=800&format=pjpg&auto=webp&s=5c435c18b1c30f4976662f5f220ec99d5debf4ff](https://preview.redd.it/2mevl49eusq61.jpg?width=800&format=pjpg&auto=webp&s=5c435c18b1c30f4976662f5f220ec99d5debf4ff)
+![https://preview.redd.it/2mevl49eusq61.jpg?width=800&format=pjpg&auto=webp&s=5c435c18b1c30f4976662f5f220ec99d5debf4ff](https://preview.redd.it/2mevl49eusq61.jpg?width=800&format=pjpg&auto=webp&s=5c435c18b1c30f4976662f5f220ec99d5debf4ff)

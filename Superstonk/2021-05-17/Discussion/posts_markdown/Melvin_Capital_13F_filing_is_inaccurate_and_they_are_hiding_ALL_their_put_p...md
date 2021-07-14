@@ -10,7 +10,7 @@ Melvin Capital previously showed a 6,000,000 put position on GameStop. On the 13
 
 All this means is that they requested confidential treatment on all their put positions **AGAIN**.
 
-You can see they did this with their previous filing, Melvin chose to redact [large put positions](https://www.sec.gov/Archives/edgar/data/1628110/000090571821000618/xslForm13F_X01/infotable.xml) from their previous 13F filing by requesting confidential treatment on them.
+You can see they did this with their previous filing, Melvin chose to redact ![large put positions](https://www.sec.gov/Archives/edgar/data/1628110/000090571821000618/xslForm13F_X01/infotable.xml) from their previous 13F filing by requesting confidential treatment on them.
 
 Well the SEC denied their confidential treatment request, and they were forced to amend their 13F filing with these put positions NEARLY 2 MONTHS AFTER THE ORIGINAL FILING. All they did was kick the can down the road, and the SEC works about as fast as the DMV so it took them 2 months to deny their request. 
 

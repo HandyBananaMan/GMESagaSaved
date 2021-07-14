@@ -14,7 +14,7 @@ Don't trust a F\*CKING THING these ass clowns tell you. The data you see is what
 
 [https:\/\/files.brokercheck.finra.org\/firm\/firm\_361.pdf](https://preview.redd.it/1igo06tm4w271.jpg?width=1017&format=pjpg&auto=webp&s=9310faacb08fe5ce717e8a9aa433d813e746b86e)
 
-No one knows what data was unavailable to reconstruct the trade, but here's a simplified [list of requirements](https://www.bobsguide.com/articles/trade-reconstruction-a-growing-pain-point-for-firms/):
+No one knows what data was unavailable to reconstruct the trade, but here's a simplified ![list of requirements](https://www.bobsguide.com/articles/trade-reconstruction-a-growing-pain-point-for-firms/):
 
 https://preview.redd.it/bbh93u0s4w271.jpg?width=1039&format=pjpg&auto=webp&s=36a7981cd5208aa791b03f749a15350372e9dde2
 

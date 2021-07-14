@@ -50,7 +50,7 @@ But they can literally buy the DTCC, piece by piece as GME shoots through the go
 Below is a very detailed step by step visual for those who still don't see where this is going.  
 
 
-[I made this with all the crayons I haven't eaten yet.](https://preview.redd.it/f5lle58dzoz61.png?width=1152&format=png&auto=webp&s=4a93bbfb2fd9099fc847203bd2a9261a56afabbd)
+![I made this with all the crayons I haven't eaten yet.](https://preview.redd.it/f5lle58dzoz61.png?width=1152&format=png&auto=webp&s=4a93bbfb2fd9099fc847203bd2a9261a56afabbd)
 
 What this means is not only are BlackRock and Vanguard going to own the entire stock market by holding all of its physical shares.  
 They’re going to own every single company in it.

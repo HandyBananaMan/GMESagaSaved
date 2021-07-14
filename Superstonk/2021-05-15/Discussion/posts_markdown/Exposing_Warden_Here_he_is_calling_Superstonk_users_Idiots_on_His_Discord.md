@@ -50,6 +50,6 @@ https://preview.redd.it/up7bybxb6fz61.png?width=3549&format=png&auto=webp&s=066d
 
 https://preview.redd.it/dpar3dde6fz61.png?width=3065&format=png&auto=webp&s=ee91f1f3b73f4fe5bb3289cc418009fd49b025a3
 
-[Warden seems completely unphased by the fact that he just let down 200k plus Apes.  He's in his channel answering questions as if nothing happened.  ](https://preview.redd.it/uirwiofh6fz61.png?width=2756&format=png&auto=webp&s=6a850c0c880b8471814f277edd1daf34c24d4f95)
+![Warden seems completely unphased by the fact that he just let down 200k plus Apes.  He's in his channel answering questions as if nothing happened.  ](https://preview.redd.it/uirwiofh6fz61.png?width=2756&format=png&auto=webp&s=6a850c0c880b8471814f277edd1daf34c24d4f95)
 
 &#x200B;

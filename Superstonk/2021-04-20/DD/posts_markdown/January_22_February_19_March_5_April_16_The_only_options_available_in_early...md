@@ -4,7 +4,7 @@
 
 Edit: RIParoni. I'm currently rethinking this. You will notice that bursts almost always happen on wednesdays. I still believe there is a pattern and we should be able to pin down a date for another gamma burst. 
 
-I know, I know. Dates. Whatever. [Stay with me for a moment please.](https://www.youtube.com/watch?v=OuP2dOxhELQ) I have high confidence that we are going to see a repeat of February 24th, and the MOASS will start tomorrow. If not - that's ok. You can at least feel like a kid on Christmas Eve.
+I know, I know. Dates. Whatever. ![Stay with me for a moment please.](https://www.youtube.com/watch?v=OuP2dOxhELQ) I have high confidence that we are going to see a repeat of February 24th, and the MOASS will start tomorrow. If not - that's ok. You can at least feel like a kid on Christmas Eve.
 
 I'm going to be watching about 2 hours before market close. That's around the time February 24 spike ignited.
 

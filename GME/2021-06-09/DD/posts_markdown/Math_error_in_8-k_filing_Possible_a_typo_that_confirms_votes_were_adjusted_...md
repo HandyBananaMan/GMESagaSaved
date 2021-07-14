@@ -62,7 +62,7 @@ Edit 2: An example for some clarity on how this rounding error might occur. Plea
 
 &#x200B;
 
-[Using the ROUND function in excel, now we have an error for Larry Cheng's vote total.](https://preview.redd.it/b3edwwoaed471.png?width=636&format=png&auto=webp&s=8529b61672f3da92f11c2b898584b7865490d6aa)
+![Using the ROUND function in excel, now we have an error for Larry Cheng's vote total.](https://preview.redd.it/b3edwwoaed471.png?width=636&format=png&auto=webp&s=8529b61672f3da92f11c2b898584b7865490d6aa)
 
 PART 4 is the result we see. I used the actual votes from the 8-K so you could see exactly how this rounding error might occur.Larry Cheng had 3 vote counts with numbers that are over 0.5 for the decimal but not too much over. That's important, because now it rounds up ALL 3 of those numbers. That's where the error occurs. Now our rounding function gave Larry 1 extra vote.There's no way someone just cast 1 vote for Larry because that would have added 1 abstention to everyone else, making the vote count increase by 1 for every proposal.
 

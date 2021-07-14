@@ -10,7 +10,7 @@ And what I found is:
 
 - GME OFFICIAL [SEC FILING](https://www.reddit.com/r/wallstreetbets/comments/mbrcze/short_squeeze_potential_confirmed_taken_from/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
-- Jeffereis changes GME’s [target price](https://www.reddit.com/r/wallstreetbets/comments/mc1bgu/suits_just_raised_pt_from_15_to_175_its_time_for/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+- Jeffereis changes GME’s ![target price](https://www.reddit.com/r/wallstreetbets/comments/mc1bgu/suits_just_raised_pt_from_15_to_175_its_time_for/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
 I really think that I need to buy more $CUM today, cause my body can’t produce all the amount I need after checking on our sub guys
 

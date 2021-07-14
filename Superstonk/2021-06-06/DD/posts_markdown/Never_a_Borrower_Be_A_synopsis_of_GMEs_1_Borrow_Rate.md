@@ -102,4 +102,4 @@ Edit 1: [Weekly TA DD up for 6/7](https://www.reddit.com/r/Superstonk/comments/n
 
 Edit 2: I believe the order of liability to cover FTDs goes like this
 
-[FTD clearing chain in the event of liquidation](https://preview.redd.it/gsg8f950pq371.png?width=2054&format=png&auto=webp&s=c989d7296d8bef057d5669bd86f4dc9eacbc5448)
+![FTD clearing chain in the event of liquidation](https://preview.redd.it/gsg8f950pq371.png?width=2054&format=png&auto=webp&s=c989d7296d8bef057d5669bd86f4dc9eacbc5448)

@@ -228,4 +228,4 @@ https://preview.redd.it/4j0a959ya4z61.jpg?width=577&format=pjpg&auto=webp&s=2536
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-# [Part 2](https://www.reddit.com/r/Superstonk/comments/nceapj/carl_hagberg_ama_transcriptsummary_22/)
+# ![Part 2](https://www.reddit.com/r/Superstonk/comments/nceapj/carl_hagberg_ama_transcriptsummary_22/)

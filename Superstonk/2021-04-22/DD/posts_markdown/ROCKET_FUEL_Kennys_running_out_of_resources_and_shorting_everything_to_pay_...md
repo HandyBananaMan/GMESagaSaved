@@ -144,7 +144,7 @@ Here's **$BNGO. Again, look at the price action. It's going UP. And if shorts AR
 
 &#x200B;
 
-[$BNGO FINRA](https://preview.redd.it/ux2o97ut6vu61.jpg?width=1126&format=pjpg&auto=webp&s=d51f8946dbff54d787e428462b9d03a1fefac655)
+![$BNGO FINRA](https://preview.redd.it/ux2o97ut6vu61.jpg?width=1126&format=pjpg&auto=webp&s=d51f8946dbff54d787e428462b9d03a1fefac655)
 
 **So what have we learned?**
 

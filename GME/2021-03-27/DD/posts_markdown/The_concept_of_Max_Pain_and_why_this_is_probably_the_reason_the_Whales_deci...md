@@ -32,7 +32,7 @@ Manually calculating the max pain price is an arduous process (literally summing
 
 One of them is [maximum-pain.com](http://maximum-pain.com/options) and another is [Swaggystocks.com](https://swaggystocks.com/dashboard/options-max-pain/GME).
 
-I prefer the look of [maximum-pain.com](https://maximum-pain.com) however it seems you can not look at historicals and now they only have April 1st data. Luckily I still had a tab open with [Swaggystocks.com](https://Swaggystocks.com), so I will use graphs from them.
+I prefer the look of [maximum-pain.com](https://maximum-pain.com) however it seems you can not look at historicals and now they only have April 1st data. Luckily I still had a tab open with ![Swaggystocks.com](https://Swaggystocks.com), so I will use graphs from them.
 
 &#x200B;
 

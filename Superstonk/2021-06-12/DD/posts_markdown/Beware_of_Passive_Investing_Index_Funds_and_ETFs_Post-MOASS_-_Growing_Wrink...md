@@ -72,7 +72,7 @@ ETFs and Index funds hurt price discovery in the market because the businesses i
 
 [Manufacturing](https://preview.redd.it/zsibrimvru471.png?width=1020&format=png&auto=webp&s=4adb3fcc71341df58db32d90e5309c4cb94ad69b)
 
-[Retail](https://preview.redd.it/nswxamgzru471.png?width=1073&format=png&auto=webp&s=5e2ca05a6da8dfb73ed636101a8a4b6bb192d850)
+![Retail](https://preview.redd.it/nswxamgzru471.png?width=1073&format=png&auto=webp&s=5e2ca05a6da8dfb73ed636101a8a4b6bb192d850)
 
 Notice how every time there is a sharp divergence on one of the stocks, it immediately corrects back to the general path of the fund?
 

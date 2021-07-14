@@ -126,7 +126,7 @@ https://preview.redd.it/s53e9cp887p61.png?width=2140&format=png&auto=webp&s=a1ad
 
 # I'm living cohosting with Andrew Mo Money rn.
 
-[https://youtu.be/ir8o13svhXw](https://youtu.be/ir8o13svhXw)
+![https://youtu.be/ir8o13svhXw](https://youtu.be/ir8o13svhXw)
 
 Will still update the doc
 

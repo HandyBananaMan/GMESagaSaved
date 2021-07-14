@@ -4,4 +4,4 @@
 
 "Will cost companies billions of dollars in compliance costs." Get woke and go broke!
 
-[https://fee.org/articles/biden-administration-s-new-woke-corporate-disclosure-rules-will-cost-companies-billions-experts-warn/](https://fee.org/articles/biden-administration-s-new-woke-corporate-disclosure-rules-will-cost-companies-billions-experts-warn/)
+![https://fee.org/articles/biden-administration-s-new-woke-corporate-disclosure-rules-will-cost-companies-billions-experts-warn/](https://fee.org/articles/biden-administration-s-new-woke-corporate-disclosure-rules-will-cost-companies-billions-experts-warn/)

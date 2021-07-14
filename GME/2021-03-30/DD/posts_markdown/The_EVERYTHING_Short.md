@@ -187,7 +187,7 @@ Here's Palafox's financial statements in **2018:**
 
 The amount in **2020** is STILL +100% greater than 2019, AFTER netting (which is even more bullsh\*t).
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/xjss7dzxg9q61.png?width=714&format=png&auto=webp&s=9ff71bf6631f9e665378a0f4a623a95e3aecb264)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/xjss7dzxg9q61.png?width=714&format=png&auto=webp&s=9ff71bf6631f9e665378a0f4a623a95e3aecb264)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

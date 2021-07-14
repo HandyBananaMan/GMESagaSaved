@@ -170,6 +170,6 @@ Edit 1:
 
 &#x200B;
 
-[https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg](https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg)
+![https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg](https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg)
 
 This is a live stream of $GME on Bookmap trading application that measures liquidity in the market.  The green triangles (Calls) and red triangles (Puts) are live options trades with the contract size in the center. The bottom line indicator in green (HIRO Cumulative) is an accumulation of those options as a hedging pressure. An upward trend on the green line when it crosses the red is a (Bullish) signal as HFs have to short stock, buy futures, or use options to hedge the line to flatten out representing delta neutral. The green and red lines are live buy's and sells coming in between the candle sticks which allow us to see double bottoms or topping patterns. ​Lastly, you can see order book flow on the right when strong buying is coming in and volume at the top right and bottom of each candle. 

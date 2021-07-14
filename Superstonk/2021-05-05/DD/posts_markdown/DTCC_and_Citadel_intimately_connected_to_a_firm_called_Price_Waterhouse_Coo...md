@@ -410,7 +410,7 @@ Just for shits and giggles let's see how far PwC is from Citadel.
 
 &#x200B;
 
-[MOTHER OF GOD](https://preview.redd.it/k8nboe66zex61.jpg?width=1484&format=pjpg&auto=webp&s=61865d4886121f7ed2ceefb5cf067f3483fe20b2)
+![MOTHER OF GOD](https://preview.redd.it/k8nboe66zex61.jpg?width=1484&format=pjpg&auto=webp&s=61865d4886121f7ed2ceefb5cf067f3483fe20b2)
 
 12 minute walk from PwC to Citadel.
 

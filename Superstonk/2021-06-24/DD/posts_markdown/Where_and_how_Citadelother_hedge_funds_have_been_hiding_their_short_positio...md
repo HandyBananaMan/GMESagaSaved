@@ -71,15 +71,15 @@ According to his post, approximately 1,100,000 calls in open interest were prese
 
 # Edit: saw some comments asking to do short % of float so here it is
 
-79,598,000 shares short / 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 143% of float shorted**
+79,598,000 shares short / 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 143% of float shorted**
 
 Revised calculation:
 
-89,268,000 shares short / 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 160% of float shorted**
+89,268,000 shares short / 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 160% of float shorted**
 
 # Calculation including the deep ITM CALL side from criand's [post](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/?utm_source=share&utm_medium=web2x&context=3):
 
-# 199,268,000 shares short/ 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/) ≈ 359% of float shorted
+# 199,268,000 shares short/ 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/) ≈ 359% of float shorted
 
 That is a MASSIVE amount of short interest, and shows that **GME is still very much being manipulated even if we can't see it on the surface**. If they have to buy all of these shares at once  when we quite possibly own the float MULTIPLE times over, they would have to buy approximately 199,268,000 shares ***MULTIPLE TIMES.*** The share price would *definitely* go into the millions in that circumstance (at least in my opinion), and we KNOW the hedgies can pay it too. ***BUY AND HODL.***
 

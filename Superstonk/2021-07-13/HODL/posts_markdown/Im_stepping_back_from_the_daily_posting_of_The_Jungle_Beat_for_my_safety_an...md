@@ -54,7 +54,7 @@ I have only ever tried to serve this community honestly and respectfully.
 
 &#x200B;
 
-I realize this community does trust me as [the diamond whistle blower.](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/?utm_source=share&utm_medium=web2x&context=3) And I take the responsibility and trust quite seriously.
+I realize this community does trust me as ![the diamond whistle blower.](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/?utm_source=share&utm_medium=web2x&context=3) And I take the responsibility and trust quite seriously.
 
 &#x200B;
 

@@ -10,4 +10,4 @@ Also stop blaming her for not reading 329 pages of DD, she could easily get tons
 
 &#x200B;
 
-[for people asking](https://preview.redd.it/qaz5eodohtq61.png?width=699&format=png&auto=webp&s=a2ac9fa91e82cf4b69a2fdaa7159482482efc88b)
+![for people asking](https://preview.redd.it/qaz5eodohtq61.png?width=699&format=png&auto=webp&s=a2ac9fa91e82cf4b69a2fdaa7159482482efc88b)

@@ -10,7 +10,7 @@ Edit 2: Oh wow so many people share the thought! Thank you for the upvotes! For 
 
 So I saw this post:
 
-[https://www.reddit.com/r/stocks/comments/nr1dkn/beware\_of\_what\_amc\_shorts\_are\_holding/](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/)
+![https://www.reddit.com/r/stocks/comments/nr1dkn/beware\_of\_what\_amc\_shorts\_are\_holding/](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/)
 
 And I realized why Dr. Burry bet against TSLA.. It's the most held long stock of the HF. And what happens to it when they need to sell it to pay for GME?
 

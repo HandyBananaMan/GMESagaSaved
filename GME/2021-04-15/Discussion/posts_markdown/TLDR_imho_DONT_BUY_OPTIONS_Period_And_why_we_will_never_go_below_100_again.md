@@ -4,7 +4,7 @@
 
 Edit: imho= In My Honest Opinion
 
-Edit: please see link posted below by [u/diskodik](https://www.reddit.com/user/diskodik/)
+Edit: please see link posted below by ![u/diskodik](https://www.reddit.com/user/diskodik/)
 
 Edit: This was my first Real post, and what I learned is that 1 set of people understand what im saying and have learned through their own experience and appreciate it; and the 2nd set of people told me that i dont know what im talking about while I also respectfully do Not believe they know what they are talking about.
 

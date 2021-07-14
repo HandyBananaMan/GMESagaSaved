@@ -26,4 +26,4 @@ With Steve Bloom, Eric Brooks, Arthur Dantchik, Andrew Frost, and Joel Greenberg
 
 They are playing poker against us, but they can see our cards.
 
-[https://www.youtube.com/watch?v=FpNWvxE9nXY](https://www.youtube.com/watch?v=FpNWvxE9nXY)
+![https://www.youtube.com/watch?v=FpNWvxE9nXY](https://www.youtube.com/watch?v=FpNWvxE9nXY)

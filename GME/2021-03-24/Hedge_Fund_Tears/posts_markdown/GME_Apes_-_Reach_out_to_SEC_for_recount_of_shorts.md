@@ -36,7 +36,7 @@ Do your part. I did. **Ask SEC for a recount of naked GME shorts**, how citadel 
 
 [**Division of Trading and Markets**](https://www.sec.gov/tm)**:** [**tradingandmarkets@sec.gov**](mailto:tradingandmarkets@sec.gov)
 
-[**Division of Economic and Risk Analysis**](https://www.sec.gov/dera) : [**DERA@sec.gov**](mailto:DERA@sec.gov)
+[**Division of Economic and Risk Analysis**](https://www.sec.gov/dera) : ![**DERA@sec.gov**](mailto:DERA@sec.gov)
 
 \- U.S. Securities and Exchange Commission Office of Investor Education and Advocacy 100 F Street, NE Washington, DC 20549-0213. Call us at 1-800-732-0330
 

@@ -20,7 +20,7 @@ So, back to the point, RC tweeted from Arlington, VA GameStop this week, just a 
 
 &#x200B;
 
-[RC in DC, maybe to see the SEC?](https://preview.redd.it/3xwcqio20jz61.png?width=744&format=png&auto=webp&s=de9a62c1c77b5bd93e5df24c8bf928a153d7f57e)
+![RC in DC, maybe to see the SEC?](https://preview.redd.it/3xwcqio20jz61.png?width=744&format=png&auto=webp&s=de9a62c1c77b5bd93e5df24c8bf928a153d7f57e)
 
 Could it be, as some have speculated, that he wasn't just in town by chance, but that his presence was needed in DC to discuss the impending urgent situation that is likely to occur on 6/9 when the proxy vote count is revealed.  Is it reasonable to expect that we could see 169M shares voted, why that's only 10M apes with 10 shares each on top of insitutional ownership votes, how about 10M apes with 50 shares average or 100 shares?  And why wouldn't it be that large of a number, Burry and DFV figured out the shorts were in too deep 2 years ago..2 freakin years ago!   If this number is what I and many other apes implicitly know it will be, the SEC will be publicly revealed to be incompetent in letting this situation get to the level of the greatest financial scandal in history!  They will be forced to do something at that point.  We the Ameripoor and Europoor Apes, the Ants, and the rest of the world will be the one's screaming look, "the emporor has no clothes"!  At the risk of becoming a global laughing stock, they will have to do something and shorts will have to cover.  Hang on, rocket's fueling up for launch!
 

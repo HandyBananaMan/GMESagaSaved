@@ -204,7 +204,7 @@ Lastly, I’d like to offer you two links, that I had to develop due to reddit�
 
 i) [https://ddextension68.blogspot.com/2021/04/dance-of-darkness-thesec-and-dark-pools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-thesec-and-dark-pools.html)
 
-ii) [https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html)
+ii) ![https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html)
 
 In those links, you will find the unaltered cuts of this DD, the first one is edited; however, the Snyder Cut is as raw as it gets. I hope you enjoy them
 
@@ -222,6 +222,6 @@ Finally, to reiterate here's a quick hashtag you may use if you feel like using 
 
 i) [https://ddextension68.blogspot.com/2021/04/dance-of-darkness-thesec-and-dark-pools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-thesec-and-dark-pools.html)
 
-ii) [https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html)
+ii) ![https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html](https://ddextension68.blogspot.com/2021/04/dance-of-darkness-sec-and-darkpools.html)
 
 Legal Disclaimer: None of this was or is financial advice, this is purely speculative opinion based on the sources as presented in this article—as such, it should be both viewed as and taken for entertainment purposes (i.e. the entertainment of ideas). Lastly, I am not a cat, and I like the stock. Thank you for your time.

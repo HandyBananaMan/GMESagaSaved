@@ -15,4 +15,4 @@ Buy, HODL and vote! 🚀🚀🚀
 
 \---
 
-Edit: If you aren't familiar with "reverse repo" and how it might connect to the stock market and triggering MOASS, this might add a wrinkle: [https://www.reddit.com/r/Superstonk/comments/nhepn1/the\_imminent\_liquidity\_crisis\_reverse\_repos\_usage/](https://www.reddit.com/r/Superstonk/comments/nhepn1/the_imminent_liquidity_crisis_reverse_repos_usage/)
+Edit: If you aren't familiar with "reverse repo" and how it might connect to the stock market and triggering MOASS, this might add a wrinkle: ![https://www.reddit.com/r/Superstonk/comments/nhepn1/the\_imminent\_liquidity\_crisis\_reverse\_repos\_usage/](https://www.reddit.com/r/Superstonk/comments/nhepn1/the_imminent_liquidity_crisis_reverse_repos_usage/)

@@ -102,7 +102,7 @@ P.S. if you manage to stop fondling your limp little mushroom penis long enough,
 
 &nbsp;
 
-# Sign the [goddamned shareholder letter]( https://www.stockholdersrights.com/). 
+# Sign the ![goddamned shareholder letter]( https://www.stockholdersrights.com/). 
 
 &nbsp;
 

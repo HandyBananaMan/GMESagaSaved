@@ -71,7 +71,7 @@ And more comments that I won't search up for you now. You have enough time to sp
 
 &#x200B;
 
-Edit: To the people telling me: ThAt's WhAT YoU GeT fOr CalLiNg YouRseLf NoStRaDaMus!!!. I didn't.  I adopted that name, because a lot of people called me that. I found it funny at first, after I adopted it, found it cringy and removed it. Read the comments under that post: [https://www.reddit.com/r/GME/comments/lrijdv/my\_theory\_for\_todays\_market\_close\_get\_ready\_for\_a/](https://www.reddit.com/r/GME/comments/lrijdv/my_theory_for_todays_market_close_get_ready_for_a/)
+Edit: To the people telling me: ThAt's WhAT YoU GeT fOr CalLiNg YouRseLf NoStRaDaMus!!!. I didn't.  I adopted that name, because a lot of people called me that. I found it funny at first, after I adopted it, found it cringy and removed it. Read the comments under that post: ![https://www.reddit.com/r/GME/comments/lrijdv/my\_theory\_for\_todays\_market\_close\_get\_ready\_for\_a/](https://www.reddit.com/r/GME/comments/lrijdv/my_theory_for_todays_market_close_get_ready_for_a/)
 
 That's were the Nostradamus thing came from.
 

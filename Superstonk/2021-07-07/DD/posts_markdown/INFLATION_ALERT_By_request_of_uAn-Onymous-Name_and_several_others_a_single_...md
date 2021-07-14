@@ -85,7 +85,7 @@ The Bank of Japan on [July 2nd showed](https://www.boj.or.jp/en/statistics/boj/o
 
 [Not a review of their central bank, but Ukraine working to lock up a strategic natural resource that will help their economy hedge inflation:](https://i.redd.it/g8y56ekdzq971.gif)
 
-[https:\/\/www.ebrd.com\/news\/2021\/ebrd-supports-private-ukrainian-gas-trader-eru-trading-.html](https://preview.redd.it/ziubk3x1zq971.png?width=1024&format=png&auto=webp&s=e0901b8ba8ccde62741a6f3dc004c4d67c85daf0)
+![https:\/\/www.ebrd.com\/news\/2021\/ebrd-supports-private-ukrainian-gas-trader-eru-trading-.html](https://preview.redd.it/ziubk3x1zq971.png?width=1024&format=png&auto=webp&s=e0901b8ba8ccde62741a6f3dc004c4d67c85daf0)
 
 I think I can update this post as I find more central banks to update with? Thanks and hope everyone enjoyed this dive!
 

@@ -84,7 +84,7 @@ Returning to our example, everything is the same except the part about borrowing
 
 &#x200B;
 
-**EDIT3(9:30AM): THE FEE TO BORROW GME SHARES WENT UP BY 12 % OVER NIGHT AND IS THEREFORE IN THE DOUBLE DIGITS FOR THE FIRST TIME SINCE 4 WEEKS! (**[**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**
+**EDIT3(9:30AM): THE FEE TO BORROW GME SHARES WENT UP BY 12 % OVER NIGHT AND IS THEREFORE IN THE DOUBLE DIGITS FOR THE FIRST TIME SINCE 4 WEEKS! (**![**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**
 
 &#x200B;
 

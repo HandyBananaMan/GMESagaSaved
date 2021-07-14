@@ -62,4 +62,4 @@ Good night and good luck in the market. As a Europoor I will be sitting out the 
 
 **NB:** the beta of GME went from **-4.09** against the Dow Jones before the long Easter weekend to **-9.59** today, Easter Sunday. *They did something huge over Easter weekend.*
 
-[4 April 2021](https://preview.redd.it/ffyyt32bv7r61.png?width=947&format=png&auto=webp&s=fecab38fd86c2c8bd0de84140fd126db480406ae)
+![4 April 2021](https://preview.redd.it/ffyyt32bv7r61.png?width=947&format=png&auto=webp&s=fecab38fd86c2c8bd0de84140fd126db480406ae)

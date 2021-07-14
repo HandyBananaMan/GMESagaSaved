@@ -16,6 +16,6 @@ https://preview.redd.it/93clpkj7v3y61.png?width=2142&format=png&auto=webp&s=457f
 
 Major Edit 1:
 
-So, the rationale, means, and force behind this post is still 100% accurate.  The Gamestop board can see when your votes come in and effectively use this information near real-time.  However, the vendor that Gamestop is using (which I missed) is ComputerShare, which provides like-for-like services as ProxyVote.  I voted several times through ProxyVote, which is the service that Fidelity is using.  I have a feeling that each broker might have the choice of their proxy services.  According to the [Gamestop Corp 2021 - 14A Filing on 4/22/2021](https://sec.report/Document/0001193125-21-126940/#toc122967_28), Gamestop reimburses each broker for their costs if requested.
+So, the rationale, means, and force behind this post is still 100% accurate.  The Gamestop board can see when your votes come in and effectively use this information near real-time.  However, the vendor that Gamestop is using (which I missed) is ComputerShare, which provides like-for-like services as ProxyVote.  I voted several times through ProxyVote, which is the service that Fidelity is using.  I have a feeling that each broker might have the choice of their proxy services.  According to the ![Gamestop Corp 2021 - 14A Filing on 4/22/2021](https://sec.report/Document/0001193125-21-126940/#toc122967_28), Gamestop reimburses each broker for their costs if requested.
 
 https://preview.redd.it/gsn6xi85roy61.png?width=2408&format=png&auto=webp&s=db6b3c8a54147b7e8ddad2de3214767ecef435c0

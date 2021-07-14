@@ -16,4 +16,4 @@ I am here with my single digit shares. I am DIAMOND HANDS! They need ALL our sha
 
 Edit: The Yu-Gi-OH ETF was actually a comment, and I was able to find it! Here is the original comment :
 
-[https://www.reddit.com/r/GME/comments/mbu916/not\_my\_post\_but\_it\_is\_being\_downvoted\_like\_crazy/gs05qbt/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbu916/not_my_post_but_it_is_being_downvoted_like_crazy/gs05qbt/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/GME/comments/mbu916/not\_my\_post\_but\_it\_is\_being\_downvoted\_like\_crazy/gs05qbt/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbu916/not_my_post_but_it_is_being_downvoted_like_crazy/gs05qbt/?utm_source=share&utm_medium=web2x&context=3)

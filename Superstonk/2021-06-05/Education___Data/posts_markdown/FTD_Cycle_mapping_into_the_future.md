@@ -38,7 +38,7 @@ When we plug these dates into a matrix, it looks like this:
 
 [Bolded dates = wambo combo possibility](https://preview.redd.it/3c9bcz7iwb771.png?width=645&format=png&auto=webp&s=544ab41cd55e68d6d53e6060e9d94b0e3c238953)
 
-When things line up closer, we seem to get bigger jumps, historically speaking in the price, but there's been more than enough DD on this, and I'm a forward thinking kind of ape at the moment so we'll do dates but no prices. In the words of our forefather, [u/deepfuckingvalue](https://www.reddit.com/user/deepfuckingvalue):
+When things line up closer, we seem to get bigger jumps, historically speaking in the price, but there's been more than enough DD on this, and I'm a forward thinking kind of ape at the moment so we'll do dates but no prices. In the words of our forefather, ![u/deepfuckingvalue](https://www.reddit.com/user/deepfuckingvalue):
 
 https://preview.redd.it/otswbcw8d2471.png?width=356&format=png&auto=webp&s=64e013126afe0a011c5f59ec8f134458736b7f8c
 

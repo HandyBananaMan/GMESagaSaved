@@ -161,7 +161,7 @@ And remember: OOK OOK.
 
 &#x200B;
 
-[Monke see, monke do.](https://preview.redd.it/4bdggyb8po371.png?width=1920&format=png&auto=webp&s=def5ccd0dcf4fa0ca03147e77c73f5b2bb2616f6)
+![Monke see, monke do.](https://preview.redd.it/4bdggyb8po371.png?width=1920&format=png&auto=webp&s=def5ccd0dcf4fa0ca03147e77c73f5b2bb2616f6)
 
 **TL;DR : Gamestop has a shitload of cash and no more short-term and long-term debt. The only material long term debt remains that from rent contracts for offices and shop locations across the US. This debt is also most likely going to decrease because of remote work as well as leasing contract terminations or re-negotiations due to an inventory efficiency update that Ryan must implement in order to be able to successfully compete with Amazon on the gaming goods and merchandise segment. The company has finished the repayment of its 2023 Senior Notes principal, leading to the metaphorical breaking of chains that were holding the company back for so long. With new leadership, a modern approach, a clear plan and a GOD TIER TEAM, as well as a global loyal customer base that likes the stock, not to mention the free publicity the brand got for the last 6 months, GameStop is now going to show these so called “ANALysts” from MSM, what real fundamentals are and just how high the price of GME can go.**
 

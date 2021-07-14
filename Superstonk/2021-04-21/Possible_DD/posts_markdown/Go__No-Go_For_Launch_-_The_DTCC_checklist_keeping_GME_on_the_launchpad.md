@@ -246,4 +246,4 @@ Edit 14 on 2021-05-07:
 NSCC-2021-002 officially delayed as far as June 21, 2021. Sunshine meeting for today postponed again.
 
 Edit 15 on 2021-05-20:
-Major revisions made and then reposted [here](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/)
+Major revisions made and then reposted ![here](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/)

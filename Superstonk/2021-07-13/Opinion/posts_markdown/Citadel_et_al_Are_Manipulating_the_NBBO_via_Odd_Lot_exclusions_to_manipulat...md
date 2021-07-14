@@ -30,7 +30,7 @@ Here's the 10th June: FINRA ADF data (a place you can report your dark pool trad
 
 This ape found Odd lot trades outside the NBBO in dark pools: [https://www.reddit.com/r/Superstonk/comments/n7ahcl/found\_something\_funky\_on\_the\_dark\_pools/](https://www.reddit.com/r/Superstonk/comments/n7ahcl/found_something_funky_on_the_dark_pools/)  \[Edit: Dave has commented to the OP of this linked post saying that the NBBO data the OP sourced was perhaps delayed and thus he doubted the conclusion. **However**, even with a delayed NBBO, a measured correlation between Odd lots and the NBBO would not be expected, assuming the price behaves approximately randomly. I.e. **The Autocorrelation of a uniform random process (this approximates short-term stock prices), very quickly drops off to zero**.\]
 
-Blackrock comments on the Odd lots proposal: [https://www.theice.com/publicdocs/BlackRock\_Odd\_Lot\_Proposal\_December\_3\_2019.pdf](https://www.theice.com/publicdocs/BlackRock_Odd_Lot_Proposal_December_3_2019.pdf)
+Blackrock comments on the Odd lots proposal: ![https://www.theice.com/publicdocs/BlackRock\_Odd\_Lot\_Proposal\_December\_3\_2019.pdf](https://www.theice.com/publicdocs/BlackRock_Odd_Lot_Proposal_December_3_2019.pdf)
 
 We thought months ago it was dark pools hiding the buys, but people such as Dave Lauer showed that this is not true, as all trades need to be reported to the tape. It is the Odd lots that provide the hiding of the buying pressure - they are the secret sauce. Many other apes have indeed found that the dark pools are FULL of GME Odd lots, and one ape even found that they were above the NBBO (although based on imperfect data).
 

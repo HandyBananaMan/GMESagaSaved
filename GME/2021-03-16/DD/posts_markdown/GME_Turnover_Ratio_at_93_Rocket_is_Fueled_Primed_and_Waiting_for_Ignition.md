@@ -56,4 +56,4 @@ Positions: xxxx GME @ ??
 
 EDIT 1: Love you all! Happy to offer a little warm glass o’ milk to help us sleep better tonight!  🚀🚀🚀💰💰💰💎💎💎🤑🤑🤑
 
-EDIT 2: For those questioning if brokerages can handle so many 000000’s in share prices....[BRK/A Share Price 3-16-2021](https://imgur.com/gallery/kUT1zeD)
+EDIT 2: For those questioning if brokerages can handle so many 000000’s in share prices....![BRK/A Share Price 3-16-2021](https://imgur.com/gallery/kUT1zeD)

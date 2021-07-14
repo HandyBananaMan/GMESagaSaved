@@ -100,6 +100,6 @@ Edit #3: Other DD worth checking out:
 
 [https://www.reddit.com/r/Superstonk/comments/nrk98j/something\_about\_sears/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nrk98j/something_about_sears/?utm_source=share&utm_medium=web2x&context=3)
 
-[https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty\_consumer\_survey\_data\_not\_reddit\_data/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty_consumer_survey_data_not_reddit_data/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty\_consumer\_survey\_data\_not\_reddit\_data/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty_consumer_survey_data_not_reddit_data/?utm_source=share&utm_medium=web2x&context=3)
 
 &#x200B;

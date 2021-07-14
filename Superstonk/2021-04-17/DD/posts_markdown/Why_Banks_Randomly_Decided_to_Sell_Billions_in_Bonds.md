@@ -36,7 +36,7 @@ But wait! There’s more!
 
 [More institutions with GME puts](https://preview.redd.it/qjzidc7762p61.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=7b9c4422d1788a1c03c905615727d41e05cd706c)
 
-[JP Morgan Chase sells $13 billion in bonds](https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/jpmorgan-sell-13-billion-bonds-184602000.html)
+![JP Morgan Chase sells $13 billion in bonds](https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/jpmorgan-sell-13-billion-bonds-184602000.html)
 
 JP Morgan Chase is #29 on the list! They had puts on GME too!
 

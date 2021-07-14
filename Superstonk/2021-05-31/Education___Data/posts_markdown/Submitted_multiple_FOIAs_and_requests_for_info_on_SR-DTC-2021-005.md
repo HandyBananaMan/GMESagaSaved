@@ -29,7 +29,7 @@ I'm not gonna make it easy for you to contact these authorities by giving you a 
 
 \-Contact Information: John Petrofsky, Assistant General Counsel and Director, [JPetrofsky@dtcc.com](mailto:JPetrofsky@dtcc.com), (813) 470-2115
 
-\-Signed by: Brandon Becker, Deputy General Counsel and Managing Director, 04/01/2021, [bbecker@dtcc.com](mailto:bbecker@dtcc.com)
+\-Signed by: Brandon Becker, Deputy General Counsel and Managing Director, 04/01/2021, ![bbecker@dtcc.com](mailto:bbecker@dtcc.com)
 
 &#x200B;
 

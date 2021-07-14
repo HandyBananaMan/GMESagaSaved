@@ -14,7 +14,7 @@ Let's dive in.
 
 Let's zoom into the drop that started around 12:20 PM.
 
-[Price and Volume Chart in Minute Increments](https://preview.redd.it/yzmipqjzy9m61.jpg?width=1320&format=pjpg&auto=webp&s=516210096bb28774da52c10cb3241e302e923828)
+![Price and Volume Chart in Minute Increments](https://preview.redd.it/yzmipqjzy9m61.jpg?width=1320&format=pjpg&auto=webp&s=516210096bb28774da52c10cb3241e302e923828)
 
 As the price dropped, the peak minute volume was 936.7K. From 12:20 PM to the bottom at 12:41 PM, the total volume traded was 4.32 million shares. In the grand scheme of things, this is NOT A LOT of volume for such a violent price move.
 

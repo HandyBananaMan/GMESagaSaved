@@ -67,7 +67,7 @@ So, what happens if this trend continues toward theoretical Zero Liquidity?
 
 &#x200B;
 
-[4\/29 after lunch high volume candle, which was greater than first minute of regular trading hours candle.](https://preview.redd.it/as731hdrgrw61.png?width=1860&format=png&auto=webp&s=974d1698fc520cc8c45e5109d8f4471d93d362e1)
+![4\/29 after lunch high volume candle, which was greater than first minute of regular trading hours candle.](https://preview.redd.it/as731hdrgrw61.png?width=1860&format=png&auto=webp&s=974d1698fc520cc8c45e5109d8f4471d93d362e1)
 
 **This is their new problem.**
 

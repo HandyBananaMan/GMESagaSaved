@@ -32,7 +32,7 @@ So unfortunately, we do not know the ownership as of Mar 18. However, based on F
 
 [Fig 3](https://preview.redd.it/80c4p4rwpf471.png?width=755&format=png&auto=webp&s=63af80464b996ab0e68a8b70ba0c47e4229d7e8a)
 
-[Fig 4](https://preview.redd.it/3p4d2yh5qf471.png?width=1115&format=png&auto=webp&s=4def5a500d13a447e68c0ceda40e86874b6350e0)
+![Fig 4](https://preview.redd.it/3p4d2yh5qf471.png?width=1115&format=png&auto=webp&s=4def5a500d13a447e68c0ceda40e86874b6350e0)
 
 &#x200B;
 

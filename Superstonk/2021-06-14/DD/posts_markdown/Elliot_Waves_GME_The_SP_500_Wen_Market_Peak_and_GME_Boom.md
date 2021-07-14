@@ -74,7 +74,7 @@ Do note, we have not actually hit the 61.8% retracement of our cycle 1 (201), we
 
 Regarding SPY, because this is our super cycle, and we are nearing the peak, that means that we must then correct that entire move via an ABC correction, targeting minimum 50% of that entire move. Where does that put SPY when all is said and done?
 
-[SHEEEEEEESH](https://preview.redd.it/bbfh7wzi1c571.png?width=1634&format=png&auto=webp&s=1502f44228277e07070d84570fd9d8be4752b7b6)
+![SHEEEEEEESH](https://preview.redd.it/bbfh7wzi1c571.png?width=1634&format=png&auto=webp&s=1502f44228277e07070d84570fd9d8be4752b7b6)
 
 50% of the entire 5 wave super cycle puts SPY at 247.67 (assuming \~ 429 is the top). It could go higher than 429 without a doubt, though i doubt much higher in all honesty.
 

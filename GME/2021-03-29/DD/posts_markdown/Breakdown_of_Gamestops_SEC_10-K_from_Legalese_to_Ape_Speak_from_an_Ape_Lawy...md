@@ -203,7 +203,7 @@ Gamestop is saying: we're not telling you that our stock is currently shorted ov
 
 * ***This is not financial advice, this is not legal advice.***
 * ***I am NOT a securities lawyer.*** *I do not prepare and file SEC forms.*
-* ***I am a customs/duties/tariffs litigator***\*, dealing with international\* [*WTO hearings*](https://www.wto.org/english/tratop_e/dispu_e/dispu_status_e.htm) *and hearings similar to those at the* [*USITC*](https://www.usitc.gov/)*.*
+* ***I am a customs/duties/tariffs litigator***\*, dealing with international\* [*WTO hearings*](https://www.wto.org/english/tratop_e/dispu_e/dispu_status_e.htm) *and hearings similar to those at the* ![*USITC*](https://www.usitc.gov/)*.*
 * *SEC filings are a very important part of my practice because auditing and cross-examining a company's financials, including their SEC filings, is a key part in determining whether or not there has been injury caused by dumped/subsidized goods.*
 * *My job is to read/review SEC forms, litigate them, find the loopholes, find the errors, find the language/terminology that can either support or not support a potential claim, and that includes cross-examining those who are responsible for them (CEO, CFO, COO, etc, depending on the case and who is available etc).*
 * *This is also a learning exercise for me. The reason that I started looking this stuff up was because I was personally fascinated with what was going on, and I wanted to learn more. I decided to share what I've found out, and my personal thoughts, with everyone. I am on a learning journey and just taking you along for the ride. If I find something later in my research that is different than what I've said here, I will of course update this and provide explanations.*

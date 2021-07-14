@@ -282,6 +282,6 @@ backups:
 
 [https://twitter.com/warden\_elite](https://twitter.com/warden_elite)
 
-[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 And I'll be posting updates as they happen here:

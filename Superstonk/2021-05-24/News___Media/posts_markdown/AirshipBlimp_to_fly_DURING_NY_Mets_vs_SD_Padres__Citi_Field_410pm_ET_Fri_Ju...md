@@ -96,4 +96,4 @@ In case it needs to be shortened:
 
 # edit: For security reasons not accepting private messages, please communicate with me here in the comments.
 
-# Official link for donations from [aerialmessages.com](https://aerialmessages.com) coming soon!
+# Official link for donations from ![aerialmessages.com](https://aerialmessages.com) coming soon!

@@ -64,7 +64,7 @@ Just want people to be prepared if there is a dip.  The long ~~whales~~ Kongs we
 
 I personally think they want the shorts to reshort again and they want to keep this out of the 200s coming up on Tomorrow (Friday 3/19) since there is talk that some of the Shorts might have 200, 300, and 400 dollar calls which expire also tomorrow which they hedged weeks ago.
 
-Pinning it lower than 200 would fuck the shorts the most since they would lose their hedge bets as well, then the long ~~whales~~ Kongs would proceed with buying up long again.  This was a theory I read  [https://www.reddit.com/r/GME/comments/m584h0/how\_i\_see\_the\_gme\_end\_game\_playing\_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
+Pinning it lower than 200 would fuck the shorts the most since they would lose their hedge bets as well, then the long ~~whales~~ Kongs would proceed with buying up long again.  This was a theory I read  ![https://www.reddit.com/r/GME/comments/m584h0/how\_i\_see\_the\_gme\_end\_game\_playing\_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
 
 He thinks ~~Whales~~ Kongs are waiting out this week because they want to keep the shorts from getting their hedge bets then will proceed next week.  I'm not putting dates at all but that would explain why ~~whales~~ Kongs seem to be MIA this week.
 

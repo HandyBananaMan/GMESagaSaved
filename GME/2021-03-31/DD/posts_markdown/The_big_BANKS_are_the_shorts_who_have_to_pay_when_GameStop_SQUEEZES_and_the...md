@@ -40,7 +40,7 @@ As for GME specifically, if the brokers can’t get access to the real shares, t
 
 &#x200B;
 
-[Equity swaps in the F----- T-------](https://preview.redd.it/kj90no3z3jq61.png?width=1236&format=png&auto=webp&s=f78982c3aea7d6ab7fe686b9873674aba1e034a5)
+![Equity swaps in the F----- T-------](https://preview.redd.it/kj90no3z3jq61.png?width=1236&format=png&auto=webp&s=f78982c3aea7d6ab7fe686b9873674aba1e034a5)
 
 **Disclaimer:** Or I am totally wrong. Not financial advice. Thought experiment only.
 

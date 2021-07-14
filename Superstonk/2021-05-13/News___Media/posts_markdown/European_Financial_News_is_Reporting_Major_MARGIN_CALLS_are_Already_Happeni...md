@@ -36,7 +36,7 @@ from which it is clear that the greatest contribution to that leap comes substan
 
 Further problem? **Consumer credit based on this trend is, in fact, securitized in real time:** when the frenzy of transfers through subsidies will end and purchasing power will be halved, what dynamics will be activated in the sector? **The mind runs to subprime mortgages.** But even worse is the scenario that this second graph shows us:
 
-[Source: Bloomberg](https://preview.redd.it/fltyylzutty61.png?width=1200&format=png&auto=webp&s=486bb2934b4e4eb95cdf63be55da63515c5ad41d)
+![Source: Bloomberg](https://preview.redd.it/fltyylzutty61.png?width=1200&format=png&auto=webp&s=486bb2934b4e4eb95cdf63be55da63515c5ad41d)
 
 which shows how the largest ETF linked to corporate debt, iShares iBoxx $ Investment Grade Corporate Bond (LQD), a $ 41 billion colossus, **has just registered a short interest at 21.5% of the outstanding.** The boiling price is frightening credit investors, so much so that in the face of a $ 15 billion inflow in 2020, **the fund has already suffered $ 11.3 billion outflows since the beginning of the year.**
 

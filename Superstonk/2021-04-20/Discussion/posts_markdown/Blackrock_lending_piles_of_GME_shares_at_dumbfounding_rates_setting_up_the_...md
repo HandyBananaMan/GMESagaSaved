@@ -38,4 +38,4 @@ I think Blackrock won't be selling any of their loose \~2M shares during the squ
 
 &#x200B;
 
-EDIT 1 (as I assume there'll be more...due to smooth brain, crayons, art college, you know the drill). My confirmation bias jumped on the wikipedia definition of Blackrock as a an 'index fund and passive management firm'. As /u/[SneakingForAFriend](https://www.reddit.com/user/SneakingForAFriend/) pointed out they they have more active strategies as well. They are also a 'multinational investment management corporation' according to wikipedia again. Skepticism is welcomed and important.
+EDIT 1 (as I assume there'll be more...due to smooth brain, crayons, art college, you know the drill). My confirmation bias jumped on the wikipedia definition of Blackrock as a an 'index fund and passive management firm'. As /u/![SneakingForAFriend](https://www.reddit.com/user/SneakingForAFriend/) pointed out they they have more active strategies as well. They are also a 'multinational investment management corporation' according to wikipedia again. Skepticism is welcomed and important.

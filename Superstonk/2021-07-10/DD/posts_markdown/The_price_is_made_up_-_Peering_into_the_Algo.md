@@ -74,7 +74,7 @@ Or we get the less exciting nothingburger
 
 &#x200B;
 
-[boo](https://preview.redd.it/lqadqym7cga71.png?width=955&format=png&auto=webp&s=99cb30cf675e09df25145ed82554b3df6c382ee4)
+![boo](https://preview.redd.it/lqadqym7cga71.png?width=955&format=png&auto=webp&s=99cb30cf675e09df25145ed82554b3df6c382ee4)
 
 Each cycle is 25 to 35 business days durations roughly.
 

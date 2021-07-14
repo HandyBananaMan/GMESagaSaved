@@ -126,4 +126,4 @@ Does this give a bigger seat at the table when Citadel is liquidated, protects t
 
 Original post about bonds-
 
-[https://www.reddit.com/r/DDintoGME/comments/mviw7c/help\_with\_citadels\_corporate\_bonds/](https://www.reddit.com/r/DDintoGME/comments/mviw7c/help_with_citadels_corporate_bonds/)
+![https://www.reddit.com/r/DDintoGME/comments/mviw7c/help\_with\_citadels\_corporate\_bonds/](https://www.reddit.com/r/DDintoGME/comments/mviw7c/help_with_citadels_corporate_bonds/)

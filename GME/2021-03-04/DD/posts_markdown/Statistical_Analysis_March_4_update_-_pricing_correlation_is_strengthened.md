@@ -27,7 +27,7 @@ In graph form:
 
 # Analysis
 
-While we ended the day at a higher price, therefore continuing the pattern from the first run-up (to the point where the p-value is **bloody\* zero!**), the jump was not as dramatic as the change from January 21 to January 22. This should not be a surprise, as volume remained relatively low today. See my post from this morning for [expanded notes](https://www.reddit.com/r/GME/comments/lxhatz/some_additional_thoughts_on_statistical_analysis/) (particularly at the end, addressing volume).
+While we ended the day at a higher price, therefore continuing the pattern from the first run-up (to the point where the p-value is **bloody\* zero!**), the jump was not as dramatic as the change from January 21 to January 22. This should not be a surprise, as volume remained relatively low today. See my post from this morning for ![expanded notes](https://www.reddit.com/r/GME/comments/lxhatz/some_additional_thoughts_on_statistical_analysis/) (particularly at the end, addressing volume).
 
 *\** *I try to write in a straight-forward manner, but it needs to be said: this is amazing to witness. We in effect have two date ranges in which the following occurred:*
 

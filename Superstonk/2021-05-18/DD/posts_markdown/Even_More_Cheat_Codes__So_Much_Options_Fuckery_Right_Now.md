@@ -90,4 +90,4 @@ Edit #1: #BanOptionsTrading
 
 **Edit #3: Nevermind the above ... I think this was triggered because I included a link about Alex Kearns in one of my comments. Let's not forget Alex Kearns!**
 
-**Edit #4:** [https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent\_ape\_still\_complaining\_about\_gme/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent_ape_still_complaining_about_gme/?utm_source=share&utm_medium=web2x&context=3)
+**Edit #4:** ![https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent\_ape\_still\_complaining\_about\_gme/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent_ape_still_complaining_about_gme/?utm_source=share&utm_medium=web2x&context=3)

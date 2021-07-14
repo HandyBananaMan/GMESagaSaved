@@ -59,7 +59,7 @@ So we'll take a look at 5 scenarios:
 
 &#x200B;
 
-[Even if we're being really conservative, there are way too fucking many shares](https://preview.redd.it/1o1e1fycsf571.png?width=530&format=png&auto=webp&s=bc4e6e9ee0472992b1a15e58bb8b49510ae0d1a5)
+![Even if we're being really conservative, there are way too fucking many shares](https://preview.redd.it/1o1e1fycsf571.png?width=530&format=png&auto=webp&s=bc4e6e9ee0472992b1a15e58bb8b49510ae0d1a5)
 
 Now, I’m sure someone with more wrinkles than me can take this info and come up with a model to show how share ownership may have increased (I assume) over time as more and more naked shorts were dumped into the market and apes gobbled them up. Remember that the estimates I laid out above were for share count up to March 18th, which was after u/deepfuckingvalue initially doubled down from 50K to 100K shares (Feb 19), but before his final call options expired and he posted that update showing us that he had doubled down again to 200K shares (Apr 16). How many other people have potentially doubled their positions in the last 3 months? Also missing from this data are the shares that Dutch retail investors may have already been holding prior to January 18th, and any shares that may have been held by Dutch financial institutions.
 

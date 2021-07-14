@@ -265,4 +265,4 @@ Edit 4:
 
 Be sure to give this a read, been posted about 2 weeks ago but still holds true
 
-[https://www.reddit.com/r/GME/comments/lzxbzm/be\_adamant\_some\_reminders\_for\_managing\_behavior/](https://www.reddit.com/r/GME/comments/lzxbzm/be_adamant_some_reminders_for_managing_behavior/)
+![https://www.reddit.com/r/GME/comments/lzxbzm/be\_adamant\_some\_reminders\_for\_managing\_behavior/](https://www.reddit.com/r/GME/comments/lzxbzm/be_adamant_some_reminders_for_managing_behavior/)

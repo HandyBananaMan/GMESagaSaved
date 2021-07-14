@@ -67,6 +67,6 @@ Sources:
 
 Edit 1: There is an inconsistency reported by FT for Stuttgart (988) and [Finanzen.net](https://Finanzen.net) (313). I cannot explain the difference.
 
-Edit 2: u/MaterialLake1138 suggested this for German markets [https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099](https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099) and I think it covers all the exchanges in Germany in one place including OTC.
+Edit 2: u/MaterialLake1138 suggested this for German markets ![https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099](https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099) and I think it covers all the exchanges in Germany in one place including OTC.
 
 Edit 3: Some of you mentioned the overall volume on Monday is not relevant given the insignificant amount of shares traded. It is true and it is not the purpose of this post. 

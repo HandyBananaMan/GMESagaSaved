@@ -16,7 +16,7 @@ TL;DR: And I just want to clarify, because it actually seems to be a new FUD cam
 
 Quoting my own comment:
 
-[https:\/\/www.reddit.com\/r\/wallstreetbets\/comments\/m5jn1y\/gme\_megathread\_for\_march\_15\_2021\/gr1xnl9?utm\_source=share&utm\_medium=web2x&context=3](https://preview.redd.it/09o7j3xp3cn61.png?width=683&format=png&auto=webp&s=9ca1d4d157fe84af469c3cc5088bb6a3ec3880d9)
+![https:\/\/www.reddit.com\/r\/wallstreetbets\/comments\/m5jn1y\/gme\_megathread\_for\_march\_15\_2021\/gr1xnl9?utm\_source=share&utm\_medium=web2x&context=3](https://preview.redd.it/09o7j3xp3cn61.png?width=683&format=png&auto=webp&s=9ca1d4d157fe84af469c3cc5088bb6a3ec3880d9)
 
 So please. Don't follow every bullshit post calling me out and be critical, here is why.
 

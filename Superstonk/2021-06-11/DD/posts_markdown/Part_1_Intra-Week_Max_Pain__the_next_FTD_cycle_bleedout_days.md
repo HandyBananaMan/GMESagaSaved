@@ -105,7 +105,7 @@ Here's a cool caveat. The hedgie/MM that did these orders did the following.
 2. Proceeds do a massive multi-leg order at 12:35 ish on both sides (hedge) for 3000 put contracts and another 3000 call contracts at the same time. I smell a hedge or **married puts** ( ͡ʘ ͜ʖ ͡ʘ) look at the timestamps ( ͡ʘ ͜ʖ ͡ʘ) ( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)
 3. Does another 3000 put and 3000 call multi-leg purchase at 12:45 ish again. Again, hedge or **married puts**? ( ͡ʘ ͜ʖ ͡ʘ) ( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)
 
-My Jacks are titted. [https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+My Jacks are titted. ![https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 &#x200B;
 
@@ -129,7 +129,7 @@ The hedges just took the bait yesterday. They. Are. Fucked. The SEC now has a pe
 
 [Related, it's all the crybabies that are about to pop up in the comments to complain about the \\"quality\\" of this DD not being peer reviewed in triplicate by multiple quantative anal-yst mathbois \(or girls\) who like  Δx\/Δt formulaic things and how this is all fud whilst also at the same time ignoring the actual factual informations based on real marked data because they're not actual apes but shills who are shitting their pants that someone figured this shit out \( ͡ಥ ͜ʖ ͡ಥ\). Imagine holding GME, seeing this and instead of going \\"Wow\\" you go complain about the quality of the DD \( ͡ಥ ͜ʖ ͡ಥ\). It's pizza Friday ya'll.](https://preview.redd.it/0nc4i1gmsl471.jpg?width=518&format=pjpg&auto=webp&s=a071ada71f7a3943135621020fdd9a1a7f1c5ac1)
 
-[https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+![https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 u/buttfarm69 for posterity.
 

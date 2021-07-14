@@ -11,7 +11,7 @@ Some new DD was posted recently from r/atobitt and r/tearsaresweat, linked below
 
 [525 Million GME shares traded OTC](https://www.reddit.com/r/GME/comments/mcfq4e/shitadel_other_hedgies_are_trading_over_525/)
 
-[Citadel paying for order flow from 9 online brokers](https://www.reddit.com/r/DeepFuckingValue/comments/mbvplb/huge_citadel_is_paying_for_order_flow_from_nine/)
+![Citadel paying for order flow from 9 online brokers](https://www.reddit.com/r/DeepFuckingValue/comments/mbvplb/huge_citadel_is_paying_for_order_flow_from_nine/)
 
 And I just wanted to link it together for the masses to really ruminate and understand the impact of the Darkpool accumulation of shares (which will likely Fail-to-Deliver "FTD" - ie., counterfeit) that Citadel has been doing.
 

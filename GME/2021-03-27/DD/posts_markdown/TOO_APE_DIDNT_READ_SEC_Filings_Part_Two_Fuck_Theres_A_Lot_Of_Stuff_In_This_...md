@@ -80,7 +80,7 @@ I ain't gotta do this one, u/luridess went absolutely buckwild on it. Y'all have
 
 [https://www.sec.gov/news/closedmeetings/2021/ssamtg032521.htm](https://www.sec.gov/news/closedmeetings/2021/ssamtg032521.htm)
 
-u/Conscious-Sea-5937 already did this one with hella citations: [https://www.reddit.com/r/GME/comments/mdegxq/re\_sec\_closed\_meeting\_today\_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
+u/Conscious-Sea-5937 already did this one with hella citations: ![https://www.reddit.com/r/GME/comments/mdegxq/re\_sec\_closed\_meeting\_today\_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
 
 I'll do a *reeeeally* quick one:
 

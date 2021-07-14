@@ -4,7 +4,7 @@
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***
 
-[Not calling computer apes sheep, just an analogy. ](https://preview.redd.it/wa1wfk14ly271.jpg?width=500&format=pjpg&auto=webp&s=7038463e40b13d86e37ee7267f632bd2adf35ab7)
+![Not calling computer apes sheep, just an analogy. ](https://preview.redd.it/wa1wfk14ly271.jpg?width=500&format=pjpg&auto=webp&s=7038463e40b13d86e37ee7267f632bd2adf35ab7)
 
 # Intro
 

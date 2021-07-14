@@ -8,7 +8,7 @@ The frog 🐸 is the long-used symbol of transition and change, from tadpole to 
 
 Check this out: "**FUN FACTS ABOUT CHEWY &amp; VOLITION:** Chewy’s first official board meeting included two slides, a lot of laughter and a trip to McDonalds for soft serve."
 
-[https://www.volitioncapital.com/news/portfolio/chewy/](https://www.volitioncapital.com/news/portfolio/chewy/)
+![https://www.volitioncapital.com/news/portfolio/chewy/](https://www.volitioncapital.com/news/portfolio/chewy/)
 
 Edit: u/vestro showed us his earlier tweet with the same theory ☝️ was like by none other than ... David Cheng of Volition Capital. Well done!!
 

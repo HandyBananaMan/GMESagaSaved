@@ -31,7 +31,7 @@ The [NSCC]( https://www.investopedia.com/terms/n/nscc.asp) is now ~~strictly~~ u
 
 &nbsp;
 
-##2. The NSCC can pull funds from the Clearing Fund to help pay for a Member’s losses 2 business days after a [loss allocation notice]( https://www.sec.gov/rules/sro/nscc/2018/34-82428.pdf).
+##2. The NSCC can pull funds from the Clearing Fund to help pay for a Member’s losses 2 business days after a ![loss allocation notice]( https://www.sec.gov/rules/sro/nscc/2018/34-82428.pdf).
 
 Under Section 6.4
 > In order to be consistent with the language formulation set out in Rule 4, the proposed rule change would revise this sentence to state, “Losses charged to Members are required to be paid by Members on the second business day after the Corporation issues any such notice of a loss allocation charge and, if not timely paid by any Member, the Corporation may treat that Member as having failed to satisfy its obligation and apply the Clearing Fund deposit of that Member to satisfy its loss allocation obligation.”

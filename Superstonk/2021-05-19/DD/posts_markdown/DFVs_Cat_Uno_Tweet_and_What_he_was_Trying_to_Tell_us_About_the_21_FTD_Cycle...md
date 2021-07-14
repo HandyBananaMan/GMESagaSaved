@@ -128,4 +128,4 @@ I am completely open to *constructive* criticism and if anything in here is prov
 
 Edit 1: For some extra tit-jacking, here is [Ryan Cohens Tweet from today.](https://twitter.com/ryancohen/status/1395047208748261379) A heart emoji. Also expressed as < 3, or in English, less than three. Less than 3 what, Ryan? Tradng Days?
 
-Tit-jacking edit 2: [Here is RC's tweet referencing 10 days.](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/gys6tey?utm_source=share&utm_medium=web2x&context=3)
+Tit-jacking edit 2: ![Here is RC's tweet referencing 10 days.](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/gys6tey?utm_source=share&utm_medium=web2x&context=3)

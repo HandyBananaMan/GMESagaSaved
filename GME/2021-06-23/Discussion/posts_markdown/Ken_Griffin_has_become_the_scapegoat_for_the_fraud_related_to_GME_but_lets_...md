@@ -16,7 +16,7 @@ Wrinkle brains and reddit detectives, I need your help. Shifting all the blame o
 
 5. Federal Reserve ("the Fed") Board of Governors: [https://www.federalreserve.gov/aboutthefed/bios/board/default.htm](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm). Our founding fathers were strongly against a central bank, but to my understanding, Woodrow Wilson pushed for it as a way to print ourselves back to prosperity after WWI and to establish the dollar as the world reserve currency. 
 
-6. Intercontinental Exchange (ICE) Board of Governors: [https://ir.theice.com/governance/board-of-directors-and-committee-composition/default.aspx](https://ir.theice.com/governance/board-of-directors-and-committee-composition/default.aspx). They operate exchanges and clearing houses, including the New York Stock Exchange. 
+6. Intercontinental Exchange (ICE) Board of Governors: ![https://ir.theice.com/governance/board-of-directors-and-committee-composition/default.aspx](https://ir.theice.com/governance/board-of-directors-and-committee-composition/default.aspx). They operate exchanges and clearing houses, including the New York Stock Exchange. 
 
 &#x200B;
 

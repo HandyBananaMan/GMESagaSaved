@@ -166,7 +166,7 @@ Shout out to u/Accomplished_Shock46 **who posted this in a WSB comment.**
 
 &#x200B;
 
-Edit: I didn't do the DD, i just found it. Don't forget to click and support the author who is sharing these thoughts/comments if you agree with them- traffic and social media is very important to Google/Bings algorithms on their search engine. Thanks u/[YourDraftDay](https://www.reddit.com/user/YourDraftDay/) for this idea.
+Edit: I didn't do the DD, i just found it. Don't forget to click and support the author who is sharing these thoughts/comments if you agree with them- traffic and social media is very important to Google/Bings algorithms on their search engine. Thanks u/![YourDraftDay](https://www.reddit.com/user/YourDraftDay/) for this idea.
 
 Not financial advice.
 

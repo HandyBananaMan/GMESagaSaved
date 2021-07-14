@@ -26,7 +26,7 @@ EDIT4: 🚀🚀🚀🚀🌛🌛🌛🌛💎💎💎💎👉👌👉👌
 
 EDIT5:
 
-[https://preview.redd.it/9lilsekvc9771.png?width=793&format=png&auto=webp&s=a02613703ca2a3361149c809909d203eeb5c4095](https://preview.redd.it/9lilsekvc9771.png?width=793&format=png&auto=webp&s=a02613703ca2a3361149c809909d203eeb5c4095)
+![https://preview.redd.it/9lilsekvc9771.png?width=793&format=png&auto=webp&s=a02613703ca2a3361149c809909d203eeb5c4095](https://preview.redd.it/9lilsekvc9771.png?width=793&format=png&auto=webp&s=a02613703ca2a3361149c809909d203eeb5c4095)
 
 EDIT6: thanks for all of the awards guys! I honestly didn't expect this to get as big as it did (that's what she said). The awards are appreciated, but save your money and go spend it on more GME! BUY & HODL
 

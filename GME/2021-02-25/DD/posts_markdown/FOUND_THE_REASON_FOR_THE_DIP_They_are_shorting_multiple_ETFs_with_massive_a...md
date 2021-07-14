@@ -88,7 +88,7 @@ Here are the ones they are using as well:
 
 &#x200B;
 
-Also: **They borrowed 1,500,000** $GME Shares **to short yesterday (**[**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**, but there was no huge drop off or sell volume that would indicate, that they already shorted those. That means, they are now using those shorts as well as the ETFs.
+Also: **They borrowed 1,500,000** $GME Shares **to short yesterday (**![**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**, but there was no huge drop off or sell volume that would indicate, that they already shorted those. That means, they are now using those shorts as well as the ETFs.
 
 &#x200B;
 

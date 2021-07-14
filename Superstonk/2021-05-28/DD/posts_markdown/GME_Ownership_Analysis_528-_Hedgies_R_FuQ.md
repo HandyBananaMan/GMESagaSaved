@@ -118,7 +118,7 @@ Edit 3: Direct vs. Indirect Insider Ownership **RC Listed as Indirect**
 
 &#x200B;
 
-[RC Listed as Indirect](https://preview.redd.it/oz019rwsxz171.jpg?width=3668&format=pjpg&auto=webp&s=861b89415e9b82028514b010ad6e0be7189705e1)
+![RC Listed as Indirect](https://preview.redd.it/oz019rwsxz171.jpg?width=3668&format=pjpg&auto=webp&s=861b89415e9b82028514b010ad6e0be7189705e1)
 
 EDIT 4 (5/29 afternoon): I am doing a more comprehensive review of ownership comparing the numbers reported by Mergent and FTSE Russell to those of: GameStop Proxy, Yahoo Finance Premium, FinteliO, Whale Wisdom, Koyfin, Fidelity Research, Nasdaq, CNNMoney, and MarketBeat (I think I named them all.. may be more I'll update as needed). I am trying to match numbers to see if I can find any discrepancies in data reported.  
 

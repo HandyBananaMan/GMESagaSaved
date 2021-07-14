@@ -10,7 +10,7 @@ First let’s look again at the timestamp of the NFT’s launch:
 
 Then, let’s look at the wiki page of bastille day (in french): [link](https://fr.wikipedia.org/wiki/Prise_de_la_Bastille)
 
-[image of wiki page of bastille day](https://preview.redd.it/2t52hjjphn871.png?width=975&format=png&auto=webp&s=8eacee869ec429c6590ec21860a9d74226383d2a)
+![image of wiki page of bastille day](https://preview.redd.it/2t52hjjphn871.png?width=975&format=png&auto=webp&s=8eacee869ec429c6590ec21860a9d74226383d2a)
 
 This isn’t translated so I’ll do my best (french ape here):
 

@@ -313,7 +313,7 @@ For all you smooth brains who recently transferred to new brokers, contact them 
 
 Edit 2:
 
-[https://www.reddit.com/r/GME/comments/mcxko4/the\_lid\_has\_been\_blown\_the\_fuck\_open\_credit\_to/](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/)
+![https://www.reddit.com/r/GME/comments/mcxko4/the\_lid\_has\_been\_blown\_the\_fuck\_open\_credit\_to/](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/)
 
 some wrinklebrain did a great run down on whats happening and what's going on with ETF's and Russel 2000
 

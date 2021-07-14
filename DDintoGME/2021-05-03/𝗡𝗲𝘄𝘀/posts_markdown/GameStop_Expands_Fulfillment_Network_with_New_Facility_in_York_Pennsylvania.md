@@ -29,4 +29,4 @@ or
 
 Profile  
 Greg Marose / Charlotte Kiaie  
-[gamestop@profileadvisors.com](https://www.globenewswire.com/Tracker?data=EUqtudzJfxdpho_lBo8bSjVEb0MNuMI3Tt8EInoitvKaJ-bzxYDFmWif_p8lEUbGYGe0AOenhfDtsHWaVXZRZ5KxvvJfpzgSHgoABJqI1YlcAcyHYXx-80V-sa71r6W9)
+![gamestop@profileadvisors.com](https://www.globenewswire.com/Tracker?data=EUqtudzJfxdpho_lBo8bSjVEb0MNuMI3Tt8EInoitvKaJ-bzxYDFmWif_p8lEUbGYGe0AOenhfDtsHWaVXZRZ5KxvvJfpzgSHgoABJqI1YlcAcyHYXx-80V-sa71r6W9)

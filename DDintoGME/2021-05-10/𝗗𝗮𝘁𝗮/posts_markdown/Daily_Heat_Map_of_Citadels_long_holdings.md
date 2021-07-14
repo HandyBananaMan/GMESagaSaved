@@ -23,4 +23,4 @@ I did notice that EEM was on their list, and it also saw it in today's list of t
 Someone asked for the 13F link, so I'll share my links here:[https://whalewisdom.com/filer/citadel-advisors-llc#tabholdings\_tab\_link](https://whalewisdom.com/filer/citadel-advisors-llc#tabholdings_tab_link)[https://www.holdingschannel.com/13f/citadel-advisors-llc-top-holdings/](https://www.holdingschannel.com/13f/citadel-advisors-llc-top-holdings/)
 
 Edit 2: Not sure the best way to share the next days' update, but I'll just add a link here for May 11:  
-[https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily\_heat\_map\_of\_citadel\_and\_melvins\_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
+![https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily\_heat\_map\_of\_citadel\_and\_melvins\_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)

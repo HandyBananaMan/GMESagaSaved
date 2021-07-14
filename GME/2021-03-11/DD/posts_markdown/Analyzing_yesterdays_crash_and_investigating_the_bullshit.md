@@ -81,7 +81,7 @@ Calm down friend. We need to inform you, to make you able to make better financi
 
 # Why does Damsellindistress THINK the dumping and the buying party are two different entities?
 
-[https://www.reddit.com/r/GME/comments/m2asru/death\_throes\_dd\_the\_secgovernment\_cant\_intervene/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m2asru/death_throes_dd_the_secgovernment_cant_intervene/?utm_medium=android_app&utm_source=share)
+![https://www.reddit.com/r/GME/comments/m2asru/death\_throes\_dd\_the\_secgovernment\_cant\_intervene/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m2asru/death_throes_dd_the_secgovernment_cant_intervene/?utm_medium=android_app&utm_source=share)
 
 The chart shown here and the excellent explanation by Broviet very clearly indicates two large entities trying to make eachother back down with extremely violent bids and counterbids. This doesn't make sense if it was the same party doing this.
 

@@ -10,7 +10,7 @@ Please UPVOTE for visibility
 
 **UPDATE:** He has made another account here [WardenElite2 (u/WardenElite2) - Reddit](https://www.reddit.com/user/WardenElite2)
 
-**UPDATE 2:** Can confirm reports that **HeyItsPixel** has also been banned, unknown reason why yet. ~~I am sure Rensole and other admins will get him back in here as well soon enough.~~ For now, his twitter is  [Josh 💎🤲 (@HeyItsPixel1) / Twitter](https://twitter.com/HeyItsPixel1) . ~~I will update his new user info here before the market opens. Right now I am off to bed, got 4 hours to get some slep.~~  Screw sleep apparently. Pixel is already back at  [u/HeyItsNotJosh](https://www.reddit.com/u/HeyItsNotJosh) 
+**UPDATE 2:** Can confirm reports that **HeyItsPixel** has also been banned, unknown reason why yet. ~~I am sure Rensole and other admins will get him back in here as well soon enough.~~ For now, his twitter is  [Josh 💎🤲 (@HeyItsPixel1) / Twitter](https://twitter.com/HeyItsPixel1) . ~~I will update his new user info here before the market opens. Right now I am off to bed, got 4 hours to get some slep.~~  Screw sleep apparently. Pixel is already back at  ![u/HeyItsNotJosh](https://www.reddit.com/u/HeyItsNotJosh) 
 
 &#x200B;
 

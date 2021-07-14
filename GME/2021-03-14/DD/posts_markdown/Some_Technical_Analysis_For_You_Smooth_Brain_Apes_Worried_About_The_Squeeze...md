@@ -34,4 +34,4 @@ But what do I know, I'm a dumb ape.
 
 &#x200B;
 
-Edit: Heres a [link](https://docs.google.com/document/d/1SXYt5tNVMFA6n7uel6ZONBnwM8CmIPnkZlIPTjrODlo/edit?usp=sharing) to my google doc if you want to read it
+Edit: Heres a ![link](https://docs.google.com/document/d/1SXYt5tNVMFA6n7uel6ZONBnwM8CmIPnkZlIPTjrODlo/edit?usp=sharing) to my google doc if you want to read it

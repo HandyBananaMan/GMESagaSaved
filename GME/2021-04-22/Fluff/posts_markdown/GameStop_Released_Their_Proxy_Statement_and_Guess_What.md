@@ -38,6 +38,6 @@ Edit 3: Well, as I typed this from my desk at my shitty job that I just can't wa
 
 Edit 4: If you are here to comment about the average that I calculated, please see the above comment.
 
-Edit 5: Lolz [https://www.reddit.com/r/Superstonk/comments/mzuodo/final\_update\_superstonk\_users\_alone\_hold\_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
+Edit 5: Lolz ![https://www.reddit.com/r/Superstonk/comments/mzuodo/final\_update\_superstonk\_users\_alone\_hold\_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
 
 "131.75 ShArEs Is A rIdIcUlOuS eStImAtE oF tHe AvErAgE."

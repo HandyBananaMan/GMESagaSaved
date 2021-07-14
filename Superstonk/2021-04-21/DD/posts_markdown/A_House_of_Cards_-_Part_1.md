@@ -265,7 +265,7 @@ Now.....
 
 You wanna know the BEST part???
 
-*I found a list of all the DTC* [*participants*](https://www.dtcc.com/-/media/Files/Downloads/client-center/DTC/alpha.pdf) *that are responsible for this mess..*
+*I found a list of all the DTC* ![*participants*](https://www.dtcc.com/-/media/Files/Downloads/client-center/DTC/alpha.pdf) *that are responsible for this mess..*
 
 **I've got your name, number, and I'm coming for you-** ***ALL OF YOU***
 

@@ -22,7 +22,7 @@ On September 13, 2019, two days prior to the September 15th Overstock crypto div
 
 [SEC Cock Block](https://preview.redd.it/l8rxew10i0971.png?width=1965&format=png&auto=webp&s=c5abf943c6dc1d6879e1e0da6a845faa4529c183)
 
-Patrick Byrne, the former CEO of Overstock, elaborates on these events in his [September 18, 2019 blog post.](https://www.deepcapture.com/2019/09/the-deep-state-cries-bazoomba/) A NY Post article published on September 17, 2019 serves as the other principle source for the information in this post. Available [here.](https://nypost.com/2019/09/17/ex-overstock-ceo-planned-crypto-dividend-to-thwart-short-sellers/)
+Patrick Byrne, the former CEO of Overstock, elaborates on these events in his [September 18, 2019 blog post.](https://www.deepcapture.com/2019/09/the-deep-state-cries-bazoomba/) A NY Post article published on September 17, 2019 serves as the other principle source for the information in this post. Available ![here.](https://nypost.com/2019/09/17/ex-overstock-ceo-planned-crypto-dividend-to-thwart-short-sellers/)
 
 If I have taken away some of your hopium, here are two reasons you should have a little of it back regarding a possible crypto dividend:
 

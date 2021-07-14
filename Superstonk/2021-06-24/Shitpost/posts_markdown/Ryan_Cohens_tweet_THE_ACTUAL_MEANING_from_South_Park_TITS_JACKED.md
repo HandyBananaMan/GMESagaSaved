@@ -38,6 +38,6 @@ Edit 2: u/SanchoUSA has pointed out the clip is exactly 4:20!!
 
 Edit 3: Tits literally at 3:20
 
-Edit 4: Buckle Up Buckeroo  [Buckle Up Buckaroo - YouTube](https://www.youtube.com/watch?v=GL-kcDm6uzs) 
+Edit 4: Buckle Up Buckeroo  ![Buckle Up Buckaroo - YouTube](https://www.youtube.com/watch?v=GL-kcDm6uzs) 
 
 &#x200B;

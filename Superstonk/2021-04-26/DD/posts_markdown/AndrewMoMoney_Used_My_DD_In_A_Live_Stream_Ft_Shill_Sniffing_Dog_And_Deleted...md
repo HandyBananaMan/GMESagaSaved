@@ -250,7 +250,7 @@ It was a live video. Often you don’t have yourself as put together as a script
    * Use these interviews to supplement what you don't know instead of reading straight DD.
 * Make a video for your OG subscribers on how they can use GME as a catalyst for their careers--even if that's just having the extra tendies to go back to school or coast while they figure out their life.
    * Make a video that helps apes manage their tendies--like "how to find a CPA", "how to pick a lawyer". You don't even need to pitch it as original. Give credit to the person who posted first, say it's a video adaptation, boom.
-* [Stop deleting negative comments and use them to your advantage.](https://www.businessinsider.com/5-reasons-not-to-delete-negative-reviews-2010-11)
+* ![Stop deleting negative comments and use them to your advantage.](https://www.businessinsider.com/5-reasons-not-to-delete-negative-reviews-2010-11)
 * Cut back on the click bait titles. You can optimize your title for the algorithm AND give your viewers a clear understanding of what the video is about.
    * Write what the video is about in the description.
 * Get back to engaging with your subscribers like you did in the beginning.

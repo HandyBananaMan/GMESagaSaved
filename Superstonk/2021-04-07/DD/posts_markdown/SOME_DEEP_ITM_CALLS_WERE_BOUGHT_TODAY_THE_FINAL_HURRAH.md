@@ -26,7 +26,7 @@ This is where it gets a bit confusing. I'm not going to pretend like I entirely 
 
 &#x200B;
 
-[\\"The Last Hurrah\\"](https://preview.redd.it/wz5675allvr61.jpg?width=647&format=pjpg&auto=webp&s=d08bbd9bb65420faf576e36002f5f583c29fc92a)
+![\\"The Last Hurrah\\"](https://preview.redd.it/wz5675allvr61.jpg?width=647&format=pjpg&auto=webp&s=d08bbd9bb65420faf576e36002f5f583c29fc92a)
 
 He goes on to say "the DTCC didn't have a notation in their books that showed which shares are the result of rehypothecation. As a result, every share that ran through the system prior to the rule going into effect is non-notated. Therefore, following the letter of the law, the HFs should be able to reset their FTDs one last time. When they reset this time all of those shares will remain in their account and will be notated/unable to be rehypothecated."
 

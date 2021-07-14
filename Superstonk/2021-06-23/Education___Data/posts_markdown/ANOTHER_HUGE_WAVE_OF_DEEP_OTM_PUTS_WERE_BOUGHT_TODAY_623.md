@@ -12,7 +12,7 @@ As you can see from the data set above there was a massive wave of Puts purchase
 
 [GME Biggest Options Trades 6-22-21](https://preview.redd.it/r5rg9sfch4771.png?width=1131&format=png&auto=webp&s=7fdccb6fe0a23c50415cbbf607e6d64b62c46e31)
 
-[GME Biggest Options Trades 6-21-21](https://preview.redd.it/hdlunb1eh4771.png?width=1031&format=png&auto=webp&s=7b7c3abb0f2e0354e8f504bed6ad3f51662c30fa)
+![GME Biggest Options Trades 6-21-21](https://preview.redd.it/hdlunb1eh4771.png?width=1031&format=png&auto=webp&s=7b7c3abb0f2e0354e8f504bed6ad3f51662c30fa)
 
 Definitely a more diverse group of options were purchased on Monday and Tuesday but Wednesday's trades are definitely something of note. As always I will continue to monitor the data to see how this shakes out. See you soon
 

@@ -156,7 +156,7 @@ Take a look at this chart of GME. Purple boxes are indicating T+35. Green boxes 
 
 Huh? March 15th didn't have a surge! Yes, you are correct. It had a biiiig surge down though. Now take a look at our friend AMC. I've plotted **THE SAME EXACT T+35 AND T+21 CYCLES**. Notice how similar AMC is? How its following the same spikes? Notice anything different about March 15 for AMC? AMC went up! I bet you they wasted a lot of ammo on March 15th to avoid GME surging up because it was in the $280s at the time. Danger Zone!!
 
-[Figure 2: AMC T+21 and T+35 Cycles](https://preview.redd.it/1vzoarafqsz61.png?width=1423&format=png&auto=webp&s=6df4b3db90f5ab0a635444fa6116bdd23ae73142)
+![Figure 2: AMC T+21 and T+35 Cycles](https://preview.redd.it/1vzoarafqsz61.png?width=1423&format=png&auto=webp&s=6df4b3db90f5ab0a635444fa6116bdd23ae73142)
 
 The similarities in these charts is **too much to pass up**. Both AMC and GME are heavily shorted stocks and we need to apply the same analysis to both. AMC seems less suppressed compared to GME - fewer attacks - because it's not as big of a problem as GME.
 

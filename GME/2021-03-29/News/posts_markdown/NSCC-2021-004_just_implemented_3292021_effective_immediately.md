@@ -12,6 +12,6 @@ Here is the direct link, if you wish to review the filing (it's only 141 page pd
 
 [https://www.sec.gov/rules/sro/nscc.htm](https://www.sec.gov/rules/sro/nscc.htm)
 
-And here is a good write up on this filing and what powers its provides for recovery of assets. [https://www.reddit.com/r/GME/comments/mc8trw/dtcc\_just\_filed\_another\_rule\_yesterday\_that/](https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/)
+And here is a good write up on this filing and what powers its provides for recovery of assets. ![https://www.reddit.com/r/GME/comments/mc8trw/dtcc\_just\_filed\_another\_rule\_yesterday\_that/](https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/)
 
 TLDR:  The liquidation and wind down process is now updated and approved, in the event a member of the DTCC needs to liquidated.

@@ -92,7 +92,7 @@ With that in mind, just wanna give a shoutout to u/criand for being an absolute 
 
 Apes, I'll say it again, none of what is happening with GME is normal. I could make a laundry list of the abnormalities - the price being 5x analyst predictions but not budging, OTC trading, random volume spikes, FTD cycle, difficulty to borrow, relatedness to other shorted stocks, consolidation patterns, gigantic drops, etc. etc. etc. The point is, something's going on and something's gotta give.  What do all of these abnormalities make me?
 
-[HARDER THAN EVER](https://preview.redd.it/6adccfbabe071.png?width=1080&format=png&auto=webp&s=f17c0be2c20907e258334ba516103fadfb4fc868)
+![HARDER THAN EVER](https://preview.redd.it/6adccfbabe071.png?width=1080&format=png&auto=webp&s=f17c0be2c20907e258334ba516103fadfb4fc868)
 
 Thanks again for understanding why I was gone for a little bit, I really appreciate it. Idk when I'll be coming back because the next few weeks are not super predictable for me and could be busy... but I will be here... watching.... reading.... jacking off. As always, stay strong apes.
 

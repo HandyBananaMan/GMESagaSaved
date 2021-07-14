@@ -8,7 +8,7 @@ Everyone's seen the [awesome TA post](https://www.reddit.com/r/Superstonk/commen
 
 Everyone's also read the Elliot Wave Guy's posts which fits with the current upward trajectory narrative.
 
-But I haven't seen anyone mention this in the past few weeks so I will hopefully be the first one to bring it up. 10 days ago [I made a post about why we didn't see any FTD covering](https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/) on the usual full-moon T+21/35 day cycle we were on track for every month until June.
+But I haven't seen anyone mention this in the past few weeks so I will hopefully be the first one to bring it up. 10 days ago ![I made a post about why we didn't see any FTD covering](https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/) on the usual full-moon T+21/35 day cycle we were on track for every month until June.
 
 The reason, in my honest opinion, is that they started covering the week before the earnings call with every intention of dropping the price using what little ammo they had left to drop the price like they did back in March and to throw off our "confirmed" prediction of the T+21/35 cycle. It had a double whammy effect in their minds but we're apes and we HODL no matter what. And some of us saw right through their stupid psychological fuckery (the only real fuckery they have left).
 

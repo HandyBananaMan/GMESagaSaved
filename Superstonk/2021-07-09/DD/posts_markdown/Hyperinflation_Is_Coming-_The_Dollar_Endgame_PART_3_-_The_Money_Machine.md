@@ -156,6 +156,6 @@ In the wake of the crisis, several key financial reforms were made. Among them w
 
 &#x200B;
 
-**(Side note: I’ve been accused of being a shill/FUD spreader for the first two posts- please know this is NOT my intention! I cleared this series with Mods, (**[**PROOF**](https://drive.google.com/file/d/1HlM0vR0Mguo83k6KKKQg5HKyCZaLrOHQ/view?usp=sharing)**) (THIS IS A GOOGLE DRIVE LINK, I WASNT SURE HOW ELSE TO SHARE IT) but if you think this is FUD/SHILLY then downvote/comment and we can discuss further.)**
+**(Side note: I’ve been accused of being a shill/FUD spreader for the first two posts- please know this is NOT my intention! I cleared this series with Mods, (**![**PROOF**](https://drive.google.com/file/d/1HlM0vR0Mguo83k6KKKQg5HKyCZaLrOHQ/view?usp=sharing)**) (THIS IS A GOOGLE DRIVE LINK, I WASNT SURE HOW ELSE TO SHARE IT) but if you think this is FUD/SHILLY then downvote/comment and we can discuss further.)**
 
 Also, inflation is GOOD FOR GME> EQUITY PRICES GO UP, SHORTS MUST COVER!!

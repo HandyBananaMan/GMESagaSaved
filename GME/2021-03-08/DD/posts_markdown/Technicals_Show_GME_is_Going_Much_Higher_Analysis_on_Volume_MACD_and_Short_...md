@@ -30,7 +30,7 @@ From  last Friday to today, the shares available to short have dropped a  whoppi
 
 &#x200B;
 
-[600,000 shares shorted!](https://preview.redd.it/qx30867ezul61.png?width=498&format=png&auto=webp&s=c8b08889b2d0198c8879f98d8d5bed78dfc5a281)
+![600,000 shares shorted!](https://preview.redd.it/qx30867ezul61.png?width=498&format=png&auto=webp&s=c8b08889b2d0198c8879f98d8d5bed78dfc5a281)
 
 **Final Thoughts**
 

@@ -90,7 +90,7 @@ Hmmm... fwiw, if you read this, and think I'm implying you should buy call optio
 
 The best way to combat shills, is with humor. Had to share, because I went back and I couldn't stop laughing at this one that someone caught (was deleted a few minutes after).  I hope u/Pyzlos got to keep that Gold -- if not, and you read this, post something here and I got you. 💎🙌🦍🚀🌕
 
-[🎶](https://preview.redd.it/2koxlpskynq61.png?width=1508&format=png&auto=webp&s=88316ab7e975467c65530109a49c7d66b29f13d9)
+![🎶](https://preview.redd.it/2koxlpskynq61.png?width=1508&format=png&auto=webp&s=88316ab7e975467c65530109a49c7d66b29f13d9)
 
 \*\*\* Edit 4 \*\*\* 
 

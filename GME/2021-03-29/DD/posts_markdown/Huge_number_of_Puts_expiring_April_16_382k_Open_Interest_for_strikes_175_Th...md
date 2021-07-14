@@ -118,7 +118,7 @@ I also look into this for **Tesla**, just as a comparison to see what size of th
 
 &#x200B;
 
-[Tesla](https://preview.redd.it/7k9aziv712q61.png?width=975&format=png&auto=webp&s=b5ab752c327ace121ea827b4561ac2319b287d55)
+![Tesla](https://preview.redd.it/7k9aziv712q61.png?width=975&format=png&auto=webp&s=b5ab752c327ace121ea827b4561ac2319b287d55)
 
 You can see that there are **WAY fewer options being purchased with the % of float maxing out at 7.6%, but call volume is also in line with puts, unlike with GME.** And this is also a stock that is also seen some crazy volatile recently!
 

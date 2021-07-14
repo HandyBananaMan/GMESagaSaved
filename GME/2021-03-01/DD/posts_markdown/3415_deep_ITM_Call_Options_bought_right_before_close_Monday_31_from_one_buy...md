@@ -24,4 +24,4 @@ Edit: In case you have issues reading the options in the link above, direct link
 
 Edit 2: As has been pointed out by (quite) a few of you, [Uncle Bruce did a great job explaining exactly this possibility](https://www.youtube.com/watch?v=VwXLRoAw3Z4).  This is why I posted my DD here, because I knew you guys would be able to provide the information I was missing!  
 
-Edit 2: [You love me, you really love me](https://www.youtube.com/watch?v=2lPKU5qSO6A).  Thank you all for the awards and kind comments.  Best sub I've ever posted in.  Let's keep working together with DD, to help all of us get to the moon!
+Edit 2: ![You love me, you really love me](https://www.youtube.com/watch?v=2lPKU5qSO6A).  Thank you all for the awards and kind comments.  Best sub I've ever posted in.  Let's keep working together with DD, to help all of us get to the moon!

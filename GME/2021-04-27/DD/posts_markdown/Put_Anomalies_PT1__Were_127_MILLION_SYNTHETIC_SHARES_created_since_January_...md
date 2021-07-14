@@ -228,7 +228,7 @@ https://preview.redd.it/ply0r7x5lqv61.png?width=645&format=png&auto=webp&s=37098
 
 Similar is true on other strikes with this unusual volume. **There was no profit opportunity here.** **The benefit had to be a regulatory / loophole one.** Why else would somebody generate “worthless” activity that exceeds the average option trading volume a couple times? Is this another way to reset FTD and buy-in obligations, like the deep-ITM calls? I believe contextualizing these spikes within the timeline helps us understand what they can be:
 
-[ A hint, perhaps. ](https://preview.redd.it/wdiq1sc7lqv61.png?width=1680&format=png&auto=webp&s=886abbe49fbda8ef78890770ac048e7e2cad61d2)
+![ A hint, perhaps. ](https://preview.redd.it/wdiq1sc7lqv61.png?width=1680&format=png&auto=webp&s=886abbe49fbda8ef78890770ac048e7e2cad61d2)
 
 # The Weird Coincidence
 

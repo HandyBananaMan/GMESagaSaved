@@ -75,7 +75,7 @@ We got you by the balls, and I'm loving every second of it.
 
 I could be wrong. BUT,IF IM RIGHT, the government is probably telling Reddit to do whatever it can to divert traffic from this post.
 
-If it’s one thing I’m good at, it’s [putting myself in other peoples shoes](https://youtu.be/wTa14Sui7mw). Perspective is everything.
+If it’s one thing I’m good at, it’s ![putting myself in other peoples shoes](https://youtu.be/wTa14Sui7mw). Perspective is everything.
 
 That is all. DIAMOND HANDS MOTHERFUCKERS. I WILL HOLD THIS STOCK, TILL DEATH DO US PART.
 

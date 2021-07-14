@@ -113,7 +113,7 @@ Given the fraction of all shares owned by retail and the size of all institution
 
 https://imgur.com/a/wNMYBHf
 
-According to the [latest Bloomberg terminal drop](https://old.reddit.com/r/Superstonk/comments/mwdqyh/22042021_gme_bloomberg_terminal_information/), institutions have at least 110% of all shares outstanding. So:
+According to the ![latest Bloomberg terminal drop](https://old.reddit.com/r/Superstonk/comments/mwdqyh/22042021_gme_bloomberg_terminal_information/), institutions have at least 110% of all shares outstanding. So:
 
 * If retail has 40% (like AAPL), then 83% of outstanding shares are short. **58.1 million shorts in total**
 * If retail has 50% (like TSLA), then 120% of outstanding shares are short. **84 million shorts in total**

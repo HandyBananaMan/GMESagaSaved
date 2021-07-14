@@ -26,4 +26,4 @@ Split into 5 parts for the 15 minute video limit.
 
 &#x200B;
 
-[Part 5](https://reddit.com/link/mvpzvn/video/9jnch20ohlu61/player)
+![Part 5](https://reddit.com/link/mvpzvn/video/9jnch20ohlu61/player)

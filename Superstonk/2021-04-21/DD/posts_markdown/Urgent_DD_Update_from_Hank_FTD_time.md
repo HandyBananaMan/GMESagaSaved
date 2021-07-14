@@ -26,7 +26,7 @@ Why am I saying this? As I said above, the past few days have made me realize th
 
 Therefore, I will be doing massive research on this topic (I will explain my methods below). HOWEVER, I urge all apes who are able to do this to do their own research on FTDs and shorts so that we can get a better idea of how they work and when shorts have to repay after these massive attacks. I'd urge you to start by reading this DD about FTD cycles, as it is gold:
 
-[https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf](https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf)
+![https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf](https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf)
 
 Finally, though I love chatting with all of you, please only message me about FTD stuff if you have some serious, detailed research and don't think that your account is big enough for others to see it. If you have some DD and an account that can get some traction, I encourage you to post that DD so that others can see it more quickly because I will be inactive for a little (explained below).
 

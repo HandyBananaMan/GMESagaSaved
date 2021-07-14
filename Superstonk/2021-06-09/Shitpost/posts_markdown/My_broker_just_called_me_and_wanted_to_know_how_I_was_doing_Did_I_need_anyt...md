@@ -38,4 +38,4 @@ Mr. Furlong is a veteran e-commerce leader with significant experience implement
 
 1st Quarter Results
 
-[https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results](https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results)
+![https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results](https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results)

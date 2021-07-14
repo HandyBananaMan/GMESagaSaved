@@ -40,4 +40,4 @@ Add to that the risk of margin calls, tightening regulation and the increasing p
 
 **TL;DR**: Everything is worse for the HFs since January and it's getting worse by the day.
 
-[Buckle up.](https://preview.redd.it/wow9zwpqqea71.jpg?width=1259&format=pjpg&auto=webp&s=a30f5d0f069cd5c403b036a91b9c048124edfa49)
+![Buckle up.](https://preview.redd.it/wow9zwpqqea71.jpg?width=1259&format=pjpg&auto=webp&s=a30f5d0f069cd5c403b036a91b9c048124edfa49)

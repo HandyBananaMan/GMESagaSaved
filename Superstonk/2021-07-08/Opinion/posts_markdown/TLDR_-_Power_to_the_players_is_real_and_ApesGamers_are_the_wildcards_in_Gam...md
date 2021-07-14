@@ -108,4 +108,4 @@ Don't be foolish and try and stand this up yourself, come work with THE BEST @ G
 
 TL:DR - Power to the players is real and Apes/Gamers are the wildcards in GameStop turning the NFT Marketplace and metaverse into a money printing press.
 
-[Thanks for stopping by to take a dive with me! Please let me know if you have questions, requests for additional subject areas, or if something just isn't clicking for you and think I should explore further.](https://i.redd.it/fhoyu9tyu1a71.gif)
+![Thanks for stopping by to take a dive with me! Please let me know if you have questions, requests for additional subject areas, or if something just isn't clicking for you and think I should explore further.](https://i.redd.it/fhoyu9tyu1a71.gif)

@@ -16,7 +16,7 @@ I wanted to clarify something I posted in my first edit about beta value. First 
 
 "A negative beta correlation means an investment moves in the opposite direction from the stock market. When the market rises, a negative-beta investment generally falls. When the market falls, the negative-beta investment will tend to rise."
 
-[Here is some DD about GME's beta value from 2 weeks ago.](https://www.reddit.com/r/Wallstreetbetsnew/comments/m6g8u4/extremely_abnormal_negative_beta_of_gme_evidence/) Long story short GME's beta was -2.07 on 03/17 and I got the same value when I looked for it just now. What it means to me is that when GME goes BRRRRRRRR market goes GUHHHHH. Smarter apes can explain the deeper mechanics and nuance but that is it in a nutshell.
+![Here is some DD about GME's beta value from 2 weeks ago.](https://www.reddit.com/r/Wallstreetbetsnew/comments/m6g8u4/extremely_abnormal_negative_beta_of_gme_evidence/) Long story short GME's beta was -2.07 on 03/17 and I got the same value when I looked for it just now. What it means to me is that when GME goes BRRRRRRRR market goes GUHHHHH. Smarter apes can explain the deeper mechanics and nuance but that is it in a nutshell.
 
 INFINITY EDIT:
 WOULD YOU LIKE TO KNOW MORE? WOULD YOU LIKE TO CONTRIBUTE TO THIS SHREWDNESS OF APES, SERIOUSLY THATS WHAT GROUPS OF APES ARE CALLED, WTF

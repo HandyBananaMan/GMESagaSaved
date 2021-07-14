@@ -18,7 +18,7 @@ Of course, you saw the “WTF” post about the Russell 1000 (RUI) indicating ir
 
 Well, I hope you didn’t spend too much time dawning on that murder scene, as it is misleading and misinformative (again, thanks to /u/PsiGhost for pointing this out in the original post). 
 
-The picture you saw was of the [CFD](https://i.imgur.com/ArZmpUB); not RUI itself. As you can see, there is the true Russell 1000 index (2nd result) and the RUI CFD (shown in the original post with nearly 9k upvotes) is the first result.
+The picture you saw was of the ![CFD](https://i.imgur.com/ArZmpUB); not RUI itself. As you can see, there is the true Russell 1000 index (2nd result) and the RUI CFD (shown in the original post with nearly 9k upvotes) is the first result.
 
 For those that don’t know (like me), CFD’s aren’t assets to be owned, and are actually trading instruments; OTC derivative contracts traded, using margin, based on the current spot price. There are some key differences between stocks and CFDs that’s easily found and explained on G oogle. 
 

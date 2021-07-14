@@ -120,7 +120,7 @@ If GME were left to run past RSI 53 and ascend to RSI 60+, the result would be a
 
 [GME - Shares Short](https://www.ortex.com/stocks/26195/shorts)
 
-[Technical Indicators](https://www.investopedia.com/top-7-technical-analysis-tools-4773275)
+![Technical Indicators](https://www.investopedia.com/top-7-technical-analysis-tools-4773275)
 
 &#x200B;
 

@@ -8,7 +8,7 @@
 
 # [Ryan Cohen](https://hbr.org/2020/01/the-founder-of-chewy-com-on-finding-the-financing-to-achieve-scale)
 
-[https://hbr.org/2020/01/the-founder-of-chewy-com-on-finding-the-financing-to-achieve-scale](https://hbr.org/2020/01/the-founder-of-chewy-com-on-finding-the-financing-to-achieve-scale)
+![https://hbr.org/2020/01/the-founder-of-chewy-com-on-finding-the-financing-to-achieve-scale](https://hbr.org/2020/01/the-founder-of-chewy-com-on-finding-the-financing-to-achieve-scale)
 
 &#x200B;
 

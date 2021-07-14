@@ -526,7 +526,7 @@ This may explain why we didn’t see an end of quarter spike last month, because
 &#x200B;
 
 * The shorts got hidden in January by the Married Puts and other mechanisms we have identified, but that’s the last time that was going to happen on that scale
-* The Voltron’s Sword algorithm determines that someone needs to go, and so Archegos gets the call (remember, [Archegos is a biblical term meaning “a sacrifice, one who goes first,”](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)) and that causes the March runup
+* The Voltron’s Sword algorithm determines that someone needs to go, and so Archegos gets the call (remember, ![Archegos is a biblical term meaning “a sacrifice, one who goes first,”](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)) and that causes the March runup
 * While they’re waiting for the Archegos fallout to appear, the Voltron Fund fragments its holdings and prepares to use a series of Total Return Swaps to keep the price under control when it shoots up as a result (similar to how they shut down January, but through a different mechanism)
 * Right after that, in mid-March, is when RRPs start to rumble and they’ve been basically growing ever since, as the TRS’s leak more and more cash into their counterparty banks. By sacrificing Archegos and keeping the price steady, they have been able to draw out the charade much longer
 * They keep the price flat and money flowing through HFT shenanigans between members, and they keep the shorts hidden using TRS swaps and non-reporting family funds

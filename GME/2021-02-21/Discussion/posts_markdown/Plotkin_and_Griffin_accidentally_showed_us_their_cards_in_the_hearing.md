@@ -28,4 +28,4 @@ SIR, I THINK WE’VE GOT ‘EM
 
 Friday close: [3rd decimal point](https://ibb.co/Jz7M4zQ)
 
-[Plotkin’s written testimony ](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)
+![Plotkin’s written testimony ](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)

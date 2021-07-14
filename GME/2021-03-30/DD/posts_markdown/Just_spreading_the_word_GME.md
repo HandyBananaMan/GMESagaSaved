@@ -66,7 +66,7 @@ This suggests a price increase 45,546.67x bigger than the 94m volume.
 
 &#x200B;
 
-[I'm not fine. I'm never going to sleep again.](https://preview.redd.it/519d5c7le8q61.jpg?width=183&format=pjpg&auto=webp&s=fc973fe7bcd24dd88046a04b3d5b141f01c71239)
+![I'm not fine. I'm never going to sleep again.](https://preview.redd.it/519d5c7le8q61.jpg?width=183&format=pjpg&auto=webp&s=fc973fe7bcd24dd88046a04b3d5b141f01c71239)
 
 This is what I thought we were dealing with...   
 

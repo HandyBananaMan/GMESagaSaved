@@ -36,6 +36,6 @@ Oh, and there are plenty of reasons to be skeptical of Gary Gensler such as his 
 
 Finally: Here's the clip. This is required watching for EVERYONE. I've clipped the exact point that he's mentioned:
 
-[https://youtu.be/T2IaJwkqgPk?t=5990](https://youtu.be/T2IaJwkqgPk?t=5990)
+![https://youtu.be/T2IaJwkqgPk?t=5990](https://youtu.be/T2IaJwkqgPk?t=5990)
 
 I don't give a single shit about how you feel about Gensler, but please stop FUDing yourselves. You're setting yourselves up for disaster.

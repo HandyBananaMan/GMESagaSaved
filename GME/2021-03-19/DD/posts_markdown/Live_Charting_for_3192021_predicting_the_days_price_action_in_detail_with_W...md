@@ -401,7 +401,7 @@ It seems our fellow wrinkle brain [u/Quiet-Finish7848](https://www.reddit.com/us
 
 https://preview.redd.it/hn4tc15adzn61.png?width=1992&format=png&auto=webp&s=462441f9cbeb8004fe5952c87a13591193d6eacf
 
-You can check on [OptionSonar.com](https://OptionSonar.com) for this chart (they require you to pay though for up to date data).
+You can check on ![OptionSonar.com](https://OptionSonar.com) for this chart (they require you to pay though for up to date data).
 
 # Premarket Analysis
 

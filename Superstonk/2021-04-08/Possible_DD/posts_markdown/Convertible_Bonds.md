@@ -82,7 +82,7 @@ https://preview.redd.it/7s0bqmrgf0s61.png?width=1158&format=png&auto=webp&s=ba5c
 
 &#x200B;
 
-And another: [https://cbonds.com/bonds/757071/](https://cbonds.com/bonds/757071/) \- **GameStop International Market**
+And another: ![https://cbonds.com/bonds/757071/](https://cbonds.com/bonds/757071/) \- **GameStop International Market**
 
 **Volume**
 

@@ -146,6 +146,6 @@ Final edit for this part:
 
 Part 2 is now here:
 
-[https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult\_working\_theory\_this\_is\_a\_call\_for/](https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult_working_theory_this_is_a_call_for/)
+![https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult\_working\_theory\_this\_is\_a\_call\_for/](https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult_working_theory_this_is_a_call_for/)
 
 &#x200B;

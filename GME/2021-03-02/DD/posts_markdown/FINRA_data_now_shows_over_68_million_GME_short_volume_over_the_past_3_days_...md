@@ -165,4 +165,4 @@ THEY ARE DOING EVERYTHING THEY CAN TO STOP THIS ROCKET JUST LIKE LAST TIME, BUT 
 
 &#x200B;
 
- [PS for those wondering what's happening at $130 today. My first meme video!](https://www.reddit.com/r/GME/comments/lwam6g/can_we_break_130_meanwhile_at_your_local_hedge/?utm_source=share&utm_medium=web2x&context=3)
+ ![PS for those wondering what's happening at $130 today. My first meme video!](https://www.reddit.com/r/GME/comments/lwam6g/can_we_break_130_meanwhile_at_your_local_hedge/?utm_source=share&utm_medium=web2x&context=3)

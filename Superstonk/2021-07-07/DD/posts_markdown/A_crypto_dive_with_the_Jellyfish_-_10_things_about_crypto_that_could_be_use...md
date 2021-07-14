@@ -122,4 +122,4 @@ Additional posts you may enjoy:
 
 [https://www.reddit.com/r/Superstonk/comments/o9mk4q/does\_anyone\_else\_think\_comic\_books\_would\_make\_a/](https://www.reddit.com/r/Superstonk/comments/o9mk4q/does_anyone_else_think_comic_books_would_make_a/)
 
-[https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish\_putting\_on\_his\_tinfoil\_hat\_for\_a/](https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish_putting_on_his_tinfoil_hat_for_a/)
+![https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish\_putting\_on\_his\_tinfoil\_hat\_for\_a/](https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish_putting_on_his_tinfoil_hat_for_a/)

@@ -103,4 +103,4 @@ That is it for now, just the beginning of a new DD series. Stay tuned, might loo
 2. [Steve Cohen Insider trading and media control](https://www.reddit.com/r/Superstonk/comments/mylo06/leaked_wallstreet_lawyers_emails_from_2012/) (First half of DD, info found at the same time)
 3. [How Melvin connects Ken griffin and Steve Cohen through insider trading](https://www.reddit.com/r/Superstonk/comments/mzbmbh/multibillionaire_hedge_fund_manager_steve_cohens/)
 4. [Investigative Journalist Matthew Goldstein and why he could be helpful](https://www.reddit.com/r/Superstonk/comments/mzk18b/why_investigative_journalist_matthew_goldstein/)
-5. ["the biggest insider-trading scheme in history"](https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/)
+5. !["the biggest insider-trading scheme in history"](https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/)

@@ -20,7 +20,7 @@ The number of failures to deliver decreased in average daily volume as public at
 
 The high and prolonged volume of FTDs resulting from these shorting practices describes the persistent FTD-producing shorts as repetitive, extensive, and orchestrated intentionally to reduce the stock price, exactly as described in Rule 10b-5.
 
-A thesis on regulating ETF shorting due to abusive practices: [https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf) \- discovery credit: u/CoastalHotDog835
+A thesis on regulating ETF shorting due to abusive practices: ![https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf) \- discovery credit: u/CoastalHotDog835
 
 &#x200B;
 

@@ -10,7 +10,7 @@ Look at these two articles. One on NYT and another on Yahoo.
 
 [And here's the Yahoo article](https://finance.yahoo.com/news/nouriel-roubini-on-economic-outlook-and-inflation-132954798.html), quoting Professor Roubini of the New York University. If you don't know him, he is a prophet of economic forecasting. He predicted the Housing Bubble of the 2008. Do you know what his nickname used to be? Cassandra. Seems familiar, huh? (This is from Wikipedia. The quote was something like "He was a Cassandra, now he is a Sage) FYI, he is widely known as his more gloomy nickname, Dr. Doom. I kinda wish Stanley Kubrick was around to make another movie, this time titled Dr. Doom. 
 
-[Take a look at his other predictions here.](https://en.wikipedia.org/wiki/Nouriel_Roubini#Economic_forecast)
+![Take a look at his other predictions here.](https://en.wikipedia.org/wiki/Nouriel_Roubini#Economic_forecast)
 
 &#x200B;
 

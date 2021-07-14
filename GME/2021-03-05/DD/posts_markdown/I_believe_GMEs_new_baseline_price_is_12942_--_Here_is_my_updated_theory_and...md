@@ -50,7 +50,7 @@ This is NOT financial advice; nor should it be construed as such. I am a broke l
 
 If you have not done so already, please skim the (updated) OP below, and pay homage to both [u/dan\_bren](https://new.reddit.com/user/dan_bren) and [u/tapakip](https://new.reddit.com/user/tapakip) for their service in bringing this information to my attention. Once you’ve done so, return here. If you’re up to date on my previous post, AND u/dan_bren’s then continue to the math lesson and extensive speculation below.
 
-[(2) UPDATE (3/5): $131 Million of DEEP ITM GME CALLS have been purchased since 3/1(Monday) : GME (reddit.com)](https://new.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/)
+![(2) UPDATE (3/5): $131 Million of DEEP ITM GME CALLS have been purchased since 3/1(Monday) : GME (reddit.com)](https://new.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/)
 
 &#x200B;
 

@@ -8,4 +8,4 @@ I read the original u/Criand god tier DD on mobile and was hoping to find a PDF 
 
 [https://pdfhost.io/v/RoM\~0OF5i\_The\_Bigger\_Short\_by\_uCriand.pdf](https://pdfhost.io/v/RoM~0OF5i_The_Bigger_Short_by_uCriand.pdf)
 
-Inspired by [u/atobitt](https://www.reddit.com/user/atobitt/) [u/Softlykile2](https://www.reddit.com/u/Softlykile2/) & [u/jupitair](https://www.reddit.com/u/jupitair/)
+Inspired by [u/atobitt](https://www.reddit.com/user/atobitt/) [u/Softlykile2](https://www.reddit.com/u/Softlykile2/) & ![u/jupitair](https://www.reddit.com/u/jupitair/)

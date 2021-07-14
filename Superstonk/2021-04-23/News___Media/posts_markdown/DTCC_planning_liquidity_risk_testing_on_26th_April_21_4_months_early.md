@@ -12,4 +12,4 @@ Capped Contingency Liquidity Facility (“CCLF®”) is an integral part of the 
 
 **AUG20 - notice to all members** 
 
-[https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf](https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf)
+![https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf](https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf)

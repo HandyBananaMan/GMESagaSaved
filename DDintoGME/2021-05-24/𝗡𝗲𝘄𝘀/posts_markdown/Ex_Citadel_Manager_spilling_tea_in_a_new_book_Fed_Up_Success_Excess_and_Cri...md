@@ -28,6 +28,6 @@ Colin Lancaster, the author of Fed Up!, is a 25-year Wall Street professional wh
 
 Lancaster has often been quoted in The Wall Street Journal, The New York Times, and the Financial Times. A graduate of Princeton University and Marquette University Law School, he and his wife divide their time between London and Miami.
 
-Source: [https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/](https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/)
+Source: ![https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/](https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/)
 
 \--- end of article ---

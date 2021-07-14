@@ -106,6 +106,6 @@ I saw the Great Halvening happen with my own eyes, so I've just been multiplying
 
 [Yahoo Finance](https://finance.yahoo.com/quote/GME/key-statistics?p=GME)
 
-[Stonk Tracker](https://gme.crazyawesomecompany.com)
+![Stonk Tracker](https://gme.crazyawesomecompany.com)
 
 **Edit:** As requested 🚀🚀🚀

@@ -72,4 +72,4 @@ Securities Exchange Act Release No. 91790 (May 7, 2021) (SR-NYSE-2021- 15, SR-NY
 
 Securities Exchange Act Release No. 91388 (March 23, 2021), 86 FR 16433 (March 29, 2021) (SR-NYSEArca-2021-15). 
 
-[https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf](https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf)
+![https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf](https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf)

@@ -168,4 +168,4 @@ Ape don't fight ape, apes help other apes
 
 this helps us weed out the shills really fast, if everyone is helpful, the ones who aren't stand out.
 
-I would be remiss if I didn't share [this](https://twitter.com/Winter/status/1395054787490500608?s=20)
+I would be remiss if I didn't share ![this](https://twitter.com/Winter/status/1395054787490500608?s=20)

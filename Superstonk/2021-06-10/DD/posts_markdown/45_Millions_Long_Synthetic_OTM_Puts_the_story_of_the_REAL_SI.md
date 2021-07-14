@@ -71,7 +71,7 @@ Below is a section of the SEC memo (from page 8) that gets to the heart of it:
 
 \*\*
 
-In short (no pun intended) these tricks **“help hedge funds maintain short positions** that, legally speaking, they weren’t supposed to have because the shares were never properly located”. Which triggers alarm bells when we consider the extraordinarily **high amount of FTIDs/Failed to Deliver** Shares ([Where are the Shares?](https://wherearetheshares.com/)) and **Michael Burry’s** (now deleted tweet viewable here [Cassandra](https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en)) about how when he called back shares he lent out, brokers took weeks to actually find them with the implication they could not be located.
+In short (no pun intended) these tricks **“help hedge funds maintain short positions** that, legally speaking, they weren’t supposed to have because the shares were never properly located”. Which triggers alarm bells when we consider the extraordinarily **high amount of FTIDs/Failed to Deliver** Shares ([Where are the Shares?](https://wherearetheshares.com/)) and **Michael Burry’s** (now deleted tweet viewable here ![Cassandra](https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en)) about how when he called back shares he lent out, brokers took weeks to actually find them with the implication they could not be located.
 
 &#x200B;
 

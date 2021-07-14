@@ -16,7 +16,7 @@ $400+ million in cash, no debt, entire new digital friendly leadership transform
 
 
 Domo Capital outlines what they'll be allowed to do now that the debt is gone;  
-[https://twitter.com/DOMOCAPITAL/status/1382064324248735744](https://twitter.com/DOMOCAPITAL/status/1382064324248735744)  
+![https://twitter.com/DOMOCAPITAL/status/1382064324248735744](https://twitter.com/DOMOCAPITAL/status/1382064324248735744)  
 
 
 Bullish as fuck....I mean, uh, yeah I'd short that terrible company /r/sarcasm

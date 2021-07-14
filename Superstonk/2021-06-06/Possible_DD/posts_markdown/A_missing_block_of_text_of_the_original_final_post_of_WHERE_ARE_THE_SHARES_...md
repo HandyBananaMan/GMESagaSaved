@@ -22,7 +22,7 @@ Because I was curious I just used a text difference tool to check if the two fin
 
 You should skim through that IWM  prospectus. Especially the 'Creation and Redemption' section. Again,  creation/redemption isn't a "one-for-one", *all or nothing* process - AP deposits some pile of \[assets and cash\], and ETF issuer provides \[50,000 ETF shares OR 50,000 underlying shares.\]
 
-And,  obviously, no physical shares are being exchanged - it's all data.  Specifically, the ETF issuer treats the deposits as "redemption  credits", basically looking at the 'asset/cash' pile and saying - *can't tell if that's ETF or underlying, so we'll just say it's both*. So if the AP prefers the underlying (to meet demand there), ETF issuer returns so called [**"redemption credits"**](https://www.sec.gov/rules/sro/nscc/2017/34-82193.pdf) for the asset/cash deposit, **and these trade just like real shares.**
+And,  obviously, no physical shares are being exchanged - it's all data.  Specifically, the ETF issuer treats the deposits as "redemption  credits", basically looking at the 'asset/cash' pile and saying - *can't tell if that's ETF or underlying, so we'll just say it's both*. So if the AP prefers the underlying (to meet demand there), ETF issuer returns so called ![**"redemption credits"**](https://www.sec.gov/rules/sro/nscc/2017/34-82193.pdf) for the asset/cash deposit, **and these trade just like real shares.**
 
 Why  doesn't the ETF just use the shares it owns? Well maybe because  redemption credits are written against taxes, but probably because the  fund already lent all of its real shares. A couple times. Each. That's  what they do.
 

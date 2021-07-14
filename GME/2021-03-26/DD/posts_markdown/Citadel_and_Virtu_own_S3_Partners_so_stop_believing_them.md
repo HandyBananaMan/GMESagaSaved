@@ -102,4 +102,4 @@ ADV Page.15 KCG
 
 [https://ir.virtu.com/press-releases/press-release-details/2017/Virtu-Financial-Inc-Completes-Acquisition-of-KCG-Holdings-Inc/default.aspx](https://ir.virtu.com/press-releases/press-release-details/2017/Virtu-Financial-Inc-Completes-Acquisition-of-KCG-Holdings-Inc/default.aspx)
 
-[https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html](https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html)
+![https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html](https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html)

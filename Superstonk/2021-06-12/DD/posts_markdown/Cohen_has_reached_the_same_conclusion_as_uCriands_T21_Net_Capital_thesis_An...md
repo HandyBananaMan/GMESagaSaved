@@ -144,7 +144,7 @@ EDIT: Guys I fucking missed one.
 
 # On March 25, Cohen tweets our smoky teddy,
 
-[https://twitter.com/ryancohen/status/1375159657166209031](https://twitter.com/ryancohen/status/1375159657166209031)
+![https://twitter.com/ryancohen/status/1375159657166209031](https://twitter.com/ryancohen/status/1375159657166209031)
 
 **Lining up with the T+21** date on March 25th.
 

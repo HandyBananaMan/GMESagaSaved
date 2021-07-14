@@ -26,7 +26,7 @@ Well, direct your confirmation-fiending chimp eyeballs to the 1W chart below.
 
 &#x200B;
 
-[GME 1W Chart](https://preview.redd.it/icwkg3xa33a71.jpg?width=8000&format=pjpg&auto=webp&s=6788ed066f3e6439c804dbf0e92719266cbe4b84)
+![GME 1W Chart](https://preview.redd.it/icwkg3xa33a71.jpg?width=8000&format=pjpg&auto=webp&s=6788ed066f3e6439c804dbf0e92719266cbe4b84)
 
 As you can see the 1W chart left the bottom Bollinger band on earth long ago, not to return until achieving contact with extraterrestrials. As opposed to the 1D bouncing off the bottom band, the 1W bounces off the middle Bollinger band before historically blasting into 4 weeks of beautiful atmosphere-testing upside until meeting the $350 *"resistance"* shown in red.
 

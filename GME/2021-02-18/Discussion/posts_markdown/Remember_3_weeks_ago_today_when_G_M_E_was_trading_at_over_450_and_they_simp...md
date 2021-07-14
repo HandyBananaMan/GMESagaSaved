@@ -11,4 +11,4 @@ WHERE THE FUCK ARE THE JOURNALISTS REPORTING ON THIS?
 If these motherfuckers don't fix this, retail alongside the rest of the world that invests in the American stock market should completely ditch the market seeing as it's FULLY CORRUPT and move intoC R Y P T O, where the game isn't rigged against us.  
 
 
-EDIT: Also posted this on WSB and post REMOVED when it made it to the top after 45 min - WHY? I was led to believe u/zjz and crew were back in control. [https://www.reddit.com/r/wallstreetbets/comments/lmo8e3/remember\_3\_weeks\_ago\_today\_when\_g\_m\_e\_was\_trading/](https://www.reddit.com/r/wallstreetbets/comments/lmo8e3/remember_3_weeks_ago_today_when_g_m_e_was_trading/)
+EDIT: Also posted this on WSB and post REMOVED when it made it to the top after 45 min - WHY? I was led to believe u/zjz and crew were back in control. ![https://www.reddit.com/r/wallstreetbets/comments/lmo8e3/remember\_3\_weeks\_ago\_today\_when\_g\_m\_e\_was\_trading/](https://www.reddit.com/r/wallstreetbets/comments/lmo8e3/remember_3_weeks_ago_today_when_g_m_e_was_trading/)

@@ -132,7 +132,7 @@ b. DTCC now has to decide whether that this Systems Disruption is reasonably lik
 
 # Conclusion
 
-**There have been several posts on this filing, including** u/Criand **'s comment in this post:** [**https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc\_update\_submission\_of\_rule\_filing/h3301r4/?context=3**](https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc_update_submission_of_rule_filing/h3301r4/?context=3) **that this new amended clause is nothing to worry about.**
+**There have been several posts on this filing, including** u/Criand **'s comment in this post:** ![**https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc\_update\_submission\_of\_rule\_filing/h3301r4/?context=3**](https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc_update_submission_of_rule_filing/h3301r4/?context=3) **that this new amended clause is nothing to worry about.**
 
 I agree that if DTCC sticks to its stated purpose of the Systems Disconnect Rule, there should be nothing to worry about. However, if DTCC wishes to fulfil the stated purposes of the System Disconnect Rule, then it does not need to have the "gray areas" or such unfettered broad powers. Of course, there may also be a counter interpretation which is that DTCC wants to be able to step in to ensure that Shitadel does not take any further illegal action, and having these "gray areas" and broad powers benefits the apes if DTCC's interests are aligned with the long interests.
 

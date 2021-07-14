@@ -90,7 +90,7 @@ And if you’ve ever wondered how Phineas and Ferb pay for their projects… I t
 
 &#x200B;
 
-[Aha - follow the crotch rocket](https://preview.redd.it/3pxbpp7koeq61.png?width=1299&format=png&auto=webp&s=d2f3a62a73eac63b2faee7cd7698e75dda3c8941)
+![Aha - follow the crotch rocket](https://preview.redd.it/3pxbpp7koeq61.png?width=1299&format=png&auto=webp&s=d2f3a62a73eac63b2faee7cd7698e75dda3c8941)
 
 Please Be Good To Each Other Out There.
 

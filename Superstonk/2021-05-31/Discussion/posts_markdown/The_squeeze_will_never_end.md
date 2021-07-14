@@ -44,4 +44,4 @@ Nordnet data suggests an average of 14.5 shares per investor on their platform.
 
 For a total estimate of 1.29 billion shares
 
-Also for the nordnet [https://www.reddit.com/r/Superstonk/comments/nnngl6/update\_dd\_i\_did\_the\_math\_latest\_nordnet\_and/](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)
+Also for the nordnet ![https://www.reddit.com/r/Superstonk/comments/nnngl6/update\_dd\_i\_did\_the\_math\_latest\_nordnet\_and/](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)

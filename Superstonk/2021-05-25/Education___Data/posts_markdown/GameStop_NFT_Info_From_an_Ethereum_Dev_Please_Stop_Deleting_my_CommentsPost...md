@@ -4,7 +4,7 @@
 
 So automod (the bane of my existence) decided to delete my comment that did some digging into the Gamestop ERC 721 Smart Contract. I'm reposting the info here for anyone curious.
 
-*All ethereum addresses posted here can be looked up on* [*etherscan.io*](https://etherscan.io) *(as I'm too afraid automod will delete my post if I add in links).*
+*All ethereum addresses posted here can be looked up on* ![*etherscan.io*](https://etherscan.io) *(as I'm too afraid automod will delete my post if I add in links).*
 
 # Smart Contract
 

@@ -32,7 +32,7 @@ The Firm's first complaint was entitled *Cheng v. Ally Financial Inc.,* case num
 
 Link to above article: [https://www.prnewswire.com/news-releases/joseph-saveri-law-firm-appointed-co-lead-counsel-in-january-2021-short-squeeze-trading-litigation-301295017.html](https://www.prnewswire.com/news-releases/joseph-saveri-law-firm-appointed-co-lead-counsel-in-january-2021-short-squeeze-trading-litigation-301295017.html)
 
-Link to the *Cheng v. Ally Financial Inc.,* case number 21-cv-00781: [https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf](https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf)
+Link to the *Cheng v. Ally Financial Inc.,* case number 21-cv-00781: ![https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf](https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf)
 
 &#x200B;
 

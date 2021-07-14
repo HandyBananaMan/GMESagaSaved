@@ -115,4 +115,4 @@ Disclaimer
 
 \**This is not Financial advice. The ideas and opinions expressed here are for educational and entertainment purposes only.*
 
-\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* [*Learn more*](https://suicidepreventionlifeline.org/)
+\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* ![*Learn more*](https://suicidepreventionlifeline.org/)

@@ -18,7 +18,7 @@ The whistleblower's information prompted an internal investigation by the compan
 
 &#x200B;
 
-EDIT: Credit to [u/SurpriseNinja](https://www.reddit.com/u/SurpriseNinja/) for suggesting this edit (and u/getoutside78 for pointing at it):
+EDIT: Credit to ![u/SurpriseNinja](https://www.reddit.com/u/SurpriseNinja/) for suggesting this edit (and u/getoutside78 for pointing at it):
 
 *"The SEC has now awarded approximately $760 million to 145 individuals since issuing its first award in 2012"*
 

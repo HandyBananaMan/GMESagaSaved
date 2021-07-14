@@ -198,4 +198,4 @@ Also for those interested I will be appearing on Momoney's stream somewhere toda
 
 Backups: [https://twitter.com/rensole](https://twitter.com/rensole)
 
-[https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)
+![https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)

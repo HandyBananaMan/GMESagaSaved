@@ -203,7 +203,7 @@ We don't care, just be nice and lets make this community as Excellent as we can.
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 &#x200B;
 

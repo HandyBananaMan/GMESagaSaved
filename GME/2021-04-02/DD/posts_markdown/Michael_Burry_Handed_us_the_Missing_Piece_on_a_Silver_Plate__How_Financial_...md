@@ -439,4 +439,4 @@ Speculate away apes.
 
 **Resource Edit:** If there is one thing you do after reading this, watch the following video.
 
-[https://www.youtube.com/watch?v=PHe0bXAIuk0](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+![https://www.youtube.com/watch?v=PHe0bXAIuk0](https://www.youtube.com/watch?v=PHe0bXAIuk0)

@@ -62,7 +62,7 @@ But what about delinquency rates? This can be a source to the supply...
 
 [Forbearance details](https://preview.redd.it/f43d39gcv4771.png?width=1169&format=png&auto=webp&s=81c185d9b1a2d5f82921c20d3fb569e8aef5381e)
 
-While it is great to see people come out of forbearance, if I am reading the numbers correctly, more than half of folks coming out are still going to have amounts that still need to be paid back on top of the normal monthly payment. Budgets are already stretched tight, [wage growth is decreasing](https://www.atlantafed.org/chcs/wage-growth-tracker), and inflation is making everything else [more expensive](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/h2lnk5e/?context=3).
+While it is great to see people come out of forbearance, if I am reading the numbers correctly, more than half of folks coming out are still going to have amounts that still need to be paid back on top of the normal monthly payment. Budgets are already stretched tight, [wage growth is decreasing](https://www.atlantafed.org/chcs/wage-growth-tracker), and inflation is making everything else ![more expensive](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/h2lnk5e/?context=3).
 
 If these mortgages begin to fail, you can bet that it will have an impact on the Mortgage-Backed Security (MBS) it was packaged into. Enough of that begins to happen, and the balance sheets that were already trying to fight inflation are now caught in a two-front war with inflation and decreasing MBS values. Throw in the fact the Fed is kicking around the idea of tapering MBS purchases (who this dog shit would get offloaded to) and the problem begins to compound!
 

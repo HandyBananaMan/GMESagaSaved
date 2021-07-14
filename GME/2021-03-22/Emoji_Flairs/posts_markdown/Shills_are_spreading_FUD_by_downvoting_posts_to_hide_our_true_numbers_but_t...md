@@ -7,4 +7,4 @@
 This is not financial advice I’m just a smooth brained ape with diamond hands holding strong!
 A huge thank you to all the mods and to everyone sharing DD, and to the community as a whole thank you for making this into the welcoming and supportive place that it has become! 🚀💫🌝
 
-[View Poll](https://www.reddit.com/poll/mafz6r)
+![View Poll](https://www.reddit.com/poll/mafz6r)

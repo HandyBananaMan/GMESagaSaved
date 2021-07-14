@@ -106,7 +106,7 @@ Debt made the company, with $11.2B in sales, less nimble and able to navigate th
 
 ^((image of FAO Shwarz))
 
-While Bain Capital controlled Toys R Us, TRU acquired FAO Schwarz in 2006. TRU also bought Amazon’s main competition in the toys ecommerce sector etoys.com and [toys.com](https://toys.com/), along with a few other websites babyuniverse.com and the resource site ePregnancy.com in 2009. [https://en.wikipedia.org/wiki/Toys\_%22R%22\_Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
+While Bain Capital controlled Toys R Us, TRU acquired FAO Schwarz in 2006. TRU also bought Amazon’s main competition in the toys ecommerce sector etoys.com and [toys.com](https://toys.com/), along with a few other websites babyuniverse.com and the resource site ePregnancy.com in 2009. ![https://en.wikipedia.org/wiki/Toys\_%22R%22\_Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
 
 When TRU was fully busted out and tapped out for cash and usefulness it was liquidated and its parts sold off. It was the end of the massive toy retailer in the US and UK, and the demise of all major toy specific retailers both in brick and mortar and online.
 

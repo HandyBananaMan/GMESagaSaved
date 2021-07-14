@@ -290,7 +290,7 @@ GME Shares/Trade OTC vs. Entire OTC Marketplace (including GME) - November - Mar
 
 Lastly, using an estimated GME Float of 26.7 million (January - March before share offerings), and comparing it to a few other stocks (see [OTC Conspiracy Part 2](https://www.reddit.com/r/Superstonk/comments/n5q76p/the_otc_conspiracy_part_2_shining_some_light_into/) for more info and examples):
 
-[Over 4000&#37; GME Float traded OTC in Q1](https://preview.redd.it/ifaffppgjh971.png?width=1198&format=png&auto=webp&s=2dafcba6ae97dffa86c4ad806dac09bcafcdcf6a)
+![Over 4000&#37; GME Float traded OTC in Q1](https://preview.redd.it/ifaffppgjh971.png?width=1198&format=png&auto=webp&s=2dafcba6ae97dffa86c4ad806dac09bcafcdcf6a)
 
 Part 2 coming soon!
 

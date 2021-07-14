@@ -46,7 +46,7 @@ If apes combine this with the move to the Russle1000, add in some T+21 and T+35 
 
 &#x200B;
 
-[They don't know which was to go](https://preview.redd.it/pd5un301gn671.png?width=275&format=png&auto=webp&s=e6c11500ac474a50ba1f633581aa9d4332617ab7)
+![They don't know which was to go](https://preview.redd.it/pd5un301gn671.png?width=275&format=png&auto=webp&s=e6c11500ac474a50ba1f633581aa9d4332617ab7)
 
 &#x200B;
 

@@ -78,6 +78,6 @@ More zoomed in scatter plots.
 
 In the next image, I wasn't intending to zoom in on movie stock this much but I'm glad I did it accidentally. Look how the mirror trade bands shift perfectly in sync with one another, particularly around the .020% range. At first I thought I was an idiot and just mirrored the data sets but if you look at the other scatter points, you can see that they don't all follow a mirror trade pattern. But those positive and negative bands... holy cow are they the spitting image of each other.
 
-[Movie stock super zoom](https://imgur.com/Plvoeo9.jpg)
+![Movie stock super zoom](https://imgur.com/Plvoeo9.jpg)
 
 &#x200B;

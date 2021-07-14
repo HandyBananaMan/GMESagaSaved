@@ -11,7 +11,7 @@ In Part 1 and Part 2 of the three-part DD, /u/leavemeanon uses the phrase "tip o
 
 1) The commonly used phrase is "tip of the iceberg": On a quick search, I cannot find the "glacier" variant to be an accepted alteration ANYWHERE. I mean, it's close enough to iceberg that we can understand what he's trying to say, but isn't it strange that he's effectively created a new phrase in a post that otherwise doesn't appear to contain unusual/cryptic styles of writing (in fact, the OP has gone out of his way to explain everything in a very clear way). 
 
-2) He uses the phrase TWICE -- the second time in **bold**: please refer to the screenshots of [DD number 1](http://prntscr.com/17mqf58) and [DD number 2](http://prntscr.com/17mqnmt). He doubles-down on his unusual phrase, almost purposely bringing attention to it in Part 2.
+2) He uses the phrase TWICE -- the second time in **bold**: please refer to the screenshots of [DD number 1](http://prntscr.com/17mqf58) and ![DD number 2](http://prntscr.com/17mqnmt). He doubles-down on his unusual phrase, almost purposely bringing attention to it in Part 2.
 
 3) The "Glacier" is a capital letter: OP would have made a conscious decision to not only use the Glacier variant of the phrase (that may not even exist), but also spell the out-of-place phrase with a capital letter. To me, this is the clearest evidence that /u/leavemeanon is making some kind of reference to another event that popped up on this sub a few months ago (and apes who have been here a while already know exactly what I'm referring to at this point).
 

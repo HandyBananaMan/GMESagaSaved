@@ -84,4 +84,4 @@ We are on the right course, and DTCC seems to be at least active, working to pus
 
 &#x200B;
 
-[Last time the cap was reset](https://preview.redd.it/g0fj3ensp8q61.png?width=704&format=png&auto=webp&s=eff81d75d156b6eeddae6f49e7c7b70e7ed1c98f)
+![Last time the cap was reset](https://preview.redd.it/g0fj3ensp8q61.png?width=704&format=png&auto=webp&s=eff81d75d156b6eeddae6f49e7c7b70e7ed1c98f)

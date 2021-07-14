@@ -90,7 +90,7 @@ My OWN PERSONAL THESIS is that we will see the markets pumped to valhalla 1 last
 
 Lastly, the VIX, the fear/volatility indicator:
 
-[VIX](https://preview.redd.it/58x900k3pi671.png?width=2802&format=png&auto=webp&s=5ee14be1a71b82ca0ab2cde627b5e47467dad7f5)
+![VIX](https://preview.redd.it/58x900k3pi671.png?width=2802&format=png&auto=webp&s=5ee14be1a71b82ca0ab2cde627b5e47467dad7f5)
 
 Finished up 16% on friday? spicy. In one of my posts I mentioned how we can use the VIX to gauge when GME will potentially do something erratic. just compare the spikes of the VIX and GME, you'll see there's at least some correlation there. I mean shit, end of january? Clear as kenny's "for sale" sign on his marked down penthouse that he suddenly is in a rush to sell. wonder why? (I think it sold actually lol, even funnier).
 

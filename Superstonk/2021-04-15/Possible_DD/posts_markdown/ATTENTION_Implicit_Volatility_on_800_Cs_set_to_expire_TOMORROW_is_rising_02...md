@@ -54,7 +54,7 @@ Top Critique:
 
 *Nothing to see here."*
 
-u/[NewHome\_PaleRedDot](https://www.reddit.com/user/NewHome_PaleRedDot/)
+u/![NewHome\_PaleRedDot](https://www.reddit.com/user/NewHome_PaleRedDot/)
 
 See WardenElite's comment below.
 

@@ -324,6 +324,6 @@ Rep. Anthony Gonzalez (OH-16)
 
 Rep. Van Taylor (TX-3)
 
-[https://youtu.be/imRzHXRq80I?t=16198](https://youtu.be/imRzHXRq80I?t=16198)
+![https://youtu.be/imRzHXRq80I?t=16198](https://youtu.be/imRzHXRq80I?t=16198)
 
 *Wall Street Journal article, T1 & T2, losing benefit of netting; execution of large trade, broken into chunks, lose ability to net those transactions in T0, every one will need to be looked at.*

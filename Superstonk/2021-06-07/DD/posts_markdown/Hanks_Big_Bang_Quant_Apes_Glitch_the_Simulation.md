@@ -192,7 +192,7 @@ u/sudoshu (Special thanks to him as he was the organizer of the group. If you ar
 
 **Mods:** many of these users do not have the karma requirements to comment on posts. If you could somehow waive that requirement for the listed users, I think it would really benefit the sub because the amount of knowledge that these apes possess is amazing. They put so much time into this and gathered so much data (I literally couldn't even show close to all of it) and I believe that they will be integral to the continued success of this sub.
 
-Finally, the quant apes have created a website: [https://www.superstonkquant.org/](https://www.superstonkquant.org/)
+Finally, the quant apes have created a website: ![https://www.superstonkquant.org/](https://www.superstonkquant.org/)
 
 They are still currently working on the mechanics of it but I encourage you to monitor it in the future because I have witnessed first hand what they are capable of and it is nothing short of amazing.
 

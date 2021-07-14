@@ -24,4 +24,4 @@ c: u/pinkcatsonacid
 
 &#x200B;
 
-[WRECKED by wallstreetbets. important, yes? diamond hands.](https://preview.redd.it/uocgv8tj3sx61.png?width=1103&format=png&auto=webp&s=b58810d9f08f020f99bcd9b0e78c3873edac9fbb)
+![WRECKED by wallstreetbets. important, yes? diamond hands.](https://preview.redd.it/uocgv8tj3sx61.png?width=1103&format=png&auto=webp&s=b58810d9f08f020f99bcd9b0e78c3873edac9fbb)

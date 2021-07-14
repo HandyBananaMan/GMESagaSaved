@@ -24,7 +24,7 @@ LINKS:
 
 [ARBITRAGE AS A TACTIC TO MANIPULATE PRICE](https://thehedgefundjournal.com/the-options-landscape-for-hedge-funds/)
 
-[WHY HEDGIES THOUGHT BUYING PUTS AT THIS TIME A YEAR AGO WAS A GOOD BET](https://i0.wp.com/slopeofhope.com/wp-content/uploads/2021/01/origpurch.png?ssl=1)
+![WHY HEDGIES THOUGHT BUYING PUTS AT THIS TIME A YEAR AGO WAS A GOOD BET](https://i0.wp.com/slopeofhope.com/wp-content/uploads/2021/01/origpurch.png?ssl=1)
 
 
 TL:DR Hedge funds have been fighting because they had a leg to stand on with their PUT options. They expired OTM last Friday and now they don’t have anything left in the stock but their shorts. They cannot use Arbitrage to manipulate the price anymore because they not longer have a position in GME. DFV knows this and went stride for stride with them and is on the winning side!!!

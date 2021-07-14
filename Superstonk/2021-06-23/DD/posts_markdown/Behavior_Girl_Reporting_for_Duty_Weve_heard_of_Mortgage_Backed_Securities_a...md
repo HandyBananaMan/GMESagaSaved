@@ -138,7 +138,7 @@ Guys….there is some weird ass shit going on with this fancy shit called Aviati
 
 &#x200B;
 
-[I'M DYING. I'M DYYYYYYING](https://preview.redd.it/opwjuh3p45771.png?width=474&format=png&auto=webp&s=302e295ae876e560098c77744218660f6553bad0)
+![I'M DYING. I'M DYYYYYYING](https://preview.redd.it/opwjuh3p45771.png?width=474&format=png&auto=webp&s=302e295ae876e560098c77744218660f6553bad0)
 
 &#x200B;
 

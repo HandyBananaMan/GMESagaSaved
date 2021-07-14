@@ -6,7 +6,7 @@ EuroApe here looking at Euro stuff. So it looks like JP Morgan have been using t
 
 BNY Mellon - the same crazy cats that I previously discovered had Citadel Europe by the balls and all of their assets as collateral.
 
-Here is a link to where their registered charges are listed: [JP Morgan Securities PlC - Registered Charges](https://find-and-update.company-information.service.gov.uk/company/02711006/charges)
+Here is a link to where their registered charges are listed: ![JP Morgan Securities PlC - Registered Charges](https://find-and-update.company-information.service.gov.uk/company/02711006/charges)
 
 Here is a capture of their activity this year basically every month since Feb (didnt do all of them because there is a lot check the other link for all): http://imgur.com/gallery/jvYbM88
 

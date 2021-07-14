@@ -53,4 +53,4 @@ On top of all this, we're seeing hedge funds getting margin called and others cl
 
 References:[https://otctransparency.finra.org/otctransparency/AtsIssueData](https://otctransparency.finra.org/otctransparency/AtsIssueData)
 
-[https://finance.yahoo.com/](https://finance.yahoo.com/)
+![https://finance.yahoo.com/](https://finance.yahoo.com/)

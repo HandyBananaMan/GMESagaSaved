@@ -90,7 +90,7 @@ BTW: guess who has been super accumulating all the shares of Tesla that Citadel 
 
 I am just gonna leave this here.
 
-[https://twitter.com/TheRoaringKitty/status/1374149156873367553](https://twitter.com/TheRoaringKitty/status/1374149156873367553)
+![https://twitter.com/TheRoaringKitty/status/1374149156873367553](https://twitter.com/TheRoaringKitty/status/1374149156873367553)
 
 Edit - Adding this from /u/smaxbeachman 
 

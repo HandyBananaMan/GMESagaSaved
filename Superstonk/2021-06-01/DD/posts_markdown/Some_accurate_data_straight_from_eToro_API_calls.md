@@ -76,7 +76,7 @@ But there's more, we also know that RC [owns around 13% of GS shares](https://ww
 
 # 6.22811 shares per holder on average
 
-That is complete nonsense. We know for a fact [from this post](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/) that, on average, there are 15.82 shares / ape. From some other Telegram investor groups that have done counts, they've reported back an average of 19 shares per person.
+That is complete nonsense. We know for a fact ![from this post](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/) that, on average, there are 15.82 shares / ape. From some other Telegram investor groups that have done counts, they've reported back an average of 19 shares per person.
 
 This thing is nakeder than a sphynx cat.
 

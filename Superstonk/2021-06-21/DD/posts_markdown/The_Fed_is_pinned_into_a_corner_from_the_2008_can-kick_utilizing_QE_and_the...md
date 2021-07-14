@@ -258,4 +258,4 @@ But some users might think otherwise and not believe in GME or the DD. Hello use
 
 Even if there's a **slight** chance of a GME squeeze in **your** eyes, and all of these signs are pointing to a market crash...
 
-[Why not give it a shot](https://www.youtube.com/watch?v=l4nSHsbFe-o)?
+![Why not give it a shot](https://www.youtube.com/watch?v=l4nSHsbFe-o)?

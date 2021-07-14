@@ -34,7 +34,7 @@ For MMFs, you can find the data by reading N-MFP2 forms (MMF portfolio holdings)
 
 # Interesting Links on RRP
 
-You can see a historical breakdown of RRP usage by MMFs here: [https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/) (use the drill-down feature to see more granularity)
+You can see a historical breakdown of RRP usage by MMFs here: ![https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/) (use the drill-down feature to see more granularity)
 
 FOMC meeting minutes from last June, some discussion of RRP there: [https://www.federalreserve.gov/monetarypolicy/fomcminutes20210616.htm](https://www.federalreserve.gov/monetarypolicy/fomcminutes20210616.htm)
 
@@ -66,7 +66,7 @@ May 28th 479B RRP breakdown: [https://i.imgur.com/nKK9lr2.png](https://i.imgur.c
 
 # Disclaimer
 
-It's possible I made an error in pulling some data or missed some N-MFP2 forms. Within the next two weeks, OFR will update their data here which will be more accurate if any discrepancies arise: [https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/)
+It's possible I made an error in pulling some data or missed some N-MFP2 forms. Within the next two weeks, OFR will update their data here which will be more accurate if any discrepancies arise: ![https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/)
 
 If I got something wrong, please point it out.
 

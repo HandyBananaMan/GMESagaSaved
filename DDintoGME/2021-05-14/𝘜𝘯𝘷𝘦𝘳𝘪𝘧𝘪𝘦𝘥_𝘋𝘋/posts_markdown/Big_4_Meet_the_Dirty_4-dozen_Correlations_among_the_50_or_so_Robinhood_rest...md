@@ -54,7 +54,7 @@ Not this one:
 
 ...and things like it.  So along these lines, one of my favorite things to do lately when I should be working has been to try to spot the obvious pump and dumps in the comments section of WeBull (not my broker, for the record) and try to figure out what makes them tick. And it’s impossible not to notice just how *similar* so many of the charts are post-January. Obviously, I'm not the only one who’s noticed this. [u/Nice-Violinist-6395](https://www.reddit.com/user/Nice-Violinist-6395/)  did a nice write up pointing this out for four of our beloved Stonk’s more well-known cling-ons, which you can find here:
 
-[https://www.reddit.com/r/GME/comments/nay4zw/presenting\_the\_big\_four\_four\_separate\_stocks\_four/](https://www.reddit.com/r/GME/comments/nay4zw/presenting_the_big_four_four_separate_stocks_four/)
+![https://www.reddit.com/r/GME/comments/nay4zw/presenting\_the\_big\_four\_four\_separate\_stocks\_four/](https://www.reddit.com/r/GME/comments/nay4zw/presenting_the_big_four_four_separate_stocks_four/)
 
 Finally, the point of all this stupidity. Violinist showed us a chart and pointed out the similarity, and I’m going to expand on that more or less by slapping some numbers (specifically, **correlation coefficients**) on that similarity for your crayon-munching pleasure.  The purpose of this is to show that, on the one hand, your eyes are most definitely not deceiving you and that the pattern is real and quantifiable.  And on the other hand, to point out that that pattern is changing somewhat over time in some very interesting ways that pertain to where we are right now in this whole saga.  And of course, there will also be a hint of *fuckery*  just to keep things spicy.
 

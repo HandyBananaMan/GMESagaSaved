@@ -79,4 +79,4 @@ Here are my sources if you'd like to check for yourself:
 
 [https://www.barchart.com/stocks/quotes/GME%7C20220121%7C5.00P/interactive-chart](https://www.barchart.com/stocks/quotes/GME%7C20220121%7C5.00P/interactive-chart)
 
-Edit: Forgot to mention that I got the price data from Yahoo Historical Data linked here: [https://finance.yahoo.com/quote/GME/history?period1=1568592000&period2=1622160000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true](https://finance.yahoo.com/quote/GME/history?period1=1568592000&period2=1622160000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+Edit: Forgot to mention that I got the price data from Yahoo Historical Data linked here: ![https://finance.yahoo.com/quote/GME/history?period1=1568592000&period2=1622160000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true](https://finance.yahoo.com/quote/GME/history?period1=1568592000&period2=1622160000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)

@@ -70,7 +70,7 @@ The worst part about this whole thing is that the big boys are fucking around in
 
 Link to full article
 
-[https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf](https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf)
+![https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf](https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf)
 
 As usual, the real DD will be in the comments so please discuss, correct and criticise!
 

@@ -160,7 +160,7 @@ TYO:
 
 TMV:
 
-[6th.](https://preview.redd.it/mvgpialm6zt61.png?width=446&format=png&auto=webp&s=b2e7db945078d3079a8b360691f00d16cab1345f)
+![6th.](https://preview.redd.it/mvgpialm6zt61.png?width=446&format=png&auto=webp&s=b2e7db945078d3079a8b360691f00d16cab1345f)
 
 &#x200B;
 

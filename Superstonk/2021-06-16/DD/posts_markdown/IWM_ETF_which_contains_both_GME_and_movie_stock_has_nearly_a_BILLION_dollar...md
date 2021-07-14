@@ -16,7 +16,7 @@ I’m feeling a bit tin foil hat about this but I can’t help but feel this amo
 
 EDIT: It’s been brought to my attention the allocation of GME/Movie stock for IWM is of concern. 
 
-According to [GME ETF Info](https://www.etf.com/stock/GME) GME’s market value is the second highest in IWM valued at 196.16M with only .30% allocation. For reference FTXD has a allocation of 9.37% and only a market value of 727.57K. 
+According to ![GME ETF Info](https://www.etf.com/stock/GME) GME’s market value is the second highest in IWM valued at 196.16M with only .30% allocation. For reference FTXD has a allocation of 9.37% and only a market value of 727.57K. 
 
 For Movie stock it is the highest by a good amount valued at 10.08M with only .01% allocation. 
 

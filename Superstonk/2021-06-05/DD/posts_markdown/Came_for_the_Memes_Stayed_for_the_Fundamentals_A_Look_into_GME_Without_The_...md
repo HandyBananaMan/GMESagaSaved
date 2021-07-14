@@ -136,7 +136,7 @@ While Chewy occupies about 30% of the pet industry, if we assume Gamestop can ac
 
 &#x200B;
 
-[Don't just take it from me....](https://preview.redd.it/zw4su4yejw371.jpg?width=640&format=pjpg&auto=webp&s=94c1288754523bf25762787a8297d4c8184a2f9f)
+![Don't just take it from me....](https://preview.redd.it/zw4su4yejw371.jpg?width=640&format=pjpg&auto=webp&s=94c1288754523bf25762787a8297d4c8184a2f9f)
 
 (I hadn't even brought up their NFT-platform yet because the automod keeps deleting my post, but just know that this would further open GME's accessible market.)
 

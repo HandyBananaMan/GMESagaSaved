@@ -112,7 +112,7 @@ Starting May 17, hedgies and banks stopped selling AMC (for the most part). Inst
 
 Remember what happened on May 12? That's when Citadel bought into the SPAC Centricus.
 
-[Event May 12, filed after May 24](https://preview.redd.it/d5vcqf00kr171.png?width=972&format=png&auto=webp&s=f954145ed14d72a89221ba3d54743b3e5ae6c459)
+![Event May 12, filed after May 24](https://preview.redd.it/d5vcqf00kr171.png?width=972&format=png&auto=webp&s=f954145ed14d72a89221ba3d54743b3e5ae6c459)
 
 On fintel, it looks more or less normal up until May 17, a day where 14 closed their positions. The last to close their position was on the 18th. Beyond that, all buys/opening new positions. I don't know about increases, but the dates are just too much to be coincidence:
 

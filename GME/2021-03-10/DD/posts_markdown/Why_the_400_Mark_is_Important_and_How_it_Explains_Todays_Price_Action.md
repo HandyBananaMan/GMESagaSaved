@@ -8,7 +8,7 @@ I was asked to write a follow up DD about a post I made yesterday about the 400$
 
 * Yesterday, it was more or less confirmed through options volume that the hedge funds had been concealing their FTD's via deep ITM options.
 
-**Edit**: I've been receiving some questions as to how the FTD's could be hidden in deep ITM calls. There's a nice DD about it [here](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/?utm_source=share&utm_medium=web2x&context=3) that explains it beautifully, but the TLDR of it is that they are basically using synthetic shares (shares that MM like Citadel can create by acting like they have the shares to sell contracts when they actually don't), using those synthetic shares to create call contracts, and then exercising said call contracts as a way of reporting a net even position to the SEC, making it look like their FTD's are cleared. 
+**Edit**: I've been receiving some questions as to how the FTD's could be hidden in deep ITM calls. There's a nice DD about it ![here](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/?utm_source=share&utm_medium=web2x&context=3) that explains it beautifully, but the TLDR of it is that they are basically using synthetic shares (shares that MM like Citadel can create by acting like they have the shares to sell contracts when they actually don't), using those synthetic shares to create call contracts, and then exercising said call contracts as a way of reporting a net even position to the SEC, making it look like their FTD's are cleared. 
 
 &#x200B;
 

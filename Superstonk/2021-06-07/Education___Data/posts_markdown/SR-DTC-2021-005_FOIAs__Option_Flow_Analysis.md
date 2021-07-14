@@ -100,7 +100,7 @@ There's a few fields in the electronic form that you may not be aware on how to 
 
 Also here's the missing SR-DTC-2021-005 PDF
 
-* [https://www.file.io/download/thMvWcJ8wirp](https://www.file.io/download/thMvWcJ8wirp)
+* ![https://www.file.io/download/thMvWcJ8wirp](https://www.file.io/download/thMvWcJ8wirp)
 
 https://preview.redd.it/teisku3vct371.png?width=1226&format=png&auto=webp&s=a08aa49cbc3bc39706f83f5604795e0c2fe88630
 

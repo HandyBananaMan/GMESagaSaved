@@ -24,7 +24,7 @@
 
 (THIS IS GME RELATED)
 
-(Shameless PLUG: Follow me on Twitter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twitter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
 
 \---------------------------------------------------------------------------------------------------------------------------------
 
@@ -384,4 +384,4 @@ Stay tuned for the NEXT EPISODE of the BBC!
 
 \------------------------------------------------------------------------------------------------------------------------------
 
-(Shameless PLUG: Follow me on Twitter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twitter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )

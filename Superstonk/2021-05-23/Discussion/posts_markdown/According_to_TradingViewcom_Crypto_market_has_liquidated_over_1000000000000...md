@@ -28,4 +28,4 @@ Edit: [Link to TradingView source](https://www.tradingview.com/markets/cryptocur
 
 Edit 2 shills got to pump it
 
-[Headline 1: Bitcoin tumbles 50&#37;. Headline 2: Buy now you fool. Transparent much](https://preview.redd.it/hywxgvkqrx071.png?width=2048&format=png&auto=webp&s=1cc378aeff2e99171575895b61a1dfe1c4de4655)
+![Headline 1: Bitcoin tumbles 50&#37;. Headline 2: Buy now you fool. Transparent much](https://preview.redd.it/hywxgvkqrx071.png?width=2048&format=png&auto=webp&s=1cc378aeff2e99171575895b61a1dfe1c4de4655)

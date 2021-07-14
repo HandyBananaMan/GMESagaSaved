@@ -16,7 +16,7 @@ Feel this is GME related as this is PROOF that one major event that tightens the
 
 [Caption from TD Amritrade](https://preview.redd.it/fso54n5w9sp61.png?width=1104&format=png&auto=webp&s=404a6d3ddb1b40e846adea72d0c8024beb1b958b)
 
-[https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page](https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page)
+![https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page](https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page)
 
 BUT THERE IS NO GME STONK LIQUIDATED
 

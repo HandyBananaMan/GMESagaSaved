@@ -212,7 +212,7 @@ Now, there is a thing called an AP which means an Authorized Participant.
 
 A ETF's AP is allowed to buy the underlying stocks that make up the ETF and then create new shares of  that ETF, but they are also allowed to  take existing shares of the ETF and liquidate them back into their   original stocks. Read this:
 
-[https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf)
+![https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf)
 
 Now, XRT went ON the threshold list on January \[edit: 29th\] and has remained there to this very day! That is the same day that the hedgefunds supposedly covered most of their short positions and the GME spike started to drop as well as about the same time the brokers stopped letting us buy!
 

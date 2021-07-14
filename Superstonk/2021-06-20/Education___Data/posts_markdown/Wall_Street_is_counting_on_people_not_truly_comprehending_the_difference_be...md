@@ -49,7 +49,7 @@ Units of time can make it easier understand on a personal level how massively th
 
 # 04 Stack 'em up. For those who think in visual terms of distance rather than quantity.
 
-[I heard you like green crayons](https://preview.redd.it/wj0y6wqquh671.jpg?width=576&format=pjpg&auto=webp&s=5ff758e113453c6b1492becd53cb142f6fb56c35)
+![I heard you like green crayons](https://preview.redd.it/wj0y6wqquh671.jpg?width=576&format=pjpg&auto=webp&s=5ff758e113453c6b1492becd53cb142f6fb56c35)
 
 If $1million in **$100** dollar bills stacks up to 40 inches (3.3 feet), and $1billion is 40,000 inches, $1trillion in $100 dollar bills is 40,000,000 inches high, which is 631 miles.
 

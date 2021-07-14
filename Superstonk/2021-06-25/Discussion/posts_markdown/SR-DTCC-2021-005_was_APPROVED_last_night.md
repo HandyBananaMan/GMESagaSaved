@@ -8,7 +8,7 @@ Just waiting for confirmation for pubication in the Federal Register for passing
 
  [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings) 
 
- [https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf) 
+ ![https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf) 
 
 &#x200B;
 

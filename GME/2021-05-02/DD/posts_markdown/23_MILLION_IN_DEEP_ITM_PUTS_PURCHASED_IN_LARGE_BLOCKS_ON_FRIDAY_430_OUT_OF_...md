@@ -6,7 +6,7 @@
 
 It's your friendly neighborhood [u/Dan\_Bren](https://www.reddit.com/u/Dan_Bren/). Friday was a spicy day on the options front. Let's get right into it:
 
-[GME Biggest Options Trades 4\/30\/21](https://preview.redd.it/3vl4xbhzqrw61.png?width=1227&format=png&auto=webp&s=d4b5046213e48ee451f8fd84ccf0d341840d3e40)
+![GME Biggest Options Trades 4\/30\/21](https://preview.redd.it/3vl4xbhzqrw61.png?width=1227&format=png&auto=webp&s=d4b5046213e48ee451f8fd84ccf0d341840d3e40)
 
 As you can see from the data above there were several large block trades of DEEP ITM Puts which can effectively be used in the same way we had seen the DEEP ITM calls used. On Friday there were 858 trades (in blocks) of the 4/30 $300 Puts for $10,215,018. Additionally there was 1,058 trades of the 5/21 $300 Puts for $13,161,978. All of these trades came out of the EMLD (Miami) and CBOE (Chicago) exchanges.
 

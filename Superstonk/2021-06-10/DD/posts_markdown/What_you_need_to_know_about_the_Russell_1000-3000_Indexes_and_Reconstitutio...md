@@ -72,7 +72,7 @@ Research has shown ([Source](https://academic.oup.com/rfs/article/28/1/212/16809
 
 # BUT WILL THE SHORTS NEED TO COVER???
 
-Well, frankly, I am not sure what happens to a synthetic short position if the underlying is removed from the ETF (btw if you want to read more about shorting through ETFs see this [post](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)). Hedgies would possibly be forced to cover, only to reconcile everybody's books. But I wouldn't put it past them to be able to kick the can down the road again.
+Well, frankly, I am not sure what happens to a synthetic short position if the underlying is removed from the ETF (btw if you want to read more about shorting through ETFs see this ![post](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)). Hedgies would possibly be forced to cover, only to reconcile everybody's books. But I wouldn't put it past them to be able to kick the can down the road again.
 
 But what I DO know is that the buying pressure on that day will be significant and put some hedgies in boiling water.
 

@@ -24,4 +24,4 @@ EDIT 2: it would appear the large blocks of OTM have slowed down until 12:25. St
 
 EDIT 3: starting at 12:30 there was buying of 6/18 225p, so far 206 contracts all but 6 of which occurred at the ask, price ranging from $1200 to $1250 per contract and all on NYSE. 20,000 shares worth in total. $240,000 in premium at a minimum, expiring in two days and already lost at least 75 per contract ($7500). Ended buying at 12:32 most likely. Seems to account for short downtrend from 12:30 for a few minutes. They really are pulling out all the stops.
 
-EDIT 4: 12:36, 7/16 12p 500 blocks are [back](https://i.imgur.com/cwBbes9.jpg)
+EDIT 4: 12:36, 7/16 12p 500 blocks are ![back](https://i.imgur.com/cwBbes9.jpg)

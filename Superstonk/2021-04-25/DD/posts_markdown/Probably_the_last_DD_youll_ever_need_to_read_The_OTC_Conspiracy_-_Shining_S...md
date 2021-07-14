@@ -290,7 +290,7 @@ As for me - my shares aren't for sale.  Seeing the desperate behind-the-scenes O
 
 **Edit 2**:  added the Weekly **3/15 Data** to show that **Robinhood** was highly active again at a time when GME experienced a huge price drop (see Table 10).  Thanks  u/RecoveryChadX7R !
 
-**Edit 3**:  Also, take a look at the DD posted by u/Doom_Douche \- [A Deep Dive into Dark Pool Trading](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/) \- which shows the difference between OTC trading for GME vs other stocks.  And just note that his data used a GME float of 54.1 million rather than the 26.7 million (or less) that we can now deduce from the updated GME proxy, so the difference is even more pronounced.
+**Edit 3**:  Also, take a look at the DD posted by u/Doom_Douche \- ![A Deep Dive into Dark Pool Trading](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/) \- which shows the difference between OTC trading for GME vs other stocks.  And just note that his data used a GME float of 54.1 million rather than the 26.7 million (or less) that we can now deduce from the updated GME proxy, so the difference is even more pronounced.
 
 **Edit 4:**  Added some Charts (Figures 1-9) .
 

@@ -28,7 +28,7 @@ First, the proposed rule change would revise the entries for “3. Obligation Wa
 
 GUYS, THIS IS ONLY UP TO PAGE 13. I COULD GO ON BUT HERE I WILL LINK THE PDF WITH JOY:
 
-[https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf)
+![https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf)
 
 &#x200B;
 

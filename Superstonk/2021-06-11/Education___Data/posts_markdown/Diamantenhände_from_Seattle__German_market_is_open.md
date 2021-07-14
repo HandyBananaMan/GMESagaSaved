@@ -7,7 +7,7 @@ Hello Great Apes of the world! 👋 Today's dip has tested our resolve, and we h
 ###🚀 Buckle Up! 🚀###
 
 
-- 🚀 [US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
+- 🚀 ![US pre-market is open!](https://finance.yahoo.com/quote/GME/) 🚀
 - 🟥 120 minutes in: **$232.93 / 191,43 €**
 - ⬜ 115 minutes in: $233.06 / 191,52 €
 - 🟩 110 minutes in: $233.06 / 191,52 €

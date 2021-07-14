@@ -76,6 +76,6 @@ https://preview.redd.it/rfj8znvpna071.png?width=1416&format=png&auto=webp&s=2590
 
 https://preview.redd.it/92ko7hsf7b071.png?width=1080&format=png&auto=webp&s=40f89e072e65741ceb360e3b34e6312372c39fa1
 
-EDIT 6: Fellow Ape /u/HubKap1853 has posted the following article about the whole situation with the OCC: [https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/)
+EDIT 6: Fellow Ape /u/HubKap1853 has posted the following article about the whole situation with the OCC: ![https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/)
 
 I just want to stress something: While we can agree with what is being said in this article, it is NOT an unbiased news source. The author works for an investment company that certainly has motivations. Possible conflict of interest here. Just saying, good news is good news but biased news are biased news.

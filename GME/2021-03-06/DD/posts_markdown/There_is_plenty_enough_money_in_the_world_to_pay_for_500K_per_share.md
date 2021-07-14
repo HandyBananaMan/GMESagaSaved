@@ -176,7 +176,7 @@ I hope that it’s now apparent how large the quantity of wealth in just a small
 
 35% of all U.S Dollars have been printed in the last 12 months, almost 2.4 trillion. When Biden passes his bill that will almost double. 
 
-[https://preview.redd.it/rxuo34jiqd561.jpg?width=1610&amp;format=pjpg&amp;auto=webp&amp;s=9e096a718cda81fbc7ac4ecf161fe2ea3d7d55b2](https://preview.redd.it/rxuo34jiqd561.jpg?width=1610&amp;format=pjpg&amp;auto=webp&amp;s=9e096a718cda81fbc7ac4ecf161fe2ea3d7d55b2) 
+![https://preview.redd.it/rxuo34jiqd561.jpg?width=1610&amp;format=pjpg&amp;auto=webp&amp;s=9e096a718cda81fbc7ac4ecf161fe2ea3d7d55b2](https://preview.redd.it/rxuo34jiqd561.jpg?width=1610&amp;format=pjpg&amp;auto=webp&amp;s=9e096a718cda81fbc7ac4ecf161fe2ea3d7d55b2) 
 
 Printing this quantity of money will likely cause massive inflation so printing some more to buy our shares won’t make much difference, especially when the alternative is a loss of faith in the markets. After the hedgefunds, banks, prime brokers, and DTCC have all ran out of cash, (which would be nigh on impossible by my estimates,) the fed could just simply print money to keep the DTCC solvent. There would likely be bail outs, but we’d be rich beyond our wildest dreams, and the new SEC chief seems currently to be prepared to take a hard stance against hedge funds. 
 

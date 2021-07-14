@@ -22,7 +22,7 @@ For the period ending 31 DEC, he reported to the SEC a **Portfolio Value of $22,
 
 [ ANF sure turned out to be a shrewd pick, huh?! Good going Gabe! ](https://preview.redd.it/bpqj8hmkqls61.png?width=1123&format=png&auto=webp&s=c2d6405f9d8e2972112627d2ec3ef7e27846fb6d)
 
-[ Gabe with the X-ray vision on XRAY! ](https://preview.redd.it/gz9g0mglqls61.png?width=1122&format=png&auto=webp&s=99162f28d1fb13527e5cea35954999970acfafa2)
+![ Gabe with the X-ray vision on XRAY! ](https://preview.redd.it/gz9g0mglqls61.png?width=1122&format=png&auto=webp&s=99162f28d1fb13527e5cea35954999970acfafa2)
 
 # Let's zoom the total in:
 

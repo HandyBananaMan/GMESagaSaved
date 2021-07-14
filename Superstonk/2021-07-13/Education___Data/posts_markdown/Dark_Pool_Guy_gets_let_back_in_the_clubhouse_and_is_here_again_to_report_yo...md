@@ -24,4 +24,4 @@ NYSE and NASDAQ daily reported short interest since July 2, 2021 ([https://GameS
 
 TradingView API Recommendation based on Technical Indicators  ([https://GameStonkTerminal.vercel.app](https://gamestonkterminal.vercel.app/))
 
-[TradingView API Recommendation based on Technical Indicators  \(https:\/\/GameStonkTerminal.vercel.app\)](https://preview.redd.it/12cyahfacxa71.png?width=1634&format=png&auto=webp&s=750eb6b6f7551c2dcc66aa500efbcf4eadcbc82e)
+![TradingView API Recommendation based on Technical Indicators  \(https:\/\/GameStonkTerminal.vercel.app\)](https://preview.redd.it/12cyahfacxa71.png?width=1634&format=png&auto=webp&s=750eb6b6f7551c2dcc66aa500efbcf4eadcbc82e)

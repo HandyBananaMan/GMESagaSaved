@@ -10,7 +10,7 @@ To a person with @uti$m, words mean something. Every word does. Every symbol....
 
 If you read the Everything Short DD and you're freaked out, it's ok. If you think u/atobitt is a shill or sent to induce FUD, I believe you're wrong. And here's why. 
 
-Everything in the DD echoes what our boy Dr. Burry has been saying since at least [Sept 2019.](https://www.cnbc.com/2019/09/04/the-big-shorts-michael-burry-says-he-has-found-the-next-market-bubble.html) One confirms the other. What more [confirmation](https://www.reddit.com/r/GME/comments/mh7a8k/im_just_gonna_leave_this_right_here/?utm_medium=android_app&utm_source=share) do you need? 
+Everything in the DD echoes what our boy Dr. Burry has been saying since at least [Sept 2019.](https://www.cnbc.com/2019/09/04/the-big-shorts-michael-burry-says-he-has-found-the-next-market-bubble.html) One confirms the other. What more ![confirmation](https://www.reddit.com/r/GME/comments/mh7a8k/im_just_gonna_leave_this_right_here/?utm_medium=android_app&utm_source=share) do you need? 
 
 Also look at what DJI and NASDAQ have been up to in AH. I believe we are approaching the launchpad ladies and apes 🚀🚀🚀🚀🚀🚀
 

@@ -125,7 +125,7 @@ When FTDs skyrocket, Deep ITM CALLs are eaten up. You see this occur extensively
 Ever since March 10th, these Deep ITM CALL purchases have slowly decayed and died off. User /u/Dan_Bren had been posting about these anomalies for weeks, and weeks, until suddenly - the anomalies stopped. The only significant purchases that have been made since the Deep ITM CALLs died off have been for Deep OTM CALLs and Deep ITM PUTs.
 
 * [Deep OTM CALLs were purchased](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/). Possibly a big entity expecting the price to pop by July 16th.
-* Deep ITM PUTs were purchased as well (same link). [We got a warning that they could be used to flash crash the price on May 28th](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/), and sure enough, it happened.
+* Deep ITM PUTs were purchased as well (same link). ![We got a warning that they could be used to flash crash the price on May 28th](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/), and sure enough, it happened.
 
 So what does this mean? The give-up on Deep ITM CALLs could be many things.
 

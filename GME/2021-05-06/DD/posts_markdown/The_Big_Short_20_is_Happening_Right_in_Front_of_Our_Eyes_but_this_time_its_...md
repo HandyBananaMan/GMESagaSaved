@@ -42,7 +42,7 @@ Edit TLDR: **There is a strong possibility that the same tactics that caused the
 
 Edit: credit to u/Link4355, here is the link to an article written by Ryan Grim relating to this: [https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/](https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/)
 
-Credit to u/EnthusiasmPutrid1406, link to podcast on topic: [https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/](https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/)
+Credit to u/EnthusiasmPutrid1406, link to podcast on topic: ![https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/](https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/)
 
 ^(this is not financial advice)
 

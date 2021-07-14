@@ -48,7 +48,7 @@ Thank you all for taking the time to read and hope it helped!
 
 &#x200B;
 
-[Remember DIAMOND F\*CKING HANDS](https://preview.redd.it/56bcsq9tch671.jpg?width=828&format=pjpg&auto=webp&s=1d990b8238e9f29d3416ed57b121de54281d8205)
+![Remember DIAMOND F\*CKING HANDS](https://preview.redd.it/56bcsq9tch671.jpg?width=828&format=pjpg&auto=webp&s=1d990b8238e9f29d3416ed57b121de54281d8205)
 
 📈As for me, I like the stock📈
 

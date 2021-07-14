@@ -110,6 +110,6 @@ In particular, I'm watching TSLA because of the size and AMZN because it was one
 
 &#x200B;
 
-[Normal TSLA close, no way it was ramped to increase 💩a🔔AUM at close since Marge is closely monitoring positions](https://preview.redd.it/13j533d7jq271.png?width=1271&format=png&auto=webp&s=3e7b8fd0ca464feedd4baa2f2ab649bc76ca6a9c)
+![Normal TSLA close, no way it was ramped to increase 💩a🔔AUM at close since Marge is closely monitoring positions](https://preview.redd.it/13j533d7jq271.png?width=1271&format=png&auto=webp&s=3e7b8fd0ca464feedd4baa2f2ab649bc76ca6a9c)
 
 &#x200B;

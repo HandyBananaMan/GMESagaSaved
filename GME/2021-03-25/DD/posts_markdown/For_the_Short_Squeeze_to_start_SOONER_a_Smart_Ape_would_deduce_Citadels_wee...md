@@ -83,7 +83,7 @@ Smart Ape Response: Whether the Kong trying to take out Citadel is Blackrock or 
 **NEW DD EDITS:**  
 Updated 03/26/21 -10:03am ---  
 Warden's live charting for  03/26/21, and he identified shorters buying Puts at $200, so likely Citadel trying to make money at that pricepoint. We must make sure today closes above $200.  
-[https://www.reddit.com/r/GME/comments/mdojvs/live\_charting\_for\_3262021\_predicting\_the\_days/](https://www.reddit.com/r/GME/comments/mdojvs/live_charting_for_3262021_predicting_the_days/)  
+![https://www.reddit.com/r/GME/comments/mdojvs/live\_charting\_for\_3262021\_predicting\_the\_days/](https://www.reddit.com/r/GME/comments/mdojvs/live_charting_for_3262021_predicting_the_days/)  
 
 
 https://preview.redd.it/imnnuzp7qdp61.png?width=2506&format=png&auto=webp&s=d7af274a9020c279612a5c349c95dbd3e9557d19

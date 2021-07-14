@@ -44,7 +44,7 @@ Want just the cycles? A'ight. I got you. (Edit: changed ~~dates~~ to cycles)
 
 Because this is near impossible to see, here’s the data smoothed out for you to identify each 21st day within each cycle.
 
-[Ken, I got the receipts](https://preview.redd.it/txnq447u5kz61.png?width=1490&format=png&auto=webp&s=6da92b5130f2e76fa277d778cace4d11085ad95b)
+![Ken, I got the receipts](https://preview.redd.it/txnq447u5kz61.png?width=1490&format=png&auto=webp&s=6da92b5130f2e76fa277d778cace4d11085ad95b)
 
 **So, I’m going to hold myself to my own test and ask: why?**
 

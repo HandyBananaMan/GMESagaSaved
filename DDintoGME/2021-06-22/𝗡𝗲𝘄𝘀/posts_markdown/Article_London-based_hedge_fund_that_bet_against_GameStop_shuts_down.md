@@ -22,4 +22,4 @@ REUTERS
 
 &#x200B;
 
-Edit: If you look on WhaleWisdom, you can see they were busy [selling off most of their holdings](https://whalewisdom.com/filer/white-square-capital-llp-2#tabholdings_tab_link).
+Edit: If you look on WhaleWisdom, you can see they were busy ![selling off most of their holdings](https://whalewisdom.com/filer/white-square-capital-llp-2#tabholdings_tab_link).

@@ -126,4 +126,4 @@ Quarter end is upon the financial markets and there are only **three days until 
 
 Fasten your seatbelts.
 
-[https:\/\/www.youtube.com\/watch?v=RLwaM-tTiXo](https://preview.redd.it/5agdc97brw771.png?width=600&format=png&auto=webp&s=adc91eec48b0898f4458102b05fbd9b426129b9c)
+![https:\/\/www.youtube.com\/watch?v=RLwaM-tTiXo](https://preview.redd.it/5agdc97brw771.png?width=600&format=png&auto=webp&s=adc91eec48b0898f4458102b05fbd9b426129b9c)

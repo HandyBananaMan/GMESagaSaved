@@ -49,7 +49,7 @@ The One Stop Shop Link:
 
 FRIDAY THE 19TH (The Quad Witching) was the 3rd HIGHEST Short Volume Day for $GME EVER. 65%. They tried SO HARD to keep the price at 200!
 
-[Short Volume March 19th](https://www.reddit.com/r/GME/comments/m8wvdo/todays_short_volume_on_gme_319_is_64_of_total/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf)
+![Short Volume March 19th](https://www.reddit.com/r/GME/comments/m8wvdo/todays_short_volume_on_gme_319_is_64_of_total/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf)
 
 
 *EDIT EDIT* 

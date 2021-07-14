@@ -33,4 +33,4 @@ Sources:
 1. [(43) JP MORGAN WARNS HEDGE FUNDS TO EXPECT MARGIN CALLS🚀🚀🚀🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/ojdfqi/jp_morgan_warns_hedge_funds_to_expect_margin_calls/)
 2. [JP Morgan warns hedge funds to expect intraday margin calls - Risk.net](https://www.risk.net/investing/7853221/jp-morgan-warns-hedge-funds-to-expect-intraday-margin-calls)
 3. [To: (dtcc.com)](https://www.dtcc.com/-/media/Files/pdf/2021/7/13/15625-21.pdf)
-4. [2Q21 Earnings Press Release (jpmorganchase.com)](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2021/2nd-quarter/e5628b2a-f923-4c04-8008-58236a2f7999.pdf)
+4. ![2Q21 Earnings Press Release (jpmorganchase.com)](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2021/2nd-quarter/e5628b2a-f923-4c04-8008-58236a2f7999.pdf)

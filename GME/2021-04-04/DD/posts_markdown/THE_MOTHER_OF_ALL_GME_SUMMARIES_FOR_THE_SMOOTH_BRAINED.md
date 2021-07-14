@@ -105,7 +105,7 @@ There are other ways in which phantom shares are legally being created but illeg
 
 Now we know that HFs have shorted more shares than are actually available, but (correct me if I’m wrong) they are also holding a certain amount of these shares, which they use in short attacks, for example. And believe it or not, normal retail investors like you and me might own these shares as well; there are DDs suggesting that we own more than 100% of shares. This is of course because we have bought the fictional shares that HFs have sold. But we shouldn’t be worried about that, after all we lived up to our part of the deal: we delivered the money (or our broker should have done that for us) and we didn’t have any involvement in the shenanigans happening behind closed doors.
 
-[The prophecy says that once the teacup's handle is complete we will ignite! Time will tell...](https://preview.redd.it/zabthcjfu7r61.jpg?width=1007&format=pjpg&auto=webp&s=9cabc764fd12abad91b531636aca1f36b8c228cc)
+![The prophecy says that once the teacup's handle is complete we will ignite! Time will tell...](https://preview.redd.it/zabthcjfu7r61.jpg?width=1007&format=pjpg&auto=webp&s=9cabc764fd12abad91b531636aca1f36b8c228cc)
 
 **THANKS FOR READING**  
 I hope the information I’ve provided here was accurate and informational and that you got something out of it. If you like the stock, you could buy and hold it. If you want to. I don’t know, I’m not a financial advisor (they don’t give certificates to apes).

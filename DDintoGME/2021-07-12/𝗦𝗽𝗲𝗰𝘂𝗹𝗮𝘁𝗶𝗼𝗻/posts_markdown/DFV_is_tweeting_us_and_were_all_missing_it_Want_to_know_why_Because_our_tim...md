@@ -32,4 +32,4 @@ TLDR: DFV's tweets from April represent what's going on today, to the day. April
 
 &#x200B;
 
-[Best Friends Forever](https://preview.redd.it/a0rsy2320ta71.jpg?width=595&format=pjpg&auto=webp&s=c59167d4fc5565c27057576506e6dc263871c491)
+![Best Friends Forever](https://preview.redd.it/a0rsy2320ta71.jpg?width=595&format=pjpg&auto=webp&s=c59167d4fc5565c27057576506e6dc263871c491)

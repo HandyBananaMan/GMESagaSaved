@@ -11,7 +11,7 @@ Edit5: 1:33pm 1.7k
 Edit6: 7:33pm 1.8k
 
 WATCH THIS PLEASE(if.you haven't already or maybe im late to the show)
-[educational](https://altcensored.com/watch?v=nLZp0ShwCiw)
+![educational](https://altcensored.com/watch?v=nLZp0ShwCiw)
 
 Shitadel and Rh ARE THE SMALL.FISH IN THIS.
 DTCC is where the whole kit and kaboodle starts.

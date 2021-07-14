@@ -73,7 +73,7 @@ Edit 5: NOTE: this article is old. In my opinion, the attitudes expressed by Wal
 
 Edit 6: fellow ape posted the [original GS court docs.](http://media.economist.com/sites/default/files/pdfs/Plaintiffs%20Opp%20to%20MSJ.pdf) I HIGHLY recommend reading pages 15 through 19
 
-Edit 7: [Another ape sent this SEC filing and provided a great description.](https://www.sec.gov/litigation/admin/2012/34-66283.pdf)
+Edit 7: ![Another ape sent this SEC filing and provided a great description.](https://www.sec.gov/litigation/admin/2012/34-66283.pdf)
 
 “Holy hell. This report references a different report, the January 31, 2012 report here, that explains how what all the fucking deep ITM puts are for. It’s how you recycle FTDs.
 

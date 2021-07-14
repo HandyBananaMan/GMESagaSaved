@@ -4,7 +4,7 @@
 
 Well, the SI numbers have been published and the reported SI is 9.67 mil.
 
-[https://www.morningstar.com/stocks/xnys/gme/quote](https://www.morningstar.com/stocks/xnys/gme/quote)
+![https://www.morningstar.com/stocks/xnys/gme/quote](https://www.morningstar.com/stocks/xnys/gme/quote)
 
 That means that they did not simply report their shorts for June 1st - 14th like I believed they would.
 

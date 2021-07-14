@@ -292,7 +292,7 @@ Now I will go back to eating a taasty crayon (I love the taste of the red ones) 
 
 &#x200B;
 
-**EDIT5 :**  [**33a**](https://www.reddit.com/user/33a/) **the other kind ape pointed out another simplification in my post. This is the comment:**
+**EDIT5 :**  ![**33a**](https://www.reddit.com/user/33a/) **the other kind ape pointed out another simplification in my post. This is the comment:**
 
 &#x200B;
 

@@ -99,6 +99,6 @@ Obligatory 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 Susquehanna International Group, LLP offers institutional brokerage services such as trading, quantitative research, technology, and fundamental research services, as well as offers trading dynamics, market structure, and risk management services. They are specialists in approximately 600 equity options and 45 index options. Their last 13F filing for Q4 in 2020 included $612,xxx,xxx,xxx in managed 13F securities.
 
-They also have large holdings in [silver](https://finance.yahoo.com/quote/AG/holders/)
+They also have large holdings in ![silver](https://finance.yahoo.com/quote/AG/holders/)
 
 And their biggest holding? TSLA. 57,415,900 in puts and 47, 178,800 in calls. Just an interesting aside to me. Updated: now holding lotsa new GME stuffs

@@ -127,6 +127,6 @@ Now that we have a good method for correlations, there is a lot we can do! First
 * We want to use this method for crypto data (which is even messier than stock data) as many of you have suggested.
 * WHATEVER ELSE YOU COME UP WITH
 
-Our strength comes from the hive mind, so I hope many of you can use these tools to ask your own questions. The code will be [available on the github](https://github.com/SuperstonkQuants/statistics_rocks), so go have a look (and also check out all the other amazing stuff there).
+Our strength comes from the hive mind, so I hope many of you can use these tools to ask your own questions. The code will be ![available on the github](https://github.com/SuperstonkQuants/statistics_rocks), so go have a look (and also check out all the other amazing stuff there).
 
 The more we know, the better prepared we will be to make sure the world is a better place. I love all you sexy, hairy apes <3 and a shoutout to the mods who are doing an AMAZING job.

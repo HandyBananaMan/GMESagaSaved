@@ -88,7 +88,7 @@ Answer
 >  
 >2) The collateral requirement changed  
 >  
->3) Their funds changed (which is annotated only once in an article [Here](https://www.reuters.com/article/us-retail-trading-melvin/melvin-capital-ends-month-with-over-8-billion-in-assets-after-investors-added-cash-source-idUSKBN2A00KW))  
+>3) Their funds changed (which is annotated only once in an article ![Here](https://www.reuters.com/article/us-retail-trading-melvin/melvin-capital-ends-month-with-over-8-billion-in-assets-after-investors-added-cash-source-idUSKBN2A00KW))  
 >  
 >4) Citadel, in addition giving them funds on 25January, helped restructure whatever agreement Melvin had for short shares, and is weighing the equity against their own Hedgfund rather than Melvins.  
 >  

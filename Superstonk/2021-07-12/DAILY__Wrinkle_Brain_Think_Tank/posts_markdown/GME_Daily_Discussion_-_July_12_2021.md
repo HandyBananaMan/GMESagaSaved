@@ -28,6 +28,6 @@ Check out our [**flair system**](https://www.reddit.com/r/Superstonk/comments/mr
 
 **Want to learn more?** [**Check out our extensive Wiki**](https://www.reddit.com/r/Superstonk/wiki/index) **and** [**FAQ**](https://www.reddit.com/r/Superstonk/wiki/index/faq)
 
-Please review the [**Superstonk Rules**](https://www.reddit.com/r/Superstonk/wiki/index/rules) before commenting or posting on r/Superstonk.
+Please review the ![**Superstonk Rules**](https://www.reddit.com/r/Superstonk/wiki/index/rules) before commenting or posting on r/Superstonk.
 
 *Daily discussion threads are created at 4:00 a.m. EDT*

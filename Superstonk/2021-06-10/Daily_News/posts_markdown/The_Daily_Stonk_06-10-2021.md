@@ -257,7 +257,7 @@ Edit 1:
 
  Short Volume Ratio Update for 9. June 2021 [\#GME](https://twitter.com/hashtag/GME?src=hashtag_click)  from AnnihilationGod
 
-[https://twitter.com/Annihil4tionGod/status/1402908783525961729](https://twitter.com/Annihil4tionGod/status/1402908783525961729)
+![https://twitter.com/Annihil4tionGod/status/1402908783525961729](https://twitter.com/Annihil4tionGod/status/1402908783525961729)
 
 &#x200B;
 

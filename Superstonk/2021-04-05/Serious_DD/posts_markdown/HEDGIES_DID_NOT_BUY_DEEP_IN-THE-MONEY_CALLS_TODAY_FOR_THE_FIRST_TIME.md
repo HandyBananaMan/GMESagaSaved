@@ -18,7 +18,7 @@ TL;DR:  HEDGEFUNDS NO LONGER COVERING UP FTD'S WITH DEEP ITM CALLS AS OF TODAY P
 
 Red crayons taste the best; change my mind.  💎🙌
 
-If you wanna read through DTCC rules  [https://www.dtcc.com/legal/sec-rule-filings?pgs=1](https://www.dtcc.com/legal/sec-rule-filings?pgs=1) thanks u/Darkassassin07
+If you wanna read through DTCC rules  ![https://www.dtcc.com/legal/sec-rule-filings?pgs=1](https://www.dtcc.com/legal/sec-rule-filings?pgs=1) thanks u/Darkassassin07
 
 Another theory that I've been pondering: if DTCC Rule 005 isn't in effect yet could the end of these deep in the money call purchases expiring 4/16/2021 have anything to do with the heightened volatility that comes with trading short term options. Perhaps inside 10 days is the no-go zone.
 

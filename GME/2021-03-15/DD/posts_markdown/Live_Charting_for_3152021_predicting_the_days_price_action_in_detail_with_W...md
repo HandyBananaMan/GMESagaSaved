@@ -324,7 +324,7 @@ I believe Melvin and friends tried to induce this reversal early last Wednesday 
 
 It really makes no sense that this trend will reverse anytime soon. There are way too many catalysts. People are holding. Institutions are holding. All technical indicators are bullish. I mean just check out this latest Bloomberg terminal screenshot:
 
-[https://preview.redd.it/6au27a5ti2n61.jpg?width=3881&format=pjpg&auto=webp&s=caaf8f3ac6de150cd556ad58e4e127aec061bf83](https://preview.redd.it/6au27a5ti2n61.jpg?width=3881&format=pjpg&auto=webp&s=caaf8f3ac6de150cd556ad58e4e127aec061bf83)
+![https://preview.redd.it/6au27a5ti2n61.jpg?width=3881&format=pjpg&auto=webp&s=caaf8f3ac6de150cd556ad58e4e127aec061bf83](https://preview.redd.it/6au27a5ti2n61.jpg?width=3881&format=pjpg&auto=webp&s=caaf8f3ac6de150cd556ad58e4e127aec061bf83)
 
 **Retail**
 

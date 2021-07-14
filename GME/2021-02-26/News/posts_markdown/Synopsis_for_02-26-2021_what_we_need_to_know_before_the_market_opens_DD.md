@@ -355,6 +355,6 @@ Edit 8:
 
 https://preview.redd.it/efxsjapk1wj61.png?width=2856&format=png&auto=webp&s=b1a423580072861b7caada465c9bcd979a09bf5b
 
-[https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
+![https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
 
 he is still in!

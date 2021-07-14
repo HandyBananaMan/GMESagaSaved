@@ -166,4 +166,4 @@ The obvious plan of action is to find his weaknesses and exploit them. His crux 
 
 https://preview.redd.it/whg6n5hgfh171.png?width=800&format=png&auto=webp&s=f0cdec32abb7227462e58ce568cd61cda43aee0c
 
-That's all I have for now. I need to get some rest. I look forward to seeing what answers you guys come up with.  Thank you for coming to my TEDxTalk and please watch this [youtube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for supplemental information.
+That's all I have for now. I need to get some rest. I look forward to seeing what answers you guys come up with.  Thank you for coming to my TEDxTalk and please watch this ![youtube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for supplemental information.

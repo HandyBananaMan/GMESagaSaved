@@ -82,7 +82,7 @@ IV.  I'll have to wait and look at the Open Interest and Volume for Options in t
 
 Edit7: **Just wanted to clarify: The Open Interest for Options get's updated EOD/TMRW**. Then we will see, how many new calls were added exactly. Volume is not 1:1 to OI, but seeing this huge spike in volume atm gives me reason to belive they added a shit ton of Calls. As I said: How many exactly, we will see tomorrow.
 
-[https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME](https://preview.redd.it/0mk6mzm4w8m61.png?width=658&format=png&auto=webp&s=4928b497c1e39ed49ec20666203a838727ae34af)
+![https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME](https://preview.redd.it/0mk6mzm4w8m61.png?width=658&format=png&auto=webp&s=4928b497c1e39ed49ec20666203a838727ae34af)
 
 &#x200B;
 

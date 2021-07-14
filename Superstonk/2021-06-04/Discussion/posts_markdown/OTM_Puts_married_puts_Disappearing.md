@@ -28,7 +28,7 @@ BEGIN
 
 u/[Itschyaboiii](https://www.reddit.com/user/Itschyaboiii/) have shared an great question in a financial stackexchange forum:
 
-[https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option](https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option)
+![https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option](https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option)
 
 There we can read that it is possible to exercise OTM option contracts and one of the reasons for that is:
 

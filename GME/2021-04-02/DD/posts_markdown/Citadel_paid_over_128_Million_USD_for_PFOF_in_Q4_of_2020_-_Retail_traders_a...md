@@ -158,4 +158,4 @@ does business with Citadel, Virtu, Jane Street Capital, Two Sigma, and perhaps o
 
 I could not find a US SEC Rule 606 disclosure for order routing. I'm not sure if EU allows PFOF. However, according to wikipedia DEGIRO has been in hot water at least once..."The process of internalization of customer's orders against DeGiro's own [hedge fund](https://en.wikipedia.org/wiki/Hedge_fund) HiQ Market Neutral fund was subject of investigative press."
 
-[Amsterdamtrader.com](http://www.amsterdamtrader.com/2015/10/how-degiro-screws-clients.html), How DeGiro Screws Clients, 20 October 2015  
+![Amsterdamtrader.com](http://www.amsterdamtrader.com/2015/10/how-degiro-screws-clients.html), How DeGiro Screws Clients, 20 October 2015  

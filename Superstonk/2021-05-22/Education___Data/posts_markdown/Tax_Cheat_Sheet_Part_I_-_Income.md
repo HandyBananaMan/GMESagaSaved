@@ -233,7 +233,7 @@ Lot's of great questions on Estimated Tax Payments! I will be getting to these o
 
 I haven't looked it over yet, but [u/CalamariAce](https://www.reddit.com/u/CalamariAce) made a which will probably point you in the right direction:
 
-[https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated\_taxes\_and\_why\_you\_probably\_wont\_need\_to/](https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated_taxes_and_why_you_probably_wont_need_to/)
+![https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated\_taxes\_and\_why\_you\_probably\_wont\_need\_to/](https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated_taxes_and_why_you_probably_wont_need_to/)
 
 &#x200B;
 

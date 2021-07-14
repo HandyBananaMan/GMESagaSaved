@@ -56,7 +56,7 @@ Post about 1st tweet: [https://www.reddit.com/r/Superstonk/comments/oh5jjc/games
 
 Post about 2nd clarifying tweet: [https://www.reddit.com/r/Superstonk/comments/oh60ea/gme\_nft\_developler\_clarifies\_that\_there\_is\_no\_set/](https://www.reddit.com/r/Superstonk/comments/oh60ea/gme_nft_developler_clarifies_that_there_is_no_set/)
 
-Post with both tweets and more discussion: [https://www.reddit.com/r/Superstonk/comments/oh613h/finestonematt\_on\_twitter\_about\_the\_supposed/](https://www.reddit.com/r/Superstonk/comments/oh613h/finestonematt_on_twitter_about_the_supposed/)
+Post with both tweets and more discussion: ![https://www.reddit.com/r/Superstonk/comments/oh613h/finestonematt\_on\_twitter\_about\_the\_supposed/](https://www.reddit.com/r/Superstonk/comments/oh613h/finestonematt_on_twitter_about_the_supposed/)
 
 &#x200B;
 

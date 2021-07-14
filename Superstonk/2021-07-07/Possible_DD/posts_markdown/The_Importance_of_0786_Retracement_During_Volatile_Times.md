@@ -32,4 +32,4 @@ Now, many people will argue that TA has no place in our world of GME do to the h
 
 This, my friends, my family, and my fellow gorillas, is where I must admit I have no idea. All I can say is this 78.6% retracement is BULLISH AF, and to Buy and Hodl. I am a smooth brain who is not an expert or financial advisor lol
 
-Edit: new [post](https://www.reddit.com/r/Superstonk/comments/ogdgjd/todays_price_action_so_far_fib_ratios/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  today
+Edit: new ![post](https://www.reddit.com/r/Superstonk/comments/ogdgjd/todays_price_action_so_far_fib_ratios/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  today

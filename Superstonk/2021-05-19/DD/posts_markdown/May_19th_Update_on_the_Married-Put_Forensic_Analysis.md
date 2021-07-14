@@ -137,7 +137,7 @@ The rate the SI in increasing is clearly unsustainable. The DTCC needs to margin
 
 [Barchart Options](https://www.barchart.com/stocks/quotes/GME/options?expiration=2021-05-21-m&moneyness=allRows)
 
-[Stonk Tracker](https://gme.crazyawesomecompany.com)
+![Stonk Tracker](https://gme.crazyawesomecompany.com)
 
 **Required** 
 

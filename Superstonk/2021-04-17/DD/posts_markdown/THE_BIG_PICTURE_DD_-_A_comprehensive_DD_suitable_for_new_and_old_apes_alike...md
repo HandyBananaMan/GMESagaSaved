@@ -192,7 +192,7 @@ https://preview.redd.it/b6rnd3ynxut61.png?width=2130&format=png&auto=webp&s=ada6
 * **This rule is to be implemented on 4/22/21. This means lenders have until this date to secure additional capital or else risk being margin called and liquidated**, triggering a chain reaction that could lead to wide-spread institutional collapse.
 * If shorts do not have the capital to cover their positions, they must either raise capital or close out of some of these positions, but they can’t close out of these positions without the security prices spiraling out of their control. Game over.
 * Wow... the SEC is actually cracking down on these guys? Yes that’s thanks to **Gary Gensler, recently appointed chairman of the SEC. About him: “Progressives expect him to look into digital currencies, the GameStop trading mania and how corporate America prioritizes environmental, social and governance issues.”**
-   * [**https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html**](https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html)
+   * ![**https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html**](https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html)
 
 # What’s going to happen to our economy? What about my life savings and 401k?
 

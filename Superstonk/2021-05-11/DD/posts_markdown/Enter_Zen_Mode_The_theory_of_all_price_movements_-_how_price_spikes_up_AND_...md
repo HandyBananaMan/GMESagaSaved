@@ -146,7 +146,7 @@ https://preview.redd.it/dbbct5b2bfy61.png?width=1349&format=png&auto=webp&s=c1b4
 
 # 3. Hello old shorts - Why SI% might skyrocket
 
-I'll leave you with this thought. I'll call back to the [SI Report Dates](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest). In there, you'll find three columns:
+I'll leave you with this thought. I'll call back to the ![SI Report Dates](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest). In there, you'll find three columns:
 
 * **Settlement Date**: The date at which short interest positions must be determined.
 * **Due Date**: The date at which the report of the SI from the settlement date is due by.

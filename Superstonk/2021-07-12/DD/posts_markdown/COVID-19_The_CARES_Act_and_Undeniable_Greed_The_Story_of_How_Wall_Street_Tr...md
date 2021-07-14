@@ -110,4 +110,4 @@ I’m unsure how to conclude this post aside from: Buy/HODL. The day is coming.
 
 Tanks fo’ reedin’.
 
-Edit: Thanks to u/Evorus_Krayde for getting me to u/Doggoonewild post: [Citadel Alum Charged with $2.4M PPP Loan Scam](https://www.reddit.com/r/Superstonk/comments/mw3jd3/citadel_alum_charged_with_24m_ppp_loan_scam/?utm_medium=android_app&utm_source=share)
+Edit: Thanks to u/Evorus_Krayde for getting me to u/Doggoonewild post: ![Citadel Alum Charged with $2.4M PPP Loan Scam](https://www.reddit.com/r/Superstonk/comments/mw3jd3/citadel_alum_charged_with_24m_ppp_loan_scam/?utm_medium=android_app&utm_source=share)

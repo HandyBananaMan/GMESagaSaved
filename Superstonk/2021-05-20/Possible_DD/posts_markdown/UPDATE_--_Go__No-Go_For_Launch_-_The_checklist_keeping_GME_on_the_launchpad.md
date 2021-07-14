@@ -403,4 +403,4 @@ Edit 2021-06-21:
 SR-DTC-005 approved and in effect, SR-NSCC-2021-002 / 801 approved. SR-DTC-2021-009 added. Updated expected timeline for SR-NSCC-2021-005
 
 Edit 2021-06-23:  
-SR-DTC-2021-009 updated with additional info. Added move to Russell 1000 as possible cover story (thanks [u/godkyle11](https://reddit.com/user/godkyle11/) for the prompt). Updated section 3 to better illustrate corporate events now in the past.
+SR-DTC-2021-009 updated with additional info. Added move to Russell 1000 as possible cover story (thanks ![u/godkyle11](https://reddit.com/user/godkyle11/) for the prompt). Updated section 3 to better illustrate corporate events now in the past.

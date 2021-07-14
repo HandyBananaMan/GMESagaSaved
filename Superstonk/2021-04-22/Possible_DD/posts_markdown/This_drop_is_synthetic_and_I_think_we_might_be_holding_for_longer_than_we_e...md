@@ -30,6 +30,6 @@ Some more info on odd lots:
 
 [https://www.investopedia.com/odd-lot-trading-on-the-rise-4774753](https://www.investopedia.com/odd-lot-trading-on-the-rise-4774753)
 
-[https://www.wsj.com/articles/SB119501231584492459](https://www.wsj.com/articles/SB119501231584492459)
+![https://www.wsj.com/articles/SB119501231584492459](https://www.wsj.com/articles/SB119501231584492459)
 
 I am a bit too smooth brained to figure out exactly what they might be doing here.

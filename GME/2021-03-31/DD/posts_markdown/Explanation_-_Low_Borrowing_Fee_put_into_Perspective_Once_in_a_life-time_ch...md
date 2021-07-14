@@ -157,7 +157,7 @@ And it´s more than likely **Financial Authorities.** Regulators, who usually jo
 
 And  I don´t mean Secretary of the Treasury Janet Yellen, she is still a  crook. She would poledance for Kenny, if her age would still allow it.
 
-[https://www.reddit.com/r/GME/comments/lutpdt/financial\_authorities\_and\_gme\_01032021/](https://www.reddit.com/r/GME/comments/lutpdt/financial_authorities_and_gme_01032021/)
+![https://www.reddit.com/r/GME/comments/lutpdt/financial\_authorities\_and\_gme\_01032021/](https://www.reddit.com/r/GME/comments/lutpdt/financial_authorities_and_gme_01032021/)
 
 It  is politicians, who cannot allow themselves to end their career just  yet, since the proportions of this case ended up so big, that America  would suffer serious international repercussion and a loss of their  market integrity, if investors were openly stolen from.
 

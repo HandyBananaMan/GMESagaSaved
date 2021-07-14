@@ -65,7 +65,7 @@ and
 
 Members of this community can make sense of their tweets, but unless/until there is a trigger for high-volume buying (pick any of the popular catalysts), I think this run-up will get stretched out. That's cool though, because it just means a more explosive squeeze if/when it occurs.
 
-I recommend reading [this post](https://www.reddit.com/r/GME/comments/lxyjdh/tomorrow_gme_is_mooning_the_ttm_squeeze_explained/) and [its follow-up](https://www.reddit.com/r/GME/comments/lyh8cm/gme_squeeze_indicator_update/) by u/possibly6 if you haven't already. My statistics are reaching their limit (because the cut-off to the previous run-up was on January 28), but the technical aspects continue to stand. I'm still learning MACD, but u/Bootheskies attests that the indicator is still on track in imitating January's pattern.
+I recommend reading [this post](https://www.reddit.com/r/GME/comments/lxyjdh/tomorrow_gme_is_mooning_the_ttm_squeeze_explained/) and ![its follow-up](https://www.reddit.com/r/GME/comments/lyh8cm/gme_squeeze_indicator_update/) by u/possibly6 if you haven't already. My statistics are reaching their limit (because the cut-off to the previous run-up was on January 28), but the technical aspects continue to stand. I'm still learning MACD, but u/Bootheskies attests that the indicator is still on track in imitating January's pattern.
 
 **TLDR** (for u/MrPinkFloyd)
 

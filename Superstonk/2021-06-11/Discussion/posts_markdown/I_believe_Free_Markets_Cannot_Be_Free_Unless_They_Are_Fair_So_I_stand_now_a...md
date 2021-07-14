@@ -93,7 +93,7 @@ I believe the Power of Ideas is ultimate. *Ideas have the ability to persist lon
 
  I am grateful for each of every one of you all:  [\~3,000, that's how many  "🦍Vote✅"  flairs I handed out before automod kicked in, and I loved giving each and every one of them.](https://www.reddit.com/r/Superstonk/comments/namdo9/voted_want_a_voted_flair_automod_will_hook_you_up/) **And, whether you knew it or not you were there for me when I needed you most, and I will continue to be here for you, too. 🤜🤛**
 
-[Be Kind to One Another.](https://preview.redd.it/c5h53m00ah471.png?width=974&format=png&auto=webp&s=402f4e3ddb2c31d8b04096bd9b1a82b2757ee179)
+![Be Kind to One Another.](https://preview.redd.it/c5h53m00ah471.png?width=974&format=png&auto=webp&s=402f4e3ddb2c31d8b04096bd9b1a82b2757ee179)
 
 And to everyone who just likes the stock, who read this all and bottom line just wants to know whether any of this is relevant at all to you or GME or helps you in any way? *Soon: Yes.* 
 

@@ -88,6 +88,6 @@ All the separate trades:
 
 [APR16 19c x 960](https://preview.redd.it/29z54t7qhmq61.png?width=642&format=png&auto=webp&s=6a06d6abd128744b81d63e9b6d5075b12f2f4cab)
 
-[APR16 20c x920](https://preview.redd.it/zqlt9heqzlq61.png?width=641&format=png&auto=webp&s=2f4ce8b9985eff84bab862d9679bfcd4647f49be)
+![APR16 20c x920](https://preview.redd.it/zqlt9heqzlq61.png?width=641&format=png&auto=webp&s=2f4ce8b9985eff84bab862d9679bfcd4647f49be)
 
 There were also: 20 at 0.5c, 20 at 1c, 40 at 9c, 20 at 11c. Giving another 100 contracts.

@@ -16,4 +16,4 @@ All we heard for 15 minutes was u/luridess's opinion, which was completely misgu
 
 Frankly, it was embarrassing. The community works so hard to build solid DD's, check each others work, and this is the example we're given by moderators ?
 
-EDIT 2 - Does this even need words... [https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab\_channel=Superstonk](https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab_channel=Superstonk)
+EDIT 2 - Does this even need words... ![https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab\_channel=Superstonk](https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab_channel=Superstonk)

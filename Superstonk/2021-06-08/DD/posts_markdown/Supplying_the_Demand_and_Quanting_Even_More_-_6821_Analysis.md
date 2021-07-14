@@ -58,7 +58,7 @@ I have highlighted today's close in the larger yellow triangle. It appears now t
 
 &#x200B;
 
-Final note, I made an OPINION post speculating on how we may be on the verge of not just a GME infinity squeeze, but also an infinity squeeze of the GME digital currency that may or may not be announced tomorrow. The post didn't get much visibility originally, so sharing here for all those interested - [https://www.reddit.com/r/Superstonk/comments/nv6dwy/rc\_can\_give\_dfv\_two\_infinity\_squeezes\_for\_his/](https://www.reddit.com/r/Superstonk/comments/nv6dwy/rc_can_give_dfv_two_infinity_squeezes_for_his/)
+Final note, I made an OPINION post speculating on how we may be on the verge of not just a GME infinity squeeze, but also an infinity squeeze of the GME digital currency that may or may not be announced tomorrow. The post didn't get much visibility originally, so sharing here for all those interested - ![https://www.reddit.com/r/Superstonk/comments/nv6dwy/rc\_can\_give\_dfv\_two\_infinity\_squeezes\_for\_his/](https://www.reddit.com/r/Superstonk/comments/nv6dwy/rc_can_give_dfv_two_infinity_squeezes_for_his/)
 
 &#x200B;
 

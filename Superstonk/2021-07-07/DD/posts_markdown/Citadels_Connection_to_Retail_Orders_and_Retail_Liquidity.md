@@ -128,6 +128,6 @@ HOW THE FUCK WAS THIS ALLOWED TO HAPPEN?
 
 HOW IS IT BEING ALLOWED TO CONTINUE?
 
-[I mean...](https://imgur.com/xdv3qf4)
+![I mean...](https://imgur.com/xdv3qf4)
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀

@@ -32,7 +32,7 @@ Ok, that makes sense. We wouldn't want to cause artificial price drops just beca
 
 WTF? So what is the current average size for a Dark Pool block order?
 
-According to smartasset : [**L**](https://smartasset.com/investing/dark-pool#:~:text=The%20average%20size%20of%20a,in%20advance%20of%20market%20knowledge)**INK REMOVED**
+According to smartasset : ![**L**](https://smartasset.com/investing/dark-pool#:~:text=The%20average%20size%20of%20a,in%20advance%20of%20market%20knowledge)**INK REMOVED**
 
 *"The average size of a dark pool transaction has dropped to little more than 180 to 200 shares per transaction. This is a far cry from the original intent of ATS. Nevertheless, dark pool exchanges are built for institutional investors looking to act in advance of market knowledge."*
 

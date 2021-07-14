@@ -218,7 +218,7 @@ It essentially comes down to this logic in the past year since COVID happened, w
 
 **Counter DD**
 
-The first part of the DD tends to go against the grain of [https://www.reddit.com/r/Superstonk/comments/o9aanm/black\_monday\_events\_are\_mondays\_which\_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/) which is u/Criand’s post about RRP in some areas. To note, i agree on most points about the spikes re EOM dates.
+The first part of the DD tends to go against the grain of ![https://www.reddit.com/r/Superstonk/comments/o9aanm/black\_monday\_events\_are\_mondays\_which\_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/) which is u/Criand’s post about RRP in some areas. To note, i agree on most points about the spikes re EOM dates.
 
 The thing i have the largest disagreeance with is that the Feds ON-RRP operations are something to worry about. As soon as rates go up to a certain level, MMFs will start moving their cash elsewhere and ON-RRP volume will shrink again (and treasury balance for the Fed increases as a result). My prediction is that we’ll enter a similar cycle before 2020 where rate increases become more abundant (we’re seeing hints of this already with recent 5bps increase).
 

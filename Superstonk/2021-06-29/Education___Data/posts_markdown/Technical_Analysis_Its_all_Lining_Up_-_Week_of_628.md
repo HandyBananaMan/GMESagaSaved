@@ -68,7 +68,7 @@ If we hold the **$209** level tomorrow, we have a higher chance of a breakout
 
 &#x200B;
 
-[Beautiful gap at $290 to fill!](https://preview.redd.it/7hfrka7ula871.png?width=1360&format=png&auto=webp&s=55d3a3f2e7894ebe59448348316f31fdb1c3fe60)
+![Beautiful gap at $290 to fill!](https://preview.redd.it/7hfrka7ula871.png?width=1360&format=png&auto=webp&s=55d3a3f2e7894ebe59448348316f31fdb1c3fe60)
 
 # TLDR;
 

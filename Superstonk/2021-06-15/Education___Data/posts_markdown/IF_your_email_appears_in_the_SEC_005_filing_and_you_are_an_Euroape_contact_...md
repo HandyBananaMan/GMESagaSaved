@@ -22,7 +22,7 @@ EDIT: Not sure if the SEC or DTCC are in breach, either way there is a breach an
 
 EDIT2: [specific information for US companies and GDPR ](https://gdpr.eu/compliance-checklist-us-companies/)
 
-EDIT3: [DTCC GDPR Terms from their (the DTCC) website](https://www.dtcc.com/-/media/Files/Downloads/terms/DTCC-GDPR-Amendment.pdf)
+EDIT3: ![DTCC GDPR Terms from their (the DTCC) website](https://www.dtcc.com/-/media/Files/Downloads/terms/DTCC-GDPR-Amendment.pdf)
 
 EDIT4: for people saying an email is not personal data, and saying I don’t know about GDPR, you are wrong.
 

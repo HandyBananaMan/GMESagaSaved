@@ -252,4 +252,4 @@ Bain capital explained by Tony Soprano
 
 This explains what Bain does VERY well 
 
-Thank you to u/[AceoFiSpades](https://www.reddit.com/user/AceoFiSpades/)
+Thank you to u/![AceoFiSpades](https://www.reddit.com/user/AceoFiSpades/)

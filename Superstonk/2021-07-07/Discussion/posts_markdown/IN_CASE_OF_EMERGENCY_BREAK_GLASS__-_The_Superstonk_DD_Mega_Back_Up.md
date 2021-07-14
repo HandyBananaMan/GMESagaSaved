@@ -8,7 +8,7 @@ Hope everyone is staying hydrated.
 
 I wanted to share an archived version of some of the most popular DD on this sub, available offline in case any fuckery happens during the MOASS when Reddit decides to disconnect our banana phones. Here is the link to the PDF version of the archive with clickable links and easy to use navigation:
 
-[Superstonk DD Mega Back Up](https://pdfhost.io/v/iIJ7hlGof_Superstonk_DD_Mega_Back_Uppdf.pdf)
+![Superstonk DD Mega Back Up](https://pdfhost.io/v/iIJ7hlGof_Superstonk_DD_Mega_Back_Uppdf.pdf)
 
 This pdf is located on pdfhost.io
 

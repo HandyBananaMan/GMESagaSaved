@@ -129,7 +129,7 @@ https://reddit.com/link/oakqvt/video/hh2kj98vka871/player
 
 &#x200B;
 
-[Taken during the 2011 Ocupy Wallstreet March \(At National i](https://preview.redd.it/4xpmi7xxka871.jpg?width=1908&format=pjpg&auto=webp&s=1b1e4adfcd66be4d4003cbee35d6d0796c96badf)
+![Taken during the 2011 Ocupy Wallstreet March \(At National i](https://preview.redd.it/4xpmi7xxka871.jpg?width=1908&format=pjpg&auto=webp&s=1b1e4adfcd66be4d4003cbee35d6d0796c96badf)
 
 *If there is anything else you think should be in here let me know in the comments. This is just my opinion and not financial advice. I am just an ape who eats crayons for fun. This will probably be my last DD before valhalla (financially speaking), I'll finish by leaving you with this image (above \^). Remember what happened in 2008 and don't show any mercy. HOLD.*
 

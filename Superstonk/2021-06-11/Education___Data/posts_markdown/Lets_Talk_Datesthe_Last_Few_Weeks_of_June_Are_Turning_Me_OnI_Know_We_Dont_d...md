@@ -212,7 +212,7 @@ Also. Don’t forget. Fed Repo rate breaking records daily. Elliot Wave guy says
 
 Your homework this weekend: hydrate. Play. Leave the basement and get some sun on your skin. For fucks sake, watch The Big Short if you haven’t already. It’s free in the US on Hoopla with a library card if you’re temporarily broke AF (because you’re about to be rich). If someone will willingly and enthusiastically consent to shagging you then do that too. 
 
-Film Noir Ape u/Best_Account also recommends you watch [The Inside Job (YT)](https://youtu.be/T2IaJwkqgPk)  and [Princes of the Yen (YT)](https://youtu.be/5-IZZxyb1GI) to the weekend watch list.
+Film Noir Ape u/Best_Account also recommends you watch [The Inside Job (YT)](https://youtu.be/T2IaJwkqgPk)  and ![Princes of the Yen (YT)](https://youtu.be/5-IZZxyb1GI) to the weekend watch list.
 
 I also recommend Margin Call and Billions. And The Big Short book is even crazier than the movie. 
 

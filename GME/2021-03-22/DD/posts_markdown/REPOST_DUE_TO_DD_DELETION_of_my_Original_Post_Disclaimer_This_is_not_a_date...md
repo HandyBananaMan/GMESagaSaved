@@ -56,4 +56,4 @@ FYI I have a support line at $188 or so, stay calm 💎💎🍗🍗🚀🚀
 
 These lines made me fixated on the artificial volume My Support Lines here are based on where I think Artificial Volume caused the price to drop down from $508 to $160 or so, check the date on the post and look at the 10 day chart:
 
-[https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you\_guys\_these\_supportresistance\_lines\_based\_on/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you_guys_these_supportresistance_lines_based_on/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you\_guys\_these\_supportresistance\_lines\_based\_on/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you_guys_these_supportresistance_lines_based_on/?utm_source=share&utm_medium=web2x&context=3)

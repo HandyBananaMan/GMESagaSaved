@@ -57,6 +57,6 @@ I will not commit to a date! Dates are no good! Rather refer to conditions met. 
 
 When triggered, the actual flight of the rocket will take a while. It could become bumpy if there are enough paper hands but I hope that by now diamond hands have become enough of a popular meme to prevent that. Without, our adversaries won't have anything to stop or even slow it down. That means: HODL even if the takeoff rips your jimmies off! If at all, only sell after the peak. Imagine paper handing at $1,000 only to watch the rest of us blasting past the moon and selling after the peak at $20,000,000. Expect ridicule.
 
-So that's all I have. Thanks for staying with me. There is no TL/DR because I can't be bothered if you can't be bothered. Please drop a like, subscribe and comment below, also buy me a beer and [SHOW ME THE MONEY](https://i.giphy.com/media/3oEdv22bKDUluFKkxi/giphy.webp)!
+So that's all I have. Thanks for staying with me. There is no TL/DR because I can't be bothered if you can't be bothered. Please drop a like, subscribe and comment below, also buy me a beer and ![SHOW ME THE MONEY](https://i.giphy.com/media/3oEdv22bKDUluFKkxi/giphy.webp)!
 
 Edit: lotsa drunk ass typos

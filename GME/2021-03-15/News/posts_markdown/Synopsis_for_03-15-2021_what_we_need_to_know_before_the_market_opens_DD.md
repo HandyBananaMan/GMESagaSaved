@@ -243,7 +243,7 @@ Edit 2:
 
 It seems citadel is in need of money :'( poor bastards hahaha
 
-[https://www.reddit.com/r/GME/comments/m5hfjy/citadel\_needs\_money\_check\_this\_out\_even\_more\_moon/gr09i6y/?context=3](https://www.reddit.com/r/GME/comments/m5hfjy/citadel_needs_money_check_this_out_even_more_moon/gr09i6y/?context=3)
+![https://www.reddit.com/r/GME/comments/m5hfjy/citadel\_needs\_money\_check\_this\_out\_even\_more\_moon/gr09i6y/?context=3](https://www.reddit.com/r/GME/comments/m5hfjy/citadel_needs_money_check_this_out_even_more_moon/gr09i6y/?context=3)
 
 They're giving out bonds, this is done to raise capital normally
 

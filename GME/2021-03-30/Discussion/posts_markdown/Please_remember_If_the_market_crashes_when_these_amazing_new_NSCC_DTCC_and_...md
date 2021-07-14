@@ -8,7 +8,7 @@ The problem being: SEC allowing naked short-selling bankrupting companies so ext
 
 No more stupid grand-fathering in the naked short-selling crimes committed like they did circa 2008.
 
-[This is the link to DD](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/?utm_source=share&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_name=iossmf).
+![This is the link to DD](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/?utm_source=share&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_name=iossmf).
 
 Bottom-line: HODL until your happy-place price is met!
 

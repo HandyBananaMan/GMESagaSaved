@@ -22,7 +22,7 @@ But, and I know this is what you're really here for, here's a picture of The Rac
 
 &#x200B;
 
-[Little bit of column A, little bit of column B.](https://preview.redd.it/fwi291ajrwy61.jpg?width=3120&format=pjpg&auto=webp&s=a03b9bb307195edc7634c0b814c0574b34d0c13d)
+![Little bit of column A, little bit of column B.](https://preview.redd.it/fwi291ajrwy61.jpg?width=3120&format=pjpg&auto=webp&s=a03b9bb307195edc7634c0b814c0574b34d0c13d)
 
 So, since you very discerning apes were able to make out the blurry images next to The Hedgeclipper in his tweet (some of you have been mixing carrots into your banana smoothies!), you'll no doubt see that there are some titles that are the same (Children of Morta, Crackdown, etc.), some that are new (Spyro, some pre-used games), and some that are conspicuously missing (Crash, Valhalla, The Surge).
 

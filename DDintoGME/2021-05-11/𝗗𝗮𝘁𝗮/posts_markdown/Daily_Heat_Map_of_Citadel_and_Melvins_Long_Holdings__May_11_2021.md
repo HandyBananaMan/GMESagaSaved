@@ -35,4 +35,4 @@ To the moon! 🚀🚀🚀
 
 Edit: As u/bbbooneville suggested, it might be of particular interest to also look at just the largest long positions of Melvin, as they are the most lightly capitalized of the known shorts ($2.75B infusion from KG/Steve Cohen), so their liquidation is likely to be first. I just pulled a list of their top long holdings and then removed Visa, MasterCard, and Facebook, as their massive market caps mean any Melvin move wouldn't shift the price much. Enjoy!
 
-[It's kinda red out there today, almost a Brick Red kind of shade...mmm...](https://preview.redd.it/77167y90tky61.png?width=1501&format=png&auto=webp&s=c1f751650be769bfaba90f31ad29fcb11eb94dac)
+![It's kinda red out there today, almost a Brick Red kind of shade...mmm...](https://preview.redd.it/77167y90tky61.png?width=1501&format=png&auto=webp&s=c1f751650be769bfaba90f31ad29fcb11eb94dac)

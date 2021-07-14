@@ -113,4 +113,4 @@ She has a letter of 2008 supporting our Queenkong Susanne Trimbath.
 
 https://preview.redd.it/oisayeqmqvw61.png?width=314&format=png&auto=webp&s=e3fbb2e46f302e7bd607d4942389df3b94622520
 
-[LETTER](https://www.sec.gov/comments/sr-ficc-2007-04/ficc200704-2.pdf)
+![LETTER](https://www.sec.gov/comments/sr-ficc-2007-04/ficc200704-2.pdf)

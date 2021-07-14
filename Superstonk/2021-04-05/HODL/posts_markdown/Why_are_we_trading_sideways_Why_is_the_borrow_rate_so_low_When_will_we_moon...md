@@ -236,4 +236,4 @@ The interesting questions are 1) what are the securities which are ***not*** "on
 
 [Follow along as we recap and dive one layer deeper into SR-OCC-2021-004](https://www.reddit.com/r/Superstonk/comments/mnpzu5/srocc2021004_why_this_proposed_rule_change_is/) and decipher [one of DFV's cryptic, recent tweets](https://twitter.com/TheRoaringKitty/status/1380196363774918657).
 
-The recent post by u/yosaso also examines the dynamics of the sides that are seemingly at play here: [There is a WAR to control the DTCC and GME is the BATTLEGROUND](https://www.reddit.com/r/Superstonk/comments/mouj57/there_is_a_war_to_control_the_dtcc_and_gme_is_the/); really good research into the players and motivations of the players involved.
+The recent post by u/yosaso also examines the dynamics of the sides that are seemingly at play here: ![There is a WAR to control the DTCC and GME is the BATTLEGROUND](https://www.reddit.com/r/Superstonk/comments/mouj57/there_is_a_war_to_control_the_dtcc_and_gme_is_the/); really good research into the players and motivations of the players involved.

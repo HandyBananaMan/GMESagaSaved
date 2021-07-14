@@ -8,4 +8,4 @@ We aim to vote at 100% of meetings where our clients have given us authority to 
 
   
 
-[https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-faq-global.pdf](https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-faq-global.pdf)
+![https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-faq-global.pdf](https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-faq-global.pdf)

@@ -9,7 +9,7 @@ Ryan Cohen and RC Ventures entered into a Standstill Agreement on January 10, 20
 Specifically, he is not allowed to influence voting or board votes and another long list of activities until about March 1, 2022. 
 
 
-[https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm](https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm)
+![https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm](https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm)
 
 So for everyone wondering why things are quiet, this is why. 
 

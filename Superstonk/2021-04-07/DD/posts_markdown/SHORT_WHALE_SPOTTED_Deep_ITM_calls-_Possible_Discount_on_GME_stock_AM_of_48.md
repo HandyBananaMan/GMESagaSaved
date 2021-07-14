@@ -54,7 +54,7 @@ We had some EXCELLENT NEWS TODAY, [Ryan Cohen was named future director of the b
 
 UPDATE 2: Looks like they had more ammo in the bag for a mid-afternoon short attack!!  (It's very common for them to short attack mid-afternoon, before power hour.)  I, for one, was very happy to do my part to HODL THE LINE-
 
-[Dream come true](https://preview.redd.it/tkn7je0wszr61.png?width=542&format=png&auto=webp&s=21fe4c1ff24efbe91f3496d16d662d5016e35fa3)
+![Dream come true](https://preview.redd.it/tkn7je0wszr61.png?width=542&format=png&auto=webp&s=21fe4c1ff24efbe91f3496d16d662d5016e35fa3)
 
 Line still needs holding- apes!  Stock is still on sale!  Long whales usually wake up from their naps for power hour, so the sale might end then- I don't know this for sure, but they've been pretty predictable in the past.
 

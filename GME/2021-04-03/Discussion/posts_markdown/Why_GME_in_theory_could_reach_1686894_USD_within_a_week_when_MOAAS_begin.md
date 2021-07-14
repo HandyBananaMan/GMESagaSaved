@@ -54,7 +54,7 @@ It might just look like some funny letter numbers but it lead lead me to this pi
 
 &#x200B;
 
-[X= Halts 25 halts = 1 tradeing day       Y = Value of the stock](https://preview.redd.it/yd6qnt5fy0r61.png?width=1048&format=png&auto=webp&s=2b66adf0a60e3aa734433f283ca73fa8cdc02a4a)
+![X= Halts 25 halts = 1 tradeing day       Y = Value of the stock](https://preview.redd.it/yd6qnt5fy0r61.png?width=1048&format=png&auto=webp&s=2b66adf0a60e3aa734433f283ca73fa8cdc02a4a)
 
 If we use Volkswagen as an example as a time frame we can say the squeeze will last 4 to 5 days. We know that GME has a longer duration since it is common knowledge that GME is shorted far more than Volkswagen.
 

@@ -2,6 +2,12 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/)
 
 
+# Debunked: Incorrect Assumptions
+
+The below data analysis has been determined to be not accurate due to GME trend to not follow a single linear line that fits perfectly by date. I tried to apply the exponential floor theory and make it work but was unable to do so.
+
+# Post
+
 I am not a financial advisor. I am merely a fucking autistic number crunching, experiment running engineer. This is my view point.
 
 With all the various technical analysis people chiming in, I figured I would provide my thoughts from an engineering statistics view. Engineering stats is different from financial stats because we are more focused on the data as a whole and only concerned with outliers when there are a shit ton of outliers. This is an over generalization but I’m giving a quick explanation on how this approach is different from the rest. I also only used log ape’s data since the EW, sideways trading, and gamma apes use a financial analysis technique that is too financial analysis-y and not pure mathemagically.
@@ -101,10 +107,12 @@ Edit 6: Updated crayon bell curve for better visual explanation.
 
 Edit 7:  u/WhatCanIMakeToday suggested I replace guy with ape. I took his advice.
 
-Edit 8: I figured I would make a [tweet](https://twitter.com/pwnwtfbbq/status/1403717359899090946) about this to share.
+Edit 8: I figured I would make a ![tweet](https://twitter.com/pwnwtfbbq/status/1403717359899090946) about this to share.
 
 Edit 9: Edited event graph to add all dates.
 
 Edit 10: Added more events within the dates. If you look at the trend and remove the "outliers," you would see the more "natural" lowest share price. It would appear that these specific dates had a greater bias than the others.
 
 Edit 11: Exponential ape derived his equation looking at a definitive value. So, while it would appear that causing a shift would deviate from the original intent, it also doesn't since I'm looking at different types of data. The curve he presented fits the overall trend VERY well and we are viewing the data in different ways. He is looking at a constant value while I am looking into rates of change due to biases. In other words, he can give you a value, and I can give you the most influential reasons why it may change.
+
+Edit 12: debunk explanation

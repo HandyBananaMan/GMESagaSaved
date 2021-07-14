@@ -109,4 +109,4 @@ I have a feeling I might end up writing an actual academic paper on this shit.
 
 [https://arxiv.org/pdf/2004.02551.pdf](https://arxiv.org/pdf/2004.02551.pdf)
 
-behind a paywall [https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa\_token=DfG\_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O\_4w](https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa_token=DfG_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O_4w)
+behind a paywall ![https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa\_token=DfG\_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O\_4w](https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa_token=DfG_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O_4w)

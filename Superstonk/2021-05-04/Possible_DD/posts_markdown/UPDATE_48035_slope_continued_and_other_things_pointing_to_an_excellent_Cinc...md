@@ -16,7 +16,7 @@ On top of this, y'all know what else is going on right now!?
 
 * The DDs talking about the T+13 cycle for options that have led to big run-ups on February 24th and March 10th. Guess when T+13 is for the April 16th options?  **Cinco de Buyo**
 
-[https://www.reddit.com/r/Superstonk/comments/n4h832/major\_deep\_itm\_call\_option\_dates\_a\_massive\_net/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/n4h832/major\_deep\_itm\_call\_option\_dates\_a\_massive\_net/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/?utm_source=share&utm_medium=web2x&context=3)
 
 * Ever since SR-NSCC-2021-801 came out, it has appeared that MOASS would not happen until it could be implemented. Well, it was approved without objection **today** and now they just need 002 in place to cover dey bitch asses, which will happen by the time the MOASS appears to start.
 

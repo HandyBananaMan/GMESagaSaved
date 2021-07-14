@@ -28,7 +28,7 @@ Lastly lets look vix
 
 &#x200B;
 
-[This is the 4 hour vix. Remember what I said about volatile times coming up? look at that gap up lmayo.  I'd imagine the market gets more volatile going forward. the exciting thing is that it looks like some major action for 7\/14.](https://preview.redd.it/1lu9qppt60a71.png?width=761&format=png&auto=webp&s=ebb92a8763e48878fdaa5ec90e5bccfa7c5d77a9)
+![This is the 4 hour vix. Remember what I said about volatile times coming up? look at that gap up lmayo.  I'd imagine the market gets more volatile going forward. the exciting thing is that it looks like some major action for 7\/14.](https://preview.redd.it/1lu9qppt60a71.png?width=761&format=png&auto=webp&s=ebb92a8763e48878fdaa5ec90e5bccfa7c5d77a9)
 
 &#x200B;
 

@@ -148,7 +148,7 @@ Not financial advice.
 
 **Edit #2:** It’s VERY important to reiterate that we can never be sure who is on the side of the moon mission. Some apes are skeptical of Bank of America, so I heavily encourage you to comb through [this DD, specifically Point #5 and #6.](https://www.reddit.com/r/Superstonk/comments/mouj57/there_is_a_war_to_control_the_dtcc_and_gme_is_the/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3) 
 
-Please do your own research and come to your own conclusions. These are financials conglomerates with tentacles dipped into **everything**. Reading [this post](https://www.reddit.com/r/Superstonk/comments/mqwyg3/financial_mafias_and_equity_swaps_and_how_one/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3) can give you an idea of how far their leveraging and loans go. 
+Please do your own research and come to your own conclusions. These are financials conglomerates with tentacles dipped into **everything**. Reading ![this post](https://www.reddit.com/r/Superstonk/comments/mqwyg3/financial_mafias_and_equity_swaps_and_how_one/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3) can give you an idea of how far their leveraging and loans go. 
 
 *Remember: Susquehanna is heavily shorted on $GME, yet they have a massive long position. There could be whales with a vested interest in GME mooning while at the same time owning puts.*
 ——————————————————————

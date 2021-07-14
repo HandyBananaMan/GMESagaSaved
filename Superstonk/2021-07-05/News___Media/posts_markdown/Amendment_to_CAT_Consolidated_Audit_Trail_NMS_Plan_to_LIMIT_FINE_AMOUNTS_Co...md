@@ -36,7 +36,7 @@ So, let's just say, a company is found to have fraudulently (naked shorted) shor
 
 The comment period for this amendment is open until 9/3/2021. If you have any thoughts on the amendment and would like to voice your concerns to the SEC, let me help you:
 
-1. Go here: [https://www.sec.gov/rules/sro/nms.htm#4-698](https://www.sec.gov/rules/sro/nms.htm#4-698)
+1. Go here: ![https://www.sec.gov/rules/sro/nms.htm#4-698](https://www.sec.gov/rules/sro/nms.htm#4-698)
 2. Submit Comments on amendment with this button:
 
 &#x200B;

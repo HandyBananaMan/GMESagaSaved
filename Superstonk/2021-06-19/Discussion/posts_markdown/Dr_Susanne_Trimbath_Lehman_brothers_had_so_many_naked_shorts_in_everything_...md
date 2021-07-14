@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/](https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/)
 
 
-[YouTube link](https://youtu.be/ITeiFwJlGGI)
+![YouTube link](https://youtu.be/ITeiFwJlGGI)
 
 TDLR: The problem was never naked short selling but rather failure to deliver because they can naked short all they want but they will need to settle within two business days. Since they can just keep screwing with the ftd, they can short as much as they want because they aren’t forced to deliver the shares. 
 

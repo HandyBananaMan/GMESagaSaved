@@ -78,7 +78,7 @@ Also this - coincidence?:
 
 &#x200B;
 
-[Wut doing, Kenny? Part Deux.](https://preview.redd.it/ui9xmz8p6n671.jpg?width=1472&format=pjpg&auto=webp&s=6b3b6690370447e2518ccd0693bd7528b03ade88)
+![Wut doing, Kenny? Part Deux.](https://preview.redd.it/ui9xmz8p6n671.jpg?width=1472&format=pjpg&auto=webp&s=6b3b6690370447e2518ccd0693bd7528b03ade88)
 
 **Edit 4:** Wow - thanks for all the awards and kind words - seriously!
 

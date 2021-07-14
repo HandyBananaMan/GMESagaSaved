@@ -14,6 +14,6 @@ If you have a lot to say, please make a post instead. **No self-promotion please
 
 Created with ♥️ by the r/GME mod team.
 
-💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/mqly1s/daily_discussion_thread_faq_important/?utm_medium=android_app&utm_source=share) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 [**GOD TIER DD (DUE DILIGENCE)**](https://www.reddit.com/r/GME/comments/lj1wqv/a_comprehensive_compilation_of_all_due_diligence/) 💎 
+💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/mqly1s/daily_discussion_thread_faq_important/?utm_medium=android_app&utm_source=share) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 ![**GOD TIER DD (DUE DILIGENCE)**](https://www.reddit.com/r/GME/comments/lj1wqv/a_comprehensive_compilation_of_all_due_diligence/) 💎 
 
 r/GME *Megathreads are posted daily at 2:00 a.m. EDT*

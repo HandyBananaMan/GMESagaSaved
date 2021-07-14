@@ -26,7 +26,7 @@ As the worthless March puts expired worthless in mid-March, you see a huge spike
 
 As July expiration comes up, we see 148k (@ the $0.50 strike) and 30k (@ the $1.00 strike) options expiring which is a solid 178k deep OTM puts almost certainly being used to hide about 17.8M shares just at those bottom two strikes.  As of March 19, the deltas for all July option strikes below $13 have been 0 which means upwards of 273k worthless puts (probably hiding over 27M shares) are coming due.  (As of March 19th, delta is under 0.01 up to around the $26 strike so many people would probably consider those to also be worthless.  Why open worthless options positions?)
 
-[ToS showing deltas for options as of March 19th](https://preview.redd.it/yl58wsuk6n971.png?width=5000&format=png&auto=webp&s=53537adfaf50a915e3f1022c0c7fa083d8cbbf8e)
+![ToS showing deltas for options as of March 19th](https://preview.redd.it/yl58wsuk6n971.png?width=5000&format=png&auto=webp&s=53537adfaf50a915e3f1022c0c7fa083d8cbbf8e)
 
 With this analytical approach, we can see which future expirations those cans get kicked to. *And*, we can estimate the number of cans by summing up the new OI for options with delta < 0.01.  
 

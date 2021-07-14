@@ -199,7 +199,7 @@ Like Hype Videos? I know I do. That's why I spent hours scrolling through r/Supe
 
 and finally, an homage to my bartending roots:
 
-[Diamond Hands Cocktail](https://www.reddit.com/r/wallstreetbets/comments/mi5at0/diamond_hands_cocktail/) (1:13)
+![Diamond Hands Cocktail](https://www.reddit.com/r/wallstreetbets/comments/mi5at0/diamond_hands_cocktail/) (1:13)
 
 &#x200B;
 

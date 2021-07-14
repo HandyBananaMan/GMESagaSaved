@@ -66,4 +66,4 @@ Have a great weekend, see you on market open, cheers !  🚀🚀🚀
 
 &#x200B;
 
-Sources: [see my last post](https://www.reddit.com/r/Superstonk/comments/mxrdcb/updated_dd_i_did_the_math_there_is_literally_no/)
+Sources: ![see my last post](https://www.reddit.com/r/Superstonk/comments/mxrdcb/updated_dd_i_did_the_math_there_is_literally_no/)

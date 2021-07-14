@@ -44,7 +44,7 @@ IT WAS EASY FOR ME TO HOLD ON TO MY LOSERS THAN TO MY WINNERS.
 
 For this I would like to share a video that I think everyone needs to watch:
 
-[https://www.youtube.com/watch?v=LO9Jpv-OXmc&t=1388s](https://www.youtube.com/watch?v=LO9Jpv-OXmc&t=1388s)
+![https://www.youtube.com/watch?v=LO9Jpv-OXmc&t=1388s](https://www.youtube.com/watch?v=LO9Jpv-OXmc&t=1388s)
 
 When things are going bad, HOPE kicks in and we are like strongholds, but as soon as we start seeing 1000$ 100000$ 200000$ and 1000000000$ numbers, the stress will build up.
 

@@ -20,7 +20,7 @@ I bought in because I liked the stock. I hold because I like it even more now. T
 
 None of this is financial advice. Only an idiot would misconstrue it as such. Now I'll go rewatch that video of the guy eating a crayon.
 
-[Me, a dumb ape.](https://preview.redd.it/i952e9jpudt61.jpg?width=666&format=pjpg&auto=webp&s=4bcf95d33d39a45e4785d3fb00b4e4e5fd1f7f03)
+![Me, a dumb ape.](https://preview.redd.it/i952e9jpudt61.jpg?width=666&format=pjpg&auto=webp&s=4bcf95d33d39a45e4785d3fb00b4e4e5fd1f7f03)
 
 **tl;dr** \- If there's proof of a journalist or group of journalists writing with intent to lower the price, does that fall under market manipulation? Is a journalist eligible for an SEC reward if they show that they were told to write in a way that negatively impacts GME?
 

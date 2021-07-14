@@ -90,7 +90,7 @@ There has been no change in the level of shorting for ETFs (XRT still shorted >1
 * [https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-retail-etf-xrt](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-retail-etf-xrt)
 * [https://www.etfchannel.com/symbol/xrt/](https://www.etfchannel.com/symbol/xrt/)
 * [https://www.etfchannel.com/type/most-shorted-etfs/](https://www.etfchannel.com/type/most-shorted-etfs/)
-* [https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/](https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/)
+* ![https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/](https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/)
 
 &#x200B;
 

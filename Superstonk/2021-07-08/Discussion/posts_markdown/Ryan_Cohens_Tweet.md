@@ -24,7 +24,7 @@ IF THIS DOESN'T JACK YOUR TITS I DONT KNOW WHAT WILL!!!!!!!!!!
 
 &#x200B;
 
-[all the confirmation bias I need](https://preview.redd.it/xfzhjsyts1a71.jpg?width=828&format=pjpg&auto=webp&s=310148497232f4df127de7ebd5231e8d2a3eb854)
+![all the confirmation bias I need](https://preview.redd.it/xfzhjsyts1a71.jpg?width=828&format=pjpg&auto=webp&s=310148497232f4df127de7ebd5231e8d2a3eb854)
 
 The other 2 photos I haven't found any great shakes but if you see something leave it in the comments!!!!!!!
 

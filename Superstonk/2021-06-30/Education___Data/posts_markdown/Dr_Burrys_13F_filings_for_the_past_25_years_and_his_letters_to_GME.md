@@ -146,7 +146,7 @@ all that said, keep in mind that retail owns the float at this point, not invest
 
 wanna know why hes been buying land w water rights since 2008? ...bc thats all that will be left as climate change picks up. it is fucking scorching here in the US. see arizona, PNW, remember the fucking wildfires last year? wanna bet on what July will be like? remindme me.
 
-sure we can just not have gender reveals, but we dont even have the [infrastructure](https://twitter.com/BurryArchive/status/1408230349314957318) to put them out when they happen. what if we could contain quicker than it can duplicate? when the fuck is anyone gonna fix a problem around here?
+sure we can just not have gender reveals, but we dont even have the ![infrastructure](https://twitter.com/BurryArchive/status/1408230349314957318) to put them out when they happen. what if we could contain quicker than it can duplicate? when the fuck is anyone gonna fix a problem around here?
 
 &#x200B;
 

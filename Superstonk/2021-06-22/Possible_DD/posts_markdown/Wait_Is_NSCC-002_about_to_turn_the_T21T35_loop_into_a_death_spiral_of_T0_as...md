@@ -110,6 +110,6 @@ Something else to note is that Biden, Yellen, Gensler, and Powell all met for "C
 
 That's the entire context of the quote. That the financial system is "in strong condition". What are they **actually** doing at this meeting? Something similar to discussing letting X Y and Z fail just like they discussed letting Lehman Bros fail in 2008?
 
-The [Jungle Beat Monday Post](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/) talked about this very briefly and it was something I latched onto immediately. I remembered [the meeting for 2008](https://www.cnbc.com/2018/09/12/bernanke-paulson-and-geithner-say-they-bailed-out-wall-street-to-help-main-street.html) but did not connect the dots to this meeting between Biden, Powell, Yellen, and Gensler possibly being similar in scope.
+The [Jungle Beat Monday Post](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/) talked about this very briefly and it was something I latched onto immediately. I remembered ![the meeting for 2008](https://www.cnbc.com/2018/09/12/bernanke-paulson-and-geithner-say-they-bailed-out-wall-street-to-help-main-street.html) but did not connect the dots to this meeting between Biden, Powell, Yellen, and Gensler possibly being similar in scope.
 
 Wild times we live in. But remember - don't fuckin' dance.

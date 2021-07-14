@@ -52,7 +52,7 @@ ANSWER: **Over 9000.**
 
 &#x200B;
 
-[Hey! That's the letter!](https://preview.redd.it/tocdm8m2g7s61.png?width=664&format=png&auto=webp&s=e44ffcb765b479f1d72d056728d27e6a28aff439)
+![Hey! That's the letter!](https://preview.redd.it/tocdm8m2g7s61.png?width=664&format=png&auto=webp&s=e44ffcb765b479f1d72d056728d27e6a28aff439)
 
 The SEC (so far) has read, and publicly stated that they have counted **9,332 of these letters.**
 

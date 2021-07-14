@@ -344,7 +344,7 @@ These vary slightly from form to form.
 
 # 08: Gary Gensler
 
-[Gary Gensler was sworn in on Apr. 14, 2021](https://www.sec.gov/news/press-release/2021-65), since then 7 items have been filed.
+![Gary Gensler was sworn in on Apr. 14, 2021](https://www.sec.gov/news/press-release/2021-65), since then 7 items have been filed.
 
 # 09: Endnote
 

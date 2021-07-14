@@ -324,4 +324,4 @@ Edit 4:
 
 #  DFV tweeted!
 
-[https://twitter.com/TheRoaringKitty/status/1369307339568873473](https://twitter.com/TheRoaringKitty/status/1369307339568873473)
+![https://twitter.com/TheRoaringKitty/status/1369307339568873473](https://twitter.com/TheRoaringKitty/status/1369307339568873473)

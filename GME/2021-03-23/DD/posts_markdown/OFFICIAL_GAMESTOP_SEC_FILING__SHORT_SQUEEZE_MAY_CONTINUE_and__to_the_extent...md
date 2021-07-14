@@ -4,7 +4,7 @@
 
 in case you missed it apes
 
-Page 15 [https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm](https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm)
+Page 15 ![https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm](https://www.sec.gov/Archives/edgar/data/0001326380/000132638021000032/gme-20210130.htm)
 
 ***A “short squeeze” due to a sudden increase in demand for shares of our Class A Common Stock that largely exceeds supply has led to, and may continue to lead to, extreme price volatility in shares of our Class A Common Stock.***
 

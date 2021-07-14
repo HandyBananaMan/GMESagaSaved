@@ -126,6 +126,6 @@ With how connected Kenny is to the world of finance, I would think him having so
 
 &#x200B;
 
-Q: ([TheDragon-44](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/h3g1j8v/?utm_source=reddit&utm_medium=web2x&context=3))  So June 16th was 14 million options correct? What is t+21 from June 16th? Could that be the new reset?
+Q: (![TheDragon-44](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/h3g1j8v/?utm_source=reddit&utm_medium=web2x&context=3))  So June 16th was 14 million options correct? What is t+21 from June 16th? Could that be the new reset?
 
 A:  That is the purchase of options, those options expire at a different date and not all of them expire on the same date, but many of them expire on July 16th.

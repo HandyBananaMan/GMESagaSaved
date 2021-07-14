@@ -42,4 +42,4 @@ Obligatory F in the comments for Goldman Sachs.
 
 Sources:
 
-1. [2Q21 GS Earnings Release (goldmansachs.com)](https://www.goldmansachs.com/media-relations/press-releases/current/pdfs/2021-q2-results.pdf)
+1. ![2Q21 GS Earnings Release (goldmansachs.com)](https://www.goldmansachs.com/media-relations/press-releases/current/pdfs/2021-q2-results.pdf)

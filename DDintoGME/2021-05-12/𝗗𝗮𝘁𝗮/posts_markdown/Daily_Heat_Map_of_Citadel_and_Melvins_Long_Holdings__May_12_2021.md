@@ -41,7 +41,7 @@ Ref: [Jane Street: the top Wall Street firm ‘no one’s heard of'](https://www
 [Susquehanna 13F](https://stockzoa.com/fund/susquehanna-international/)  
 [Jane Street Group holdings](https://www.insidermonkey.com/institutional-investor/jane+street+group+llc/601711/holdings/)  
 [Virtu Financial holdings](https://www.insidermonkey.com/institutional-investor/virtu+financial+llc/769/holdings/)  
-[Melvin 13G filed today on IAA](https://www.insidermonkey.com/insider-trading/filing-13dg/176152)
+![Melvin 13G filed today on IAA](https://www.insidermonkey.com/insider-trading/filing-13dg/176152)
 
 If you want to see my previous daily heatmaps, or a few DDs that I've written around GME, my profile page is here: u/HODLTheLineMyFriend.
 

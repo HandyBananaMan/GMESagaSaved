@@ -271,7 +271,7 @@ https://i.redd.it/zz5eu179biu61.gif
 * Dark Pool OTC volumes went through the roof and Deep ITM call volumes were used to create naked shares ahead of the end of Jan price spike
 * When prices really started to move from Jan 25th - 29th more than 100 million shares were created with Deep ITM call and married-put naked shorting and used to hammer down price and hide SI%
 * A coordinated blocking of buy orders on key retail brokers and media induced FUD helped the shorts knock down the price and scare off some of the FOMO paper hand gang.
-* [Something happened to the short share borrow fees](https://www.reddit.com/r/Superstonk/comments/mma7eh/analysis_deep_dive_looking_at_historical_si_ftd/) that completely disconnect from normal pricing.
+* ![Something happened to the short share borrow fees](https://www.reddit.com/r/Superstonk/comments/mma7eh/analysis_deep_dive_looking_at_historical_si_ftd/) that completely disconnect from normal pricing.
 * From Feb onwards average trade size on OTC decreased to around 50 shares per trade. That's a 70%+ drop in trade size. Retail orders were funnelled through Dark Pools to control buying pressure and 'short ladder attacks' used to control price.
 * ETFs were used to hide more and more FTDs from the apes. I have data on ETFs but its such a pain to analyse (70+ funds, all different GME allocations, rebalancing over time etc..).
 * DFV doubled down. RC tweeted an ice-cream cone. Deep ITM calls increased. FTDs remerged and on Feb 25th prices started flying again.

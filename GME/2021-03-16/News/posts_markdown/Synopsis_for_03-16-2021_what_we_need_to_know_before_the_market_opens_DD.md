@@ -258,7 +258,7 @@ Also, remember that liquidity collateral is based on positions. If DTCC is expec
 
 Changing topic to the bonds, again, as I have posted this a couple times: I don't think it's a signal that they're bleeding money. Citadel generally does a bond raise every 2 years. General corporate purposes is also a catch-all use of proceeds that pretty much everyone uses. In my \~15 years working on capital raises, it was included in almost every deal that I saw.
 
-Here's a link to how S&P rates long term corporate issues: [https://www.standardandpoors.com/en\_US/web/guest/article/-/view/sourceId/504352](https://www.standardandpoors.com/en_US/web/guest/article/-/view/sourceId/504352)
+Here's a link to how S&P rates long term corporate issues: ![https://www.standardandpoors.com/en\_US/web/guest/article/-/view/sourceId/504352](https://www.standardandpoors.com/en_US/web/guest/article/-/view/sourceId/504352)
 
 BBB- is a better credit score than most of us have. It's not "shit tier" at all. Most issuers are BBB +/- rated. You can read what the scores mean on that chart. I'd also hesitate to call it ultra high yield. The video you linked to actually talks about spreads in the +300-400 bps range, so that's in line. Maybe someone with a bloomberg terminal can pull current credit spreads on corporate senior debt issuances by rating to check, and that would be interesting.
 

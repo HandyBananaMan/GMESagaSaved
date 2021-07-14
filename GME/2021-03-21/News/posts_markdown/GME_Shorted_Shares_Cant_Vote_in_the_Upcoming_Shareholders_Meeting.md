@@ -4,7 +4,7 @@
 
 Here is a link to a story about last year's meeting.
 
-[https://www.wsj.com/articles/how-investing-giants-gave-away-voting-power-ahead-of-a-shareholder-fight-11591793863](https://www.wsj.com/articles/how-investing-giants-gave-away-voting-power-ahead-of-a-shareholder-fight-11591793863)
+![https://www.wsj.com/articles/how-investing-giants-gave-away-voting-power-ahead-of-a-shareholder-fight-11591793863](https://www.wsj.com/articles/how-investing-giants-gave-away-voting-power-ahead-of-a-shareholder-fight-11591793863)
 
 It verifies:
 

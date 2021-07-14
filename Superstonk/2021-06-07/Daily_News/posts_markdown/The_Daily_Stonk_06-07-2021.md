@@ -184,4 +184,4 @@ backups:
 
  
 
-[Majora's short](https://preview.redd.it/9wo5zcvtat371.png?width=1280&format=png&auto=webp&s=d1290856c61b3a952dd8632bdc81344327f67d37)
+![Majora's short](https://preview.redd.it/9wo5zcvtat371.png?width=1280&format=png&auto=webp&s=d1290856c61b3a952dd8632bdc81344327f67d37)

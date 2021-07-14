@@ -28,7 +28,7 @@ But let’s get to the question: ***why do we need posts to be marked as DD in t
 
 &nbsp;
   
-##[Holup](https://i.redd.it/bwyowwbzmqa71.gif) 
+##![Holup](https://i.redd.it/bwyowwbzmqa71.gif) 
 
 1. First, Superstonk DD is effective because of **open accountability**.  Meaning, DD is available for review by all.  I recognize u/atobitt’s name for his foundational work, even though I have a hard time remembering if it’s 2 “b”s or 2 “t”s when I’m trying to type it out.  **His work stands on its own merits, and he includes his sources and references for all to see.**  If he does shitty work, anyone can see it, critique it, and understand why it’s shitty.  Even u/atobitt is subject to criticism.  Nobody rests on their laurels.  **Every DD is publicly accountable to anyone.** 
 

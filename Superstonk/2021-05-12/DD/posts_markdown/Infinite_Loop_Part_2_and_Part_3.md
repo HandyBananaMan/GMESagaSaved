@@ -16,7 +16,7 @@ Here it is guys… most of part 2 and some of part 3!
 
 \*If you have not read Part 1 here it is- [https://www.reddit.com/r/Superstonk/comments/n4j3zo/a\_mind\_map\_to\_help\_follow\_the\_money/](https://www.reddit.com/r/Superstonk/comments/n4j3zo/a_mind_map_to_help_follow_the_money/)
 
-\*\*LINK TO THE MAP\*\* [http://go.bubbl.us/b7f901/25d0?/The-Loop](http://go.bubbl.us/b7f901/25d0?/The-Loop)
+\*\*LINK TO THE MAP\*\* ![http://go.bubbl.us/b7f901/25d0?/The-Loop](http://go.bubbl.us/b7f901/25d0?/The-Loop)
 
 TLDR: Bearish Side is pretty difficult to find! I put in what I could of Citadel, and people really don’t seem to want to do much with them! Housing Bubble is growing… take a look! Other than that.. you know the drill! Reading holds the key to the map! (Starting to feel like Charlie… “Who is Pepe Silvia?”)
 

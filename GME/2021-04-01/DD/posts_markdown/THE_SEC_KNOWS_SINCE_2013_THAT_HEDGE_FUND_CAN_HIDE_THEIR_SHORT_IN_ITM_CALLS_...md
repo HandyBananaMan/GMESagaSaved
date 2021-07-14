@@ -34,7 +34,7 @@ I read the memo, very interesting, but it does not say much about how we/they ca
 
 "This options trading activity poses regulatory and reputational risks for broker-dealers and their correspondent clearing firms. The criteria and techniques listed above could be helpful in protecting a broker-dealer or clearing firm from these risks. If you believe that this activity is occurring with customers at your brokerage or your trading firm, or if you have seen this activity occurring on your exchange, please feel free to contact the Commission Tip line at the address below.
 
-[http://www.sec.gov/complaint/info\_tipscomplaint.shtml](http://www.sec.gov/complaint/info_tipscomplaint.shtml)
+![http://www.sec.gov/complaint/info\_tipscomplaint.shtml](http://www.sec.gov/complaint/info_tipscomplaint.shtml)
 
 &#x200B;
 

@@ -188,7 +188,7 @@ All of them are bullshit, but odd lots... Like the weird order numbers that we s
 
 &#x200B;
 
-[Fuck you, Wall Street](https://i.redd.it/fcvs90uyri671.gif)
+![Fuck you, Wall Street](https://i.redd.it/fcvs90uyri671.gif)
 
 &#x200B;
 

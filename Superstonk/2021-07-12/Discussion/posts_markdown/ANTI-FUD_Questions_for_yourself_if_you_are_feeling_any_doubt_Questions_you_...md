@@ -65,7 +65,7 @@ What happened to the FTDs? Before the January run-up we have millions of FTDs so
 
 &#x200B;
 
-[Post-January run-up. Where the fuck did they go? I thought it was normal to have millions everyday????](https://preview.redd.it/g91rbby01sa71.png?width=1632&format=png&auto=webp&s=311c75a8bba910d1d919e209c9a6b55fdc38de5d)
+![Post-January run-up. Where the fuck did they go? I thought it was normal to have millions everyday????](https://preview.redd.it/g91rbby01sa71.png?width=1632&format=png&auto=webp&s=311c75a8bba910d1d919e209c9a6b55fdc38de5d)
 
 Big one for the shills:
 

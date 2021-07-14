@@ -54,4 +54,4 @@ In two weeks XRT goes from having about 10,000 FTDs to OVER TWO MILLION.  That i
 
 disclosure: I own GME shares, and I plan to hold.
 
-Edit: link for those curious [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
+Edit: link for those curious ![https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)

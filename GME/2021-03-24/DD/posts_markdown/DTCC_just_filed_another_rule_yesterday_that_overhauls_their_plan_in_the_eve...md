@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/](https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/)
 
 
-Taken from [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
+Taken from ![https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
 
 SR-NSCC-2021-004
 

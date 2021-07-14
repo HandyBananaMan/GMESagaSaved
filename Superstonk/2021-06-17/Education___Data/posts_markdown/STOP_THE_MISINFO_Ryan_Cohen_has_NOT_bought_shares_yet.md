@@ -21,4 +21,4 @@ You can check insider buys at these sites:
 
 &#x200B;
 
-[The SEC hasn't heard from Gamestop since the 11th. NOTHING HAS BEEN REPORTED.](https://preview.redd.it/m5d13lt66v571.png?width=1262&format=png&auto=webp&s=2f066321fb83d3c757007d1cddfdb1a2f6ea31c5)
+![The SEC hasn't heard from Gamestop since the 11th. NOTHING HAS BEEN REPORTED.](https://preview.redd.it/m5d13lt66v571.png?width=1262&format=png&auto=webp&s=2f066321fb83d3c757007d1cddfdb1a2f6ea31c5)

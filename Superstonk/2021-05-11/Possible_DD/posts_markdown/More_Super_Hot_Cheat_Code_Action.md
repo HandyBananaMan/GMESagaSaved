@@ -52,4 +52,4 @@ https://preview.redd.it/5ilon4aythz61.png?width=3142&format=png&auto=webp&s=ab61
 
 Edit #5: The latest post on this cheat code shit: [https://www.reddit.com/r/Superstonk/comments/nbjckf/stress\_tests\_are\_easy\_with\_cheat\_codes\_may\_13/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/nbjckf/stress_tests_are_easy_with_cheat_codes_may_13/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
-Edit #6: Something new: [https://www.reddit.com/r/Superstonk/comments/ndaad2/dd\_saturday\_special\_robinhood\_citadel\_options\_and/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/ndaad2/dd_saturday_special_robinhood_citadel_options_and/?utm_source=share&utm_medium=web2x&context=3)
+Edit #6: Something new: ![https://www.reddit.com/r/Superstonk/comments/ndaad2/dd\_saturday\_special\_robinhood\_citadel\_options\_and/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/ndaad2/dd_saturday_special_robinhood_citadel_options_and/?utm_source=share&utm_medium=web2x&context=3)

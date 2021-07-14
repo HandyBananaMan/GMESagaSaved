@@ -78,4 +78,4 @@ You can see there were some arguments over the legality within Merrill's communi
 
 [More court documents. Spicy](https://preview.redd.it/amvbx6k8rev61.jpg?width=987&format=pjpg&auto=webp&s=c53b9a7944dad5da18bc16ec62a794e67c2f4520)
 
-As you can see, they were concerned with failing the stock without actually borrowing anything. They said that availability didn't matter (hmmm wonder why) and that they were purposefully shorting to make them fail. [source](https://www.businessinsider.com/incredible-lawyers-for-goldman-merrill-and-morgan-stanley-accidentally-leaked-e-mails-that-show-their-clients-were-naked-short-selling-overstockcom-2012-5)
+As you can see, they were concerned with failing the stock without actually borrowing anything. They said that availability didn't matter (hmmm wonder why) and that they were purposefully shorting to make them fail. ![source](https://www.businessinsider.com/incredible-lawyers-for-goldman-merrill-and-morgan-stanley-accidentally-leaked-e-mails-that-show-their-clients-were-naked-short-selling-overstockcom-2012-5)

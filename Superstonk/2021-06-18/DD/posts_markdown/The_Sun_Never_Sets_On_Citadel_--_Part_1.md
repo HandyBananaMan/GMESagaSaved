@@ -177,7 +177,7 @@ If you STILL believe that being a Market Maker IS competitive and that exchanges
 
 “*But, but – wouldn’t that piss off the other exchanges?  They would want to attack the MEMX founders in some way, right?*”
 
-* [Yup.](https://i.redd.it/hknpksgdew571.png)
+* ![Yup.](https://i.redd.it/hknpksgdew571.png)
 
 **Exchanges have become so commoditized and Market Makers have such an entrenched advantage that the dominant Market Makers have opened their own exchange, MEMX, whose primary purpose is to serve their interests at the expense of other exchanges.**
 

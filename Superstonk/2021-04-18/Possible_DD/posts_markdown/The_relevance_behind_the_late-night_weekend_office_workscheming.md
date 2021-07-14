@@ -22,7 +22,7 @@ If needed I can provide proof to the mods, but its not like anything I'm sharing
 
 **TL;DR: Seems like a shit-storm is brewing and everyone is getting their ducks in a row. Weekend work and nights aren't anything new in the finance and banking world, doing so in the middle of a pandemic when most people are working from home is.**
 
-**I'll leave you with this: One example of a similar thing happened over the weekend in 2008 when JPMorgan acquired Bear Stearns. This happened over the course of a weekend between March 15-16th in 2008 and the story is well worth a read (**[**source**](https://www.history.com/this-day-in-history/bear-stearns-sold-to-j-p-morgan-chase)**).**
+**I'll leave you with this: One example of a similar thing happened over the weekend in 2008 when JPMorgan acquired Bear Stearns. This happened over the course of a weekend between March 15-16th in 2008 and the story is well worth a read (**![**source**](https://www.history.com/this-day-in-history/bear-stearns-sold-to-j-p-morgan-chase)**).**
 
 \----------------------------------------------------
 

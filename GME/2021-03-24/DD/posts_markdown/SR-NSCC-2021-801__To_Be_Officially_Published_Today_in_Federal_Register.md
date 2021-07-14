@@ -70,7 +70,7 @@ If anyone is curious, below is some more information on how the Federal Register
 
 Using this site you can see things published to the Federal Register:
 
-[https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
+![https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
 
 &#x200B;
 

@@ -162,7 +162,7 @@ EDIT 3: Part 2: [https://www.reddit.com/r/Superstonk/comments/nzrtsq/billionaire
 
 &#x200B;
 
-Edit 4: BBC Part 3: [https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires\_boys\_club\_part\_3\_the\_big\_boys\_i\_just/](https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires_boys_club_part_3_the_big_boys_i_just/)
+Edit 4: BBC Part 3: ![https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires\_boys\_club\_part\_3\_the\_big\_boys\_i\_just/](https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires_boys_club_part_3_the_big_boys_i_just/)
 
 &#x200B;
 

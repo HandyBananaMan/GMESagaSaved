@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/](https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/)
 
 
-[https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/](https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/)
+![https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/](https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/)
 
 &#x200B;
 

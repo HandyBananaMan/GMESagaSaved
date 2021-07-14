@@ -108,7 +108,7 @@ I made a chart earlier regarding their most recent breakout:
 
 https://preview.redd.it/go9ovndlqx571.png?width=1621&format=png&auto=webp&s=315557c1caf7800a4e98ac585022e68a9abca0a6
 
-[trading sideways guy, exponential floor guy, and t21 guy get all the love.  But what about dorito triangle guy?](https://preview.redd.it/0yra8u9kvd571.png?width=676&format=png&auto=webp&s=5301fa30def4c424e447e9b2e3f41566c2a9eca2)
+![trading sideways guy, exponential floor guy, and t21 guy get all the love.  But what about dorito triangle guy?](https://preview.redd.it/0yra8u9kvd571.png?width=676&format=png&auto=webp&s=5301fa30def4c424e447e9b2e3f41566c2a9eca2)
 
 I believe the fundamentals are too strong at this point and the earnings are looking better each time. It’s too late for them now. I have always believed in the company and I’m going to keep holding. They put themselves in this situation, their greed. If the entire financial system comes crashing down because I believe in a company then maybe the system was broken to begin with. I look forward to the opportunity to rebuild a more transparent free market that works for the people when this is all over though. That is just my personal opinion, it doesn’t really matter. I just really like the stock.
 

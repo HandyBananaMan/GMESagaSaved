@@ -386,7 +386,7 @@ Apes can I get a 💎 for my sisters cat who is having an operation right now? H
 
 **I will conclude this with saying that if you need a prescription for memes, please follow the link below:**
 
-[MEME Compilation - 22/04/21 - Nurse Mimi's Prescriptive Memes (Daily Dose). : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mw5j43/meme_compilation_220421_nurse_mimis_prescriptive/gvg5ghd/?context=3)
+![MEME Compilation - 22/04/21 - Nurse Mimi's Prescriptive Memes (Daily Dose). : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mw5j43/meme_compilation_220421_nurse_mimis_prescriptive/gvg5ghd/?context=3)
 
 **Lots of love,**
 

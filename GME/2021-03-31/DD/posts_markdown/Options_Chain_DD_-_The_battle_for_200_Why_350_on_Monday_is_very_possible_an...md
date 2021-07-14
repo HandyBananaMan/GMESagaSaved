@@ -8,7 +8,7 @@
 
 APR 1, APR 9, APR 16 Total OTM options (starting at 200c) - 79,812
 
-[https://finance.yahoo.com/quote/GME/options?date=1617235200&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAACK-yzwtH4eqfGu2qFyLIzAyJUqcEaruVuBMiBs8jT8bSqhoaAEDAHq4X1i0ocQARIZ9u4sDsBJyE-rU-k75gdpZP39lxM-vGScp091Qn7dd96D2\_VliJX9PC1Xuf5Xe0jUnL1gZFDH9Q0EMKMO14wvYd1VqmW\_UPaSczdkLdReC&straddle=false](https://finance.yahoo.com/quote/GME/options?date=1617235200&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACK-yzwtH4eqfGu2qFyLIzAyJUqcEaruVuBMiBs8jT8bSqhoaAEDAHq4X1i0ocQARIZ9u4sDsBJyE-rU-k75gdpZP39lxM-vGScp091Qn7dd96D2_VliJX9PC1Xuf5Xe0jUnL1gZFDH9Q0EMKMO14wvYd1VqmW_UPaSczdkLdReC&straddle=false)
+![https://finance.yahoo.com/quote/GME/options?date=1617235200&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAACK-yzwtH4eqfGu2qFyLIzAyJUqcEaruVuBMiBs8jT8bSqhoaAEDAHq4X1i0ocQARIZ9u4sDsBJyE-rU-k75gdpZP39lxM-vGScp091Qn7dd96D2\_VliJX9PC1Xuf5Xe0jUnL1gZFDH9Q0EMKMO14wvYd1VqmW\_UPaSczdkLdReC&straddle=false](https://finance.yahoo.com/quote/GME/options?date=1617235200&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACK-yzwtH4eqfGu2qFyLIzAyJUqcEaruVuBMiBs8jT8bSqhoaAEDAHq4X1i0ocQARIZ9u4sDsBJyE-rU-k75gdpZP39lxM-vGScp091Qn7dd96D2_VliJX9PC1Xuf5Xe0jUnL1gZFDH9Q0EMKMO14wvYd1VqmW_UPaSczdkLdReC&straddle=false)
 
 &#x200B;
 

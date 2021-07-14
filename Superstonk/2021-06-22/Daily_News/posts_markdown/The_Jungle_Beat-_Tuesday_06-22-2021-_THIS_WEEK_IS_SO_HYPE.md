@@ -262,4 +262,4 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 ***"I may have been early, but I am not wrong"***
 
-[ 🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍 ](https://preview.redd.it/3pv1o8xr3v671.png?width=1600&format=png&auto=webp&s=96e82fb729c172686666db3ceb32eae53f76e26b)
+![ 🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍🦍 ](https://preview.redd.it/3pv1o8xr3v671.png?width=1600&format=png&auto=webp&s=96e82fb729c172686666db3ceb32eae53f76e26b)

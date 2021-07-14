@@ -310,6 +310,6 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://mobile.twitter.com/pinkcatsonacid](https://mobile.twitter.com/pinkcatsonacid)
 
-[SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+![SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 # 🚨 ... AND VOTE!!! 🚨

@@ -10,4 +10,4 @@ Wondering about DFV’s calls that expire the same day the CEO is fire-able! Are
 
 The cat in a banana comes out on 4/20. 
 
-[link to SEC filing - hiring of George Sherman as CEO of GME](https://www.sec.gov/Archives/edgar/data/1326380/000132638019000030/ex101georgeshermanemployme.htm)
+![link to SEC filing - hiring of George Sherman as CEO of GME](https://www.sec.gov/Archives/edgar/data/1326380/000132638019000030/ex101georgeshermanemployme.htm)

@@ -158,7 +158,7 @@ Elsewhere in Nigrini's book, he uses the first-digit test on a small data set of
 
 \- It has been done very recently in 2020 in *Designing Shorting Strategies with Benford’s Law,* Sedrick Scott Keh, supervised by Dr. David Rossite
 
-[BL applied to one stock](https://preview.redd.it/kc03n0k8kb271.png?width=677&format=png&auto=webp&s=1f0071b16b09f1efef92a490dcd41888f0ca299e)
+![BL applied to one stock](https://preview.redd.it/kc03n0k8kb271.png?width=677&format=png&auto=webp&s=1f0071b16b09f1efef92a490dcd41888f0ca299e)
 
 &#x200B;
 

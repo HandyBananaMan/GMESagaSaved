@@ -73,7 +73,7 @@ I would like to remind you that our rules are designated to focus on GameStop st
 
 [SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
-[ook ook!](https://preview.redd.it/yv59wd0tg1971.jpg?width=1280&format=pjpg&auto=webp&s=57c654f8e403e3c8f783f54faf748bce35e2f51d)
+![ook ook!](https://preview.redd.it/yv59wd0tg1971.jpg?width=1280&format=pjpg&auto=webp&s=57c654f8e403e3c8f783f54faf748bce35e2f51d)
 
 # Let's all remember that reddit has its policies and rules and we should be following them regardless of our personal takes. Please confine off-topic discussions to other social media and private chats. Thank you!
 

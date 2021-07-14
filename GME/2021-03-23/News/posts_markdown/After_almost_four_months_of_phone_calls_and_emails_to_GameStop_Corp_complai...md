@@ -32,6 +32,6 @@ His attempted turnaround would have been less in the public eye had GameStop not
 
 Cohen invested in GameStop last year before the stock became a social media sensation. His 13% stake in the company, on which he spent roughly $75 million, is now worth about $1.8 billion.
 
-Continue reading: [https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP](https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP)
+Continue reading: ![https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP](https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP)
 
 🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀

@@ -6,7 +6,7 @@
 
 GOTS, part 1.2
 
-[GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
+![GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
 
 Hey apes.
 
@@ -200,4 +200,4 @@ Get your popcorn, apes.
 
 GOTS, part 1.2
 
-[GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
+![GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)

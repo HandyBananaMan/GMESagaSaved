@@ -62,4 +62,4 @@ With the exception of March 26th this is what happens to 4 week bonds after they
 
 **Source**
 https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm  
-[Post explaining Zero Coupon Bonds](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)
+![Post explaining Zero Coupon Bonds](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)

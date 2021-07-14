@@ -84,6 +84,6 @@ Also, all of these stocks tanked on Wednesday pretty significantly.
 
 Now, this data is from the most recent 13F filings, which means it is by default long out of date, but in all but 2 cases, Blackrock/Vanguard have more than enough shares available to do a massive block transaction and haircut a huge amount off the books while freeing up a lot of liquidity for themselves. To do what with? I'm not sure. In the case of the two shortfalls, Morgan Stanley has plenty to cover, and they also seem to have some kind of relationship with Blackrock and Vanguard according to institutional ownership.
 
-My thesis is that the news about that "tiger cub" fund Archegos that has never filed a single document [with the SEC other than a registration](https://sec.report/CIK/0001535709) is a bit farfetch(ed) (please forgive the pun) given the volume of trades going on here, and that BlackRock (friends of RC, long on GME), and Vanguard (long on GME, very long on BlackRock) liquidated a bunch of their assets via Goldman.
+My thesis is that the news about that "tiger cub" fund Archegos that has never filed a single document ![with the SEC other than a registration](https://sec.report/CIK/0001535709) is a bit farfetch(ed) (please forgive the pun) given the volume of trades going on here, and that BlackRock (friends of RC, long on GME), and Vanguard (long on GME, very long on BlackRock) liquidated a bunch of their assets via Goldman.
 
 If I'm right, then Blackrock/Vanguard and possibly Morgan Stanley together now sit on a war-chest of **10.3bn**

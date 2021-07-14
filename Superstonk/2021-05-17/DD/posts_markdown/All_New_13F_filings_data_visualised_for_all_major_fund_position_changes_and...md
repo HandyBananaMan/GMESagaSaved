@@ -116,7 +116,7 @@ Here I'll just list the funds with with 200k shares or more. DFV whale kinda siz
 
 Looking through the 13Fs has been kinda odd. There were 130 Million shares in puts open on March 31st but only 30 Million reported in the 13Fs. Who else could have that many contracts if not the large funds reporting to the SEC?
 
-Aside from that we did see a number of smaller long funds sell their GME stake in early 2021 but some others jumped in. Blockrock maintained their position. Vanguard added another 400k shares. u/Rehypothecator pointed out that Fidelity likely still has a vast number of shares but moved them to their [mutual funds meaning they are no longer reported in the 13Fs](https://i.imgur.com/3MaFVXC.jpg).
+Aside from that we did see a number of smaller long funds sell their GME stake in early 2021 but some others jumped in. Blockrock maintained their position. Vanguard added another 400k shares. u/Rehypothecator pointed out that Fidelity likely still has a vast number of shares but moved them to their ![mutual funds meaning they are no longer reported in the 13Fs](https://i.imgur.com/3MaFVXC.jpg).
 
 The number of short funds appears to have increased with some more players entering with big put positions. Melvin requested special confidential treatment for some of their positions to the SEC which could explain why we don't see anything for them. Jane Street bought more than 2.5 million more shares in puts. Prelude and Sessa have bought in with more than 1 million shares in puts a piece. Citadel and Susquehanna have very similar positions to before. However, the Citadel owned *Imc-chicago llc* has a newly created options position with a massive 2 million shares in puts and nothing else.
 

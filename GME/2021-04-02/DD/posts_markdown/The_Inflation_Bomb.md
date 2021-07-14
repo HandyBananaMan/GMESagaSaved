@@ -128,4 +128,4 @@ https://preview.redd.it/hisa5qugxsq61.png?width=1442&format=png&auto=webp&s=dccb
 
 Edit 3:
 
-[td;lr](https://preview.redd.it/3h0pjw4alwq61.png?width=885&format=png&auto=webp&s=7cf76e20ab363cbc715801a21d35f91f4429e7ed)
+![td;lr](https://preview.redd.it/3h0pjw4alwq61.png?width=885&format=png&auto=webp&s=7cf76e20ab363cbc715801a21d35f91f4429e7ed)

@@ -13,7 +13,7 @@ Filings are grouped by their report date within their reported year: 
 * (Q3): August 15 to November 14 
 * (Q4): November 15 to February 14
 
-Here's the last one filed for Q3 2020, released back in December, but reflects data from Fourth Calendar Quarter 2018 through Third Calendar Quarter 2020: [https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
+Here's the last one filed for Q3 2020, released back in December, but reflects data from Fourth Calendar Quarter 2018 through Third Calendar Quarter 2020: ![https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
 
 &#x200B;
 
@@ -92,7 +92,7 @@ I will still update regarding any response from the people I contacted, which ho
 
 Additionally, the date on the latest Q3 2020 Report has been updated to **May 5, 2021**
 
-[https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
+![https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
 
 **edit to the edit:** 
 

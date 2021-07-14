@@ -264,7 +264,7 @@ It will look something like this but, you known, better than the zenith of my pi
 
 &#x200B;
 
-[Me and my wife's Boyfriend in front of Shitadel one day](https://preview.redd.it/1f9mctllhpx61.png?width=624&format=png&auto=webp&s=9842212678a26075addf340397d7d02675bc4bd8)
+![Me and my wife's Boyfriend in front of Shitadel one day](https://preview.redd.it/1f9mctllhpx61.png?width=624&format=png&auto=webp&s=9842212678a26075addf340397d7d02675bc4bd8)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

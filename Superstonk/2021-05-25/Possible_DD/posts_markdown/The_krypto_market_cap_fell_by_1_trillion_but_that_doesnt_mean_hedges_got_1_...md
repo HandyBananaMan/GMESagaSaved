@@ -30,7 +30,7 @@ Maximum maximum HFs got 200billion from that stunt, but I really doubt it. Pulle
 
 **TL;DR: Krypto market cap not the same as actually money gained / lost. HFs did not get 1Trillion dollars from the selloff but somewhere between 25-200 billion. Please don't spread FUD as the HFs want to look high mighty and powerful when in fact they are not, they are on the brink of collapsing!**
 
-UPDATE: /u/they_have_no_bullets had a brilliant idea on how to get a more accurate estimate on how much hedgies got! Read his comment [here](https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/gzdkxag?utm_source=share&utm_medium=web2x&context=3). I'll get on with the math:
+UPDATE: /u/they_have_no_bullets had a brilliant idea on how to get a more accurate estimate on how much hedgies got! Read his comment ![here](https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/gzdkxag?utm_source=share&utm_medium=web2x&context=3). I'll get on with the math:
 
 For all intents and purposes, the massive selloff that started bringing beetcoin down HARD started on the 12th of May:
 

@@ -22,6 +22,6 @@ Keep in mind I'm just as willing to have this debunked as I am to have it...umm.
 
 EDIT\*  Here's a great follow-up from u/ShipwreckDD! 
 
-[https://www.reddit.com/r/Superstonk/comments/o79c4i/t21\_is\_tomorrow\_i\_do\_believe/](https://www.reddit.com/r/Superstonk/comments/o79c4i/t21_is_tomorrow_i_do_believe/)
+![https://www.reddit.com/r/Superstonk/comments/o79c4i/t21\_is\_tomorrow\_i\_do\_believe/](https://www.reddit.com/r/Superstonk/comments/o79c4i/t21_is_tomorrow_i_do_believe/)
 
  Thanks everyone for taking the time to further look into this!

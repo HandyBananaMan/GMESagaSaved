@@ -212,4 +212,4 @@ u/deepfuckingvalue MY BOY! <3
 
 Look at this thread, even if it's the only thing you read this weekend, fucking read.
 
-[https://www.reddit.com/r/Superstonk/comments/mscsb5/putting\_shills\_on\_blast\_a\_concerned\_biznessman/](https://www.reddit.com/r/Superstonk/comments/mscsb5/putting_shills_on_blast_a_concerned_biznessman/)
+![https://www.reddit.com/r/Superstonk/comments/mscsb5/putting\_shills\_on\_blast\_a\_concerned\_biznessman/](https://www.reddit.com/r/Superstonk/comments/mscsb5/putting_shills_on_blast_a_concerned_biznessman/)

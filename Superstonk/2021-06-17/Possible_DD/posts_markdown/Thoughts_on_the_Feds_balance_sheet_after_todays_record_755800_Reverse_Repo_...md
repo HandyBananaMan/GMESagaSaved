@@ -90,4 +90,4 @@ Even assuming the velocity of money @ 0, that would still be 18.5%?
 
 EDIT 2: The conclusions of this post are challenged and possibly debunked [here](https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/)
 
-EDIT 3: [Waffle House Index](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/) backing this up in the 'real world'?
+EDIT 3: ![Waffle House Index](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/) backing this up in the 'real world'?

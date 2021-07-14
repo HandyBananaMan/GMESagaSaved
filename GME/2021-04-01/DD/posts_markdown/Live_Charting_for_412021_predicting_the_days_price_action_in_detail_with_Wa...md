@@ -198,7 +198,7 @@ I'll make an update as soon as anything pops up on my option sonar.
 
 # Begin Reading Here
 
-[data courtesy of optionsonar.com](https://preview.redd.it/j8ohnopm8mq61.png?width=663&format=png&auto=webp&s=6fa9b472dbd1a04b25a98b6d130f7530a1fbadf4)
+![data courtesy of optionsonar.com](https://preview.redd.it/j8ohnopm8mq61.png?width=663&format=png&auto=webp&s=6fa9b472dbd1a04b25a98b6d130f7530a1fbadf4)
 
 Back in early March, Melvin and friends were panicking like crazy. Every other day, they would buy these Deep ITM calls, and the next day, they would short attack with loads of ITM Puts. Seems they are back at it again! It's been 2 weeks since we've seen them do this.
 

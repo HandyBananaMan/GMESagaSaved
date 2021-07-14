@@ -22,7 +22,7 @@ edit: for some context check out the following links:
 
 [https://www.reddit.com/r/GME/comments/mgucv2/the\_everything\_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
 
-[https://www.reddit.com/r/GME/comments/mhw44x/wondering\_where\_tf\_the\_sec\_is\_the\_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
+![https://www.reddit.com/r/GME/comments/mhw44x/wondering\_where\_tf\_the\_sec\_is\_the\_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
 
 TL:DR from the second link above:
 

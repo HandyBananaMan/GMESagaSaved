@@ -8,4 +8,4 @@ Been hodling since $325. Down to $40.  This ride won’t shake me.  We’ve been
 
 Buy, hodl, disregard FUD.
 
-EDIT:  my post triggered a user to harass me into proving my positions [so this happened ](https://www.reddit.com/r/GME/comments/nnhhh9/the_challenge_has_been_thrown/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+EDIT:  my post triggered a user to harass me into proving my positions ![so this happened ](https://www.reddit.com/r/GME/comments/nnhhh9/the_challenge_has_been_thrown/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)

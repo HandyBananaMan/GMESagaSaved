@@ -238,7 +238,7 @@ My conjecture is that **in an ideal world**, SR-OCC-2021-004 is the key piece to
 
 While I do not buy into much of the technical analysis around this stock, there is something very interesting if you look at the charts *and volume* leading into the spike at the end of February and where we are now.
 
-[Look at the pattern leading into the February spike and the pattern we're in right now over the past week.](https://preview.redd.it/e9xlew2ar6u61.png?width=1629&format=png&auto=webp&s=dc07760b1ece57492622e604f0c6a1b28bf2a248)
+![Look at the pattern leading into the February spike and the pattern we're in right now over the past week.](https://preview.redd.it/e9xlew2ar6u61.png?width=1629&format=png&auto=webp&s=dc07760b1ece57492622e604f0c6a1b28bf2a248)
 
 I think we are getting really close to another big price move.  It may or may not be the squeeze, but we see a repeat of almost the exact same price movement *and volume* as the last time we moved out of a stasis.
 

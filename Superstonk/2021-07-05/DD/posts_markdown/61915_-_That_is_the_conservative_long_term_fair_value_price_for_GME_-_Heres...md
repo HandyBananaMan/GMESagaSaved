@@ -86,7 +86,7 @@ All this guy breathes, eats, and dreams, is ways to take on Amazon effectively.
 
 [\\"Amazon has chinks in its armor.\\" - RC](https://preview.redd.it/v814m1mnoc971.png?width=751&format=png&auto=webp&s=715f42627f7664da0b3a29a27be7db453f2120c1)
 
-[https://www.businessinsider.com/ryan-cohen-gamestop-transformation-ecommerce-explained-2021-3](https://www.businessinsider.com/ryan-cohen-gamestop-transformation-ecommerce-explained-2021-3) \- This article is titled "Take a look inside Wall Street darling Ryan Cohen's ambitious plan to 'transform' the retailer into the Amazon of gaming" and outlines all the ways that RC is gonna clean house vs Amazon.
+![https://www.businessinsider.com/ryan-cohen-gamestop-transformation-ecommerce-explained-2021-3](https://www.businessinsider.com/ryan-cohen-gamestop-transformation-ecommerce-explained-2021-3) \- This article is titled "Take a look inside Wall Street darling Ryan Cohen's ambitious plan to 'transform' the retailer into the Amazon of gaming" and outlines all the ways that RC is gonna clean house vs Amazon.
 
 So its safe to say that Amazon has reason to worry!
 

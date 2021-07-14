@@ -16,7 +16,7 @@ i'll link them here to make it easy:
 
 internet comments: [https://www.sec.gov/litigation/fairfundlist.htm#robinhood](https://www.sec.gov/litigation/fairfundlist.htm#robinhood)
 
-email comments: [rule-comments@sec.gov](mailto:rule-comments@sec.gov).
+email comments: ![rule-comments@sec.gov](mailto:rule-comments@sec.gov).
 
 from the first link:
 

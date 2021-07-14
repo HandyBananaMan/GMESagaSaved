@@ -352,7 +352,7 @@ Additionally, once we broke through $200, I believe FOMO also played a part in u
 
 &#x200B;
 
-[$88.79 price jump from the May 24th closing price.](https://preview.redd.it/gws5gtzc4d271.png?width=898&format=png&auto=webp&s=3ac5336a580a3118914e8ff8da45b4ab01b7043b)
+![$88.79 price jump from the May 24th closing price.](https://preview.redd.it/gws5gtzc4d271.png?width=898&format=png&auto=webp&s=3ac5336a580a3118914e8ff8da45b4ab01b7043b)
 
 &#x200B;
 

@@ -66,6 +66,6 @@ While the Daily Report data sourced by FINRA is publicly available and holds tan
 
 # Conclusion
 
-My newly introduced [**Off-Exchange Dashboard**](https://i2.t.hubspotemail.net/e2t/tc/VVPKbm4vwXt-N3m0wnGrFLB3W1RGk9h4q1lGqN3ypqF13lGmwV1-WJV7CgLNYW8Qy2xS8SdZFbW6vyYMF5Qlbn6VZ1LYg3F3Bj_W46nHPF68g33DW25w3wf9f5qFpW2yTqLR4mlglyW1gF2z-1SgMMmW2BxK4v5P4_5MW6g_Zxw7vdTM3W8RxJVB1ZFHnWW8nSH-k4SZdzLW7P3HWZ7tB6LtV3qZdp8CMxbXW1nnHwW3WjV4kN5tpTdN79bPZMSks1mhbjzdW88pBhh5rgP5SW9kTjsn90L5KBW4wmz9M8BFbt8W6WX1m03JXppw3dv_1) allows users to view the prior trading days off-exchange market activity, with the ability to filter by ticker, the total number of shares short, total numbers of shares traded, and DPI ratio.
+My newly introduced ![**Off-Exchange Dashboard**](https://i2.t.hubspotemail.net/e2t/tc/VVPKbm4vwXt-N3m0wnGrFLB3W1RGk9h4q1lGqN3ypqF13lGmwV1-WJV7CgLNYW8Qy2xS8SdZFbW6vyYMF5Qlbn6VZ1LYg3F3Bj_W46nHPF68g33DW25w3wf9f5qFpW2yTqLR4mlglyW1gF2z-1SgMMmW2BxK4v5P4_5MW6g_Zxw7vdTM3W8RxJVB1ZFHnWW8nSH-k4SZdzLW7P3HWZ7tB6LtV3qZdp8CMxbXW1nnHwW3WjV4kN5tpTdN79bPZMSks1mhbjzdW88pBhh5rgP5SW9kTjsn90L5KBW4wmz9M8BFbt8W6WX1m03JXppw3dv_1) allows users to view the prior trading days off-exchange market activity, with the ability to filter by ticker, the total number of shares short, total numbers of shares traded, and DPI ratio.
 
 I believe that this data can be a valuable tool for tracking market movements, and that the ratio of off-exchange short interest to total volume holds some predictive power for future price movements.

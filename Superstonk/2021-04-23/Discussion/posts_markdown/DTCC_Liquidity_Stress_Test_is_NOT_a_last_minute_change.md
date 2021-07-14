@@ -32,7 +32,7 @@ Edit: spelling
 
 Edit 2: Another user u/Harris714 found previous April testing. This is really not unusual. [https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc\_planning\_liquidity\_risk\_testing\_on\_26th/gvl8bwj?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc_planning_liquidity_risk_testing_on_26th/gvl8bwj?utm_source=share&utm_medium=web2x&context=3)
 
-[https://www.dtcc.com/-/media/Files/pdf/2018/2/23/MBS523-18.pdf](https://www.dtcc.com/-/media/Files/pdf/2018/2/23/MBS523-18.pdf)[https://www.dtcc.com/-/media/Files/pdf/2016/2/19/MBS166-16.pdf](https://www.dtcc.com/-/media/Files/pdf/2016/2/19/MBS166-16.pdf)
+[https://www.dtcc.com/-/media/Files/pdf/2018/2/23/MBS523-18.pdf](https://www.dtcc.com/-/media/Files/pdf/2018/2/23/MBS523-18.pdf)![https://www.dtcc.com/-/media/Files/pdf/2016/2/19/MBS166-16.pdf](https://www.dtcc.com/-/media/Files/pdf/2016/2/19/MBS166-16.pdf)
 
 Edit 4: Changed some wording to be a little less... ummm *bombastic* I guess. And include some text from a reply I give below as to why we need to be careful about this stuff.
 

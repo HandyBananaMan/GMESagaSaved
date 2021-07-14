@@ -52,6 +52,6 @@ Edit 5:  Starting to read Exhibit 5.  This might be the interesting part...
 
 \~\~\~\~
 
-Edit 6: Wondering if someone could provide clarity on how these exhibits work.  There is some interesting wording on page 5 of exhibit 5 ([https://www.sec.gov/rules/sro/nscc/2021/34-91881-ex5.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91881-ex5.pdf)), around illiquidity ratios.  Are these exhibits just examples or actual definitions for these rules?
+Edit 6: Wondering if someone could provide clarity on how these exhibits work.  There is some interesting wording on page 5 of exhibit 5 (![https://www.sec.gov/rules/sro/nscc/2021/34-91881-ex5.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91881-ex5.pdf)), around illiquidity ratios.  Are these exhibits just examples or actual definitions for these rules?
 
 " the “illiquidity ratio” of a security on any day is equal to (i) the price return of such security on such day (based on the natural logarithm of the ratio between the closing price of the security on such day to the closing price of the security on the prior trading day) divided by (ii) the average daily trading amount1 of such security over the prior 20 Bbusiness Ddays."

@@ -285,7 +285,7 @@ His role will help cut down on GME's expenses and deliver products/services fast
 
 As DFV pointed out in his livestream, RC usually says NO to 99.9% of opportunities, but **he said YES to GameStop!**
 
-~~Guys~~ Apes, the HF's are sh\*tting in their [Depends](https://www.target.com/p/depend-night-defense-incontinence-underwear-for-men-overnight-large-14ct/-/A-79330408#lnk=sametab) right now.
+~~Guys~~ Apes, the HF's are sh\*tting in their ![Depends](https://www.target.com/p/depend-night-defense-incontinence-underwear-for-men-overnight-large-14ct/-/A-79330408#lnk=sametab) right now.
 
 It costs us NOTHING to hold, but it's costing them millions upon millions every-single-f\*cking-day.
 

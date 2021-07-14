@@ -101,7 +101,7 @@ The last bit here pulls together some points from **OP1 and OP2 once more.** Thr
 
 &#x200B;
 
-[https:\/\/preview.redd.it\/vivrn1eauzp61.png?width=758&format=png&auto=webp&s=89ef1658be73e7078697788923f6689e8660fd44](https://preview.redd.it/yu0dr3bzlhq61.png?width=758&format=png&auto=webp&s=af2888268bcab62ba322fae70162a596c61f0d04)
+![https:\/\/preview.redd.it\/vivrn1eauzp61.png?width=758&format=png&auto=webp&s=89ef1658be73e7078697788923f6689e8660fd44](https://preview.redd.it/yu0dr3bzlhq61.png?width=758&format=png&auto=webp&s=af2888268bcab62ba322fae70162a596c61f0d04)
 
 It is *this* portion of OP1’s DD which I found quite fascinating. Keep in mind that it is primarily an assumption but when you really begin to look into his explanation and what we’re seeing happen with these progressive margin calls occurring...**it doesn’t seem that far-fetched, does it?**
 

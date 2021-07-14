@@ -16,4 +16,4 @@ Did nobody teach Gabe Plotkin that lies were the root of all evil?
 
 References to shorts:
 
-[https://www.reddit.com/r/GME/comments/lq0cqh/serious\_researchers\_needed\_now\_update\_6\_fake/](https://www.reddit.com/r/GME/comments/lq0cqh/serious_researchers_needed_now_update_6_fake/)
+![https://www.reddit.com/r/GME/comments/lq0cqh/serious\_researchers\_needed\_now\_update\_6\_fake/](https://www.reddit.com/r/GME/comments/lq0cqh/serious_researchers_needed_now_update_6_fake/)

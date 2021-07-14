@@ -173,7 +173,7 @@ I'd also like to thank [u/Ren3666](https://www.reddit.com/u/Ren3666/) for contri
 5. **Default on debt to your lenders (who also stand to gain from Toys R' Us going out of business) all the while; naked shorting the living shit out of the stock.**
 6. **Take your proceeds from naked shorting/shorting a stock and invest it into your long positions (which are direct competitors with the companies you just shorted) raising their stock price. This is essentially taking capital from one companies market cap and stacking it into another.**
 7. **Contact every media source that will take your money in exchange for drawing attention to the stock price disparity between the shorted company (Toys R' Us) and your long positions (AMZN and WAL) while promoting your bear thesis for your short position and your bull thesis for your long position.**
-8. **Control the narrative. Looks like** [u/controlthenarrative](https://www.reddit.com/u/controlthenarrative/) **has known what this market is about all along haha.**
+8. **Control the narrative. Looks like** ![u/controlthenarrative](https://www.reddit.com/u/controlthenarrative/) **has known what this market is about all along haha.**
 
 **Before you know it you'll have profited by retaining your short sale proceeds while abandoning your debt to a "Schmuck fund" like Solos Alternative Asset Management. You then short Mattel at the same time.**
 

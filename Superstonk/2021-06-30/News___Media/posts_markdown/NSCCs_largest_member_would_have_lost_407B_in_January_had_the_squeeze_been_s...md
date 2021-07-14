@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/oas31y/nsccs_largest_member_would_have_lost_407b_in/](https://www.reddit.com/r/Superstonk/comments/oas31y/nsccs_largest_member_would_have_lost_407b_in/)
 
 
-Source: [Diamond. Fucking. Hands. ](https://imgur.com/a/mSp1gAn)
+Source: ![Diamond. Fucking. Hands. ](https://imgur.com/a/mSp1gAn)
 
 TA;DR; 
 

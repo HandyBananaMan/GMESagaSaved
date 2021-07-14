@@ -58,6 +58,6 @@ And there it is. Citadel had is own insider trading group, and it was made up of
 
 [Well damn](https://preview.redd.it/v1qioxz8vlv61.jpg?width=1126&format=pjpg&auto=webp&s=d460493fd57ce013e1bc028fd0adaf5329d55432)
 
-SAC hired the former Citadel employee despite warnings that he was in an insider trading group at Citadel. Citadel was also apparently subpoenaed by the feds in 2010 as part of a larger investigation. We know that Citadel never faced any major punishment though. [Source](https://www.reuters.com/article/us-sac-fund-citadel/sac-indictment-describes-insider-trading-group-at-citadel-sources-idUSBRE96O0W420130725)
+SAC hired the former Citadel employee despite warnings that he was in an insider trading group at Citadel. Citadel was also apparently subpoenaed by the feds in 2010 as part of a larger investigation. We know that Citadel never faced any major punishment though. ![Source](https://www.reuters.com/article/us-sac-fund-citadel/sac-indictment-describes-insider-trading-group-at-citadel-sources-idUSBRE96O0W420130725)
 
 So again, this all goes deeper than what we know. I found all this today and will probably find more next time i look into it. It all seems to lead to Melvin. Ken and Steve, despite their rivalry, both tried to keep to save Melvin. Their connection seems to be insider traders, however only Steve has been caught. Unfortunately, they all got away with it and are probably still doing it behind the scene. They both need Melvin for that, so they are desperate to keep it alive.

@@ -6,7 +6,7 @@
 
 ### tl;dr: In the United States, it now appears that ALL private, public, civil  and commercial entities depending on the trading of Securities for their existence are OWNED by Cede & Co. as the Nominee for DTC. This indicates that, effectively, America is OWNED by Cede & Co.
 
-\*\*\*\*\*This is not my research. I came across an interesting read \[here\]([http://redpillreports.com/learn/who-owns-america-cede-dtcc/](http://redpillreports.com/learn/who-owns-america-cede-dtcc/)) and decided to post it for better visibility.\*\*\*\*\*
+\*\*\*\*\*This is not my research. I came across an interesting read \![here\]([http://redpillreports.com/learn/who-owns-america-cede-dtcc/](http://redpillreports.com/learn/who-owns-america-cede-dtcc/)) and decided to post it for better visibility.\*\*\*\*\*
 
 If You Have Stocks, Bonds Or Securities, You Do Not Own Them: Cede & Co. does.  
 Who Owns Your Residential Mortgage? Cede & Co. does.  

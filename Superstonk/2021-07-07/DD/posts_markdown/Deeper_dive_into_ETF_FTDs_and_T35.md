@@ -199,7 +199,7 @@ pce\~\~
 
 My Twitter has some random daily thoughts/price predictions that don’t require a full post.
 
-[https://twitter.com/dentisttft](https://twitter.com/dentisttft)
+![https://twitter.com/dentisttft](https://twitter.com/dentisttft)
 
 &#x200B;
 

@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nmr6s4/today_285_cftc_annual_margin_requirements_are/](https://www.reddit.com/r/Superstonk/comments/nmr6s4/today_285_cftc_annual_margin_requirements_are/)
 
 
-  [https://www.cftc.gov/PressRoom/PressReleases/8328-20](https://www.cftc.gov/PressRoom/PressReleases/8328-20) 
+  ![https://www.cftc.gov/PressRoom/PressReleases/8328-20](https://www.cftc.gov/PressRoom/PressReleases/8328-20) 
 
 >The Commission unanimously approved a final rule that amends the CFTC Margin Rule’s definition of material swaps exposure (MSE) by **revising the method for calculating the average aggregate notional amount of uncleared swaps and other financial products (AANA) for determining MSE.  More specifically, the final rule changes the period for calculating AANA from June, July, and August of the prior year, to March, April, and May of the current year, requiring the averaging of month-end AANA instead of daily AANA over the three-month calculation period.** The final rule also establishes September 1 of each year as the date for determining MSE after the end of the phased compliance schedule for initial margin (IM).  
 >  

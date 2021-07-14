@@ -7,7 +7,7 @@
 
 They are bringing the ban to an end now, but with [much tougher laws in place](http://m.koreaherald.com/view.php?ud=20210406000820) including prison time, $100% fines of the order amount and up to 500% fines of unfair profits made due to naked short selling.  
 
-They are allowing short selling to resume on May 3rd.  [The Korean Capital Markets Act](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=43324&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lang=ENG) has been revised to specifically come down hard on naked short sellers.  
+They are allowing short selling to resume on May 3rd.  ![The Korean Capital Markets Act](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=43324&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lang=ENG) has been revised to specifically come down hard on naked short sellers.  
 
 United States regulators are watching this sub right now.  They are looking for the information that we are handing them on a silver platter.  We are making their job easier by doing the research and coming up with ideas.  This intense regulator attention to this sub will lesson over time.  Now is the time to shine a bright light on issues, provide evidence, and suggest solutions.  Another thing that can be done is to shine a light on all of the other countries that are doing a fantastic job regulating short sellers and show the US regulators these shining examples.  The time is now and each and every one of you apes, ants, and other creatures of the jungle can find valid information through a google search.  
 

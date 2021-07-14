@@ -33,7 +33,7 @@ https://preview.redd.it/6wuwyovr9k971.png?width=750&format=png&auto=webp&s=46aed
 
 # January 15th 2020 - Signing of Phase One of U.S. - China Trade Deal
 
-January 15th, a Thursday marked a historic signing of Phase One of a U.S. - China trade deal. President Donald T. had made U.S. - China relations a central component of his policy as President for years before this, and so this agreement was a culmination of many years of work. Contrary to what was shown in the media, the agreement was not just about manufacturing, agriculture and intellectual property. The trade agreement has a whole chapter devoted to Financial Services  - mostly with China agreeing to allow the US access to their markets. Some sources even claimed that financial services was the winner of the entire trade agreement.
+January 15th, a Wednesday marked a historic signing of Phase One of a U.S. - China trade deal. President Donald T. had made U.S. - China relations a central component of his policy as President for years before this, and so this agreement was a culmination of many years of work. Contrary to what was shown in the media, the agreement was not just about manufacturing, agriculture and intellectual property. The trade agreement has a whole chapter devoted to Financial Services  - mostly with China agreeing to allow the US access to their markets. Some sources even claimed that financial services was the winner of the entire trade agreement.
 
 **On Monday the 20th January, only 5 days after this trade agreement was signed - Citadel Securities had agreed to pay a $97 Million Settlement to Chinese financial regulators, bringing a close to 5 years of active investigations and being partially banned from trading in China.** We will return to this event later on in the DD. For now, let's dive into the signing ceremony of the trade agreement.
 
@@ -235,7 +235,7 @@ In the third section, we learned a bit about Ken Griffin's and Donald T.'s relat
 
 So what else could make sense then? **Well what if when Donald T. mentioned that Ken wants to hide his money, he wasn't talking about money. Ken wanted to hide his trades.**
 
-Well looky here what dropped onto the Federal register on the Monday before the signing ceremony. Sweeping changes to the National Market System (Reg NMS II) that make market-making less profitable for entities such as Citadel and Virtu, and also make PFOF more difficult.
+Well looky here what dropped onto the Federal register on the Tuesday before the signing ceremony (one day before). Sweeping changes to the National Market System (Reg NMS II) that make market-making less profitable for entities such as Citadel and Virtu, and also make PFOF more difficult.
 
 [https://www.federalregister.gov/documents/2020/01/14/2020-00358/joint-industry-plan-notice-of-filing-of-the-forty-seventh-amendment-to-the-joint-self-regulatory](https://www.federalregister.gov/documents/2020/01/14/2020-00358/joint-industry-plan-notice-of-filing-of-the-forty-seventh-amendment-to-the-joint-self-regulatory)
 
@@ -283,4 +283,4 @@ I have briefly covered these changes before in this [DD](https://www.reddit.com/
 
 [https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/](https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/)
 
-[https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)
+![https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)

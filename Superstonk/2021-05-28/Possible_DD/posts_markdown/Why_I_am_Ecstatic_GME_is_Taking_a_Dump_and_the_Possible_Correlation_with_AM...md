@@ -18,7 +18,7 @@ Additionally, I am tracking possible cycles for dips in the yellow lines below t
 
 The one pattern I have seen is that on each Short Interest Reporting Settlement Date, marked by "SIR," GME takes a dump. *Especially* after a run such as the one this week. If the pattern as depicted by the yellow lines holds true, watch out for another dump on the first day of trading next Tuesday.
 
-[A cyclical pattern emerges](https://preview.redd.it/k6g14efb6w171.png?width=2433&format=png&auto=webp&s=a63cec898848e621d7b3325722b59dbe130afd24)
+![A cyclical pattern emerges](https://preview.redd.it/k6g14efb6w171.png?width=2433&format=png&auto=webp&s=a63cec898848e621d7b3325722b59dbe130afd24)
 
 # AMC Correlation
 

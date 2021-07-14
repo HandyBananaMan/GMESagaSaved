@@ -7,4 +7,4 @@ https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-
 *wink-wink, nudge-nudge: one time dividend paid in crypto*
 
 
-*edit: [The MOASS Preparation Guide](https://www.reddit.com/r/Superstonk/comments/mm5qle/the_moass_preparation_guide/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) trust me, go read it.*
+*edit: ![The MOASS Preparation Guide](https://www.reddit.com/r/Superstonk/comments/mm5qle/the_moass_preparation_guide/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) trust me, go read it.*

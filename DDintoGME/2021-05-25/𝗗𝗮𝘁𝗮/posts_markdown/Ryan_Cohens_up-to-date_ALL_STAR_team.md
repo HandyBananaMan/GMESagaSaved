@@ -8,4 +8,4 @@ https://preview.redd.it/y4r7cuned8171.jpg?width=981&format=pjpg&auto=webp&s=33c4
 
 From [GMEdd.com](https://GMEdd.com)
 
-[Link to Spreadsheet](https://onedrive.live.com/View.aspx?resid=D645EE2EDB0B6!2165&authkey=!ACYyRMIG2MvPQmE)
+![Link to Spreadsheet](https://onedrive.live.com/View.aspx?resid=D645EE2EDB0B6!2165&authkey=!ACYyRMIG2MvPQmE)

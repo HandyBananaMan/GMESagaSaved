@@ -16,7 +16,7 @@ I have been mailing, teksting, calling and Facebook posting them for some time. 
 
 Facebook OP:
 
-[Facebook comment](https://preview.redd.it/c4pmobghcu171.png?width=497&format=png&auto=webp&s=7a4a5dc8763f43d306a375e8a688831136bee5f3)
+![Facebook comment](https://preview.redd.it/c4pmobghcu171.png?width=497&format=png&auto=webp&s=7a4a5dc8763f43d306a375e8a688831136bee5f3)
 
 **Translated:**
 

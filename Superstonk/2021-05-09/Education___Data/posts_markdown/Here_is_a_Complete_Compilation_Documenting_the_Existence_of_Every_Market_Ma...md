@@ -164,7 +164,7 @@ Now, ok. A list of forum manipulation tactics isn't really actual evidence. Do w
 Last but not least, for those who would like to "know thy enemy" so to say, here is a speech by Ken Griffin uploaded in 2013.
 
 * **Ken Griffin Speech - Economic Club of Chicago (ECC) - May 2013**
-   * [https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
+   * ![https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
 
 \-------------------
 

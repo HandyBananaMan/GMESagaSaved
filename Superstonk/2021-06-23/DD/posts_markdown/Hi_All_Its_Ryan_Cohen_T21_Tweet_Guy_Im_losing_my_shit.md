@@ -32,7 +32,7 @@ Anyways, in this previous post, I calculated that Cohen had an **objectively, st
 
 # Ryan Cohen has tweeted again, the night before a T+21 day!
 
-[https://twitter.com/ryancohen/status/1407896835096678402](https://twitter.com/ryancohen/status/1407896835096678402)
+![https://twitter.com/ryancohen/status/1407896835096678402](https://twitter.com/ryancohen/status/1407896835096678402)
 
 &#x200B;
 

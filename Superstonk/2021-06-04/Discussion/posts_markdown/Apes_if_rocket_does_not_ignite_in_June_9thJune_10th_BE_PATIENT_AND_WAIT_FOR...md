@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/ns2kt3/apes_if_rocket_does_not_ignite_in_june_9thjune/](https://www.reddit.com/r/Superstonk/comments/ns2kt3/apes_if_rocket_does_not_ignite_in_june_9thjune/)
 
 
-I must start this post by complimenting u/criand. The events of the past week seem to have confirmed his [theory of the FTD loop missing link: the coupling of T+21 for Market Makers with T+35 for Clearing agencies to cover positions](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/). As he so clearly explained: [this feels eerily similar to the February and March run-ups](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/).
+I must start this post by complimenting u/criand. The events of the past week seem to have confirmed his [theory of the FTD loop missing link: the coupling of T+21 for Market Makers with T+35 for Clearing agencies to cover positions](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/). As he so clearly explained: ![this feels eerily similar to the February and March run-ups](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/).
 
 &#x200B;
 

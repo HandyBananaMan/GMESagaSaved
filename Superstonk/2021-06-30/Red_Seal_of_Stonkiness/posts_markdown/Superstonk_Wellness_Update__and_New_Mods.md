@@ -73,6 +73,6 @@ Many of you were disappointed in one or two of our previous streams. We heard yo
 
 &#x200B;
 
-[Moass Effect: Legendary Edition](https://preview.redd.it/hpo9i0ug2k871.jpg?width=728&format=pjpg&auto=webp&s=1d7adc6e4584306881d8f5f5aefb2435968060c3)
+![Moass Effect: Legendary Edition](https://preview.redd.it/hpo9i0ug2k871.jpg?width=728&format=pjpg&auto=webp&s=1d7adc6e4584306881d8f5f5aefb2435968060c3)
 
 I want to again thank each and every one of you for your dedicated support and activity in r/Superstonk. We truly have grown at an incredible rate, and I can only remain excited for the future, despite some of the obstacles we've faced. It's been one crazy ride, and I hope this ride continues until we find ourselves past the moon, past Andromeda, and onward. TO THE MOON 🚀🚀🚀

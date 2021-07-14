@@ -92,7 +92,7 @@ https://preview.redd.it/bac2kx5m40571.png?width=960&format=png&auto=webp&s=f8bc7
 
 EDIT: Full list of gainers & maintainers here:
 
-[https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py\_tfl6JsSlQA8slZ6bWpwDJ\_f\_ds5ps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py_tfl6JsSlQA8slZ6bWpwDJ_f_ds5ps/edit?usp=sharing)
+![https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py\_tfl6JsSlQA8slZ6bWpwDJ\_f\_ds5ps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py_tfl6JsSlQA8slZ6bWpwDJ_f_ds5ps/edit?usp=sharing)
 
 &#x200B;
 

@@ -64,4 +64,4 @@ But regardless; haters gonna hate no matter what we say. If you dislike what you
 
 I'll be on the other side encouraging & helping our whole community to get educated. This is my last post, edit, and comment here.
 
-[Mood: Relieved & Weightless](https://i.redd.it/a7snzzq95rt61.gif)
+![Mood: Relieved & Weightless](https://i.redd.it/a7snzzq95rt61.gif)

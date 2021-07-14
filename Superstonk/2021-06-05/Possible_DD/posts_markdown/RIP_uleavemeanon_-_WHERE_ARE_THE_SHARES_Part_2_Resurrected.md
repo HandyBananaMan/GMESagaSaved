@@ -182,7 +182,7 @@ I kinda doubt it, but barchart let’s you see each contract’s price history, 
 
 That’s a lot of demand for worthless puts, and considering the only real function of the *put* in Married-Puts is a placeholder to prevent a FTD - if I were short 100 million GME shares, I might buy as Married-Puts as I can, as cheap as I can, just so I can resell the shares and prevent the losses.
 
-Also, “put options can be extended very cost-effectively. If an investor has a six-month put option on a security with a determined strike price, it can be sold and replaced with a 12-month put option with the same strike price. This strategy can be done repeatedly and is referred to as rolling a put option forward.” - [**Investopedia**](https://www.investopedia.com/articles/optioninvestor/07/affordable-hedging.asp)
+Also, “put options can be extended very cost-effectively. If an investor has a six-month put option on a security with a determined strike price, it can be sold and replaced with a 12-month put option with the same strike price. This strategy can be done repeatedly and is referred to as rolling a put option forward.” - ![**Investopedia**](https://www.investopedia.com/articles/optioninvestor/07/affordable-hedging.asp)
 
 For this reason (and this is highly speculative), the high activity on puts at such low, OTM strike prices, could suggest involvement in a larger open position. Possibly a position from years ago, when some group of people thought they could profit from selling 35 million GME shares at 50 cents each.
 

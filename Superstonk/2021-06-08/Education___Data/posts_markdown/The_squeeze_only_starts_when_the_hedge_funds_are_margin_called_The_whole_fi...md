@@ -23,7 +23,7 @@ When the DTCC has to start shelling out, that’s when the price could go into t
 
 Expect fuckery at every step of the way, and don’t expect all margin calls to happen in one seamless stream; their goal is to never cover. They will try to drag this thing out and shake as many paper hands as possible.
 
-Edit: u/Upper_Piano1809 made a [great point ](https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/h13x6h9/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;amp;utm_name=iossmf&amp;amp;amp;context=3) that everyone, especially new apes need to know:
+Edit: u/Upper_Piano1809 made a ![great point ](https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/h13x6h9/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;amp;utm_name=iossmf&amp;amp;amp;context=3) that everyone, especially new apes need to know:
 
 Citadell is not just a hedgefund. It is conglomerate with multiple beaches. They’re also a self-clearing market maker. 
 

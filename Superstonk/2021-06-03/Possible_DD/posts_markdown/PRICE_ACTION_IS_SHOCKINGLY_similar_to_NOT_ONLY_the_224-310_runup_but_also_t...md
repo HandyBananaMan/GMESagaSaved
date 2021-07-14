@@ -71,7 +71,7 @@ Oh yeah... forgot about this one.  LOOK AT THE VOLUME.  ITS LITERALLY FUCKING IN
 
 Alright guys.  To summarize.  We could be looking at going parabolic again on June 9th based on the pattern identified by the authors I mentioned above.  The price action and technical signals are bullish as fuck.  I fucking love all you mother fuckers who are holding this thing, and I will be holding till we can change the world.
 
-Last note.  For dope technical analysis please check out the absolute man [Tradespotting](https://www.youtube.com/channel/UCI24I7XHA2yY4Fs-pVmplpA).  I think this is his reddit [**u/Frigerifico**](https://www.reddit.com/user/Frigerifico/) and this is his [sub](https://www.reddit.com/r/tradespotting/).  He's not some highly viewed bullshit youtuber.  He's a genuine Scottish dude who is passionate as fuck about GME and is amazing at technical analysis.  The dudes literally inspirational and will literally calm your fucking nerves about this whole thing. Literally.
+Last note.  For dope technical analysis please check out the absolute man [Tradespotting](https://www.youtube.com/channel/UCI24I7XHA2yY4Fs-pVmplpA).  I think this is his reddit [**u/Frigerifico**](https://www.reddit.com/user/Frigerifico/) and this is his ![sub](https://www.reddit.com/r/tradespotting/).  He's not some highly viewed bullshit youtuber.  He's a genuine Scottish dude who is passionate as fuck about GME and is amazing at technical analysis.  The dudes literally inspirational and will literally calm your fucking nerves about this whole thing. Literally.
 
 **Trust the process Apes.  See you in the far reaches of space.**
 

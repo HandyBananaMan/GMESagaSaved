@@ -50,7 +50,7 @@ You see if they had to do EVERYTHING on the open market they wouldn't be as prof
 
 &#x200B;
 
-[Off Exchange = Dark Pools \/ OTC  - this is just one days example for GME](https://preview.redd.it/89lhkqsuv2771.jpg?width=972&format=pjpg&auto=webp&s=4274c98779a15546c072934705fb70636eff7424)
+![Off Exchange = Dark Pools \/ OTC  - this is just one days example for GME](https://preview.redd.it/89lhkqsuv2771.jpg?width=972&format=pjpg&auto=webp&s=4274c98779a15546c072934705fb70636eff7424)
 
 &#x200B;
 

@@ -106,7 +106,7 @@ What make's me think today COULD be the low is, you guessed it, significant fib 
 
 &#x200B;
 
-[4hr](https://preview.redd.it/2qrmj1fuwn971.png?width=2768&format=png&auto=webp&s=131324b10245d06fae1396aa73c6366854c49b3a)
+![4hr](https://preview.redd.it/2qrmj1fuwn971.png?width=2768&format=png&auto=webp&s=131324b10245d06fae1396aa73c6366854c49b3a)
 
 Fib level? 193.5. Today's low? 193.71.
 

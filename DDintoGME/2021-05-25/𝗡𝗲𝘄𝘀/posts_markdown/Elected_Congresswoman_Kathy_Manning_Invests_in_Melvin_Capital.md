@@ -24,7 +24,7 @@ https://preview.redd.it/vgkpifrwha171.png?width=874&format=png&auto=webp&s=a5e26
 
 &#x200B;
 
-[Yep, that's the same Google ex-CEO Eric Schmidt](https://preview.redd.it/q5ybwl6q8b171.png?width=1134&format=png&auto=webp&s=82ef68a56decb9e6b4ca06fbe78d7a64fd57abf1)
+![Yep, that's the same Google ex-CEO Eric Schmidt](https://preview.redd.it/q5ybwl6q8b171.png?width=1134&format=png&auto=webp&s=82ef68a56decb9e6b4ca06fbe78d7a64fd57abf1)
 
 &#x200B;
 

@@ -2,7 +2,11 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/)
 
 
-[moass](https://i.redd.it/xrcur2axv4571.jpg) 
+>Not Fincical Advice, I am not a financial advisor[.](https://i.redd.it/xrcur2axv4571.jpg)
+
+[French Translation, Courtesy of "The Bagguette Guy"](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/?utm_source=share&utm_medium=web2x&context=3)
+
+[German Translation, Courtesy of Milkakuh123](https://www.reddit.com/r/Spielstopp/comments/nwuy2f/1gme_moass_these_zusammenfassung_20/?utm_source=share&utm_medium=web2x&context=3)
 
 # I. IMPORTANT LINKS FOR NEW MEMBERS TO r/superstonk
 
@@ -26,25 +30,23 @@ Leave a comment if you have any questions. If you prefer Chat or do not meet kar
 
 I have found myself more active on [Twitter](https://twitter.com/intent/user?screen_name=HCMF_MaceFace) than I ever really expected to be, so feel free to [follow me](https://twitter.com/intent/user?screen_name=HCMF_MaceFace) if you want things like the below:
 
+* Future DD Notifications, and sharing of DD from other contributors and other important SuperStonk Info
+* Shit-posting with the other Apes in the community
 * Antagonizing Market Adversaries, MSM Shills, etc.
-* Meme-ing with SuperStonk and the other Apes in the community
-* Getting Notifications for Future DD I post
+* Weaponization of Social Media
+   * If you want to follow SuperStonk Mods Active on Twitter:
+      * u/RedChessQueen99 \- [Follow](https://twitter.com/intent/user?screen_name=RedChessQueen99)
+      * u/Rensole \- [Follow](https://twitter.com/intent/user?screen_name=Rensole)
+      * u/pinkcatsonacid \- [Follow](https://twitter.com/intent/user?screen_name=pinkcatsonacid)
+      * u/Bye_Triangle \- [Follow](https://twitter.com/intent/user?screen_name=ByeTriangle)
+      * u/sharkbaitlol \- [Follow](https://twitter.com/intent/user?screen_name=u_sharkbaitlol)
+      * u/Bradduck_Flyntmoore \- [Follow](https://twitter.com/intent/user?screen_name=BradduckF)
+      * u/grungromp \- [Follow](https://twitter.com/intent/user?screen_name=grungromp)
+      * u/Hey_Madie \- [Follow](https://twitter.com/intent/user?screen_name=MetaMadie)
 
-**Disclaimer**
+# IV. TL;DR (Also at bottom)
 
->This writeup is NOT intended to serve as a source of proof/evidence behind this theory, and it operates under the assumption that the theory is valid and that the conditions it is built on are valid. Credit for the DD this Thesis is based on belongs to the broader retail community inside and outside of r/superstonk. I personally contributed very little beyond synthesizing and summarizing the thesis and mechanics in a digestible way to help enable others to get the word out, and I am not an expert on really any of these topics despite having some knowledge in them.
-
-# IV. TL;DR (Also at Bottom)
-
-1. Toxic Market Participants have built up massive  [short positions](https://www.investopedia.com/terms/s/short.asp) made through [Naked Shorting](https://www.investopedia.com/terms/n/nakedshorting.asp)
-2. Retail caught on to this strategy and discovered it can backfire if the company being shorted does not go bankrupt, especially if shares are bought and held indefinitely
-3. Rules and regulations have implemented by the DTCC and its subsidiaries have been geared towards preventing market collapse, as well as to minimize the ability to perform illegal trades (naked shorting)
-4. The SEC is also doing more to enforce compliance with the "rules"
-5. The manipulators are at the mercy of a vicious trade cycle (t+21 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
-6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
-7. Eventually, the prices of GME will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be affordable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
-9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
+Had to cut this to make room but wanted to preserve numbering
 
 # V. KEY CONCEPTS
 
@@ -52,31 +54,55 @@ These terms are key to understanding the theory and speculated value of a GME in
 
 Table of Contents for Key Concepts
 
-1. Stocks Concepts
-   1. Share/Stock
-   2. Synthetic Shares
-   3. Outstanding Shares
-   4. Restricted Shares
-   5. The Float
-   6. Annual General Meeting
-   7. Shareholder Votes
-2. Trade Positions
-   1. Long Position - Buying/Selling Stock
-   2. Short Position - Shorting/Covering Stock
-   3. Naked Short Position - Naked Shorting/Covering Stock
-3. Market Participants
-   1. Retail Investors
-   2. Institutional Investors
-   3. Market Makers
-   4. Prime Brokers
-   5. Clearinghouses
-   6. MSM
-4. IMPORTANT MARKET/TRADE MECHANICS (MOASS)
-   1. Fails to Deliver (FTD)
-   2. Margin
-   3. Margin Calls
-   4. Margin Calls Who Calls Who
-   5. Short Squeeze
+1 Stocks Concepts
+
+>1.1 Share/Stock  
+>  
+>1.2 Counterfeit Synthetic Shares  
+>  
+>1.3 Outstanding Shares  
+>  
+>1.4 Restricted Shares  
+>  
+>1.5 The Float  
+>  
+>1.6 Shareholder Vote
+
+2 Trade Positions
+
+>2.1 Long Position - Buying/Selling Stock  
+>  
+>2.2 Short Position - Shorting/Covering Stock  
+>  
+>2.3 Naked Short Position - Naked Shorting/Covering Stock
+
+3 Market Participants
+
+>3.1 Retail Investors  
+>  
+>3.2 Institutional Investors  
+>  
+>3.3 Market Makers  
+>  
+>3.4 Prime Brokers (Broker Dealers) and Brokers  
+>  
+>3.5 Clearinghouses  
+>  
+>3.6 Mainstream Media (MSM)
+
+4 IMPORTANT MARKET/TRADE MECHANICS
+
+>4.1 Fails to Deliver (FTD)  
+>  
+>4.2 Margin  
+>  
+>4.3 Margin Calls  
+>  
+>4.4 Margin Calls Who Calls Who  
+>  
+>4.5 Short Squeeze
+
+&#x200B;
 
 # 1 - STOCKS CONCEPTS
 
@@ -86,18 +112,19 @@ Table of Contents for Key Concepts
 
 * Stocks and Shares are often used interchangeably
 * Technically "shares" would represent how many of a specific company's stock, where buying multiple "stocks" would main that shares of multiple company's were bought
-   * ex. I bought 2 stocks; 10 shares of GME, and 60 shares of AMC
+   * ex. I bought 2 stocks; 10 shares of GME, and 60 shares of CHWY
 * There are different [classes of shares](https://www.investopedia.com/terms/c/class.asp) that are distinguished on their voting rights, sales charges, and other factors
-   * Classes of shares have relatively complex dynamics, but I will not go further into them here, as it is not as relevant to GME/AMC
+   * Classes of shares have relatively complex dynamics, but I will not go further into them here, as it is not as relevant to GME
 
-## 1. 2 - Synthetic Shares
+## 1. 2 - Counterfeit Synthetic Shares
 
-[Synthetic Shares](https://www.investopedia.com/terms/s/synthetic.asp) are the financial instruments that get produced through [Naked Shorting](https://www.investopedia.com/terms/n/nakedshorting.asp)
+Counterfeit [Synthetic Shares](https://www.investopedia.com/terms/s/synthetic.asp) are the financial instruments that get produced through [Naked Shorting](https://www.investopedia.com/terms/n/nakedshorting.asp)
 
-* Not to be confused with [synthetic options](https://www.investopedia.com/articles/optioninvestor/08/synthetic-options.asp) positions, which are legal/legitimate trade strategies that "simulate" the profits/losses as if the trader actually held those shares
+* Not to be confused with [synthetic options](https://www.investopedia.com/articles/optioninvestor/08/synthetic-options.asp) positions which are legal/legitimate trade strategies that "simulate" the profits/losses as if the trader actually held those shares, or legitimate Synthetic shares produced by legal shorting that produce a synthetic long off of a borrowed long (the long would exist twice)
 * Synthetic shares entitle the owner to all of the same rights as an investor owning a non-synthetic share
 * Cases where there is an excessive amount of synthetic shares point to the possibility that a stock is being abused or manipulated
 * Cannot be easily measured due to limited public transparency at the Market Maker and Prime Broker level
+* A great read on Counterfeiting [https://web.archive.org/web/20210131014127/http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html](https://web.archive.org/web/20210131014127/http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html)
 
 ## 1.3 - Outstanding Shares
 
@@ -120,16 +147,7 @@ The number of [Outstanding shares](https://www.investopedia.com/terms/o/outstand
 * In theory, the number of shares owned by [retail investors](https://www.investopedia.com/terms/r/retailinvestor.asp) and [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) should not exceed the float
 * GME’s float total is currently \~[56.89 Million](https://finance.yahoo.com/quote/GME/key-statistics/) shares (as of 6/10/21)
 
-## 1.6 - Shareholder Votes
-
-[Annual General Meetings](https://www.investopedia.com/terms/a/agm.asp)  basically is an annual meeting that allows shareholders to vote
-
-* Votes are cast for things like
-   * Appointment of directors
-   * Executive compensation
-   * Dividend adjustments
-
-# 1.7 - Shareholder Votes
+# 1.6 - Shareholder Votes
 
 [Shareholder Voting](https://www.investopedia.com/terms/v/votingright.asp) is a right extended to shareholders holding shares in the stock that entitle the owner to vote on cooperate policies
 
@@ -193,7 +211,7 @@ Basic flow of obtaining/closing a naked short position (kind of complex and invo
 
 1. A Short Seller "A" buys 100 shares from a Market Maker "Z" who can technically sell them without locating them
    1. Market Maker is Naked Shorting the stock, and the Short Seller is receiving 100 synthetic shares
-2. Short Seller "A" now buys a [Put Option](https://www.investopedia.com/terms/p/putoption.asp) (1 options contract is worth 100 shares) from Market Maker "Z" who is the [writer](https://www.investopedia.com/terms/w/writing-an-option.asp) of the put
+2. Short Seller "A" now buys a [Put Option](https://www.investopedia.com/terms/p/putoption.asp) (1 options contract is worth 100 shares) from Market Maker "Z" who is the [writer](https://www.investopedia.com/terms/w/writing-an-option.asp) of the put (Writing a put does not require the writer to have the shares on hand)
    1. Writing/selling a put nets +100 shares to the Market Maker, which results in the -100 shares that were naked shorted to be neutralized, so the Market Maker no is at a neutral position (Market Makers generally try to remain net 0 on trades
    2. Short Seller "A" now has 100 shares that can be short sold (they "borrowing" the synthetic shares the Market Maker effectively printed out of thin air), and one put contract that they can make money on as long as the price goes down
 3. The steps or the short seller are basically the same as a normal short sale now (2.2 steps 2-8), however, interest from the Short seller does not need to be paid to a lender (no one is formally lending it)
@@ -207,11 +225,7 @@ Basic flow of obtaining/closing a naked short position (kind of complex and invo
 * Retail Investors, also known as individual investors, are your average investors (not a company or organization)
 * Referred to as the "Dumb Money" by Wall Street and the "professional" financial community
 * Reddit communities
-   * Notable subreddits
-      * r/Superstonk
-      * r/gme
-      * r/amcstock
-      * r/wallstreetbets
+* u/DeepFuckingValue (@TheRoaringKitty on Twitter)
 
 ## 3.2 - Institutional Investors
 
@@ -225,22 +239,51 @@ Basic flow of obtaining/closing a naked short position (kind of complex and invo
    * Pension funds
    * Insurance companies
 
+Notable institutional Investors involved in the GME Saga so far
+
+* RC Ventures LLC (LONG)
+   * To Apes: Ryan "Buckle Up" Cohen, AKA GameStop Chairman, AKA Bringer of SHF Tears 🥰
+   * To SHFs and Market Manipulators: [Doom](https://youtu.be/-kWeB4IJ7sA)
+* BlackRock (Long)
+* Vanguard Group (Long)
+* Fidelity (Long) - May not have an active position on GME Specifically
+* Melvin Capital (Short)
+* Shitadel Advisors (Short)
+* Point72 (Short)
+
 ## 3.3 - Market Makers
 
-* [Market Makers](https://www.investopedia.com/terms/m/marketmaker.asp) are very different from "Investors" and are a bit harder to explain but basically are there to increase [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) in the market
-* When you buy and sell stock those trades are often going between you and a market maker
+[Market Makers](https://www.investopedia.com/terms/m/marketmaker.asp) can be Hedge Funds, Brokers, or Prime Brokers, who, rather than investing and holding long or short positions, they profit by ensuring there is [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) in the market buy simultaneously submitting buy AND sell orders close to the current price (they play both sides of the market and must always have shares to buy and sell)
+
+* Market Makers ensure that if some another investor wants to buy or sell shares near the current price of a stock, there is a corresponding buyer/seller on the other side of the trade offering to trade (for availability essentially)
+   * They will normally offer to buy at an amount that is a bit lower (generally fractions of a percent away) than the last price a share was sold for, or sell at a price that was a bit higher than the last price a share was sold for
+      * Ex. Lets say current share price is $200$; A Market Maker might have a buy order for 100 shares at $199.75, and have sell orders for 100 shares at $200.25, so assuming both of those trades execute, they net $50 on those 100 shares ($0.50 \* 100 shares)
+   * Generally, Market Makers intend to remain Net Neutral on their positions, making money based on volume traded, rather than holding positions long enough for them to increase or decrease
+   * They employ [High Frequency Trading](https://www.investopedia.com/terms/h/high-frequency-trading.asp) systems (computers) and algorithms to facilitate trading
+* When you buy and sell stock those trades are often trading between you and a market maker
 * Market makers get "special rules" that enable them to keep liquidity in the market when there is low liquidity
-* Naked shorting is one of the options Market Makers have when navigating a trade that other investors do not have
+   * Naked shorting is one of the options Market Makers have when navigating a trade that other investors do not have
 
-## 3.4 - Prime Brokers
+**Notable Market Makers**
 
-* A [**Prime**\-**Broker**](https://www.investopedia.com/terms/p/primebrokerage.asp) is a bundled group of services that investment banks and other financial institutions offer to hedge funds and other large investment clients that need to be able to borrow securities or cash in order to engage in [netting](https://www.investopedia.com/terms/n/netting.asp) to achieve [absolute returns](https://www.investopedia.com/terms/a/absolutereturn.asp)
+* Shitadel Securities
+   * While part of "Shitadel" this organization is separate from the Hedge Fund (Shitadel Advisors)
+* Virtu Financial
+* Credit Suisse Securities
+* Deutsche Bank Securities
+* Goldman Sachs and Company
+
+## 3.4 - Prime Brokers (Broker Dealers) and Brokers
+
+A [**Prime**\-**Broker**](https://www.investopedia.com/terms/p/primebrokerage.asp) is a bundled group of services that investment banks and other financial institutions offer to hedge funds and other large investment clients that need to be able to borrow securities or cash in order to engage in [netting](https://www.investopedia.com/terms/n/netting.asp) to achieve [absolute returns](https://www.investopedia.com/terms/a/absolutereturn.asp)
+
 * [Broker](https://www.investopedia.com/terms/b/broker.asp) vs [Prime-Broker](https://www.investopedia.com/terms/p/primebrokerage.asp)
    * A broker is an individual or entity that facilitates the purchase or sale of securities, such as the buying or selling of stocks and bonds for an investment account. A prime broker is a large institution that provides a multitude of services, from cash management to securities lending to risk management for other large institutions.
-* [Market Makers](https://www.investopedia.com/terms/m/marketmaker.asp) like go through Prime Brokers
+* While Brokers often route trades through [Market Makers](https://www.investopedia.com/terms/m/marketmaker.asp), MMs also through and receive margin from Prime Brokers
    * The Prime Broker is who would Margin Call Shitadel if their short position gets too large or they bleed too much capital
+* Retail investors trade through and receive margin from Brokers (not Prime Brokers)
 
-# 3.5 - Clearinghouses
+# 3.5 - Clearing Houses
 
 [Clearinghouses](https://www.investopedia.com/terms/c/clearinghouse.asp) are intermediaries between buyers and sellers
 
@@ -248,17 +291,43 @@ Basic flow of obtaining/closing a naked short position (kind of complex and invo
 * Regulates delivery of assets
 * Reports on trading data
 
-# 3.6* - MSM (Mainstream Media)
+# 3.6 - MSM (Mainstream Media)
 
 Though not a traditional market participant (as in they are not trade/financial entities) the [MSM](https://www.investopedia.com/terms/m/media_effect.asp) is worth noting due to its role in influencing the financial atmosphere and landscape
 
-# 4 - IMPORTANT MARKET/TRADE MECHANICS (MOASS)
+* The MSM (specifically the Financial Media in this case) overall is motivated through sponsors and through ratings
+   * They often cover topics based on what their sponsors want them to cover, and/or those that are more likely to draw many viewers
+* The Financial Mainstream media comes in many forms
+   * News Articles
+   * Blogs
+   * Television
+   * Newspaper
+
+# 4 - IMPORTANT MARKET/TRADE MECHANICS
 
 ## 4.1 - Failures to Deliver (FTD)
 
-* [FTDs](https://www.investopedia.com/terms/f/failuretodeliver.asp) occur when a buyer of a stock ends up not having the money to purchase the stock that they traded for OR, **when a short seller does not own the stock at the time of settlement**
+[FTDs](https://www.investopedia.com/terms/f/failuretodeliver.asp) occur when a buyer of a stock ends up not having the money to purchase the stock that they traded for OR, **when a short seller does not own the stock at the time of settlement**
+
 * FTDs are one of the main check-balances to naked shorting, so very high amounts of Failures to Deliver are indicative of this
-   * Spoiler: GME and AMC have tons of FTDs reported
+   * Spoiler: GME has tons of FTDs reported
+* FTDs are supposed to be covered within a specific time period in order to avoid violation of regulatory rules
+
+**Cycles**
+
+>Our understanding regarding the "rules" of T+21 and T+35 Cycles was constructed in [The SECs Key Points About Regulation SHO](https://www.sec.gov/investor/pubs/regsho.htm)
+
+T+21 Cycle
+
+When there are Failures to Delivery that are not satisfied by the required time period (T+4 for Short Sales and T+6 for Long Sales, a Market Maker must satisfy the FTD within 13 days following the T+4/6
+
+* If it was for a long sale that Failed to Deliver, T+6 (7 Days including the trade day) plus another 13 consecutive days (14 Days including the failed settlement day), amounts to 21 days (this is where the T+21 Cycle comes From)
+
+T+35 Cycle
+
+If a FTD passes through T+21, there is a maximum time of 35 calendar days after the initial trade date that the firm clearing the trade must pre-borrow (purchase) the share to satisfy the FTD
+
+* In theory, to avoid breaking the rules, Failures to Deliver must be satisfied some time within 35 Calendar Days of the trade date
 
 ## 4.2 - Margin
 
@@ -312,7 +381,7 @@ Though not a traditional market participant (as in they are not trade/financial 
 
 **LOSS: Short and Long Positions**
 
-**THIS IS THE RELEVANT ONE TO GME/AMC**
+**THIS IS THE RELEVANT ONE TO GME**
 
 1. Imagine I have $1000 in stock XXX (let's say 10 shares worth $100 each)
 2. My broker may lend me margin credit line equal to the value of my assets (so $1000 in margin), and let's say they give me a margin requirement of $800, meaning that the value of my non-margin assets (the ones I bought with my money) must be above $800 in order to keep using margin
@@ -326,14 +395,15 @@ Though not a traditional market participant (as in they are not trade/financial 
    1. I have now defaulted, as I cannot pay the $500
 7. Now that I have defaulted, the lender who gave me margin owns my short positions, meaning they are now short whatever was left
    1. The lender can now navigate the short positions however they want (they can hold them and hope the price goes down, and cover to close them, or they can close them immediately, costing them the whole $500 I still owed)
-8. GUH! (Translation if you are not WSB: Ah @#$%)
+8. GUH!
 
 ## 4.4 - Margin Calls Who Calls Who
 
-* Margin calls happen at levels 1-4 when the cell to the left cannot meet margin requirements
-   * Broker Margin Calls Retail Traders
-   * Prime Brokers  Margin Call Brokers, Hedge Funds, and Market Makers
-   * The NSCC Margin Calls Prime Brokers
+Margin calls happen at levels 1-4 when the cell to the left cannot meet margin requirements
+
+* Broker Margin Calls Retail Traders
+* Prime Brokers  Margin Call Brokers, Hedge Funds, and Market Makers
+* The NSCC Margin Calls Prime Brokers
 * Defaults roll up left to right
    * If Retail Trader defaults, Broker must take on their leftover positions
    * If Broker, Hedge Fund, or Market Maker defaults, the Prime Broker must take on their leftover positions
@@ -348,7 +418,8 @@ Though not a traditional market participant (as in they are not trade/financial 
 
 ## 4.5 - Short Squeeze
 
-* A [Short Squeeze](https://www.investopedia.com/terms/s/shortsqueeze.asp) is a market event that occurs when there is a large short position on a stock whose price rapidly increases higher than expected, normally due to a catalyst
+A [Short Squeeze](https://www.investopedia.com/terms/s/shortsqueeze.asp) is a market event that occurs when there is a large short position on a stock whose price rapidly increases higher than expected, normally due to a catalyst
+
 * During the short squeeze, the losses of those who have short positions continue to increase higher it goes
    * Since they **owe** shares, the cost to cover their position increases depending on how high the price goes (there is theoretically no limit on how high a stock can go)
 * As market participants who are short on the stock buy to cover, supply decreases and demand increases, causing the price to increase even more rapidly
@@ -390,17 +461,11 @@ Short positions amount to the total number of long positions minus the float, me
 
 # Consideration
 
-This is a totally unprecedented situation, so, in truth, there is a lot of uncertainty around what wind-down will look like once this gets to the Prime Brokers (major banks) and NSCC, as well as around how high the price peak will reach. There is a real risk of broad negative impact across the entire market because of this and the current Repo Rates and margin debt.
-
-A few things I think are safe to assume are:
-
-* Before anything happens that will cap or negatively affect the MOASS, all of the Hedge Funds and Market Makers who conspired to manipulate the market will likely have been bankrupted and eliminated from the market landscape by then
-* Prime Brokers will have been dealt a massive blow (like Credit Suisse after Archegos Collapse by way worse) that should hopefully ensure regulators tie up every loophole that was exploited to manipulate the market and harm it
-* The peak will reach higher than any other short squeeze in history and will likely never be beaten in the future (EVER)
+This is a totally unprecedented situation, so, in truth, there is a lot of uncertainty around what wind-down will look like once this gets to the Prime Brokers (major banks) and NSCC, as well as around how high the price peak will reach.
 
 # VII. Final thoughts...
 
-This is the GME MOASS thesis. GME is a stock that stands to hit an unprecedented price point due to the fact that manipulators of the market have failed to bankrupt GameStop thanks in huge part  to [the Legendary Keith Gill AKA u/DeepFuckingValue](https://en.wikipedia.org/wiki/Keith_Gill), [Ryan Cohen](https://en.wikipedia.org/wiki/Ryan_Cohen), [Michael Burry](https://en.wikipedia.org/wiki/Michael_Burry), and all of the GME investors who took part in this saga. It may not be today, this week, or even this month, but one day soon, these toxic participants have no choice but to buy the stock to close out their short positions.
+This is the GME MOASS thesis. GME is a stock that stands to hit an unprecedented price point due to the fact that manipulators of the market have failed to bankrupt GameStop thanks in huge part  to [the Legendary Keith Gill AKA u/DeepFuckingValue](https://en.wikipedia.org/wiki/Keith_Gill), [Ryan Cohen](https://en.wikipedia.org/wiki/Ryan_Cohen), and all of the GME investors who have taken part in this saga. It may not be today, this week, or even this month, but one day soon, these toxic participants have no choice but to buy the stock to close out their short positions.
 
 In some schools of thought, it is thought that these participants over-estimated how "reasonable" retail investors can be (who could be dumb enough to hold a stock as it fell from almost $500 to $40?). In truth, these manipulators didn't understand the demographic they were fighting with. Gamers are some of the most stubborn people on the planet. These are individuals who will sink tens of thousands of hours into the same video game because "they just like it". Well, "we like the stock", and to us, the adversaries on Wall Street just are just another "boss". We may have needed to retry a couple times, but we always win eventually. On top of that, they pissed off reddit, and under no circumstances, should you ever piss off reddit.
 
@@ -416,26 +481,8 @@ At this point, if you are still reading this, know that it is up to you to decid
 4. The SEC is also doing more to enforce compliance with the "rules"
 5. The manipulators are at the mercy of a vicious trade cycle (t+21 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
-7. Eventually, the prices of GME will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be affordable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+7. Eventually, the prices of GME will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be able to satisfy due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default and get forcibly liquidated by their prime broker
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
-# IX. STILL TL;DR
-
-Margin Calls happen across the market and force all market participants with short positions in GME to cover or go bankrupt if they cannot afford to. The NSCC's systems that will settle positions after mass defaults liquidates all short hedge funds and covers as much GME as it can. If the NSCC cannot pay everything, it fails up to the Fed and JPOW to print money to settle the trades.
-
-# X. Hedgies, velkommen til helvete. Vi kommer for tårene dine.
-
-PDF Link - I recommend accessing through an **incognito** browser so that no one else is able to see your email address if you are logged into google (I initially had this on OneDrive, which did not do this, however, shills seem to have gotten my Microsoft account blacklisted so I cannot access OneDrive now lol): 
-
-[https://drive.google.com/file/d/18SDUrEd-wNjKDwblo3ykoIxn627Vni0G/view?usp=sharing](https://drive.google.com/file/d/18SDUrEd-wNjKDwblo3ykoIxn627Vni0G/view?usp=sharing)
-
-EDIT: updated on 6/13/2021 to version 2.0 (kept the same post since it is referenced in a few places).
-
-EDIT: 6/19/2021
-
-I recommend also reviewing these two links, which go into market abuse elements around naked shorting. Some of the content over laps, but it is useful.
-
-"Counterfeiting Stock" - https://web.archive.org/web/20210131014127/http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html
-
-"Paid Bashers" (shills) - https://web.archive.org/web/20210131200557/http://counterfeitingstock.com/CS2.0/CS16ConfessionsOfAPaidStockBasher.html
+# IX. Hedgies, velkommen til helvete. Vi kommer for tårene dine.

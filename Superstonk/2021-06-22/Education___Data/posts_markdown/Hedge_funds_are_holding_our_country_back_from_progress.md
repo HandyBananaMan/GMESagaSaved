@@ -62,7 +62,7 @@ Okay, he got away but we all know he's a crook. Going back further, Don made hug
 >  
 >DRW Trading Group was also investigated by the CFTC for using high-speed trades to manipulate a reference rate that was used to calculate the value of a bet $350 million bet made by DRW. The investigation is on-going.  
 >  
->([https://hedgeclippers.org/rahm-emanuel/#\_ftn2](https://hedgeclippers.org/rahm-emanuel/#_ftn2))
+>(![https://hedgeclippers.org/rahm-emanuel/#\_ftn2](https://hedgeclippers.org/rahm-emanuel/#_ftn2))
 
 Looks like Kenny and Donny both like influencing politics, so they can keep getting richer.
 

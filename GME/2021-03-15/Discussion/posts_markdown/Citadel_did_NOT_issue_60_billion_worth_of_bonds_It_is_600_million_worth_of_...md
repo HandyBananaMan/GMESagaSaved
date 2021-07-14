@@ -36,6 +36,6 @@ Edit: u/sped2500 points out in the comments that these bonds are only rated BBB,
 
 Edit 2: Thank you u/fakename5 for the minor correction. The bonds were rated as BBB-, so they just barely missed being classified as “junk” bonds. 
 
-[Bond Ratings](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-ratings) 
+![Bond Ratings](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-ratings) 
 
 A big, bad hedge fund like Citadel can't get a better bond rating than BBB-?

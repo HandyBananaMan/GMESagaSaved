@@ -160,7 +160,7 @@ Lots of put volume for Mar 26 weekly. Interesting. 250, 260, 300 strikes. Someon
 
 &#x200B;
 
-[data courtesy of optionsonar.com](https://preview.redd.it/4vt2whvfoto61.png?width=2496&format=png&auto=webp&s=988f20a2275ceb2eb0caf9ca6f1937f5d847be07)
+![data courtesy of optionsonar.com](https://preview.redd.it/4vt2whvfoto61.png?width=2496&format=png&auto=webp&s=988f20a2275ceb2eb0caf9ca6f1937f5d847be07)
 
 **Edit 17 2:34PM:**
 

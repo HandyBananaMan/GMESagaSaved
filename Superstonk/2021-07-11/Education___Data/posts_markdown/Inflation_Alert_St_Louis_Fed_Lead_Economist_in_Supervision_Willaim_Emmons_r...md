@@ -43,4 +43,4 @@ Add that to the inflation monster that has been unleashed?
 
 https://i.redd.it/3znnehbbjoa71.gif
 
-[ Thanks for dropping by and taking a dive! Please let me know if you have any questions or areas to explore, happy to try and help! ](https://i.redd.it/yoe034rfjoa71.gif)
+![ Thanks for dropping by and taking a dive! Please let me know if you have any questions or areas to explore, happy to try and help! ](https://i.redd.it/yoe034rfjoa71.gif)

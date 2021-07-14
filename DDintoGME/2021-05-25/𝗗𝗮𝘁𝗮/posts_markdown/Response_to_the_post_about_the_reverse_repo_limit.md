@@ -54,7 +54,7 @@ END OF EDIT SECTION
 
 \--------------------------------------------------------------------
 
-Source of SOMA value: [https://www.newyorkfed.org/markets/soma-holdings](https://www.newyorkfed.org/markets/soma-holdings)
+Source of SOMA value: ![https://www.newyorkfed.org/markets/soma-holdings](https://www.newyorkfed.org/markets/soma-holdings)
 
 
 

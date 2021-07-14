@@ -10,4 +10,4 @@ As they like to say in the business: No news is good news. Today I bring you not
 
 This officially rules out the idea that yesterday was just some crazy coincidence. The time of covering FTD's with Deep ITM calls has come to an end. Lady Apes and GMEtlemen I can feel that the end is near. There is daylight and bananas at the end of the tunnel. Diamond hands hold strong. See you tomorrow. Dan\_Bren out
 
-Link to yesterday's post: [https://www.reddit.com/r/Superstonk/comments/ml2q0p/hedgies\_did\_not\_buy\_deep\_inthemoney\_calls\_today/](https://www.reddit.com/r/Superstonk/comments/ml2q0p/hedgies_did_not_buy_deep_inthemoney_calls_today/)
+Link to yesterday's post: ![https://www.reddit.com/r/Superstonk/comments/ml2q0p/hedgies\_did\_not\_buy\_deep\_inthemoney\_calls\_today/](https://www.reddit.com/r/Superstonk/comments/ml2q0p/hedgies_did_not_buy_deep_inthemoney_calls_today/)

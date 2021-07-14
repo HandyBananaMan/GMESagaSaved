@@ -223,7 +223,7 @@ My personal opinion on the matter, which is obviously not financial advice, is t
 
 [Pic #2: Money Glitch Activated: A Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh)
 
-[Pic #3: GME MOASS Supply & Demand Curve: INFINITY POOL EDITION](https://imgur.com/a/xVsyDnh)
+![Pic #3: GME MOASS Supply & Demand Curve: INFINITY POOL EDITION](https://imgur.com/a/xVsyDnh)
 
 ******************************************************
 This is a repost of my content from a month ago. [Further reading on Infinity Pool concept by /u/bluprince can be found here.] (https://www.reddit.com/r/Superstonk/comments/mpvx9n/the_infinity_pool_naming_a_theoretical_posit_for). This is a case of two people independently arriving at the same conclusion using different methodologies, which  ought to jack your tits that much more.

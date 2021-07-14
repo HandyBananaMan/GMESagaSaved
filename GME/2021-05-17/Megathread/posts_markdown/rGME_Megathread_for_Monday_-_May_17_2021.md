@@ -30,6 +30,6 @@ If you have a lot to say, please make a post instead. Familiarize yourself with 
 
 \- Made with ❤️ by the r/GME mod team.
 
-💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/ndhsp7/rgme_megathread_for_sunday_may_16_2021/) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 [**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
+💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/ndhsp7/rgme_megathread_for_sunday_may_16_2021/) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 ![**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
 
 r/GME *Megathreads are posted daily at 2:00 a.m. EDT*

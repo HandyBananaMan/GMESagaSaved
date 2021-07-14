@@ -120,7 +120,7 @@ u/dodecaphonecism \- [Attorneys and You: A Guide for the Newly Rich](https://www
 
 u/Soluna7827 \- [Post-MOASS: An In-Depth Examination of Financial Advisors, Tax Attorneys, Certified Public Accountants, & Wills](https://www.reddit.com/r/Superstonk/comments/mutuhv/postmoass_an_indepth_examination_of_financial/)
 
-u/DamsellinDistress \- [Being Rich is Easy, Staying Rich Isn't - Harsh Truths](https://www.reddit.com/r/Superstonk/comments/n3wdy1/being_rich_is_easy_staying_rich_isnt_harsh_truths/)
+u/DamsellinDistress \- ![Being Rich is Easy, Staying Rich Isn't - Harsh Truths](https://www.reddit.com/r/Superstonk/comments/n3wdy1/being_rich_is_easy_staying_rich_isnt_harsh_truths/)
 
 &#x200B;
 

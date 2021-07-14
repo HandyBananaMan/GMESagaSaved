@@ -24,7 +24,7 @@ ETF data: [https://www.etf.com/stock/GME](https://www.etf.com/stock/GME)
 
 Failure-To-Deliver data: [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
 
-Cleaned FTD data: [CleanedData](https://github.com/NibbieHub/FailureToDelivers/blob/main/data/cleaned/GMEandETFsLast.csv)
+Cleaned FTD data: ![CleanedData](https://github.com/NibbieHub/FailureToDelivers/blob/main/data/cleaned/GMEandETFsLast.csv)
 
 Repo: 
 (https://github.com/NibbieHub/FailureToDelivers)

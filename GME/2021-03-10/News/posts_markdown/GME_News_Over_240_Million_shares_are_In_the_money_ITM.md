@@ -36,7 +36,7 @@ If you compare the options chain with my DD from last week, you'll see a signifi
 
 &#x200B;
 
-[Barchart.com](https://preview.redd.it/y4ximnuam7m61.png?width=847&format=png&auto=webp&s=d4b62222bd6b78173abb7dd4c46eca8741279f01)
+![Barchart.com](https://preview.redd.it/y4ximnuam7m61.png?width=847&format=png&auto=webp&s=d4b62222bd6b78173abb7dd4c46eca8741279f01)
 
 For the apes who don't understand, the lower the put/call ratio, the more bullish(strong buying) sentiment there is.  This is a significant decrease in value when compared to last week of over 4 (bearish)
 

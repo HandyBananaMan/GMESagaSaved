@@ -40,7 +40,7 @@ The discussion around $GME has a sentiment score of .576, which is the highest i
 
 "Insider trading" used in this context just means trading reported by company insiders, not the illegal trading. Over the last 6 months, GameStop's directors and management have bought 2.79M shares of $GME and sold 226k.
 
-# [Trading by US Congressmen](https://www.quiverquant.com/sources/senatetrading)
+# ![Trading by US Congressmen](https://www.quiverquant.com/sources/senatetrading)
 
 There haven't been any trades of $GME in the last week by congressmen.
 

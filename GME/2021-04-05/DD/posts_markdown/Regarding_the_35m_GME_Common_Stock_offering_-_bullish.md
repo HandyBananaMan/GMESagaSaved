@@ -23,7 +23,7 @@ This is basically Gamestop trying to capitalize on the price right now, because 
 >	
 >Sales for the five-week March 2021 period increased approximately 18% from prior year
 
-[https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks)
+![https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks)
 
 This is bullish as fuck. We did it apes, Gamestop is transforming right in front of our eyes and the ecommerce sales are coming in. With all the free marketing Gamestop has received in the last months and the super loyal userbase it has around it now, GME is now a great value play and also in a great short squeeze position.
 

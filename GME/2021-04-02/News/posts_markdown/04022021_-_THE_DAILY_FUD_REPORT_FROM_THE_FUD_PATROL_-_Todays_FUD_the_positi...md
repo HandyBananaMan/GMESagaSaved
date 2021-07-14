@@ -88,7 +88,7 @@ But I know some of you apes are here lurking, looking for that sweet sweet necta
 
 # 1. The media are protecting themselves (possible)
 
-I'll keep this short. This is one is obvious. The media have access to exactly the same DD on [r/GME](https://www.reddit.com/r/GME/) that we do and in fact, they possibly have just a little more info.
+I'll keep this short. This is one is obvious. The media have access to exactly the same DD on ![r/GME](https://www.reddit.com/r/GME/) that we do and in fact, they possibly have just a little more info.
 
 They (like us) know the market is going to crash harder than the Wall St. pavement and one of the few stocks to come out alive positively afterwards, will be GME.
 
@@ -145,7 +145,7 @@ The overriding motive is to talk truthfully about current events to **gain trust
 
 **This balanced narrative is usually an act. The whole media is an act (but let's stay focused).**
 
-**So when your mother, father, caretaker, zookeeper, friends** ***(that aren't on*** [r/GME](https://www.reddit.com/r/GME/)) **or anyone else for that matter, shows you that everyone is now bullish about GME, show them why! BUT TELL THEM TO BEWARE OF THE POSSIBLE SHILLING THAT MAY FOLLOW.**
+**So when your mother, father, caretaker, zookeeper, friends** ***(that aren't on*** ![r/GME](https://www.reddit.com/r/GME/)) **or anyone else for that matter, shows you that everyone is now bullish about GME, show them why! BUT TELL THEM TO BEWARE OF THE POSSIBLE SHILLING THAT MAY FOLLOW.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

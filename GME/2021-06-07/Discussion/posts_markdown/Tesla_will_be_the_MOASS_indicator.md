@@ -27,7 +27,7 @@ Good question my ape in arms!
 The other day I was having a look at Michael Burry's latest investments, only because he's my hero and I want to have as many wrinkles as he has one day. As most of you know by now, this guy has a position worth [half a billion dollars in TSLA puts](https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/?utm_medium=android_app&utm_source=share).
 
 And why did he do that you ask?
-Because TSLA is the [largest long position GME Short Hedgies hold](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/).
+Because TSLA is the ![largest long position GME Short Hedgies hold](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/).
 
 So, the way I see it, the moment the Hedgies get margin called, there's going to be a BIG surplus of TSLA shares being sold at the market or auctioned. Meaning that the price will go down dramatically. This is for me, the indicator that the MOASS has started.
 

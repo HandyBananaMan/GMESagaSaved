@@ -78,4 +78,4 @@ TL:DR; Buy, Hold, Buckle Up.  GME Blockchain team hard at work to bring us somet
 
 &#x200B;
 
-[This is the PNG format of the diagram here for convenience, but the current version is always on my GitHub repo.](https://preview.redd.it/i09xoc4e78a71.png?width=4808&format=png&auto=webp&s=03f646219e746517c83364692af14e96180906d6)
+![This is the PNG format of the diagram here for convenience, but the current version is always on my GitHub repo.](https://preview.redd.it/i09xoc4e78a71.png?width=4808&format=png&auto=webp&s=03f646219e746517c83364692af14e96180906d6)

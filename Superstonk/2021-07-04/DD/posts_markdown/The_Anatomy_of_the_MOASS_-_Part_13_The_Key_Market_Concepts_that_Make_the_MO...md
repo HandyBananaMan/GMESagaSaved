@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/](https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/)
 
 
->Disclaimer: Not Financial Advice, I am not a Financial Advisor [.](https://i.redd.it/xrcur2axv4571.jpg)
+>Disclaimer: Not Financial Advice, I am not a Financial Advisor [.](https://preview.redd.it/f9nhhit3yo971.jpg)
 
 # BEFORE READING
 
@@ -16,10 +16,8 @@ Feel free to use the contents of this post however you want
 
 * Don't worry about asking for permission to:
    * Copy it / cross-post it / translate it / refine it / Use it in your own posts
-   * Do whatever you want
-
-Leave a comment if you have any questions
-
+      * Do whatever you want
+   * Translations: I have had a few of my DDs translated at this point, and figured I would note that, if you do wish to translate it into another language, feel free to send me a link to your post after it is finished and I will link it at the top and do my best to distribute to the broader audience Leave a comment if you have any questions
 * If you prefer Chat or do not meet karma requirements, you can hit me up on chat as well
 
 I have found myself more active on [Twitter](https://twitter.com/intent/user?screen_name=HCMF_MaceFace) than I ever really expected to be and do what I can to support the SuperStonk and the broader Ape Community, so feel free to [follow me](https://twitter.com/intent/user?screen_name=HCMF_MaceFace) if you want to see things like the below:
@@ -28,6 +26,15 @@ I have found myself more active on [Twitter](https://twitter.com/intent/user?scr
 * Shit-posting with the other Apes in the community
 * Antagonizing Market Adversaries, MSM Shills, etc.
 * Weaponization of Social Media
+   * If you want to follow SuperStonk Mods Active on Twitter:
+      * u/RedChessQueen99 \- [Follow](https://twitter.com/intent/user?screen_name=RedChessQueen99)
+      * u/Rensole \- [Follow](https://twitter.com/intent/user?screen_name=Rensole)
+      * u/pinkcatsonacid \- [Follow](https://twitter.com/intent/user?screen_name=pinkcatsonacid)
+      * u/Bye_Triangle \- [Follow](https://twitter.com/intent/user?screen_name=ByeTriangle)
+      * u/sharkbaitlol \- [Follow](https://twitter.com/intent/user?screen_name=u_sharkbaitlol)
+      * u/Bradduck_Flyntmoore \- [Follow](https://twitter.com/intent/user?screen_name=BradduckF)
+      * u/grungromp \- [Follow](https://twitter.com/intent/user?screen_name=grungromp)
+      * u/Hey_Madie \- [Follow](https://twitter.com/intent/user?screen_name=MetaMadie)
 
 # SERIES PREFACE
 
@@ -72,30 +79,53 @@ These terms are key to understanding the MOASS Thesis and speculated value of a 
 
 Table of Contents for Key Concepts
 
-1. Stocks Concepts
-   1. Share/Stock
-   2. Synthetic Shares
-   3. Outstanding Shares
-   4. Restricted Shares
-   5. The Float
-2. Trade Positions
-   1. Long Position - Buying/Selling Stock
-   2. Short Position - Shorting/Covering Stock
-   3. Naked Short Position - Naked Shorting/Covering Stock
-3. Market Participants
-   1. Retail Investors
-   2. Institutional Investors
-   3. Market Makers
-   4. Prime Brokers (Broker Dealers) and Brokers
-   5. Clearinghouses
-   6. Mainstream Media (MSM)
-4. IMPORTANT MARKET/TRADE MECHANICS
-   1. Fails to Deliver (FTD)
-   2. Margin
-   3. Margin Calls
-   4. Margin Calls Who Calls Who
-   5. Short Squeeze
-5. MOASS Order of Operations
+1 Stocks Concepts
+
+>1.1 Share/Stock  
+>  
+>1.2 Counterfeit Synthetic Shares  
+>  
+>1.3 Outstanding Shares  
+>  
+>1.4 Restricted Shares  
+>  
+>1.5 The Float  
+>  
+>1.6 Shareholder Vote
+
+2 Trade Positions
+
+>2.1 Long Position - Buying/Selling Stock  
+>  
+>2.2 Short Position - Shorting/Covering Stock  
+>  
+>2.3 Naked Short Position - Naked Shorting/Covering Stock
+
+3 Market Participants
+
+>3.1 Retail Investors  
+>  
+>3.2 Institutional Investors  
+>  
+>3.3 Market Makers  
+>  
+>3.4 Prime Brokers (Broker Dealers) and Brokers  
+>  
+>3.5 Clearinghouses  
+>  
+>3.6 Mainstream Media (MSM)
+
+4 IMPORTANT MARKET/TRADE MECHANICS
+
+>4.1 Fails to Deliver (FTD)  
+>  
+>4.2 Margin  
+>  
+>4.3 Margin Calls  
+>  
+>4.4 Margin Calls Who Calls Who  
+>  
+>4.5 Short Squeeze
 
 # 1 - STOCKS CONCEPTS
 
@@ -109,14 +139,15 @@ Table of Contents for Key Concepts
 * There are different [classes of shares](https://www.investopedia.com/terms/c/class.asp) that are distinguished on their voting rights, sales charges, and other factors
    * Classes of shares have relatively complex dynamics, but I will not go further into them here, as it is not as relevant to GME
 
-## 1. 2 - Synthetic Shares
+## 1. 2 - Counterfeit Synthetic Shares
 
-[Synthetic Shares](https://www.investopedia.com/terms/s/synthetic.asp) are the financial instruments that get produced through [Naked Shorting](https://www.investopedia.com/terms/n/nakedshorting.asp)
+Counterfeit [Synthetic Shares](https://www.investopedia.com/terms/s/synthetic.asp) are the financial instruments that get produced through [Naked Shorting](https://www.investopedia.com/terms/n/nakedshorting.asp)
 
-* Not to be confused with [synthetic options](https://www.investopedia.com/articles/optioninvestor/08/synthetic-options.asp) positions, which are legal/legitimate trade strategies that "simulate" the profits/losses as if the trader actually held those shares
+* Not to be confused with [synthetic options](https://www.investopedia.com/articles/optioninvestor/08/synthetic-options.asp) positions which are legal/legitimate trade strategies that "simulate" the profits/losses as if the trader actually held those shares, or legitimate Synthetic shares produced by legal shorting that produce a synthetic long off of a borrowed long (the long would exist twice)
 * Synthetic shares entitle the owner to all of the same rights as an investor owning a non-synthetic share
 * Cases where there is an excessive amount of synthetic shares point to the possibility that a stock is being abused or manipulated
 * Cannot be easily measured due to limited public transparency at the Market Maker and Prime Broker level
+* A great read on Counterfeiting [https://web.archive.org/web/20210131014127/http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html](https://web.archive.org/web/20210131014127/http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html)
 
 ## 1.3 - Outstanding Shares
 
@@ -138,6 +169,19 @@ The number of [Outstanding shares](https://www.investopedia.com/terms/o/outstand
 
 * In theory, the number of shares owned by [retail investors](https://www.investopedia.com/terms/r/retailinvestor.asp) and [institutional investors](https://www.investopedia.com/terms/i/institutionalinvestor.asp) should not exceed the float
 * GME’s float total is currently \~[56.89 Million](https://finance.yahoo.com/quote/GME/key-statistics/) shares (as of 6/10/21)
+
+# 1.6 - Shareholder Votes
+
+[Shareholder Voting](https://www.investopedia.com/terms/v/votingright.asp) is a right extended to shareholders holding shares in the stock that entitle the owner to vote on cooperate policies
+
+* Examples of what votes are cast for
+   * Appointment of directors
+   * Executive compensation
+   * Dividend adjustments
+* [Overvoting (info in the middle of this page)](https://www.sec.gov/spotlight/proxyprocess/proxyvotingbrief.htm)
+   * When there is an overvote (like GME on 6/9), the votes will be normalized to a number based on the amount of shares that are held by DTC
+   * The official 8K form cannot be officially submitted with an overvote
+      * When this happens, the SEC and Company are notified
 
 # 2 - TRADE POSITIONS
 
@@ -420,7 +464,29 @@ The main point of the post is to read and understand section V, but here is sect
 5. The manipulators are at the mercy of a vicious trade cycle (T+21/35 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
 7. Eventually, the prices of GME will get so high that prime brokers will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be meetable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default and be forcibly liquidated
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
 # Stay Tuned for Parts 2 and 3
+
+Part 2 (WIP planned to release by 7/8 or 7/9) - MOASS Mechanics, Landscape, Atmosphere, and Tactics: What "Normal" Looks Like in the Months/Weeks Leading to MOASS
+
+* Tactics
+   * MSM Propaganda
+   * Community Infiltration
+   * Price Manipulation
+   * Steganography
+* Mechanics
+   * Loopholes
+   * Patterns and Cycles
+* What does Normal Look Like (Expectations to set)
+   * Price Movement
+   * MSM Content
+   * Shill Activity
+
+Part 3 (WIP planned to release by 7/12) - MOASS Mindset and Ways to Navigate
+
+* Think Critically
+* Understand "Why" You Believe in Your Thesis and the Basics "How" the Thesis is Possible
+* Don't be afraid to ask questions to become learned
+* FUD

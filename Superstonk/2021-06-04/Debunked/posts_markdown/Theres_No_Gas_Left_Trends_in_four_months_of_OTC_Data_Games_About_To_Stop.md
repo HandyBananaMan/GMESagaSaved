@@ -87,7 +87,7 @@ They also need to trade smaller amounts since they have less shares to work with
 * UBS Securities LLC – [Graph 1](https://imgur.com/1wfxsch), [Graph 2](https://imgur.com/vE9hb4n) (two graphs, decreased significantly)
 * [USTK Ustocktrade Securities](https://imgur.com/26zMEB4) (relatively stable with spike at beginning of February)
 * Virtu Americas LLC – [Graph 1](https://imgur.com/6nDMv48), [Graph 2](https://imgur.com/BvPSa3t) (two graphs, both decreased)
-* [Wolverine Securities](https://imgur.com/CCVp4xh) (trade size plummeted, then was low, out at end of March)
+* ![Wolverine Securities](https://imgur.com/CCVp4xh) (trade size plummeted, then was low, out at end of March)
 
 **Conclusion:** Groups with stable trade size in current market conditions are in less trouble than the ones that decreased their trade size. I’ve highlighted the firms at the end that seem to be in more trouble than others.
 

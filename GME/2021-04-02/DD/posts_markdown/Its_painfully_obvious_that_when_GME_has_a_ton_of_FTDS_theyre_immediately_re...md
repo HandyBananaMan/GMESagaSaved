@@ -16,7 +16,7 @@ I know there's a shit ton of lines on this pic, but bear with me. Just look at t
 
 Here's zoomed into February to the latest date:
 
-[https://i.imgur.com/1cUJrKQ.png](https://i.imgur.com/1cUJrKQ.png)
+![https://i.imgur.com/1cUJrKQ.png](https://i.imgur.com/1cUJrKQ.png)
 
 Okay, so here's my thought, sum up the gains and the losses, see what comes out.
 

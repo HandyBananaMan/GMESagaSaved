@@ -6,8 +6,6 @@
 
 I have seen an influx of posts saying they "found the algo" but haven't produced anything more than a graph with lines instead of performing statistical comparison on population to populations and within sample statistical comparison. This has led to a lot of misleading points. If you can't prove it with math and are just drawing lines, it is PURE observational bias.
 
-https://preview.redd.it/8ww5v9r9hma71.png?width=1818&format=png&auto=webp&s=f2596f1f9a7bbf3909c27ccc7e35b85fb8203baf
-
 # Recent Shit Post
 
 I've noticed a recent influx of people stating the algo speaks to them and I wanted to address a few posts that uses bad math (actually, no math at all).
@@ -22,7 +20,7 @@ I continued to look into using typical rates of change and removing data from th
 
 https://preview.redd.it/thkt9ypv2na71.png?width=793&format=png&auto=webp&s=0b85ce6686ba22a2f46680d1b40ce32c559301c2
 
-Currently, we are seeing this [post](https://www.reddit.com/r/Superstonk/comments/oi10y3/the_algorithm_it_speaks_to_me_it_says_400_this/?utm_source=share&utm_medium=web2x&context=3) which is using the same idea of applying a linear equation to the overall timeline. Like the exponential floor, it places a flat line but instead of the low, it is using the closing price. From my listed examples above even when I did use some sort of math to determine a line, the underlining assumption of having a single line to describe everything was incorrect.
+Currently, we are seeing this ![post](https://www.reddit.com/r/Superstonk/comments/oi10y3/the_algorithm_it_speaks_to_me_it_says_400_this/?utm_source=share&utm_medium=web2x&context=3) which is using the same idea of applying a linear equation to the overall timeline. Like the exponential floor, it places a flat line but instead of the low, it is using the closing price. From my listed examples above even when I did use some sort of math to determine a line, the underlining assumption of having a single line to describe everything was incorrect.
 
 https://preview.redd.it/9y2u2lt53na71.png?width=960&format=png&auto=webp&s=4dc6b3657f229b8ab1e2e383666b2cb800db64e2
 
@@ -46,11 +44,11 @@ We post DD for peer review. Sometimes, we are right and sometimes we are wrong. 
 
 Just because you like what you see, does not mean it is right. The term "observational bias confirmed" is meant to be used a satire and not the center point of any authentic DD.
 
-Edit / add-on: I am not saying to not do any TA. I am expressing if you are going to make a point, be prepared to have it backed by some fact based evidence as well as to be criticized by your fellow apes. It is not what the topic is. This is discussing how it is being presented and accepting how it may be reviewed. 
+Edit / add-on: I am not saying to not do any TA. I am expressing if you are going to make a point, be prepared to have it backed by some fact based evidence as well as to be criticized by your fellow apes. It is not what the topic is. This is discussing how it is being presented and accepting how it may be reviewed.
 
 # Question everything.
 
-I believe the "Possible DD" and "DD" flair should be removed and replaced by "Speculation" until it has been successfully peer reviewed. Mods would then grant the "Possible DD" or "DD" flair for (potentially) accurate submissions and "Debunked" for incorrect ones. 
+I believe the "Possible DD" and "DD" flair should be removed and replaced by "Speculation" until it has been successfully peer reviewed. Mods would then grant the "Possible DD" or "DD" flair for (potentially) accurate submissions and "Debunked" for incorrect ones.
 
 # Ape Level Situation
 
@@ -63,3 +61,5 @@ Edit 2: ape level situation
 Edit 3: better wording for easier understanding
 
 Edit 4: I wrote this post the way I did so I could show how I have been wrong in the past with some of my analysis. However, with each failed research, a new and better one has been created through the inputs of my fellow apes. It's ok to be wrong. Just learn from it.
+
+Edit: removed intro image because I misinterpreted it as satire. 

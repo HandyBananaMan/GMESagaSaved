@@ -282,7 +282,7 @@ There were heroes who were fighting against corruption and fraud alone, others t
 
 &#x200B;
 
-[ Daphne Caruana Galizia ](https://preview.redd.it/w60tygelvxy61.jpg?width=640&format=pjpg&auto=webp&s=31722f78555c5b29fd433eeddc7715b55b10a9c8)
+![ Daphne Caruana Galizia ](https://preview.redd.it/w60tygelvxy61.jpg?width=640&format=pjpg&auto=webp&s=31722f78555c5b29fd433eeddc7715b55b10a9c8)
 
 &#x200B;
 

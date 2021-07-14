@@ -12,7 +12,7 @@ Hint: It is no coincidence that the old law will go out of effect the same day t
 
 They have apparently been margin called by the DTCC as evident by the numerous snapshots of a 634,000,000 or also seen when it was 630,000,000 volume starting at $182 outstanding showing on the free Think or Swim platform (app) for today 3/24!!!! 
 
-[Click here to SEE 634 million shorted shares about to get margin-called](https://imgur.com/gallery/xCfwwPL?s=sms)
+![Click here to SEE 634 million shorted shares about to get margin-called](https://imgur.com/gallery/xCfwwPL?s=sms)
 
 SHF: Short hedge fundies
 

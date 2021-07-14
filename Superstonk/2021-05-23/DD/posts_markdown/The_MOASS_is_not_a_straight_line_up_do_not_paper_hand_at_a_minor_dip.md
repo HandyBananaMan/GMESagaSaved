@@ -36,7 +36,7 @@ However, as DTCC members, they'll be forced to pay up assets to buy GME and clos
 
 Obviously, nothing can be done long term. Eventually, the squeeze will continue, and it will continue much higher than before, as all the shorts will just be fuel for the rocket. In fact, naked shorting Gamestop is not only reckless but extremely bad for the global economy. But. . .
 
-[Do you think wall street cares about the global economy or the average citizen?](https://preview.redd.it/vcbunx3zrw071.jpg?width=520&format=pjpg&auto=webp&s=f0d411ce38261963aaf229ee6f9a616c28fb5ac3)
+![Do you think wall street cares about the global economy or the average citizen?](https://preview.redd.it/vcbunx3zrw071.jpg?width=520&format=pjpg&auto=webp&s=f0d411ce38261963aaf229ee6f9a616c28fb5ac3)
 
 **The only way this squeeze will stop is if a short attack causes apes to paperhand.**
 

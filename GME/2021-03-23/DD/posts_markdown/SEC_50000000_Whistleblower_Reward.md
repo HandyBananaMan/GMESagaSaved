@@ -26,7 +26,7 @@ If someone out there has a serious claim - they should contact an attorney who s
 
 [https://kkc.com/whistleblower-services/sec-whistleblower-attorney/](https://kkc.com/whistleblower-services/sec-whistleblower-attorney/)
 
-[https://kkc.com/our-whistleblower-law-firm/our-whistleblower-lawyers/stephen-m-kohn/](https://kkc.com/our-whistleblower-law-firm/our-whistleblower-lawyers/stephen-m-kohn/)
+![https://kkc.com/our-whistleblower-law-firm/our-whistleblower-lawyers/stephen-m-kohn/](https://kkc.com/our-whistleblower-law-firm/our-whistleblower-lawyers/stephen-m-kohn/)
 
 (there are a lot more out there - just google "federal whistleblower attorney")
 

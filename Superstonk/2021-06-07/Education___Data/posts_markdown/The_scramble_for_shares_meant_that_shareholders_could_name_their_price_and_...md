@@ -12,7 +12,7 @@ If we don't let them off. 30million is not a joke.
 
 And together we change the world.
 
-**Main**: Many of you would know by now about the VW short squeeze of 2008. But [this article](https://www.telegraph.co.uk/finance/newsbysector/transport/3281537/Porsche-and-VW-share-row-how-Germany-got-revenge-on-the-hedge-fund-locusts.html) was a really good write up of the situation.
+**Main**: Many of you would know by now about the VW short squeeze of 2008. But ![this article](https://www.telegraph.co.uk/finance/newsbysector/transport/3281537/Porsche-and-VW-share-row-how-Germany-got-revenge-on-the-hedge-fund-locusts.html) was a really good write up of the situation.
 
 The TL:DR of the squeeze. Porsche swallowed up most of VW's shares through options. When it was announced that there was 5% of the float remaining and 12% was sold short, there was a panic to cover their positions - the short squeeze.
 

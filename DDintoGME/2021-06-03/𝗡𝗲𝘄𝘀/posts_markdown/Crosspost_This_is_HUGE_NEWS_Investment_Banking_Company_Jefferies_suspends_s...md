@@ -74,4 +74,4 @@ https://preview.redd.it/7u8xip8sp3371.png?width=654&format=png&auto=webp&s=a6b67
 
 Link to article verifying: [https://www.streetinsider.com/Momentum+Movers/Jefferies+said+to+block+short+sells+in+GME%2C+AMC+and+MVIS+from+being+executed/18515758.html?classic=1](https://www.streetinsider.com/Momentum+Movers/Jefferies+said+to+block+short+sells+in+GME%2C+AMC+and+MVIS+from+being+executed/18515758.html?classic=1)
 
-DFV also made a tweet with a reference to "Jefferies": [https://twitter.com/theroaringkitty/status/1400522985375780872?s=21](https://twitter.com/theroaringkitty/status/1400522985375780872?s=21)
+DFV also made a tweet with a reference to "Jefferies": ![https://twitter.com/theroaringkitty/status/1400522985375780872?s=21](https://twitter.com/theroaringkitty/status/1400522985375780872?s=21)

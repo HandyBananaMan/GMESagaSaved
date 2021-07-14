@@ -6,7 +6,7 @@
 
 "This now looks like a flawed strategy."
 
-[https://www.bloomberg.com/news/articles/2021-06-03/defiant-meme-stock-short-sellers-stare-down-4-5-billion-loss](https://www.bloomberg.com/news/articles/2021-06-03/defiant-meme-stock-short-sellers-stare-down-4-5-billion-loss)
+![https://www.bloomberg.com/news/articles/2021-06-03/defiant-meme-stock-short-sellers-stare-down-4-5-billion-loss](https://www.bloomberg.com/news/articles/2021-06-03/defiant-meme-stock-short-sellers-stare-down-4-5-billion-loss)
 
 &#x200B;
 

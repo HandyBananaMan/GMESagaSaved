@@ -64,7 +64,7 @@ If you're interested, here are a few of the other stocks I called out yesterday 
 
 &#x200B;
 
-[TLRY 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/ithamkyqkq171.png?width=910&format=png&auto=webp&s=45502faf1856804b10a8fbedabbedd5db37b8afc)
+![TLRY 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/ithamkyqkq171.png?width=910&format=png&auto=webp&s=45502faf1856804b10a8fbedabbedd5db37b8afc)
 
 &#x200B;
 

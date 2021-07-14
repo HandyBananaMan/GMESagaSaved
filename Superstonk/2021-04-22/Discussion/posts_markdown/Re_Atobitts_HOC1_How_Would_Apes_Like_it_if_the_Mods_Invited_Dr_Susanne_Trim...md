@@ -18,4 +18,4 @@ Obligatory GME to the moon 🚀🚀🚀
 
 &#x200B;
 
-Edit: Credits to u/[LongTimeLurkTard](https://www.reddit.com/user/LongTimeLurkTard/) for reminding me: It is my intention that this AMA interview be solely about the broader macroeconomic environment and the inner workings of the DTCC and DTC. I don't assume that these two individuals have the most up to date info regarding GME, and I have no intention of creating another AMA disaster where hedgies have another seemingly legitamate reason to tank the stock.
+Edit: Credits to u/![LongTimeLurkTard](https://www.reddit.com/user/LongTimeLurkTard/) for reminding me: It is my intention that this AMA interview be solely about the broader macroeconomic environment and the inner workings of the DTCC and DTC. I don't assume that these two individuals have the most up to date info regarding GME, and I have no intention of creating another AMA disaster where hedgies have another seemingly legitamate reason to tank the stock.

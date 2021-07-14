@@ -231,7 +231,7 @@ backups:
 
 [https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
-[https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
+![https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
 And I'll be posting updates as they happen here:
 

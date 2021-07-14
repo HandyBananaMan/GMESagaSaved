@@ -8,4 +8,4 @@ Over the first four months of 2021, GME has not seen a single day-over-day close
 
 &#x200B;
 
-[Bigger Movements on Smaller Volume = No More Shares](https://preview.redd.it/aeuuybdomrz61.png?width=598&format=png&auto=webp&s=d1b1bdffb8779be197c96096bb570517beeb62dd)
+![Bigger Movements on Smaller Volume = No More Shares](https://preview.redd.it/aeuuybdomrz61.png?width=598&format=png&auto=webp&s=d1b1bdffb8779be197c96096bb570517beeb62dd)

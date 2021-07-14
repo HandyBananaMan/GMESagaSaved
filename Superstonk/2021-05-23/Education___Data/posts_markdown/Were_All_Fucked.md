@@ -198,7 +198,7 @@ https://preview.redd.it/hdabo7p6vc171.png?width=975&format=png&auto=webp&s=d089c
 
 # 11. Margin debt 💵
 
-FINRA Margin Debt is at a current level of 822.55B, up from 813.68B last month and up from 479.29B one year ago. This is a change of 1.09% from last month and 71.62% from one year ago. Source: [https://ycharts.com/indicators/finra\_margin\_debt](https://ycharts.com/indicators/finra_margin_debt). Thank you to u/CapoeiraCharles who reminded me of this.
+FINRA Margin Debt is at a current level of 822.55B, up from 813.68B last month and up from 479.29B one year ago. This is a change of 1.09% from last month and 71.62% from one year ago. Source: ![https://ycharts.com/indicators/finra\_margin\_debt](https://ycharts.com/indicators/finra_margin_debt). Thank you to u/CapoeiraCharles who reminded me of this.
 
 https://preview.redd.it/szaksdemvb171.png?width=1154&format=png&auto=webp&s=b8b26435ab2e534370f322600c2a7ffa1098ce13
 

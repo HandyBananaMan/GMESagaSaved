@@ -24,7 +24,7 @@ If for whatever reason you found your viking spirit and want to go full ape mode
 
 1 Ape can not do this alone.......
 
-[THIS IS not Fianancial Advice](https://preview.redd.it/g6cdjxqvrm071.png?width=468&format=png&auto=webp&s=bd9bd56850947d87981560496dd4742f97ff7fe3)
+![THIS IS not Fianancial Advice](https://preview.redd.it/g6cdjxqvrm071.png?width=468&format=png&auto=webp&s=bd9bd56850947d87981560496dd4742f97ff7fe3)
 
 Edit: Note to self. Never could have thought but hoped this would get traction.
 

@@ -263,4 +263,4 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 # 
 
-# Edit: I removed my earlier piece about dark pools as it was determined to be misinformation. Please see [this response by Dave Lauer](https://www.reddit.com/r/Superstonk/comments/n9331h/dave_lauer_clears_things_up_about_the_dark_pool/?utm_source=share&utm_medium=web2x&context=3) to explain.
+# Edit: I removed my earlier piece about dark pools as it was determined to be misinformation. Please see ![this response by Dave Lauer](https://www.reddit.com/r/Superstonk/comments/n9331h/dave_lauer_clears_things_up_about_the_dark_pool/?utm_source=share&utm_medium=web2x&context=3) to explain.

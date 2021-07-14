@@ -30,7 +30,7 @@ Stock float data: [https://finance.yahoo.com/](https://finance.yahoo.com/)
 
 OTC trading data: [https://otctransparency.finra.org/otctransparency/OtcIssueData](https://otctransparency.finra.org/otctransparency/OtcIssueData)
 
-Dow 30 stocks: [https://www.cnbc.com/dow-30/](https://www.cnbc.com/dow-30/)
+Dow 30 stocks: ![https://www.cnbc.com/dow-30/](https://www.cnbc.com/dow-30/)
 
 &#x200B;
 

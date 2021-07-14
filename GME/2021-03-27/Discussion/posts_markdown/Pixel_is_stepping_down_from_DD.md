@@ -7,4 +7,4 @@ He just tweeted. I actually have tears that he is being threatened to the extend
 I hope they find out who it is and nail them. One thing to be battling out stocks. It’s another to stoop this fucking low.
 
 
-Edit because tears: [Pixel Tweet](https://twitter.com/heyitspixel1/status/1375888422825512967?s=21)
+Edit because tears: ![Pixel Tweet](https://twitter.com/heyitspixel1/status/1375888422825512967?s=21)

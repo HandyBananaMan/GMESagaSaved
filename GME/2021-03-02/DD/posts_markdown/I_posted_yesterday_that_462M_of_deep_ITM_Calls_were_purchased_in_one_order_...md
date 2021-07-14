@@ -12,7 +12,7 @@ Today, thanks to /u/Dan_Bren alerting me in [his comment in that thread](https:/
 
 This brings us to just under 6,000 Calls in total worth around $65M+ in premiums, just for this one entity.
 
-I also wondered in the post yesterday what the purpose of all these calls might be.   Many of you astutely pointed out that it was likely a HF flipping the script, and going from short to long, foisting the short position onto the Call writers, most likely a MM.  You also linked to [Uncle Bruce's video](https://www.youtube.com/watch?v=VwXLRoAw3Z4&feature=youtu.be) about the possibility of them doing exactly that, which he posted shortly before this occurred.  If you haven't listened to it yet, I highly recommend it.
+I also wondered in the post yesterday what the purpose of all these calls might be.   Many of you astutely pointed out that it was likely a HF flipping the script, and going from short to long, foisting the short position onto the Call writers, most likely a MM.  You also linked to ![Uncle Bruce's video](https://www.youtube.com/watch?v=VwXLRoAw3Z4&feature=youtu.be) about the possibility of them doing exactly that, which he posted shortly before this occurred.  If you haven't listened to it yet, I highly recommend it.
 
 As was the case yesterday and will be forevermore, I am not a financial analyst, just a GME APE who likes the stock.  Do your own DD and don't act solely on my comments.
 

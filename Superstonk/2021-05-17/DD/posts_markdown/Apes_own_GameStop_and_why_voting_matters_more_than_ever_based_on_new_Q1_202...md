@@ -61,4 +61,4 @@ As always, none of this is financial advice. I just like the stock. Do your own 
 Data compiled from:
 
 * [https://news.gamestop.com/financial-information/sec-filings](https://news.gamestop.com/financial-information/sec-filings) (Insider Data)
-* [https://fintel.io/so/us/gme](https://fintel.io/so/us/gme) (Institutional Data)
+* ![https://fintel.io/so/us/gme](https://fintel.io/so/us/gme) (Institutional Data)

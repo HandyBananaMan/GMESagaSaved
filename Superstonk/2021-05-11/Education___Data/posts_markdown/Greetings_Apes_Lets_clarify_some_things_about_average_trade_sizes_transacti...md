@@ -50,7 +50,7 @@ Below is a sample of some GME trades from NYSE TAQ data, which is historical dat
 
 In general, the workflow goes like this: one or more FINRA members conduct a transaction; based on the details of the transaction, the member responsible for reporting sends it to the TRF facility with whom they have a relationship; the TRF facility reports it to the SIPs.
 
-A month later you are able to see more specific venue breakdowns for where the volume actually occurred. The [FINRA OTC Transparency](https://otctransparency.finra.org/otctransparency) website lets you get all that data by week. "ATS Issue Data" is for registered dark pools; "OTC (Non-ATS) Issue Data" is for internalizers.
+A month later you are able to see more specific venue breakdowns for where the volume actually occurred. The ![FINRA OTC Transparency](https://otctransparency.finra.org/otctransparency) website lets you get all that data by week. "ATS Issue Data" is for registered dark pools; "OTC (Non-ATS) Issue Data" is for internalizers.
 
 # Small average trade sizes don't necessarily imply manipulative behavior
 

@@ -207,7 +207,7 @@ Negative Beta is now even higher at -8
 
 This is fucking insane
 
-[https://www.reddit.com/r/GME/comments/m6mje0/gme\_beta\_from\_bloomberg\_and\_ownership\_update/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m6mje0/gme_beta_from_bloomberg_and_ownership_update/?utm_medium=android_app&utm_source=share)
+![https://www.reddit.com/r/GME/comments/m6mje0/gme\_beta\_from\_bloomberg\_and\_ownership\_update/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m6mje0/gme_beta_from_bloomberg_and_ownership_update/?utm_medium=android_app&utm_source=share)
 
 &#x200B;
 

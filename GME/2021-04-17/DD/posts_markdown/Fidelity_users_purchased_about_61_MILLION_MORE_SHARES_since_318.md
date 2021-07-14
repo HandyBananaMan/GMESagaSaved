@@ -78,7 +78,7 @@ Net shares = (Avg. buy) * (# Buy orders) - (Avg. sell) * (# Sell orders)
 ```
 
 Based on the above analysis, we can plausibly assume the average buy is 51 shares and the average sell is 66.
-[Plugging in the numbers from Fidelity, we get the following cumulative share purchases:](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjpGn7c6iozFnAs_nQFQUYNxTbS-Etkha5GUCVa5Br0y2Kv-sZ_tBKtc_tPhDYbPbps92jC3tSXLqH/pubchart?oid=1738592533&format=interactive)
+![Plugging in the numbers from Fidelity, we get the following cumulative share purchases:](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjpGn7c6iozFnAs_nQFQUYNxTbS-Etkha5GUCVa5Br0y2Kv-sZ_tBKtc_tPhDYbPbps92jC3tSXLqH/pubchart?oid=1738592533&format=interactive)
 
 https://imgur.com/a/eX8ZleU
 

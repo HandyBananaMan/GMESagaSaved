@@ -108,7 +108,7 @@ It's pretty simple... If Bank of America, is only allowed to have a limit of X..
 
 Bank of America made Net $17b in 2020. Raising $15b is like doubling their net revenue for 2020.
 
-[https://d1io3yog0oux5.cloudfront.net/\_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy\_statement/BAC\_2021\_ProxyStatement.pdf](https://d1io3yog0oux5.cloudfront.net/_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy_statement/BAC_2021_ProxyStatement.pdf)
+![https://d1io3yog0oux5.cloudfront.net/\_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy\_statement/BAC\_2021\_ProxyStatement.pdf](https://d1io3yog0oux5.cloudfront.net/_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy_statement/BAC_2021_ProxyStatement.pdf)
 
 So on the surface... $15 billion doesn't sound like a lot for Bank of America. Big bank raising liquidity. Yup. They're raising it, to allow themselves to borrow more money. Why would they need to borrow more money? **MOASS**
 

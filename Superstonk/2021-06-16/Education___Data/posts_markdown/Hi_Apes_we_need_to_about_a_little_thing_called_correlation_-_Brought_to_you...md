@@ -190,4 +190,4 @@ Correlation references if you'd like to learn more:
 
 [https://www.displayr.com/what-is-correlation/](https://www.displayr.com/what-is-correlation/)
 
-[https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)
+![https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)

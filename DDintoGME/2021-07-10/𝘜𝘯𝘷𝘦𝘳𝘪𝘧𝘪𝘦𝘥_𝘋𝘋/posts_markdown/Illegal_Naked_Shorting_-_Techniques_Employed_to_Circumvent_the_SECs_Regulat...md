@@ -231,4 +231,4 @@ Issues:
 >  
 >13. Market makers and hedge funds working in concert can create a virtually unlimited number of counterfeit shares.
 
-Acknowledgements - [https://smithonstocks.com](https://smithonstocks.com/comp/)
+Acknowledgements - ![https://smithonstocks.com](https://smithonstocks.com/comp/)

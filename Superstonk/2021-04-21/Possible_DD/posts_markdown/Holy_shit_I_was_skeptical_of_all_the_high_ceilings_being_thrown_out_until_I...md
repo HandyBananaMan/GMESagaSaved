@@ -65,7 +65,7 @@ This really is a revolution. As Scaramucci Tweeted, this is like the modern-day 
 
 This is the way.
 
-[Trust me. Everything is going to be fine.](https://www.youtube.com/watch?v=jbWHZwD5rGQ&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ab_channel=FlashReborn)
+![Trust me. Everything is going to be fine.](https://www.youtube.com/watch?v=jbWHZwD5rGQ&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ab_channel=FlashReborn)
 
 Edit: Since this hit r/all, I thought I would mention that I am a female because WSBs has gotten a lot of criticism about it being a "boys' club". It isn't.
 

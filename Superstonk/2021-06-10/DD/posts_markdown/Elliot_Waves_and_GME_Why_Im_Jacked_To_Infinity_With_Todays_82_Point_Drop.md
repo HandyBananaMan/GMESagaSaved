@@ -97,7 +97,7 @@ I dont even really trade technical patterns anymore, but I couldn't ignore this 
 
 &amp;#x200B;
 
-[checks out](https://preview.redd.it/hejg8rxc5i471.png?width=640&amp;format=png&amp;auto=webp&amp;s=5bed0a39da33eb7aac0d330d6befd921b757e3cd)
+![checks out](https://preview.redd.it/hejg8rxc5i471.png?width=640&amp;format=png&amp;auto=webp&amp;s=5bed0a39da33eb7aac0d330d6befd921b757e3cd)
 
 This lines up with the wave 2 bottom, cup and handle patterns are very bullish, bias confirmed.
 

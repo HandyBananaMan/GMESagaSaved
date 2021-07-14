@@ -108,7 +108,7 @@ What's that I hear you saying over you bowl of cheerios with no milk? "Oh, but t
 
 I don't want to tell you jack shit about me, who I am or what I do in the real world, but I do have personal experience on this front, I do know what I'm talking about. The SEC may have their thumbs up their asses but if you fuck the dog too much, they will have no choice but to prosecute you. You can stick a finger or two in, but when you go balls deep there will be consequences.
 
-[https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities\_Fraud\_FY19.pdf](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities_Fraud_FY19.pdf)
+![https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities\_Fraud\_FY19.pdf](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities_Fraud_FY19.pdf)
 
 Fraud, actual fucking fraud, not the stupid ass bullshit people on here like to call fraud, but REAL fucking fraud gets the government wet. USDAs will jump on them, it's a slam dunk easy case, the government gets to collect a bunch of sweet cash from their restitution payments, probation offices get to toss them onto the low risk caseload and check in with them a couple times a year. Everyone on the federal side wins. Again, I don't want to say too much but I know what I'm talking about on this topic, these assholes get prosecuted, they get years of probation and sometimes small stints in prison. Worst of all, you lose your ability to EVER practice finance again. Scarlett letter, they're fucked.
 

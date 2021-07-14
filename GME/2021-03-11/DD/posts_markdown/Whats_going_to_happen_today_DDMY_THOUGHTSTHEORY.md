@@ -60,6 +60,6 @@ https://preview.redd.it/j9xy79vgdem61.png?width=1168&format=png&auto=webp&s=ea89
 
 That price action also fits my Endgame DD theory, of the Gamma Squeeze taking place this week in order to trigger the Short Squeeze next week. If you haven't read the Endgame DD or the Updates, feel free to do it now. Quote:  "TL;DR: **MY Conclusion**: The squeeze is inevitable. It got delayed many times, but no matter what data you look at, the outcome is always the same, everything points to this specific date. Also: Other Hedge funds smell blood. They can take out some of their biggest competitors as well as making billions and billions of dollars in the process. There couldn’t be a bigger win win situation for them, than this one. **I think the squeeze is starting a few days, maybe even a week prior to March 19th. I think that it’ll start March 15th and build up all the way to March 19th**, where the real rocket takes off. How long is it going to last? I don’t know, no one does. But I think it’s going to last for at least one week. Of course, it’s going to get more and more expensive to buy in over time, so you don’t want to miss out. As always: Buy and Hodl"
 
-My Endgame DD: [https://www.reddit.com/r/GME/comments/ltua0n/endgame\_dd\_how\_last\_weeks\_actions\_all\_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
+My Endgame DD: ![https://www.reddit.com/r/GME/comments/ltua0n/endgame\_dd\_how\_last\_weeks\_actions\_all\_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
 
 ## 

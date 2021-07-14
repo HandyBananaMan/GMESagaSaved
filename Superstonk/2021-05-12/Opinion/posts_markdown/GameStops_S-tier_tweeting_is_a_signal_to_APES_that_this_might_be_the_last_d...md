@@ -16,6 +16,6 @@ GameStop is prowling this sub daily and they WONT let us down. Power to the Play
 
 Can't Stop. Won't Stop. This is where the GAME STOPS.
 
-[GameStop Twitter hitting us with the BACK-TO-BACK Tetris](https://preview.redd.it/3d3i4b74cqy61.png?width=960&format=png&auto=webp&s=d9f0b21f0b97245da65b8e5eb55befe114b5dabf)
+![GameStop Twitter hitting us with the BACK-TO-BACK Tetris](https://preview.redd.it/3d3i4b74cqy61.png?width=960&format=png&auto=webp&s=d9f0b21f0b97245da65b8e5eb55befe114b5dabf)
 
 Disclaimer: All of this is my opinion and please do not twist it into "tHiS pOsT sUgGeSts GaMeStOP iS mAnIpUlAtInG tHe MaRkEt. sHiLl FuD". Of course this is not financial advice.

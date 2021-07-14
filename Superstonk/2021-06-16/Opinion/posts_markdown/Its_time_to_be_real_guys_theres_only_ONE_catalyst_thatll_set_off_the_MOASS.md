@@ -6,7 +6,7 @@ I think it's important we have this discussion to bring people back to reality. 
 
 For anybody who missed it, here's the post I'm referring to. Read it **multiple** times, this is **THE MOST IMPORTANT DD aside from HOC** that has been posted on this sub:
 
-[https://www.reddit.com/r/Superstonk/comments/o0scoy/the\_bigger\_short\_how\_2008\_is\_repeating\_at\_a\_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
+![https://www.reddit.com/r/Superstonk/comments/o0scoy/the\_bigger\_short\_how\_2008\_is\_repeating\_at\_a\_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
 
 Now, for awhile we've speculated that GME will moon when the market crashes, but for a long time now, I think we've been looking at it the wrong way. **The market will not crash BECAUSE of GME, the market is doomed to crash ON ITS OWN and GME is the best hedge against the crash you could possibly buy.**
 

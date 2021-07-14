@@ -299,7 +299,7 @@ I mean, this is really a crazy story. **Tooner writes that 55 Water Street was p
 
 &#x200B;
 
-[NYC DA Morgenthau](https://preview.redd.it/2ljy58qik3571.png?width=600&format=png&auto=webp&s=b9a07de3c7a15919b30a4203a2111bfdc002f83b)
+![NYC DA Morgenthau](https://preview.redd.it/2ljy58qik3571.png?width=600&format=png&auto=webp&s=b9a07de3c7a15919b30a4203a2111bfdc002f83b)
 
 **So in 1992, there was a takeover by Bronner and Co. after former owners defaulted on $538 million worth of loans. RSA was the largest holder of the loans at $100 million worth, and bought the rest for 29 cents on the dollar.**
 

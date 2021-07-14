@@ -49,7 +49,7 @@ https://preview.redd.it/zzfhrcrfgj571.jpg?width=828&format=pjpg&auto=webp&s=db00
 
 Listen here hedgies, you cant kick the can down the road forever, DIAMOND HANDS got you beat. It costs nothing to hodl these shares to the moon and it will cost you everything to try and make apes paper hand. 
 
-[Diamond Hands \(APES OWN THE FLOAT....and then some\)](https://preview.redd.it/vubzln7hgj571.jpg?width=828&format=pjpg&auto=webp&s=79588bf1c9fec000bc91e92663b4146a0eb6e10f)
+![Diamond Hands \(APES OWN THE FLOAT....and then some\)](https://preview.redd.it/vubzln7hgj571.jpg?width=828&format=pjpg&auto=webp&s=79588bf1c9fec000bc91e92663b4146a0eb6e10f)
 
 📈As for me, I like the stock📈
 

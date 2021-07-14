@@ -2,6 +2,12 @@
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/](https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/)
 
 
+# Debunked: Incorrect Assumptions
+
+The below data analysis has been determined to be not accurate due to GME trend to not follow a single linear line that fits perfectly by date. I tried to apply the exponential floor theory and make it work but was unable to do so. Also, using the most common rate of change was wrong.
+
+# Post
+
 This is not financial advice.  I am merely a fucking autistic number crunching, experiment running engineer. I decided to do some finagling with some real world data since I was able to get to a computer that has excel. The following is fairly "basic" and none of it required a fancy software. I'll do something with that later.
 
 This is another view point at looking at low share price data that extends from a [previous post](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/) I did. I wanted to add a mathematical backing to determining lowest share price versus have to do a guess and check. Below is how I came to the equation that was able to predict the lowest share price and how things are going as planned even if the share dips (PTSDdog.jpg) below the regression line.
@@ -148,7 +154,7 @@ The lowest share price value has been following a solid trend and we are still h
 
 Edit 1: [Stock Price Data](https://finance.yahoo.com/quote/GME/history?p=GME)
 
-Edit 2: [tweet](https://twitter.com/pwnwtfbbq/status/1404267817562644484) and added to TLDR.
+Edit 2: ![tweet](https://twitter.com/pwnwtfbbq/status/1404267817562644484) and added to TLDR.
 
 Edit 3: Added some more to the introductory.
 

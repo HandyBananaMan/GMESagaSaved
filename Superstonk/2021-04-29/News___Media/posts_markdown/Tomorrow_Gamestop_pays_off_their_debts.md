@@ -6,7 +6,7 @@ To my apes and apettes!
 
 Tomorrow is the day that gamestop will pay off their senior notes for 2023. They will be paying cash to rid themselves of debt, this is insanely bullish. 
 
-Here's the link to the official annoucement: [Gamestop Announces Voluntary Early Redemption](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-voluntary-early-redemption-senior-notes-0)
+Here's the link to the official annoucement: ![Gamestop Announces Voluntary Early Redemption](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-voluntary-early-redemption-senior-notes-0)
 
 After tomorrow, when the debts have been paid, the company is legally allowed to discuss partnerships and plans for the future, so buckle up!
 

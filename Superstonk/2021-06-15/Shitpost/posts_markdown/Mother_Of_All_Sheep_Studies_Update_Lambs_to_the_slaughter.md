@@ -47,4 +47,4 @@ Diolch  / Thank you - hope that filled a DD sized gap in your day
 
 🐑🚀🐑🚀🐑🚀🐑🚀🐑🚀
 
-[And they hate mayo, even minty mayo](https://preview.redd.it/ipcxiqcy1f571.png?width=1632&format=png&auto=webp&s=1eeae27b32c941c138c8e503401a1041e7cfcbaa)
+![And they hate mayo, even minty mayo](https://preview.redd.it/ipcxiqcy1f571.png?width=1632&format=png&auto=webp&s=1eeae27b32c941c138c8e503401a1041e7cfcbaa)

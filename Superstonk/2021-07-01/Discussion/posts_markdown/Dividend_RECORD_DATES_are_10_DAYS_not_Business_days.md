@@ -3,7 +3,7 @@
 
 
 [Straight from sec.gov](https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf)  
-Direct: [https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf](https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf)
+Direct: ![https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf](https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf)
 
 Refer to section 501:
 

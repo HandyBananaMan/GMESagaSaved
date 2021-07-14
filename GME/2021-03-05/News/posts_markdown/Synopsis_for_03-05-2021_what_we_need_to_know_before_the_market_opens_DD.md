@@ -253,7 +253,7 @@ Writing your Rep does help, make sure they know as much as they need! give them 
 
 Edit 2: Deepfuckingvalue just posted!
 
-[https://twitter.com/TheRoaringKitty/status/1367858650551902209](https://twitter.com/TheRoaringKitty/status/1367858650551902209)
+![https://twitter.com/TheRoaringKitty/status/1367858650551902209](https://twitter.com/TheRoaringKitty/status/1367858650551902209)
 
 &#x200B;
 

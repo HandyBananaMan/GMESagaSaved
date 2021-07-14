@@ -8,7 +8,7 @@ I'm not about to talk about what price I think is a "floor" or make any kind of 
 
 https://preview.redd.it/5rvznty0kb171.png?width=1004&format=png&auto=webp&s=4e5c5b12abeab83ef853067c84656ce3643f17c1
 
-When I saw that, and then saw it go back up to the mid $200s in March, I saw something that looked very familiar. I am a strong believer that flash crashes and other extreme moves actually have information within them. And I have often seen them act as magnets for price. They might appear to be flukes or weird occurrences, but I've seen the price come back to them too many times to dismiss them. So seeing GME trading at $138.80, it seemed like a no-brainer to [jump in](https://www.reddit.com/r/Superstonk/comments/naoqr9/bought_some_gme_yesterday/).
+When I saw that, and then saw it go back up to the mid $200s in March, I saw something that looked very familiar. I am a strong believer that flash crashes and other extreme moves actually have information within them. And I have often seen them act as magnets for price. They might appear to be flukes or weird occurrences, but I've seen the price come back to them too many times to dismiss them. So seeing GME trading at $138.80, it seemed like a no-brainer to ![jump in](https://www.reddit.com/r/Superstonk/comments/naoqr9/bought_some_gme_yesterday/).
 
 Will it hit those levels from January? I wouldn't be surprised, but I don't claim to know. Will there be a MOASS that takes it to levels no stock has ever seen before? Again, I have no great insight on this. I think that anything is possible and if the DD and theories around naked shorting and FTDs are correct, then we're in for a hell of ride.
 

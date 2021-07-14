@@ -45,7 +45,7 @@ I have clearly been able to demonstrate that the apes have the capability of see
 
 Are you going to continue the farce, or will you finally allow the American markets to be free and release your puts? The bag does not have to rest on your shoulders. I have barely touched on the potential pitfall that is the ETF Derivative market that you have us leveraged against. But the longer this goes, the more I will continue to learn, digest, and then spit back out until everyone sees this for what it is. People will start to literally believe that $420,690,000 is the floor once that information comes out. Think you can delta hedge your way to that #?
 
-[It is time to cover, Authorized Participant. Do not make the same mistake of those from 2008. Have courage to do the right thing.](https://imgur.com/d6TpIP4)
+![It is time to cover, Authorized Participant. Do not make the same mistake of those from 2008. Have courage to do the right thing.](https://imgur.com/d6TpIP4)
 
 Forecast: **Frothy.**
 

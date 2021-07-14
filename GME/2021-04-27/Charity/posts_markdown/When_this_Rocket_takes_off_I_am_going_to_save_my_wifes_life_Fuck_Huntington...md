@@ -17,4 +17,4 @@ Edit: WOW what an amazing community! I truly love all you Apes! This beautiful s
 
 HODL THE MOTHERFUCKING LINE!!!!!!
 
- [Huntington’s Disease Society of America](https://hdsa.org)
+ ![Huntington’s Disease Society of America](https://hdsa.org)

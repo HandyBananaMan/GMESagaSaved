@@ -20,7 +20,7 @@ Edit: they did not create the image itself, but they did edit it. And they edite
 
 Edit 2: did not site source for my confirmation bias on legal name change / CUSIP # implications. Yes, copied and pasted. The facts remain the same though.
 
-[https://investorshub.advfn.com/boards/read\_msg.aspx?message\_id=82107281](https://investorshub.advfn.com/boards/read_msg.aspx?message_id=82107281) ^(source)
+![https://investorshub.advfn.com/boards/read\_msg.aspx?message\_id=82107281](https://investorshub.advfn.com/boards/read_msg.aspx?message_id=82107281) ^(source)
 
 Edit 3: I appreciate all the feedback, both positive and critical. I didn't expect this to gain this much traction. One piece I want to elaborate on is the rebranding. **Whether they decide to rebrand or not, they may make the legal name change while keeping GameStop as their trade name (DBA).** So there is merit to the point that they may not actually rebrand, but changing their legal name would require a change in CUSIP # which could be a catalyst. 
 

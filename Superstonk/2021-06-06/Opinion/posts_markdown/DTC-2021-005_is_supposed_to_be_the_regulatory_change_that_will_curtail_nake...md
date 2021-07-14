@@ -49,7 +49,7 @@ It has now been over a month since its disappearance, and has yet to reappear.  
 
 My reasoning is that that there is very likely extreme pressure from within and without the DTCC to not enact DTC-2021-005.  Almost certainly there will be political pressure as well, to the highest levels of US government. 
 
-Naked short selling can be immensely profitable to sellers, and has a core strategic value.  As [reported](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/) by our honorary ape [Lucy Komisar](https://en.m.wikipedia.org/wiki/Lucy_Komisar) (love ya, baby!), Ken Griffin, CEO of Citadel LLC, one of the largest market makers, said to the House Financial Services Committee in February, 
+Naked short selling can be immensely profitable to sellers, and has a core strategic value.  As [reported](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/) by our honorary ape ![Lucy Komisar](https://en.m.wikipedia.org/wiki/Lucy_Komisar) (love ya, baby!), Ken Griffin, CEO of Citadel LLC, one of the largest market makers, said to the House Financial Services Committee in February, 
 
 ”Hedge funds have to borrow shares to short sales,”, and added,
 

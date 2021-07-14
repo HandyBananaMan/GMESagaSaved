@@ -38,7 +38,7 @@ Well, this is not coming as a suprise. There has been some DD's telling this tal
 
 [Invesco S&P SmallCap Value with Momentum ETF \(XSVM\). Containing 6.77&#37; GME \(Invesco\)](https://preview.redd.it/g8bg6orbect61.png?width=2297&format=png&auto=webp&s=1fa56ef5612ef344890005ac5bdd8a685b75600b)
 
-[Invesco S&P SmallCap 600 Revenue ETF \(RWJ\). Containing 12.79&#37; GME \(MW\)](https://preview.redd.it/ahct7746ect61.png?width=2297&format=png&auto=webp&s=4552b80b7c9b9330f5e0d153e35c1c5f4ef76eb1)
+![Invesco S&P SmallCap 600 Revenue ETF \(RWJ\). Containing 12.79&#37; GME \(MW\)](https://preview.redd.it/ahct7746ect61.png?width=2297&format=png&auto=webp&s=4552b80b7c9b9330f5e0d153e35c1c5f4ef76eb1)
 
 &#x200B;
 

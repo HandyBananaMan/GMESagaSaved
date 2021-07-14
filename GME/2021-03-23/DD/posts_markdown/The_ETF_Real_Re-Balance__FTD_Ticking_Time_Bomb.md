@@ -46,7 +46,7 @@ Some unintended findings: **SWAPS** (many by some usual suspects)
 
 &#x200B;
 
-[SAA](https://preview.redd.it/gg6gdejvl8q61.png?width=1556&format=png&auto=webp&s=ca96bf03198543445252f3cf9f8b946e3c03c9fa)
+![SAA](https://preview.redd.it/gg6gdejvl8q61.png?width=1556&format=png&auto=webp&s=ca96bf03198543445252f3cf9f8b946e3c03c9fa)
 
 &#x200B;
 

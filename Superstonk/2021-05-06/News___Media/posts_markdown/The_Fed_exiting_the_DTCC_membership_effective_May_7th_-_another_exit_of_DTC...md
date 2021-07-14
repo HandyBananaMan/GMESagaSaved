@@ -10,6 +10,6 @@ I believe members are trying to exit stage left before the DTCC can foot them wi
 
 If anyone knows what the purpose (unlikely to be public information) of this special account is, please enlighten us all.
 
-[https://www.dtcc.com/-/media/Files/pdf/2021/5/6/15136-21.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/5/6/15136-21.pdf)
+![https://www.dtcc.com/-/media/Files/pdf/2021/5/6/15136-21.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/5/6/15136-21.pdf)
 
 https://preview.redd.it/w987drz7ejx61.png?width=772&format=png&auto=webp&s=a65a5e53ff2e6212fbaa63c09acc6f474cfc9abc

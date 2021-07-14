@@ -40,7 +40,7 @@ Ok, so why does connectivity and co-location matter? Simple.
 
 The National Best Bid and Offer.
 
-[https://www.investopedia.com/terms/n/nbbo.asp](https://www.investopedia.com/terms/n/nbbo.asp)
+![https://www.investopedia.com/terms/n/nbbo.asp](https://www.investopedia.com/terms/n/nbbo.asp)
 
 "**Understanding the National Best Bid and Offer**
 
@@ -62,7 +62,7 @@ Could this be why Citadel was investing into the NYSE's CEO's wife's SuperPAC?--
 
 "High-frequency traders generally invest in specialized infrastructure in order to directly connect to exchanges and process orders faster than other brokerages. In effect, they do not rely on SIP data for their buy/offer bids and take advantage of the latency between calculation of the NBBO and its publishing to mint profits. Recent research has focused on whether this enables them to front-run others.
 
-According to a 2014 University of Michigan study, traders profited by as much as $21 billion by taking advantage of this latency. "By anticipating future NBBO, an HFT algorithm can capitalize on cross-market disparities before they are reflected in the public price quote, in effect jumping ahead of incoming orders to pocket a small but sure proﬁt. Naturally, this precipitates an arms race, as an even faster trader can calculate an NBBO to see the future of NBBO, and so on," the study's authors write." " still quoting from: [https://www.investopedia.com/terms/n/nbbo.asp](https://www.investopedia.com/terms/n/nbbo.asp)
+According to a 2014 University of Michigan study, traders profited by as much as $21 billion by taking advantage of this latency. "By anticipating future NBBO, an HFT algorithm can capitalize on cross-market disparities before they are reflected in the public price quote, in effect jumping ahead of incoming orders to pocket a small but sure proﬁt. Naturally, this precipitates an arms race, as an even faster trader can calculate an NBBO to see the future of NBBO, and so on," the study's authors write." " still quoting from: ![https://www.investopedia.com/terms/n/nbbo.asp](https://www.investopedia.com/terms/n/nbbo.asp)
 
 \---------------------------------------------------------------------
 

@@ -78,7 +78,7 @@ FTD Data Date Range:  2/11/2020 - 12/2/2021 *(Or 11/2/2020 - 2/12/2021 for Ameri
 
 &#x200B;
 
-[ETFs vs GME FTD Value](https://preview.redd.it/e2i0jv71shk61.png?width=2492&format=png&auto=webp&s=953d707e2ef06fb63031a5831fa143e0c0bb87a8)
+![ETFs vs GME FTD Value](https://preview.redd.it/e2i0jv71shk61.png?width=2492&format=png&auto=webp&s=953d707e2ef06fb63031a5831fa143e0c0bb87a8)
 
 &#x200B;
 

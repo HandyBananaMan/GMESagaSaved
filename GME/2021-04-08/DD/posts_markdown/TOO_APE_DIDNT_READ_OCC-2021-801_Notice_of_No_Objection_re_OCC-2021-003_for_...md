@@ -60,7 +60,7 @@ You can read all comments, including theirs, [right here.](https://www.sec.gov/c
 
 # 🦍💬  "I'd like to send in a comment too. How do I get in on the action?"
 
-If you would like to submit comments of your own, you can do so at [this link](https://www.sec.gov/rules/sro/occ.htm) by clicking on the “Submit comments on SR-OCC-2021-003” link. Please try not to be literal screeching chimps and put your polite clothes on, it's a good opportunity to present the image of a diligent and thoughtful retail investor that isn't a degenerate and uninformed gambler to the general public. 
+If you would like to submit comments of your own, you can do so at ![this link](https://www.sec.gov/rules/sro/occ.htm) by clicking on the “Submit comments on SR-OCC-2021-003” link. Please try not to be literal screeching chimps and put your polite clothes on, it's a good opportunity to present the image of a diligent and thoughtful retail investor that isn't a degenerate and uninformed gambler to the general public. 
 
 # 🦍💬 "My brain remains woefully smooth, and I yearn for knowledge."
 

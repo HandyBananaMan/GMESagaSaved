@@ -4,7 +4,7 @@
 
 Not financial advice. My brain makes marbles look like waterlogged toes.  
   
-**EDIT: Alright y'all, I'm going to do something a bit unusual here, but it's my post, so [w/e.](https://media1.tenor.com/images/d18d3b176e82a98030191cb6ebde5a81/tenor.gif?itemid=5412482)**   
+**EDIT: Alright y'all, I'm going to do something a bit unusual here, but it's my post, so ![w/e.](https://media1.tenor.com/images/d18d3b176e82a98030191cb6ebde5a81/tenor.gif?itemid=5412482)**   
   
 As I was going through the comments, I saw this from u/traderbabe22 and her words really resonated with me, so I wanted to leverage the popularity of my post to spread her message. 
   

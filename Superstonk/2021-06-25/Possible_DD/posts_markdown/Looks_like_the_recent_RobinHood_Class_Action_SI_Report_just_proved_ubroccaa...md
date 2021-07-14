@@ -89,4 +89,4 @@ That's dangerously close to the reported 226.42% SI from January 15th.
 
 So with that in mind - do you think they covered?
 
-[Estimations of SI&#37; Based on Deep ITM CALL Purchases Up To January 29th](https://preview.redd.it/oieer6saqd771.png?width=1878&format=png&auto=webp&s=3355b8760408907f165bf7687581ce722bedc844)
+![Estimations of SI&#37; Based on Deep ITM CALL Purchases Up To January 29th](https://preview.redd.it/oieer6saqd771.png?width=1878&format=png&auto=webp&s=3355b8760408907f165bf7687581ce722bedc844)

@@ -256,6 +256,6 @@ Edit 2:
 
 https://preview.redd.it/m2iunx11syp61.png?width=1366&format=png&auto=webp&s=c5ddc0ea598ec6e37f9ed99f471d563823063b2b
 
-[https://www.reddit.com/r/GME/comments/mfotmr/xpost\_from\_wsb\_possible\_gme\_catalyst\_incoming/](https://www.reddit.com/r/GME/comments/mfotmr/xpost_from_wsb_possible_gme_catalyst_incoming/)
+![https://www.reddit.com/r/GME/comments/mfotmr/xpost\_from\_wsb\_possible\_gme\_catalyst\_incoming/](https://www.reddit.com/r/GME/comments/mfotmr/xpost_from_wsb_possible_gme_catalyst_incoming/)
 
 &#x200B;

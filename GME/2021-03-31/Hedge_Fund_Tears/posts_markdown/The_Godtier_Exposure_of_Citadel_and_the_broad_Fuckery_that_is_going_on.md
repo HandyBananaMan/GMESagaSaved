@@ -16,7 +16,7 @@ The Masterpieces:
 
 [Blackrock Bagholders](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
-[The Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+![The Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 These DDs are of immeasurable value for us. Especially because we’re probably only scratching on the surface of the fuckery that is going on.
 

@@ -69,7 +69,7 @@ https://preview.redd.it/uqo9s28n6d271.png?width=1703&format=png&auto=webp&s=be75
 Edit 2: 12:04 AM EST 5/31/21 
 
 There are lots of Apes assuming that this is a yearly filing.  I also have wondered if this was an annual liquidation/selloff of assets.  However, that doesn't appear to be the case.    
-When I scroll through each of the 11 different funds, I see different dates (and multiple sales) in some years.  Image below is one example from Citadel Equities Fund II [https://docoh.com/company/1727632/citadel-equities-fund-ltd](https://docoh.com/company/1727632/citadel-equities-fund-ltd)
+When I scroll through each of the 11 different funds, I see different dates (and multiple sales) in some years.  Image below is one example from Citadel Equities Fund II ![https://docoh.com/company/1727632/citadel-equities-fund-ltd](https://docoh.com/company/1727632/citadel-equities-fund-ltd)
 
 &#x200B;
 

@@ -50,4 +50,4 @@ As you can see, these results pretty closely align with the initial 700 sample (
 
 Here's a link to the survey (I'm not sure if the owner wants to be named, but I am asking ... if they are okay with that, I will update once I hear back):
 
-[https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
+![https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true)

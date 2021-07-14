@@ -135,7 +135,7 @@ This is also likely one of the reasons why the margin requirements for AMC and G
 
 The whole point of preparing that liquidity is in anticipation of having to continue to fulfill buy/sell transactions.  Without that liquidity, the market seizes up.  You will get paid; DTCC and OCC will use those loans to pay obligations and then dip into their own funds.
 
-I also submit the following quote from SEC chairman Gary Gensler [from one of his lectures at MIT](https://youtu.be/l0vD_FBWk0g?t=4580) (timestamped YouTube link):
+I also submit the following quote from SEC chairman Gary Gensler ![from one of his lectures at MIT](https://youtu.be/l0vD_FBWk0g?t=4580) (timestamped YouTube link):
 
 >As we're not sharing the economic well-being broadly in the economy.  Middle income America, middle income Europe in particular is not sharing as much.  I think that hurts us in two ways.  One is that is if we have the downturn, there's not as much uh…all economies these days are led by consumption.  There's not as much ability to respond with consumption.  And two I think it also tears at our social fabric.
 

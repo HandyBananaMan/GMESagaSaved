@@ -14,7 +14,7 @@ SR-FICC-2021-801
 
 &#x200B;
 
-EDIT: Was posted yesterday but didn't seem to get much visibility.  Original post: [https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003\_ficc2021801\_just\_added\_may\_12\_2021/](https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003_ficc2021801_just_added_may_12_2021/)
+EDIT: Was posted yesterday but didn't seem to get much visibility.  Original post: ![https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003\_ficc2021801\_just\_added\_may\_12\_2021/](https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003_ficc2021801_just_added_may_12_2021/)
 
 Credit: u/ReverseTickleMonster
 

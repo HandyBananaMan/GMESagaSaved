@@ -46,7 +46,7 @@ I'll let Dr. Acosta have the last word:
 
 ***“*** \*When this very same party (the DTCC and its subdivisions) that also has 15 of the 16 separate sources of empowerment to execute buy-ins ALSO pleads to be “powerless” to do buy-ins then I’d say we have some “issues” to deal with especially when the financial benefactors of this acting to be “powerless” are the owners of the clearance and settlement system and the bosses of these management teams."\****Dr. Jim DeCosta***
 
-Unless the SEC steps in and force the criminal organization that is the DTCC to clean up its act, this charade will continue and nothing has changed since [2004](https://www.sec.gov/rules/proposed/s72404/s72404-14.pdf) when the Stock Borrowing Program first came into effect.
+Unless the SEC steps in and force the criminal organization that is the DTCC to clean up its act, this charade will continue and nothing has changed since ![2004](https://www.sec.gov/rules/proposed/s72404/s72404-14.pdf) when the Stock Borrowing Program first came into effect.
 
 SEC #DOYOURJOB
 

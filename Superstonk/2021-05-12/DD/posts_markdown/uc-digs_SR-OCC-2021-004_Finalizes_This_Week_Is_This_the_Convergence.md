@@ -65,7 +65,7 @@ The recent actions by Bezos and Gates may also be related as they seek to protec
 To watch for this regulatory activity, check here:
 
 * SEC What's New page which is updated daily usually after noon: [https://www.sec.gov/news/whatsnew/wn-today.shtml](https://www.sec.gov/news/whatsnew/wn-today.shtml)
-* SEC OCC Rulemaking page: [https://www.sec.gov/rules/sro/occ.htm](https://www.sec.gov/rules/sro/occ.htm)
+* SEC OCC Rulemaking page: ![https://www.sec.gov/rules/sro/occ.htm](https://www.sec.gov/rules/sro/occ.htm)
 
 Are we guaranteed to launch immediately after OCC-004? No. But I think that the likeliness of launch *feels* imminent with the multiple incidents we are observing this week, the market pullback, and the sudden rise in overall volatility. I think it will also depend on how far along they are with their pool of bidders.
 

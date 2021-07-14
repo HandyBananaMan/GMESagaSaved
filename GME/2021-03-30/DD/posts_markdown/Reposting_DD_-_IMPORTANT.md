@@ -114,7 +114,7 @@ Every week we end around max pain we inflict more damage on the shorts: [https:
 
 Potentially the vast majority of options (both puts and calls) in GME could have been created as part of a naked shorting privilege scam. Therefore the longer we inflict max pain on the GME options, and the more patiently we HODL the more chance we have to ensure these fraudulent fucks are left with nothing.
 
-All the recent DTCC filings suggest that they are covering their ass and looking into this bullshit before it explodes in their faces. Recent filings also mention that their aware of and ready to deal with option trading shenanigans by the MMs: [https://www.reddit.com/r/GME/comments/mecfwi/too\_ape\_didnt\_read\_sec\_filings\_part\_two\_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
+All the recent DTCC filings suggest that they are covering their ass and looking into this bullshit before it explodes in their faces. Recent filings also mention that their aware of and ready to deal with option trading shenanigans by the MMs: ![https://www.reddit.com/r/GME/comments/mecfwi/too\_ape\_didnt\_read\_sec\_filings\_part\_two\_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
 
 **Conclusion**
 

@@ -209,7 +209,7 @@ Also  u/luxowoman has made a thread [here](https://www.reddit.com/r/Superstonk/c
 # On todays holiday
 
 The EDGAR system will be closed as will the SEC be closed, everything else is open.  
-[https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf)
+![https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf)
 
 &#x200B;
 

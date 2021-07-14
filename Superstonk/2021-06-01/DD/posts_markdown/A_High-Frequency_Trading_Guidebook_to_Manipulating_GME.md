@@ -267,7 +267,7 @@ The main thing to note is a stock’s price is a large driver in odd lot rate. T
 
 &#x200B;
 
-[SEC Odd Lot Rate Data](https://preview.redd.it/vhhw2n7vxn271.png?width=860&format=png&auto=webp&s=9f5e0aa7b81dbad8f7194bbace92709399e34780)
+![SEC Odd Lot Rate Data](https://preview.redd.it/vhhw2n7vxn271.png?width=860&format=png&auto=webp&s=9f5e0aa7b81dbad8f7194bbace92709399e34780)
 
 **GME:** 80-90% odd lot rate since January shows a great deal of retail interest still exists (whether buy or sell, but going from fidelity, it’s most defs buy).
 

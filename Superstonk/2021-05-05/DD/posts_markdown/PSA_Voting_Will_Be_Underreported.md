@@ -48,7 +48,7 @@ Here's my perspective on it from my earlier post: While over-voting does not dir
 
 ***Vote your shares, you diamond handed apes, to fulfill your role as a shareholder of the company.***
 
-For more information on the inspector of records and the voting process, you can see my post here: [https://www.reddit.com/r/Superstonk/comments/mya2a8/dd\_heres\_what\_happens\_if\_there\_is\_over\_voting/](https://www.reddit.com/r/Superstonk/comments/mya2a8/dd_heres_what_happens_if_there_is_over_voting/)
+For more information on the inspector of records and the voting process, you can see my post here: ![https://www.reddit.com/r/Superstonk/comments/mya2a8/dd\_heres\_what\_happens\_if\_there\_is\_over\_voting/](https://www.reddit.com/r/Superstonk/comments/mya2a8/dd_heres_what_happens_if_there_is_over_voting/)
 
 *Still not legal or financial advice.*
 

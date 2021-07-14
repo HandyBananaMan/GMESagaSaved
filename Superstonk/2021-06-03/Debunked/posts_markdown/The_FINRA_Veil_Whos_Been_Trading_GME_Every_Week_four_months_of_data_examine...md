@@ -97,7 +97,7 @@ Also, I've seen a lot of comments that Susquehanna isn't here - G1 Execution Ser
 
 Final point of this edit, I didn't put this in the post originally but have received a few messages about Bank of America - they are a subsidiary of Merrill Lynch I believe (BOFA is one of Merrill's MPID's) and Merrill Lynch is on the list.
 
-EDIT 2: An Excel File Link is now available. I believe it should share safely/anonymously now. [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDsp8OjIwT_1eEMH72AgXFGMZJBgCtS0cD80UJPDAcWafeWx_6Jbfx_jkduRiV1Kap24PSfrp2zVUu/pub?output=xlsx). If you click this it will download the Excel file.
+EDIT 2: An Excel File Link is now available. I believe it should share safely/anonymously now. ![Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDsp8OjIwT_1eEMH72AgXFGMZJBgCtS0cD80UJPDAcWafeWx_6Jbfx_jkduRiV1Kap24PSfrp2zVUu/pub?output=xlsx). If you click this it will download the Excel file.
 
 
 **EDIT 3: Someone asked who FINRA was and I put it in a comment. But at this point they might as well be the Financial Institution Not Regulating Anything.**

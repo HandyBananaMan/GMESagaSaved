@@ -142,7 +142,7 @@ To my friends considering selling a share to cover costs, I have said: why give 
 
 My worst-case scenario is owning shares of a company that I believe is worth more than it currently trades at (~$130). Oh no. I'm terrified. 
 
-Hype material: [Money glitch activated](https://www.reddit.com/r/GME/comments/lw0aju/remember_that_100kshare_is_a_bargain)
+Hype material: ![Money glitch activated](https://www.reddit.com/r/GME/comments/lw0aju/remember_that_100kshare_is_a_bargain)
 
 ****************
 

@@ -80,7 +80,7 @@ https://preview.redd.it/hz8wkoyxqgm61.png?width=3189&format=png&auto=webp&s=57af
 
 Thanks u/zirdc for sending me the tweet below that talks a about how keeping the price flat is important to have full access to Friday's options!
 
-[https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20](https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20)
+![https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20](https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20)
 
 https://preview.redd.it/iq2zg6i82mm61.png?width=592&format=png&auto=webp&s=b9fa2cb526f30e565c895d11af401fc68958415c
 

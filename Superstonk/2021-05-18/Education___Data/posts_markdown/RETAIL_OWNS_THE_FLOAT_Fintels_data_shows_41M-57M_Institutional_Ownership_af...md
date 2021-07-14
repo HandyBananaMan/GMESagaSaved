@@ -42,7 +42,7 @@ Music playing in the background: "You've Really Got a Hold on Me" - The Miracles
 
 Sing it with me, lyrics below if you don't know
 
-[https://www.reddit.com/r/Superstonk/comments/nf062l/ryan\_cohen\_twee\_solved/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/nf062l/ryan\_cohen\_twee\_solved/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/?utm_source=share&utm_medium=web2x&context=3)
 
 💎💎💎💎💎💎💎💎💎💎💎💎💎🙌🙌🙌🙌🙌🙌🙌🙌🙌💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎HOLD HOLD HOLD HOLD💎💎💎💎💎💎💎💎💎💎💎💎💎
 

@@ -7,4 +7,4 @@ Look the title says it all. I’m just here to say Happy 4th to all the American
 This community is awesome… I hope everyone gets a break this 3 day weekend! 
 
 Oh and go watch the meme that u/buttfarm69 made if you haven’t. It’ll jack you in ways you didn’t know you could be jacked. Just do it!
-[buttfarm69 meme](https://www.reddit.com/r/Superstonk/comments/ocdhkg/my_name_is_buttfarm69_and_this_is_probably_the/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)
+![buttfarm69 meme](https://www.reddit.com/r/Superstonk/comments/ocdhkg/my_name_is_buttfarm69_and_this_is_probably_the/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)

@@ -330,4 +330,4 @@ Looking at my magical machine-bob, looks like we start the day with some confirm
 
 [~~(2) MORNING NEWS NAME POLL : Superstonk (reddit.com)~~](https://www.reddit.com/r/Superstonk/comments/mz2ewr/morning_news_name_poll/)
 
-[ MORNING NEWS NAME POLL ROUND 2 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mz4275/morning_news_name_poll_round_2/) 
+![ MORNING NEWS NAME POLL ROUND 2 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mz4275/morning_news_name_poll_round_2/) 

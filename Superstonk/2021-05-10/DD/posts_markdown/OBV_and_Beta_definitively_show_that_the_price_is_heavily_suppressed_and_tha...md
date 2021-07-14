@@ -52,7 +52,7 @@ In there you'll find such classics as *Johnson and Johnson* and *Proctor and Gam
 
 That's the extreme outlier of stocks considered relevant.
 
-[Here's GME](https://www.infrontanalytics.com/fe-EN/34916NU/GameStop-Corp-/Beta)
+![Here's GME](https://www.infrontanalytics.com/fe-EN/34916NU/GameStop-Corp-/Beta)
 
 -5.62... Not just 0.069, not -4.20, but -5.62.
 

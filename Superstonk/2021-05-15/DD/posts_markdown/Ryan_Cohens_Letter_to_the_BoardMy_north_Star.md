@@ -48,4 +48,4 @@ What do you think will happen when Ryan Cohen harnesses the full power of the Ga
 
 **TLDR- I believe in RC, DFV believed in RC....RC is the reason GME is happening.  The business transformation is going to be written about for years......oh and the squeeze is nice too**
 
-  [https://m.youtube.com/watch?v=DrHCqaXvpzM#menu](https://m.youtube.com/watch?v=DrHCqaXvpzM#menu)
+  ![https://m.youtube.com/watch?v=DrHCqaXvpzM#menu](https://m.youtube.com/watch?v=DrHCqaXvpzM#menu)

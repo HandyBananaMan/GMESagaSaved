@@ -38,7 +38,7 @@ While that's certainly enraging for some on its own, it's not like it's complete
 
 &#x200B;
 
-[December 2020](https://preview.redd.it/aa32pra64vr61.jpg?width=720&format=pjpg&auto=webp&s=a7d6309d14e4e5e7557ecb2f31286fdd09b5fc74)
+![December 2020](https://preview.redd.it/aa32pra64vr61.jpg?width=720&format=pjpg&auto=webp&s=a7d6309d14e4e5e7557ecb2f31286fdd09b5fc74)
 
 As someone of you may have noticed Fidelity didn't start trading on the OTC DP until January even though they've been the largest institution owner since December. I figured it was pretty fucking weird how often a fluff piece about Fidelity would pop-up and then less than 5 minutes later another post saying basically the same thing would follow. I just figured it was Fidelity trying to capitalize on Robinhood's failure, but now I'm not so sure that's the case. If Fidelity's doing the same thing as Robinhood — isn't switching to them only creating a false sense of security?
 

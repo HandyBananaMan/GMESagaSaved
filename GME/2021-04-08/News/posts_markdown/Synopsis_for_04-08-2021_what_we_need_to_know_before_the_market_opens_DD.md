@@ -165,7 +165,7 @@ Edit 1:
 
 and the 8k filing!
 
-[https://gamestop.gcs-web.com/node/18776/html](https://gamestop.gcs-web.com/node/18776/html)
+![https://gamestop.gcs-web.com/node/18776/html](https://gamestop.gcs-web.com/node/18776/html)
 
  
 

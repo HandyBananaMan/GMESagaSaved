@@ -14,7 +14,7 @@ It’s because complaints procedures in finance are regulated. You **have** to d
 
 The only caveat here is you can only goto the FOS after you have complained to the financial service, and they have responded to your complaint but you aren’t satisfied. You can’t go directly to them in the first instance. 
 
-So What UK apes need to do is all formally complain to 212 about refusing share transfers after a change in policy made them want to leave the platform. 
+So What UK apes can do is formally complain to 212 about refusing share transfers after a change in policy made them want to leave the platform. 
 
 212 will eventually respond, likely saying “soz no can do”. But That’s good though. It means you can goto the ombudsman. 
 
@@ -38,7 +38,7 @@ Make sure you include the following:
 
 Every 212 user should do this. 
 
-When they respond and say no, goto the Ombudsman and fill out their form. 
+When they respond and say no, goto the Ombudsman and fill out their form here - https://www.financial-ombudsman.org.uk/consumers/how-to-complain
 
 Ideally they fix their shit, but if they don’t then every 212 user goes to the UK FOS, it will cause a shit show for their compliance team & forces them to, you know, let people transfer their own fucking assets. 
 

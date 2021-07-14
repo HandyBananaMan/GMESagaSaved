@@ -15,7 +15,7 @@ Hello everyone,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 
-The mods got word on this a little bit ago, the circumstances are quite odd. That having been said, [r/Superstonk](https://www.reddit.com/r/Superstonk/) is not going to be the place to discuss it, we apologize. We do not know anything about the BofA lawsuit with the Subreddit or Reddit itself-- no one does.
+The mods got word on this a little bit ago, the circumstances are quite odd. That having been said, ![r/Superstonk](https://www.reddit.com/r/Superstonk/) is not going to be the place to discuss it, we apologize. We do not know anything about the BofA lawsuit with the Subreddit or Reddit itself-- no one does.
 
 I feel it is important to remind everyone of this rule:
 

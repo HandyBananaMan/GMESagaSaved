@@ -90,7 +90,7 @@ I don't think they were closing anything. I think they were shifting the shares 
 
 &#x200B;
 
-[UPDATED CHART FOR PUTS INSTEAD OF CALLS](https://preview.redd.it/oygcelsee9q61.png?width=511&format=png&auto=webp&s=924cb906847122b5c45748626c96d690565a5d95)
+![UPDATED CHART FOR PUTS INSTEAD OF CALLS](https://preview.redd.it/oygcelsee9q61.png?width=511&format=png&auto=webp&s=924cb906847122b5c45748626c96d690565a5d95)
 
 ***Each option hides 100 shares. I know that SOME of these are owned by very ambitious day traders who want to strike something on GME when it moons (\* insert scowling face here \*). Unfortunately, I don't know which are which, and I can't foresee day traders buying ALL THAT many and forking out that kind of serious cash on such wild speculation. It's possible, but highly unlikely. Let's go with the assumption that 90% of these are hedges hiding, and the 10% are day traders, just to give us some conservative numbers to work with.***
 

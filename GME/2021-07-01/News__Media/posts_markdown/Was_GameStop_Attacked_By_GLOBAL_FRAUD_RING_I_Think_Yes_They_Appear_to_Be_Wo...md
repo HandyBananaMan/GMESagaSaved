@@ -26,7 +26,7 @@ You don't need to believe me or trust me at the moment. But I ask you all to kee
 
 * 9/20/20: [https://www.icij.org/investigations/fincen-files/global-banks-defy-u-s-crackdowns-by-serving-oligarchs-criminals-and-terrorists/](https://www.icij.org/investigations/fincen-files/global-banks-defy-u-s-crackdowns-by-serving-oligarchs-criminals-and-terrorists/)
 * 12/17/20: [https://www.buzzfeednews.com/article/willfitzgibbon/fincen-files-money-laundering-laws-us-world](https://www.buzzfeednews.com/article/willfitzgibbon/fincen-files-money-laundering-laws-us-world) (yuck I hate buzzfeed but they are OP on this)
-* 6/10/21: [https://www.nytimes.com/2021/06/10/opinion/fincen-buzzfeed-edwards-prison.html](https://www.nytimes.com/2021/06/10/opinion/fincen-buzzfeed-edwards-prison.html)
+* 6/10/21: ![https://www.nytimes.com/2021/06/10/opinion/fincen-buzzfeed-edwards-prison.html](https://www.nytimes.com/2021/06/10/opinion/fincen-buzzfeed-edwards-prison.html)
 
 &#x200B;
 

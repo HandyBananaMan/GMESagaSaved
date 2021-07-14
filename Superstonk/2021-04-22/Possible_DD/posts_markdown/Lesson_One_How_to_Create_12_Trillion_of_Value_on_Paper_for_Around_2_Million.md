@@ -22,7 +22,7 @@ He begins to describe his plan.
 
 THE PLAN
 
-We’ll use crypto. There have been hundreds of pump and dump schemes, but the greatest thing here is that we don’t even need to worry about it dumping. We’ll use an obscure coin traded on a couple unknown exchanges with no volume (say CXC [https://coinmarketcap.com/currencies/capital-x-cell/](https://coinmarketcap.com/currencies/capital-x-cell/)).
+We’ll use crypto. There have been hundreds of pump and dump schemes, but the greatest thing here is that we don’t even need to worry about it dumping. We’ll use an obscure coin traded on a couple unknown exchanges with no volume (say CXC ![https://coinmarketcap.com/currencies/capital-x-cell/](https://coinmarketcap.com/currencies/capital-x-cell/)).
 
 We’ll buy up the coins, there’s no liquidity so we will determine the price. I’m going to need a couple million dollars.
 

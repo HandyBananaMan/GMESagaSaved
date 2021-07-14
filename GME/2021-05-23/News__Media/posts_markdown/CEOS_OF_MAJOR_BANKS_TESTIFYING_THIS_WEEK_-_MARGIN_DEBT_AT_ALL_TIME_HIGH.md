@@ -38,7 +38,7 @@ May 26 at 12:00 PM ET: The Subcommittee on Oversight and Investigations will co
 
 May 27 at 12:00 PM ET: The full Committee will convene for a virtual hearing entitled, “**Holding Megabanks Accountable**: An Update on Banking Practices, Programs and Policies.” 
 
-[Link To Committee Site](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=407897)
+![Link To Committee Site](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=407897)
 
 I'm sure these meetings will just be grandstanding and holding each other's weiners BUT in the event they actually touch on some relevant issues, I think these are hearings we should pay attention to. Let's hope they actually HODL those fucking banks accountable and bust out the irons.
 

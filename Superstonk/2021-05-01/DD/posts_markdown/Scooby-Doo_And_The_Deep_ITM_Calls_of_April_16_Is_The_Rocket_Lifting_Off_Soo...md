@@ -137,7 +137,7 @@ Yeah, it's a date. I like dates, bitch. I'll leave you with a few supporting not
 
 * Lots of TA is pointing to an apex next week. 
 * US Treasury is issuing 0% bonds on May 4th which mature June 1st. 
-* [Distribution Days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/) have been noticed by [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) signaling a potential imminent market crash. Big players must be slowly exiting their positions at the peak of the market.
+* [Distribution Days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/) have been noticed by ![u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) signaling a potential imminent market crash. Big players must be slowly exiting their positions at the peak of the market.
 * The initial comment period for rule 002/801 will be up next week, so its possible it will go into effect. 
 
 **Oh boy.** Are your tits jacked? Mine are.

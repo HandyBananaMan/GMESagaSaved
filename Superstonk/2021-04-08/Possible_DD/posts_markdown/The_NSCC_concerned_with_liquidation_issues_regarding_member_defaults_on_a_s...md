@@ -10,7 +10,7 @@ Edit 1: [The original post calling for smarter apes to look into this and the su
 
 Edit 2: [One of the buried posts dumbing down the new edits.](https://reddit.com/r/Superstonk/comments/mmzusi/new_dtcc_filing_for_nscc2021802/)
 
-Edit 3: [A direct link](https://reddit.com/r/Superstonk/comments/mn01iu/_/gtvozz1/?context=1) to u/the_captain_slog's take and my reasoning for the disclaimer. 
+Edit 3: ![A direct link](https://reddit.com/r/Superstonk/comments/mn01iu/_/gtvozz1/?context=1) to u/the_captain_slog's take and my reasoning for the disclaimer. 
 
 Edit 4: u/atobitt did reply in the original post that he'd look into this. Very spicy 🚀🚀🚀
 u/rensole just in case. 

@@ -34,7 +34,7 @@ u/atobitt wrote a [piece](https://www.reddit.com/r/GME/comments/mgucv2/the_every
 
 &#x200B;
 
-[Name is Bond. Treasury Bond.](https://preview.redd.it/h1pyfaabjyw61.png?width=650&format=png&auto=webp&s=ab6cbded178ddb0e59be5df9671db8339ed9e4d3)
+![Name is Bond. Treasury Bond.](https://preview.redd.it/h1pyfaabjyw61.png?width=650&format=png&auto=webp&s=ab6cbded178ddb0e59be5df9671db8339ed9e4d3)
 
 &#x200B;
 

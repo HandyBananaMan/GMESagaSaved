@@ -425,8 +425,6 @@ Magistricide - [The MOASS is Not a Straight Line Up: Don't Paperhand](https://ww
 
 NHNE - [Total Exit Strategy Overview](https://www.reddit.com/r/Superstonk/comments/njrwwy/re_important_all_apes_need_to_read_this_to/) \- May 23
 
-theshinster112 - [We Get Only One Chance (MOASS Analysis)](https://www.reddit.com/r/Superstonk/comments/nl4vur/we_get_only_one_chance/) \- May 25
-
 DeepFriedDonkeyDick - [Visual Guide to Before, During, and After MOASS](https://www.reddit.com/r/Superstonk/comments/nnootv/apes_guide_to_prepost_moass_in_case_comms_go_down/) \- May 29
 
 gherkinit - [Infinity War: The Final Exit DD Compilation](https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/) \- May 30
@@ -516,6 +514,8 @@ luxowoman - [45 Million Long Synthetic OTM Puts, the story of the Real SI%](http
 
 Squashua1982 - [Clarification of Gamestop's ATM Offering and Why Ortex and MarketWatch Differ on Outstanding Shares](https://www.reddit.com/r/Superstonk/comments/nxkuvw/clarification_of_when_gamestop_will_issue_a_press/) \- Jun 11
 
+Nice-Violinist-6395 - [The Effects of Propaganda on the Brain: Why Not to Post Screenshots of FUD](https://www.reddit.com/r/Superstonk/comments/nxis4e/studies_show_that_consuming_just_five_minutes_of/) \- Jun 11
+
 Criand - [Net Capital Revisited: What Is Truly Driving These T+21 Cycles?](https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/) \- Jun 12
 
 xpurplexamyx - [An Update from the SuperstonkQuants on Relationships Between Stocks](https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/) \- Jun 12
@@ -535,7 +535,7 @@ Criand - [The Fed is Pinned Into a Corner from 2008](https://www.reddit.com/r/Su
 
 con101smd - [TLC: The Long Con - The Markets are Frothing With Liquidity](https://www.reddit.com/r/Superstonk/comments/o5pq2u/tlc_the_long_con_the_markets_are_frothing_with/) \- Jun 22
 
-ayyyybro - [A Running List of GME FUD - Continued](https://www.reddit.com/r/Superstonk/comments/o5r81s/a_running_list_of_fud_continued/) \- Jun 22
+laflammaster - [New OCC rule stops banks from using derivatives to pass their tests](https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/) \- Jul 3
 
 
 &#x200B;
@@ -586,14 +586,15 @@ sharkbaitlol - [Chaos Theory: The Final Connection](https://www.reddit.com/r/Sup
 
 JustBeingPunny - [SR-DTCC-2021-004, Dozens of New Netting Accounts, and the CMBS Crisis](https://www.reddit.com/r/Superstonk/comments/mur8bz/srdtc2021004_the_dtcc_and_jp_morgan_theyre/) \- Apr 20
 
-atobitt - [A House of Cards Part 1](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/) \- Apr 21 
+atobitt
+[A House of Cards Part 1](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/) \- Apr 21 
 
-atobitt - [A House of Cards Part 2](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/) \- May 26
+[A House of Cards Part 2](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/) \- May 26
 
-atobitt - [A House of Cards Part 3](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/) \- May 26
+[A House of Cards Part 3](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/) \- May 26
 
 plants69 - [The Imminent Liquidity Crisis and Reverse Repos Usage](https://www.reddit.com/r/Superstonk/comments/nhepn1/the_imminent_liquidity_crisis_reverse_repos_usage/) \- May 20
 
 Criand - [DTC Preparing for Massive Defaults, Crypto May Keep Tanking](https://www.reddit.com/user/Criand/comments/njrbf4/dtc_icc_occ_passed_rules_this_week_to_prepare_for/) \- May 23
 
-Freadom6 - [CEOs of Major Banks Testifying/Margin Debt at All-Time High](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/) \- May 23
+Freadom6 - ![CEOs of Major Banks Testifying/Margin Debt at All-Time High](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/) \- May 23

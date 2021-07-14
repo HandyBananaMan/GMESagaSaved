@@ -6,7 +6,7 @@
 
 CITADEL HAS BEEN SHORTING THROUGH OTC!!!
 
-#WATCH THIS: [https://youtu.be/f44KvJjKdL8](https://youtu.be/f44KvJjKdL8)
+#WATCH THIS: ![https://youtu.be/f44KvJjKdL8](https://youtu.be/f44KvJjKdL8)
 
 **52% of total volume today was via** ***DARK POOLS!!!***
 

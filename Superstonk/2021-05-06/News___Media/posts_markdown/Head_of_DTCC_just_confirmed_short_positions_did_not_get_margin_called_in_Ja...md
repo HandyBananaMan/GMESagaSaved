@@ -16,7 +16,7 @@ Edit 3: This confirms Citadel and point 72 offered capital in January to Robinho
 
 Edit 4: Video here
 
-[https://www.reddit.com/r/Superstonk/comments/n6er77/holy\_balls\_from\_the\_dtcc\_ceos\_own\_mouth\_no\_margin/](https://www.reddit.com/r/Superstonk/comments/n6er77/holy_balls_from_the_dtcc_ceos_own_mouth_no_margin/)
+![https://www.reddit.com/r/Superstonk/comments/n6er77/holy\_balls\_from\_the\_dtcc\_ceos\_own\_mouth\_no\_margin/](https://www.reddit.com/r/Superstonk/comments/n6er77/holy_balls_from_the_dtcc_ceos_own_mouth_no_margin/)
 
 Edit 5: This does not mean they voluntarily covered this means they are most likely still holding their positions.
 

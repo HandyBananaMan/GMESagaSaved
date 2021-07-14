@@ -6,7 +6,7 @@
 
 &#x200B;
 
-[ILF\_WP\_068.pdf (ilf-frankfurt.de)](https://www.ilf-frankfurt.de/fileadmin/_migrated/content_uploads/ILF_WP_068.pdf) 
+![ILF\_WP\_068.pdf (ilf-frankfurt.de)](https://www.ilf-frankfurt.de/fileadmin/_migrated/content_uploads/ILF_WP_068.pdf) 
 
 &#x200B;
 

@@ -54,7 +54,7 @@ Our beloved dutch holders (36) *only* *amount to* *0.32% of presently held GME s
 
 [Download AFM Market Watch 3 (PDF)](https://www.afm.nl/~/profmedia/files/onderwerpen/afm-market-watch/afm-market-watch-3-eng.pdf?la=en) 
 
-(Alternatively you can maneuvre there by following [this](https://www.afm.nl/en/professionals/onderwerpen/afm-market-watch), its almost at the top of the page under 'Edition 3 - Investing and social media in light of GameStop' and can be downloaded on the right hand side.
+(Alternatively you can maneuvre there by following ![this](https://www.afm.nl/en/professionals/onderwerpen/afm-market-watch), its almost at the top of the page under 'Edition 3 - Investing and social media in light of GameStop' and can be downloaded on the right hand side.
 
 Here comes my math\* i'm gonna round up numbers slightly:
 

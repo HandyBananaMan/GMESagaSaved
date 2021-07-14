@@ -135,4 +135,4 @@ I looked deeper into the data to understand the relationship between regular vol
 
 [Chart GME](https://preview.redd.it/co0zp2cfkh671.jpg?width=4932&format=pjpg&auto=webp&s=122e4b939fb5b55473b7136e6dc4896442e66bff)
 
-[Chart OSTK - I though it would be a good idea to use OSTK again because i already compared it above with GME. ](https://preview.redd.it/s4vay0et8i671.jpg?width=5166&format=pjpg&auto=webp&s=3a1f4b2085642b9ca0efae345e97b161c1add7cb)
+![Chart OSTK - I though it would be a good idea to use OSTK again because i already compared it above with GME. ](https://preview.redd.it/s4vay0et8i671.jpg?width=5166&format=pjpg&auto=webp&s=3a1f4b2085642b9ca0efae345e97b161c1add7cb)

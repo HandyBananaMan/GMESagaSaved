@@ -116,7 +116,7 @@ This whole idea is VERY complex and I am not a financial expert. It's entirely p
 
 &#x200B;
 
->**" A better solution involves a market where all orders count equally, and the lit quote is as competitive and inclusive as possible, while also ensuring spreads are deep enough to fill most orders. "**\-Source: [https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/](https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/)
+>**" A better solution involves a market where all orders count equally, and the lit quote is as competitive and inclusive as possible, while also ensuring spreads are deep enough to fill most orders. "**\-Source: ![https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/](https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/)
 
 EDIT 1: We are SO LUCKY to have amazing Honorable Gentlemen like u/dlauer in this community.   
 

@@ -76,6 +76,6 @@ https://preview.redd.it/tvzilgx4fmo61.png?width=2139&format=png&auto=webp&s=34ea
 
 https://preview.redd.it/u0kzd68thmo61.png?width=2560&format=png&auto=webp&s=1849ee5048283378c17f3a4a467a2ce09431427f
 
-**Anyways, link to livestream:** [https://www.youtube.com/watch?v=MxT8bp4qBjk&ab\_channel=WardenElite](https://www.youtube.com/watch?v=MxT8bp4qBjk&ab_channel=WardenElite)
+**Anyways, link to livestream:** ![https://www.youtube.com/watch?v=MxT8bp4qBjk&ab\_channel=WardenElite](https://www.youtube.com/watch?v=MxT8bp4qBjk&ab_channel=WardenElite)
 
 &#x200B;

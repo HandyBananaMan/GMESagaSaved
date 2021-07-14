@@ -121,7 +121,7 @@ Guess what? Griffin Assets is a[Hedge Fun](https://whalewisdom.com/filer/griffin
 
 &#x200B;
 
-[Look who they've invested in....](https://preview.redd.it/ax22yoj8iv671.png?width=1914&format=png&auto=webp&s=1e57044e729b508ba93cd18d9386fcd1f2bf0f37)
+![Look who they've invested in....](https://preview.redd.it/ax22yoj8iv671.png?width=1914&format=png&auto=webp&s=1e57044e729b508ba93cd18d9386fcd1f2bf0f37)
 
 &#x200B;
 

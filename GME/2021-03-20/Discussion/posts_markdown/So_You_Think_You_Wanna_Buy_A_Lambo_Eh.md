@@ -43,7 +43,7 @@ EDIT: Additional wisdom from the comments below.  🦍🦍🦍🦍💪💪💪
 * Consider the risk of quitting your job and buying shiny things. Abruptly quitting will cause people to ask questions. Best to ease into it (GME Mooning + "I'm outta here" = cover blown) or have a reasonable answer before you pull the trigger
 * Add your kid(s) or parents to your brokers' " account beneficiary" list.
 * Re: Wills: look at revocable living trust and charitable remainder trust. A will is cheap to create, but you get what you pay for.
-* Is medicaid a factor for you or a loved one? Look into  Special Needs Trust. [https://www.investopedia.com/terms/s/special-needs-trust.asp](https://www.investopedia.com/terms/s/special-needs-trust.asp)
+* Is medicaid a factor for you or a loved one? Look into  Special Needs Trust. ![https://www.investopedia.com/terms/s/special-needs-trust.asp](https://www.investopedia.com/terms/s/special-needs-trust.asp)
 * Look into identity theft protection measures.
 * Clicking the 'Save' button right below will make this easier to find for future reference.
 * Check out the content from Michael Bazzell  - How To Dissapear Online and elsewhere.

@@ -12,7 +12,7 @@ Under the SEC Whistleblower Program, the SEC is required to pay awards to eligib
 
 So why get paid pennies on the $ for browsing reddit spreading FUD, when you could just be browsing reddit, but in your very own mansion?
 
-[Would you like to know more?](https://www.sec.gov/whistleblower/frequently-asked-questions)
+![Would you like to know more?](https://www.sec.gov/whistleblower/frequently-asked-questions)
 
 Also, a hearty fuck you <3
 

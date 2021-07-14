@@ -154,7 +154,7 @@ A 41% increase before they blew up and were liquidated.
 
 005 rule shows up and Bitcoin tanks. ([coinmarketcap.com](http://coinmarketcap.com/))
 
-[https://mf.freddiemac.com/about/our-leaders.html#koontzModal](https://mf.freddiemac.com/about/our-leaders.html#koontzModal)
+![https://mf.freddiemac.com/about/our-leaders.html#koontzModal](https://mf.freddiemac.com/about/our-leaders.html#koontzModal)
 
 TLDR: Citadel go DUURRRR. GME go BRRRR.For more please, It is strongly recommended that you continue to do research, as this information is so broad to try and cover, and understand. Knowledge and transparency is highly encouraged🦍🦍🦍🦍❤️🍌🚀
 

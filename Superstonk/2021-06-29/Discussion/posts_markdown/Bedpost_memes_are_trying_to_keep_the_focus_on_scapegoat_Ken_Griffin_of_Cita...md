@@ -24,6 +24,6 @@ If anyone truly wants to dismantle the corruption in our financial systems, they
 
 [Introducing Michael Bodson, President and CEO of the DTCC](https://www.reddit.com/r/Superstonk/comments/n1p4o4/introducing_michael_bodson_president_and_ceo_of/?utm_source=share&amp;amp;utm_medium=ios_app)
 
-[A DD Into Steve Cohen, One of the Main Villiains in the GME Saga](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/?utm_source=share&utm_medium=ios_app)
+![A DD Into Steve Cohen, One of the Main Villiains in the GME Saga](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/?utm_source=share&utm_medium=ios_app)
 
 Thanks to u/the-eagle-flies, u/Jackbauer13579, u/Stonksgouppp, u/International_Gold20, and others.

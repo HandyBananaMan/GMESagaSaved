@@ -142,7 +142,7 @@ The most lucrative event that could possibly happen for these international bank
 
 &#x200B;
 
-[RMS Lusitania](https://preview.redd.it/yv7k4zjtkvz61.png?width=306&format=png&auto=webp&s=b92d5f0bac615dcb1f6e270de44b72b603849a3e)
+![RMS Lusitania](https://preview.redd.it/yv7k4zjtkvz61.png?width=306&format=png&auto=webp&s=b92d5f0bac615dcb1f6e270de44b72b603849a3e)
 
 Sadly, on May 7th, 1915, the RMS Lusitania was intentionally sent into German controlled water where German military vessels were known to be. As expected, German U-boats torpedoed the sink which exploded stored ammo, causing the ship to sink in under 20 minutes and killed around 1,200 innocent US passengers. Proof of this being deliberate comes from the New York Times itself, where the German Embassy actually bought advertisements that warned people if the boarding the Lusitania, they did so at their own risk because such a ship would be liable for destruction.
 

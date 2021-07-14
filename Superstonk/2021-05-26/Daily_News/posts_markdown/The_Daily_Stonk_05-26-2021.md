@@ -228,7 +228,7 @@ https://preview.redd.it/ttjgz0y8ag171.png?width=828&format=png&auto=webp&s=cc8a9
 
 [https://en.m.wikipedia.org/wiki/Bastille\_Day](https://en.m.wikipedia.org/wiki/Bastille_Day)
 
-This was found by  u/jakksquat7 in his thread [here](https://www.reddit.com/r/Superstonk/comments/nl2vld/july_14th_the_date_of_the_gme_crypto_coin_launch/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+This was found by  u/jakksquat7 in his thread ![here](https://www.reddit.com/r/Superstonk/comments/nl2vld/july_14th_the_date_of_the_gme_crypto_coin_launch/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 \------------------------------------------------------------
 

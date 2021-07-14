@@ -100,7 +100,7 @@ Before providing the next piece of insight into all of this, shoutout to the OP 
 
 And here are my findings from continuing down this trail........\*\*this next part is fkn mind-boggling.....\*\*I looked up the game on steam and read its description to see what u/fraxybobo's post was referring to in regard to the game called \*\*Leave Me Anon.....\*\*see for yourself..
 
-[https:\/\/store.steampowered.com\/app\/1349860\/Anon\_Hacker\/](https://preview.redd.it/xv5knh4dsr471.png?width=816&format=png&auto=webp&s=d08cf78769844f24f822896d550ad68f9d3016f1)
+![https:\/\/store.steampowered.com\/app\/1349860\/Anon\_Hacker\/](https://preview.redd.it/xv5knh4dsr471.png?width=816&format=png&auto=webp&s=d08cf78769844f24f822896d550ad68f9d3016f1)
 
 **Edit 6:** This is my last update for this post. I may create a separate DD to clarify this connection instead of throwing something together based on edits alone. I have been doing extensive research into the question as to **how the user's name 'leavemeanon' and 'game on anon' may relate.** I believe I have come to my closest connection. In one of my responses to another post, I stated the following: 
 

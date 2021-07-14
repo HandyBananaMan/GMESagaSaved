@@ -12,7 +12,7 @@ No TLDR but if you read the text by the emojis 🍌🦍 you can learn a lot!
 
 **The daily aggregate of reverse repo transactions is signaling a MAJOR & IMMINENT liquidity crisis. It is only a matter of time before the Fed has to taper the money supply or else risk long-term substantial inflation.**
 
-[Reverse Repo Usage in Billions USD. IT'S ALREADY OUTDATED!](https://preview.redd.it/ghbe1lcd1d071.jpg?width=500&format=pjpg&auto=webp&s=ba88d163d87facfcd0bf4914e0b08bfa0dca72ff)
+![Reverse Repo Usage in Billions USD. IT'S ALREADY OUTDATED!](https://preview.redd.it/ghbe1lcd1d071.jpg?width=500&format=pjpg&auto=webp&s=ba88d163d87facfcd0bf4914e0b08bfa0dca72ff)
 
 # I like the lines and colors but what does this mean? 🍌🦍
 

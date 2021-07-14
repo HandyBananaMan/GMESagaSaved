@@ -12,7 +12,7 @@ May 17th:
 
 \- [RRPs decreased](https://fred.stlouisfed.org/series/RRPONTSYD) \~$32 billion but gained 4 participants
 
-\- [Mark Cuban tweets](https://twitter.com/mcuban/status/1394322533323837447?s=20) ominously about margin calls
+\- ![Mark Cuban tweets](https://twitter.com/mcuban/status/1394322533323837447?s=20) ominously about margin calls
 
 \- MSM talks about margin call rumors
 

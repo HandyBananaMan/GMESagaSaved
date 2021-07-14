@@ -16,7 +16,7 @@ Edit3(Final): Ok so I found something! Looks like their was issues reported earl
 
 The Consolidated Tape Association (CTA) oversees the dissemination of real-time trade and quote information in New York Stock Exchange LLC (Network A) and Bats, NYSE Arca, NYSE American and other regional exchange (Network B) listed securities. Since the late 1970s, all SEC-registered exchanges and market centers that trade Network A or Network B securities send their trades and quotes to a central consolidator where the Consolidated Tape System (CTS) and Consolidated Quote System (CQS) data streams are produced and distributed worldwide. . 
 
-Alert issued - [https://www.ctaplan.com/alerts#110000353886](https://www.ctaplan.com/alerts#110000353886) 
+Alert issued - ![https://www.ctaplan.com/alerts#110000353886](https://www.ctaplan.com/alerts#110000353886) 
 
 &#x200B;
 

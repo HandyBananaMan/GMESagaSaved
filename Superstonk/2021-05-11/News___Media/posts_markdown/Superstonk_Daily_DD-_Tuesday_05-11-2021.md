@@ -192,4 +192,4 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 &#x200B;
 
-[Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
+![Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)

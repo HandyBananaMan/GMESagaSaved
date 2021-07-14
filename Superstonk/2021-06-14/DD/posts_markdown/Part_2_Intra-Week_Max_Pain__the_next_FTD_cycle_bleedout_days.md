@@ -260,4 +260,4 @@ Sorry for the long post.
 
 Also me...
 
-[\(or tomorrow +-1 day\)](https://preview.redd.it/7imhmnfpx7571.jpg?width=600&format=pjpg&auto=webp&s=4ed52c00340ef384cf2bfdedefe2e9ac35ccbb5c)
+![\(or tomorrow +-1 day\)](https://preview.redd.it/7imhmnfpx7571.jpg?width=600&format=pjpg&auto=webp&s=4ed52c00340ef384cf2bfdedefe2e9ac35ccbb5c)

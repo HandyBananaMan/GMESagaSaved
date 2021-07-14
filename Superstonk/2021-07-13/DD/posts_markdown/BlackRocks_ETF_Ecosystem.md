@@ -181,7 +181,7 @@ But they have one thing in common:
 
 &#x200B;
 
-[They Both hold the TXSLA fund, or BlackRock's CASH FUND.](https://preview.redd.it/qdw02x0692b71.png?width=962&format=png&auto=webp&s=3b889c8f70448d4017e660d8c8ec7c54fff7e9f1)
+![They Both hold the TXSLA fund, or BlackRock's CASH FUND.](https://preview.redd.it/qdw02x0692b71.png?width=962&format=png&auto=webp&s=3b889c8f70448d4017e660d8c8ec7c54fff7e9f1)
 
 What do we remember about CASH?
 

@@ -93,7 +93,7 @@ Props to the "Nonetheless."
 
 Again, 6/24/21 SEC ^((anyone else type sex?))  published [86 FR 33420](https://www.federalregister.gov/documents/2021/06/24/2021-13287/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-designation-of-longer) in response to FICC's filing.
 
-[ Accordingly, pursuant to Section 19\(b\)\(2\) of the Act \[5\] and for the reasons stated above, the Commission designates August 30, 2021, as the date by which the Commission should either approve or disapprove the Proposed Rule Change SR-FICC-2021-003.](https://preview.redd.it/7jr30nexnn771.png?width=622&format=png&auto=webp&s=e7c17a4a4a91c56b4657c0877642b71ff4757d39)
+![ Accordingly, pursuant to Section 19\(b\)\(2\) of the Act \[5\] and for the reasons stated above, the Commission designates August 30, 2021, as the date by which the Commission should either approve or disapprove the Proposed Rule Change SR-FICC-2021-003.](https://preview.redd.it/7jr30nexnn771.png?width=622&format=png&auto=webp&s=e7c17a4a4a91c56b4657c0877642b71ff4757d39)
 
 Well this has been fun.
 

@@ -164,7 +164,7 @@ https://preview.redd.it/8vbdmdfsq2b71.png?width=351&format=png&auto=webp&s=36371
 
 "[Index Cooperative](https://www.indexcoop.com/) is a DeFi project that’s going after the multi-trillion-dollar \[ETF\]([https://en.wikipedia.org/wiki/Exchange-traded\_fund#:\~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)](https://en.wikipedia.org/wiki/Exchange-traded_fund#:~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)) (exchange-traded fund) market. At its simplest, an ETF is like a basket of assets (be it stocks, bonds, commodities, or crypto) that can be traded in a group. Companies like [Blackrock (under its subsidiary iShare) and Vanguard each have over a trillion dollars](https://www.etftrends.com/10-biggest-etf-issuers-of-2019-by-market-capitalization/) under management in the form of ETFs. ETFs have been so popular, that people like [Michael Burry ](https://en.wikipedia.org/wiki/Michael_Burry)(of [*The Big Short* ](https://en.wikipedia.org/wiki/The_Big_Short_(film))) have called it a “[passive investment bubble](https://www.etfstrategy.com/passive-investing-a-bubble-says-big-short-investor-michael-burry-10449/)”."
 
-[***https://www.reddit.com/r/CryptoCurrency/comments/j8i8wp/the\_index\_cooperative\_defis\_first\_index\_fund\_now/***](https://www.reddit.com/r/CryptoCurrency/comments/j8i8wp/the_index_cooperative_defis_first_index_fund_now/)
+![***https://www.reddit.com/r/CryptoCurrency/comments/j8i8wp/the\_index\_cooperative\_defis\_first\_index\_fund\_now/***](https://www.reddit.com/r/CryptoCurrency/comments/j8i8wp/the_index_cooperative_defis_first_index_fund_now/)
 
 Two things should stick out to you off the bat:
 

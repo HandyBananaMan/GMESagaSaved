@@ -17,7 +17,7 @@ Because GME is the elephant in the room of the whole economy, and there’s alre
 
 Have you seen the face that Charles Payne made in that interview with the two brothers that are making a documentary about apes? His expression totally changed the second one of the brothers mention GME and he seemed uncomfortable and distressed for the rest of the interview. The face he makes says it all. (I'm unable to find the post with the interview right now...)
 
-EDIT: [here is the clip](https://youtu.be/C73MBeMhfeE) thanks to u/ZoeMameth. Also, u/albanak, one of the Mulligan brothers, commented on this post himself saying he also thinks they are avoiding talking about GME and that’s why he mentioned it in the interview. It’s about 3 minutes into the video, notice how Charles nervously checks his glasses and completely changes his tone and demeanour for the rest of the interview.
+EDIT: ![here is the clip](https://youtu.be/C73MBeMhfeE) thanks to u/ZoeMameth. Also, u/albanak, one of the Mulligan brothers, commented on this post himself saying he also thinks they are avoiding talking about GME and that’s why he mentioned it in the interview. It’s about 3 minutes into the video, notice how Charles nervously checks his glasses and completely changes his tone and demeanour for the rest of the interview.
 
 
 There is only one true MOASS and it's GME.

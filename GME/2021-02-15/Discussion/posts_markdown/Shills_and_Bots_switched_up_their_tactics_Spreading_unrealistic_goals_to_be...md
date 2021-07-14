@@ -2,7 +2,7 @@
 # Post URL: [https://www.reddit.com/r/GME/comments/lklbhn/shills_and_bots_switched_up_their_tactics/](https://www.reddit.com/r/GME/comments/lklbhn/shills_and_bots_switched_up_their_tactics/)
 
 
-Best example is this guy: [https://www.reddit.com/user/DavidNIO/posts/](https://www.reddit.com/user/DavidNIO/posts/)
+Best example is this guy: ![https://www.reddit.com/user/DavidNIO/posts/](https://www.reddit.com/user/DavidNIO/posts/)
 
 Spamming the whole day how GME is gonna reach $77k and spammed other Goals the last few days as well (2k, 10k, 69420, now 77k). His account is a few days old as well.
 

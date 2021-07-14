@@ -26,7 +26,7 @@ I'm confident striking this section out at this point, as the 58mil inventory wa
 
 Edit within an edit, editception if you will: it's been pointed out that the 58million max tokens may not be the official GME token, but that there is an official GME token with currently 0 inventory launching on 7/14.
 
-u/teacoat___ put together [a good summary of all of the available info on the token](https://www.reddit.com/r/Superstonk/comments/nl0lk1/gme_token_info/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) and they are updating it as new info comes in.
+u/teacoat___ put together ![a good summary of all of the available info on the token](https://www.reddit.com/r/Superstonk/comments/nl0lk1/gme_token_info/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) and they are updating it as new info comes in.
 
 If GameStop does a crypto dividend it would force shorts to do one of two things:
 

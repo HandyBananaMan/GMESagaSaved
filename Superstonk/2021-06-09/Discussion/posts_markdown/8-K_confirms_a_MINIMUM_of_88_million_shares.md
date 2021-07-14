@@ -14,7 +14,7 @@ Final edit: I have debunked myself. Check out the [new post here](https://www.re
 
 ~~Etoro has stated that 63% of eligible GME shares have voted (Disappointing, I know).~~
 
-[Non-reddit GME holders?](https://preview.redd.it/k9zjjn7j0b471.jpg?width=683&format=pjpg&auto=webp&s=d96c10baaf7eca0a0e7bfbffe69b5aae2fd2edcc)
+![Non-reddit GME holders?](https://preview.redd.it/k9zjjn7j0b471.jpg?width=683&format=pjpg&auto=webp&s=d96c10baaf7eca0a0e7bfbffe69b5aae2fd2edcc)
 
 ~~Etoro can be used as an accurate representation of what GME holders do in general, simply due to the sheer number of people on Etoro.~~ **~~This is because Etoro's large number of customers is an extremely good sample size for statistical significance.~~** ~~Statistical significance requires at least 100 people, Etoro has a few more GME shares than that.~~
 

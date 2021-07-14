@@ -108,7 +108,7 @@ The exciting part about these analyses is that they've been a catalyst for the S
 
 In the meantime, if you'd like to check out the code along with a brief summary of the analysis, we've hosted the R markdown on the Superstonk Quants website [here](https://rrpgme.superstonkquant.org/)!
 
-Additionally, the full R code is available on our [Github repo](https://github.com/SuperstonkQuants/reddit_RRPGME_corr)!
+Additionally, the full R code is available on our ![Github repo](https://github.com/SuperstonkQuants/reddit_RRPGME_corr)!
 
 If there's one thing that I've taken away from doing this work so far, its that:
 

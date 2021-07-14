@@ -118,7 +118,7 @@ I have conflicting information on whether married puts are legal or illegal. So 
 
 Tagging u/buttfarm69 for posterity.
 
-Also, my [Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+Also, my ![Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 ( ͡o ͜ʖ ͡o) (Related, it's my face throughout finding what i found and writing this post)
 

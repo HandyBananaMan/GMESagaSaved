@@ -60,7 +60,7 @@ We are looking for price to be **above $344** to find **5**. If price gets above
 
 If price does **not** get above **$477** but **does climb over** **$344** then we can assume that the current Impulse Wave will end and we will see a Correction Wave (A, B, C)
 
-[Same Picture \(Just another placement for you lazy-old-fucks\)](https://preview.redd.it/vu8q5fh57pp61.png?width=2389&format=png&auto=webp&s=4f930944a18dd6976caf975024b5d69d7ffb4bd3)
+![Same Picture \(Just another placement for you lazy-old-fucks\)](https://preview.redd.it/vu8q5fh57pp61.png?width=2389&format=png&auto=webp&s=4f930944a18dd6976caf975024b5d69d7ffb4bd3)
 
 TL;DR - strap in apes, the rocket has already departed but we have a few pit stops to make to refuel
 

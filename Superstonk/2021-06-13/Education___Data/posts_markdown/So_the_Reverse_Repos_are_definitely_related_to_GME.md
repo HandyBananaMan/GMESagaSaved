@@ -52,7 +52,7 @@ So here we have another nice little 11 billion spike around march 10.  But what 
 
 &#x200B;
 
-[And here we are from mid May till now.  Note the Y-axis values.](https://preview.redd.it/063xhomobz471.png?width=1145&format=png&auto=webp&s=c7d1500b555d9788d5a7173d7a53893f730131ae)
+![And here we are from mid May till now.  Note the Y-axis values.](https://preview.redd.it/063xhomobz471.png?width=1145&format=png&auto=webp&s=c7d1500b555d9788d5a7173d7a53893f730131ae)
 
 So the rise in repo rates seems correlated (maybe not causally, but that's why I'm posting) to GME.  The first spikes in GME price is where we start seeing small(ish) 11 billion spikes in repos.  But then GME doesn't go down.  Apes are hodling the fuck out of the stock.  At this same time, repo rates start climbing.  There's no more flat lines near 0 like we see during the period in February when GME was stagnant in the 40s and 50s.
 

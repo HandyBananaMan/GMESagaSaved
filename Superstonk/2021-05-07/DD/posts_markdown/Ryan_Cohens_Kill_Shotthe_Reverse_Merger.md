@@ -162,7 +162,7 @@ GME 4/19/21- Announces CEO succession plan ( I don't think it matters if its Rya
 
 GME 4/26/21- Gme Complete At the market equity offering program (21 days) Sells 3,500,000 shares for $551,000,000
 
-GME 4/30/21 Retired the debt and announced the opening of a new [Fulfillment](https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york) center
+GME 4/30/21 Retired the debt and announced the opening of a new ![Fulfillment](https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york) center
 
 Ryan Cohen buys in August, wrights a letter in November and in less than 6 months he has
 

@@ -120,4 +120,4 @@ https://preview.redd.it/1enp4v49l8571.jpg?width=600&format=pjpg&auto=webp&s=e81b
 
 &#x200B;
 
-[Related. It's some of you. \( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)  \( ͡° ͜ʖ ͡°\)╭∩╮](https://preview.redd.it/jdik9wfbl8571.jpg?width=518&format=pjpg&auto=webp&s=91c42446f80c695290be5973e933f6f5c82db2d0)
+![Related. It's some of you. \( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)\( ͡ಥ ͜ʖ ͡ಥ\)  \( ͡° ͜ʖ ͡°\)╭∩╮](https://preview.redd.it/jdik9wfbl8571.jpg?width=518&format=pjpg&auto=webp&s=91c42446f80c695290be5973e933f6f5c82db2d0)

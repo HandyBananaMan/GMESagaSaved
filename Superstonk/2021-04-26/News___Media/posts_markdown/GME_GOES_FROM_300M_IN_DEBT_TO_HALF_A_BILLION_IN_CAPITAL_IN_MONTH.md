@@ -12,7 +12,7 @@ This shows how gamestop **cares** about us. They could've sold in the future whe
 
 CNBC on our side?? What is this?
 
-"[GameStop](https://www.cnbc.com/quotes/GME)’s stock price climbed in extended trading Monday after the video game retailer said it sold 3.5 million additional shares, raising $551 million to speed up the company’s e-commerce transformation."
+"![GameStop](https://www.cnbc.com/quotes/GME)’s stock price climbed in extended trading Monday after the video game retailer said it sold 3.5 million additional shares, raising $551 million to speed up the company’s e-commerce transformation."
 
 They literally sold their 3.5 millions shares and we didn't even feel the drop, hell all we are seeing is green. These guys are **legends.**
 

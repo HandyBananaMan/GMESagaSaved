@@ -4,7 +4,7 @@
 
 I feel like I'm taking crazy pills. 
 
-Random average people are getting [50 billion dollars](https://www.dailydot.com/debug/chase-bank-50-billion-debt-glitch/) either withdrawn or deposited into their accounts.
+Random average people are getting ![50 billion dollars](https://www.dailydot.com/debug/chase-bank-50-billion-debt-glitch/) either withdrawn or deposited into their accounts.
  
 Some are getting it only withdrawn, which would be an extra 50 billion dollars in assets to the bank, no? 
 

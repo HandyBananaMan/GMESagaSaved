@@ -150,7 +150,7 @@ I am not here to present what I think some of these signals are exactly, as that
 
 My hope is that enough apes will see this and acknowledge the  importance of keeping an open mind, and that if apes are going to pick a floor, they should at least have reasoning on why they chose it, and will adapt if circumstances during MOASS invalidate certain theories. What I don't want is for apes to perpetuate the idea of that a specific floor or target is a fact, and I especially don't want to see Ape on Ape action every time one ape disagrees with another apes thesis. We should be excellent to each other, try to be constructive, and remember that no outcome is impossible.
 
-[That is the Ape-logic equivalent to checkmate to any statement saying that something is impossible. Who knew Audrey Hepburn was one of us too?](https://preview.redd.it/yyfxqo7966y61.png?width=627&format=png&auto=webp&s=9eb595a4c8f9d40e0fe1941b77d3395ae84b6e5a)
+![That is the Ape-logic equivalent to checkmate to any statement saying that something is impossible. Who knew Audrey Hepburn was one of us too?](https://preview.redd.it/yyfxqo7966y61.png?width=627&format=png&auto=webp&s=9eb595a4c8f9d40e0fe1941b77d3395ae84b6e5a)
 
 # FAQ:
 

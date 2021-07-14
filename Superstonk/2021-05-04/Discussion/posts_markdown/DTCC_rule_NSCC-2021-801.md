@@ -15,7 +15,7 @@ Great news! First hurdle completed - No objections to 801!
 
 Second hurdle, 002, is due this week. I found someone basically posting the same information as me, and I hate 100 posts all saying the same thing so I'm stopping updates and dropping a link to his posts:
 
-[https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/?utm_medium=android_app&utm_source=share](https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/?utm_medium=android_app&utm_source=share)
+![https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/?utm_medium=android_app&utm_source=share](https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/?utm_medium=android_app&utm_source=share)
 
 ***Update 5/19***
 

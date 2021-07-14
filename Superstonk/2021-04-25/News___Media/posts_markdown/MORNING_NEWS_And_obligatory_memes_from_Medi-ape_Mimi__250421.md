@@ -369,7 +369,7 @@ u/redchessqueen **Announced:**
 
 **If you want to read tomorrows news, please follow the link below:**
 
-[MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/) 
+![MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/) 
 
 **Lots of love,**
 

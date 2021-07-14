@@ -143,4 +143,4 @@ Evans, Richard B. and Moussawi, Rabih and Pagano, Michael S. and Sedunov, John, 
 
 **SEC Fail to Deliver Data**
 
-[https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
+![https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)

@@ -36,4 +36,4 @@ Even money is fleeting, GME is not. It's simply the best place to hedge against 
 
 DFV is a *value* investor, never forget what that means.
 
-[Cheers!](https://i.ibb.co/fYRs345/whatifitoldyou.jpg)
+![Cheers!](https://i.ibb.co/fYRs345/whatifitoldyou.jpg)

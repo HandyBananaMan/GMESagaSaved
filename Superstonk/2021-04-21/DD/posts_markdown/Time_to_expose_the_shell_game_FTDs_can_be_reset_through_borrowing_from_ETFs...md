@@ -94,7 +94,7 @@ Assuming there are broker/dealers out there that did not come into compliance wi
 #🚀 In Conclusion
 
 
-[IT IS TIME TO COVER](https://imgur.com/6U25Mcv)
+![IT IS TIME TO COVER](https://imgur.com/6U25Mcv)
 
  
 Moon Soon.

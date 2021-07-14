@@ -304,7 +304,7 @@ I believe Bezos and Gates understand that the current market environment is peri
 
 [https://www.reddit.com/r/DDintoGME/comments/mwc62t/blackhole\_of\_coverage\_biased\_narrative\_and\_the/](https://www.reddit.com/r/DDintoGME/comments/mwc62t/blackhole_of_coverage_biased_narrative_and_the/)
 
-Couple that DD with this article: [https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html](https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html) Credit: u/Slow_learner04
+Couple that DD with this article: ![https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html](https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html) Credit: u/Slow_learner04
 
 Bezos and Wall Street have the resources to disseminate narratives.
 

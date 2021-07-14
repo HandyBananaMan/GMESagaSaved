@@ -50,7 +50,7 @@ Got out of bed at 2AM to and spent 2 hours writing everything and compiling all 
 >  
 >[https://www.reddit.com/r/Superstonk/comments/mzkf8v/where\_is\_srdtc2021005/](https://www.reddit.com/r/Superstonk/comments/mzkf8v/where_is_srdtc2021005/)  
 >  
->[https://www.reddit.com/r/Superstonk/comments/ncnz1l/where\_in\_the\_world\_is\_srdtc2021005\_we\_were\_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)  
+>![https://www.reddit.com/r/Superstonk/comments/ncnz1l/where\_in\_the\_world\_is\_srdtc2021005\_we\_were\_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)  
 >  
 >  
 >  

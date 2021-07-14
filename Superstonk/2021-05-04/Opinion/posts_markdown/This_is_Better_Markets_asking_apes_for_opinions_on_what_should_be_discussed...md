@@ -10,6 +10,6 @@ This is about the **upcoming House Financial Services Committee hearing on Thus 
 
 Link to their post is right below:
 
-[https://www.reddit.com/r/Superstonk/comments/n4z0ln/releasing\_short\_selling\_fact\_sheet\_early\_just\_for/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/n4z0ln/releasing_short_selling_fact_sheet_early_just_for/?utm_source=share&utm_medium=web2x&context=3)
+![https://www.reddit.com/r/Superstonk/comments/n4z0ln/releasing\_short\_selling\_fact\_sheet\_early\_just\_for/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/n4z0ln/releasing_short_selling_fact_sheet_early_just_for/?utm_source=share&utm_medium=web2x&context=3)
 
 Edit: Posted an actual link to the post instead of embedding it into a text. I didn't realize some apes would not click on an embedded link.

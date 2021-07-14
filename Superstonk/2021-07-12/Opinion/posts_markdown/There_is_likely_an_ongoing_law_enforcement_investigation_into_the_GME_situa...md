@@ -26,6 +26,6 @@ Edit 2: There's some pushback over the idea that the SEC is not  law enforcement
 
 Edit 3: Leave it to a u/OrginalCanadian to crack the case.  Looks like it is considered an LEA. I think?
 
-[https://www.sec.gov/enforce/how-investigations-work.html](https://www.sec.gov/enforce/how-investigations-work.html)
+![https://www.sec.gov/enforce/how-investigations-work.html](https://www.sec.gov/enforce/how-investigations-work.html)
 
 So there you have it, it really is their job and it feels like they  are mucking it up.

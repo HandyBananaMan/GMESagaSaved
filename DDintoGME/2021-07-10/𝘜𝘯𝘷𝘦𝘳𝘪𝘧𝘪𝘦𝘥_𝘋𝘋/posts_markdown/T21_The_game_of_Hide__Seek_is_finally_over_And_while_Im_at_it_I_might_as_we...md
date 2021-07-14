@@ -86,7 +86,7 @@ Fine, be that way. I know you can do math anyway so I might as well come out and
 
 &#x200B;
 
-[Self-explanatory I hope](https://preview.redd.it/54fi3sf5zea71.jpg?width=1024&format=pjpg&auto=webp&s=b450f02740061814075955edf8d45d9bc5ab5cdf)
+![Self-explanatory I hope](https://preview.redd.it/54fi3sf5zea71.jpg?width=1024&format=pjpg&auto=webp&s=b450f02740061814075955edf8d45d9bc5ab5cdf)
 
 My advice. For most of you, I believe this is the last '*normal*' weekend of your life. What happened over the last 6 months is going to make you a very wealthy individual. Let go of any hatred, focus on how you're going to make your life and the life of those around you better. We have a world to change.
 
