@@ -1,0 +1,56 @@
+<h1>Author: Jonathan_McFall</h1>
+<h1>Post URL: <a href="https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/">https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/</a></h1>
+<p><strong>My dearest apes,</strong></p>
+<p>&#x200B;</p>
+<p>This something that has been weighing on my mind for quite a while. <strong>Where are the short positions?</strong> Well, we all have heard the rumors of <strong>resetting FTDs with the use of the options chain</strong>. Being the ~~wrinkle brain~~ retard that I am *wink wink*, I've decided to do a little digging. Most of the solid theories people have about hiding short positions comes from this SEC paper: <a href="https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf">https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf</a></p>
+<p>&#x200B;</p>
+<p>Coincidentally *wink wink*, there just so happens to be some really insane stuff going on in the options chain of $GME. And a lot of it started... *gasp*... when the price jumped to $483 and the short interest suddenly dropped from \~140% to \~30%. So, what do you say we look a little deeper into the options chain, Kenny?</p>
+<p>&#x200B;</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/bsxz0n0f9s571.png?width=1157&amp;format=png&amp;auto=webp&amp;s=00894296b776243a7257e58a317e226c85700409">from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/put-call-ratios</a></p>
+<p>&#x200B;</p>
+<p>This is the options data for all of the currently existing $GME options. There are a few things that strike me as odd. The main thing is: what is up with the huge amount of put open interest for the 7/16 expiration date and 1/21 expiration date? Let's take a closer look at the 7/16 options chain specifically.</p>
+<p>&#x200B;</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/85976zk0as571.png?width=1157&amp;format=png&amp;auto=webp&amp;s=7d7071a130a47b22977aad47d2dd8b6d835c4102">from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/options?moneyness=allRows&amp;view=stacked&amp;expiration=2021-07-16-m</a></p>
+<p>&#x200B;</p>
+<p><strong>WOAH THERE, KENNY!</strong> You're almost making it too easy. As you can see, an <strong>ENORMOUS</strong> amount of the open interest comes from way, way, way, way, way OTM put options. In case I wasn't clear, these puts are stupidly out of the money at a price point that will never be reached again. Find me another stock that has this sort of bizarre options activity and I'll trade you one $GME share. "Okay, well so what?" you ask. "These options have been purchasable since June of 2020. They could've been bought by bears back then who were still convinced $GME was going to zero." Oh really? Let's take a look at a graph of the open interest, then.</p>
+<p>&#x200B;</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/4vmae7syas571.png?width=1546&amp;format=png&amp;auto=webp&amp;s=2cdd8cf91984923c4a2c5000acc7dbf7c60ee1e0">from: ThinkOrSwim platform</a></p>
+<p>&#x200B;</p>
+<p>As you can clearly see (or maybe not so clearly, it's kind of shit quality), the open interest doesn't enter significant numbers until 1/25. From 1/25 to about 2/3, the open interest spikes from near zero levels to 80,000. This coincides with $GME's initial gamma squeeze. The second spike from 80,000 to 140,000 occurred from 2/23 to 3/23. This coincides with $GME catching it's second breath, the run-up that followed the 2/24 spike, and the eventual fall from near-peak levels.</p>
+<p>Ok, so it's obvious someone really needs these worthless put options for something. Now, let's start to do some statistical testing. I'll try to keep this simple for all of you smooth-brains out there.</p>
+<p>&#x200B;</p>
+<p>So, the working theory for a long time is that SHFs reset their FTDs using tricky options trades outlined in the SEC paper I linked above. It basically involves a bunch of synthetic positions that make the balance sheet look like you've covered your shorts. (NEWS FLASH: THEY HAVEN'T). So, if we are looking at FTDs and the use of these worthless put options (If I haven't emphasized enough how weird it is for these stupidly OTM put options to have this kind of activity, here it is: THIS IS FUCKY SHIT GOING ON HERE THAT IS COMPLETELY ABNORMAL) and FTDs, what can we expect to see? Well, we would expect to see a negative correlation meaning: as the FTDs are hidden away, the open interest in these puts (used to reset these FTDs) should go up. So how do you test for something like this. *ENTER EXCEL* (or Google Sheets because I spent all my money on $GME).</p>
+<p>&#x200B;</p>
+<p>So here was my process. I am going to get FTD data from pre-January-run-up to April 28. I'm then going to get the open interest of this specific put option for the same dates and run a Pearson Correlation Coefficient these two data points to check for a correlation.</p>
+<p>&#x200B;</p>
+<p>Here is what I am working with:</p>
+<p><a href="https://preview.redd.it/2jl7v64gds571.png?width=1064&amp;format=png&amp;auto=webp&amp;s=f74833a9d05ba9b1c67249cf20d1849fa644eef4">from: my brain</a></p>
+<p>&#x200B;</p>
+<p>You can't really see in the screenshot, but there are a lot more rows of this FTD and open interest data. Now, this <strong>DOESN'T EVEN INCLUDE ETF FTDs AND IS ONLY ONE OF THE OPTIONS CONTRACTS FOR THE ENTIRE CHAIN</strong> and still there <strong>IS A STRONGLY NEGATIVE CORRELATION</strong>, exactly what we hypothesized from earlier.</p>
+<p>&#x200B;</p>
+<p><strong>Unfortunately</strong>, I don't have the time to sit down and look at every contract's data, all the ETF FTDs, and the other chains from 01/22/22. But I have glanced at the open interest charts for a lot of them, and they all look EXTREMELY SIMILAR to the contract I showed you today. I suspect if I did sit down and do the grunt work for every single chain and contract, the correlation coefficient would probably increase.</p>
+<p><strong>Fortunately</strong>, though, a -0.67 correlation is considered to be strongly, negatively correlated (anything of +/- 0.5 is considered to be a strong correlation).</p>
+<p><strong>So let's wrap this thing up shall we.</strong></p>
+<ol>
+<li>SHFs "reset" their FTDs using nifty options tricks.</li>
+<li>As FTDs go down, nifty options should go up. (Negative Correlation)</li>
+<li>After running a Pearson Correlation Coefficient, I have found a STRONGLY, NEGATIVE correlation, exactly what was hypothesized.</li>
+</ol>
+<p>&#x200B;</p>
+<p><strong>So questions after reading this DD:</strong></p>
+<ol>
+<li><strong>Should my tits be jacked?</strong>If this doesn't confirm your bias I don't know what will.</li>
+<li><strong>What are your qualifications?</strong>I eat crayons for breakfast, lunch, and dinner. Seriously, though, I don't do this for a living. This has just been an interesting side project to confirm my own bias, and I thought I should share the results with all of you.</li>
+<li><strong>What mean?</strong>Statistically, it's highly likely the SHFs are using the techniques we've been suspecting them of to reset FTDs.</li>
+</ol>
+<p>&#x200B;</p>
+<p>So that's it apes. If I've fucked something up majorly, please let me know so I can make the necessary corrections.</p>
+<p><strong>TL;DR</strong>: See question #3</p>
+<p>&#x200B;</p>
+<p><strong>Edit 1</strong>: I now realize I should have went more in depth to the SEC paper to explain how they are using options to reset the clock. The idea is that you use a married put trade with a synthetic long rather than buying shares. This would look like: </p>
+<p>buy put + sell put + buy call = married put</p>
+<p>Note the put/call ratio of these transactions would be 2. So, as long as the put call ratio for each particular option chain is above 2, it would be valid to say that it is possible that these techniques could be being used. My post aims to prove statistically that these techniques are being used. So with the put/call ratio of the 7/16 options being above 2, I am aiming to correlate the FTDs with the opening of these contracts. </p>
+<p>Here is the section of the SEC paper that talks about the married put trades being used to reset the clock.  <a href="https://imgur.com/a/dWKtvF0">https://imgur.com/a/dWKtvF0</a>. The full paper is linked at the beginning of this post if you are interested in reading. </p>

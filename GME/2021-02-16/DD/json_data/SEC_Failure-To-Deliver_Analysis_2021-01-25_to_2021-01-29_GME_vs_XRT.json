@@ -1,0 +1,18 @@
+{
+    "author": "knutolee",
+    "created_utc": 1613490039.0,
+    "distinguished": null,
+    "edited": false,
+    "id": "ll6f1y",
+    "text_only": true,
+    "flair_id": "041e7fc8-584b-11eb-bcb3-0e263fdab45f",
+    "flair_text": "DD",
+    "name": "t3_ll6f1y",
+    "num_comments": 73,
+    "permalink": "/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/",
+    "score": 1161,
+    "selftext": "Hey all,\n\nI had to look at the freshly published data from the SEC regarding the Failure-To-Delivers and the correlation between GME and XRT is hilarious.\n\nI don't know how to format a table from Excel Spreadsheet in Reddit, so I'll present you the (formatted) data from the raw dataset of SEC in a picture:\n\nhttps://i.ibb.co/58bqdVf/gme-xrt.jpg\n\nYou can grab the data directly at https://www.sec.gov/data/foiadocsfailsdatahtm for yourself.\n\nTo visualize it a bit more I converted it to a fancy Excel graph:\n\nhttps://i.ibb.co/5GH7039/failure-to-deliver-jan-21.jpg\n\nSo, yeah, I guess there is not much to say. The hedgefonds obviously (?) transferred their positions from GME to XRT to deceit the public / the retail investors. I guess it's pretty clear or is there a possibility to interpret the data in a different way?\n\nWould be great if some of you American folks could contact your representatives about the correlation between GME and XRT. Would like to hear something about that in the upcoming hearing.\n\nCheers from Germany!",
+    "title": "SEC Failure-To-Deliver Analysis 2021-01-25 to 2021-01-29 GME vs. XRT",
+    "upvote_ratio": 1.0,
+    "url": "https://www.reddit.com/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/"
+}

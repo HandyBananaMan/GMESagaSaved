@@ -1,0 +1,18 @@
+{
+    "author": "Azote_Air",
+    "created_utc": 1620637431.0,
+    "distinguished": null,
+    "edited": 1620641432.0,
+    "id": "n8zzi4",
+    "text_only": true,
+    "flair_id": "3067bf6e-85f9-11eb-81cd-0ea0822fb1e7",
+    "flair_text": "Opinion \ud83d\udc7d",
+    "name": "t3_n8zzi4",
+    "num_comments": 294,
+    "permalink": "/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/",
+    "score": 3714,
+    "selftext": "EDIT: ICYMI - there were a volume mismatches blamed on server reboots.\n(X) Doubt\n\nI\u2019m gonna keep this short and sweet:\n\nOutside of special sauce cloud computing software the big boys (AWS, Azure, Oracle db, etc) provide their customers, the major selling point of data centers it twofold; cost through scaling/distributed use and reliability through redundancy. The first selling point you usually read about in the marketing literature from any data center service provider is their adherence to maintaining \u201c5 Nines\u201d or 99.999% uptime and 99.999% availability to their customers. This engineering philosophy is maintained through a variety of channels, with the key factor behind most of them being redundancy. Yes, just like with your NAS\u2019s RAID array for your 16TB of chicken tendy memes on 3 Seagate EXOs disks, data centers also have redundancy built in, but at more levels than just storage. \n\nThis post already feels way too long as I type it out on my phone, so I\u2019m gonna skip the details on modern data center topology. The likelihood of arguably one of the most important set of common service trading hosts (I can practically guarantee it\u2019s not run on just a single server let alone a single host or network switch) requiring a reboot in the middle of the day when the service doesn\u2019t even need to meet 5 9\u2019s on 24-7 availability is sus AF.\n\nIf you know more about the specific topology of CTA or the exchange networks in general, please shoot this down (or offer me a job to get me out of California). I\u2019ve got a sneaking suspicion the whole \u201cserver reboot\u201d story is basically the same line as \u201csorry, the ice cream machine is broke\u201d you hear from McDonalds.",
+    "title": "I work in data centers and the more I read in to the infrastructure used by the stock market, the more jacked my tits get that the more jacked my tits get. It\u2019s not \u201cjust a server reboot\u201d.",
+    "upvote_ratio": 0.98,
+    "url": "https://www.reddit.com/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/"
+}

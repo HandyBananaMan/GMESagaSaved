@@ -1,0 +1,216 @@
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/](https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/)
+
+
+&#x200B;
+
+https://preview.redd.it/vlqwo8cvmz571.png?width=1600&format=png&auto=webp&s=eeb70615d01a05c5aca6272357fe9868f856fef4
+
+Good Morning San Diago,
+
+I am Rensole and this is your daily news.
+
+Does anyone smell that?
+
+\*insert flashy intro card\*
+
+&#x200B;
+
+https://preview.redd.it/rpbnj4mxmz571.png?width=680&format=png&auto=webp&s=96d74672ba1b22687f2c675838bb2f0efd41b3f2
+
+The Reverse repo's
+
+&#x200B;
+
+https://preview.redd.it/gqfgmsn8nz571.png?width=693&format=png&auto=webp&s=173ec398c840f498f2e5d4b5fe9e062bf00614fc
+
+&#x200B;
+
+https://preview.redd.it/c8zteoyuoz571.png?width=666&format=png&auto=webp&s=948d2ba2dd4db2670a649c5a138ca67bc2bd992c
+
+Nothing to see here, just 250 billion extra in RRP's
+
+Now there still has been some confusion as to what RRP's are or what they do so I've looked for some DD's and stumbled across some.
+
+[Thread one](https://www.reddit.com/r/Superstonk/comments/o08rmm/whats_the_deal_with_reverse_repos_anyway/)
+
+[Thread two](https://www.reddit.com/r/Superstonk/comments/o28xhx/whats_the_deal_with_reverse_repos_anyway_dd_part/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+[Thread three](https://www.reddit.com/r/Superstonk/comments/o1thia/reverse_repo_can_we_stop_saying_cash_is_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+On that same account, wtf is the FED doing? well got to love our local wrinkly brained people:[https://www.reddit.com/r/Superstonk/comments/o1y03k/wtf\_is\_the\_fed\_doing/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/o1y03k/wtf_is_the_fed_doing/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+# Exponential floor
+
+[thanks to u\/JTH1](https://preview.redd.it/ygujgsrwoz571.png?width=960&format=png&auto=webp&s=e0d7eeaee3f4b487d4302406b98ee7aee3f219bf)
+
+in his words:
+
+**06/17 UPDATE: Some have been asking why I keep posting these charts. My rationale is that the daily low have been following a long predictable pattern in a similar manner as T+X and Elliot waves. This tells me that the daily low can somehow be used as a metric to gauge future price movements.**
+
+&#x200B;
+
+https://preview.redd.it/05o39qh4pz571.png?width=532&format=png&auto=webp&s=fd410e5da7c66c02620decde41fa8ec498d1e469
+
+**A** **round of applause for the NEW Vice President of Private Label and Global Sourcing! Kevin Kennedy!**
+
+&#x200B;
+
+https://preview.redd.it/ssb52sibpz571.png?width=828&format=png&auto=webp&s=852fd3e4950aa9a1d9d0f348fccec6aeb79bff5b
+
+Everything remains speculative however until we've received confirmation from the exchanges that it's done, just like the ATM share offering, we think it's done, yet we are waiting for official confirmation on that before we can do anything.
+
+&#x200B;
+
+https://preview.redd.it/ma8czrotqz571.png?width=720&format=png&auto=webp&s=4e4a83de94c3f019b82c3fcf8687fbd11bcc2d8d
+
+Also as a side note, the EDGAR system is out today, this means the markets are still open but the EDGAR filing system (used for the forms) wont be receiving updates today and will be updated again on monday, the Edgar system is were we would normally find the 13k forms and stuff like that.
+
+&#x200B;
+
+https://preview.redd.it/pectsz85qz571.png?width=960&format=png&auto=webp&s=fa7076944ddf604cb3fc301b731c92dcc45aea4f
+
+[NYSE president admitted Dark pool exchanges are problematic](https://www.reddit.com/r/Superstonk/comments/o25oi1/nyse_president_admitted_dark_pool_exchanges_are/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+Also u/dlauer's full segment on CNBC because CNBC likes to cut parts away.
+
+Thanks to  u/ydnar
+
+[https://www.reddit.com/r/Superstonk/comments/o2958m/our\_boy\_udlauers\_full\_segment\_on\_cnbc/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/o2958m/our_boy_udlauers_full_segment_on_cnbc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+&#x200B;
+
+https://preview.redd.it/wj29m92dsz571.png?width=473&format=png&auto=webp&s=42b89cd53e00ec14e2588c48df37c5c299b61b2b
+
+# Ryan Cohen has bought shares
+
+This is pure speculation at this point, we didn't receive a 13f filing stating he did, we didn't receive any formal notice from GameStop.
+
+So everything regarding this is currently speculation as it could be easily explained away as a glitch.
+
+There is an entire thread [here](https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+# The banks are down?
+
+Seems the banks have been having some pretty red days in the past days, but lets take an outside view on this for once, there is a thread [here](https://www.reddit.com/r/stocks/comments/o2ajxm/if_the_fed_just_announced_theyll_raise_interest/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) in r/stocks which could give us some more "conservative" information on this subject, because we are looking at this problem from one direction, lets get another POV and lets see if it could help perhaps bring a new wrinkle.
+
+&#x200B;
+
+https://preview.redd.it/05hgtf74sz571.png?width=1916&format=png&auto=webp&s=fb573dc880a06f315bb69780f569b263f1ebea88
+
+# Bloomberg terminal drop!
+
+[https://www.reddit.com/r/Superstonk/comments/o272h3/17062021\_gme\_bloomberg\_terminal\_information/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/o272h3/17062021_gme_bloomberg_terminal_information/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+# The hidden shorts and the correlation of ftds
+
+[https://www.reddit.com/r/Superstonk/comments/o1sggl/the\_hidden\_shorts\_the\_correlation\_of\_ftds\_and/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+&#x200B;
+
+There are also a couple of other things I want to add but I need to take care of some IRL stuff and will be adding them in a bit later, sorry for the inconvenience <3
+
+&#x200B;
+
+https://preview.redd.it/ja64w70ysz571.png?width=554&format=png&auto=webp&s=cc483317bbec7a3df139f6853447d6be28a8429f
+
+# EXCELLENT!
+
+Be friendly, help others!
+
+as always we are here from all different walks of life and all different countries.
+
+This doesn't matter as we are all apes in here, and apes are friends.
+
+Doesn't matter if you're a silverback a chimp or a bonobo.
+
+We help each other, we care for each other.
+
+**Ape don't fight ape, apes help other apes**
+
+this helps us weed out the shills really fast, as if everyone is helpful, the ones who aren't stand out.
+
+remember the fundamentals of this company are great, so for the love of god if someone starts with trying to spread FUD, remind yourself of the fundamentals.
+
+There is no sense of urgency, this will come when it comes, be a week, be it a month be it six.
+
+We don't care, just be nice and lets make this community as Excellent as we can!
+
+Remember one of the only ways to counter the Cointelpro we have seen is by being overly nice, so treat all the other apes as if you're dating and you wanna get to first base.
+
+&#x200B;
+
+https://preview.redd.it/doww5nvzsz571.png?width=400&format=png&auto=webp&s=b883cce7d9c03a1b9824cb7cc7c4411b5f798085
+
+remember none of this is financial advice, I'm so retarded I'm not allowed to go to the zoo 'cause they'll put me in the cage with the rest of my ape brothers.
+
+If anything happens throughout the day we will be adding it here.
+
+backups:
+
+[https://twitter.com/rensole](https://twitter.com/rensole)
+
+[https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
+
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+
+[https://twitter.com/ByeTriangle](https://twitter.com/ByeTriangle)
+
+[https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
+
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+
+&#x200B;
+
+Edit: so finally have the time to finish this baby
+
+first of all the update from  [@Annihil4tionGod](https://twitter.com/Annihil4tionGod)
+
+Short Volume Ratio Update 17. June 2021 AND a journey back in time: Short Volume Ratio Data from CBOE in 6 month timeframe since 2014. [\#GME](https://twitter.com/hashtag/GME?src=hashtag_click) [\#AMC](https://twitter.com/hashtag/AMC?src=hashtag_click) [\#SVR](https://twitter.com/hashtag/SVR?src=hashtag_click)  Have a great day! 1/8 
+
+ [https://twitter.com/Annihil4tionGod/status/1405690619218087937?s=20](https://twitter.com/Annihil4tionGod/status/1405690619218087937?s=20)
+
+&#x200B;
+
+[2015](https://preview.redd.it/lwlcoirlwz571.png?width=4096&format=png&auto=webp&s=4d8411b3a848674da4305445579572170cf03473)
+
+&#x200B;
+
+[2016](https://preview.redd.it/fawm928owz571.png?width=4096&format=png&auto=webp&s=30ccdbb129bd291efdbaf727de8fd515fbb48b78)
+
+&#x200B;
+
+[2017](https://preview.redd.it/ey1y7lxpwz571.png?width=4096&format=png&auto=webp&s=93d3c0d72d4657cf55a438c03472a31157c2e46d)
+
+&#x200B;
+
+[2018](https://preview.redd.it/thyqo4drwz571.png?width=4096&format=png&auto=webp&s=85ec29ca51dc6b95d3842a2d590daf7c5d2b34d6)
+
+&#x200B;
+
+[2019](https://preview.redd.it/w8t3mniswz571.png?width=4096&format=png&auto=webp&s=42b5afc1c7ca1aeec9cc2453417e68973ca3480b)
+
+Unfortunately I can't post all the images he's found due to Reddit's image limit But I'd advise checking out his twitter, [https://twitter.com/Annihil4tionGod](https://twitter.com/Annihil4tionGod)
+
+AG is known for doing some awesome data dives and really digging deep into it.
+
+Again Thank you Annihil4tionGod for your awesome contributions <3
+
+AG's research into historic short data: 
+
+[https://twitter.com/Annihil4tionGod/status/1405635801745133576?s=20](https://twitter.com/Annihil4tionGod/status/1405635801745133576?s=20)
+
+Showing that since 2010ish short daily volume has been at minimum 50% which is insane, how can someone look at the data and say "shorting is healthy", this is just there to destroy companies at this point.
+
+# More putts then shares?
+
+Also  u/luxowoman has made a thread [here](https://www.reddit.com/r/Superstonk/comments/o25onf/deep_otm_puts_total_update_strike_at_5_max/?utm_source=share&utm_medium=ios_app&utm_name=iossmf), showing that currently there is the ENTIRE FLOAT in puts of $12 and below, can someone wake up Gary from his nap? I know it's only his 10th week or so...
+
+# On todays holiday
+
+The EDGAR system will be closed as will the SEC be closed, everything else is open.  
+[https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf)
+
+&#x200B;
+
+Alright that's it, Have an amazing weekend everyone!

@@ -1,0 +1,49 @@
+# Author: Son0fTheSun333
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/](https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/)
+
+
+Since joining this sub and reading all the wrinkly brain DD that's been going around the past ~6 months, I've finally started to gain a wrinkle myself. I'll start by saying that I haven't written any DD, I literally have 0 background in finance/stocks/anything else related ot this sector. I literally clean office buildings for a living and GME is my ticket to financial freedom - otherwise I'd prob have to slave my ass off the rest of my life to retire after I die. 
+
+Most of what this post will be is my interpretation and breakdown of a video I just watched - [The Fed Just Lit the Fuse for a Liquidity Crisis](https://www.youtube.com/watch?v=orET-_WdPEQ) - I've read so many articles, posts here, and watched so many videos but this video finally made everything click for me. I admit now that I will be repeating a lot of what this guy says in the video and for that I apologise. You can watch this 16 minute video and probably skip this write-up if you desire but there may be some additional wrinkles to be gained as I try to explain away the smoothness of my own brain with my attempt to contribute. (Bonus: you can speed the video up in YouTube's settings to get through it quicker).
+
+Lastly, I am not a financial advisor. Do not use this post to make any financial decisions. I have already stated that I have no idea what I'm doing so if you make any decisions based off of this post, you're probably more retarded than me. I am also open to any constructive criticism so if I have mislabeled, misinformed, or simply gotten certain concepts wrong, please let me know in the comments and I will edit this post accordingly.
+
+_________________________________________
+
+#Repo vs Reverse Repo Explained
+
+The repo market for most of its history (I believe?) was simply a market for financial institutions between themselves (not the Fed) to make short term loans back and forth to keep liquidity frothy in the financial system. These loans could either be overnight (the majority, if I'm not mistaken) up to several months long.
+
+In the ["2019  Repo Market Crisis"](https://youtu.be/URvok29rf-w) the Federal Reserve had to step in and fix a problem between the financial institutions. There was too much demand for liquidity and this caused a massive spike in rates - threatening the entire financial system. Without the Fed's intervention, and them stepping in as [The Lender of Last Resort](https://www.investopedia.com/terms/l/lenderoflastresort.asp), we could've seen a massive meltdown in financial institution's liquidity. No liquidity = crash. Crash = bad. Since 2019, the Federal Reserve has been stepping into the Repo/Reverse Repo markets to keep things running smoothly. 
+
+**Repo** from the Federal Reserve's point of view is a financial institution, bank, money market fund, hedge fund, etc. giving the Fed collateral in exchange for cold hard cash.
+
+**Reverse Repo** from the Federal Reserve's point of view is the above giving the Fed cash in exchange for collateral. 
+
+As you all know by now, the FIs (financial institutions - all of the above now for the sake of brevity) are drowning in liquidity. They NEED collateral and they need it BAD. Why? It definitely has something to do with margin requirements and the [SLR (Supplementary Leverage Ratio)](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20200401a.htm) The exemption that began at the beginning of Covid last year ended at the end of March this year. This coincided with a [massive spike in Reverse Repo transactions](https://fred.stlouisfed.org/graph/fredgraph.png?g=F65K) (with the Fed - this is important).  It was the quarter end as well which may have been the actual reason for the day of spike but since the beginning of April, the RRP markets have gone up by...a lot as you're all aware. Sidenote: today's RRP numbers are going to be quite interesting. Can't wait!
+
+This is where the video above helped me understand what's going on to a greater degree and what I haven't seen discussed by any of the God-Tier DD producers here like /u/criand (love you, huge fan!)
+
+#The US Treasury General Account (TGA) & the Incoming Liquidity Crisis
+
+I may need some help with this section so please forgive me and assist me if I make any mistakes.
+
+The US Treasury General Account is basically the US government's checking account. Remember all the stimulus checks the govt has been handing out recently? [Well they spent a bunch money from this account](https://fred.stlouisfed.org/graph/fredgraph.png?g=F661) and have been trying to "drain it back to pre-Covid levels" which can be seen in the grap was at ~$400B. To paraphrase the wrinkle brain in the referenced video, once the TGA gets back to that ~$400B figure, the US government will have to start issuing debt again - Treasury Bonds. The AAA collateral that the FIs are in such desperate need of. When you, me, or a FI buys a Treasury Bond, we are loaning the govt our cash in exchange for more money in the future (the yield) upon the time of expiration or whenever someone decides to cash in and sell the bond back to the govt. This is DEBT to the government's "balance sheet."
+
+Right now, there's a severe ***LACK*** of this good collateral right now and, again, LOTS of liquidity - which is a liability on bank's balance sheets and banks are the big dawgs in this whole shebang. However, the RRP market SUCKS liquidity from the FIs to the Fed. This is the important part. To understand this part better, if you haven't yet watched the video, this is explained better than I can at 7:33 til about 8:52 in the video.
+
+The kink in this whole scenario is the fact that the Fed just started to incentivise FIs to give them cash in exchange for collateral by upping the once 0% rate to 0.05% (aka 5 Basis Points). This means that the Fed REALLY REEEAALLLLLYYYYY wants FIs to give them cash (sucking liquidity from the system) in exchange for that sweet sweet AAA collateral. So now the banks and other FIs (hedge funds were recently allowed to participate in the RRP market - hahaha, who would've thought that?) are **profiting** more off this RRP transaction than they would basically anywhere else. But, BUT, the Fed is the ultimate backstop for this plan because in a normal market scenario, without the Fed's involvement, the laws of supply & demand would take over and we'd see a much different situation than the one we're currently experiencing. What would that look like? Idk, I don't have a crystal ball and I'm too smooth brained to speculate on that.
+
+After the 5 bp hike, the RRP amount spiked by 50%. To learn more about what this rate hike is causing, watch from 9 minutes in the video on. To sum it up, this recent rate hike will drain RESERVES (the money that the Fed prints in QE and gives to the banks) from the FIs in a matter of weeks because, again, it's incentivising FIs to give their reserves to the Fed in exchange for the much needed collateral. 
+
+But when the TGA gets to that ~$400B figure, and they start to issue NEW Treasuries into the market, which is going to happen soon because they're approaching that $400B mark, it's going to increase the SUPPLY of the much needed collateral (which, if you've been reading other God-Tier DD, The Everything Short says they've been shorting the literal fuck out of) around the same time that the RRP is sucking all the reserves out of the system. But because new collateral is going to be issued and banks need  a certain ratio for their books (SLR again), they're going to need RESERVES to counter the increase of collateral on their books. This drains even more liquidity from the system and if you think a collateral crisis is bad, a liquidity crisis is really the major cause of market crashes - see: 2008.
+
+To quote the guy in the video as a summation: "Option 2 - The Federal Reserve is intentionally, right now, planting the seeds for a liquidity crisis. AKA - evil." Which, in my honest opinion, is 100% the truth. 
+
+The Federal Reserve has engineered every single financial disaster since its inception in 1913. Read [The Creature From Jekyll Island](https://smile.amazon.com/Creature-Jekyll-Island-Federal-Reserve/dp/091298645X/ref=sr_1_1?crid=LFKAL7P59HSJ&dchild=1&keywords=the+creature+from+jekyll+island&qid=1625070614&sprefix=the+creature+from+%2Caps%2C177&sr=8-1) to learn more about the Fed's shady history and role in all the fuckery. The Federal Reserve is the final boss and they're not only helping SHFs kick the can down the road, but they're going to be responsible for this next major market crash that we've all been talking about for the past few months. 
+
+Why does the Federal Reserve want to intentionally do this? Because it consolidates even more power into their hands. Why do you think they've been buying up so many MBS (Mortgage Backed Securities) in the past ~year or so since Covid began? They owned [more than 50% of all US home mortgages back in 2015](https://archive.is/hrkDT) - archive link because it's MW and fuck them but didn't feel like digging for another link right now, been working on this too long - imagine what that number is now? If anyone wants to help add to that figure, please do so! 
+
+TL;DR - The Fed is the final boss. They're purposely contributing to the destruction of the US/global financial markets to come out on top as the most powerful organisation in the world. They are going to do this by creating *another* liquidity crisis which, on the surface now, looks like a collateral crisis. 
+
+TA;DR - Buy & HODL because if the markets crash, thanks to the Fed, our tendies are a ticket to greener pastures while everything collapses down around us. $33,666,999 floor currently.

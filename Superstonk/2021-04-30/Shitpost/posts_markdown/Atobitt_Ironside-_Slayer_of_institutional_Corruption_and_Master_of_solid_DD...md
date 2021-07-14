@@ -1,0 +1,5 @@
+# Author: benrehmie
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1ni4m/atobitt_ironside_slayer_of_institutional/](https://www.reddit.com/r/Superstonk/comments/n1ni4m/atobitt_ironside_slayer_of_institutional/)
+
+
+https://i.redd.it/5brqfbgs29w61.jpg

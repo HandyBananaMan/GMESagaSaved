@@ -1,0 +1,5 @@
+# Author: WhileNo1676
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n82poy/realize_how_crazy_it_is_that_blackrock_didnt/](https://www.reddit.com/r/Superstonk/comments/n82poy/realize_how_crazy_it_is_that_blackrock_didnt/)
+
+
+Take a step and feel massive confirmation bias on this point. BR has been liquidating the fuck out of a lot of positions (hence why gme as a % of portfolio doubled in Q1). If they didn’t sell in jan, which could’ve explained the >100% inst ownership numbers, they will certainly see this through. And more than the OS is held for sure now. This is a massive data milestone that I have been silently worried about, and everyone should realize how bullish this is. And don’t give me bs about we don’t need Blackrock etc that’s not the point, if you can’t appreciate the significance dont comment bruh

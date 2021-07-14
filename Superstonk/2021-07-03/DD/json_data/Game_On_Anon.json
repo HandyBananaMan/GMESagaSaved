@@ -1,0 +1,18 @@
+{
+    "author": "BASEbelt",
+    "created_utc": 1625348558.0,
+    "distinguished": null,
+    "edited": 1625353534.0,
+    "id": "od70c1",
+    "text_only": true,
+    "flair_id": "7b24752e-85f9-11eb-b3c8-0e861167b641",
+    "flair_text": "DD \ud83d\udc68\u200d\ud83d\udd2c",
+    "name": "t3_od70c1",
+    "num_comments": 115,
+    "permalink": "/r/Superstonk/comments/od70c1/game_on_anon/",
+    "score": 1345,
+    "selftext": "I\u2019ll provide some quick clarity into some misunderstandings of blockchain technology to help my fellow Apes understand what to potentially anticipate from GameStop on July 14th.\n\nGameStop\u2019s page declares the following:\n\n\u201cWe are building a team\nWe welcome exceptional engineers (solidity, react, python), designers, gamers, marketers, and community leaders. If you want to join our team, send your profile or something you've built to: nfteam@gamestop.com\u201d\n\nTo analyze the talent they seek and breakdown what the path they may take we need to look into the engineering tools they seek experience and talent within. We also need to understand how programs communicate with each other and the specific standards they programs work within.\n\nSolidity is a programming language used within the smart contract on E t h e r e u m. Smart contracts are programs stored on the blockchain, and they self-execute when conditions are met. E t h e r e u m developers (not GameStop\u2019s developers) create different smart contract standards for others to comply within such as ERC-20 (fungible tokens) and ERC-721 (non fungible tokens). GameStop developers will need to understand Solidity enough to link their program codes to E t h e r e u m.\n\nGameStop also seeks engineers will talent in React and Python. These tools/programming language will allow GameStop\u2019s developers to build the front end dApp (think webpage) to interact with the Smart Contract code to store information within the E t h e r e u m blockchain. dApps are applications that don't exist on the blockchain but rather interact with it. dApps are used to communicate with smart contacts, and by doing that, with blockchain itself.\n\nGameStop\u2019s NFT page indicates that potential GameStop-released Non-Fungible Token (NFTs) will utilize E t h e r e u m\u2019s ERC-721 standard. As for the targeted audience for whatever NFT offering that emerges from GameStop\u2019s team, an animated image on the GameStop page says \u201cPower to the players. Power to the creators. Power to the collectors.\u201d\n\nGameStop developers could build applications like CryptoKitty or items like unique accessories in video games and have that stored into the blockchain within the ERC-721 standard. These items will hold a unit of measurement in their own which makes them NFTs. They could also create an ecosystem to allows these NFT units to be forged, combined, or subdivided in their own which can make a collectible game for shareholders and we can trade with each other on GameStop\u2019s NFT platform. \n\nFor simplicity think of digital collectibles that have attributes like age and rarity controlled by the parameters that GameStop\u2019s developers create. \n\nTADR: GameStop has already created an ERC-721 standard token, which is used to create NFTs. Expect NFTs to be release on July 14th when the code plumbing goes live on the smart contract.\n\nIf they offer NFTs as dividends or for retail to buy doesn\u2019t matter to me. Either way we will see \ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83e\udd19\n\nEdit: TADR edited to use more speculative language.",
+    "title": "Game On Anon",
+    "upvote_ratio": 0.97,
+    "url": "https://www.reddit.com/r/Superstonk/comments/od70c1/game_on_anon/"
+}

@@ -1,0 +1,113 @@
+<h1>Author: dentisttft</h1>
+<h1>Post URL: <a href="https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/">https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/</a></h1>
+<p><em>This post is for education purposes only. Not financial advice.</em></p>
+<p><strong>TL;DR-</strong></p>
+<ul>
+<li>Operational shorting allows for 5 business days of ETF FTDs before the T+35 timer starts</li>
+<li>Stock can be shorted through an ETF by going short on the ETF, breaking it apart, and buy-to-cover the underlying (outside of the stock you want to short) back into the market</li>
+<li>GME's negative beta comes from the ETF FTDs</li>
+</ul>
+<p>&#x200B;</p>
+<p>For the last few weeks I’ve been looking into ETF FTDs to figure out the details. There’s a lot going on. This post will be mostly informational. If you already know about certain topics, feel free to skip over the section.</p>
+<p>&#x200B;</p>
+<h1>Preface</h1>
+<p>I’ve gotten a lot of good information about ETFs using this video: <a href="https://www.youtube.com/watch?v=ncq35zrFCAg">https://www.youtube.com/watch?v=ncq35zrFCAg</a></p>
+<p>&#x200B;</p>
+<h1>Operational Shorting</h1>
+<p>Market Makers are allowed to fail-to-deliver ETF shares and hold them as failures for three extra days in the name of liquidity! It is due to a market maker exception allowing this. The way this looks is: (a) trade date, (b) becomes a FTD on T+2, (c) allowed T+3 more days of holding it as an FTD, (d) cover the FTD on the sixth day (in our case, opening puts to delay T+35 more days).</p>
+<p><a href="https://preview.redd.it/3khunklh8s971.png?width=632&amp;format=png&amp;auto=webp&amp;s=af873b5aab526ee1bb885794851a208312d437ce">MM’s are allowed to keep FTDs open for a few extra days.</a></p>
+<p><strong><em>Important Note:</em></strong> In the video he mentions T+6 a lot, but in the footnote of his paper he points out the rule is actually T+5, but they collected all of their data before the rule was changed. So they presented it with T+6 still.</p>
+<p>They don’t HAVE to keep it open for the extra days, but they often do. Looking at the weighted ETF FTD heatmap, you will see groups of 2-3 days showing this exact thing.</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/m2se9inm8s971.png?width=1328&amp;format=png&amp;auto=webp&amp;s=230da391dd110850c884d027b0f21fba91e9870f">The darker green signifies a higher weighted amount of FTDs within the ETF.</a></p>
+<p>&#x200B;</p>
+<p>&#x200B;</p>
+<h1>How to short a stock through an ETF</h1>
+<p>Authorized Participants (AP) have the ability to create and break apart the ETFs (watch the twinkie example from the video for a simple explanation. Twinkie example starts here: <a href="https://youtu.be/ncq35zrFCAg?t=540">https://youtu.be/ncq35zrFCAg?t=540</a> ) The ETFs can only be broken apart or created in groups, called creation units.</p>
+<p>If an AP borrows ETF shares and pays a small fee, they can break groups of ETF shares into all the individual underlying stock. They then buy all of the underlying stock back from the market EXCEPT for the stock they want to short. This creates a short position through the ETF. After a few days (+ another 34 days if they open puts), they’ll need to buy back the underlying stock, create the ETF shares, and return them.</p>
+<p>Here is a graph showing the day-to-day number of shares in existence of the three GME ETF’s with the most FTDs.</p>
+<p><a href="https://preview.redd.it/85e90mur8s971.png?width=892&amp;format=png&amp;auto=webp&amp;s=e7ba654d253bc83d1b8536d332860ad31496da54">XRT and IWM shares outstanding drop at the end of January while XSVM is steadily climbing over time.</a></p>
+<p><em>***</em></p>
+<p><strong><em>Side note:</em></strong> <em>Today is the first day I noticed XSVM has been steadily climbing in the number of shares outstanding. It makes me wonder if this is normal or if SHFs are hiding their FTDs into XSVM as time passes. There is a huge spike in XSVM shares outstanding around 6/16-6/21, which we don’t have FTD data for yet. But the last time it did something like that was 12/18-12/21 which happens to be 35 days before 1/22. 35 days following 6/21 would be 7/23. Not going to lie, this seems pretty important… but I must continue with this post. Maybe I can circle back around and look into this on a different post.</em></p>
+<p>***</p>
+<h1>Short Sale Restricted and ETFs</h1>
+<p>When GME drops 10% during regular trading hours compared to the closing price of the day before, it goes on Short Sale Restricted for the rest of the day and the next day. When this happens, SHFs can’t short GME directly so they short it through the ETFs.</p>
+<p>Here is a chart of the ETFs weighted by the GME weighting within the ETF as of the beginning of June. I didn’t adjust the weights over time, but hopefully this should get pretty close. Ignore the units, just look at the relative sizes.</p>
+<p><a href="https://preview.redd.it/w432hjy19s971.png?width=891&amp;format=png&amp;auto=webp&amp;s=40c53affede24ce37ddf8acc8beab9288a475272">FTDs counts from the more shorted ETFs</a></p>
+<p>And here is the same chart with SSR days marked in green.</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/4n9yk0w59s971.png?width=891&amp;format=png&amp;auto=webp&amp;s=cf08aace6c62a10bad5ee76b5677938ab1d1e798">Green boxes around SSR periods.</a></p>
+<p>This chart is a little confusing and not super obvious, but the important part is that ETF FTDs go up after a 5 day delay due to operational shorting.</p>
+<h1>What happens after FTDs jump on ETFs?</h1>
+<p>It gets taken care of the same way as I explained in my original T+35 theory DD.</p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/o155a6/t35_is_the_one_true_cycle_evidence_to_back_my/">T+35 is the one true "cycle"</a></p>
+<p>The difference is that GME FTDs start the 34 timer when they show up as FTDs while ETF FTDs don’t start the 34 day timer until they get cleared.</p>
+<p><a href="https://preview.redd.it/sz0zqklj9s971.png?width=834&amp;format=png&amp;auto=webp&amp;s=52cfa8213e6485da19e0097bb9b25398438f9a32">Start the 34 day countdown on the day the ETF’s FTDs drop.</a></p>
+<p>&#x200B;</p>
+<p>But let’s continue with my old T+35 DD and first let’s double check that puts are being opened. I’m only going to show one example, but this can be done on other days too. Here is XRT. FTDs stack up from 1/28 and 1/29. On 2/1, 2/3 and 2/4 the FTDs drop.</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/6jb1s8hq9s971.png?width=716&amp;format=png&amp;auto=webp&amp;s=e655d9fc9cf2e9f8e5e6fe033d710e95275c7160">Three different days where a lot of FTDs are “cleared”.</a></p>
+<p>&#x200B;</p>
+<p>So let's look for puts. They are almost always on the first monthly expiration that is more than 35 DTE. In this case, March 19, 2021.</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/28vugmmy9s971.png?width=1565&amp;format=png&amp;auto=webp&amp;s=8193d13ea0b56f48545d073178a9913db2ff23ca"> Puts opened on Feb 1</a></p>
+<p><a href="https://preview.redd.it/va7x74dz9s971.png?width=892&amp;format=png&amp;auto=webp&amp;s=a969728ad8de054dcbff09ef55380d9b52bd4b76"> Puts on Feb 4</a></p>
+<p>&#x200B;</p>
+<h1>T+35 and ETF FTDs</h1>
+<p>Now that puts have been confirmed to be opened, it's time to check out what XRT does after 34 days. If the puts for XRT are opened from Feb 1 to Feb 4, then T+35 would give the 34 day cover to be 3/5 to 3/10.</p>
+<p><a href="https://preview.redd.it/ow9v8ny8as971.png?width=939&amp;format=png&amp;auto=webp&amp;s=2785b90b52103276ef518bf21f2aea5454bf8324">T+35 of ETF FTD leads to a jump</a></p>
+<p>&#x200B;</p>
+<p>Cool, the good ol' T+35 jump. And we all know what happened to GME during those times. But let’s look at another stock that’s in the XRT ETF. It doesn’t seem to move.</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/6gopjc3fas971.png?width=994&amp;format=png&amp;auto=webp&amp;s=0571b6e71700273bad93164bf325f14536895e4e">It doesn’t move.</a></p>
+<p>&#x200B;</p>
+<p>And this has been the hardest part of tracking ETFs. The underlying doesn’t always behave how you would expect. Some underlying does move with XRT during these times, some moves opposite of it.</p>
+<p>&#x200B;</p>
+<p>Also, interestingly enough, you can find 35 day gaps on the XRT Shares Outstanding graph.</p>
+<p>https://preview.redd.it/pqhiopyqas971.png?width=889&amp;format=png&amp;auto=webp&amp;s=28c98f3e1c1a431a66436e07d1a3f79ce6bfa5c9</p>
+<p>My guess is that SHFs short the ETF. Then FTDs come due, GME goes up, and they re-short the ETFs to control it again.</p>
+<p>&#x200B;</p>
+<h1>Underlying vs ETF</h1>
+<p>Which leads me to some helpful tips when looking at this stuff:</p>
+<ul>
+<li>If the ETF goes up, but the underlying stays the same: The ETF is being bought to break apart and the underlying is sold back to the market.</li>
+<li>If the ETF drops, but the underlying stays the same: The underlying is being bought up, created into ETF shares, and the ETFs are being sold back into the market.</li>
+<li>If ETF goes down and the underlying goes down, the market is just dropping or the ETF is being shorted along with that particular underlying stock.</li>
+<li>If the ETF goes up and the underlying goes up, the market is going up in general.</li>
+</ul>
+<p>It doesn’t always follow this, but you have to remember that ETFs are bought and sold like shares. So when the ETF and the underlying differ by a significant margin, then there’s probably something creation/destroying related that is happening.</p>
+<p>&#x200B;</p>
+<h1>Negative Beta</h1>
+<p>At this point it is well known that GME has a strong negative beta. I believe this ETF stuff is the reason why. The negative beta posts started showing up around February/March and that’s when the effects of ETF FTDs started coming into play. That’s also when the price and volume disconnected.</p>
+<p>When GME is going up, ETFs get shorted and the price of a lot of underlying stock will drop or stay flat leading to SPY to drop. When GME’s ETF FTD’s get covered, the ETF drops, but the underlying rises leading to SPY to rise.</p>
+<p>Let’s look at one last chart. I <em>attempted to</em> line up the ETF FTDs with their T+35 cover dates on SPY.</p>
+<p><a href="https://preview.redd.it/9qszoed8bs971.png?width=987&amp;format=png&amp;auto=webp&amp;s=cb2643e327fa06c591673f59a23ff4f9301396ff">ETF FTDs with their T+35 dates on SPY. </a></p>
+<p>ETF FTDs line up with rises in SPY. Pretty cool, eh?</p>
+<p>&#x200B;</p>
+<h1>Bonus Material #1</h1>
+<p>An ape by the name of u/isnisse messaged me with something about T+42. At first, I didn’t think much of it. Then it clicked… T+5 from operational shorting into T+35 from puts, leads to just about 42 calendar days. They did some analysis to show correlation with GME’s price and 42 days. I think what they actually picked up here was the ETF FTD cycles. Here is the post:</p>
+<p><a href="https://www.reddit.com/r/Superstonk/comments/oa2ks6/t42_is_likely_the_new_black/">https://www.reddit.com/r/Superstonk/comments/oa2ks6/t42_is_likely_the_new_black/</a></p>
+<h1>Bonus Material #2</h1>
+<p>Another ape by the name of u/BurningMist plotted cumulative FTD value vs GME stock price. I have no idea what it means, but I figured I’d let people see it for themselves. Could this mean that the only price movements we see are based on FTDs? And retail has 0 effect because all our orders run through Dark Pools? I don’t know. Here's his message with imgur links to the graphs.</p>
+<p>&#x200B;</p>
+<blockquote>
+<p>There also seems to be a relation with the cumulative GME FTD notional value and the daily low price 35 days later. I summed up the $ value of all cumulative GME FTDS from 12/1/20 until 6/15/21 and if you plot that vs the log price 35 days later you get <a href="https://i.imgur.com/Gjyp5Rk.png">this</a>. I also made another trendline from 1-4-21 to 6-15-21 and got <a href="https://i.imgur.com/rMJhUDe.png">this</a>.  </p>
+<p>I've been running on the exponential increase assumption before now but using T+35 instead follows the price closer than an exponential increase over time has been able to. I used that slope and intercept from the 1-4-21 graph to predict the GME log10 price 35 days later and then plotted it with the trendline of the GME log10 price over time in this <a href="https://i.imgur.com/KwSlhTZ.png">graph</a>. I used an average increase of $5,500,000 per day after 7-18-21 to project until 9-1-21. Not exactly sure why the cumulative GME FTD $ follows the price 35 days later but thought I would share.</p>
+</blockquote>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/9w08xnpzbs971.png?width=1766&amp;format=png&amp;auto=webp&amp;s=4e80f7d033a49b1945c4497ba2a6a84681a1498c">GME’s price plotted against cumulative FTD notional value</a></p>
+<p>&#x200B;</p>
+<p>----------------------</p>
+<p>&#x200B;</p>
+<p>Alright that’s all I got for today! If you want to get a hold of me, tag me in a comment.</p>
+<p>&#x200B;</p>
+<p><strong>EDIT 1:</strong> Originally I was saying break the shorted ETF and "sell" the underlying back to the market. But some people have corrected me in the comments. They actually buy to cover the underlying they don't want to short.</p>
+<p>&#x200B;</p>
+<p>pce\~\~</p>
+<p>- u/dentisttft</p>
+<p>&#x200B;</p>
+<p>My Twitter has some random daily thoughts/price predictions that don’t require a full post.</p>
+<p><a href="https://twitter.com/dentisttft">https://twitter.com/dentisttft</a></p>
+<p>&#x200B;</p>
+<p><em>PS. I’d love to look into the XSVM stuff more, but if someone wants to get to it before me then go ahead. I have one more post planned for this next week that pulls everything I’ve been posting about together. I personally think the MOASS is right around the corner and I’m going to do my best to prove why that’s the case.</em></p>
+<p><em>Oh yeah, XRT has been on the threshold list for a while now. I don’t know if that means anything. It hasn’t so far… but I’m sure it will come into play eventually.</em></p>

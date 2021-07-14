@@ -1,0 +1,15 @@
+# Author: DavidNIO
+# Post URL: [https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/](https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/)
+
+
+⛔IF WE DON'T SELL THEY CANT BUY,  NYSE HAS ANNOUNCED BID/ASK DIFFERENTIAL IS $40 ( option market). LIQUIDITY DRYING UP. HIGH DIFFERENTIAL MEANS STOCK IS LESS LIQUID AND NO ONE IS WILLING TO SELL EVEN THOUGH HEDGE FUNDS ARE DESPERATE TO BUY. MAY BE RYAN IS RECALLING THE FLOAT ( SPARE SHARES IN THE MARKET ) NOT CONFIRMED JUST AN ASSUMPTION.
+
+VOLKSWAGEN SHORT SQUEEZE WAS TRIGGER WITH LESS THAN 15% SHORT INTEREST,  GME HAS OVER 60-70% IF THAT'S EVEN LEGIT. SO SKY IS THE LIMIT AS PER THE MARKET RULE 
+
+I LIKE THE STOCK,  I LIKE THE FUTURE! BIGGEST e-commerce COMPANY IN THE MAKING!
+
+This is not a financial advice,  just my opinion.
+
+Edut:
+NYSE NEWS LINK
+https://www.nyse.com/site-search?q=Gme

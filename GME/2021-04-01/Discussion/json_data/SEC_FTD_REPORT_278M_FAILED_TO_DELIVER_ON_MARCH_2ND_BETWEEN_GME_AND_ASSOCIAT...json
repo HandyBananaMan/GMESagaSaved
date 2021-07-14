@@ -1,0 +1,18 @@
+{
+    "author": "nequin",
+    "created_utc": 1617257516.0,
+    "distinguished": null,
+    "edited": 1617469137.0,
+    "id": "mhp1dr",
+    "text_only": true,
+    "flair_id": "d6dd598c-6e3c-11eb-bf7d-0eebd6918099",
+    "flair_text": "Discussion \ud83e\udd8d",
+    "name": "t3_mhp1dr",
+    "num_comments": 236,
+    "permalink": "/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/",
+    "score": 4199,
+    "selftext": "**HOLY SHIT!!!**   **I THINK THIS IS HUGE**.\n\nfirst, i built [this tool](https://failedtodeliver.com) to help sort through the sec ftd info.  its completely [open source](https://github.com/failedtodeliver/failedtodeliver.com) so no funny business ... feel free to contribute if you think its useful\n\nimportantly, for you smooth brained apes, how does this work?  line items from the sec report are compiled by day and by stock(s) merging their notionals (price at the time \\* quantity) together to get an overall lens of the damage.\n\nand if i built this right and im correct here, then if you look at this link below, you can see the combined notionals for GME and associated ETFs\n\n[https://failedtodeliver.com/?symbols=GAMR,XRT,RETL,XSVM,VIOV,RWJ,VIOO,PSCD,VIOG,VTWV,IUSS,VCR,VTWO,SFYF,IWC,EWSC,SYLD,PRF,RALS,FNDX,FNDB,VBR,IJS,XJR,NUSC,SLYV,IJR,SPSM,SLY,FLQS,IJT,GSSC,SLYG,VXF,NVQ,IWN,ESML,VB,SAA,DMRS,BBSC,OMFS,FDIS,STSB,SSLY,IWM,SCHA,PBSM,UWM,VTHR,URTY,VTI,TILT,VLU,HDG,AVUS,MMTM,DSI,SPTM,IWV,SCHB,ITOT,DFAU,GME](https://failedtodeliver.com/?symbols=GAMR,XRT,RETL,XSVM,VIOV,RWJ,VIOO,PSCD,VIOG,VTWV,IUSS,VCR,VTWO,SFYF,IWC,EWSC,SYLD,PRF,RALS,FNDX,FNDB,VBR,IJS,XJR,NUSC,SLYV,IJR,SPSM,SLY,FLQS,IJT,GSSC,SLYG,VXF,NVQ,IWN,ESML,VB,SAA,DMRS,BBSC,OMFS,FDIS,STSB,SSLY,IWM,SCHA,PBSM,UWM,VTHR,URTY,VTI,TILT,VLU,HDG,AVUS,MMTM,DSI,SPTM,IWV,SCHB,ITOT,DFAU,GME)\n\n$278M on march 2nd...  $103M on mar 12.  i have a huge feeling there are other places that they may be hiding these shorts.  anyone got any ideas on other shares we can add to this list?????  HELP ME CRACK THIS EVEN DEEPER\n\nOBLIGATORY \ud83d\ude4c\ud83d\udc8e\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80 THIS IS NOT FINANCIAL ADVICE",
+    "title": "SEC FTD REPORT: $278M FAILED TO DELIVER ON MARCH 2ND BETWEEN GME AND ASSOCIATED ETFS",
+    "upvote_ratio": 0.99,
+    "url": "https://www.reddit.com/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/"
+}

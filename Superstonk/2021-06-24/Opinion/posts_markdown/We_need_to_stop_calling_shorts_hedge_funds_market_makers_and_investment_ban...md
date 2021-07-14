@@ -1,0 +1,5 @@
+# Author: flaccidmoney
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o719bo/we_need_to_stop_calling_shorts_hedge_funds_market/](https://www.reddit.com/r/Superstonk/comments/o719bo/we_need_to_stop_calling_shorts_hedge_funds_market/)
+
+
+All of these groups have one common goal: rob hard working people of money at every available opportunity. They literally write the rules on how this scam works, and now that retail has found a hole in their system, they're crying foul play. I dont even think it's fair to say they're holding the economy hostage anymore because of the size of the hole they dug in their greed. It's like they've already killed the economy and run it up a flag pole to barge about what they did. They know now that they will fall, but they're trying to bring down everyone else with them too. It's nothing short of criminal. So buy, hold, and if nothing else lets try to get these people known for what they really are: financial terrorists. They are the baddies.

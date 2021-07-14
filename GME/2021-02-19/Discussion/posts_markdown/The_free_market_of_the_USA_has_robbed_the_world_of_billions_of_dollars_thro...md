@@ -1,0 +1,5 @@
+# Author: Odd_Ad4135
+# Post URL: [https://www.reddit.com/r/GME/comments/lo01w2/the_free_market_of_the_usa_has_robbed_the_world/](https://www.reddit.com/r/GME/comments/lo01w2/the_free_market_of_the_usa_has_robbed_the_world/)
+
+
+The governments of countries across the globe are having a hard time getting their citizens relief with the hit from Covid and now ontop of that their citizens get robbed. This was from the country that claims their markets are the envy of the world. Even though most of us are still holding and buying the dip, we should not be in this situation right now. Some people got seriously hurt and deserve every penny recovered since the rules were changed when they were minutes away from winning. Please contact your government officials to raise awareness. I am getting help from a lawyer to write a letter to send to the department of finance in Canada. What do you think and what are your thoughts about investing in the US markets after this?

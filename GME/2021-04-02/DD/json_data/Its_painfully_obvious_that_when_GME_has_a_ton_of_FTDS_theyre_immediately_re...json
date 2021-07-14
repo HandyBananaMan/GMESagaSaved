@@ -1,0 +1,18 @@
+{
+    "author": "canhazreddit",
+    "created_utc": 1617366876.0,
+    "distinguished": null,
+    "edited": 1617368624.0,
+    "id": "mijfq9",
+    "text_only": true,
+    "flair_id": "041e7fc8-584b-11eb-bcb3-0e263fdab45f",
+    "flair_text": "DD \ud83d\udcca",
+    "name": "t3_mijfq9",
+    "num_comments": 78,
+    "permalink": "/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/",
+    "score": 1721,
+    "selftext": "tl;dr:\nMaybe 100 million FTD's that need to be covered\n\n\nSo I scrapped all the data from [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm) in to a sql database to make it easy to mess with charting in Excel. (I don't do charting/reporting, I'm a software developer, scraping the data was the easy part. I know there's probably much better ways to chart stuff with R Shiny or some shit). \n\nI used a sql function called 'lag' to add the gain/loss of the ftd quantity over time and charted it.\n\n[https://i.imgur.com/2KYDw1c.png](https://i.imgur.com/2KYDw1c.png)\n\nI know there's a shit ton of lines on this pic, but bear with me. Just look at the pattern. Up then Down in practically identical numbers. Look at the numbers on the left. They go positive/negative pretty regularly. \n\nHere's zoomed into February to the latest date:\n\n[https://i.imgur.com/1cUJrKQ.png](https://i.imgur.com/1cUJrKQ.png)\n\nOkay, so here's my thought, sum up the gains and the losses, see what comes out.\n\nTotal value of FTDs that were reset (loss): (closing cost (at the time) \\* qty (66109899)): $1,704,359,023.94. \n\nTotal value of FTDs accumulated (gains): (closing cost (at the time) \\* qty (165019925))? $3,315,577,254.39.\n\nSo a net loss of ftds (they \"covered\" or whatever you call it) since the beginning of time: \\*66,109,899\\*\n\nNet FTD gains: \\*165,019,925\\*.\n\nSince FTD's in this SEC data is aggregate, and they say themselves you can't know how old they are based on this data, I say that doesn't really matter. They're all reset anyways. \n\nHowever, since it's pretty clear when the FTD's go up, they very quickly go back down, it seems reasonable enough to sum and subtract all those ups and downs. So what if we do just that? How many FTD's are left over after subtracting between the qty all the times it went up (165019925) and down (66109899)? \n\n98,910,026 FTD's. Might be a major flaw in that logic, but it makes sense to my smooth brain. \n\nAgain... 98,910,026 FTD's. At current share price that's $18,936,324,477 (billion)\n\nOn the SEC they say the source of the FTD data can suck and vary, so grab that salt and throw it over your shoulder and hit Seabass.\n\nNot financial advice. I barely comprehend this stuff, and my logic could be completely wrong.  I just like the stock.",
+    "title": "It's painfully obvious that when GME has a ton of FTDS, they're immediately reversing them with their hedgefuckery.",
+    "upvote_ratio": 0.99,
+    "url": "https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/"
+}

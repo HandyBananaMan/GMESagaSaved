@@ -1,0 +1,5 @@
+# Author: Stonkinator3000
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncb0xt/new_hf_strategy_is_becoming_so_clear_let_the/](https://www.reddit.com/r/Superstonk/comments/ncb0xt/new_hf_strategy_is_becoming_so_clear_let_the/)
+
+
+GME is the great prize, it’s the one that will topple empires, and that’s why it will be the very last to pop. They’ll throw all manner of distractions in front of us, if you’ve been paying attention you know they already have. And that means shareholders from other securities benefited for a while while shareholders of gme obviously didn’t. Silver, weed stocks, rocket mortgage, dogecoin and other cryptos, the worthless other stocks pumped on wsb, the list will keep going on and on until our enemies are finally vanquished. Courage GME holders! Strength GME holders!

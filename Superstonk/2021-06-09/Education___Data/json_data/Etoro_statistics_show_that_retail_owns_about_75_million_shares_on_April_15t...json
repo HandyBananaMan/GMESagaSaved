@@ -1,0 +1,18 @@
+{
+    "author": "Magistricide",
+    "created_utc": 1623276708.0,
+    "distinguished": null,
+    "edited": 1623283094.0,
+    "id": "nw7t2u",
+    "text_only": true,
+    "flair_id": "37ec242e-984f-11eb-94c6-0e8d0acce789",
+    "flair_text": "Education \ud83d\udc68\u200d\ud83c\udfeb | Data \ud83d\udd22",
+    "name": "t3_nw7t2u",
+    "num_comments": 123,
+    "permalink": "/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/",
+    "score": 2143,
+    "selftext": "First of all, I would like to apologize for my last post. It would seem I had made a mistake. I'm not exactly sure where the numbers were wrong, but they are in conflict with this calculation, which I believe is far more accurate.\n\nNow, let's get into things.\n\nEtoro has made the following claims. It has 1.5% of eligible GME voters, 63% of eligible voters voted, and the number of shares voted is 709,497.\n\n[Disappointed by this voter turnout.](https://preview.redd.it/ff24i1mgdb471.jpg?width=638&format=pjpg&auto=webp&s=25fdff7cb5b9680093e3dfdc8a4593af67d5792c)\n\n[This number is straight from GME themselves](https://preview.redd.it/ky02idrgdb471.jpg?width=515&format=pjpg&auto=webp&s=c9005ec0c27137e4270e949b64cce19f0a4f4b28)\n\n**Let's do some fast math.**\n\n709k is only 63% of the total shares on Etoro, so. . .\n\n709,497 \\* 100 / 63 = \\~1,126,186 shares on their platform.\n\nAssuming Etoro users have the same average as other GME holders, that means 1.5% of GME shareholders own about 1.1 million shares, so 100% of them would own. . .\n\n1,126,186 \\* 100 / 1.5 = 75,079,047 shares.\n\nPlaces of error: 1.5% is rather broad. This could mean 1.46%, or 1.54%.\n\n**Institutions count as 1 shareholder each but are not included in this calculation.**\n\nWhile GME shareholders are not the same as GME shares, there's no reason to assume that Etoro GME holders have significantly less or more shares on average than other people. However, as it is shareholders, we can safely omit institutions as there are far more retail shareholders than institutional ones.\n\nAs I do not believe there are tens of thousands of institutions that own a significant portion of GME, I have not included them in this calculation and I do not believe they will significantly affect the results.\n\n**What does this mean?**\n\nAccording to Etoro, as of April, retail owns \\~75 million shares out of the \\~41 million float. I know that myself, along with **many others, purchased more shares after April.**\n\n**However, according to this filing, the top 6 institutions + insider ownership accounts for \\~39.5 million shares, leaving only \\~31.5 million shares up for grabs.** [**https://news.gamestop.com/node/18846/html**](https://news.gamestop.com/node/18846/html)\n\nDing Dong the price is wrong. \n\nBuy. HODL. Buckle up.\n\nThis is not financial advice.\n\nEdit 1: Added more info about institutional ownership.",
+    "title": "Etoro statistics show that retail owns about 75 million shares on April 15th.",
+    "upvote_ratio": 0.96,
+    "url": "https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/"
+}

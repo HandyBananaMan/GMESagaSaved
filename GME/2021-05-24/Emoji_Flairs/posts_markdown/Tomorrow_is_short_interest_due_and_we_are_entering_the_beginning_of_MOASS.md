@@ -1,0 +1,7 @@
+# Author: U-Copy
+# Post URL: [https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/](https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/)
+
+
+I've been holding GME since end of Feburary. I survived through -60% dip  from Mar 11-March 25. It was one of those days you bought the dip and keep dipping.. It felt like battlefield every day. Raise hand and comment if you went through the same battle! 
+
+Okay, here we are now today and  tomorrow is short interst due report. They are supposed to report by 6 pm so big movement could also happen in the after market. You can check Finra Short interest date report. Based on past movement from January to April, on every end of month short interest due date, there was beginning of spike. Only except for March, the crazy hedgies short attacked and shot down right after the pretty decent earning report. They saw the earning report as an opportunity to scare apes off. But apes bought the dip and we hold the line and we are fighting against $180 line. And this $180 line finally will be broken tomorrow and entering the begining of MOASS. In about 2 weeks, 6/9 shareholder meeting will reveal the truth behind all the proxy votes and that will trigger another push. Please, hodl and be patient. We are almost there! 🙌🚀💎

@@ -1,0 +1,70 @@
+<h1>Author: 33a</h1>
+<h1>Post URL: <a href="https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/">https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/</a></h1>
+<p>The <a href="https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml">Fidelity customer orders</a> suggest retail is buying GME <em>hard</em>.  But it's an incomplete picture because:</p>
+<ol>
+<li>It only gives the data for the last trading day.  We need historical data to find trends.</li>
+<li>It only gives the number of orders.  We need order sizes to compute volume.</li>
+</ol>
+<p>My brother and I set out to find the missing data and compute how many shares of GME are in Fidelity's retail accounts.  Here's what we've figured out:</p>
+<h2>Mining historical data</h2>
+<p>Starting 3/18 we scraped Fidelity every day:</p>
+<p>https://imgur.com/a/Zi0Xoo4</p>
+<p>Which we then painstakingly transcribed into a table:</p>
+<p>| Date | Buy Orders | Sell Orders |
+|:-----|-----------:|------------:|
+| 03/18/2021 | 14449 | 5350 |
+| 03/19/2021 | 22209 | 9984 |
+| 03/22/2021 | 15082 | 11976 |
+| 03/23/2021 | 14518 | 4998 |
+| 03/24/2021 | 32371 | 11628 |
+| 03/25/2021 | 21425 | 12581 |
+| 03/28/2021 | 18302 | 13861 |
+| 03/29/2021 | 8441 | 4621 |
+| 03/30/2021 | 8315 | 6791 |
+| 03/31/2021 | 6079 | 3724 |
+| 04/01/2021 | 7216 | 3579 |
+| 04/05/2021 | 15251 | 4545 |
+| 04/06/2021 | 4727 | 2568 |
+| 04/07/2021 | 7247 | 2396 |
+| 04/08/2021 | 12715 | 3144 |
+| 04/09/2021 | 15034 | 3639 |
+| 04/12/2021 | 15704 | 3593 |
+| 04/13/2021 | 10039 | 2664 |
+| 04/14/2021 | 12202 | 5466 |
+| 04/15/2021 | 8127 | 2192 |
+| 04/16/2021 | 7246 | 1992 |</p>
+<p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjpGn7c6iozFnAs_nQFQUYNxTbS-Etkha5GUCVa5Br0y2Kv-sZ_tBKtc_tPhDYbPbps92jC3tSXLqH/pubchart?oid=124323433&amp;format=interactive">Since 3/18, every day there are more buy orders than sells</a>.</p>
+<p>https://imgur.com/a/FfspgvW</p>
+<p>You can check our work using the <a href="https://web.archive.org/web/*/https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml">wayback machine</a> or <a href="https://archive.is/eresearch.fidelity.com">archive.is</a>.</p>
+<h2>Estimated order sizes</h2>
+<p>Neither of us have direct access to level 2 historical order flow data, so we improvised by scraping <a href="https://www.youtube.com/channel/UCdwwRjEyseTOUYxUWZn2Uqw">"Stocks Big Plays"</a>'s YouTube channel.
+We were able to find archived streams for all of the days in our data set except March 23 and March 28.
+We then transcribed the top bid and ask orders at 9:30, 10:30, 12:00, 13:30 and 15:55, giving 5 data points per day. 
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjpGn7c6iozFnAs_nQFQUYNxTbS-Etkha5GUCVa5Br0y2Kv-sZ_tBKtc_tPhDYbPbps92jC3tSXLqH/pubchart?oid=442492841&amp;format=interactive">The distribution of order sizes looks roughly Pareto (not surprising)</a>:</p>
+<p>https://imgur.com/a/pSZt6YW</p>
+<p>This gives us something to work with, but there are some issues:</p>
+<ol>
+<li><em>Noise</em>:  We can try to compensate for this with more samples and also biasing our estimates to be more conservative.</li>
+<li><em>Algo trades</em>: We observed weirdly regular blocks of bid/asks would sometimes flood the books on both sides (eg. 33, 33, 33...).  Fortunately these seem to be wash sales and so their net effect on purchased shares should be close to 0.</li>
+<li><em>Whales</em>: Some buy orders are waaaay too larget and not likely retail.  These are usually in blocks of of 500 or more shares.  We exclude outliers by discarding order sizes greater than 1 std deviation above the mean.</li>
+</ol>
+<p>With these adjustments we get the following stats</p>
+<p>|    | Average | Std. Dev. | Average (Excl. Outliers) |
+|:--:|--------:|----------:|-------------------------:|
+| <strong>Bid</strong> | 112.46 | 270.71 | 51 |
+| <strong>Ask</strong> | 109.54 | 232.66 | 65.66 |</p>
+<h2>Putting it together</h2>
+<p>We propose the following simple formula to estimate the shares purchased each day:</p>
+<p><code>Net shares = (Avg. buy) * (# Buy orders) - (Avg. sell) * (# Sell orders)</code></p>
+<p>Based on the above analysis, we can plausibly assume the average buy is 51 shares and the average sell is 66.
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjpGn7c6iozFnAs_nQFQUYNxTbS-Etkha5GUCVa5Br0y2Kv-sZ_tBKtc_tPhDYbPbps92jC3tSXLqH/pubchart?oid=1738592533&amp;format=interactive">Plugging in the numbers from Fidelity, we get the following cumulative share purchases:</a></p>
+<p>https://imgur.com/a/eX8ZleU</p>
+<p>Or in other words, <strong>FIDELITY CUSTOMERS PURCHASED 6.1 MILLION SHARES OF GME SINCE 3/18</strong></p>
+<p>If we include whales as retail, the number goes up to 17 million.
+Since Fidelity represents at most 15% of all retail buyers, <em>I extrapolate that more than 40 million shares were purchased last month alone</em>.</p>
+<hr />
+<p><strong>EDIT</strong> To account for these numbers maybe being too high, I used only 1 std for removing outliers instead of 2 std.  If we use a range of 2 stddev, we get an average buy price of 56 and sell price of 77 and a higher total purchased share count of 6.3 million.  </p>
+<p>Also for those who still think these numbers are unrealistic, FT has reported that retail trading continues to grow and is now the 2nd largest volume of all trading, after HFT/algo trades.  We are bigger than the ETFs, mutual funds and hedge funds:</p>
+<p>https://archive.is/drLS7</p>
+<p><strong>EDIT 2</strong>  To be clear these numbers are for customer <em>orders</em> not transfers.  This is 6.1 million new shares net purchased during the last month, not including any transfers.</p>
+<p><strong>EDIT 3</strong> The median buy order size in this data is 34 and sell order is 56.  If you use these for order sizes, you would get 2.6 million purchased.</p>

@@ -1,0 +1,29 @@
+# Author: thomas798354
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/](https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/)
+
+
+Hey apes, back with another spicy DD if you don't know me I like dates and I have been pretty spot on at reading events.  
+
+May 17th GME had a price spike that allowed a member to get a margin call.  How I know this?  The next day the GME price went up again indicating a sign of an attempt to cover followed by a red red market in the SPY.  The way Margin calls work is from the time of the call you have T+5 to attempt to close the position or post more collateral.  It appears that they attempted to cover by selling off massive amounts of assets but could not meet the call.
+
+&amp;#x200B;
+
+I'm sure if you are on this sub you know about FTDs and u/criand posted a DD on the FTD cycle of this week over lapping on consecutive days but my count was slightly different and shows them overlapping on May 25th.  In the event the member Margin Called May 17th did not meet the requirement the clearing house would have bought in on the Tuesday the 25th.  You see this is a true Wombo Combo.
+
+&amp;#x200B;
+
+The price action on May 25th leads me to believe another member has been called.  This would place their day to cover on June 3rd because of the holiday.  This week currently has 27k calls sliding ITM at the prices below 250$ this is 3M shares of GME to put this in perspective.  Now smart money knows GME is going up and exercises the calls to make more profit at a later date.  If half of these options choose to exercise  that's 1.5M shares of GME or about 1/20th the float.  Imagine the gamma squeeze that would happen if brokers had to locate 1.5M shares before the latest date of delivery T+3.  This places immense buy pressure on June 1-3 eating up any daily short volume assuming we stay on the trend of 300-600k shorts per day.  Making the volume dry up, not many apes are willing to buy at 250$.  This means that when the clearing house comes to buy on Thursday the 3rd there will not be any ammo left to stabilize the price.  Another Wombo Combo.   
+
+&amp;#x200B;
+
+But wait there's more, if a new member is margin called on the 3rd guess what happens again? The clearing house will buy shares on the 11th of June which once again will cause a ton of options to come ITM.  Do you see the loop here?  If clearing houses of defaulting members don't cause other members to default the 4 FTD loops from options dates back in 2020 will. (Jan 22, Feb 19, 5 March, 16 April)  I believe u/Deepfuckingvalue figured this out before going dark and tried to tell us.  
+
+&amp;#x200B;
+
+I believe the theory does get juicier though, if RC wanted to maintain a high, healthy, unshortable share price after an infinity squeeze he could just issue a crypto dividend at any time and immediately stop any short downward pressure from trying to profit off of his company after the peak of the squeeze.  I believe this is RC's trick he stole from overstock and he already has the blockchain ready to deploy at a moments notice.  He is waiting for the hedge funds to dig themselves in a hole so deep with more and more shorts until they cannot possibly go any higher in SI% or funds to make the squeeze higher (more synthetic shares=more SI=higher squeeze)  the best way to do this is to let the hedge funds run out of money.  From where I'm sitting this will be wrapped up by Mid-End July unless the biggest player on the bad guy team either recruits new members to his team (smaller hedge funds to go short) or finds more funds.  All we literally have to do is hold these prices are nothing.  Even if you see 1M you should wait 5 days for a clearing house to buy making the price even higher, remember that! And then even after that the clearing house goes broke and the DTCC steps in with a 50T dollar wallet! Don’t fall for millionaire status, be a billionaire taxes hurt!
+
+Edit 1: calls are usually hedged and by definition what I’m referring to is more ITM calls drying up short volume. This is technically speaking a short squeeze not a gamma squeeze but the options chain is definitely helping our situation.
+
+Edit 2: current date is 5/27 and even more calls are sliding into the money as I sit here and type this knowing that everything I said will come true. The new estimated calls are around 6k if we can get to 300$ it becomes 9k so scratch that small 3M number try 9M or 6M then cut it in half for those who exercise. That’s 3M shares or 4.5M shares thought I’d leave a math update. That’s 2x more shares than originally estimated. Fuck the haters.
+
+Edit 3: current date is 5/28 and even more fuckery is going on they dropped the price from 260$ to 220$....WE ARE STILL UP 40$ this week newsflash the options chain is already green. I don’t know who had the 9.1M calls on 250$ strike but it doesn’t matter and I’ll tel you why: if citadel had them they are OTM so good fuck them they have less money now. If Blackrock had them they were trying to end the fight real soon and citadel pulled a 40$ dip out of their ass from exercising 300$ put options for extra short shares. They paid 40$ extra per share just to not move the price up on us. Do you guys realize how close we are citadel is squirming. How do you think Melvin and point 72 are feeling rn? Good now keep that in mind because collateral required goes up Tuesday, their risk portfolios just got reevaluated EOD today and go into effect Tuesday could be Tuesday they go to get a loan and get denied service, could be the bank takes that 30 to 1 leverage and makes it smaller. We are very very close. Trust the process and stick to one game stock. There is one play micheal burry tweeted one play not 6 1 play. The perfect play.

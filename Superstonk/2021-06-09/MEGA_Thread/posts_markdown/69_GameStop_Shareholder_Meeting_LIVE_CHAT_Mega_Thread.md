@@ -1,0 +1,16 @@
+# Author: AutoModerator
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvs3cv/69_gamestop_shareholder_meeting_live_chat_mega/](https://www.reddit.com/r/Superstonk/comments/nvs3cv/69_gamestop_shareholder_meeting_live_chat_mega/)
+
+
+**This live chat is to discuss the Shareholder meeting today. Please see all official GameStop information here:** [**https://investor.gamestop.com/news-releases/news-release-details/gamestop-announces-first-quarter-fiscal-2021-earnings-release**](https://investor.gamestop.com/news-releases/news-release-details/gamestop-announces-first-quarter-fiscal-2021-earnings-release)
+
+* GameStop Announces First Quarter Fiscal 2021 Earnings Release Date and Confirms Annual Shareholder Meeting Date
+   * GRAPEVINE, Texas, June 02, 2021 (GLOBE NEWSWIRE) -- **GameStop Corp. (NYSE: GME)**, today announced that it will report first quarter fiscal 2021 earnings results after the market closes on Wednesday, June 9, 2021. The Company will host an investor conference call at 5:00 pm ET on the same day to review the company’s financial results. This call and any supplemental information can be accessed at GameStop Corp.’s investor relations home page at [http://investor.GameStop.com/](https://www.globenewswire.com/Tracker?data=e2exx5RBaQ-UBOdhtRDh5us9Hc6wZZGTbIOVD30Myim17kYxdprmwVHHsE7rNdBCP8mXV3hqNNrXh_yVWEHtN3T8Uz2DpdijdxNi_UF9HvE=). The phone number for the investor conference call is 877-451-6152 and the confirmation code is 13720011. The conference call will be archived for two months on GameStop’s corporate website.
+* **Annual Shareholders Meeting**
+   * The Company also confirmed that its Annual Shareholders Meeting is scheduled for Wednesday, June 9, 2021 at 625 Westport Parkway, Grapevine, Texas. The meeting, which is not open to the media and requires shareholders to provide proof of ownership through legal proxy and valid identification, is expected to take place at 10:00am CT/ 11:00am ET and conclude at 10:15am CT/11:15am ET. COVID-19 safety protocols will be followed.  Chief Executive Officer and director George Sherman will attend the meeting in-person with the remainder of the Board of Directors attending virtually.
+* **About GameStop**
+   * GameStop, a Fortune 500 company headquartered in Grapevine, Texas, is a leading specialty retailer offering games and entertainment products through its E-Commerce properties and thousands of stores. Visit www.GameStop.com to explore our products and offerings. Follow @GameStop and @GameStopCorp on Twitter and find us on Facebook at [www.facebook.com/GameStop](https://www.globenewswire.com/Tracker?data=4bO3kkKz09W3iNToGtCpxVkNQNYjwIugZeeJS-JC3wGj1C8rBv8TiBofupr7vyDRW8gk4O3pwL-SVK4bEtSEtRAB1QjUscTO2k6HMOTzvDk=).
+
+\---
+
+**Additionally, make sure you check out the** r/Superstonk **Live programming:** [**https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk\_live\_69\_programming\_gamestop/**](https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/)

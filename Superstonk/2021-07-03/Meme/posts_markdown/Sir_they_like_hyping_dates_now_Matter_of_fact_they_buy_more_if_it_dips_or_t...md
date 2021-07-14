@@ -1,0 +1,5 @@
+# Author: gotgus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocxx8u/sir_they_like_hyping_dates_now_matter_of_fact/](https://www.reddit.com/r/Superstonk/comments/ocxx8u/sir_they_like_hyping_dates_now_matter_of_fact/)
+
+
+https://i.redd.it/1s5o7olb00971.jpg

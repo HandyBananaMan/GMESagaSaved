@@ -1,0 +1,5 @@
+# Author: AwkwardTraveler
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8ew04/its_actually_in_the_dtccnsccficcs_best_interest/](https://www.reddit.com/r/Superstonk/comments/o8ew04/its_actually_in_the_dtccnsccficcs_best_interest/)
+
+
+Every single day, we can only estimate that thousands, if not tens of thousands of shares are bought by retail(maybe more). Each of those shares are worth hundreds of thousands and even millions of dollars -- every day that they drag this on adds trillions of dollars that they are going to need to buy back due to the blatant corruption by Mayo Boy and his friends. Ending this as soon as possible is trillions+ of SAVINGS by the groups inevitably left holding the bag for their lack of oversight and due diligence. We're all diamond handed share holders who just like the stock so we can be patient.....but force it soon or you're going to WISH a quadrillion dollars of losses was all you were going to lose.
