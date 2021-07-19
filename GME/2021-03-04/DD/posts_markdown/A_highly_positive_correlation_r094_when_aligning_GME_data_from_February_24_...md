@@ -1,6 +1,6 @@
-#Title: A highly positive correlation (r=0.94) when aligning GME data from February 24 data to January 13 suggests we could see huge rallies in the next 5 days! 🚀🚀🚀🚀
-#Author: Cuttingwater_
-#Post URL: [https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/](https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/)
+# Title: A highly positive correlation (r=0.94) when aligning GME data from February 24 data to January 13 suggests we could see huge rallies in the next 5 days! 🚀🚀🚀🚀
+# Author: Cuttingwater_
+# Post URL: [https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/](https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/)
 
 
 Hello again my fellow apes 🦍🦍🦍!

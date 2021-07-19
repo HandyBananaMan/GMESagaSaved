@@ -1,6 +1,6 @@
-#Title: NSCC-2021-004 just implemented 3.29.2021, effective immediately.
-#Author: Shooting4daMoon
-#Post URL: [https://www.reddit.com/r/GME/comments/mfyu4r/nscc2021004_just_implemented_3292021_effective/](https://www.reddit.com/r/GME/comments/mfyu4r/nscc2021004_just_implemented_3292021_effective/)
+# Title: NSCC-2021-004 just implemented 3.29.2021, effective immediately.
+# Author: Shooting4daMoon
+# Post URL: [https://www.reddit.com/r/GME/comments/mfyu4r/nscc2021004_just_implemented_3292021_effective/](https://www.reddit.com/r/GME/comments/mfyu4r/nscc2021004_just_implemented_3292021_effective/)
 
 
 National Securities Clearing Corporation just posted that 2021-004,  ***Amend the Recovery & Wind-down Plan,*** is now filed and **effective immediately**.

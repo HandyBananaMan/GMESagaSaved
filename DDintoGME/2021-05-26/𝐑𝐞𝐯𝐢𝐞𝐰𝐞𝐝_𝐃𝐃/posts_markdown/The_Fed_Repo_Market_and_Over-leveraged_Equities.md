@@ -1,6 +1,6 @@
-#Title: The Fed, Repo Market, and Over-leveraged Equities
-#Author: leisure_rules
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/](https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/)
+# Title: The Fed, Repo Market, and Over-leveraged Equities
+# Author: leisure_rules
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/](https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/)
 
 
 With massive QE over the past year and recent spikes in Overnight Reverse Repurchase Agreements, how does it play into the GME short squeeze?

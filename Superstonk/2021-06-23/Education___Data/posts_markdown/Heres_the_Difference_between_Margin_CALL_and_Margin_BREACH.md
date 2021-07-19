@@ -1,6 +1,6 @@
-#Title: Here’s the Difference between Margin CALL and Margin BREACH
-#Author: I_MARGINED_MY_PENIS
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6mgb0/heres_the_difference_between_margin_call_and/](https://www.reddit.com/r/Superstonk/comments/o6mgb0/heres_the_difference_between_margin_call_and/)
+# Title: Here’s the Difference between Margin CALL and Margin BREACH
+# Author: I_MARGINED_MY_PENIS
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6mgb0/heres_the_difference_between_margin_call_and/](https://www.reddit.com/r/Superstonk/comments/o6mgb0/heres_the_difference_between_margin_call_and/)
 
 
 I’m sure we’ve seen recent news that the NSCC got hit with a 1.06B margin breach in Q1 of 2021, but what does that actually mean? And what’s the difference between a margin breach and a call?

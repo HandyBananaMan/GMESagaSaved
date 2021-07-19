@@ -1,6 +1,6 @@
-#Title: Option Chains Going Crazy
-#Author: semerien
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mq13t7/option_chains_going_crazy/](https://www.reddit.com/r/Superstonk/comments/mq13t7/option_chains_going_crazy/)
+# Title: Option Chains Going Crazy
+# Author: semerien
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mq13t7/option_chains_going_crazy/](https://www.reddit.com/r/Superstonk/comments/mq13t7/option_chains_going_crazy/)
 
 
   

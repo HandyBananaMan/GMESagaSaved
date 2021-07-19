@@ -1,6 +1,6 @@
-#Title: How big banks have been allowed to manipulate the market forever by law enforcement failures Part 1 (Goldman Sachs and the DTCC)
-#Author: NotsoPG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0qnz6/how_big_banks_have_been_allowed_to_manipulate_the/](https://www.reddit.com/r/Superstonk/comments/n0qnz6/how_big_banks_have_been_allowed_to_manipulate_the/)
+# Title: How big banks have been allowed to manipulate the market forever by law enforcement failures Part 1 (Goldman Sachs and the DTCC)
+# Author: NotsoPG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0qnz6/how_big_banks_have_been_allowed_to_manipulate_the/](https://www.reddit.com/r/Superstonk/comments/n0qnz6/how_big_banks_have_been_allowed_to_manipulate_the/)
 
 
 Hello everyone reading this. If you've been reading my past DD, (all linked below in chronological order) then you'd know I've been diving deep into Steve Cohen. Today is a new day, and I am looking into something else this time. The Steven Cohen connections is done for now. I am going to be talking about the naked Short selling committed by the big banks, specifically Goldman Sachs.

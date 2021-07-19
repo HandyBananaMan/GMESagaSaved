@@ -1,6 +1,6 @@
-#Title: NSCC 005, DTC 005 will be published on the Federal register tomorrow.
-#Author: Inevitable-Elk-4162
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8gs9/nscc_005_dtc_005_will_be_published_on_the_federal/](https://www.reddit.com/r/Superstonk/comments/oa8gs9/nscc_005_dtc_005_will_be_published_on_the_federal/)
+# Title: NSCC 005, DTC 005 will be published on the Federal register tomorrow.
+# Author: Inevitable-Elk-4162
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8gs9/nscc_005_dtc_005_will_be_published_on_the_federal/](https://www.reddit.com/r/Superstonk/comments/oa8gs9/nscc_005_dtc_005_will_be_published_on_the_federal/)
 
 
 Please read u/Carb0n12 comment about NSCC 005 below. The extension for NSCC 005 will be filed tomorrow. Its not fully in effect until August 12th with no objection. This is the required fund deposit for membership fees. Not necessarily needed pre MOASS. 

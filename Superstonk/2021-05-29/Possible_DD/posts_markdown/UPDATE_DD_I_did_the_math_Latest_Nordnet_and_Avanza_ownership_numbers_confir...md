@@ -1,6 +1,6 @@
-#Title: [UPDATE] DD: I did the math. Latest Nordnet and Avanza ownership numbers confirming what we already knew: WE OWN THE FLOAT!
-#Author: InForTheSqueeze
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)
+# Title: [UPDATE] DD: I did the math. Latest Nordnet and Avanza ownership numbers confirming what we already knew: WE OWN THE FLOAT!
+# Author: InForTheSqueeze
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)
 
 
 **Update 1st June 2021:**

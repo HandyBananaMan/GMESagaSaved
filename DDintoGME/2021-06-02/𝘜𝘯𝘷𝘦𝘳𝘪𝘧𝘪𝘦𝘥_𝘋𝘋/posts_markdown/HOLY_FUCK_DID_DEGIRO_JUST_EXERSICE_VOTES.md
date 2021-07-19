@@ -1,6 +1,6 @@
-#Title: HOLY FUCK DID DEGIRO JUST EXERSICE VOTES?
-#Author: YharnamHF
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqxisk/holy_fuck_did_degiro_just_exersice_votes/](https://www.reddit.com/r/DDintoGME/comments/nqxisk/holy_fuck_did_degiro_just_exersice_votes/)
+# Title: HOLY FUCK DID DEGIRO JUST EXERSICE VOTES?
+# Author: YharnamHF
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqxisk/holy_fuck_did_degiro_just_exersice_votes/](https://www.reddit.com/r/DDintoGME/comments/nqxisk/holy_fuck_did_degiro_just_exersice_votes/)
 
 
 Degiro broker just withdrew the 10€ from my account, what was agreed upon for voting. 

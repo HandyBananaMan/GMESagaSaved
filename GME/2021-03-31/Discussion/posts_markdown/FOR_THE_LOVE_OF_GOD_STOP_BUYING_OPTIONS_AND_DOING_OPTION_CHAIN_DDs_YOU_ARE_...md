@@ -1,6 +1,6 @@
-#Title: FOR THE LOVE OF GOD STOP BUYING OPTIONS AND DOING OPTION CHAIN DDs! YOU ARE HELPING THEIR MARGIN.
-#Author: FullonRetardo
-#Post URL: [https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/](https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/)
+# Title: FOR THE LOVE OF GOD STOP BUYING OPTIONS AND DOING OPTION CHAIN DDs! YOU ARE HELPING THEIR MARGIN.
+# Author: FullonRetardo
+# Post URL: [https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/](https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/)
 
 
 This is going to be quite a long arse post. Most of what I am going to say is going to sound slightly negative. I myself am all in on GME. At the current price point I have almost doubled my money. Am I selling? No. Do I believe in the squeeze as much as ever? Yes. But in every war you learn to hear both sides. It is only healthy to fully understand what's going on so you can better plan your moves.

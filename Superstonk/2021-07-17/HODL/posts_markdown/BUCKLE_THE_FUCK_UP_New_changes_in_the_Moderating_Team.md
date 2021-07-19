@@ -1,6 +1,6 @@
-#Title: BUCKLE THE FUCK UP. New changes in the Moderating Team.
-#Author: ButtFarm69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omdh53/buckle_the_fuck_up_new_changes_in_the_moderating/](https://www.reddit.com/r/Superstonk/comments/omdh53/buckle_the_fuck_up_new_changes_in_the_moderating/)
+# Title: BUCKLE THE FUCK UP. New changes in the Moderating Team.
+# Author: ButtFarm69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omdh53/buckle_the_fuck_up_new_changes_in_the_moderating/](https://www.reddit.com/r/Superstonk/comments/omdh53/buckle_the_fuck_up_new_changes_in_the_moderating/)
 
 
 [Read this first. Statement from Bye Triangle](https://www.reddit.com/r/Superstonk/comments/omdfg4/everythings_fucked_up_and_there_are_no_good/)

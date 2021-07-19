@@ -1,6 +1,6 @@
-#Title: Citadel paid over $128 Million USD for PFOF in Q4 of 2020 - Retail traders are the product, not the customer. [OC]
-#Author: HawkFrequent9676
-#Post URL: [https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/](https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/)
+# Title: Citadel paid over $128 Million USD for PFOF in Q4 of 2020 - Retail traders are the product, not the customer. [OC]
+# Author: HawkFrequent9676
+# Post URL: [https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/](https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/)
 
 
 # Overview

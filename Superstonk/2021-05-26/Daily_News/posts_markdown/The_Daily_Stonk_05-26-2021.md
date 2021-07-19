@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 05-26-2021
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/](https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/)
+# Title: The Daily Stonk 05-26-2021
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/](https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/)
 
 
 &#x200B;

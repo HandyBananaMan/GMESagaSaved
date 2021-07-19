@@ -1,6 +1,6 @@
-#Title: A PSA to all the Apes
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okg56r/a_psa_to_all_the_apes/](https://www.reddit.com/r/Superstonk/comments/okg56r/a_psa_to_all_the_apes/)
+# Title: A PSA to all the Apes
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okg56r/a_psa_to_all_the_apes/](https://www.reddit.com/r/Superstonk/comments/okg56r/a_psa_to_all_the_apes/)
 
 
 $80 Million Dollars to short the stock this week. 

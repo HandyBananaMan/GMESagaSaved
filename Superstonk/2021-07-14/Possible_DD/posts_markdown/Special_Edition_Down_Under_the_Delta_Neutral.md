@@ -1,6 +1,6 @@
-#Title: Special Edition: Down Under the Delta Neutral
-#Author: yelyah2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok4chd/special_edition_down_under_the_delta_neutral/](https://www.reddit.com/r/Superstonk/comments/ok4chd/special_edition_down_under_the_delta_neutral/)
+# Title: Special Edition: Down Under the Delta Neutral
+# Author: yelyah2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok4chd/special_edition_down_under_the_delta_neutral/](https://www.reddit.com/r/Superstonk/comments/ok4chd/special_edition_down_under_the_delta_neutral/)
 
 
  

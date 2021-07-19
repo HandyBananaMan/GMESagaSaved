@@ -1,6 +1,6 @@
-#Title: PSA: For this sub to be taken seriously, we need to IMMEDIATELY focus on $GME with quality DD and market research. This can’t be seen as a soap box for negativity against other subs or users.
-#Author: GanakaMoggallana
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om5046/psa_for_this_sub_to_be_taken_seriously_we_need_to/](https://www.reddit.com/r/GMEJungle/comments/om5046/psa_for_this_sub_to_be_taken_seriously_we_need_to/)
+# Title: PSA: For this sub to be taken seriously, we need to IMMEDIATELY focus on $GME with quality DD and market research. This can’t be seen as a soap box for negativity against other subs or users.
+# Author: GanakaMoggallana
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om5046/psa_for_this_sub_to_be_taken_seriously_we_need_to/](https://www.reddit.com/r/GMEJungle/comments/om5046/psa_for_this_sub_to_be_taken_seriously_we_need_to/)
 
 
 ITT: Let’s brainstorm some ways to laser focus this sub on *attracting* industry professionals, since our previous home has become an embarrassment and will surely now repel them. This sub is blowing up in size very quickly, and I’m noticing a lot of content that is not relevant to the stock - this should be a refuge for those who want to *avoid* the drama. The users here probably all share a similar opinion of who is right/wrong and what the implications are, so no need to turn this into an echo chamber or negative circle jerk. We just like the stock!!!

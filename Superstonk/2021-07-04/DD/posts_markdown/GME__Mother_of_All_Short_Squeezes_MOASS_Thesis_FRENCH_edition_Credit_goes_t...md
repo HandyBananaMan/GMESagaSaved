@@ -1,6 +1,6 @@
-#Title: $GME – “Mother of All Short Squeezes” (MOASS) Thesis, FRENCH edition. Credit goes to a rogue lurker ape that I was to only refer to publicly as "The Baguette Guy". So, for our French Audience, you have The Baguette Guy to thank for this translation. Prendre Plaisir (Enjoy) 😎
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/)
+# Title: $GME – “Mother of All Short Squeezes” (MOASS) Thesis, FRENCH edition. Credit goes to a rogue lurker ape that I was to only refer to publicly as "The Baguette Guy". So, for our French Audience, you have The Baguette Guy to thank for this translation. Prendre Plaisir (Enjoy) 😎
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/)
 
 
 [Marianne Jacked to the Tits](https://images.app.goo.gl/Kc53NoW8amUEY7QJ6)

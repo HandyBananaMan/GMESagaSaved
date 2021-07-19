@@ -1,6 +1,6 @@
-#Title: Apes, Please help me compile a list of what Citadel and Point72 Own.
-#Author: MyBeltHurts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8ynt7/apes_please_help_me_compile_a_list_of_what/](https://www.reddit.com/r/Superstonk/comments/o8ynt7/apes_please_help_me_compile_a_list_of_what/)
+# Title: Apes, Please help me compile a list of what Citadel and Point72 Own.
+# Author: MyBeltHurts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8ynt7/apes_please_help_me_compile_a_list_of_what/](https://www.reddit.com/r/Superstonk/comments/o8ynt7/apes_please_help_me_compile_a_list_of_what/)
 
 
 Hey Apes,

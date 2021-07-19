@@ -1,6 +1,6 @@
-#Title: The Most Manipulated Stock - A GME comprehensive DD about OTC data, wash sales, married puts, FTDs & dark pools
-#Author: plants69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/](https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/)
+# Title: The Most Manipulated Stock - A GME comprehensive DD about OTC data, wash sales, married puts, FTDs & dark pools
+# Author: plants69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/](https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/)
 
 
 It's not at all new information that GME is being f\*cked with in about every single way imaginable. This is a comprehensive DD that combs through key data and looks at Citadel's prior infractions in order to make connections with how Shitadel and friends have been influencing $GME price action.

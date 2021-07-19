@@ -1,6 +1,6 @@
-#Title: A Castle of Glass - Game on, Anon
-#Author: 3for100Specials
-#Post URL: [https://www.reddit.com/r/GME/comments/oj3wtr/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/GME/comments/oj3wtr/a_castle_of_glass_game_on_anon/)
+# Title: A Castle of Glass - Game on, Anon
+# Author: 3for100Specials
+# Post URL: [https://www.reddit.com/r/GME/comments/oj3wtr/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/GME/comments/oj3wtr/a_castle_of_glass_game_on_anon/)
 
 
 **\*\*\*Imperative top of post, EDIT 1\*\*\***

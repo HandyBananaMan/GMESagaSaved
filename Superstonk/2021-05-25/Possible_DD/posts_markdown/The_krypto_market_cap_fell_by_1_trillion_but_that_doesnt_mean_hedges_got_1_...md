@@ -1,6 +1,6 @@
-#Title: The krypto market cap fell by 1 trillion, but that doesn't mean hedges got 1 trillion in USD, nowhere near actually...
-#Author: taranasus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/](https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/)
+# Title: The krypto market cap fell by 1 trillion, but that doesn't mean hedges got 1 trillion in USD, nowhere near actually...
+# Author: taranasus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/](https://www.reddit.com/r/Superstonk/comments/nkm59x/the_krypto_market_cap_fell_by_1_trillion_but_that/)
 
 
 Hi,

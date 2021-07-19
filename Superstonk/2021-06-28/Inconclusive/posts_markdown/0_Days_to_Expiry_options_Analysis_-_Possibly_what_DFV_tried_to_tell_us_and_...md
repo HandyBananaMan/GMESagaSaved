@@ -1,6 +1,6 @@
-#Title: 0 Days to Expiry options Analysis - Possibly what DFV tried to tell us and we missed it - The actual T+21 - T+35 GME Main Cycle
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/](https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/)
+# Title: 0 Days to Expiry options Analysis - Possibly what DFV tried to tell us and we missed it - The actual T+21 - T+35 GME Main Cycle
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/](https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/)
 
 
 Hi all,

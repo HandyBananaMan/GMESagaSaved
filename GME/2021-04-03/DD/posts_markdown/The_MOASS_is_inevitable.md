@@ -1,6 +1,6 @@
-#Title: The MOASS is inevitable!
-#Author: BinBender
-#Post URL: [https://www.reddit.com/r/GME/comments/mjo3jj/the_moass_is_inevitable/](https://www.reddit.com/r/GME/comments/mjo3jj/the_moass_is_inevitable/)
+# Title: The MOASS is inevitable!
+# Author: BinBender
+# Post URL: [https://www.reddit.com/r/GME/comments/mjo3jj/the_moass_is_inevitable/](https://www.reddit.com/r/GME/comments/mjo3jj/the_moass_is_inevitable/)
 
 
 

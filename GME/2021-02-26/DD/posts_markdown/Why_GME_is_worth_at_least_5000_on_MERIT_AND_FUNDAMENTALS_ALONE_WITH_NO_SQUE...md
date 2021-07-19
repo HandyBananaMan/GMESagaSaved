@@ -1,6 +1,6 @@
-#Title: Why GME is worth at least $5,000 on MERIT AND FUNDAMENTALS ALONE! WITH NO SQUEEZE!!! MUST READ, especially if you don't know who Ryan Cohen is!!!
-#Author: wowmuchdoge_verymeme
-#Post URL: [https://www.reddit.com/r/GME/comments/lthmqx/why_gme_is_worth_at_least_5000_on_merit_and/](https://www.reddit.com/r/GME/comments/lthmqx/why_gme_is_worth_at_least_5000_on_merit_and/)
+# Title: Why GME is worth at least $5,000 on MERIT AND FUNDAMENTALS ALONE! WITH NO SQUEEZE!!! MUST READ, especially if you don't know who Ryan Cohen is!!!
+# Author: wowmuchdoge_verymeme
+# Post URL: [https://www.reddit.com/r/GME/comments/lthmqx/why_gme_is_worth_at_least_5000_on_merit_and/](https://www.reddit.com/r/GME/comments/lthmqx/why_gme_is_worth_at_least_5000_on_merit_and/)
 
 
 For those of you who are holding for the sole purpose of the short squeeze, read on. Those who did proper DD might already know this.

@@ -1,6 +1,6 @@
-#Title: Mother Of All Sheep Studies Update: Lambs to the slaughter!
-#Author: Ladakhi_khaki
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/](https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/)
+# Title: Mother Of All Sheep Studies Update: Lambs to the slaughter!
+# Author: Ladakhi_khaki
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/](https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/)
 
 
 **Good Morning (Bore da) from Wales!**

@@ -1,6 +1,6 @@
-#Title: 🚨📺 STONKY NEWS ~SPECIAL REPORT 📺🚨 Dr. Susanne Trimbath AMA Transcription and summary, with supporting materials (and memes)
-#Author: Bye_Triangle
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/)
+# Title: 🚨📺 STONKY NEWS ~SPECIAL REPORT 📺🚨 Dr. Susanne Trimbath AMA Transcription and summary, with supporting materials (and memes)
+# Author: Bye_Triangle
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/)
 
 
 This may be our most ambitious crossover event... 

@@ -1,6 +1,6 @@
-#Title: Seen some people complaining about the lack of concrete plans and directive from the board. Here’s an excerpt from Cohen’s speech at the shareholder’s meeting, for those who missed it.
-#Author: wobshop
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okohfa/seen_some_people_complaining_about_the_lack_of/](https://www.reddit.com/r/Superstonk/comments/okohfa/seen_some_people_complaining_about_the_lack_of/)
+# Title: Seen some people complaining about the lack of concrete plans and directive from the board. Here’s an excerpt from Cohen’s speech at the shareholder’s meeting, for those who missed it.
+# Author: wobshop
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okohfa/seen_some_people_complaining_about_the_lack_of/](https://www.reddit.com/r/Superstonk/comments/okohfa/seen_some_people_complaining_about_the_lack_of/)
 
 
 > We know some people want us to lay out a whole detailed plan today, but that’s not gonna happen. You won’t find us talking a big game, making a bunch of lofty promises, or telegraphing our strategy to the competition; that’s the philosophy we adopted at Chewy.

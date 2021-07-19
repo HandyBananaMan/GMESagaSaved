@@ -1,6 +1,6 @@
-#Title: The Mythical Long Whale?
-#Author: CM_MOJO
-#Post URL: [https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/](https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/)
+# Title: The Mythical Long Whale?
+# Author: CM_MOJO
+# Post URL: [https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/](https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/)
 
 
 I keep hearing rumblings and grumblings from some on this subreddit and the WallStreeBets (WSB) subreddit that there are no long whales (LWs) out there ‘helping’ the retail investors (RIs). That it’s some mythical beast we tell ourselves about at night to keep our spirits up. I’d say to those who doubt they exist… What if I told you that Moby Dick really existed? And I don’t mean existed within the realm of the novel, a work of fiction. I mean [existed](https://en.wikipedia.org/wiki/Mocha_Dick) in real life sometime in the past.

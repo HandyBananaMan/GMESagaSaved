@@ -1,6 +1,6 @@
-#Title: The March To Zero Liquidity: Volume or Bust (Reprised)
-#Author: Suspicious-Singer243
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj5qfd/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/oj5qfd/the_march_to_zero_liquidity_volume_or_bust/)
+# Title: The March To Zero Liquidity: Volume or Bust (Reprised)
+# Author: Suspicious-Singer243
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj5qfd/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/oj5qfd/the_march_to_zero_liquidity_volume_or_bust/)
 
 
 **TL;DR:** Ken and Co. are Captain Hook and the ticking is getting louder and louder. The debt established to escape their demise in January continues to show it's presence when volume gets too low. It seems challenging for the shorts to significantly withdraw buying pressure from the market (thereby reducing volume) while continuing to fight the laws of supply and demand. We are currently at the lowest volume ever compared to January highs that caused the first sneeze. Historically, they can only withdraw volume for so long before they need to add it back. And, when that happens... wooosaaaaa.

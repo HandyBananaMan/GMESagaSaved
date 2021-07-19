@@ -1,6 +1,6 @@
-#Title: Jerkin it with Gherkinit Forward Looking Technical Analysis for 6/28/21-7/2/21
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/)
+# Title: Jerkin it with Gherkinit Forward Looking Technical Analysis for 6/28/21-7/2/21
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/)
 
 
 Hello Superstonk!

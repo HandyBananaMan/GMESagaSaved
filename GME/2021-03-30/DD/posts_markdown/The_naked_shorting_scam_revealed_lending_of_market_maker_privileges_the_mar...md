@@ -1,6 +1,6 @@
-#Title: The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/)
+# Title: The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/)
 
 
 **UPDATE-4**: As soon as someone looked we found millions of naked shorts hidden deep in the call options. The activity is continuing and appears to ramp up as the next FTD cycle approaches. The weird call interest appears to clearly correlate with rising price action and 'closing' of reported FTD volumes. [https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/?utm_medium=android_app&utm_source=share)

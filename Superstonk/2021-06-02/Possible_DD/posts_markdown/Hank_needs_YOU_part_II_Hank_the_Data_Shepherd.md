@@ -1,6 +1,6 @@
-#Title: Hank needs YOU part II: Hank the Data Shepherd
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nr2gbi/hank_needs_you_part_ii_hank_the_data_shepherd/](https://www.reddit.com/r/Superstonk/comments/nr2gbi/hank_needs_you_part_ii_hank_the_data_shepherd/)
+# Title: Hank needs YOU part II: Hank the Data Shepherd
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nr2gbi/hank_needs_you_part_ii_hank_the_data_shepherd/](https://www.reddit.com/r/Superstonk/comments/nr2gbi/hank_needs_you_part_ii_hank_the_data_shepherd/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

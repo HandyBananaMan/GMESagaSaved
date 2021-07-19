@@ -1,6 +1,6 @@
-#Title: Unexpected Diamond Hands 💎 🙌
-#Author: QnBru
-#Post URL: [https://www.reddit.com/r/GME/comments/o8s2i1/unexpected_diamond_hands/](https://www.reddit.com/r/GME/comments/o8s2i1/unexpected_diamond_hands/)
+# Title: Unexpected Diamond Hands 💎 🙌
+# Author: QnBru
+# Post URL: [https://www.reddit.com/r/GME/comments/o8s2i1/unexpected_diamond_hands/](https://www.reddit.com/r/GME/comments/o8s2i1/unexpected_diamond_hands/)
 
 
 I’ve been investing since college. I took a lot of pride in taking my 2500$ and turning it into $25,000 while completing undergrad. People on campus knew me as the dude with the big boy job and “commitments.” I only told very few about my investments, sport bets, side hustles, etc… I did tell a close friend about my interest in stock market and we had convos back and forth regarding ipos(Christ on a bike did I sell Roku too soon), penny stocks, whatnot. Fast forward 3.5 years she’s in law school and I’m running a marketing department and she texts me out of the blue…

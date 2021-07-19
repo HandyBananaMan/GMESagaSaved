@@ -1,6 +1,6 @@
-#Title: An UPDATED breakdown of the GME squeeze situation: Things to look forward to
-#Author: LtMrDan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nd12pm/an_updated_breakdown_of_the_gme_squeeze_situation/](https://www.reddit.com/r/Superstonk/comments/nd12pm/an_updated_breakdown_of_the_gme_squeeze_situation/)
+# Title: An UPDATED breakdown of the GME squeeze situation: Things to look forward to
+# Author: LtMrDan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nd12pm/an_updated_breakdown_of_the_gme_squeeze_situation/](https://www.reddit.com/r/Superstonk/comments/nd12pm/an_updated_breakdown_of_the_gme_squeeze_situation/)
 
 
 For those who are trying to piece things together, and get a broad overview of the whole GME situation, I have put this post together to highlight important events that have taken place recently, as well as to point out some things to potentially look forward to. Others have done the real DD, and this is simply an attempt to organize the important points.

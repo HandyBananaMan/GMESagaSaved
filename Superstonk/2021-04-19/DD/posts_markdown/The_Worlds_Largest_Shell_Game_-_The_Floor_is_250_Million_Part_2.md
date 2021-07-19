@@ -1,6 +1,6 @@
-#Title: The World's Largest Shell Game - The Floor is 250 Million Part 2
-#Author: somechicktho
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mubk7t/the_worlds_largest_shell_game_the_floor_is_250/](https://www.reddit.com/r/Superstonk/comments/mubk7t/the_worlds_largest_shell_game_the_floor_is_250/)
+# Title: The World's Largest Shell Game - The Floor is 250 Million Part 2
+# Author: somechicktho
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mubk7t/the_worlds_largest_shell_game_the_floor_is_250/](https://www.reddit.com/r/Superstonk/comments/mubk7t/the_worlds_largest_shell_game_the_floor_is_250/)
 
 
 **TL;DR**

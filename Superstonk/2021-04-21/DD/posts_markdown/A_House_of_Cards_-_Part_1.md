@@ -1,6 +1,6 @@
-#Title: A House of Cards - Part 1
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)
+# Title: A House of Cards - Part 1
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)
 
 
 **TL;DR- The DTC has been taken over by big money. They transitioned from a manual to  a computerized ledger system in the 80s, and it played a significant role in the 1987 market crash. In 2003, several issuers with the DTC wanted to remove their securities from the DTC's deposit account because the DTC's participants were naked short selling their securities. Turns out, they were right. The DTC and it's participants have created a market-sized naked short selling scheme. All of this is made possible by the DTC's enrollee- Cede & Co.**

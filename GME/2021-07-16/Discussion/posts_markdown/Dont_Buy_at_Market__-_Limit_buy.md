@@ -1,6 +1,6 @@
-#Title: Don't Buy at Market ! - Limit buy !!
-#Author: holdmonero
-#Post URL: [https://www.reddit.com/r/GME/comments/oldb6r/dont_buy_at_market_limit_buy/](https://www.reddit.com/r/GME/comments/oldb6r/dont_buy_at_market_limit_buy/)
+# Title: Don't Buy at Market ! - Limit buy !!
+# Author: holdmonero
+# Post URL: [https://www.reddit.com/r/GME/comments/oldb6r/dont_buy_at_market_limit_buy/](https://www.reddit.com/r/GME/comments/oldb6r/dont_buy_at_market_limit_buy/)
 
 
 I'm seeing a load of people saying market buy. This helps SHF like citadel. Dave Lauer explained this in a superstonk video 2 months ago. Highly recommended : https://youtu.be/AYct0XX0uTU

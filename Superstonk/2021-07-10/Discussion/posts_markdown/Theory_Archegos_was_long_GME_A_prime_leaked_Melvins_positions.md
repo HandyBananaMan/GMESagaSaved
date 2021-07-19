@@ -1,6 +1,6 @@
-#Title: Theory Archegos was long GME, A prime leaked Melvin's positions.
-#Author: Herastrau90
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/](https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/)
+# Title: Theory Archegos was long GME, A prime leaked Melvin's positions.
+# Author: Herastrau90
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/](https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/)
 
 
 The biggest secret Wall Street did not want you to know: Archegos was in fact the long GME whale.

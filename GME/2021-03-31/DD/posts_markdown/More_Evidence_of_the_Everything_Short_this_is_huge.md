@@ -1,6 +1,6 @@
-#Title: More Evidence of the Everything Short, this is huge
-#Author: RichHodler
-#Post URL: [https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/](https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/)
+# Title: More Evidence of the Everything Short, this is huge
+# Author: RichHodler
+# Post URL: [https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/](https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/)
 
 
 This post is regarding the link on Michael Burry's Twitter. It is a long read, but I have found some parallels with [The EVERYTHING Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/). Really recommend reading the whole thing it if you have time.

@@ -1,6 +1,6 @@
-#Title: This drop is synthetic and I think we might be holding for longer than we expect before the tendieman comes. Be prepared for that and don't get fatigued.
-#Author: TDETLES
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwbk4y/this_drop_is_synthetic_and_i_think_we_might_be/](https://www.reddit.com/r/Superstonk/comments/mwbk4y/this_drop_is_synthetic_and_i_think_we_might_be/)
+# Title: This drop is synthetic and I think we might be holding for longer than we expect before the tendieman comes. Be prepared for that and don't get fatigued.
+# Author: TDETLES
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwbk4y/this_drop_is_synthetic_and_i_think_we_might_be/](https://www.reddit.com/r/Superstonk/comments/mwbk4y/this_drop_is_synthetic_and_i_think_we_might_be/)
 
 
 I have been taking some looks at the Level 2 information and it seems that when "they" want to drop the price, "they" use smaller lots of bids and asks - today was lots of 11 - 11 shares were being traded back and forth the entire time we saw a drop in the price down by $10. Other apes have noticed this before. See image 1.

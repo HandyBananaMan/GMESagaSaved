@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 07-12-2021
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/](https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/)
+# Title: The Daily Stonk 07-12-2021
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/](https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/)
 
 
 &#x200B;

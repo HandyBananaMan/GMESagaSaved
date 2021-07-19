@@ -1,6 +1,6 @@
-#Title: ETF Fuckery – Volume volcanos
-#Author: MontyRohde
-#Post URL: [https://www.reddit.com/r/GME/comments/ma4udz/etf_fuckery_volume_volcanos/](https://www.reddit.com/r/GME/comments/ma4udz/etf_fuckery_volume_volcanos/)
+# Title: ETF Fuckery – Volume volcanos
+# Author: MontyRohde
+# Post URL: [https://www.reddit.com/r/GME/comments/ma4udz/etf_fuckery_volume_volcanos/](https://www.reddit.com/r/GME/comments/ma4udz/etf_fuckery_volume_volcanos/)
 
 
 \*Not financial advice I am a stupid crayon munching ape who before I got involved with this crazy shit was nothing more than a passive index investor.

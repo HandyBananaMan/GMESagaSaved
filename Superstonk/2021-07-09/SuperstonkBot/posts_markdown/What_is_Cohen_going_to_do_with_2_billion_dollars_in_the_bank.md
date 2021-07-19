@@ -1,6 +1,6 @@
-#Title: What is Cohen going to do with 2 billion dollars in the bank?
-#Author: SuperstonkBot
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohc2j8/what_is_cohen_going_to_do_with_2_billion_dollars/](https://www.reddit.com/r/Superstonk/comments/ohc2j8/what_is_cohen_going_to_do_with_2_billion_dollars/)
+# Title: What is Cohen going to do with 2 billion dollars in the bank?
+# Author: SuperstonkBot
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohc2j8/what_is_cohen_going_to_do_with_2_billion_dollars/](https://www.reddit.com/r/Superstonk/comments/ohc2j8/what_is_cohen_going_to_do_with_2_billion_dollars/)
 
 
 Okay, to start I have to admit that I'm just a lurker ape who has absolutely zero karma. I have zero interest in owning or maintaining a reddit account (and no, I'm not a boomer). However, the shower thought I had seems important enough to share. Shout out to the mods for creating this avenue (superstonk.net) for posting DD without the sufficient karma to post. However, I've proudly owned GME since January (bought my first share at $300, one of us), and I've been able to convert my IRL wife, my best friend, as well as my dad into apes. **APES STRONG TOGETHER**.

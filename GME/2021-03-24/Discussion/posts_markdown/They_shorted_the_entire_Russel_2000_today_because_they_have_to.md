@@ -1,6 +1,6 @@
-#Title: They shorted the entire Russel 2000 today because they have to.
-#Author: hugh_dickinson
-#Post URL: [https://www.reddit.com/r/GME/comments/mcownh/they_shorted_the_entire_russel_2000_today_because/](https://www.reddit.com/r/GME/comments/mcownh/they_shorted_the_entire_russel_2000_today_because/)
+# Title: They shorted the entire Russel 2000 today because they have to.
+# Author: hugh_dickinson
+# Post URL: [https://www.reddit.com/r/GME/comments/mcownh/they_shorted_the_entire_russel_2000_today_because/](https://www.reddit.com/r/GME/comments/mcownh/they_shorted_the_entire_russel_2000_today_because/)
 
 
 GME is out of shares to borrow. Zero.

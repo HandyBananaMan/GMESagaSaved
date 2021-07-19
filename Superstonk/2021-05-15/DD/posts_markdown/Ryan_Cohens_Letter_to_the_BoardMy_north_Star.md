@@ -1,6 +1,6 @@
-#Title: Ryan Cohens Letter to the Board....My north Star
-#Author: Alert_Piano341
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/](https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/)
+# Title: Ryan Cohens Letter to the Board....My north Star
+# Author: Alert_Piano341
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/](https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/)
 
 
 &#x200B;

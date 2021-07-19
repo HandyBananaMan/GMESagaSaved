@@ -1,6 +1,6 @@
-#Title: We Don't Know if BlackRock and co WILL Recall. And That's Okay.
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/](https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/)
+# Title: We Don't Know if BlackRock and co WILL Recall. And That's Okay.
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/](https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/)
 
 
 We're coming up to several important dates reegarding share recall. I think it's safe to temper expectations in light off the recent market manipulation of GME. Let's take a historic view of what has happened previously with BlackRock and share recalls as well as some base knowledge regarding recall risk.

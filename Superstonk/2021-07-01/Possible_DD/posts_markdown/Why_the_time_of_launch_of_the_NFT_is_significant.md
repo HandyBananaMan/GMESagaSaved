@@ -1,6 +1,6 @@
-#Title: Why the time of launch of the NFT is significant
-#Author: Mokova000
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/](https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/)
+# Title: Why the time of launch of the NFT is significant
+# Author: Mokova000
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/](https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/)
 
 
 Tinfoil hats on everyone.

@@ -1,6 +1,6 @@
-#Title: Could GameStop's Liftoff Unravel Corporate Junk Bonds? Calling All Wrinkles!!!
-#Author: Get-It-Got
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/](https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/)
+# Title: Could GameStop's Liftoff Unravel Corporate Junk Bonds? Calling All Wrinkles!!!
+# Author: Get-It-Got
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/](https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/)
 
 
 You like pizza parties? I like pizza parties and I bet you do too. So why the fuck weren't we invited to the pizza party Blackrock and company are throwing on June 18?

@@ -1,6 +1,6 @@
-#Title: Enter Zen Mode. The theory of all price movements - how price spikes up AND price spikes down are artifical - and SI% might skyrocket.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9qv27/enter_zen_mode_the_theory_of_all_price_movements/](https://www.reddit.com/r/Superstonk/comments/n9qv27/enter_zen_mode_the_theory_of_all_price_movements/)
+# Title: Enter Zen Mode. The theory of all price movements - how price spikes up AND price spikes down are artifical - and SI% might skyrocket.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9qv27/enter_zen_mode_the_theory_of_all_price_movements/](https://www.reddit.com/r/Superstonk/comments/n9qv27/enter_zen_mode_the_theory_of_all_price_movements/)
 
 
 &#x200B;

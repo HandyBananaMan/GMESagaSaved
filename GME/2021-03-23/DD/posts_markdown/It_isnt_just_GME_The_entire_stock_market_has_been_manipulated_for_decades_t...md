@@ -1,6 +1,6 @@
-#Title: It isn't just GME! The entire stock market has been manipulated for decades through FTDs and it is about to explode
-#Author: PM_ME_YOUR_ZeU
-#Post URL: [https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/](https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/)
+# Title: It isn't just GME! The entire stock market has been manipulated for decades through FTDs and it is about to explode
+# Author: PM_ME_YOUR_ZeU
+# Post URL: [https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/](https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/)
 
 
 The United States uses a financial "legacy system". When things shifted to a digital platform this legacy system couldn't keep up and started falling behind at least 3 days and is most likely backed up.

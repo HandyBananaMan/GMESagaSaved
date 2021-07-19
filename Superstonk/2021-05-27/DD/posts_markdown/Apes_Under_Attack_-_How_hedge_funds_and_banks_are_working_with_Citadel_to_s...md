@@ -1,6 +1,6 @@
-#Title: 🦍 Apes Under Attack - How hedge funds and banks are working with Citadel to stop or cripple retailers 😨
-#Author: Gigashock
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/](https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/)
+# Title: 🦍 Apes Under Attack - How hedge funds and banks are working with Citadel to stop or cripple retailers 😨
+# Author: Gigashock
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/](https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/)
 
 
 Excuse the click-baity title. I don't know how accurate my conclusion is, but the parts are all there, sourced and listed below. The title is not misleading, alarmist yes, but for good reason.

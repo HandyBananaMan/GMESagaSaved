@@ -1,6 +1,6 @@
-#Title: New ICC rules summary. They are preparing for defaulting members and are ready to pull the plug.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/](https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/)
+# Title: New ICC rules summary. They are preparing for defaulting members and are ready to pull the plug.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/](https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/)
 
 
 # 0. Preface

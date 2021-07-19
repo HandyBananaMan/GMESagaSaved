@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/24/2021, predicting the day's price action in detail with Warden. Understanding earnings, and preparing for the wild volatility ahead. FIRESALE EDITION.
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/)
+# Title: Live Charting for 3/24/2021, predicting the day's price action in detail with Warden. Understanding earnings, and preparing for the wild volatility ahead. FIRESALE EDITION.
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.

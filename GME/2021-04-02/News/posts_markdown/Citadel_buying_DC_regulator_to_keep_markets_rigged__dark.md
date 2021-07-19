@@ -1,6 +1,6 @@
-#Title: Citadel buying DC regulator to keep markets rigged & dark
-#Author: luytes
-#Post URL: [https://www.reddit.com/r/GME/comments/miolkm/citadel_buying_dc_regulator_to_keep_markets/](https://www.reddit.com/r/GME/comments/miolkm/citadel_buying_dc_regulator_to_keep_markets/)
+# Title: Citadel buying DC regulator to keep markets rigged & dark
+# Author: luytes
+# Post URL: [https://www.reddit.com/r/GME/comments/miolkm/citadel_buying_dc_regulator_to_keep_markets/](https://www.reddit.com/r/GME/comments/miolkm/citadel_buying_dc_regulator_to_keep_markets/)
 
 
 I’m gonna repost this, since the downvotes this post is getting is more than usual, they really don’t want this to be seen. Credits to Dennis Kelleher u/WallSt4MainSt

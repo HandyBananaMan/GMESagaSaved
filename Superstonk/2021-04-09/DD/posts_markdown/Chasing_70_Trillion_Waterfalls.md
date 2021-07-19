@@ -1,6 +1,6 @@
-#Title: Chasing $70 Trillion Waterfalls
-#Author: nimrod8311
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/](https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/)
+# Title: Chasing $70 Trillion Waterfalls
+# Author: nimrod8311
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/](https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/)
 
 
 **\*This is not advice, financial or legal, just another fellow ape searching for answers.**

@@ -1,6 +1,6 @@
-#Title: Elliott Waves, GME, WEN THE F*CK MOON!? 🚀
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/)
+# Title: Elliott Waves, GME, WEN THE F*CK MOON!? 🚀
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/)
 
 
 Sup apes

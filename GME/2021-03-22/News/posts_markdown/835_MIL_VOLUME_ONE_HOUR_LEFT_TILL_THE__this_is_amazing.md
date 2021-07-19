@@ -1,6 +1,6 @@
-#Title: 8.35 MIL VOLUME!!!!! ONE HOUR LEFT TILL THE 🔔 this is amazing 🚀
-#Author: gmorgan99
-#Post URL: [https://www.reddit.com/r/GME/comments/mava06/835_mil_volume_one_hour_left_till_the_this_is/](https://www.reddit.com/r/GME/comments/mava06/835_mil_volume_one_hour_left_till_the_this_is/)
+# Title: 8.35 MIL VOLUME!!!!! ONE HOUR LEFT TILL THE 🔔 this is amazing 🚀
+# Author: gmorgan99
+# Post URL: [https://www.reddit.com/r/GME/comments/mava06/835_mil_volume_one_hour_left_till_the_this_is/](https://www.reddit.com/r/GME/comments/mava06/835_mil_volume_one_hour_left_till_the_this_is/)
 
 
 It’s 3:04 EST, Volume is sitting at 8.35 mil 

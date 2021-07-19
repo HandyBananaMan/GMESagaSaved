@@ -1,6 +1,6 @@
-#Title: The arguing over a fake squeeze is pissing me off me now...
-#Author: akalias_1981
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzjhgo/the_arguing_over_a_fake_squeeze_is_pissing_me_off/](https://www.reddit.com/r/Superstonk/comments/nzjhgo/the_arguing_over_a_fake_squeeze_is_pissing_me_off/)
+# Title: The arguing over a fake squeeze is pissing me off me now...
+# Author: akalias_1981
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzjhgo/the_arguing_over_a_fake_squeeze_is_pissing_me_off/](https://www.reddit.com/r/Superstonk/comments/nzjhgo/the_arguing_over_a_fake_squeeze_is_pissing_me_off/)
 
 
 If the squeeze can't be faked, then buy and hold into the millions. If the squeeze can be faked, then buy and hold into the millions. 

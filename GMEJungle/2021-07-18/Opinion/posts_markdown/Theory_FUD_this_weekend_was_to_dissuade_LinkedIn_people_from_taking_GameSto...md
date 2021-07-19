@@ -1,6 +1,6 @@
-#Title: Theory: FUD this weekend was to dissuade LinkedIn people from taking GameStop seriously
-#Author: Bonca1222
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/on2zhg/theory_fud_this_weekend_was_to_dissuade_linkedin/](https://www.reddit.com/r/GMEJungle/comments/on2zhg/theory_fud_this_weekend_was_to_dissuade_linkedin/)
+# Title: Theory: FUD this weekend was to dissuade LinkedIn people from taking GameStop seriously
+# Author: Bonca1222
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/on2zhg/theory_fud_this_weekend_was_to_dissuade_linkedin/](https://www.reddit.com/r/GMEJungle/comments/on2zhg/theory_fud_this_weekend_was_to_dissuade_linkedin/)
 
 
 We all know this weekend was bad. Unfortunately it came at a time when we were gaining traction with serious people. This was probably the worst time for us to have a meltdown, as people who saw the LinkedIn posts during the week and came to check out the sub over the weekend were likely appalled by what was going on and never even made it to the DD. 

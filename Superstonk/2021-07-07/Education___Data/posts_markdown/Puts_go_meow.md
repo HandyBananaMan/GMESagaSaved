@@ -1,6 +1,6 @@
-#Title: Puts go meow
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/offzjy/puts_go_meow/](https://www.reddit.com/r/Superstonk/comments/offzjy/puts_go_meow/)
+# Title: Puts go meow
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/offzjy/puts_go_meow/](https://www.reddit.com/r/Superstonk/comments/offzjy/puts_go_meow/)
 
 
 Tagging this person because i see that they know their options / data manipulation stuff very well and hoping they'll chime in on this post. u/yelyah2

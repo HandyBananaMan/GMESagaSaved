@@ -1,6 +1,6 @@
-#Title: There have been a lot of DD that is more karma farming than actual anything of scientific, research, or mathematical basis.
-#Author: PWNWTFBBQ
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/](https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/)
+# Title: There have been a lot of DD that is more karma farming than actual anything of scientific, research, or mathematical basis.
+# Author: PWNWTFBBQ
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/](https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/)
 
 
 # Linear Regression Girl who "may have" figured out the shorting algorithm here.

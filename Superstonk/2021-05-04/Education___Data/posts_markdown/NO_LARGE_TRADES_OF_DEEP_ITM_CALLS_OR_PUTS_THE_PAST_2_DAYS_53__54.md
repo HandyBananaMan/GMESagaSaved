@@ -1,6 +1,6 @@
-#Title: NO LARGE TRADES OF DEEP ITM CALLS OR PUTS THE PAST 2 DAYS (5/3 & 5/4)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n570pe/no_large_trades_of_deep_itm_calls_or_puts_the/](https://www.reddit.com/r/Superstonk/comments/n570pe/no_large_trades_of_deep_itm_calls_or_puts_the/)
+# Title: NO LARGE TRADES OF DEEP ITM CALLS OR PUTS THE PAST 2 DAYS (5/3 & 5/4)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n570pe/no_large_trades_of_deep_itm_calls_or_puts_the/](https://www.reddit.com/r/Superstonk/comments/n570pe/no_large_trades_of_deep_itm_calls_or_puts_the/)
 
 
 What up Apes,

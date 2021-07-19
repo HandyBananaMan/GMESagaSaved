@@ -1,6 +1,6 @@
-#Title: Wes Christian AMA: "Typically the issuer has the largest amount of damages" GME left HALF A BILLION DOLLARS on the table from their recent at-the-market equity offering program! This could easily be proven to be losses!
-#Author: rmrthe5thofnov
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfufdh/wes_christian_ama_typically_the_issuer_has_the/](https://www.reddit.com/r/Superstonk/comments/nfufdh/wes_christian_ama_typically_the_issuer_has_the/)
+# Title: Wes Christian AMA: "Typically the issuer has the largest amount of damages" GME left HALF A BILLION DOLLARS on the table from their recent at-the-market equity offering program! This could easily be proven to be losses!
+# Author: rmrthe5thofnov
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfufdh/wes_christian_ama_typically_the_issuer_has_the/](https://www.reddit.com/r/Superstonk/comments/nfufdh/wes_christian_ama_typically_the_issuer_has_the/)
 
 
 First of all, thank you to all of the mods, Dave Lauer, and Wes Christian for putting on this AMA.  It was so enlightening and really gave a lot of hope for some justice coming in the near future.  I absolutely can not wait for round 2 AMA with Wes.

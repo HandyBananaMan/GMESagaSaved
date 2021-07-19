@@ -1,6 +1,6 @@
-#Title: CONFIRMED! GME now officially part of the Russell 1000 Index
-#Author: muskateeer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ya1a/confirmed_gme_now_officially_part_of_the_russell/](https://www.reddit.com/r/Superstonk/comments/o7ya1a/confirmed_gme_now_officially_part_of_the_russell/)
+# Title: CONFIRMED! GME now officially part of the Russell 1000 Index
+# Author: muskateeer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ya1a/confirmed_gme_now_officially_part_of_the_russell/](https://www.reddit.com/r/Superstonk/comments/o7ya1a/confirmed_gme_now_officially_part_of_the_russell/)
 
 
 GameStop is listed in the new list published today for the Russell 1000 additions!

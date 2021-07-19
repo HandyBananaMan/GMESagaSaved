@@ -1,6 +1,6 @@
-#Title: SI for June calculated, including Dark Pools: +13% to total SI in one month
-#Author: No1Important_4real
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obr28i/si_for_june_calculated_including_dark_pools_13_to/](https://www.reddit.com/r/Superstonk/comments/obr28i/si_for_june_calculated_including_dark_pools_13_to/)
+# Title: SI for June calculated, including Dark Pools: +13% to total SI in one month
+# Author: No1Important_4real
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obr28i/si_for_june_calculated_including_dark_pools_13_to/](https://www.reddit.com/r/Superstonk/comments/obr28i/si_for_june_calculated_including_dark_pools_13_to/)
 
 
 **TLDR**; A super conservative estimate we should be well over 250% SI total and our SI grew by at least 13% last month

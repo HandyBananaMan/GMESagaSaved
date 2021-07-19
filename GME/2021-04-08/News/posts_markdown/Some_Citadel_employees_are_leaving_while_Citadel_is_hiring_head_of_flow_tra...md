@@ -1,6 +1,6 @@
-#Title: Some Citadel employees are leaving while Citadel is hiring head of flow trading
-#Author: YouShallSource
-#Post URL: [https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/](https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/)
+# Title: Some Citadel employees are leaving while Citadel is hiring head of flow trading
+# Author: YouShallSource
+# Post URL: [https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/](https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/)
 
 
 tldr:

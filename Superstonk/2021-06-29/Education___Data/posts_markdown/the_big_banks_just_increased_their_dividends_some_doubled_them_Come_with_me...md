@@ -1,6 +1,6 @@
-#Title: the big banks just increased their dividends, some doubled them. Come with me and Let’s head back to 08 😎😎😎😎
-#Author: thefutureisugly
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa371g/the_big_banks_just_increased_their_dividends_some/](https://www.reddit.com/r/Superstonk/comments/oa371g/the_big_banks_just_increased_their_dividends_some/)
+# Title: the big banks just increased their dividends, some doubled them. Come with me and Let’s head back to 08 😎😎😎😎
+# Author: thefutureisugly
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa371g/the_big_banks_just_increased_their_dividends_some/](https://www.reddit.com/r/Superstonk/comments/oa371g/the_big_banks_just_increased_their_dividends_some/)
 
 
 Sauce: https://www.dividend.com/how-to-invest/history-of-bank-stock-dividends/

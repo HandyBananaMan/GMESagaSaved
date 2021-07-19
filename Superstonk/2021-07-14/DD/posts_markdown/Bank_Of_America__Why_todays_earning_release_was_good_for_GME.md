@@ -1,6 +1,6 @@
-#Title: Bank Of America & Why todays earning release was good for GME
-#Author: Munoz10594
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/](https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/)
+# Title: Bank Of America & Why todays earning release was good for GME
+# Author: Munoz10594
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/](https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/)
 
 
 These posts have garnered a ton of attention. I'm over the moon, pun intended, with all the kinds words and constructive criticism these posts received. Thanks for the support, dialogue, and continuous urge to learn and grow.

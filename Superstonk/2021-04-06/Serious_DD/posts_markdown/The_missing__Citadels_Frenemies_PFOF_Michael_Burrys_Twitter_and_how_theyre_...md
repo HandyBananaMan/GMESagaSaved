@@ -1,6 +1,6 @@
-#Title: The missing 🧩: Citadel’s Frenemies, PFOF, Michael Burry’s Twitter, and how they’re hiding deep ITM Options
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/)
+# Title: The missing 🧩: Citadel’s Frenemies, PFOF, Michael Burry’s Twitter, and how they’re hiding deep ITM Options
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/)
 
 
 TL;DR: Susquehanna is ![sus](http://imgur.com/a/EzZB2vv)

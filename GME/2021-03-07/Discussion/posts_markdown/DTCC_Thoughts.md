@@ -1,6 +1,6 @@
-#Title: DTCC Thoughts
-#Author: Which_Stable4699
-#Post URL: [https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/](https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/)
+# Title: DTCC Thoughts
+# Author: Which_Stable4699
+# Post URL: [https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/](https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/)
 
 
 Hi my fellow apes, I just wanted to quickly talk about the new DD that was posted today about the DTCC. Let me start by saying I was already bullish AF on GME. I'm not a whale by any stretch of the imagination, but I do hold a sizeable position and will be adding more Monday. That said, lets talk about the new DTCC rules. Here is my take:

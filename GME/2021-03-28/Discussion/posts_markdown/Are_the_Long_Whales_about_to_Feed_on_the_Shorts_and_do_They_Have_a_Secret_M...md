@@ -1,6 +1,6 @@
-#Title: Are the Long Whales about to Feed on the Shorts, and do They Have a Secret MVP we've all Overlooked?
-#Author: AnkridStone
-#Post URL: [https://www.reddit.com/r/GME/comments/mf87d7/are_the_long_whales_about_to_feed_on_the_shorts/](https://www.reddit.com/r/GME/comments/mf87d7/are_the_long_whales_about_to_feed_on_the_shorts/)
+# Title: Are the Long Whales about to Feed on the Shorts, and do They Have a Secret MVP we've all Overlooked?
+# Author: AnkridStone
+# Post URL: [https://www.reddit.com/r/GME/comments/mf87d7/are_the_long_whales_about_to_feed_on_the_shorts/](https://www.reddit.com/r/GME/comments/mf87d7/are_the_long_whales_about_to_feed_on_the_shorts/)
 
 
 **This is not financial advice. These are the ramblings of a man who has spent too much time on Reddit reading too much tinfoil hat, batshit crazy stuff and not enough time sleeping.**

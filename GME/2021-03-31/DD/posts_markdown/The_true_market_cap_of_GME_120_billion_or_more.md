@@ -1,6 +1,6 @@
-#Title: The true market cap of GME $120 billion or more
-#Author: Houstman
-#Post URL: [https://www.reddit.com/r/GME/comments/mh2erf/the_true_market_cap_of_gme_120_billion_or_more/](https://www.reddit.com/r/GME/comments/mh2erf/the_true_market_cap_of_gme_120_billion_or_more/)
+# Title: The true market cap of GME $120 billion or more
+# Author: Houstman
+# Post URL: [https://www.reddit.com/r/GME/comments/mh2erf/the_true_market_cap_of_gme_120_billion_or_more/](https://www.reddit.com/r/GME/comments/mh2erf/the_true_market_cap_of_gme_120_billion_or_more/)
 
 
 When you click on your stock ticker and get the market info for a stock like GME, the fact sheet does a simple calculation of the ~70 million physical shares and multiplies it by the current traded price to get the market capitalization figure. Right now that sits around $13 to $14 billion.

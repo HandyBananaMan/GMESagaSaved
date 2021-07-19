@@ -1,6 +1,6 @@
-#Title: THEORY: Glacier and other "new" HFs are just shells where Citadel has been hiding their FTD/put game. Regulatory cycle is now revealing them slowly, and they want us to SeLl WhEn HFs Go BaNkRuPt. We ain't selling til YOU go bankrupt Kenny!
-#Author: AdNo8854
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/](https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/)
+# Title: THEORY: Glacier and other "new" HFs are just shells where Citadel has been hiding their FTD/put game. Regulatory cycle is now revealing them slowly, and they want us to SeLl WhEn HFs Go BaNkRuPt. We ain't selling til YOU go bankrupt Kenny!
+# Author: AdNo8854
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/](https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/)
 
 
 See the edits at the end if you want to follow a trail of DDs that leads us here.

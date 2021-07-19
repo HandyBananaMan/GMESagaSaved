@@ -1,6 +1,6 @@
-#Title: There is plenty enough money in the world to pay for 500K+ per share.
-#Author: Matthuris
-#Post URL: [https://www.reddit.com/r/GME/comments/lz53l2/there_is_plenty_enough_money_in_the_world_to_pay/](https://www.reddit.com/r/GME/comments/lz53l2/there_is_plenty_enough_money_in_the_world_to_pay/)
+# Title: There is plenty enough money in the world to pay for 500K+ per share.
+# Author: Matthuris
+# Post URL: [https://www.reddit.com/r/GME/comments/lz53l2/there_is_plenty_enough_money_in_the_world_to_pay/](https://www.reddit.com/r/GME/comments/lz53l2/there_is_plenty_enough_money_in_the_world_to_pay/)
 
 
 **Not financial advice, I’m not an expert, just using the publicly available information I can obtain.** 

@@ -1,6 +1,6 @@
-#Title: Over-Voting Prevention Exposed
-#Author: Exotic-Tooth8166
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/](https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/)
+# Title: Over-Voting Prevention Exposed
+# Author: Exotic-Tooth8166
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/](https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/)
 
 
 # Disclosure of a financial system which hides naked shorts by deleting shareholder votes.

@@ -1,6 +1,6 @@
-#Title: Deep Fucking Analysis of citadel.com with WaybackMachine: Special Advisor to the CEO and a Global Treasurer ARE GONE
-#Author: rudyb0y
-#Post URL: [https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/](https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/)
+# Title: Deep Fucking Analysis of citadel.com with WaybackMachine: Special Advisor to the CEO and a Global Treasurer ARE GONE
+# Author: rudyb0y
+# Post URL: [https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/](https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/)
 
 
 Hey guys,

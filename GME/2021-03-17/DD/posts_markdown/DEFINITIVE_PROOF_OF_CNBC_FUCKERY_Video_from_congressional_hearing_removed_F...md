@@ -1,6 +1,6 @@
-#Title: DEFINITIVE PROOF OF CNBC FUCKERY: Video from congressional hearing removed French Hill and Cindy Axne who asked uncomfortable questions about Citadel & friends
-#Author: pepsodont
-#Post URL: [https://www.reddit.com/r/GME/comments/m7hust/definitive_proof_of_cnbc_fuckery_video_from/](https://www.reddit.com/r/GME/comments/m7hust/definitive_proof_of_cnbc_fuckery_video_from/)
+# Title: DEFINITIVE PROOF OF CNBC FUCKERY: Video from congressional hearing removed French Hill and Cindy Axne who asked uncomfortable questions about Citadel & friends
+# Author: pepsodont
+# Post URL: [https://www.reddit.com/r/GME/comments/m7hust/definitive_proof_of_cnbc_fuckery_video_from/](https://www.reddit.com/r/GME/comments/m7hust/definitive_proof_of_cnbc_fuckery_video_from/)
 
 
 If you wanted a definitive proof about who CNBC plays for, we got ya, retards. Thanks to eagle sight of u/Luxieto and help from u/HalinxHalo we got not one, but two pieces of evidence that CNBC doesn't shy from raw and pure manipulation.

@@ -1,6 +1,6 @@
-#Title: AMA DAY!! Wednesday Superstonk Daily DD 05-05-2021 Happy Cinco De Mayo to all our Mexican and Latin American Apes! 💚🤍❤
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/](https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/)
+# Title: AMA DAY!! Wednesday Superstonk Daily DD 05-05-2021 Happy Cinco De Mayo to all our Mexican and Latin American Apes! 💚🤍❤
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/](https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/)
 
 
 &#x200B;

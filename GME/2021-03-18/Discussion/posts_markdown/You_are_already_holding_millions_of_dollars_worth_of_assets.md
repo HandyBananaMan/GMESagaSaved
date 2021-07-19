@@ -1,6 +1,6 @@
-#Title: You are already holding millions of dollars worth of assets.
-#Author: SecretlyReformed
-#Post URL: [https://www.reddit.com/r/GME/comments/m80l86/you_are_already_holding_millions_of_dollars_worth/](https://www.reddit.com/r/GME/comments/m80l86/you_are_already_holding_millions_of_dollars_worth/)
+# Title: You are already holding millions of dollars worth of assets.
+# Author: SecretlyReformed
+# Post URL: [https://www.reddit.com/r/GME/comments/m80l86/you_are_already_holding_millions_of_dollars_worth/](https://www.reddit.com/r/GME/comments/m80l86/you_are_already_holding_millions_of_dollars_worth/)
 
 
 If you are holding GME, your shares are already worth $1,000,000 (potentially) and we're just waiting for the market to recognize their worth. 

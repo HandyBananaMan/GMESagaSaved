@@ -1,6 +1,6 @@
-#Title: Why RC and Gamestop WANT us to win this fight and why post squeeze I'll be a GME Long forever
-#Author: sped2500
-#Post URL: [https://www.reddit.com/r/GME/comments/m4wq5t/why_rc_and_gamestop_want_us_to_win_this_fight_and/](https://www.reddit.com/r/GME/comments/m4wq5t/why_rc_and_gamestop_want_us_to_win_this_fight_and/)
+# Title: Why RC and Gamestop WANT us to win this fight and why post squeeze I'll be a GME Long forever
+# Author: sped2500
+# Post URL: [https://www.reddit.com/r/GME/comments/m4wq5t/why_rc_and_gamestop_want_us_to_win_this_fight_and/](https://www.reddit.com/r/GME/comments/m4wq5t/why_rc_and_gamestop_want_us_to_win_this_fight_and/)
 
 
 One of the most captivating things about this whole saga to me has been the absolute audacity of the coordination of the HFs and FIGHT on both sides of this.  Last Wednesday's chart was a beautiful mountain of tug of war.  This is (regardless of my financial interests) the most INTERESTING episode, possibly in the entirety of economic history.

@@ -1,6 +1,6 @@
-#Title: Reddit apes inadvertently exposed a loophole in the financial system. The squeeze will NOT be televised. This website scares them and it's hilarious.
-#Author: Noderpsy
-#Post URL: [https://www.reddit.com/r/GME/comments/ma6tbq/reddit_apes_inadvertently_exposed_a_loophole_in/](https://www.reddit.com/r/GME/comments/ma6tbq/reddit_apes_inadvertently_exposed_a_loophole_in/)
+# Title: Reddit apes inadvertently exposed a loophole in the financial system. The squeeze will NOT be televised. This website scares them and it's hilarious.
+# Author: Noderpsy
+# Post URL: [https://www.reddit.com/r/GME/comments/ma6tbq/reddit_apes_inadvertently_exposed_a_loophole_in/](https://www.reddit.com/r/GME/comments/ma6tbq/reddit_apes_inadvertently_exposed_a_loophole_in/)
 
 
 Money Makers like Shitadel and Co have been abusing their ability to synthetically manipulate stock prices amidst the broader overall market for years, and they finally got caught on fucking Reddit of all places.

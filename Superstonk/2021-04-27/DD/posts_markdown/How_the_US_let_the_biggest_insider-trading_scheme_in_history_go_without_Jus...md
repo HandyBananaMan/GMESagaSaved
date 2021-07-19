@@ -1,6 +1,6 @@
-#Title: How the US let "the biggest insider-trading scheme in history" go without Justice - Steve Cohen connections part 4
-#Author: NotsoPG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/](https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/)
+# Title: How the US let "the biggest insider-trading scheme in history" go without Justice - Steve Cohen connections part 4
+# Author: NotsoPG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/](https://www.reddit.com/r/Superstonk/comments/mzwt3z/how_the_us_let_the_biggest_insidertrading_scheme/)
 
 
   I've recently gotten into writing DD ( all in chronological order at bottom ) and have begun delving deep into a certain hedge fund manager, Steve Cohen. 3 out of my last 4 DD have involved him. I've continued looking into his connections and here's what I've found today.

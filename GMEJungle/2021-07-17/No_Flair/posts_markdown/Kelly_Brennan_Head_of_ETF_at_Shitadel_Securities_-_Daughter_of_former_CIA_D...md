@@ -1,6 +1,6 @@
-#Title: Kelly Brennan, Head of ETF at Shitadel Securities - Daughter of former CIA Director John Brennan?
-#Author: ghoztpepper
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om9mqk/kelly_brennan_head_of_etf_at_shitadel_securities/](https://www.reddit.com/r/GMEJungle/comments/om9mqk/kelly_brennan_head_of_etf_at_shitadel_securities/)
+# Title: Kelly Brennan, Head of ETF at Shitadel Securities - Daughter of former CIA Director John Brennan?
+# Author: ghoztpepper
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om9mqk/kelly_brennan_head_of_etf_at_shitadel_securities/](https://www.reddit.com/r/GMEJungle/comments/om9mqk/kelly_brennan_head_of_etf_at_shitadel_securities/)
 
 
 # Edit2: Thanks to some excellent research from u/taimpeng this has been debunked and is highly unlikely that this Kelly has any relation to John. His comment below:

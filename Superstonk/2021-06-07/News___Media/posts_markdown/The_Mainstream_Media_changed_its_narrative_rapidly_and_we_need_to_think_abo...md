@@ -1,6 +1,6 @@
-#Title: The Mainstream Media changed its narrative rapidly and we need to think about why
-#Author: DerButterkex
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/](https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/)
+# Title: The Mainstream Media changed its narrative rapidly and we need to think about why
+# Author: DerButterkex
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/](https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/)
 
 
 Dear Apes,

@@ -1,6 +1,6 @@
-#Title: This is it
-#Author: carefully61
-#Post URL: [https://www.reddit.com/r/GME/comments/nmex0y/this_is_it/](https://www.reddit.com/r/GME/comments/nmex0y/this_is_it/)
+# Title: This is it
+# Author: carefully61
+# Post URL: [https://www.reddit.com/r/GME/comments/nmex0y/this_is_it/](https://www.reddit.com/r/GME/comments/nmex0y/this_is_it/)
 
 
 I don't post frequently, just wanted to say thank you for being excellent everyone.

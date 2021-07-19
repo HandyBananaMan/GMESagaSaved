@@ -1,6 +1,6 @@
-#Title: Why Shorting the Russ2000 is a Terrible, Desperate Idea
-#Author: ddak1998
-#Post URL: [https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/](https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/)
+# Title: Why Shorting the Russ2000 is a Terrible, Desperate Idea
+# Author: ddak1998
+# Post URL: [https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/](https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/)
 
 
 If people are actually shorting IWM up to 35% just to get to GME things are about to get crazy.

@@ -1,6 +1,6 @@
-#Title: Hank's Big Bang: Quant Apes Glitch the Simulation
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/)
+# Title: Hank's Big Bang: Quant Apes Glitch the Simulation
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

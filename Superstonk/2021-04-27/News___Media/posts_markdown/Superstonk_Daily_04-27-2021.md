@@ -1,6 +1,6 @@
-#Title: Superstonk Daily 04-27-2021
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/](https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/)
+# Title: Superstonk Daily 04-27-2021
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/](https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: As we near the end game, let's take a moment to resync on the sensitive topic of Theoretical Floors (Yes, the 10M floor). I present "The Dangers of Groupthink: THE OMEGA BRRR CLUSTER AND THE 10M DOLLAR FLOOR". TLDR - Can 10M happen? Yes, but make sure you understand the conditions of "HOW".
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/](https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/)
+# Title: As we near the end game, let's take a moment to resync on the sensitive topic of Theoretical Floors (Yes, the 10M floor). I present "The Dangers of Groupthink: THE OMEGA BRRR CLUSTER AND THE 10M DOLLAR FLOOR". TLDR - Can 10M happen? Yes, but make sure you understand the conditions of "HOW".
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/](https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/)
 
 
 Before you read the post or skip to the TL;DR

@@ -1,6 +1,6 @@
-#Title: Dissecting the latest FUD campaign: "MoAsS wiLL nOt HapPEn aNY MoaAARrrRR"
-#Author: jsutajguauga
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oecchp/dissecting_the_latest_fud_campaign_moass_will_not/](https://www.reddit.com/r/Superstonk/comments/oecchp/dissecting_the_latest_fud_campaign_moass_will_not/)
+# Title: Dissecting the latest FUD campaign: "MoAsS wiLL nOt HapPEn aNY MoaAARrrRR"
+# Author: jsutajguauga
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oecchp/dissecting_the_latest_fud_campaign_moass_will_not/](https://www.reddit.com/r/Superstonk/comments/oecchp/dissecting_the_latest_fud_campaign_moass_will_not/)
 
 
 In the last two days or so, I have noticed a sudden uptick in anti-MOASS sentiment. I wanted to take a little time to go through this latest FUD campaign. You probably saw different variations attached to low effort, stale memes like:

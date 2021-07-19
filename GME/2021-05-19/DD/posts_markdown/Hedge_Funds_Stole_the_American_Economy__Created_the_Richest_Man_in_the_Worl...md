@@ -1,6 +1,6 @@
-#Title: Hedge Funds Stole the American Economy & Created the Richest Man in the World
-#Author: AvidTreesFan
-#Post URL: [https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/](https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/)
+# Title: Hedge Funds Stole the American Economy & Created the Richest Man in the World
+# Author: AvidTreesFan
+# Post URL: [https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/](https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/)
 
 
 Oh, hey, let me just finish up this game of Smash Bros, grab a coffee, smoke a bowl real quick, watch a few episodes of Twilight Zone, then let's deep dive into this DD. It's a certified smooth-brained wall of text I promise.

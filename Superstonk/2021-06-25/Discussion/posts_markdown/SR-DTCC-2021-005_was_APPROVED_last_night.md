@@ -1,6 +1,6 @@
-#Title: SR-DTCC-2021-005 was APPROVED last night!
-#Author: npham54
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/](https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/)
+# Title: SR-DTCC-2021-005 was APPROVED last night!
+# Author: npham54
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/](https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/)
 
 
 They snuck this in under everyone's noses!!!  IT'S APPROVED!

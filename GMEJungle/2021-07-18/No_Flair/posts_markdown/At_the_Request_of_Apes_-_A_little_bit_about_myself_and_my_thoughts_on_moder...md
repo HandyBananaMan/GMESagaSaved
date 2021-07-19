@@ -1,6 +1,6 @@
-#Title: At the Request of Apes - A little bit about myself and my thoughts on moderation
-#Author: BodySurfDan
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omvrjv/at_the_request_of_apes_a_little_bit_about_myself/](https://www.reddit.com/r/GMEJungle/comments/omvrjv/at_the_request_of_apes_a_little_bit_about_myself/)
+# Title: At the Request of Apes - A little bit about myself and my thoughts on moderation
+# Author: BodySurfDan
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omvrjv/at_the_request_of_apes_a_little_bit_about_myself/](https://www.reddit.com/r/GMEJungle/comments/omvrjv/at_the_request_of_apes_a_little_bit_about_myself/)
 
 
 To everyone who knows me, whats good ape! To those who don't, nice to meet you I'm u/BodySurfDan aka The Real DMT (my musical pseudonym). Firstly, I met some of you at the shareholder meeting which ended up getting surrounded by lots of confusion. (If there are any questions about that, ask away and I'll answer)

@@ -1,6 +1,6 @@
-#Title: Over-voting is cleared to match each broker's DTC holding! SEC is notified, and so is the company. 🚀🚀🚀
-#Author: krootzl88
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7qr4/overvoting_is_cleared_to_match_each_brokers_dtc/](https://www.reddit.com/r/Superstonk/comments/nw7qr4/overvoting_is_cleared_to_match_each_brokers_dtc/)
+# Title: Over-voting is cleared to match each broker's DTC holding! SEC is notified, and so is the company. 🚀🚀🚀
+# Author: krootzl88
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7qr4/overvoting_is_cleared_to_match_each_brokers_dtc/](https://www.reddit.com/r/Superstonk/comments/nw7qr4/overvoting_is_cleared_to_match_each_brokers_dtc/)
 
 
 

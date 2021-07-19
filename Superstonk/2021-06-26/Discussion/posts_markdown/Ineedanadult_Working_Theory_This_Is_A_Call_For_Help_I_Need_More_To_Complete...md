@@ -1,6 +1,6 @@
-#Title: !Ineedanadult! Working Theory. This Is A Call For Help. I Need More To Complete What I Have Here. Please Add What You Can.
-#Author: bloodhound1144
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/](https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/)
+# Title: !Ineedanadult! Working Theory. This Is A Call For Help. I Need More To Complete What I Have Here. Please Add What You Can.
+# Author: bloodhound1144
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/](https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/)
 
 
 I keep an eye on XLF and most of the stocks that are in it. I like to keep a broad view of the market so I can see what's coming from different angles.

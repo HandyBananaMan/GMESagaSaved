@@ -1,6 +1,6 @@
-#Title: T+21. The game of Hide & Seek is finally over. And while I'm at it I might as well try to prove how July 14th is going to become our new January 13th.
-#Author: JaboniThxDad
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/](https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/)
+# Title: T+21. The game of Hide & Seek is finally over. And while I'm at it I might as well try to prove how July 14th is going to become our new January 13th.
+# Author: JaboniThxDad
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/](https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/)
 
 
 &#x200B;

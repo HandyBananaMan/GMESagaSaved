@@ -1,6 +1,6 @@
-#Title: Citadel buying DC regulator to keep markets rigged & dark
-#Author: WallSt4MainSt
-#Post URL: [https://www.reddit.com/r/GME/comments/mi6d8f/citadel_buying_dc_regulator_to_keep_markets/](https://www.reddit.com/r/GME/comments/mi6d8f/citadel_buying_dc_regulator_to_keep_markets/)
+# Title: Citadel buying DC regulator to keep markets rigged & dark
+# Author: WallSt4MainSt
+# Post URL: [https://www.reddit.com/r/GME/comments/mi6d8f/citadel_buying_dc_regulator_to_keep_markets/](https://www.reddit.com/r/GME/comments/mi6d8f/citadel_buying_dc_regulator_to_keep_markets/)
 
 
 Not going to post very often unless I really think it'll be of interest, but it was just announced today that the most recent Chairman of one of Washington's most important financial regulators, the Commodity Futures Trading Commission (CFTC), was purchased, er, I mean hired by Ken Griffin at Citadel; as [www.bettermarkes.com](https://www.bettermarkes.com) press release below states, this is how they rig the system against you ( [https://bettermarkets.com/newsroom/epidemic-regulators-selling-out-highest-big-finance-bidder-undermining-public-confidence](https://bettermarkets.com/newsroom/epidemic-regulators-selling-out-highest-big-finance-bidder-undermining-public-confidence)):  

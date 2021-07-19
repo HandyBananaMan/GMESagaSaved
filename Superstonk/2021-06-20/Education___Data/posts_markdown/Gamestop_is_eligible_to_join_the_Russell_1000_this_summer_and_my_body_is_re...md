@@ -1,6 +1,6 @@
-#Title: Gamestop is eligible to join the Russell 1000 this summer, and my body is ready.
-#Author: WalkWithShadows
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o44sfg/gamestop_is_eligible_to_join_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o44sfg/gamestop_is_eligible_to_join_the_russell_1000/)
+# Title: Gamestop is eligible to join the Russell 1000 this summer, and my body is ready.
+# Author: WalkWithShadows
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o44sfg/gamestop_is_eligible_to_join_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o44sfg/gamestop_is_eligible_to_join_the_russell_1000/)
 
 
 What's good apes, enjoying your weekend? I'm coming at you with some good vibes and nice charts relating to upcoming market events that *could* positively impact $GME.If you're feeling tired, done with the blatant manipulation, frustrated at it all, hang in there and share my enthusiasm for a minute, let me jack them titties baby.

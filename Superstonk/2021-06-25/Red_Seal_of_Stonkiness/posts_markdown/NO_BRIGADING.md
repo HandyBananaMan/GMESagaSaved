@@ -1,6 +1,6 @@
-#Title: NO BRIGADING
-#Author: redchessqueen99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/](https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/)
+# Title: NO BRIGADING
+# Author: redchessqueen99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/](https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/)
 
 
 It has become an increasingly problematic situation for r/Superstonk and our nearly 500,000 members that some individuals are repeatedly harassing other subreddits. As moderators, we have declared a zero tolerance policy for brigading and have mentioned this multiple times in our daily news posts, as well as on YouTube and Twitter, so as to reach as many of you as possible.

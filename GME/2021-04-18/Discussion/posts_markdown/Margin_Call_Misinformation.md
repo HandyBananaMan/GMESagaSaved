@@ -1,6 +1,6 @@
-#Title: Margin Call Misinformation
-#Author: KosmicKanuck
-#Post URL: [https://www.reddit.com/r/GME/comments/mtrfm8/margin_call_misinformation/](https://www.reddit.com/r/GME/comments/mtrfm8/margin_call_misinformation/)
+# Title: Margin Call Misinformation
+# Author: KosmicKanuck
+# Post URL: [https://www.reddit.com/r/GME/comments/mtrfm8/margin_call_misinformation/](https://www.reddit.com/r/GME/comments/mtrfm8/margin_call_misinformation/)
 
 
 I posted a graph of the January fake squeeze the other day and had several responses saying "things will be different this time. Once they are margin called they can't manipulate the price." This is quite misleading and untrue from an ape's perspective. 

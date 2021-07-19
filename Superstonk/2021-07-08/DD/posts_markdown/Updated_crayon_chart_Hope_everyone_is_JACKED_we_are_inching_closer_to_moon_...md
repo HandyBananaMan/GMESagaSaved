@@ -1,6 +1,6 @@
-#Title: Updated crayon chart. Hope everyone is JACKED! we are inching closer to moon launch!
-#Author: j__walla
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/og96xz/updated_crayon_chart_hope_everyone_is_jacked_we/](https://www.reddit.com/r/Superstonk/comments/og96xz/updated_crayon_chart_hope_everyone_is_jacked_we/)
+# Title: Updated crayon chart. Hope everyone is JACKED! we are inching closer to moon launch!
+# Author: j__walla
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/og96xz/updated_crayon_chart_hope_everyone_is_jacked_we/](https://www.reddit.com/r/Superstonk/comments/og96xz/updated_crayon_chart_hope_everyone_is_jacked_we/)
 
 
 Hey apes, hope the week has been going well. I know some apes like confirmation bias, so here are some updated pictures to keep you jacked! This is not financial advise and I put crayons in a blender and make crayon smoothies

@@ -1,6 +1,6 @@
-#Title: PLEASE READ: DD on Misinformation and Where FUD Starts - SPOILER ALERT: We're Accidentally Spreading our own FUD.
-#Author: ColCrabs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/](https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/)
+# Title: PLEASE READ: DD on Misinformation and Where FUD Starts - SPOILER ALERT: We're Accidentally Spreading our own FUD.
+# Author: ColCrabs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/](https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/)
 
 
 This is a combination of DD, Discussion, and Opinion.  I've given it the DD flair because I think the topic is important as is the actual DD within it. I'm also reposting this because I think it's important that we address the FUD that we're accidentally spreading ourselves, stuff like asking everyone to email the SEC but then delaying the SEC because they have to read every comment. 

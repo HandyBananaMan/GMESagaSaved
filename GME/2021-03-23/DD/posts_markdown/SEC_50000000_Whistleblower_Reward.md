@@ -1,6 +1,6 @@
-#Title: SEC $50,000,000 Whistleblower Reward
-#Author: itempleton
-#Post URL: [https://www.reddit.com/r/GME/comments/mbjf51/sec_50000000_whistleblower_reward/](https://www.reddit.com/r/GME/comments/mbjf51/sec_50000000_whistleblower_reward/)
+# Title: SEC $50,000,000 Whistleblower Reward
+# Author: itempleton
+# Post URL: [https://www.reddit.com/r/GME/comments/mbjf51/sec_50000000_whistleblower_reward/](https://www.reddit.com/r/GME/comments/mbjf51/sec_50000000_whistleblower_reward/)
 
 
 Originally posted on r/amcstock \- reposting for everyone here:

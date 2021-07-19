@@ -1,6 +1,6 @@
-#Title: All New 13F filings: data visualised for all major fund position changes and the new short players in GME
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/](https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/)
+# Title: All New 13F filings: data visualised for all major fund position changes and the new short players in GME
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/](https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/)
 
 
 Edit: I posted this to make the data available to everyone and start discussions around the 13Fs. The reported numbers are a bit meh but I don't see this as being FUD. Despite some funds selling, price has been supported. SI% is still likely 200%+ but can't be seen in 13Fs. Shorts remain fukd.

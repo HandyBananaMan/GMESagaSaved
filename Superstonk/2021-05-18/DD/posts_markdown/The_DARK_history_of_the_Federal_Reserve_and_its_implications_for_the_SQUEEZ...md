@@ -1,6 +1,6 @@
-#Title: The DARK history of the Federal Reserve and its implications for the SQUEEZE! Citadel, Melvin and and Robinhood are just puppets! Part 1
-#Author: Clashroyaleclanman
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/](https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/)
+# Title: The DARK history of the Federal Reserve and its implications for the SQUEEZE! Citadel, Melvin and and Robinhood are just puppets! Part 1
+# Author: Clashroyaleclanman
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/](https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/)
 
 
 TL;DR Repost with different title for visibility! The Fed controls our country and us in every way shape and form, nothing bad in our country has happened by accident. Money is the root of all evil. Check the video if your not a reader...[https://youtu.be/dw4xZKM9T4c](https://youtu.be/dw4xZKM9T4c)

@@ -1,6 +1,6 @@
-#Title: Ken Griffin face change memes….Probably more powerful than you realize.
-#Author: PB6223
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om6axf/ken_griffin_face_change_memesprobably_more/](https://www.reddit.com/r/GMEJungle/comments/om6axf/ken_griffin_face_change_memesprobably_more/)
+# Title: Ken Griffin face change memes….Probably more powerful than you realize.
+# Author: PB6223
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om6axf/ken_griffin_face_change_memesprobably_more/](https://www.reddit.com/r/GMEJungle/comments/om6axf/ken_griffin_face_change_memesprobably_more/)
 
 
 I can tell you having some experience in “psychological operations” that it is often used to force your opponent into making bad decisions based on their anger/frustration that results from their embarrassment/shame from the constant ridicule. 

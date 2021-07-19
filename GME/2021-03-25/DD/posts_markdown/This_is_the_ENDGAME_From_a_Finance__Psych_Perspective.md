@@ -1,6 +1,6 @@
-#Title: This is the ENDGAME: From a Finance & Psych Perspective
-#Author: zoowes
-#Post URL: [https://www.reddit.com/r/GME/comments/mcv70a/this_is_the_endgame_from_a_finance_psych/](https://www.reddit.com/r/GME/comments/mcv70a/this_is_the_endgame_from_a_finance_psych/)
+# Title: This is the ENDGAME: From a Finance & Psych Perspective
+# Author: zoowes
+# Post URL: [https://www.reddit.com/r/GME/comments/mcv70a/this_is_the_endgame_from_a_finance_psych/](https://www.reddit.com/r/GME/comments/mcv70a/this_is_the_endgame_from_a_finance_psych/)
 
 
 Obligatory 🚀🚀🚀💎🙌💎🙌💎🙌

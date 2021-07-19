@@ -1,6 +1,6 @@
-#Title: If *YOU* are getting ready to hit your first MILLION - life advice - (Please Read)
-#Author: GlitteringZucchini
-#Post URL: [https://www.reddit.com/r/GME/comments/m1uv6q/if_you_are_getting_ready_to_hit_your_first/](https://www.reddit.com/r/GME/comments/m1uv6q/if_you_are_getting_ready_to_hit_your_first/)
+# Title: If *YOU* are getting ready to hit your first MILLION - life advice - (Please Read)
+# Author: GlitteringZucchini
+# Post URL: [https://www.reddit.com/r/GME/comments/m1uv6q/if_you_are_getting_ready_to_hit_your_first/](https://www.reddit.com/r/GME/comments/m1uv6q/if_you_are_getting_ready_to_hit_your_first/)
 
 
 The higher this price goes, the more of you here in the 20's and 30's will be hitting your first million, and you'll be STOKED AS FUCK!!!

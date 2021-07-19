@@ -1,6 +1,6 @@
-#Title: A revisit to Net Capital. What is truly driving these T+21 loops, the March and June gamma runs, and how skyrocketing ETF FTDs might cause big price movements in the coming weeks.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/](https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/)
+# Title: A revisit to Net Capital. What is truly driving these T+21 loops, the March and June gamma runs, and how skyrocketing ETF FTDs might cause big price movements in the coming weeks.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/](https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: SR-DTC-2021-005 FOIA's & Option Flow Analysis
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu8uex/srdtc2021005_foias_option_flow_analysis/](https://www.reddit.com/r/Superstonk/comments/nu8uex/srdtc2021005_foias_option_flow_analysis/)
+# Title: SR-DTC-2021-005 FOIA's & Option Flow Analysis
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu8uex/srdtc2021005_foias_option_flow_analysis/](https://www.reddit.com/r/Superstonk/comments/nu8uex/srdtc2021005_foias_option_flow_analysis/)
 
 
 Hi all,

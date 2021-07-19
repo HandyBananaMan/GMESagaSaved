@@ -1,6 +1,6 @@
-#Title: ⛔ WARNING ⛔ There are several people trying to convince us $1000/share is reasonable but I want $77,777/share. So read this DIAMOND UPDATE 📣
-#Author: DavidNIO
-#Post URL: [https://www.reddit.com/r/GME/comments/lkal7q/warning_there_are_several_people_trying_to/](https://www.reddit.com/r/GME/comments/lkal7q/warning_there_are_several_people_trying_to/)
+# Title: ⛔ WARNING ⛔ There are several people trying to convince us $1000/share is reasonable but I want $77,777/share. So read this DIAMOND UPDATE 📣
+# Author: DavidNIO
+# Post URL: [https://www.reddit.com/r/GME/comments/lkal7q/warning_there_are_several_people_trying_to/](https://www.reddit.com/r/GME/comments/lkal7q/warning_there_are_several_people_trying_to/)
 
 
 Fundamentals of share trading is different to the fundamentals of a business. Business can make profit or have losses like Tesla,  However share trading is based on the following principles,  and this is core of trading. 

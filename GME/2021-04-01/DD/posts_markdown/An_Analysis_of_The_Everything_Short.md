@@ -1,6 +1,6 @@
-#Title: An Analysis of "The Everything Short"
-#Author: enthralled123
-#Post URL: [https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/](https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/)
+# Title: An Analysis of "The Everything Short"
+# Author: enthralled123
+# Post URL: [https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/](https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/)
 
 
   

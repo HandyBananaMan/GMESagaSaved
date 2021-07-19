@@ -1,6 +1,6 @@
-#Title: Can we please let some of the silent lurkers locked out of the last home have a fucking voice, please and thank you!
-#Author: wildcardponzi
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olr9wj/can_we_please_let_some_of_the_silent_lurkers/](https://www.reddit.com/r/GMEJungle/comments/olr9wj/can_we_please_let_some_of_the_silent_lurkers/)
+# Title: Can we please let some of the silent lurkers locked out of the last home have a fucking voice, please and thank you!
+# Author: wildcardponzi
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olr9wj/can_we_please_let_some_of_the_silent_lurkers/](https://www.reddit.com/r/GMEJungle/comments/olr9wj/can_we_please_let_some_of_the_silent_lurkers/)
 
 
 Sorry not sorry to fbomb, but I've had to lurk silently at ss for months now due to karma rules, which are bs btw since people (shills) paid to f up gme subs literally get paid to go get karma then go make a mess while legit quiet but inquisitive lurkers are kept silent.... 

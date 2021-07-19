@@ -1,6 +1,6 @@
-#Title: THIS IS WHEN THEY START ATTACKING R/GME. PLEASE REMEMBER TO CONTINUE UPVOTING POSITIVE GME POSTS AND DOWNVOTING NEGATIVE POSTS AS WELL AS COMMENTS. WE ARE NOT SELLING!!
-#Author: tekparadox
-#Post URL: [https://www.reddit.com/r/GME/comments/mcfxrt/this_is_when_they_start_attacking_rgme_please/](https://www.reddit.com/r/GME/comments/mcfxrt/this_is_when_they_start_attacking_rgme_please/)
+# Title: THIS IS WHEN THEY START ATTACKING R/GME. PLEASE REMEMBER TO CONTINUE UPVOTING POSITIVE GME POSTS AND DOWNVOTING NEGATIVE POSTS AS WELL AS COMMENTS. WE ARE NOT SELLING!!
+# Author: tekparadox
+# Post URL: [https://www.reddit.com/r/GME/comments/mcfxrt/this_is_when_they_start_attacking_rgme_please/](https://www.reddit.com/r/GME/comments/mcfxrt/this_is_when_they_start_attacking_rgme_please/)
 
 
 Alright you cucks, listen up 🚀🚀🚀🚀🚀🚀 (I'm not a financial advisor)

@@ -1,6 +1,6 @@
-#Title: "The Secondary Quotation Book" | FINRA's Alternative Display Facility
-#Author: Horror_Veterinar
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omwpyt/the_secondary_quotation_book_finras_alternative/](https://www.reddit.com/r/Superstonk/comments/omwpyt/the_secondary_quotation_book_finras_alternative/)
+# Title: "The Secondary Quotation Book" | FINRA's Alternative Display Facility
+# Author: Horror_Veterinar
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omwpyt/the_secondary_quotation_book_finras_alternative/](https://www.reddit.com/r/Superstonk/comments/omwpyt/the_secondary_quotation_book_finras_alternative/)
 
 
 Hello again apes!

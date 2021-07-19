@@ -1,6 +1,6 @@
-#Title: Theory on the FTD Loop Missing Link - a T+35 surge followed by an infinite T+21 loop surrounding specific option dates. Support for April 16th options T+21 theory pointing to a possible surge tomorrow, or T+35 surge on May 24th
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/)
+# Title: Theory on the FTD Loop Missing Link - a T+35 surge followed by an infinite T+21 loop surrounding specific option dates. Support for April 16th options T+21 theory pointing to a possible surge tomorrow, or T+35 surge on May 24th
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/)
 
 
 # Edit: Please take a look at Net Capital theory in which I provide Counter DD to this post:

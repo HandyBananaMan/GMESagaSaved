@@ -1,6 +1,6 @@
-#Title: Important: GME Bid-Ask Spread was $55,826 DURING MARKET HOURS today
-#Author: inverseyourself
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/](https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/)
+# Title: Important: GME Bid-Ask Spread was $55,826 DURING MARKET HOURS today
+# Author: inverseyourself
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/](https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/)
 
 
 I'm not sure what's more incredible; the trillion volume glitches or the $56k bid-ask spread on $GME.

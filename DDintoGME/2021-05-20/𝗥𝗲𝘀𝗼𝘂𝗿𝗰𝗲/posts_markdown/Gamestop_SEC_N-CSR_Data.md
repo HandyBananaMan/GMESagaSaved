@@ -1,6 +1,6 @@
-#Title: Gamestop SEC N-CSR Data
-#Author: Rehypothecator
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/](https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/)
+# Title: Gamestop SEC N-CSR Data
+# Author: Rehypothecator
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/](https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/)
 
 
 # [Link to collated SEC N-CSR Data](https://docs.google.com/spreadsheets/d/1QvnU6EcEJA2hm7539xTPYjlmjX22xH31P20ewJO_EGI/edit?usp=sharing)

@@ -1,6 +1,6 @@
-#Title: Shitadel wants to borrow 600.000.000,00$ I smell rocket fuel
-#Author: W0t4N
-#Post URL: [https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/](https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/)
+# Title: Shitadel wants to borrow 600.000.000,00$ I smell rocket fuel
+# Author: W0t4N
+# Post URL: [https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/](https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/)
 
 
 Listen up:   

@@ -1,6 +1,6 @@
-#Title: You apes NEED to understand this; I'M NOT SHILLING!
-#Author: dzramoe
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oacmt4/you_apes_need_to_understand_this_im_not_shilling/](https://www.reddit.com/r/DDintoGME/comments/oacmt4/you_apes_need_to_understand_this_im_not_shilling/)
+# Title: You apes NEED to understand this; I'M NOT SHILLING!
+# Author: dzramoe
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oacmt4/you_apes_need_to_understand_this_im_not_shilling/](https://www.reddit.com/r/DDintoGME/comments/oacmt4/you_apes_need_to_understand_this_im_not_shilling/)
 
 
 HEDGIES CAN DELAY THE M.O.A.S.S WAY MORE THAN WHAT SOME OF YOU ARE IMAGINING. You are literally fighting against some of the most financially powerful entities on Earth, and just because they are trapped and need to cover sooner or later doesn't mean they'll give up without fighting back. I'm seeing a lot of well intentioned apes hyping dates even if we should not! 

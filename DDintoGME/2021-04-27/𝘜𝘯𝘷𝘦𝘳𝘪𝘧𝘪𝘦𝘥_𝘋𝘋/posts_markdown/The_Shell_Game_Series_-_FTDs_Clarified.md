@@ -1,6 +1,6 @@
-#Title: 🚀 The Shell Game Series - FTDs Clarified
-#Author: augrr
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mzqzbm/the_shell_game_series_ftds_clarified/](https://www.reddit.com/r/DDintoGME/comments/mzqzbm/the_shell_game_series_ftds_clarified/)
+# Title: 🚀 The Shell Game Series - FTDs Clarified
+# Author: augrr
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mzqzbm/the_shell_game_series_ftds_clarified/](https://www.reddit.com/r/DDintoGME/comments/mzqzbm/the_shell_game_series_ftds_clarified/)
 
 
 # The Shell Game Series – FTDs clarified, posted on /r/DDintoGME/ for consideration.

@@ -1,6 +1,6 @@
-#Title: Looks like the recent RobinHood Class Action SI Report just proved /u/broccaaa's data. That the shorts haven't covered, that they hid SI% through Deep ITM CALLs, and SI% is a minimum of 226.42%.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/)
+# Title: Looks like the recent RobinHood Class Action SI Report just proved /u/broccaaa's data. That the shorts haven't covered, that they hid SI% through Deep ITM CALLs, and SI% is a minimum of 226.42%.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/)
 
 
 &#x200B;

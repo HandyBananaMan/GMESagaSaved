@@ -1,6 +1,6 @@
-#Title: FTD Dates - Potential T+35's to watch for
-#Author: _rerun984
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/om5aq3/ftd_dates_potential_t35s_to_watch_for/](https://www.reddit.com/r/Superstonk/comments/om5aq3/ftd_dates_potential_t35s_to_watch_for/)
+# Title: FTD Dates - Potential T+35's to watch for
+# Author: _rerun984
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/om5aq3/ftd_dates_potential_t35s_to_watch_for/](https://www.reddit.com/r/Superstonk/comments/om5aq3/ftd_dates_potential_t35s_to_watch_for/)
 
 
 In an attempt to distract the mob from the drama, i'd like to add this as a reminder of what we're seeing here.

@@ -1,6 +1,6 @@
-#Title: Technicals Show GME is Going Much Higher. Analysis on Volume, MACD, and Short Availability. 🚀🚀🚀
-#Author: Yonsei
-#Post URL: [https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/](https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/)
+# Title: Technicals Show GME is Going Much Higher. Analysis on Volume, MACD, and Short Availability. 🚀🚀🚀
+# Author: Yonsei
+# Post URL: [https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/](https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/)
 
 
 **TLDR; Volume, MACD, and Short Availability are all extremely bullish for GME. HODL 🚀🚀🚀🚀.**

@@ -1,6 +1,6 @@
-#Title: The slow bleed is designed to mess with us psychologically.
-#Author: magnusmerletaako
-#Post URL: [https://www.reddit.com/r/GME/comments/ok7jr7/the_slow_bleed_is_designed_to_mess_with_us/](https://www.reddit.com/r/GME/comments/ok7jr7/the_slow_bleed_is_designed_to_mess_with_us/)
+# Title: The slow bleed is designed to mess with us psychologically.
+# Author: magnusmerletaako
+# Post URL: [https://www.reddit.com/r/GME/comments/ok7jr7/the_slow_bleed_is_designed_to_mess_with_us/](https://www.reddit.com/r/GME/comments/ok7jr7/the_slow_bleed_is_designed_to_mess_with_us/)
 
 
 As many have explained, the price action of my and possibly your favorite stock does not reflect "normal" market activity. It is manipulated and it can be manipulated quite easily during these low volume days. This particular tactic we have seen over the last month, I am convinced, is intentionally orchestrated to make GME a boring, psychologically depressing stock. 

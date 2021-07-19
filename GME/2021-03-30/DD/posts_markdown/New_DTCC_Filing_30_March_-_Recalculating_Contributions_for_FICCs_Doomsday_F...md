@@ -1,6 +1,6 @@
-#Title: New DTCC Filing 30 March - Recalculating Contributions for FICC's Doomsday Fund (GOV1075-21)
-#Author: dejf2
-#Post URL: [https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/](https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/)
+# Title: New DTCC Filing 30 March - Recalculating Contributions for FICC's Doomsday Fund (GOV1075-21)
+# Author: dejf2
+# Post URL: [https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/](https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/)
 
 
 Today, on the 30th of March, a new DTCC filing came out, (GOV1075-21).

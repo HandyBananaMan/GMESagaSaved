@@ -1,6 +1,6 @@
-#Title: GME short will crash the market, this is my buy the dip plans for the crash. Already posted this on WallStreetbestnewbut putting it here to spread the world.
-#Author: Flacier
-#Post URL: [https://www.reddit.com/r/GME/comments/lqruwa/gme_short_will_crash_the_market_this_is_my_buy/](https://www.reddit.com/r/GME/comments/lqruwa/gme_short_will_crash_the_market_this_is_my_buy/)
+# Title: GME short will crash the market, this is my buy the dip plans for the crash. Already posted this on WallStreetbestnewbut putting it here to spread the world.
+# Author: Flacier
+# Post URL: [https://www.reddit.com/r/GME/comments/lqruwa/gme_short_will_crash_the_market_this_is_my_buy/](https://www.reddit.com/r/GME/comments/lqruwa/gme_short_will_crash_the_market_this_is_my_buy/)
 
 
 My Game plan after the GME Squeeze Crashes the Market

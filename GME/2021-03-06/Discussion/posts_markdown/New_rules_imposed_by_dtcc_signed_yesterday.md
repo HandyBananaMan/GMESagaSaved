@@ -1,6 +1,6 @@
-#Title: New rules imposed by dtcc signed yesterday!
-#Author: aquadisaster
-#Post URL: [https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/](https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/)
+# Title: New rules imposed by dtcc signed yesterday!
+# Author: aquadisaster
+# Post URL: [https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/](https://www.reddit.com/r/GME/comments/lzebps/new_rules_imposed_by_dtcc_signed_yesterday/)
 
 
 This is in no way advice and written with my favorite red crayon in my nose. Long time lurker and holder of gme.($cum 80@$120)

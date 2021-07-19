@@ -1,6 +1,6 @@
-#Title: The "Dip Machine" and the 6/2 spike..
-#Author: DracoFinance
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/](https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/)
+# Title: The "Dip Machine" and the 6/2 spike..
+# Author: DracoFinance
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/](https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/)
 
 
 The "Dip Machine" tweet seemed a little odd to me.  Most likely it was a reference to the ever-broken McD's soft-serve machines.  But maybe it wasn't.  

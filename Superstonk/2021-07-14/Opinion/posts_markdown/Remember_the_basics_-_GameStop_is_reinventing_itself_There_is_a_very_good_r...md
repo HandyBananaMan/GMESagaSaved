@@ -1,6 +1,6 @@
-#Title: Remember the basics - GameStop is reinventing itself. There is a very good reason for GameStop to keep quiet... Be patient. This has to be done right.
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok57mb/remember_the_basics_gamestop_is_reinventing/](https://www.reddit.com/r/Superstonk/comments/ok57mb/remember_the_basics_gamestop_is_reinventing/)
+# Title: Remember the basics - GameStop is reinventing itself. There is a very good reason for GameStop to keep quiet... Be patient. This has to be done right.
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok57mb/remember_the_basics_gamestop_is_reinventing/](https://www.reddit.com/r/Superstonk/comments/ok57mb/remember_the_basics_gamestop_is_reinventing/)
 
 
 **If you were turning your company around, you'd be pushing that everywhere. Any other company would be promoting the hell out if it. PR campaigns. Advertising. You name it.** 

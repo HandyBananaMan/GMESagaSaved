@@ -1,6 +1,6 @@
-#Title: Ken Griffin is not a bank manager. Citadel is not a bank, therefore the government will not bail him out! Hedgies r fuk! To the moon 🚀
-#Author: Chana_Chaat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbgmoc/ken_griffin_is_not_a_bank_manager_citadel_is_not/](https://www.reddit.com/r/Superstonk/comments/nbgmoc/ken_griffin_is_not_a_bank_manager_citadel_is_not/)
+# Title: Ken Griffin is not a bank manager. Citadel is not a bank, therefore the government will not bail him out! Hedgies r fuk! To the moon 🚀
+# Author: Chana_Chaat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbgmoc/ken_griffin_is_not_a_bank_manager_citadel_is_not/](https://www.reddit.com/r/Superstonk/comments/nbgmoc/ken_griffin_is_not_a_bank_manager_citadel_is_not/)
 
 
 We seem to forget that Ken is a hedge fund manager with his hands in a lot of cookie jars. He and his cronies have got themselves into this mess of their own accord.

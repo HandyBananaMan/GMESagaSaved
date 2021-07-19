@@ -1,6 +1,6 @@
-#Title: The SEC is keeping quiet for a reason
-#Author: Iothryps
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/](https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/)
+# Title: The SEC is keeping quiet for a reason
+# Author: Iothryps
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/](https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/)
 
 
 No idea what to flair this as, so I'm going with Discussion for now. If I need to change it, I will.

@@ -1,6 +1,6 @@
-#Title: Retail is the whale
-#Author: 33a
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/](https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/)
+# Title: Retail is the whale
+# Author: 33a
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/](https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/)
 
 
 Here's a really simple method to estimate the amount of shares that retail owns in GME, in the [spirit of a Fermi estimate](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).  Summed with [the 13f/g filings](http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&sdkVersion=2.59.0), this gives a lower bound on the total number of shares currently in circulation as well as the short interest.  Therefore, figuring this out would be great to help convince skeptics and shut down shills/FUD.

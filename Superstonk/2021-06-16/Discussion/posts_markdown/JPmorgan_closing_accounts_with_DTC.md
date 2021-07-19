@@ -1,6 +1,6 @@
-#Title: JPmorgan closing accounts with DTC
-#Author: Jufloz
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/](https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/)
+# Title: JPmorgan closing accounts with DTC
+# Author: Jufloz
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/](https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/)
 
 
 Updated: I think I understand what it means.

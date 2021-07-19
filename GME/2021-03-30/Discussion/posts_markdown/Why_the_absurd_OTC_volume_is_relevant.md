@@ -1,6 +1,6 @@
-#Title: Why the absurd OTC volume is relevant
-#Author: magnuswho
-#Post URL: [https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/](https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/)
+# Title: Why the absurd OTC volume is relevant
+# Author: magnuswho
+# Post URL: [https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/](https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/)
 
 
 Hi All

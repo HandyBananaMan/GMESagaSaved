@@ -1,6 +1,6 @@
-#Title: A High-Frequency Trading Guidebook to Manipulating GME
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/](https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/)
+# Title: A High-Frequency Trading Guidebook to Manipulating GME
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/](https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/)
 
 
 Your resident Analytical Ape here to not rain on a parade, for once.

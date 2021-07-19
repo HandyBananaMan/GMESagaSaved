@@ -1,6 +1,6 @@
-#Title: Ultimate Wargame Theory: The Beginning - Total Return Swaps, RRPs, and the Voltron Fund
-#Author: Blanderson_Snooper
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/](https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/)
+# Title: Ultimate Wargame Theory: The Beginning - Total Return Swaps, RRPs, and the Voltron Fund
+# Author: Blanderson_Snooper
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/](https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/)
 
 
 I have been working on the Ultimate Wargame Theory for almost two months now. Then today I had an aha moment:

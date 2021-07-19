@@ -1,6 +1,6 @@
-#Title: B.B.B.B.B. to start the M.O.A.S.S ? Massive upside to restest $350 incoming IMO [Short TA]
-#Author: katarinawinemixer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/](https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/)
+# Title: B.B.B.B.B. to start the M.O.A.S.S ? Massive upside to restest $350 incoming IMO [Short TA]
+# Author: katarinawinemixer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/](https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/)
 
 
 **TL;DR: 1D bounced off the bottom Bollinger band today which has resulted in an upside reversal 100% of the time since JAN 2020.**

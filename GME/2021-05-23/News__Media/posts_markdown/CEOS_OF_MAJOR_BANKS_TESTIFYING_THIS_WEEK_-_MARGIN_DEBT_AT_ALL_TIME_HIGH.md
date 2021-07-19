@@ -1,6 +1,6 @@
-#Title: CEO'S OF MAJOR BANKS TESTIFYING THIS WEEK - MARGIN DEBT AT ALL TIME HIGH
-#Author: Freadom6
-#Post URL: [https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/)
+# Title: CEO'S OF MAJOR BANKS TESTIFYING THIS WEEK - MARGIN DEBT AT ALL TIME HIGH
+# Author: Freadom6
+# Post URL: [https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/)
 
 
 Edit 1: Was pointed out that I should include THE COMMITTEE ON BANKING, HOUSING, AND URBAN AFFAIRS will meet REMOTELY to conduct a hearing entitled, “Annual Oversight of Wall Street Firms.” which will include the same bank CEO'S listed below. Here's the link to the live stream:

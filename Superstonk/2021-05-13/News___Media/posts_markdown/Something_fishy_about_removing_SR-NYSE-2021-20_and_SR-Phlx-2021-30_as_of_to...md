@@ -1,6 +1,6 @@
-#Title: Something fishy about removing SR-NYSE-2021-20 and SR-Phlx-2021-30 as of today
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/](https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/)
+# Title: Something fishy about removing SR-NYSE-2021-20 and SR-Phlx-2021-30 as of today
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/](https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/)
 
 
 In SR-PHLX-2021-30 it is updating this rule

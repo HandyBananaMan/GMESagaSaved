@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Wednesday 05-12-2021- CARL HAGBERG PROXY VOTING AMA DAY 🚀🚀🚀🚀 THIS ONE WILL JACK EVERY TEAT!!!! 💎🙌
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/](https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/)
+# Title: Superstonk Daily DD- Wednesday 05-12-2021- CARL HAGBERG PROXY VOTING AMA DAY 🚀🚀🚀🚀 THIS ONE WILL JACK EVERY TEAT!!!! 💎🙌
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/](https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/)
 
 
 &#x200B;

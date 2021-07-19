@@ -1,6 +1,6 @@
-#Title: 🚨 STOP THE MISINFO!!!! Ryan Cohen has NOT bought shares... (yet). 🚨
-#Author: Prof_Dankmemes
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/](https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/)
+# Title: 🚨 STOP THE MISINFO!!!! Ryan Cohen has NOT bought shares... (yet). 🚨
+# Author: Prof_Dankmemes
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/](https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/)
 
 
 There's screenshots going around that are incorrect.

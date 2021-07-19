@@ -1,6 +1,6 @@
-#Title: Banks raise 34-billion to comply with SEC rule effective today
-#Author: chiefoogabooga
-#Post URL: [https://www.reddit.com/r/GME/comments/mw5k76/banks_raise_34billion_to_comply_with_sec_rule/](https://www.reddit.com/r/GME/comments/mw5k76/banks_raise_34billion_to_comply_with_sec_rule/)
+# Title: Banks raise 34-billion to comply with SEC rule effective today
+# Author: chiefoogabooga
+# Post URL: [https://www.reddit.com/r/GME/comments/mw5k76/banks_raise_34billion_to_comply_with_sec_rule/](https://www.reddit.com/r/GME/comments/mw5k76/banks_raise_34billion_to_comply_with_sec_rule/)
 
 
 OK, so there has been a lot of misinformation about the banks being required to have cash on hand to cover the value of their loaned securities. Many people said it's just a suggestion because of the no-action letter that went out October 22nd, 2020. That letter absolutely was something the SEC wasn't going to punish the Hedge Funds for THEN. But it did set a deadline for when they would begin recommending action be taken, and that date is today.

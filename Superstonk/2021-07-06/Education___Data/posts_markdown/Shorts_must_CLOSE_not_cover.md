@@ -1,6 +1,6 @@
-#Title: Shorts must CLOSE, not cover
-#Author: that_bermudian
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oewmmx/shorts_must_close_not_cover/](https://www.reddit.com/r/Superstonk/comments/oewmmx/shorts_must_close_not_cover/)
+# Title: Shorts must CLOSE, not cover
+# Author: that_bermudian
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oewmmx/shorts_must_close_not_cover/](https://www.reddit.com/r/Superstonk/comments/oewmmx/shorts_must_close_not_cover/)
 
 
 I’ve seen this being said since January. 

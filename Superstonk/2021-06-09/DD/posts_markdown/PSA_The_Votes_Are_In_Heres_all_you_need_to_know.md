@@ -1,6 +1,6 @@
-#Title: PSA: The Votes Are In! Here's all you need to know.
-#Author: greysweatseveryday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwc4mi/psa_the_votes_are_in_heres_all_you_need_to_know/](https://www.reddit.com/r/Superstonk/comments/nwc4mi/psa_the_votes_are_in_heres_all_you_need_to_know/)
+# Title: PSA: The Votes Are In! Here's all you need to know.
+# Author: greysweatseveryday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwc4mi/psa_the_votes_are_in_heres_all_you_need_to_know/](https://www.reddit.com/r/Superstonk/comments/nwc4mi/psa_the_votes_are_in_heres_all_you_need_to_know/)
 
 
 Hi there! I don't have expertise with TA, graphs or rectal bananas (why would I need to say that?), but I do have experience with corporate legal matters.

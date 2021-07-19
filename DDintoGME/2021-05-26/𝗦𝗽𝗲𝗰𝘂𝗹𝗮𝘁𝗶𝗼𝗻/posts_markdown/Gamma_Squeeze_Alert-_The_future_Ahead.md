@@ -1,6 +1,6 @@
-#Title: Gamma Squeeze Alert- The future Ahead
-#Author: thomas798354
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/](https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/)
+# Title: Gamma Squeeze Alert- The future Ahead
+# Author: thomas798354
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/](https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/)
 
 
 Hey apes, back with another spicy DD if you don't know me I like dates and I have been pretty spot on at reading events.  

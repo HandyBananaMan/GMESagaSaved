@@ -1,6 +1,6 @@
-#Title: Stop getting hyped for a 10 dollar increase. Manage your emotions now, or you'll lose your shit in the tens of thousands.
-#Author: xaiel420
-#Post URL: [https://www.reddit.com/r/GME/comments/m5h82b/stop_getting_hyped_for_a_10_dollar_increase/](https://www.reddit.com/r/GME/comments/m5h82b/stop_getting_hyped_for_a_10_dollar_increase/)
+# Title: Stop getting hyped for a 10 dollar increase. Manage your emotions now, or you'll lose your shit in the tens of thousands.
+# Author: xaiel420
+# Post URL: [https://www.reddit.com/r/GME/comments/m5h82b/stop_getting_hyped_for_a_10_dollar_increase/](https://www.reddit.com/r/GME/comments/m5h82b/stop_getting_hyped_for_a_10_dollar_increase/)
 
 
 Dont get hyped. Get focused. This is not the time to be all over the place with these tiny ups and downs. Everyone screaming diamond hands but when shit gets real you wont have diamond fuck all, IF you cant get a handle on it now.

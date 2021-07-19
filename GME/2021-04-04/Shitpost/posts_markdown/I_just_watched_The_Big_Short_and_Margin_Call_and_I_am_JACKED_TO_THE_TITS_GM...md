@@ -1,6 +1,6 @@
-#Title: I just watched ‘The Big Short’ and ‘Margin Call’ and I am JACKED TO THE TITS. #GME to the moon 🚀🚀🚀🚀🚀
-#Author: Dazzling_Staff
-#Post URL: [https://www.reddit.com/r/GME/comments/mk56e2/i_just_watched_the_big_short_and_margin_call_and/](https://www.reddit.com/r/GME/comments/mk56e2/i_just_watched_the_big_short_and_margin_call_and/)
+# Title: I just watched ‘The Big Short’ and ‘Margin Call’ and I am JACKED TO THE TITS. #GME to the moon 🚀🚀🚀🚀🚀
+# Author: Dazzling_Staff
+# Post URL: [https://www.reddit.com/r/GME/comments/mk56e2/i_just_watched_the_big_short_and_margin_call_and/](https://www.reddit.com/r/GME/comments/mk56e2/i_just_watched_the_big_short_and_margin_call_and/)
 
 
 HODL. DIAMOND HANDS. 🙌🏼💎🚀🦍

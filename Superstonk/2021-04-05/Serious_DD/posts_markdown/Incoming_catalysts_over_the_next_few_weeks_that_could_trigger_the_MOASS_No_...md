@@ -1,6 +1,6 @@
-#Title: Incoming catalysts over the next few weeks that could trigger the MOASS (No guarantees, and no guaranteed dates!)
-#Author: phoenixfenix
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpwco/incoming_catalysts_over_the_next_few_weeks_that/](https://www.reddit.com/r/Superstonk/comments/mkpwco/incoming_catalysts_over_the_next_few_weeks_that/)
+# Title: Incoming catalysts over the next few weeks that could trigger the MOASS (No guarantees, and no guaranteed dates!)
+# Author: phoenixfenix
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpwco/incoming_catalysts_over_the_next_few_weeks_that/](https://www.reddit.com/r/Superstonk/comments/mkpwco/incoming_catalysts_over_the_next_few_weeks_that/)
 
 
 This is the second time this year I’ve had to abandon a sub because of Mod takeover. Let’s try to move on from what happened this weekend, and focus on what matters. DD. I’m a lurker, but I’m posting this in the hopes of getting us back on track.  

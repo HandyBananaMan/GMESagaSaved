@@ -1,6 +1,6 @@
-#Title: GMEJungle has a problem: conspiracy theories
-#Author: celticsfan34
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/on69ah/gmejungle_has_a_problem_conspiracy_theories/](https://www.reddit.com/r/GMEJungle/comments/on69ah/gmejungle_has_a_problem_conspiracy_theories/)
+# Title: GMEJungle has a problem: conspiracy theories
+# Author: celticsfan34
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/on69ah/gmejungle_has_a_problem_conspiracy_theories/](https://www.reddit.com/r/GMEJungle/comments/on69ah/gmejungle_has_a_problem_conspiracy_theories/)
 
 
 After reading a lot of GME Jungle posts I can better understand the struggle of moderating a sub like this. It's tough to know what's real and what isn't, and make sure you remove only the inaccurate posts. I assume this will get better once we add more mods, but for the time being it's open season for shills and FUD. I'm concerned about the number of completely insane conspiracy theories I've seen posted and upvoted here. On top of that all of the top comments on these conspiracy posts are supportive, and people pointing out the obvious BS are downvoted to the bottom.

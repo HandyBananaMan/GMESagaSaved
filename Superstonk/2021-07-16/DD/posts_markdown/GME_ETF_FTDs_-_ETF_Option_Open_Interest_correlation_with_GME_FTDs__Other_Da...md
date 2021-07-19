@@ -1,6 +1,6 @@
-#Title: GME ETF FTDs - ETF Option Open Interest correlation with GME FTDs & Other Datas
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olgz2u/gme_etf_ftds_etf_option_open_interest_correlation/](https://www.reddit.com/r/Superstonk/comments/olgz2u/gme_etf_ftds_etf_option_open_interest_correlation/)
+# Title: GME ETF FTDs - ETF Option Open Interest correlation with GME FTDs & Other Datas
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olgz2u/gme_etf_ftds_etf_option_open_interest_correlation/](https://www.reddit.com/r/Superstonk/comments/olgz2u/gme_etf_ftds_etf_option_open_interest_correlation/)
 
 
 Hello ape people. I'm going to show you stuff today. My [Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)

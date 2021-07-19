@@ -1,6 +1,6 @@
-#Title: Update on DTCC rule NSCC-2021-801
-#Author: Akstika
-#Post URL: [https://www.reddit.com/r/GME/comments/mdqzdh/update_on_dtcc_rule_nscc2021801/](https://www.reddit.com/r/GME/comments/mdqzdh/update_on_dtcc_rule_nscc2021801/)
+# Title: Update on DTCC rule NSCC-2021-801
+# Author: Akstika
+# Post URL: [https://www.reddit.com/r/GME/comments/mdqzdh/update_on_dtcc_rule_nscc2021801/](https://www.reddit.com/r/GME/comments/mdqzdh/update_on_dtcc_rule_nscc2021801/)
 
 
 Let's talk again about DTCC rule filings. 

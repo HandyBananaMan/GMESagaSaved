@@ -1,6 +1,6 @@
-#Title: Negative beta against Dow Jones indicates CONNECTION between Archegos and GameStop + CALLING any ape with a BLOOMBERG TERMINAL please tell me what the beta is today against the S&P 500
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/GME/comments/mgew4b/negative_beta_against_dow_jones_indicates/](https://www.reddit.com/r/GME/comments/mgew4b/negative_beta_against_dow_jones_indicates/)
+# Title: Negative beta against Dow Jones indicates CONNECTION between Archegos and GameStop + CALLING any ape with a BLOOMBERG TERMINAL please tell me what the beta is today against the S&P 500
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/GME/comments/mgew4b/negative_beta_against_dow_jones_indicates/](https://www.reddit.com/r/GME/comments/mgew4b/negative_beta_against_dow_jones_indicates/)
 
 
 MSM is not highlighting any connection between the "liquidations" and GME. Also others are generally unsure whether there is any connection at all. This is reasonable because it is a big intuitive jump to say they are connected without any evidence. But look at the negative beta against the **Dow Jones** (i.e. not against the S&P 500).

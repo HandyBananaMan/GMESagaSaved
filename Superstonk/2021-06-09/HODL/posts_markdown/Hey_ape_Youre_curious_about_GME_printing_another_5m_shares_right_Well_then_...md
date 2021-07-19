@@ -1,6 +1,6 @@
-#Title: Hey, ape. You're curious about GME printing another 5m shares, right? Well then click me.
-#Author: Rahf
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6o78/hey_ape_youre_curious_about_gme_printing_another/](https://www.reddit.com/r/Superstonk/comments/nw6o78/hey_ape_youre_curious_about_gme_printing_another/)
+# Title: Hey, ape. You're curious about GME printing another 5m shares, right? Well then click me.
+# Author: Rahf
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6o78/hey_ape_youre_curious_about_gme_printing_another/](https://www.reddit.com/r/Superstonk/comments/nw6o78/hey_ape_youre_curious_about_gme_printing_another/)
 
 
 TL;DR Gamestop announced they have an option to print 5 million shares. Find the link in the other hundred threads about this. I'll just provide some other information.

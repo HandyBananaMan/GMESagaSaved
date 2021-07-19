@@ -1,6 +1,6 @@
-#Title: Amazon, Bain Capital and Citadel Bust Out the Competition (Crosspost)
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/)
+# Title: Amazon, Bain Capital and Citadel Bust Out the Competition (Crosspost)
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/)
 
 
 All credit to [u/jumpster81](https://www.reddit.com/user/jumpster81/). Text follows, pics are omitted.  To see them, go to original post: [https://www.reddit.com/r/Superstonk/duplicates/np33hr/amazon\_bain\_capital\_and\_citadel\_bust\_out\_the/](https://www.reddit.com/r/Superstonk/duplicates/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)

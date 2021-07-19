@@ -1,6 +1,6 @@
-#Title: Hank Returns.... WITH SOME FTD CYCLE DD
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/](https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/)
+# Title: Hank Returns.... WITH SOME FTD CYCLE DD
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/](https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/)
 
 
 **\*\*\*\*\*\*\*\*\*\*\*\*\*I am not a financial advisor, this is not financial advice\*\*\*\*\*\*\*\*\*\*\*\*\***

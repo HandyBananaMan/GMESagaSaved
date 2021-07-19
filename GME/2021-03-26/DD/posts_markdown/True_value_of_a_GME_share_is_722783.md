@@ -1,6 +1,6 @@
-#Title: True value of a GME share is $7,227.83
-#Author: AlternativeNo2917
-#Post URL: [https://www.reddit.com/r/GME/comments/me2dm1/true_value_of_a_gme_share_is_722783/](https://www.reddit.com/r/GME/comments/me2dm1/true_value_of_a_gme_share_is_722783/)
+# Title: True value of a GME share is $7,227.83
+# Author: AlternativeNo2917
+# Post URL: [https://www.reddit.com/r/GME/comments/me2dm1/true_value_of_a_gme_share_is_722783/](https://www.reddit.com/r/GME/comments/me2dm1/true_value_of_a_gme_share_is_722783/)
 
 
 EDIT: Holy shit did you guys blow this up. Thank you for all the awards as well jesus christ! I had to restart my phone this morning because I was overloaded with notifications and messages, I am trying to reply to all but it is kinda crazy. As much as I appreciate all the awards save your bananas for tickets to the moon! Also as I didn't expect this to blow up I was just kinda rough with my working out as I typed this up on my phone before going to bed so I will now add more detail to avoid the same questions being asked.

@@ -1,6 +1,6 @@
-#Title: Wargame Theory II: The Mother of All FUD (MOAFUD)
-#Author: Blanderson_Snooper
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)
+# Title: Wargame Theory II: The Mother of All FUD (MOAFUD)
+# Author: Blanderson_Snooper
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)
 
 
 Blanderson Snooper here, back with another page of toilet reading for all you Apes. Does an Ape shit in the woods? Only if there's wifi.

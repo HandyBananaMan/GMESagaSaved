@@ -1,6 +1,6 @@
-#Title: I’m here for the community, not the mods. And honestly, I’m still slightly skeptical of pink just like I am all the other mods. But no amount of skepticism or drama will ever change the GME investment thesis.
-#Author: Ryantacular
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om13zd/im_here_for_the_community_not_the_mods_and/](https://www.reddit.com/r/GMEJungle/comments/om13zd/im_here_for_the_community_not_the_mods_and/)
+# Title: I’m here for the community, not the mods. And honestly, I’m still slightly skeptical of pink just like I am all the other mods. But no amount of skepticism or drama will ever change the GME investment thesis.
+# Author: Ryantacular
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om13zd/im_here_for_the_community_not_the_mods_and/](https://www.reddit.com/r/GMEJungle/comments/om13zd/im_here_for_the_community_not_the_mods_and/)
 
 
 So I never trusted any of the Superstonk mods to begin with. 

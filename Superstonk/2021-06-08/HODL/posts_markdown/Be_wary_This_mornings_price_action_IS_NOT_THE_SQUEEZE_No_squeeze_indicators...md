@@ -1,6 +1,6 @@
-#Title: Be wary! This morning's price action IS NOT THE SQUEEZE. No squeeze indicators have been hit!
-#Author: DigitalWizrd
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv4s4o/be_wary_this_mornings_price_action_is_not_the/](https://www.reddit.com/r/Superstonk/comments/nv4s4o/be_wary_this_mornings_price_action_is_not_the/)
+# Title: Be wary! This morning's price action IS NOT THE SQUEEZE. No squeeze indicators have been hit!
+# Author: DigitalWizrd
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv4s4o/be_wary_this_mornings_price_action_is_not_the/](https://www.reddit.com/r/Superstonk/comments/nv4s4o/be_wary_this_mornings_price_action_is_not_the/)
 
 
 Ok so the price is looking dope today right? 

@@ -1,6 +1,6 @@
-#Title: Goldman Sachs & Why todays earning release was good for GME
-#Author: Munoz10594
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/)
+# Title: Goldman Sachs & Why todays earning release was good for GME
+# Author: Munoz10594
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/)
 
 
 Alright. So my last post kind of blew up, and I'm glad it got the conversation started about the earnings reports coming out this week from the banks. Got some requests to follow it up with a run-down of other earnings. Might not be able to do them all in timely fashion, but I'll do my best.

@@ -1,6 +1,6 @@
-#Title: Blood Red, No Liquidity, and No Friends in Sight
-#Author: BrewsCampbell
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ng86v2/blood_red_no_liquidity_and_no_friends_in_sight/](https://www.reddit.com/r/Superstonk/comments/ng86v2/blood_red_no_liquidity_and_no_friends_in_sight/)
+# Title: Blood Red, No Liquidity, and No Friends in Sight
+# Author: BrewsCampbell
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ng86v2/blood_red_no_liquidity_and_no_friends_in_sight/](https://www.reddit.com/r/Superstonk/comments/ng86v2/blood_red_no_liquidity_and_no_friends_in_sight/)
 
 
 Sup Apes. Long-time lurker, some-time commenter, first-time poster.

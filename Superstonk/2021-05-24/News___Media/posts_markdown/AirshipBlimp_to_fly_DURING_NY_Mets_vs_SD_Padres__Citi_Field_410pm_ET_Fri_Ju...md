@@ -1,6 +1,6 @@
-#Title: Airship/Blimp to fly **DURING** NY Mets vs SD Padres @ Citi Field 4:10pm ET Fri, Jun 11th 2021. Message targeting NAKED SHORT SELLERS/HFS and promoting r/Superstonk to help spread awareness FOR THE PEOPLE!! This is our time and maybe even our LAST to STAND THE F*CK UP!! **INQUIRY/QUOTE COMING SOON**
-#Author: Macnassmat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/](https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/)
+# Title: Airship/Blimp to fly **DURING** NY Mets vs SD Padres @ Citi Field 4:10pm ET Fri, Jun 11th 2021. Message targeting NAKED SHORT SELLERS/HFS and promoting r/Superstonk to help spread awareness FOR THE PEOPLE!! This is our time and maybe even our LAST to STAND THE F*CK UP!! **INQUIRY/QUOTE COMING SOON**
+# Author: Macnassmat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/](https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/)
 
 
 &#x200B;

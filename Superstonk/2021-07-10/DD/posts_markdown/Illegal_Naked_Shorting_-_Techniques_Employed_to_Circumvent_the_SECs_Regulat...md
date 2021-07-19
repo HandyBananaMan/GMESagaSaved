@@ -1,6 +1,6 @@
-#Title: Illegal Naked Shorting - Techniques Employed to Circumvent the SEC’s Regulation SHO for Shorted Stock, FTDs, Borrow Lists, Threshold Securities through Continuous Net Settlement System and Stock Borrowing Programs
-#Author: apegoneinsane
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohivio/illegal_naked_shorting_techniques_employed_to/](https://www.reddit.com/r/Superstonk/comments/ohivio/illegal_naked_shorting_techniques_employed_to/)
+# Title: Illegal Naked Shorting - Techniques Employed to Circumvent the SEC’s Regulation SHO for Shorted Stock, FTDs, Borrow Lists, Threshold Securities through Continuous Net Settlement System and Stock Borrowing Programs
+# Author: apegoneinsane
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohivio/illegal_naked_shorting_techniques_employed_to/](https://www.reddit.com/r/Superstonk/comments/ohivio/illegal_naked_shorting_techniques_employed_to/)
 
 
 **Reference**: Full credit to Larry Smith that covered this back in 2019.

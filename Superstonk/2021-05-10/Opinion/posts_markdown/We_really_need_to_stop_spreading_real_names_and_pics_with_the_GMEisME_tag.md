@@ -1,6 +1,6 @@
-#Title: We really need to stop spreading real names and pics with the GMEisME tag
-#Author: neoquant
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n913ft/we_really_need_to_stop_spreading_real_names_and/](https://www.reddit.com/r/Superstonk/comments/n913ft/we_really_need_to_stop_spreading_real_names_and/)
+# Title: We really need to stop spreading real names and pics with the GMEisME tag
+# Author: neoquant
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n913ft/we_really_need_to_stop_spreading_real_names_and/](https://www.reddit.com/r/Superstonk/comments/n913ft/we_really_need_to_stop_spreading_real_names_and/)
 
 
 Well. Imagine GME hits 10mil a share and then you are a very vulnerable target. The tag intention is good, but I think we really need to stop spreading our real pics and accounts.

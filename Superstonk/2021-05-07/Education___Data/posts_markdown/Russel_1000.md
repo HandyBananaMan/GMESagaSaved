@@ -1,6 +1,6 @@
-#Title: Russel 1000
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/](https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/)
+# Title: Russel 1000
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/](https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/)
 
 
 ***Not financial advice.***

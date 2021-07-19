@@ -1,6 +1,6 @@
-#Title: DFV's Cat Uno Tweet, and What he was Trying to Tell us About the 21 FTD Cycle - FTD Cycle Finally Explained DD
-#Author: Insertions_Coma
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/)
+# Title: DFV's Cat Uno Tweet, and What he was Trying to Tell us About the 21 FTD Cycle - FTD Cycle Finally Explained DD
+# Author: Insertions_Coma
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/)
 
 
 First off I bet you are wondering how you could possibly have a DD post on a tweet. Well, the tweet in question is the one tweet from DFV that I believe he was trying to drop us a major hint on what he is looking at. But nobody here seemed to ever be able to decipher it.

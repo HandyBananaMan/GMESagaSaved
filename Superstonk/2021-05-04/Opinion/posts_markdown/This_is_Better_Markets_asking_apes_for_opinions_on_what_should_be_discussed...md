@@ -1,6 +1,6 @@
-#Title: This is Better Markets asking apes for opinions on what should be discussed during the upcoming hearing on Thu. Remember Dennis Kelleher? How could a post like this get so little attention and appreciation?
-#Author: jligalaxy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n57ks0/this_is_better_markets_asking_apes_for_opinions/](https://www.reddit.com/r/Superstonk/comments/n57ks0/this_is_better_markets_asking_apes_for_opinions/)
+# Title: This is Better Markets asking apes for opinions on what should be discussed during the upcoming hearing on Thu. Remember Dennis Kelleher? How could a post like this get so little attention and appreciation?
+# Author: jligalaxy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n57ks0/this_is_better_markets_asking_apes_for_opinions/](https://www.reddit.com/r/Superstonk/comments/n57ks0/this_is_better_markets_asking_apes_for_opinions/)
 
 
 &#x200B;

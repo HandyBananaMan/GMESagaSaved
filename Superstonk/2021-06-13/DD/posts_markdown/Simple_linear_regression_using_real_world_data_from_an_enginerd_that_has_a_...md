@@ -1,6 +1,6 @@
-#Title: Simple linear regression using real world data from an enginerd that has a hard on for statistical modeling and analysis.
-#Author: PWNWTFBBQ
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/](https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/)
+# Title: Simple linear regression using real world data from an enginerd that has a hard on for statistical modeling and analysis.
+# Author: PWNWTFBBQ
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/](https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/)
 
 
 # Debunked: Incorrect Assumptions

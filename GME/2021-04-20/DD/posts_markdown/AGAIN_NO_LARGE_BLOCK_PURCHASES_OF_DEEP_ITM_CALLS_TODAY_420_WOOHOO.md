@@ -1,6 +1,6 @@
-#Title: AGAIN NO LARGE BLOCK PURCHASES OF DEEP ITM CALLS TODAY (4/20 WOOHOO!)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/mv2jmo/again_no_large_block_purchases_of_deep_itm_calls/](https://www.reddit.com/r/GME/comments/mv2jmo/again_no_large_block_purchases_of_deep_itm_calls/)
+# Title: AGAIN NO LARGE BLOCK PURCHASES OF DEEP ITM CALLS TODAY (4/20 WOOHOO!)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/mv2jmo/again_no_large_block_purchases_of_deep_itm_calls/](https://www.reddit.com/r/GME/comments/mv2jmo/again_no_large_block_purchases_of_deep_itm_calls/)
 
 
 Welcome back to another episode of DANS DEEP ITM CALLS, I'm your host [u/Dan\_Bren](https://www.reddit.com/u/Dan_Bren/). I hope everyone is having a happy holiday, let's get right into it.

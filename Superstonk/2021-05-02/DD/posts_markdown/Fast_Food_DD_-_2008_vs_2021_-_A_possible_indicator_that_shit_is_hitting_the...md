@@ -1,6 +1,6 @@
-#Title: Fast Food DD - 2008 vs 2021 - A possible indicator that shit is hitting the fan//Confirmation Bias//I saw an ape suggest watching "Inside Job" and I saw something!
-#Author: grogosaur83
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/](https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/)
+# Title: Fast Food DD - 2008 vs 2021 - A possible indicator that shit is hitting the fan//Confirmation Bias//I saw an ape suggest watching "Inside Job" and I saw something!
+# Author: grogosaur83
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/](https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/)
 
 
 Dear Apes

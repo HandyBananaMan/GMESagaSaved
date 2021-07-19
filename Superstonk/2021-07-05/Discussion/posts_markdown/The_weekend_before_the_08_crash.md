@@ -1,6 +1,6 @@
-#Title: The weekend before the ‘08 crash?
-#Author: Monnarc1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oedjv5/the_weekend_before_the_08_crash/](https://www.reddit.com/r/Superstonk/comments/oedjv5/the_weekend_before_the_08_crash/)
+# Title: The weekend before the ‘08 crash?
+# Author: Monnarc1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oedjv5/the_weekend_before_the_08_crash/](https://www.reddit.com/r/Superstonk/comments/oedjv5/the_weekend_before_the_08_crash/)
 
 
 So from what I remember reading. Before the 2008 crash, all the business was done over the weekend and then on the following Monday. Everything was set to be destroyed. 

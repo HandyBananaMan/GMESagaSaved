@@ -1,6 +1,6 @@
-#Title: Knight Capital Group....the Precursor to Citadel (Part 1)
-#Author: Alert_Piano341
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/)
+# Title: Knight Capital Group....the Precursor to Citadel (Part 1)
+# Author: Alert_Piano341
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/)
 
 
 &#x200B;

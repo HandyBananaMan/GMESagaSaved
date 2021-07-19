@@ -1,6 +1,6 @@
-#Title: The Big Short 2.0 is Happening Right in Front of Our Eyes, but this time, it's in the Commercial Mortgage-Backed Securities Market; and how it might relate to $GME
-#Author: bmwannonymous
-#Post URL: [https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/](https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/)
+# Title: The Big Short 2.0 is Happening Right in Front of Our Eyes, but this time, it's in the Commercial Mortgage-Backed Securities Market; and how it might relate to $GME
+# Author: bmwannonymous
+# Post URL: [https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/](https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/)
 
 
 Before reading this, I highly recommend watching this video (only 13 minutes):

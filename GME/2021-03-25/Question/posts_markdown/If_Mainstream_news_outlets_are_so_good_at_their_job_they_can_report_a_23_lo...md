@@ -1,6 +1,6 @@
-#Title: If Mainstream news outlets are so good at their job they can report a 23% loss 10 minutes before it happens, how come they can't report a 35% gain 2 hours in the making? 🤔
-#Author: nattokonbu
-#Post URL: [https://www.reddit.com/r/GME/comments/md1gof/if_mainstream_news_outlets_are_so_good_at_their/](https://www.reddit.com/r/GME/comments/md1gof/if_mainstream_news_outlets_are_so_good_at_their/)
+# Title: If Mainstream news outlets are so good at their job they can report a 23% loss 10 minutes before it happens, how come they can't report a 35% gain 2 hours in the making? 🤔
+# Author: nattokonbu
+# Post URL: [https://www.reddit.com/r/GME/comments/md1gof/if_mainstream_news_outlets_are_so_good_at_their/](https://www.reddit.com/r/GME/comments/md1gof/if_mainstream_news_outlets_are_so_good_at_their/)
 
 
 I'm just asking questions guys.

@@ -1,6 +1,6 @@
-#Title: Why the FTD cycle didn't happen - Hanky's take
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/](https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/)
+# Title: Why the FTD cycle didn't happen - Hanky's take
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/](https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

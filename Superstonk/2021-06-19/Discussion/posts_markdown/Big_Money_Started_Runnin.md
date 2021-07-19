@@ -1,6 +1,6 @@
-#Title: Big Money Started Runnin
-#Author: bloodhound1144
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3i7j5/big_money_started_runnin/](https://www.reddit.com/r/Superstonk/comments/o3i7j5/big_money_started_runnin/)
+# Title: Big Money Started Runnin
+# Author: bloodhound1144
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3i7j5/big_money_started_runnin/](https://www.reddit.com/r/Superstonk/comments/o3i7j5/big_money_started_runnin/)
 
 
 Edit 2: Thank you for all the awards. They really aren't necessary. Also, reddit is a little screwy today. I like to say thank you to everyone who sends me an award. Some awards that I've been given didn't come with a notification. So, I will say Thank You here.

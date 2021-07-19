@@ -1,6 +1,6 @@
-#Title: Alright fuckers, cashed in half my ETH and 3/4 of my BTC for this madness. My GME position has always been conservative up until now (>100 shares). But the DD is amazing, esp today’s negative beta posts, so I’m truly fucking YOLO’ing! Let’s go fuckers!
-#Author: serious-g
-#Post URL: [https://www.reddit.com/r/GME/comments/m6p4n0/alright_fuckers_cashed_in_half_my_eth_and_34_of/](https://www.reddit.com/r/GME/comments/m6p4n0/alright_fuckers_cashed_in_half_my_eth_and_34_of/)
+# Title: Alright fuckers, cashed in half my ETH and 3/4 of my BTC for this madness. My GME position has always been conservative up until now (>100 shares). But the DD is amazing, esp today’s negative beta posts, so I’m truly fucking YOLO’ing! Let’s go fuckers!
+# Author: serious-g
+# Post URL: [https://www.reddit.com/r/GME/comments/m6p4n0/alright_fuckers_cashed_in_half_my_eth_and_34_of/](https://www.reddit.com/r/GME/comments/m6p4n0/alright_fuckers_cashed_in_half_my_eth_and_34_of/)
 
 
 I mean why the fuck not. I’m not even flinching on these dips anymore and YOLO has taken on a whole new meaning!  Let’s go you fucking retarded apes!!

@@ -1,6 +1,6 @@
-#Title: GME Ownership Analysis 5/28- Hedgies R FuQ
-#Author: H3RB28
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/](https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/)
+# Title: GME Ownership Analysis 5/28- Hedgies R FuQ
+# Author: H3RB28
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/](https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/)
 
 
 Hello fellow Apes,

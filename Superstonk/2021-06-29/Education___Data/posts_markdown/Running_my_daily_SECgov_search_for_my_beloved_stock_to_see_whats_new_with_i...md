@@ -1,6 +1,6 @@
-#Title: Running my daily SEC.gov search for my beloved stock to see what's new with it and here's what came out (06-29)
-#Author: Purple-Artichoke-687
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/](https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/)
+# Title: Running my daily SEC.gov search for my beloved stock to see what's new with it and here's what came out (06-29)
+# Author: Purple-Artichoke-687
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/](https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/)
 
 
 The search: [https://www.sec.gov/edgar/search/#/q=gamestop&dateRange=all&startdt=2021-06-28&enddt=2021-06-29](https://www.sec.gov/edgar/search/#/q=gamestop&dateRange=all&startdt=2021-06-28&enddt=2021-06-29)

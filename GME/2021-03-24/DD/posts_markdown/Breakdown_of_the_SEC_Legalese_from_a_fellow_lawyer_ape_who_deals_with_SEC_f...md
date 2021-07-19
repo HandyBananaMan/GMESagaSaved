@@ -1,6 +1,6 @@
-#Title: Breakdown of the SEC Legalese from a fellow lawyer ape who deals with SEC filings for a living (NOT FINANCIAL ADVICE, NOT LEGAL ADVICE)
-#Author: luridess
-#Post URL: [https://www.reddit.com/r/GME/comments/mc5jbj/breakdown_of_the_sec_legalese_from_a_fellow/](https://www.reddit.com/r/GME/comments/mc5jbj/breakdown_of_the_sec_legalese_from_a_fellow/)
+# Title: Breakdown of the SEC Legalese from a fellow lawyer ape who deals with SEC filings for a living (NOT FINANCIAL ADVICE, NOT LEGAL ADVICE)
+# Author: luridess
+# Post URL: [https://www.reddit.com/r/GME/comments/mc5jbj/breakdown_of_the_sec_legalese_from_a_fellow/](https://www.reddit.com/r/GME/comments/mc5jbj/breakdown_of_the_sec_legalese_from_a_fellow/)
 
 
 ![U/Luridess](https://iili.io/qwTNOx.jpg)

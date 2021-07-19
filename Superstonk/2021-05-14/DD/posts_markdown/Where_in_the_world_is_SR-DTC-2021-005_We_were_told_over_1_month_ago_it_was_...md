@@ -1,6 +1,6 @@
-#Title: Where in the world is SR-DTC-2021-005. We were told over 1 month ago it was taken down for formatting and would be replaced in no more than 2 weeks. Let's talk about it.
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)
+# Title: Where in the world is SR-DTC-2021-005. We were told over 1 month ago it was taken down for formatting and would be replaced in no more than 2 weeks. Let's talk about it.
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)
 
 
 Where in the world is ~~Carmen San Diego~~ SR-DTC-2021-005 otherwise known as "stop counting your shares twice" rule. We have passed record number of rules in the past month, and yet we have **still** not seen my (now second favorite to [SR-ICC-2021-007](https://www.sec.gov/rules/sro/icc/2021/34-91894.pdf)) rule come back in **any** form. It's gone, vamos, does not exist on the internet. **What the fucking** ***fuck***\*\*?\*\*

@@ -1,6 +1,6 @@
-#Title: How Synthetic Shares Can Destroy Proxy Voting - (Smooth Brain Edition)
-#Author: Doom_Douche
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/](https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/)
+# Title: How Synthetic Shares Can Destroy Proxy Voting - (Smooth Brain Edition)
+# Author: Doom_Douche
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/](https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/)
 
 
 First off, huge shout out to u/TheeHumanMeat for finding the article Dr. Trimbath mentioned using The Way Back Machine. Find his post here :

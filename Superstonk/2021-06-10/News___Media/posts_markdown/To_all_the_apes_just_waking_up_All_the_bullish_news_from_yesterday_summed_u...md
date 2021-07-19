@@ -1,6 +1,6 @@
-#Title: To all the apes just waking up! All the bullish news from yesterday summed up!
-#Author: LWKD
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/](https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/)
+# Title: To all the apes just waking up! All the bullish news from yesterday summed up!
+# Author: LWKD
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/](https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/)
 
 
 To all the Euro apes, Asian apes ADU's (Apes down under, who already have been working a whole morning jacked). Here are some bullish bullet points about all the news that came out yesterday. But beware you could become too jacked. So all this is not financial advice.

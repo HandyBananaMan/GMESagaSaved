@@ -1,6 +1,6 @@
-#Title: datAnnihilationGod strikes again: The Big Short Data Update
-#Author: AnnihilationGod
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/](https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/)
+# Title: datAnnihilationGod strikes again: The Big Short Data Update
+# Author: AnnihilationGod
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/](https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/)
 
 
 \- - - GME Master Sheet Beta Version added (end of post)  - - - 8. July 2021  

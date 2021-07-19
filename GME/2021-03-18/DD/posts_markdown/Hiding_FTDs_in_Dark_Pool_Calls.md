@@ -1,6 +1,6 @@
-#Title: Hiding FTDs in Dark Pool Calls
-#Author: therileyfactor7
-#Post URL: [https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/)
+# Title: Hiding FTDs in Dark Pool Calls
+# Author: therileyfactor7
+# Post URL: [https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/)
 
 
 Edit 1: the DD linked was produced by Gafgarian and Johnny Dankseed together, didn’t realize that and want to give credit where credit is due!

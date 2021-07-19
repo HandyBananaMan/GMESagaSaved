@@ -1,6 +1,6 @@
-#Title: THE MOTHER OF ALL WEDGES: AN ENDGAME DD. Technical and Fundamental Analysis with Warden. Where we are now, where we are headed. When might the MOASS begin?
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
+# Title: THE MOTHER OF ALL WEDGES: AN ENDGAME DD. Technical and Fundamental Analysis with Warden. Where we are now, where we are headed. When might the MOASS begin?
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
 
 
 Hey everyone! It's Warden. I'm taking a brief moment to write a chart analysis post because **I feel that we are nearing a critical junction point**. The volume today has been extremely low, currently sitting at around 1.7 million, and I feel that a lot of people are sensing that something big is coming. I've emptied the rest of my bank account into the dip today to buy more tickets to the moon.

@@ -1,6 +1,6 @@
-#Title: Remember 3 weeks ago today when $G M E was trading at over $450 and they simply banned and blocked retail from buying securities nosediving the price of the stock costing retail traders billions of dollars proving this "free market" clown system called the stock market is rigged against us?
-#Author: abuscemi
-#Post URL: [https://www.reddit.com/r/GME/comments/lmoajw/remember_3_weeks_ago_today_when_g_m_e_was_trading/](https://www.reddit.com/r/GME/comments/lmoajw/remember_3_weeks_ago_today_when_g_m_e_was_trading/)
+# Title: Remember 3 weeks ago today when $G M E was trading at over $450 and they simply banned and blocked retail from buying securities nosediving the price of the stock costing retail traders billions of dollars proving this "free market" clown system called the stock market is rigged against us?
+# Author: abuscemi
+# Post URL: [https://www.reddit.com/r/GME/comments/lmoajw/remember_3_weeks_ago_today_when_g_m_e_was_trading/](https://www.reddit.com/r/GME/comments/lmoajw/remember_3_weeks_ago_today_when_g_m_e_was_trading/)
 
 
 They straight up robbed us in broad fucking daylight with the police watching and the world recording it on their cell phones...If there's anyone left in any position of power that can actually do anything about this broken ass system NOW IS THE FUCKING TIME and these motherfuckers need to be placed in prison over this. (good luck defending yourself at the circus show today [u/deepfuckingvalue](https://www.reddit.com/u/deepfuckingvalue/))

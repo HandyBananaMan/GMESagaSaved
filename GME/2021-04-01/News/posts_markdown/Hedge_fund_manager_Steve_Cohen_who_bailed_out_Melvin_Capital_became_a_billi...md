@@ -1,6 +1,6 @@
-#Title: Hedge fund manager Steve Cohen who bailed out Melvin Capital became a billionaire exclusively thanks to insider trading. How is he not in jail??
-#Author: TheAutistcMilyonar
-#Post URL: [https://www.reddit.com/r/GME/comments/mi1kh8/hedge_fund_manager_steve_cohen_who_bailed_out/](https://www.reddit.com/r/GME/comments/mi1kh8/hedge_fund_manager_steve_cohen_who_bailed_out/)
+# Title: Hedge fund manager Steve Cohen who bailed out Melvin Capital became a billionaire exclusively thanks to insider trading. How is he not in jail??
+# Author: TheAutistcMilyonar
+# Post URL: [https://www.reddit.com/r/GME/comments/mi1kh8/hedge_fund_manager_steve_cohen_who_bailed_out/](https://www.reddit.com/r/GME/comments/mi1kh8/hedge_fund_manager_steve_cohen_who_bailed_out/)
 
 
 Hedge fund manager Steve Cohen became a billionaire thanks to insider trading. How is he not in jail? On top of insult, he bailed out Melvin Capital and is allowed to buy the NY Mets. 

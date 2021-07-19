@@ -1,6 +1,6 @@
-#Title: The Anatomy of the MOASS - Part 1/3: The Key Market Concepts that Make the MOASS Possible and Other Important Terminology
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/](https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/)
+# Title: The Anatomy of the MOASS - Part 1/3: The Key Market Concepts that Make the MOASS Possible and Other Important Terminology
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/](https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/)
 
 
 >Disclaimer: Not Financial Advice, I am not a Financial Advisor ![.](https://preview.redd.it/f9nhhit3yo971.jpg)

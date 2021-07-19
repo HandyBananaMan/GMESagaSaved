@@ -1,6 +1,6 @@
-#Title: Kenny, if your volume stays this small, your wife is going to leave you - Minute by Minute guy 9/7 update, and inaugural week by week comparison
-#Author: taliskergunn
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/](https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/)
+# Title: Kenny, if your volume stays this small, your wife is going to leave you - Minute by Minute guy 9/7 update, and inaugural week by week comparison
+# Author: taliskergunn
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/](https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/)
 
 
 HELLO EVERYONE!

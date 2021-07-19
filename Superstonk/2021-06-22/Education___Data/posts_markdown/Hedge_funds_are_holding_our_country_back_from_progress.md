@@ -1,6 +1,6 @@
-#Title: Hedge funds are holding our country back from progress
-#Author: ECHOFIFE
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/](https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/)
+# Title: Hedge funds are holding our country back from progress
+# Author: ECHOFIFE
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/](https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/)
 
 
 I want to preface this -- I'm high and tired from work. I'm also former marine crayon-eating ape, so I'm dumb as rocks. This is my first real post on the sub that actually contributes anything valuable. Please do your own research to confirm.

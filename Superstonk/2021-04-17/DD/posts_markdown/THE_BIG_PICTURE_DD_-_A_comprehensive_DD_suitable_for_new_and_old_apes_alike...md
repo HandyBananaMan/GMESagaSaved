@@ -1,6 +1,6 @@
-#Title: THE BIG PICTURE DD - A comprehensive DD suitable for new and old apes alike that broadly covers the entire GME saga to date.
-#Author: plants69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/](https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/)
+# Title: THE BIG PICTURE DD - A comprehensive DD suitable for new and old apes alike that broadly covers the entire GME saga to date.
+# Author: plants69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/](https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/)
 
 
 EDIT: some people had a problem with my claim about how the high institutional ownership is indicative of naked shorting so I rephrased that part. Although, I think it's unlikely institutional ownership can be as high as it is without the presence of naked shorting, and this does not even factor in retail ownership.

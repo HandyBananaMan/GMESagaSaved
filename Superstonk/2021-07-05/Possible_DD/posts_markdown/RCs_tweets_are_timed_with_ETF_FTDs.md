@@ -1,6 +1,6 @@
-#Title: RC's tweets are timed with ETF FTDs
-#Author: dentisttft
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/)
+# Title: RC's tweets are timed with ETF FTDs
+# Author: dentisttft
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/)
 
 
 *This post is for education purposes only. Not financial advice.*

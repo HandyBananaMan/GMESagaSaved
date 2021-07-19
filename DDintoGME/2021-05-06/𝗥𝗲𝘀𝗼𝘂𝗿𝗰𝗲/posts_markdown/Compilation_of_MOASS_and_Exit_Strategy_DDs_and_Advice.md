@@ -1,6 +1,6 @@
-#Title: 🦍🦍 Compilation of MOASS and Exit Strategy DDs and Advice 🦍🦍
-#Author: Blanderson_Snooper
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/](https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/)
+# Title: 🦍🦍 Compilation of MOASS and Exit Strategy DDs and Advice 🦍🦍
+# Author: Blanderson_Snooper
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/](https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/)
 
 
 It is time, my fellow Apes, to drown out the noise and focus on our individual exit strategies and preparations for the MOASS and the rest of our lives.

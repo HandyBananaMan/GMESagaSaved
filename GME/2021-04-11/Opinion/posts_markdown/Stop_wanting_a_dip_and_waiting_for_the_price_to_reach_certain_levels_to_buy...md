@@ -1,6 +1,6 @@
-#Title: Stop wanting a dip and waiting for the price to reach certain levels to buy, it might be too late
-#Author: atmmaster69
-#Post URL: [https://www.reddit.com/r/GME/comments/mopnbr/stop_wanting_a_dip_and_waiting_for_the_price_to/](https://www.reddit.com/r/GME/comments/mopnbr/stop_wanting_a_dip_and_waiting_for_the_price_to/)
+# Title: Stop wanting a dip and waiting for the price to reach certain levels to buy, it might be too late
+# Author: atmmaster69
+# Post URL: [https://www.reddit.com/r/GME/comments/mopnbr/stop_wanting_a_dip_and_waiting_for_the_price_to/](https://www.reddit.com/r/GME/comments/mopnbr/stop_wanting_a_dip_and_waiting_for_the_price_to/)
 
 
 I see soo many posts about apes begging for a dip, and waiting to buy. 

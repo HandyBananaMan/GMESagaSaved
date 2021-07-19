@@ -1,6 +1,6 @@
-#Title: Why don't we have a pinned link with all the relevant DD? Upvote if you think we should...
-#Author: concerned_citizen128
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on68yd/why_dont_we_have_a_pinned_link_with_all_the/](https://www.reddit.com/r/Superstonk/comments/on68yd/why_dont_we_have_a_pinned_link_with_all_the/)
+# Title: Why don't we have a pinned link with all the relevant DD? Upvote if you think we should...
+# Author: concerned_citizen128
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on68yd/why_dont_we_have_a_pinned_link_with_all_the/](https://www.reddit.com/r/Superstonk/comments/on68yd/why_dont_we_have_a_pinned_link_with_all_the/)
 
 
 Hey Superstonk,

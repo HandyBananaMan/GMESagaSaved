@@ -1,6 +1,6 @@
-#Title: MY (SECOND) REBUTTAL TO DELETED BUT IMPORTANT BEAR THESIS + CALLING ALL DD AUTHORS WHO HAVE BEEN TRACKING SUSPICIOUS DEEP ITM CALLS AND OTHER OPTIONS-RELATED STRATEGIES POTENTIALLY BEING USED TO MASK SHORT POSITIONS WITH FTD RESETS, PART 1
-#Author: tehdankdood
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/](https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/)
+# Title: MY (SECOND) REBUTTAL TO DELETED BUT IMPORTANT BEAR THESIS + CALLING ALL DD AUTHORS WHO HAVE BEEN TRACKING SUSPICIOUS DEEP ITM CALLS AND OTHER OPTIONS-RELATED STRATEGIES POTENTIALLY BEING USED TO MASK SHORT POSITIONS WITH FTD RESETS, PART 1
+# Author: tehdankdood
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/](https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/)
 
 
 # PART 1: FIRST CONTACT

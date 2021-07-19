@@ -1,6 +1,6 @@
-#Title: Your Volume is still small, but maybe there's a reason why it looks like that: 6th of July update
-#Author: taliskergunn
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of3vab/your_volume_is_still_small_but_maybe_theres_a/](https://www.reddit.com/r/Superstonk/comments/of3vab/your_volume_is_still_small_but_maybe_theres_a/)
+# Title: Your Volume is still small, but maybe there's a reason why it looks like that: 6th of July update
+# Author: taliskergunn
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of3vab/your_volume_is_still_small_but_maybe_theres_a/](https://www.reddit.com/r/Superstonk/comments/of3vab/your_volume_is_still_small_but_maybe_theres_a/)
 
 
 Hello again everyone,

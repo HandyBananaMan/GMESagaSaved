@@ -1,6 +1,6 @@
-#Title: Tomorrow is short interest due and we are entering the beginning of MOASS
-#Author: U-Copy
-#Post URL: [https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/](https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/)
+# Title: Tomorrow is short interest due and we are entering the beginning of MOASS
+# Author: U-Copy
+# Post URL: [https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/](https://www.reddit.com/r/GME/comments/nk03ez/tomorrow_is_short_interest_due_and_we_are/)
 
 
 I've been holding GME since end of Feburary. I survived through -60% dip  from Mar 11-March 25. It was one of those days you bought the dip and keep dipping.. It felt like battlefield every day. Raise hand and comment if you went through the same battle! 

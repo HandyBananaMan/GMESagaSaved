@@ -1,6 +1,6 @@
-#Title: Bank of America, Credit Suisse and Credit Agricole fined €28 million for role in bond trading cartel
-#Author: KFC_just
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/](https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/)
+# Title: Bank of America, Credit Suisse and Credit Agricole fined €28 million for role in bond trading cartel
+# Author: KFC_just
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/](https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/)
 
 
 # [Bank of America, Credit Suisse and Credit Agricole fined €28 million for role in bond trading cartel](https://www.thetradenews.com/bank-of-america-credit-suisse-and-credit-agricole-fined-e28-million-for-role-in-bond-trading-cartel/)

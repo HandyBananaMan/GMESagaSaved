@@ -1,6 +1,6 @@
-#Title: THE SEC KNOWS SINCE 2013 THAT HEDGE FUND CAN HIDE THEIR SHORT IN ITM CALLS - WE NEED TO TELL THEM THIS IS WHAT HAPPENING WITH GME
-#Author: lighthouse30130
-#Post URL: [https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/](https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/)
+# Title: THE SEC KNOWS SINCE 2013 THAT HEDGE FUND CAN HIDE THEIR SHORT IN ITM CALLS - WE NEED TO TELL THEM THIS IS WHAT HAPPENING WITH GME
+# Author: lighthouse30130
+# Post URL: [https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/](https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/)
 
 
 # The only way to appear as if the Hedge Fund covered their short is with deep ITM calls option.

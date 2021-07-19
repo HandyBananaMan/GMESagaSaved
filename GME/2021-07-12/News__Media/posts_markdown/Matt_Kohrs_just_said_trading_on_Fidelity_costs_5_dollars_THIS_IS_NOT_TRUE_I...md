@@ -1,6 +1,6 @@
-#Title: Matt Kohrs just said trading on Fidelity costs 5 dollars. THIS IS NOT TRUE. ITS FREE. Switching to a broker like FIDELITY forces PFOF brokers to buy your physical shares.
-#Author: GuitarHero1196
-#Post URL: [https://www.reddit.com/r/GME/comments/oitzq0/matt_kohrs_just_said_trading_on_fidelity_costs_5/](https://www.reddit.com/r/GME/comments/oitzq0/matt_kohrs_just_said_trading_on_fidelity_costs_5/)
+# Title: Matt Kohrs just said trading on Fidelity costs 5 dollars. THIS IS NOT TRUE. ITS FREE. Switching to a broker like FIDELITY forces PFOF brokers to buy your physical shares.
+# Author: GuitarHero1196
+# Post URL: [https://www.reddit.com/r/GME/comments/oitzq0/matt_kohrs_just_said_trading_on_fidelity_costs_5/](https://www.reddit.com/r/GME/comments/oitzq0/matt_kohrs_just_said_trading_on_fidelity_costs_5/)
 
 
 *Matt corrected himself and clarified that Fidelity’s free to his users, thank you!*

@@ -1,6 +1,6 @@
-#Title: Strap in and open wide, titfuckers. I’m about to shove some knowledge down your cockholsters.
-#Author: HOUbikebikebike
-#Post URL: [https://www.reddit.com/r/GME/comments/m3xb8r/strap_in_and_open_wide_titfuckers_im_about_to/](https://www.reddit.com/r/GME/comments/m3xb8r/strap_in_and_open_wide_titfuckers_im_about_to/)
+# Title: Strap in and open wide, titfuckers. I’m about to shove some knowledge down your cockholsters.
+# Author: HOUbikebikebike
+# Post URL: [https://www.reddit.com/r/GME/comments/m3xb8r/strap_in_and_open_wide_titfuckers_im_about_to/](https://www.reddit.com/r/GME/comments/m3xb8r/strap_in_and_open_wide_titfuckers_im_about_to/)
 
 
 I’m back, dipshits. 

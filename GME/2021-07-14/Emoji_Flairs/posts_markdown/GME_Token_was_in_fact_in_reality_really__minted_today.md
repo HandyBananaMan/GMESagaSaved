@@ -1,6 +1,6 @@
-#Title: GME Token was.. in fact... in reality.... really ... minted today
-#Author: EastHornet6583
-#Post URL: [https://www.reddit.com/r/GME/comments/okjwe1/gme_token_was_in_fact_in_reality_really_minted/](https://www.reddit.com/r/GME/comments/okjwe1/gme_token_was_in_fact_in_reality_really_minted/)
+# Title: GME Token was.. in fact... in reality.... really ... minted today
+# Author: EastHornet6583
+# Post URL: [https://www.reddit.com/r/GME/comments/okjwe1/gme_token_was_in_fact_in_reality_really_minted/](https://www.reddit.com/r/GME/comments/okjwe1/gme_token_was_in_fact_in_reality_really_minted/)
 
 
 Your wrong. GME Token was minted today. you have to go back to the **contract source code.**

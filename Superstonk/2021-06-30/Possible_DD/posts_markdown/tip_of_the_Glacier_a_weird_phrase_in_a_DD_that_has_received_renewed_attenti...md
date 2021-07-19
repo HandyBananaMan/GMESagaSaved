@@ -1,6 +1,6 @@
-#Title: "tip of the Glacier", a weird phrase in a DD that has received renewed attention
-#Author: TheRadishBros
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/](https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/)
+# Title: "tip of the Glacier", a weird phrase in a DD that has received renewed attention
+# Author: TheRadishBros
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/](https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/)
 
 
 A recent [possible DD] (https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/) has been doing the rounds recently, resurrecting interest in a curious series of three DD posts, created by an Anonymous user who claims to have just a few months experience, but a penchant for puzzle-solving. However, if you read his insights (and I encourage you to do so), I think it's very likely that this user has some connection to the industry; his clear explanation of shady and complex processes could only be created by somebody with an in-depth understanding of the topics he's discussing. Add that to the sudden disappearance of the user, and the potentially linked revelations to the "Game on Anon" phrase, as identified by /u/3for100Specials, in this post ( https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf ) it all sounds curious, to say the least. 

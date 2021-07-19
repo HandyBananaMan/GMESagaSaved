@@ -1,6 +1,6 @@
-#Title: Never a Borrower Be: A synopsis of GME's 1% Borrow Rate
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/](https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/)
+# Title: Never a Borrower Be: A synopsis of GME's 1% Borrow Rate
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/](https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/)
 
 
 Hello Superstonk!

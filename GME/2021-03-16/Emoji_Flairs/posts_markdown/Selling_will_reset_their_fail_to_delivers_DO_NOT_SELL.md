@@ -1,6 +1,6 @@
-#Title: Selling will reset their fail to delivers. DO NOT SELL!
-#Author: nebling
-#Post URL: [https://www.reddit.com/r/GME/comments/m69avq/selling_will_reset_their_fail_to_delivers_do_not/](https://www.reddit.com/r/GME/comments/m69avq/selling_will_reset_their_fail_to_delivers_do_not/)
+# Title: Selling will reset their fail to delivers. DO NOT SELL!
+# Author: nebling
+# Post URL: [https://www.reddit.com/r/GME/comments/m69avq/selling_will_reset_their_fail_to_delivers_do_not/](https://www.reddit.com/r/GME/comments/m69avq/selling_will_reset_their_fail_to_delivers_do_not/)
 
 
 Lurker here,

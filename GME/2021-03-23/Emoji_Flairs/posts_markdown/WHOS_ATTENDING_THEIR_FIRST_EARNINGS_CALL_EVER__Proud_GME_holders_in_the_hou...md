@@ -1,6 +1,6 @@
-#Title: WHO’S ATTENDING THEIR FIRST EARNINGS CALL EVER???!!! 🙋🏻‍♀️🙋🏼 Proud GME holders in the house!!! 🚀🚀
-#Author: hellofrommoi
-#Post URL: [https://www.reddit.com/r/GME/comments/mbl9bf/whos_attending_their_first_earnings_call_ever/](https://www.reddit.com/r/GME/comments/mbl9bf/whos_attending_their_first_earnings_call_ever/)
+# Title: WHO’S ATTENDING THEIR FIRST EARNINGS CALL EVER???!!! 🙋🏻‍♀️🙋🏼 Proud GME holders in the house!!! 🚀🚀
+# Author: hellofrommoi
+# Post URL: [https://www.reddit.com/r/GME/comments/mbl9bf/whos_attending_their_first_earnings_call_ever/](https://www.reddit.com/r/GME/comments/mbl9bf/whos_attending_their_first_earnings_call_ever/)
 
 
 I’ve held stock of various companies over the past year and NEVER attended an earnings call, much less voted. But GME has changed that!! I’m diamond handed and committed to the company I believe in! PS: the call is at 11pm in my time zone! Let’s do this! 🚀🚀

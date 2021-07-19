@@ -1,6 +1,6 @@
-#Title: The ETF's are what will shatter the Castle Of Glass / I think I may have found something that can confirm what u/leavemeanon was searching for
-#Author: hunnybadger101
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okrsvf/the_etfs_are_what_will_shatter_the_castle_of/](https://www.reddit.com/r/Superstonk/comments/okrsvf/the_etfs_are_what_will_shatter_the_castle_of/)
+# Title: The ETF's are what will shatter the Castle Of Glass / I think I may have found something that can confirm what u/leavemeanon was searching for
+# Author: hunnybadger101
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okrsvf/the_etfs_are_what_will_shatter_the_castle_of/](https://www.reddit.com/r/Superstonk/comments/okrsvf/the_etfs_are_what_will_shatter_the_castle_of/)
 
 
 &#x200B;

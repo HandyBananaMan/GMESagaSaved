@@ -1,6 +1,6 @@
-#Title: The Hedge Fund "Cabal": Steve Cohen, Citadel, and Susquehanna have been playing this game for decades. Will the Game be Stopped this time?
-#Author: Tribune-Of-The-Plebs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbqbrc/the_hedge_fund_cabal_steve_cohen_citadel_and/](https://www.reddit.com/r/Superstonk/comments/nbqbrc/the_hedge_fund_cabal_steve_cohen_citadel_and/)
+# Title: The Hedge Fund "Cabal": Steve Cohen, Citadel, and Susquehanna have been playing this game for decades. Will the Game be Stopped this time?
+# Author: Tribune-Of-The-Plebs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbqbrc/the_hedge_fund_cabal_steve_cohen_citadel_and/](https://www.reddit.com/r/Superstonk/comments/nbqbrc/the_hedge_fund_cabal_steve_cohen_citadel_and/)
 
 
 **G**ood **~~M~~**~~orning~~ afternoon **E**veryone! (this took longer to write than anticipated)

@@ -1,6 +1,6 @@
-#Title: GME down 20%? News everywhere, but when it's up 28%? Silence
-#Author: tacticious
-#Post URL: [https://www.reddit.com/r/GME/comments/md0gvi/gme_down_20_news_everywhere_but_when_its_up_28/](https://www.reddit.com/r/GME/comments/md0gvi/gme_down_20_news_everywhere_but_when_its_up_28/)
+# Title: GME down 20%? News everywhere, but when it's up 28%? Silence
+# Author: tacticious
+# Post URL: [https://www.reddit.com/r/GME/comments/md0gvi/gme_down_20_news_everywhere_but_when_its_up_28/](https://www.reddit.com/r/GME/comments/md0gvi/gme_down_20_news_everywhere_but_when_its_up_28/)
 
 
 Funny how that works

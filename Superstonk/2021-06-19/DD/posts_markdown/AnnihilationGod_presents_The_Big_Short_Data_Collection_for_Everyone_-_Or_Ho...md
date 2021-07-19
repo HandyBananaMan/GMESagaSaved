@@ -1,6 +1,6 @@
-#Title: AnnihilationGod presents: The Big Short Data Collection for Everyone - Or: How to data proof irregularities in GMEs trading history for everyone (AGods GME Mastersheet + Full collection Download link at the end)
-#Author: AnnihilationGod
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/](https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/)
+# Title: AnnihilationGod presents: The Big Short Data Collection for Everyone - Or: How to data proof irregularities in GMEs trading history for everyone (AGods GME Mastersheet + Full collection Download link at the end)
+# Author: AnnihilationGod
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/](https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/)
 
 
 &#x200B;

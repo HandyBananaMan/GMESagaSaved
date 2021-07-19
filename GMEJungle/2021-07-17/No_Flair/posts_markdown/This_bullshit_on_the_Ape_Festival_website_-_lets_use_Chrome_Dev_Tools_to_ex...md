@@ -1,6 +1,6 @@
-#Title: This bullshit on the Ape Festival website - let's use Chrome Dev Tools to explore some bullshit.
-#Author: spozzy
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olxxcr/this_bullshit_on_the_ape_festival_website_lets/](https://www.reddit.com/r/GMEJungle/comments/olxxcr/this_bullshit_on_the_ape_festival_website_lets/)
+# Title: This bullshit on the Ape Festival website - let's use Chrome Dev Tools to explore some bullshit.
+# Author: spozzy
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olxxcr/this_bullshit_on_the_ape_festival_website_lets/](https://www.reddit.com/r/GMEJungle/comments/olxxcr/this_bullshit_on_the_ape_festival_website_lets/)
 
 
 I have no idea (1) how to cross-post, or (2) which subreddit to use to get to my fellow apes at this time, but this is a post from another subreddit I just posted to.

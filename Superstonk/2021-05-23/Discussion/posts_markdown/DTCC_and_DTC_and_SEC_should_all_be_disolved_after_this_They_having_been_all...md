@@ -1,6 +1,6 @@
-#Title: DTCC and DTC and SEC should all be disolved after this. They having been allowing MASS NAKED SHORTING FOR MANY YEARS
-#Author: BellaCaseyMR
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/njpj9z/dtcc_and_dtc_and_sec_should_all_be_disolved_after/](https://www.reddit.com/r/Superstonk/comments/njpj9z/dtcc_and_dtc_and_sec_should_all_be_disolved_after/)
+# Title: DTCC and DTC and SEC should all be disolved after this. They having been allowing MASS NAKED SHORTING FOR MANY YEARS
+# Author: BellaCaseyMR
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/njpj9z/dtcc_and_dtc_and_sec_should_all_be_disolved_after/](https://www.reddit.com/r/Superstonk/comments/njpj9z/dtcc_and_dtc_and_sec_should_all_be_disolved_after/)
 
 
  It may say there are shares available to short tomorrow but they are all FAKE. Every share has been shorted and shorted again. DTCC is making fake shares available to allow the shorters to keep shorting the price down. They have been doing it for months. So NO the DTCC is NOT OUR FRIEND. Yes they are passing rules but they have been trying to help the hedge funds win for months. Only because we HOLD and dont SELL is this going to MOASS. The DTCC and DTC and SEC should all be disolved after this. They having been allowing MASS NAKED SHORTING FOR MANY YEARS and are responsible for thousands of businesses going bankrupt and many millions of people losing thier jobs. And YES they know EXACTLY how many shares of each company are out there. They have computers. They are the ones reconciling the trades. THEY KNOW. How would they know how many shares the shorters have to buy back when margin called if they did not know how many shares have been shorter and conterfieted?

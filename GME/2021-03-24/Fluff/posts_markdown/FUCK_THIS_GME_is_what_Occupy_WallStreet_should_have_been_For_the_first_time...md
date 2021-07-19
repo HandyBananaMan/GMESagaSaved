@@ -1,6 +1,6 @@
-#Title: FUCK THIS!! GME is what Occupy WallStreet should have been! For the first time I'm angry and I WILL be the LAST of all you beautiful primates to Sell !!💎🙌 Why? Because DIAMOND LOVE🐒💎 💎❤
-#Author: easy_like_squeezy
-#Post URL: [https://www.reddit.com/r/GME/comments/mcbo0e/fuck_this_gme_is_what_occupy_wallstreet_should/](https://www.reddit.com/r/GME/comments/mcbo0e/fuck_this_gme_is_what_occupy_wallstreet_should/)
+# Title: FUCK THIS!! GME is what Occupy WallStreet should have been! For the first time I'm angry and I WILL be the LAST of all you beautiful primates to Sell !!💎🙌 Why? Because DIAMOND LOVE🐒💎 💎❤
+# Author: easy_like_squeezy
+# Post URL: [https://www.reddit.com/r/GME/comments/mcbo0e/fuck_this_gme_is_what_occupy_wallstreet_should/](https://www.reddit.com/r/GME/comments/mcbo0e/fuck_this_gme_is_what_occupy_wallstreet_should/)
 
 
 My Ape🐒

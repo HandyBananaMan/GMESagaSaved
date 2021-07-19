@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 05-21-2021
-#Author: AutoModerator
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/](https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/)
+# Title: The Daily Stonk 05-21-2021
+# Author: AutoModerator
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/](https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/)
 
 
 &#x200B;

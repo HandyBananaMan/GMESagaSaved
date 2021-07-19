@@ -1,6 +1,6 @@
-#Title: The DTCC Is The Dad Now - Reviewing 13F-HR Forms for Shitadel, Melvin and Susquehanna
-#Author: djk934
-#Post URL: [https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/)
+# Title: The DTCC Is The Dad Now - Reviewing 13F-HR Forms for Shitadel, Melvin and Susquehanna
+# Author: djk934
+# Post URL: [https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/)
 
 
 Reviewing 13F-HR Forms is shit. Let's get that outta the way. But lots of good info hidden there. I flaired this as DD only because looking through these made me want to pull out my eyes.

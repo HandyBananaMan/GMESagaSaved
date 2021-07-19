@@ -1,6 +1,6 @@
-#Title: Endgame DD: How last weeks actions all come together to one specific Date. All the data analyzed.
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
+# Title: Endgame DD: How last weeks actions all come together to one specific Date. All the data analyzed.
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
 
 
 Q: What about today?! YOU SAID WE WILL GO TO THE MOON 10000000 %!!!!!!!A: [https://twitter.com/HeyItsPixel1/status/1372996149825703939](https://twitter.com/HeyItsPixel1/status/1372996149825703939)

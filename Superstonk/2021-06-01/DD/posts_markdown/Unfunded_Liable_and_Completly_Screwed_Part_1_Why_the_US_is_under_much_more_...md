@@ -1,6 +1,6 @@
-#Title: Unfunded, Liable and Completly Screwed Part 1: Why the US is under much more debt than you think
-#Author: Magistricide
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/](https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/)
+# Title: Unfunded, Liable and Completly Screwed Part 1: Why the US is under much more debt than you think
+# Author: Magistricide
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/](https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/)
 
 
 A lot of people have been saying "What if the government shuts down the squeeze? What if they're afraid of economic turmoil?" I brought up trade agreement violations and loss of trust, but those aren't very convincing. So I'd like to bring up why I know the government won't stop the squeeze. **A huge short squeeze would be MUCH better than the alternative economic turmoil they will experience.** And no, I'm not going to talk about "loss of faith" or "trade agreement violations." This DD is about unfunded liabilities, and how the squeeze will be the ONLY option left to pay them back, avoiding hyperinflation and bankruptcy. (TLDR at bottom)

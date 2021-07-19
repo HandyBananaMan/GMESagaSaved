@@ -1,6 +1,6 @@
-#Title: There seems to be a campaign to convince us and MSM that retail doesn’t own a significant portion of the float
-#Author: inspectametal
-#Post URL: [https://www.reddit.com/r/GME/comments/m98osr/there_seems_to_be_a_campaign_to_convince_us_and/](https://www.reddit.com/r/GME/comments/m98osr/there_seems_to_be_a_campaign_to_convince_us_and/)
+# Title: There seems to be a campaign to convince us and MSM that retail doesn’t own a significant portion of the float
+# Author: inspectametal
+# Post URL: [https://www.reddit.com/r/GME/comments/m98osr/there_seems_to_be_a_campaign_to_convince_us_and/](https://www.reddit.com/r/GME/comments/m98osr/there_seems_to_be_a_campaign_to_convince_us_and/)
 
 
 There is a significant push on here and WSB not to post positions because the hedge funds will have an idea of how many shares we own. IMHO, this is ridiculous because just about every broker sells your information to anyone who will buy it, especially the hedge funds. They, without a doubt, know exactly how many shares retail has. The problem is retail doesn’t have this information. 

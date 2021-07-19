@@ -1,6 +1,6 @@
-#Title: Conditions are Primed to Trigger a Gamma Squeeze that Rivals the VW MOASS of '08 on its Own.
-#Author: Hemoglobin_trotter
-#Post URL: [https://www.reddit.com/r/GME/comments/lxs9ka/conditions_are_primed_to_trigger_a_gamma_squeeze/](https://www.reddit.com/r/GME/comments/lxs9ka/conditions_are_primed_to_trigger_a_gamma_squeeze/)
+# Title: Conditions are Primed to Trigger a Gamma Squeeze that Rivals the VW MOASS of '08 on its Own.
+# Author: Hemoglobin_trotter
+# Post URL: [https://www.reddit.com/r/GME/comments/lxs9ka/conditions_are_primed_to_trigger_a_gamma_squeeze/](https://www.reddit.com/r/GME/comments/lxs9ka/conditions_are_primed_to_trigger_a_gamma_squeeze/)
 
 
 Conditions are primed for the [ultimate test of diamond vs. paperhands](https://www.reddit.com/r/GME/comments/lxafn1/the_real_diamond_hand_test_will_be_when_this/).

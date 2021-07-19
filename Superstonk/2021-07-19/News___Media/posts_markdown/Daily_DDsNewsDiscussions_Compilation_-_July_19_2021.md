@@ -1,6 +1,6 @@
-#Title: Daily DDs/News/Discussions Compilation - July 19, 2021
-#Author: CommanderKeyes
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/onap84/daily_ddsnewsdiscussions_compilation_july_19_2021/](https://www.reddit.com/r/Superstonk/comments/onap84/daily_ddsnewsdiscussions_compilation_july_19_2021/)
+# Title: Daily DDs/News/Discussions Compilation - July 19, 2021
+# Author: CommanderKeyes
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/onap84/daily_ddsnewsdiscussions_compilation_july_19_2021/](https://www.reddit.com/r/Superstonk/comments/onap84/daily_ddsnewsdiscussions_compilation_july_19_2021/)
 
 
 Daily compilation of important posts from  Superstonk and  GME.

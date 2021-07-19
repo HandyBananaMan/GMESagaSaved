@@ -1,6 +1,6 @@
-#Title: "WHY ROCKET NO BOOM BOOM AFTER CATALYST?" Calm your tits, the whales are waiting
-#Author: BeanDaddyMac
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mn6eye/why_rocket_no_boom_boom_after_catalyst_calm_your/](https://www.reddit.com/r/Superstonk/comments/mn6eye/why_rocket_no_boom_boom_after_catalyst_calm_your/)
+# Title: "WHY ROCKET NO BOOM BOOM AFTER CATALYST?" Calm your tits, the whales are waiting
+# Author: BeanDaddyMac
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mn6eye/why_rocket_no_boom_boom_after_catalyst_calm_your/](https://www.reddit.com/r/Superstonk/comments/mn6eye/why_rocket_no_boom_boom_after_catalyst_calm_your/)
 
 
  

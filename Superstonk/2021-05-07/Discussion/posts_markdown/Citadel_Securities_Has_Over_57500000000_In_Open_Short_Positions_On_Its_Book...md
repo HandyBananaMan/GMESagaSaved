@@ -1,6 +1,6 @@
-#Title: Citadel Securities Has Over $57,500,000,000 In Open Short Positions On Its Books... I Think I Found Out What Happened In January, and Why Trading Was Halted...
-#Author: ThatGuyOnTheReddits
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7g5gp/citadel_securities_has_over_57500000000_in_open/](https://www.reddit.com/r/Superstonk/comments/n7g5gp/citadel_securities_has_over_57500000000_in_open/)
+# Title: Citadel Securities Has Over $57,500,000,000 In Open Short Positions On Its Books... I Think I Found Out What Happened In January, and Why Trading Was Halted...
+# Author: ThatGuyOnTheReddits
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7g5gp/citadel_securities_has_over_57500000000_in_open/](https://www.reddit.com/r/Superstonk/comments/n7g5gp/citadel_securities_has_over_57500000000_in_open/)
 
 
 https://imgur.com/MWZFUUe

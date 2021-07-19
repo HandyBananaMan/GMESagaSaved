@@ -1,6 +1,6 @@
-#Title: Mortgages and Default Protection Ending
-#Author: thisperson131
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/](https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/)
+# Title: Mortgages and Default Protection Ending
+# Author: thisperson131
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/](https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/)
 
 
 I was a mortgage loan originator for about 5 years. I worked for companies like Quicken Loans (Rocket), United Wholesale Mortgage (UWM) and Citi. With the mortgage protection program ending, I wanted to discuss this a little.

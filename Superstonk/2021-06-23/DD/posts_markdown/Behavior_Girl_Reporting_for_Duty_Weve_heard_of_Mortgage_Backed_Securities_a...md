@@ -1,6 +1,6 @@
-#Title: 🐱‍🏍🐱‍🏍Behavior Girl? Reporting for Duty. We've heard of Mortgage Backed Securities and Commercial Mortgage Backed Securities....But get this. These turds are utilizing Aviation Backed Securities and hiding money through "blind"/dark pools within the aviation world....And fucking warehouses!!!!
-#Author: Csmbird
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/](https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/)
+# Title: 🐱‍🏍🐱‍🏍Behavior Girl? Reporting for Duty. We've heard of Mortgage Backed Securities and Commercial Mortgage Backed Securities....But get this. These turds are utilizing Aviation Backed Securities and hiding money through "blind"/dark pools within the aviation world....And fucking warehouses!!!!
+# Author: Csmbird
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/](https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/)
 
 
 # 

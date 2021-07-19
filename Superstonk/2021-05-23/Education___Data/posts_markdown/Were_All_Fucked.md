@@ -1,6 +1,6 @@
-#Title: We're All Fucked
-#Author: CoffeeLaxative
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/](https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/)
+# Title: We're All Fucked
+# Author: CoffeeLaxative
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/](https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/)
 
 
 I have no background in macroeconomics. In fact, I'm in healthcare. However, this is what I've gathered in all of my 3 months of investing, learning more about econ and finance than my own field. You tell me what you think and where we stand. The title of my post... pretty much sums up my thoughts. If I made any mistakes, please let me know. After all, I'm a smooth 🧠.

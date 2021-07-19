@@ -1,6 +1,6 @@
-#Title: Peek-a-boo! I see 103M hidden shorts! (Part Deux)
-#Author: WhatCanIMakeToday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/](https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/)
+# Title: Peek-a-boo! I see 103M hidden shorts! (Part Deux)
+# Author: WhatCanIMakeToday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/](https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/)
 
 
 Part Uno (you might want to read it first for background): [https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo\_i\_see\_you\_79m\_hidden\_shorts/](https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/)

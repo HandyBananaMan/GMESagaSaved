@@ -1,6 +1,6 @@
-#Title: Why $GME is worth $600+ without the squeeze.
-#Author: collectorkabbash
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nodwdw/why_gme_is_worth_600_without_the_squeeze/](https://www.reddit.com/r/Superstonk/comments/nodwdw/why_gme_is_worth_600_without_the_squeeze/)
+# Title: Why $GME is worth $600+ without the squeeze.
+# Author: collectorkabbash
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nodwdw/why_gme_is_worth_600_without_the_squeeze/](https://www.reddit.com/r/Superstonk/comments/nodwdw/why_gme_is_worth_600_without_the_squeeze/)
 
 
 Ryan Cohen built Chewy into a 40 Billion Dollar E-commerce business from Zero and he will do the same with GameStop... but this time it will be easier. Why? Because... 

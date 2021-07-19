@@ -1,6 +1,6 @@
-#Title: let's discuss Elliot Waves to understand the volatile movement of GME during this MOASS and where the fuck we are in this trillion-dollar-wealth-transfer-shit-storm-hedge-fund-take-down
-#Author: thisonedudeyouknow
-#Post URL: [https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/](https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/)
+# Title: let's discuss Elliot Waves to understand the volatile movement of GME during this MOASS and where the fuck we are in this trillion-dollar-wealth-transfer-shit-storm-hedge-fund-take-down
+# Author: thisonedudeyouknow
+# Post URL: [https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/](https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/)
 
 
 first off... this is GME... nothing about this is normal and shit could change at literally any moment due to shares being recalled or other hedge fund tactics' fuckin everything up.

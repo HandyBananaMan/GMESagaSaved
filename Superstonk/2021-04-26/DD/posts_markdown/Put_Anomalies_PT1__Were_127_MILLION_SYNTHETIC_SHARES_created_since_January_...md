@@ -1,6 +1,6 @@
-#Title: Put Anomalies PT1 — Were 127 MILLION+ SYNTHETIC SHARES created since January, or is this data ‘nothing to worry about’? Why were 1.094 MILLION worthless PUTS traded on March3&4? Was it linked to the open interest? Findings of a 2-week market-data-driven and white paper investigation.
-#Author: dejf2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/)
+# Title: Put Anomalies PT1 — Were 127 MILLION+ SYNTHETIC SHARES created since January, or is this data ‘nothing to worry about’? Why were 1.094 MILLION worthless PUTS traded on March3&4? Was it linked to the open interest? Findings of a 2-week market-data-driven and white paper investigation.
+# Author: dejf2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/)
 
 
 # Tl;Dr: Not this time. You won't regret the time spent on this. There is also an ELIA at the bottom.

@@ -1,6 +1,6 @@
-#Title: DD Update from Hank - FTD Cycle
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzd0sf/dd_update_from_hank_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/mzd0sf/dd_update_from_hank_ftd_cycle/)
+# Title: DD Update from Hank - FTD Cycle
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzd0sf/dd_update_from_hank_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/mzd0sf/dd_update_from_hank_ftd_cycle/)
 
 
 **\*\*\*\*\*\*\*\*\*\*I am not a financial advisor, this is not financial advice\*\*\*\*\*\*\*\*\*\***

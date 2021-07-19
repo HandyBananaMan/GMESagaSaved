@@ -1,6 +1,6 @@
-#Title: Concerning Wardens Fall Out
-#Author: karasuuchiha
-#Post URL: [https://www.reddit.com/r/GME/comments/ndj6k3/concerning_wardens_fall_out/](https://www.reddit.com/r/GME/comments/ndj6k3/concerning_wardens_fall_out/)
+# Title: Concerning Wardens Fall Out
+# Author: karasuuchiha
+# Post URL: [https://www.reddit.com/r/GME/comments/ndj6k3/concerning_wardens_fall_out/](https://www.reddit.com/r/GME/comments/ndj6k3/concerning_wardens_fall_out/)
 
 
 Edit: our own mod u/creakfast posted [a piece on this on SS](https://www.reddit.com/r/Superstonk/comments/ndf4d2/why_i_think_wardenelite_has_been_bought_out/?utm_medium=android_app&utm_source=share), maybe give it 🦍💕 if you agree.

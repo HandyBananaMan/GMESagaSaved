@@ -1,6 +1,6 @@
-#Title: I posted yesterday that $46.2M of deep ITM Calls were purchased in one order. Today, Tuesday 3/2, another 1,800 Calls, worth $19.2M in premiums, were purchased in one order near close. Combined, they add up to almost 6,000 Calls in total, worth $65M+ in premiums.
-#Author: tapakip
-#Post URL: [https://www.reddit.com/r/GME/comments/lwjf19/i_posted_yesterday_that_462m_of_deep_itm_calls/](https://www.reddit.com/r/GME/comments/lwjf19/i_posted_yesterday_that_462m_of_deep_itm_calls/)
+# Title: I posted yesterday that $46.2M of deep ITM Calls were purchased in one order. Today, Tuesday 3/2, another 1,800 Calls, worth $19.2M in premiums, were purchased in one order near close. Combined, they add up to almost 6,000 Calls in total, worth $65M+ in premiums.
+# Author: tapakip
+# Post URL: [https://www.reddit.com/r/GME/comments/lwjf19/i_posted_yesterday_that_462m_of_deep_itm_calls/](https://www.reddit.com/r/GME/comments/lwjf19/i_posted_yesterday_that_462m_of_deep_itm_calls/)
 
 
 Yesterday I posted about a single buyer acquiring 4,095 deeply In The Money Calls at the steep premium price of $46.2M combined.  Here is that thread:

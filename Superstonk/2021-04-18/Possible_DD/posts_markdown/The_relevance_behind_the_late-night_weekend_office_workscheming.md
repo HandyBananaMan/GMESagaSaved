@@ -1,6 +1,6 @@
-#Title: The relevance behind the late-night weekend office work/scheming.
-#Author: ProgrammerSoggy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtq26h/the_relevance_behind_the_latenight_weekend_office/](https://www.reddit.com/r/Superstonk/comments/mtq26h/the_relevance_behind_the_latenight_weekend_office/)
+# Title: The relevance behind the late-night weekend office work/scheming.
+# Author: ProgrammerSoggy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtq26h/the_relevance_behind_the_latenight_weekend_office/](https://www.reddit.com/r/Superstonk/comments/mtq26h/the_relevance_behind_the_latenight_weekend_office/)
 
 
 We've all seen the posts of various office buildings with their lights on at odd hours of the night these last 2 days. Now what is the significance of these you might ask? I'm hoping to share some of my thoughts in an effort to connect (more significant) dots for some more wrinkley-brained apes than me.

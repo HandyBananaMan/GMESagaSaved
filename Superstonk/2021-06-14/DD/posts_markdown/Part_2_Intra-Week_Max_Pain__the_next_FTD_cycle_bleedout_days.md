@@ -1,6 +1,6 @@
-#Title: Part 2: Intra-Week Max Pain & the next FTD cycle bleedout days
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/)
+# Title: Part 2: Intra-Week Max Pain & the next FTD cycle bleedout days
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/)
 
 
 Hi ya'll,

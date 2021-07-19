@@ -1,6 +1,6 @@
-#Title: BlackRock and share recall for voting: We aim to vote at 100% of meetings...
-#Author: valthonis_surion
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/](https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/)
+# Title: BlackRock and share recall for voting: We aim to vote at 100% of meetings...
+# Author: valthonis_surion
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/](https://www.reddit.com/r/Superstonk/comments/musig6/blackrock_and_share_recall_for_voting_we_aim_to/)
 
 
 Straight from their website.  

@@ -1,6 +1,6 @@
-#Title: For the Short Squeeze to start SOONER, a Smart Ape would deduce Citadel's weekly Options positions.
-#Author: renz004
-#Post URL: [https://www.reddit.com/r/GME/comments/mdeute/for_the_short_squeeze_to_start_sooner_a_smart_ape/](https://www.reddit.com/r/GME/comments/mdeute/for_the_short_squeeze_to_start_sooner_a_smart_ape/)
+# Title: For the Short Squeeze to start SOONER, a Smart Ape would deduce Citadel's weekly Options positions.
+# Author: renz004
+# Post URL: [https://www.reddit.com/r/GME/comments/mdeute/for_the_short_squeeze_to_start_sooner_a_smart_ape/](https://www.reddit.com/r/GME/comments/mdeute/for_the_short_squeeze_to_start_sooner_a_smart_ape/)
 
 
 *Notice: Updated DD is added to bottom of this post - last updated 03/26/21 10:02am*

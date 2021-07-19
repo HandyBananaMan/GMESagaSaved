@@ -1,6 +1,6 @@
-#Title: Here's what I believe will be one of the dirtiest tricks that will be used on MOASS day
-#Author: we_know_each_other
-#Post URL: [https://www.reddit.com/r/GME/comments/mwa84r/heres_what_i_believe_will_be_one_of_the_dirtiest/](https://www.reddit.com/r/GME/comments/mwa84r/heres_what_i_believe_will_be_one_of_the_dirtiest/)
+# Title: Here's what I believe will be one of the dirtiest tricks that will be used on MOASS day
+# Author: we_know_each_other
+# Post URL: [https://www.reddit.com/r/GME/comments/mwa84r/heres_what_i_believe_will_be_one_of_the_dirtiest/](https://www.reddit.com/r/GME/comments/mwa84r/heres_what_i_believe_will_be_one_of_the_dirtiest/)
 
 
 You wake up, do your stuff, go to work (if you have one), get busy. Finally you give a quick look at the price... 500, need to finish the stuff first, you can't ignore it, you give a second look... 1000. You are so excited you're shivering cause you knew this moment had to come. You start reading the DDs and comments on Reddit, many apes are scared that "some people will sell and f* up the rocket" then you quickly check the price, 900, 800, 700... you check Reddit and read comments like "some paper hands piece of shills are selling", you start believing it, you check the price once again and... 500, 400, 300. You sell some shares out of desperation. 200, 100, 50. You contributed to have f*ed up the rocket, you sell all of your shares and officially become a paper handed bish, you will never have an opportunity like this ever again, your family will never see that helpful money, you will have to work for the rest of your life and finally die poor. 

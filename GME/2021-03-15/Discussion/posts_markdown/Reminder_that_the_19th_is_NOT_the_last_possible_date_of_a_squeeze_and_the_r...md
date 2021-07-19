@@ -1,6 +1,6 @@
-#Title: Reminder that the 19th is NOT the last possible date of a squeeze and the retards spamming that date like fact are doing more harm than good.
-#Author: qwerksd
-#Post URL: [https://www.reddit.com/r/GME/comments/m5spf5/reminder_that_the_19th_is_not_the_last_possible/](https://www.reddit.com/r/GME/comments/m5spf5/reminder_that_the_19th_is_not_the_last_possible/)
+# Title: Reminder that the 19th is NOT the last possible date of a squeeze and the retards spamming that date like fact are doing more harm than good.
+# Author: qwerksd
+# Post URL: [https://www.reddit.com/r/GME/comments/m5spf5/reminder_that_the_19th_is_not_the_last_possible/](https://www.reddit.com/r/GME/comments/m5spf5/reminder_that_the_19th_is_not_the_last_possible/)
 
 
 The more we miss those deadlines with EOD prices calls itm the further the squeeze gets pushed out, and the more the even bigger retards paperhand on those dates the even further it'll be.  Buy, hold, be patient, and this is not investment advice.

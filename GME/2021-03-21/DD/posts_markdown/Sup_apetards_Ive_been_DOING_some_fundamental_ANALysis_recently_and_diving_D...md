@@ -1,6 +1,6 @@
-#Title: Sup, apetards! I've been DOING some fundamental ANALysis recently and diving DEEP into my most favorite stock of all time - which is surely GEEMEEE - and in the process it accumulated into a fking ULTIMATE ENDGAME GODTIER DD. Enjoy the read! [APEFRIENDLY] Part I 💎 🙌 🚀 🌕 🪐 🌌
-#Author: roman_axt
-#Post URL: [https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/](https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/)
+# Title: Sup, apetards! I've been DOING some fundamental ANALysis recently and diving DEEP into my most favorite stock of all time - which is surely GEEMEEE - and in the process it accumulated into a fking ULTIMATE ENDGAME GODTIER DD. Enjoy the read! [APEFRIENDLY] Part I 💎 🙌 🚀 🌕 🪐 🌌
+# Author: roman_axt
+# Post URL: [https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/](https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/)
 
 
 I have to warn you, this is a super duper long read and it will take a considerable amount of your time as well as about 140% (several estimations state that the percentage might even be as high as 420-696.9%) of brain resources. However, it is completely worth it, I promise you - ape transcendence is imminent upon completing the reading.

@@ -1,6 +1,6 @@
-#Title: Counterpoint: our DD system is fine. Here's why.
-#Author: swede_child_of_mine
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/](https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/)
+# Title: Counterpoint: our DD system is fine. Here's why.
+# Author: swede_child_of_mine
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/](https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/)
 
 
 In counterpoint to u/PWNWTFBBQ ‘s post on the state of DD in this sub.  

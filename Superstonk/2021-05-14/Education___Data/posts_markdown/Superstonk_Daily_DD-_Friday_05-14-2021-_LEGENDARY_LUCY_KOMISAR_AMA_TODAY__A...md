@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Friday 05-14-2021- LEGENDARY LUCY KOMISAR AMA TODAY!!! 🚀🚀🚀🚀 ALSO... IT'S CUSTOM FLAIR FRIDAY!!! 🦍✅🖍💎🙌
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/](https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/)
+# Title: Superstonk Daily DD- Friday 05-14-2021- LEGENDARY LUCY KOMISAR AMA TODAY!!! 🚀🚀🚀🚀 ALSO... IT'S CUSTOM FLAIR FRIDAY!!! 🦍✅🖍💎🙌
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/](https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: $GME Daily Discussion - June 17, 2021
-#Author: AutoModerator
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/](https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/)
+# Title: $GME Daily Discussion - June 17, 2021
+# Author: AutoModerator
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/](https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/)
 
 
 This is the official $GME Megathread for r/Superstonk. Please keep ALL conversations contained to Gamestop and related topics.

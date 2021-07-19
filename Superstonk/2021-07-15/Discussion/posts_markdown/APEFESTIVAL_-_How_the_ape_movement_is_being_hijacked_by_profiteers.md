@@ -1,6 +1,6 @@
-#Title: APEFESTIVAL - How the "ape" movement is being hijacked by profiteers.
-#Author: PonzGaming
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ol0q59/apefestival_how_the_ape_movement_is_being/](https://www.reddit.com/r/Superstonk/comments/ol0q59/apefestival_how_the_ape_movement_is_being/)
+# Title: APEFESTIVAL - How the "ape" movement is being hijacked by profiteers.
+# Author: PonzGaming
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ol0q59/apefestival_how_the_ape_movement_is_being/](https://www.reddit.com/r/Superstonk/comments/ol0q59/apefestival_how_the_ape_movement_is_being/)
 
 
 Alright lads, I have something I need to get off my chest.

@@ -1,6 +1,6 @@
-#Title: Complete DD collection PDF (Backup File up to July 7th)
-#Author: Timatora
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om1wod/complete_dd_collection_pdf_backup_file_up_to_july/](https://www.reddit.com/r/GMEJungle/comments/om1wod/complete_dd_collection_pdf_backup_file_up_to_july/)
+# Title: Complete DD collection PDF (Backup File up to July 7th)
+# Author: Timatora
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om1wod/complete_dd_collection_pdf_backup_file_up_to_july/](https://www.reddit.com/r/GMEJungle/comments/om1wod/complete_dd_collection_pdf_backup_file_up_to_july/)
 
 
 I saw this on SS and saved it. The link to it is now dead so uploading it here.

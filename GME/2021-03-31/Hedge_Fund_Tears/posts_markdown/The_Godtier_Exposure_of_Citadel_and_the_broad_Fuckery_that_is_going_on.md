@@ -1,6 +1,6 @@
-#Title: The Godtier Exposure of Citadel and the broad Fuckery that is going on
-#Author: dielinho90
-#Post URL: [https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/](https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/)
+# Title: The Godtier Exposure of Citadel and the broad Fuckery that is going on
+# Author: dielinho90
+# Post URL: [https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/](https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/)
 
 
 My fellow ape brothers and sisters,

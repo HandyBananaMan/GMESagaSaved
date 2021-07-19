@@ -1,6 +1,6 @@
-#Title: Hank visits GME's Bermuda Triangle (gone sexual)
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9vyr4/hank_visits_gmes_bermuda_triangle_gone_sexual/](https://www.reddit.com/r/Superstonk/comments/n9vyr4/hank_visits_gmes_bermuda_triangle_gone_sexual/)
+# Title: Hank visits GME's Bermuda Triangle (gone sexual)
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9vyr4/hank_visits_gmes_bermuda_triangle_gone_sexual/](https://www.reddit.com/r/Superstonk/comments/n9vyr4/hank_visits_gmes_bermuda_triangle_gone_sexual/)
 
 
 **\*\*\*\*\*\*\*\*\*\*I am not a financial advisor, this is not financial advice\*\*\*\*\*\*\*\*\*\***

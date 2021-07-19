@@ -1,6 +1,6 @@
-#Title: HEDGIES DID NOT BUY DEEP IN-THE-MONEY CALLS TODAY FOR THE FIRST TIME
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/ml2sv4/hedgies_did_not_buy_deep_inthemoney_calls_today/](https://www.reddit.com/r/GME/comments/ml2sv4/hedgies_did_not_buy_deep_inthemoney_calls_today/)
+# Title: HEDGIES DID NOT BUY DEEP IN-THE-MONEY CALLS TODAY FOR THE FIRST TIME
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/ml2sv4/hedgies_did_not_buy_deep_inthemoney_calls_today/](https://www.reddit.com/r/GME/comments/ml2sv4/hedgies_did_not_buy_deep_inthemoney_calls_today/)
 
 
 Good Evening Apes,

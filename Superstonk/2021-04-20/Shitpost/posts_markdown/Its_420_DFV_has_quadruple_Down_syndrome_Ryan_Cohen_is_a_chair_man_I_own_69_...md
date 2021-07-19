@@ -1,3 +1,4 @@
+# Title: It’s 4/20, DFV has quadruple Down syndrome, Ryan Cohen is a chair man, I own 69 shares, and Atobitt’s House of Cards DD is about to drop all of our brains thru our assholes. What a time to be alive!!!
 # Author: colbysandt
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/mv03uj/its_420_dfv_has_quadruple_down_syndrome_ryan/](https://www.reddit.com/r/Superstonk/comments/mv03uj/its_420_dfv_has_quadruple_down_syndrome_ryan/)
 

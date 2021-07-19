@@ -1,6 +1,6 @@
-#Title: YouTuber 'Stock Swinger' Lifted My DD and Claimed It As His Own Discovery
-#Author: Get-It-Got
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/](https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/)
+# Title: YouTuber 'Stock Swinger' Lifted My DD and Claimed It As His Own Discovery
+# Author: Get-It-Got
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/](https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/)
 
 
 He even lifted my option chain screensgrabs. You can tell by looking at the URL of the June 11 and June 18 option chains images in his video. He even mischaracterized my DD because it wasn't just Blackrock and Citadel that loaded up on $HYG Puts.

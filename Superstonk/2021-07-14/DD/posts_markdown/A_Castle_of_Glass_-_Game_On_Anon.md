@@ -1,6 +1,6 @@
-#Title: A Castle of Glass - Game On, Anon
-#Author: 3for100Specials
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)
+# Title: A Castle of Glass - Game On, Anon
+# Author: 3for100Specials
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)
 
 
 **\*\*\*Imperative top of post edit\*\*\*:** For anyone who's ***already read this post***\*\*,\*\* please go to the bottom and tell me to **edit 3 isn't saying what I think it's saying**...that info is a bit out of my field so I **need help verifying this,** but I deduced to the best of my ability...**if I'm right in reading that.*****.69420D chess has been played by RC and Gamestop..*****.**

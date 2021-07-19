@@ -1,6 +1,6 @@
-#Title: Just a reminder: DTC-2021-013, NSCC-2021-008 and FICC-2021-006 go into effect today July 19, 2021
-#Author: x1pitviper1x
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on91i0/just_a_reminder_dtc2021013_nscc2021008_and/](https://www.reddit.com/r/Superstonk/comments/on91i0/just_a_reminder_dtc2021013_nscc2021008_and/)
+# Title: Just a reminder: DTC-2021-013, NSCC-2021-008 and FICC-2021-006 go into effect today July 19, 2021
+# Author: x1pitviper1x
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on91i0/just_a_reminder_dtc2021013_nscc2021008_and/](https://www.reddit.com/r/Superstonk/comments/on91i0/just_a_reminder_dtc2021013_nscc2021008_and/)
 
 
 As the title says, the above rules for the Self Regulatory Organizations, Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Clearing Agency Model Risk Management Framework for DTC, NSCC and FICC are published to the Federal Register as are other rules regarding securities trading.

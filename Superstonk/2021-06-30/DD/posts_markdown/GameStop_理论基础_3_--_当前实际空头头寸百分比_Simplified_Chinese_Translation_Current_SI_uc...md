@@ -1,6 +1,6 @@
-#Title: GameStop 理论基础 #3 -- 当前实际空头头寸百分比 [Simplified Chinese Translation: Current SI%, u/criand]
-#Author: zhishy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/)
+# Title: GameStop 理论基础 #3 -- 当前实际空头头寸百分比 [Simplified Chinese Translation: Current SI%, u/criand]
+# Author: zhishy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/)
 
 
 原文标题：I've estimated the current SI% based on the SI Report Cycle and Deep ITM CALL purchases, u/criand

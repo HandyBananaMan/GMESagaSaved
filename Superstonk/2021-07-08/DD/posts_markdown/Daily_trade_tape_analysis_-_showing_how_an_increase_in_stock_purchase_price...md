@@ -1,6 +1,6 @@
-#Title: Daily trade tape analysis - showing how an increase in stock purchase price (trade A) is frequently followed by a purchase (trade B) which negates the increase, resulting in the last trade amount returning to the value just prior to trade A. Confused yet? I wouldn't blame you. Let's dive in.
-#Author: BuzzMonkey
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/](https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/)
+# Title: Daily trade tape analysis - showing how an increase in stock purchase price (trade A) is frequently followed by a purchase (trade B) which negates the increase, resulting in the last trade amount returning to the value just prior to trade A. Confused yet? I wouldn't blame you. Let's dive in.
+# Author: BuzzMonkey
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/](https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/)
 
 
 I am not in any way an expert on anything I am about to discuss here. I enjoy looking for patterns and shifting behaviors where others may not see them. In this particular instance, I thought I would look at the daily trade tapes (order books) of six stocks.  If a wrinkly brained ape ~~can~~ has a counter opinion to what I believe is happening, I would love to hear it. That's one major point of sharing data like this. My goal is to share with and possibly educate apes but also to be educated by those that may know more or interpret the data differently.

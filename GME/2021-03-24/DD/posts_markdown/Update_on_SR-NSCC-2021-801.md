@@ -1,6 +1,6 @@
-#Title: Update on SR-NSCC-2021-801
-#Author: ravijenkie
-#Post URL: [https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/)
+# Title: Update on SR-NSCC-2021-801
+# Author: ravijenkie
+# Post URL: [https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/)
 
 
 Hi fellow apes, (PLS UPVOTE SO EVERYONE IS CORRECTLY INFORMED)

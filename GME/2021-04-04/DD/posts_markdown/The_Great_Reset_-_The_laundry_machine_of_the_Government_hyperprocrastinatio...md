@@ -1,6 +1,6 @@
-#Title: The Great Reset - The laundry machine of the Government, hyperprocrastination of the Future & the Bond Market
-#Author: Ren3666
-#Post URL: [https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/](https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/)
+# Title: The Great Reset - The laundry machine of the Government, hyperprocrastination of the Future & the Bond Market
+# Author: Ren3666
+# Post URL: [https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/](https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/)
 
 
 Disclaimer: This not my style. Skip this whole part entirely and just go down to enjoy your bullish DD on GME below, because anything hereafter is just my stomach turning around. >!And that´s it. I literally want to stop writing at this point. I even considered how I phrase this. This is the beginning of this DD and I have no strength left. It´s not even due to GME, for the curious Ape´s that couldn´t follow my advice, but no matter how much I Ape this down, use Emojis you all like or idk what stuff you would like to see, but this topic...idk. I am currently sitting in front of my PC and I hope I am delusional, because I am realizing a scheme that shouldn´t exist. And I don´t mean naked shorting. Every dot I input is literally me taking a break.!<

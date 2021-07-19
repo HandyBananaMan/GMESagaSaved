@@ -1,6 +1,6 @@
-#Title: Etoro statistics show that retail owns about 75 million shares on April 15th.
-#Author: Magistricide
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/](https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/)
+# Title: Etoro statistics show that retail owns about 75 million shares on April 15th.
+# Author: Magistricide
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/](https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/)
 
 
 First of all, I would like to apologize for my last post. It would seem I had made a mistake. I'm not exactly sure where the numbers were wrong, but they are in conflict with this calculation, which I believe is far more accurate.

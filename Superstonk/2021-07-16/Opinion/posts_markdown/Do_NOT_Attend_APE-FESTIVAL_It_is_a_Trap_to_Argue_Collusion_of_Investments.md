@@ -1,6 +1,6 @@
-#Title: Do **NOT** Attend APE-FESTIVAL. It is a Trap to Argue Collusion of Investments.
-#Author: sweljb
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olin9b/do_not_attend_apefestival_it_is_a_trap_to_argue/](https://www.reddit.com/r/Superstonk/comments/olin9b/do_not_attend_apefestival_it_is_a_trap_to_argue/)
+# Title: Do **NOT** Attend APE-FESTIVAL. It is a Trap to Argue Collusion of Investments.
+# Author: sweljb
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olin9b/do_not_attend_apefestival_it_is_a_trap_to_argue/](https://www.reddit.com/r/Superstonk/comments/olin9b/do_not_attend_apefestival_it_is_a_trap_to_argue/)
 
 
 *Update: Edit 2: Apparently an “organizer” of the Ape Festival reached out to me. See my [most recent post ](https://www.reddit.com/r/Superstonk/comments/olpd6e/apefestival_organizer_contacted_me_regarding_my/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) for my response. Cheers.*

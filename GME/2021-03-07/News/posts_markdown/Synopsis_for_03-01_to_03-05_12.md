@@ -1,6 +1,6 @@
-#Title: Synopsis for 03-01 to 03-05 (1/2)
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/](https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/)
+# Title: Synopsis for 03-01 to 03-05 (1/2)
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/](https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/)
 
 
 Happy Sunday everyone,

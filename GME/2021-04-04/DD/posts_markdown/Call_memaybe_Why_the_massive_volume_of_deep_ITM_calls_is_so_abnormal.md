@@ -1,6 +1,6 @@
-#Title: Call me...maybe? Why the massive volume of deep ITM calls is so abnormal.
-#Author: glide_si
-#Post URL: [https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/](https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/)
+# Title: Call me...maybe? Why the massive volume of deep ITM calls is so abnormal.
+# Author: glide_si
+# Post URL: [https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/](https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/)
 
 
 [There](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/) [has](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/) [been](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/) [a](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/) [lot](https://www.reddit.com/r/GME/comments/mjzx9w/full_analysis_of_current_gme_si_proof_from_the/) of thoughtful DD regarding the strange volume of deep ITM calls. 

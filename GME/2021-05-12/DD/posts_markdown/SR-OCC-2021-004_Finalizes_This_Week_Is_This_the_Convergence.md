@@ -1,6 +1,6 @@
-#Title: SR-OCC-2021-004 Finalizes This Week; Is This the Convergence?
-#Author: c-digs
-#Post URL: [https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/)
+# Title: SR-OCC-2021-004 Finalizes This Week; Is This the Convergence?
+# Author: c-digs
+# Post URL: [https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/)
 
 
 **TL;DR:**

@@ -1,6 +1,6 @@
-#Title: Credit Suisse losses have reached $10 Billion Dollars across Archegos, Greensill, and Renaissance. Senior management are fleeing. Credit Suisse is at risk and connections to GameStop need to be investigated.
-#Author: KFC_just
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnesue/credit_suisse_losses_have_reached_10_billion/](https://www.reddit.com/r/Superstonk/comments/nnesue/credit_suisse_losses_have_reached_10_billion/)
+# Title: Credit Suisse losses have reached $10 Billion Dollars across Archegos, Greensill, and Renaissance. Senior management are fleeing. Credit Suisse is at risk and connections to GameStop need to be investigated.
+# Author: KFC_just
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnesue/credit_suisse_losses_have_reached_10_billion/](https://www.reddit.com/r/Superstonk/comments/nnesue/credit_suisse_losses_have_reached_10_billion/)
 
 
 TL;DR: Credit Suisse is in a shit position and has lost over 10 Billion dollars since the start of the year. If the liquidity crisis occurs, Credit Suisse might be one of the first to go.

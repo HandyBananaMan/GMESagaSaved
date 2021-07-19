@@ -1,6 +1,6 @@
-#Title: Bedpost memes are trying to keep the focus on scapegoat Ken Griffin of Citadel instead of Steve Cohen of Point 72, Jeff Yass of Susquehanna, and the Michael C. Bodson of the DTCC
-#Author: PleasecanIcomeBack
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oagl91/bedpost_memes_are_trying_to_keep_the_focus_on/](https://www.reddit.com/r/Superstonk/comments/oagl91/bedpost_memes_are_trying_to_keep_the_focus_on/)
+# Title: Bedpost memes are trying to keep the focus on scapegoat Ken Griffin of Citadel instead of Steve Cohen of Point 72, Jeff Yass of Susquehanna, and the Michael C. Bodson of the DTCC
+# Author: PleasecanIcomeBack
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oagl91/bedpost_memes_are_trying_to_keep_the_focus_on/](https://www.reddit.com/r/Superstonk/comments/oagl91/bedpost_memes_are_trying_to_keep_the_focus_on/)
 
 
 Recently there were an influx of great posts highlighting all of the financial terrorists involved in this calamity. 

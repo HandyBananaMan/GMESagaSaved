@@ -1,6 +1,6 @@
-#Title: Reposting DD - IMPORTANT
-#Author: idontdislikeoranges
-#Post URL: [https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/](https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/)
+# Title: Reposting DD - IMPORTANT
+# Author: idontdislikeoranges
+# Post URL: [https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/](https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/)
 
 
 **MODS PLESE NOTE I HAVE REMOVED LINKS.**

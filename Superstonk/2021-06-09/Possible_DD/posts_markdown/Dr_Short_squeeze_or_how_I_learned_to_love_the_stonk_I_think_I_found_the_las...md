@@ -1,6 +1,6 @@
-#Title: Dr. Short squeeze, or how I learned to love the stonk... I think I found the last bomb in Citadels and friends' arsenal.
-#Author: Doug_Duper
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/](https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/)
+# Title: Dr. Short squeeze, or how I learned to love the stonk... I think I found the last bomb in Citadels and friends' arsenal.
+# Author: Doug_Duper
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/](https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/)
 
 
 Disclaimer: I'm more of an art ape than an analysis, this is not financial advice I am not a financial adviser just a guy who thinks Susquehanna rhymes with SquashedBanana and that makes my ape brain happy. here's ken riding his last flash crash to oblivion. Now on with the (potential) DD!

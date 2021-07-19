@@ -1,6 +1,6 @@
-#Title: 04/02/2021 - THE DAILY FUD REPORT FROM THE FUD PATROL - Today's FUD, the positive media narrative and why all may not be as it seems!
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/](https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/)
+# Title: 04/02/2021 - THE DAILY FUD REPORT FROM THE FUD PATROL - Today's FUD, the positive media narrative and why all may not be as it seems!
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/](https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/)
 
 
 *This post was previously removed for breaking sub rules. It has been amended and the previous post deleted. I apologise for doing so and aim to be more vigilant in the future.*

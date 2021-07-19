@@ -1,6 +1,6 @@
-#Title: GME Timeline DD: Part Deux
-#Author: ebbilepsy
-#Post URL: [https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/](https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/)
+# Title: GME Timeline DD: Part Deux
+# Author: ebbilepsy
+# Post URL: [https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/](https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/)
 
 
 **Hello my fellow ape brethren! For those unfamiliar I wrote my first timeline piece which can be found here:** [**https://www.reddit.com/r/GME/comments/lvd6dd/gme\_timeline\_dd/**](https://www.reddit.com/r/GME/comments/lvd6dd/gme_timeline_dd/) **I highly recommend if you haven't checked it out yet you do so before proceeding with this DD. I posted the first timeline on March 1st and it rotted in the dungeons of GME DD like an over-ripe banana until someone thought to  repost it March 25th and turn it into some delicious banana bread. Needless to say it must have tasted good to some of you apes, as it passed the 1k upvote mark within 24 hours. Whoever you are kind sir, this new DD goes out to you.**

@@ -1,6 +1,6 @@
-#Title: The Game We Play: Gambling With Giants, The Myth of the Margin Call, and Why Dates Disappoint (Updated DD)
-#Author: welcometosilentchill
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/okixbv/the_game_we_play_gambling_with_giants_the_myth_of/](https://www.reddit.com/r/DDintoGME/comments/okixbv/the_game_we_play_gambling_with_giants_the_myth_of/)
+# Title: The Game We Play: Gambling With Giants, The Myth of the Margin Call, and Why Dates Disappoint (Updated DD)
+# Author: welcometosilentchill
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/okixbv/the_game_we_play_gambling_with_giants_the_myth_of/](https://www.reddit.com/r/DDintoGME/comments/okixbv/the_game_we_play_gambling_with_giants_the_myth_of/)
 
 
 **tl;dr -** *Due to a web of contracts and shared responsibilities, prime brokers are in a prisoner’s dilemma with GME shorts and are incentivized to keep short positions open to protect themselves against losses. By neglecting to raise rates and ignoring events of default, prime brokers can manage the fallout of these toxic assets by enabling a relationship of inaction; this makes it difficult to use metrics like FTDs for price forecasting. We are winning: buy and hodl.*

@@ -1,6 +1,6 @@
-#Title: I will probably never fully believe is the US stock market again after what i have witnessed with GME.
-#Author: spartakkz
-#Post URL: [https://www.reddit.com/r/GME/comments/mcrlck/i_will_probably_never_fully_believe_is_the_us/](https://www.reddit.com/r/GME/comments/mcrlck/i_will_probably_never_fully_believe_is_the_us/)
+# Title: I will probably never fully believe is the US stock market again after what i have witnessed with GME.
+# Author: spartakkz
+# Post URL: [https://www.reddit.com/r/GME/comments/mcrlck/i_will_probably_never_fully_believe_is_the_us/](https://www.reddit.com/r/GME/comments/mcrlck/i_will_probably_never_fully_believe_is_the_us/)
 
 
 International ape here holding strong. Bought before the RH fuckery, watched the price get manipulated the fuck down to $40. Didnt sell at 80% loss. Watched it go back up to $350, didnt sell. Warching the same fuckery driving down the price again, I WONT FUCKING SELL.

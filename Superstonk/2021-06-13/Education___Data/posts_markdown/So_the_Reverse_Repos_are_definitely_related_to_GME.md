@@ -1,6 +1,6 @@
-#Title: So the Reverse Repo's are definitely related to GME
-#Author: jaybaumyo
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/](https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/)
+# Title: So the Reverse Repo's are definitely related to GME
+# Author: jaybaumyo
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/](https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/)
 
 
 Credit to u/criand for pointing this out in a comment.

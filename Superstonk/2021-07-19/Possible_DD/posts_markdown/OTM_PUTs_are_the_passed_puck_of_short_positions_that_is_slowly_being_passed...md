@@ -1,6 +1,6 @@
-#Title: OTM PUTs are the passed puck of short positions that is slowly being passed back. The price movements are around monthly options, SLD periods, and net capital requirements. Not FTDs.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on9dtz/otm_puts_are_the_passed_puck_of_short_positions/](https://www.reddit.com/r/Superstonk/comments/on9dtz/otm_puts_are_the_passed_puck_of_short_positions/)
+# Title: OTM PUTs are the passed puck of short positions that is slowly being passed back. The price movements are around monthly options, SLD periods, and net capital requirements. Not FTDs.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on9dtz/otm_puts_are_the_passed_puck_of_short_positions/](https://www.reddit.com/r/Superstonk/comments/on9dtz/otm_puts_are_the_passed_puck_of_short_positions/)
 
 
 # 0. Preface

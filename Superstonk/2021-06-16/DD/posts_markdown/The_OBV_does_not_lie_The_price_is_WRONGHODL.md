@@ -1,6 +1,6 @@
-#Title: The OBV does not lie. The price is WRONG!💎🙌HODL!🚀
-#Author: _Badtothebone_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/](https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/)
+# Title: The OBV does not lie. The price is WRONG!💎🙌HODL!🚀
+# Author: _Badtothebone_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/](https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/)
 
 
 Hello Apes, Bones here, im going to explain what exactly the OBV is, what it does and how it pertains to GME.🚀

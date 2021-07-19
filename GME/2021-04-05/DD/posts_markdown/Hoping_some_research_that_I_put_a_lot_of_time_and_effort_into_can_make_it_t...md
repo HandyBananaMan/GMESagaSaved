@@ -1,6 +1,6 @@
-#Title: Hoping some research that I put a lot of time and effort into can make it through the drama. I've spent the past couple weeks collecting and analyzing data on off-exchange short volume, and wanted to share a write-up on my findings.
-#Author: pdwp90
-#Post URL: [https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/](https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/)
+# Title: Hoping some research that I put a lot of time and effort into can make it through the drama. I've spent the past couple weeks collecting and analyzing data on off-exchange short volume, and wanted to share a write-up on my findings.
+# Author: pdwp90
+# Post URL: [https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/](https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/)
 
 
 This write-up relies heavily upon data used in [this dashboard](https://www.quiverquant.com/offexchange/gme) I've been building that visualizes daily data from this FINRA, and tracks cumulative off-exchange short sales over the last 5 years. If you're more of a crayon learner than a word learner, I'd start there.

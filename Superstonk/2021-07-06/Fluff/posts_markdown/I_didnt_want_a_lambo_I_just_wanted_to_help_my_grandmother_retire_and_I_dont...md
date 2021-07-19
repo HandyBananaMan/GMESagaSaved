@@ -1,6 +1,6 @@
-#Title: I didn’t want a lambo I just wanted to help my grandmother retire and I don’t have that chance anymore.
-#Author: Aaron143574
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of2eb3/i_didnt_want_a_lambo_i_just_wanted_to_help_my/](https://www.reddit.com/r/Superstonk/comments/of2eb3/i_didnt_want_a_lambo_i_just_wanted_to_help_my/)
+# Title: I didn’t want a lambo I just wanted to help my grandmother retire and I don’t have that chance anymore.
+# Author: Aaron143574
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of2eb3/i_didnt_want_a_lambo_i_just_wanted_to_help_my/](https://www.reddit.com/r/Superstonk/comments/of2eb3/i_didnt_want_a_lambo_i_just_wanted_to_help_my/)
 
 
 This isn’t dd or a meme and really doesn’t contribute anything to this sub, But I just needed to vent somewhere. My grandmother was the strongest person I’ve ever known. She was diagnosed with breast cancer 5 years ago and lived in pain everyday since then. Through all of it she still worked as a realtor till the day she died. She brought a small chair to every open house she went to bc her back would start to hurt. I thought she liked to work but last year I heard her make a  comment that all she wanted to do was retire but couldn’t. In March I did my own research and decided to go all In on GameStop and prayed that MOASS would happen as soon as possible so I could give her the life she deserved. I hate our economic system, I hate fiat, I hate that we don’t have the proper social safety nets to keep atrocities like this from happening to anyone else. No time in history have the elderly been expected to work to survive. I am a small xx holder but my only hope is that the whales that lurk in this sub can come together to lobby our politicians to change our system for the better so that 70 year old McDonalds workers are a thing of the past. Thank you everyone for the community and the hard work it takes to write DD’s.

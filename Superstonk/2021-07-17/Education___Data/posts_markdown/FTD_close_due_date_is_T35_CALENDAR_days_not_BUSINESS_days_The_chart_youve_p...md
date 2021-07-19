@@ -1,6 +1,6 @@
-#Title: FTD close due date is T+35 CALENDAR days, not BUSINESS days. The chart you've probably all seen is wrong.
-#Author: pepsodont
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omdx8y/ftd_close_due_date_is_t35_calendar_days_not/](https://www.reddit.com/r/Superstonk/comments/omdx8y/ftd_close_due_date_is_t35_calendar_days_not/)
+# Title: FTD close due date is T+35 CALENDAR days, not BUSINESS days. The chart you've probably all seen is wrong.
+# Author: pepsodont
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omdx8y/ftd_close_due_date_is_t35_calendar_days_not/](https://www.reddit.com/r/Superstonk/comments/omdx8y/ftd_close_due_date_is_t35_calendar_days_not/)
 
 
 I think you guys have already seen this chart from u/_rerun984 showing us dates after big FTDs and their T+35s.

@@ -1,6 +1,6 @@
-#Title: Mining Ethereum under official GME Wallet / Address / Contracts In Progress By Multiple Apes 💪🦍🚀💎🙌
-#Author: b0mbSquad_1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ompq0t/mining_ethereum_under_official_gme_wallet_address/](https://www.reddit.com/r/Superstonk/comments/ompq0t/mining_ethereum_under_official_gme_wallet_address/)
+# Title: Mining Ethereum under official GME Wallet / Address / Contracts In Progress By Multiple Apes 💪🦍🚀💎🙌
+# Author: b0mbSquad_1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ompq0t/mining_ethereum_under_official_gme_wallet_address/](https://www.reddit.com/r/Superstonk/comments/ompq0t/mining_ethereum_under_official_gme_wallet_address/)
 
 
 I am running a total of 5 cards right now on GME and it's mining just fine with no issues.

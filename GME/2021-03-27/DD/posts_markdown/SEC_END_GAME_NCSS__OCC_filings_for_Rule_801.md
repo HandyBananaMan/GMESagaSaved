@@ -1,6 +1,6 @@
-#Title: SEC END GAME. NCSS & OCC filings for Rule 801
-#Author: YinzSauce
-#Post URL: [https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/](https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/)
+# Title: SEC END GAME. NCSS & OCC filings for Rule 801
+# Author: YinzSauce
+# Post URL: [https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/](https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/)
 
 
 Apeies & Gentleapes.

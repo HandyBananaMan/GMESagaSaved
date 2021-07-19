@@ -1,6 +1,6 @@
-#Title: When Kenny G Sneezes the Market Has a Seizure, Part II: The Glitch-ening — Vertical lines in price charts are REAL TRADES outside the NBBO, HIGHLY CORRELATED across different stocks, and correspond to HIGH FREQUENCY and ALGO TRADING
-#Author: G_KG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omegu8/when_kenny_g_sneezes_the_market_has_a_seizure/](https://www.reddit.com/r/Superstonk/comments/omegu8/when_kenny_g_sneezes_the_market_has_a_seizure/)
+# Title: When Kenny G Sneezes the Market Has a Seizure, Part II: The Glitch-ening — Vertical lines in price charts are REAL TRADES outside the NBBO, HIGHLY CORRELATED across different stocks, and correspond to HIGH FREQUENCY and ALGO TRADING
+# Author: G_KG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omegu8/when_kenny_g_sneezes_the_market_has_a_seizure/](https://www.reddit.com/r/Superstonk/comments/omegu8/when_kenny_g_sneezes_the_market_has_a_seizure/)
 
 
 Gather round, apes and apettes, grab that vintage box of crayons you were saving for something special, and get comfortable.  Oh, first-   **HEY GABE!!!!**  [Gabe's been struggling lately-](https://finance.yahoo.com/news/melvin-t-shake-reddit-attack-205148761.html)

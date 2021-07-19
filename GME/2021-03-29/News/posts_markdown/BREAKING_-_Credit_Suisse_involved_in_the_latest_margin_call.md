@@ -1,6 +1,6 @@
-#Title: BREAKING - Credit Suisse involved in the latest margin call
-#Author: notoriousFlash
-#Post URL: [https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/](https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/)
+# Title: BREAKING - Credit Suisse involved in the latest margin call
+# Author: notoriousFlash
+# Post URL: [https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/](https://www.reddit.com/r/GME/comments/mfie48/breaking_credit_suisse_involved_in_the_latest/)
 
 
 

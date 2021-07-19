@@ -1,6 +1,6 @@
-#Title: 1000 Cuts 2: The Hard Way
-#Author: No1Important_4real
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/)
+# Title: 1000 Cuts 2: The Hard Way
+# Author: No1Important_4real
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/)
 
 
 **PREFACE**

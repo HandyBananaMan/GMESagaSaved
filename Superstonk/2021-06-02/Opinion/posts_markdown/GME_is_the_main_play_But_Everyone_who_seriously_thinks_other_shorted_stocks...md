@@ -1,6 +1,6 @@
-#Title: GME is the main play. But Everyone who seriously thinks other shorted stocks like amc, bb, nakd, bbby etc are "distractions" and "pumo and dumps", clearly havent read all the god tier DD in depth.
-#Author: OfficialYesMan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nr1tt0/gme_is_the_main_play_but_everyone_who_seriously/](https://www.reddit.com/r/Superstonk/comments/nr1tt0/gme_is_the_main_play_but_everyone_who_seriously/)
+# Title: GME is the main play. But Everyone who seriously thinks other shorted stocks like amc, bb, nakd, bbby etc are "distractions" and "pumo and dumps", clearly havent read all the god tier DD in depth.
+# Author: OfficialYesMan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nr1tt0/gme_is_the_main_play_but_everyone_who_seriously/](https://www.reddit.com/r/Superstonk/comments/nr1tt0/gme_is_the_main_play_but_everyone_who_seriously/)
 
 
 All the god tier DDs like Citadel has no clothes, everything short, etc all deal with how Citadel and other reckless hedgefunds went around naked shorting a whole lot of companies to the ground.

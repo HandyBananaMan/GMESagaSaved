@@ -1,6 +1,6 @@
-#Title: Ape urging caution
-#Author: Luma44
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nynoyi/ape_urging_caution/](https://www.reddit.com/r/Superstonk/comments/nynoyi/ape_urging_caution/)
+# Title: Ape urging caution
+# Author: Luma44
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nynoyi/ape_urging_caution/](https://www.reddit.com/r/Superstonk/comments/nynoyi/ape_urging_caution/)
 
 
 I've been seeing an uptick in content related to a particular member of the DTCC and citadel and some explicit statements this this person may have axed DTC-2021-005, or at least had the ability to. 

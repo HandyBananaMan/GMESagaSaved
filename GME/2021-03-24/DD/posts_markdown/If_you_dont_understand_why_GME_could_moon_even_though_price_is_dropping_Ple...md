@@ -1,6 +1,6 @@
-#Title: If you don't understand why GME could moon even though price is dropping. Please read this easy explanation. Not financial advice!
-#Author: GoldenSheriff
-#Post URL: [https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/](https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/)
+# Title: If you don't understand why GME could moon even though price is dropping. Please read this easy explanation. Not financial advice!
+# Author: GoldenSheriff
+# Post URL: [https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/](https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/)
 
 
 There is a lot of wonderful DD out on this subreddit, and a lot of wonderful apes that have realised that if the apes hold, they moon. It doesn't matter whether or not the price is dropping. However, it is a huge bunch of technical and advanced theories that is required to understand why the MOASS is very likely to happen even though (or because) the price is dropping.

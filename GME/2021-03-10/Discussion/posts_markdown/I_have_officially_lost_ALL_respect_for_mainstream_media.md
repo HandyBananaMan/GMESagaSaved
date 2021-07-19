@@ -1,6 +1,6 @@
-#Title: I have officially lost ALL respect for mainstream media.
-#Author: thedav1d
-#Post URL: [https://www.reddit.com/r/GME/comments/m25v2s/i_have_officially_lost_all_respect_for_mainstream/](https://www.reddit.com/r/GME/comments/m25v2s/i_have_officially_lost_all_respect_for_mainstream/)
+# Title: I have officially lost ALL respect for mainstream media.
+# Author: thedav1d
+# Post URL: [https://www.reddit.com/r/GME/comments/m25v2s/i_have_officially_lost_all_respect_for_mainstream/](https://www.reddit.com/r/GME/comments/m25v2s/i_have_officially_lost_all_respect_for_mainstream/)
 
 
 This whole gme situation showed me just how corrupt and manipulative CNBC and others (like the aptly named Motley Fool) are.

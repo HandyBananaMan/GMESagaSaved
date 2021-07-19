@@ -1,6 +1,6 @@
-#Title: Naked Short Selling: The Truth Is Much Worse Than You Have Been Told
-#Author: VaseaPost
-#Post URL: [https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/](https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/)
+# Title: Naked Short Selling: The Truth Is Much Worse Than You Have Been Told
+# Author: VaseaPost
+# Post URL: [https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/](https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/)
 
 
 There is a massive threat to our capital markets, the free market in general, and fair dealings overall. And no, it’s not China. It’s a homegrown threat that everyone has been afraid to talk about. 

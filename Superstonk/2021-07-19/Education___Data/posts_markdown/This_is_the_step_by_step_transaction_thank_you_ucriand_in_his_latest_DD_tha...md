@@ -1,6 +1,6 @@
-#Title: This is the step by step transaction, thank you u/criand in his latest DD, that shows how HF fill FTDs with option buy-writes.
-#Author: Jabarumba
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on9ljo/this_is_the_step_by_step_transaction_thank_you/](https://www.reddit.com/r/Superstonk/comments/on9ljo/this_is_the_step_by_step_transaction_thank_you/)
+# Title: This is the step by step transaction, thank you u/criand in his latest DD, that shows how HF fill FTDs with option buy-writes.
+# Author: Jabarumba
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on9ljo/this_is_the_step_by_step_transaction_thank_you/](https://www.reddit.com/r/Superstonk/comments/on9ljo/this_is_the_step_by_step_transaction_thank_you/)
 
 
 (Convoluted as fuck. I hate these assholes. Take all info with a grain of salt. We all could be wrong.)  

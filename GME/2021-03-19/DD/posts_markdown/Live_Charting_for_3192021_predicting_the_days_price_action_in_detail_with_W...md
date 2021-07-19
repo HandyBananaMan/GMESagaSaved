@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/19/2021, predicting the day's price action in detail with Warden. PREPARE FOR WAR EDITION
-#Author: WardenElite2
-#Post URL: [https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/)
+# Title: Live Charting for 3/19/2021, predicting the day's price action in detail with Warden. PREPARE FOR WAR EDITION
+# Author: WardenElite2
+# Post URL: [https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/)
 
 
 **This is not financial nor investment advice. These are ideas and opinions for information purposes only. Seek a certified financial professional for investment advice.**

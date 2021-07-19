@@ -1,6 +1,6 @@
-#Title: It's not about a margin call, it's about FAILING a margin call.
-#Author: djk934
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n181a4/its_not_about_a_margin_call_its_about_failing_a/](https://www.reddit.com/r/Superstonk/comments/n181a4/its_not_about_a_margin_call_its_about_failing_a/)
+# Title: It's not about a margin call, it's about FAILING a margin call.
+# Author: djk934
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n181a4/its_not_about_a_margin_call_its_about_failing_a/](https://www.reddit.com/r/Superstonk/comments/n181a4/its_not_about_a_margin_call_its_about_failing_a/)
 
 
 I've seen a few posts about this the past couple of days and just wanted to clarify things. If you've played around with margin accounts before, you might've experienced the problems that can emerge from being margin called yourself. You have a certain time period to meet a new requirement for cash on hand or the brokerage liquidates your position even if it makes you lose money.

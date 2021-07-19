@@ -1,6 +1,6 @@
-#Title: What's happening today - 6/8/2021
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/](https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/)
+# Title: What's happening today - 6/8/2021
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/](https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/)
 
 
 **EDIT 1: There is an issue with Reddit right now and my images are not loading. I've added IMGUR links instead. Furthermore, I cannot see the upvote total for this post, which is still stuck at 1.**

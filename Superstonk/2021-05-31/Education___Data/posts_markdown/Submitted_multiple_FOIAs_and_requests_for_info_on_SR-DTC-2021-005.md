@@ -1,6 +1,6 @@
-#Title: Submitted multiple FOIA's and requests for info on SR-DTC-2021-005
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/np50w4/submitted_multiple_foias_and_requests_for_info_on/](https://www.reddit.com/r/Superstonk/comments/np50w4/submitted_multiple_foias_and_requests_for_info_on/)
+# Title: Submitted multiple FOIA's and requests for info on SR-DTC-2021-005
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/np50w4/submitted_multiple_foias_and_requests_for_info_on/](https://www.reddit.com/r/Superstonk/comments/np50w4/submitted_multiple_foias_and_requests_for_info_on/)
 
 
 Hi all,

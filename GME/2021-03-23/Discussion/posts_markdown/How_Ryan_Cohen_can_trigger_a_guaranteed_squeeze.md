@@ -1,6 +1,6 @@
-#Title: How Ryan Cohen can trigger a guaranteed squeeze
-#Author: Vic18t
-#Post URL: [https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/](https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/)
+# Title: How Ryan Cohen can trigger a guaranteed squeeze
+# Author: Vic18t
+# Post URL: [https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/](https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/)
 
 
 **TLDR: None of the shareholder “recalls” will work. You can only force a recall if the shorts have no other way to compensate a shareholder. That can be done with a crypto dividend.**

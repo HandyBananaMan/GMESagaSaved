@@ -1,6 +1,6 @@
-#Title: Any institution holding GME stock is rated as a Strong Buy
-#Author: lawrgood
-#Post URL: [https://www.reddit.com/r/GME/comments/ntjsrc/any_institution_holding_gme_stock_is_rated_as_a/](https://www.reddit.com/r/GME/comments/ntjsrc/any_institution_holding_gme_stock_is_rated_as_a/)
+# Title: Any institution holding GME stock is rated as a Strong Buy
+# Author: lawrgood
+# Post URL: [https://www.reddit.com/r/GME/comments/ntjsrc/any_institution_holding_gme_stock_is_rated_as_a/](https://www.reddit.com/r/GME/comments/ntjsrc/any_institution_holding_gme_stock_is_rated_as_a/)
 
 
 I'm just looking up [GME's top institutional investors](https://www.nasdaq.com/market-activity/stocks/gme/institutional-holdings) who increased their holdings of GME on [investing.com](https://uk.investing.com/). Wouldn't you know it, JP Morgan, Principle Financial, Ameriprise, Prudential Financial, all of them are rated as a "Strong Buy".

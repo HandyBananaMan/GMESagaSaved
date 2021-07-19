@@ -1,6 +1,6 @@
-#Title: For the Love of Ryan: if you are new to Superstonk and are wanting to get up to date on what is really going on, consider reading u/atobitt’s posts in date order and then read u/con101smd’s “The Long Con” parts 1 to 5. Please give these Apes credit where credit is due. 🍁🦍🚀🌝
-#Author: SadCalligrapher7208
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9f91t/for_the_love_of_ryan_if_you_are_new_to_superstonk/](https://www.reddit.com/r/Superstonk/comments/o9f91t/for_the_love_of_ryan_if_you_are_new_to_superstonk/)
+# Title: For the Love of Ryan: if you are new to Superstonk and are wanting to get up to date on what is really going on, consider reading u/atobitt’s posts in date order and then read u/con101smd’s “The Long Con” parts 1 to 5. Please give these Apes credit where credit is due. 🍁🦍🚀🌝
+# Author: SadCalligrapher7208
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9f91t/for_the_love_of_ryan_if_you_are_new_to_superstonk/](https://www.reddit.com/r/Superstonk/comments/o9f91t/for_the_love_of_ryan_if_you_are_new_to_superstonk/)
 
 
 Edited 1) as per comment requests:  in addition to reading up on u/atobitt and u/con101smd, please read up on u/criand. 

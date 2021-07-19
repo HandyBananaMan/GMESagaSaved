@@ -1,6 +1,6 @@
-#Title: ShillReminder: Any contract, especially NDAs are null and void if they cover criminal activity. SEC whistleblower awards are quite handsome. So why be shillin when you could be chillin (with a couple million $)?
-#Author: kerenski667
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5634g/shillreminder_any_contract_especially_ndas_are/](https://www.reddit.com/r/Superstonk/comments/o5634g/shillreminder_any_contract_especially_ndas_are/)
+# Title: ShillReminder: Any contract, especially NDAs are null and void if they cover criminal activity. SEC whistleblower awards are quite handsome. So why be shillin when you could be chillin (with a couple million $)?
+# Author: kerenski667
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5634g/shillreminder_any_contract_especially_ndas_are/](https://www.reddit.com/r/Superstonk/comments/o5634g/shillreminder_any_contract_especially_ndas_are/)
 
 
 As the title says, this one goes out once again to all the shills in the rafters.

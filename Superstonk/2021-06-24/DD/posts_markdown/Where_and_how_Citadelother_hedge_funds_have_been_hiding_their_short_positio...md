@@ -1,6 +1,6 @@
-#Title: Where and how Citadel/other hedge funds have been hiding their short positions, and a true estimate of how many short shares are currently being hidden.
-#Author: AcedVector
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/](https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/)
+# Title: Where and how Citadel/other hedge funds have been hiding their short positions, and a true estimate of how many short shares are currently being hidden.
+# Author: AcedVector
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/](https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/)
 
 
 Hello there fellow apes! I have an interesting theory to share with you today, that if plausible, would be able to explain how Citadel (and maybe even other hedge funds with massively overleveraged positions against GME) have been hiding the true extent of their short position, as well as give a good estimate of how many shorts they have truly been hiding.

@@ -1,6 +1,6 @@
-#Title: Benford’s Law test shows high likelihood of fraudulent manipulation of GameStop prices
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/](https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/)
+# Title: Benford’s Law test shows high likelihood of fraudulent manipulation of GameStop prices
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/](https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/)
 
 
 **Update:** Following responses to criticism and kind advice, this version - except for the **Counter to the Counter DD** \- is now invalid and replaced by the **"Jumbo Compilation"** over at DDintoGME subreddit.

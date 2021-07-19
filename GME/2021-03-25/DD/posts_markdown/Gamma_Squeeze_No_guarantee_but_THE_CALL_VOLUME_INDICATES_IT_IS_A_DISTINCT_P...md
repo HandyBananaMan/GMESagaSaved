@@ -1,6 +1,6 @@
-#Title: Gamma Squeeze? No guarantee, but THE CALL VOLUME INDICATES IT IS A DISTINCT POSSIBILITY. This will get downvoted but I don't care. LET'S FUCKING GO!!!!!!!!!!!!!!!!!!!
-#Author: txtrdr456
-#Post URL: [https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/](https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/)
+# Title: Gamma Squeeze? No guarantee, but THE CALL VOLUME INDICATES IT IS A DISTINCT POSSIBILITY. This will get downvoted but I don't care. LET'S FUCKING GO!!!!!!!!!!!!!!!!!!!
+# Author: txtrdr456
+# Post URL: [https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/](https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/)
 
 
 \*\*\*EDIT 16\*\*\* Lots of comments and DMs.  I'll try to get to everyone.  I am no expert.  I just guessed right (so far).  But as we know in this ongoing GME saga, anything could happen tomorrow.  So far, the momentum has carried into AH.  We'll know a lot more pre-market.

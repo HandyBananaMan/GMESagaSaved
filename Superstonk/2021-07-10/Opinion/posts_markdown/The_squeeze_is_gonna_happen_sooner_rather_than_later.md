@@ -1,6 +1,6 @@
-#Title: The squeeze is gonna happen sooner rather than later.
-#Author: Apart_Split_8801
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohla3y/the_squeeze_is_gonna_happen_sooner_rather_than/](https://www.reddit.com/r/Superstonk/comments/ohla3y/the_squeeze_is_gonna_happen_sooner_rather_than/)
+# Title: The squeeze is gonna happen sooner rather than later.
+# Author: Apart_Split_8801
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohla3y/the_squeeze_is_gonna_happen_sooner_rather_than/](https://www.reddit.com/r/Superstonk/comments/ohla3y/the_squeeze_is_gonna_happen_sooner_rather_than/)
 
 
 Remember Melvin Capital lost 49% on its investments in Q1?

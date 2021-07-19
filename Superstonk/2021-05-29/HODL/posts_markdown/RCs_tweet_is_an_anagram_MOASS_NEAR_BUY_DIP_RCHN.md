@@ -1,6 +1,6 @@
-#Title: RC’s tweet is an anagram: “MOASS NEAR. BUY DIP. RCHN.”
-#Author: archer_it
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/](https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/)
+# Title: RC’s tweet is an anagram: “MOASS NEAR. BUY DIP. RCHN.”
+# Author: archer_it
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/](https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/)
 
 
 Fellow Apes,  

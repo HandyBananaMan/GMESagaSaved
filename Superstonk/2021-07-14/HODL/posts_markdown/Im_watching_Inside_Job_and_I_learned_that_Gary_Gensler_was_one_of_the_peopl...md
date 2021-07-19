@@ -1,6 +1,6 @@
-#Title: I’m watching “Inside Job” and I learned that Gary Gensler was one of the people who helped ban regulations during 2008
-#Author: Ugonefinishthat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzyhk/im_watching_inside_job_and_i_learned_that_gary/](https://www.reddit.com/r/Superstonk/comments/ojzyhk/im_watching_inside_job_and_i_learned_that_gary/)
+# Title: I’m watching “Inside Job” and I learned that Gary Gensler was one of the people who helped ban regulations during 2008
+# Author: Ugonefinishthat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzyhk/im_watching_inside_job_and_i_learned_that_gary/](https://www.reddit.com/r/Superstonk/comments/ojzyhk/im_watching_inside_job_and_i_learned_that_gary/)
 
 
 This documentary is eye opening. I’ve seen a few familiar names pop up (Nomura, Credit Suisse, JP Morgan Chase, B of A)

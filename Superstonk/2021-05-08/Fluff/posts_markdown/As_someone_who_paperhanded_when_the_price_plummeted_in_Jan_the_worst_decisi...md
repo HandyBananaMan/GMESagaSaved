@@ -1,6 +1,6 @@
-#Title: As someone who paperhanded when the price plummeted in Jan, the worst decision HFs could have made was to give us months to read DD and grow our position. My hands are pure diamond now!
-#Author: k9handler2000
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7torw/as_someone_who_paperhanded_when_the_price/](https://www.reddit.com/r/Superstonk/comments/n7torw/as_someone_who_paperhanded_when_the_price/)
+# Title: As someone who paperhanded when the price plummeted in Jan, the worst decision HFs could have made was to give us months to read DD and grow our position. My hands are pure diamond now!
+# Author: k9handler2000
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7torw/as_someone_who_paperhanded_when_the_price/](https://www.reddit.com/r/Superstonk/comments/n7torw/as_someone_who_paperhanded_when_the_price/)
 
 
 I had been investing for 2 weeks when the price hit $480 in January. I had read a few DDs, learned the definition of short selling, but that was pretty much it. My appetite for risk was low but I believed in the squeeze just enough to hold until I saw red in my account. It was the first time I had “lost” money in stocks and it was fucking scary, so I pulled out.

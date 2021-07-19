@@ -1,6 +1,6 @@
-#Title: BREAKING NEWS: DFV BOUGHT AN EXTRA 50,000 shares for roughly $155(price can Can vary) for a cost of $7,750,000 . HOLY not only did he exercise his options which were another 50,000 shares. But he bought extra shares ontop. 💎💎💎🥸🦧💎💎💎
-#Author: BrokeAsFuck-WSB-APE
-#Post URL: [https://www.reddit.com/r/GME/comments/msg7te/breaking_news_dfv_bought_an_extra_50000_shares/](https://www.reddit.com/r/GME/comments/msg7te/breaking_news_dfv_bought_an_extra_50000_shares/)
+# Title: BREAKING NEWS: DFV BOUGHT AN EXTRA 50,000 shares for roughly $155(price can Can vary) for a cost of $7,750,000 . HOLY not only did he exercise his options which were another 50,000 shares. But he bought extra shares ontop. 💎💎💎🥸🦧💎💎💎
+# Author: BrokeAsFuck-WSB-APE
+# Post URL: [https://www.reddit.com/r/GME/comments/msg7te/breaking_news_dfv_bought_an_extra_50000_shares/](https://www.reddit.com/r/GME/comments/msg7te/breaking_news_dfv_bought_an_extra_50000_shares/)
 
 
 THATS CRAZY THIS GUY SPENT OVER 7 MILLION.

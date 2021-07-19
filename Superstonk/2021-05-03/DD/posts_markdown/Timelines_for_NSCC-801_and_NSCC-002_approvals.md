@@ -1,6 +1,6 @@
-#Title: Timelines for NSCC-801 and NSCC-002 approvals
-#Author: bavetta
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)
+# Title: Timelines for NSCC-801 and NSCC-002 approvals
+# Author: bavetta
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)
 
 
 Usual disclaimer: I don’t know what I’m talking about, all of this is probably wrong, fact check and do your own research.

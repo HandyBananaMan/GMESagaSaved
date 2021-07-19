@@ -1,6 +1,6 @@
-#Title: BULLISH: todays the slowest volume of the year.
-#Author: Firetorpedos
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9hnn/bullish_todays_the_slowest_volume_of_the_year/](https://www.reddit.com/r/Superstonk/comments/oa9hnn/bullish_todays_the_slowest_volume_of_the_year/)
+# Title: BULLISH: todays the slowest volume of the year.
+# Author: Firetorpedos
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9hnn/bullish_todays_the_slowest_volume_of_the_year/](https://www.reddit.com/r/Superstonk/comments/oa9hnn/bullish_todays_the_slowest_volume_of_the_year/)
 
 
 Ladies and gentlemen,

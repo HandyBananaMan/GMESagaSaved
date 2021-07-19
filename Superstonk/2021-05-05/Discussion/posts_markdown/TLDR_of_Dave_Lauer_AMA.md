@@ -1,6 +1,6 @@
-#Title: TLDR of Dave Lauer AMA
-#Author: neoquant
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5pfyr/tldr_of_dave_lauer_ama/](https://www.reddit.com/r/Superstonk/comments/n5pfyr/tldr_of_dave_lauer_ama/)
+# Title: TLDR of Dave Lauer AMA
+# Author: neoquant
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5pfyr/tldr_of_dave_lauer_ama/](https://www.reddit.com/r/Superstonk/comments/n5pfyr/tldr_of_dave_lauer_ama/)
 
 
 Almost everything people discovered here was right. Shocking

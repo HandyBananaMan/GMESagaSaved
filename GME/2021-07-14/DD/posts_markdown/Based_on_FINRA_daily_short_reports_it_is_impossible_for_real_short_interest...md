@@ -1,6 +1,6 @@
-#Title: Based on FINRA daily short reports it is impossible for real short interest to be below 418% of the total float. Real short interest is likely much higher.
-#Author: chechen84
-#Post URL: [https://www.reddit.com/r/GME/comments/ok8qlp/based_on_finra_daily_short_reports_it_is/](https://www.reddit.com/r/GME/comments/ok8qlp/based_on_finra_daily_short_reports_it_is/)
+# Title: Based on FINRA daily short reports it is impossible for real short interest to be below 418% of the total float. Real short interest is likely much higher.
+# Author: chechen84
+# Post URL: [https://www.reddit.com/r/GME/comments/ok8qlp/based_on_finra_daily_short_reports_it_is/](https://www.reddit.com/r/GME/comments/ok8qlp/based_on_finra_daily_short_reports_it_is/)
 
 
 **TL;DR: based on the FINRA daily short ~~interest~~ volume report, it is mathematically impossible for short interest to be less than 418% of the entire float (979% of tradeable float) and could be more than 525% of the entire float (1230% of tradeable float). I personally believe it is more because 1) the data set is very conservative and 2) because I also believe S3 lied about 140%+ short interest closing on the weekend of January 23 and 24.** 

@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 07-15-2021
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okpp5t/the_daily_stonk_07152021/](https://www.reddit.com/r/Superstonk/comments/okpp5t/the_daily_stonk_07152021/)
+# Title: The Daily Stonk 07-15-2021
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okpp5t/the_daily_stonk_07152021/](https://www.reddit.com/r/Superstonk/comments/okpp5t/the_daily_stonk_07152021/)
 
 
 &#x200B;

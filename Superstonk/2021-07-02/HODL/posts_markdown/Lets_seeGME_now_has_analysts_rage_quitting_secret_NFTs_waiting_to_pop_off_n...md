@@ -1,6 +1,6 @@
-#Title: Let’s see…GME now has analysts rage quitting, secret NFTs waiting to pop off, new classy social look, a rockstar team, money in the bank and a bargain closing price of $202?Holy shit I love this stock!
-#Author: Doggoonewild
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocj6iy/lets_seegme_now_has_analysts_rage_quitting_secret/](https://www.reddit.com/r/Superstonk/comments/ocj6iy/lets_seegme_now_has_analysts_rage_quitting_secret/)
+# Title: Let’s see…GME now has analysts rage quitting, secret NFTs waiting to pop off, new classy social look, a rockstar team, money in the bank and a bargain closing price of $202?Holy shit I love this stock!
+# Author: Doggoonewild
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocj6iy/lets_seegme_now_has_analysts_rage_quitting_secret/](https://www.reddit.com/r/Superstonk/comments/ocj6iy/lets_seegme_now_has_analysts_rage_quitting_secret/)
 
 
 Look the title says it all. I’m just here to say Happy 4th to all the Americans and Happy GME hodling to all the apes. The past couple weeks have been Mr. Krabs on the charts while the analysts have played grab ass. Nobody cares, everyone has patience and nobody wants to sell.

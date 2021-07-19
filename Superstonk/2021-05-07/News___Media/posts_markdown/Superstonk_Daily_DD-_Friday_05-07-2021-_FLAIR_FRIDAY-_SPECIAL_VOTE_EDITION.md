@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Friday 05-07-2021- FLAIR FRIDAY- SPECIAL VOTE EDITION!! 🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/](https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/)
+# Title: Superstonk Daily DD- Friday 05-07-2021- FLAIR FRIDAY- SPECIAL VOTE EDITION!! 🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/](https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/)
 
 
 &#x200B;

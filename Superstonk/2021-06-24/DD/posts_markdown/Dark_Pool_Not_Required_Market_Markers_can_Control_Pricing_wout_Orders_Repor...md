@@ -1,6 +1,6 @@
-#Title: Dark Pool Not Required, Market Markers can Control Pricing w/out Orders Reported, "Riskless" Principal Non-Tape Classification
-#Author: idLogger
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o75dt4/dark_pool_not_required_market_markers_can_control/](https://www.reddit.com/r/Superstonk/comments/o75dt4/dark_pool_not_required_market_markers_can_control/)
+# Title: Dark Pool Not Required, Market Markers can Control Pricing w/out Orders Reported, "Riskless" Principal Non-Tape Classification
+# Author: idLogger
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o75dt4/dark_pool_not_required_market_markers_can_control/](https://www.reddit.com/r/Superstonk/comments/o75dt4/dark_pool_not_required_market_markers_can_control/)
 
 
 u/atobitt u/redchessqueen99 u/rensole u/pinkcatsonacid u/criand u/mcuban u/deepfuckingvalue u/dlauer **Market markers maybe using the “riskless” principal because MM controls majority of the trades and has the ability to see Payment for Order flow including limit orders. MM just needs to group all orders on buy sides and never report transaction on** u/dlauer **“10 sec” tape. Here’s the references from FINRA rule.** 

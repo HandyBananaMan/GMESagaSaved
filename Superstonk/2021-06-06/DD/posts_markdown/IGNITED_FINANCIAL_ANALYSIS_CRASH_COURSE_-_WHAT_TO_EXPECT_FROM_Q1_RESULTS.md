@@ -1,6 +1,6 @@
-#Title: IGNITED FINANCIAL ANALYSIS CRASH COURSE - WHAT TO EXPECT FROM Q1 RESULTS
-#Author: JohnnyGrey
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/](https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/)
+# Title: IGNITED FINANCIAL ANALYSIS CRASH COURSE - WHAT TO EXPECT FROM Q1 RESULTS
+# Author: JohnnyGrey
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/](https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/)
 
 
 Hello you beautiful bastards. Since the Q1 results are right around the corner, I thought I could share some of my limited financial analysis knowledge with you. I know your tits are as jacked as your brains are smooth, so bear with me. This will be fun, I promise!

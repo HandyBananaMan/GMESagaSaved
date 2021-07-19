@@ -1,6 +1,6 @@
-#Title: A Mask off Citadel; Great Men Embezzle (AMC; GME)
-#Author: TheNovaeterrae
-#Post URL: [https://www.reddit.com/r/GME/comments/ms9upk/a_mask_off_citadel_great_men_embezzle_amc_gme/](https://www.reddit.com/r/GME/comments/ms9upk/a_mask_off_citadel_great_men_embezzle_amc_gme/)
+# Title: A Mask off Citadel; Great Men Embezzle (AMC; GME)
+# Author: TheNovaeterrae
+# Post URL: [https://www.reddit.com/r/GME/comments/ms9upk/a_mask_off_citadel_great_men_embezzle_amc_gme/](https://www.reddit.com/r/GME/comments/ms9upk/a_mask_off_citadel_great_men_embezzle_amc_gme/)
 
 
 Posted by Nova & Carob 

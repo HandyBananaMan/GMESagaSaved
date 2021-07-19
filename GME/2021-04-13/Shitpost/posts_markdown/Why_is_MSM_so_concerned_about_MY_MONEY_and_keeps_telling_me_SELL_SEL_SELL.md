@@ -1,6 +1,6 @@
-#Title: Why is MSM so concerned about MY MONEY and keeps telling me SELL SEL SELL?
-#Author: GinoF2020
-#Post URL: [https://www.reddit.com/r/GME/comments/mq12yj/why_is_msm_so_concerned_about_my_money_and_keeps/](https://www.reddit.com/r/GME/comments/mq12yj/why_is_msm_so_concerned_about_my_money_and_keeps/)
+# Title: Why is MSM so concerned about MY MONEY and keeps telling me SELL SEL SELL?
+# Author: GinoF2020
+# Post URL: [https://www.reddit.com/r/GME/comments/mq12yj/why_is_msm_so_concerned_about_my_money_and_keeps/](https://www.reddit.com/r/GME/comments/mq12yj/why_is_msm_so_concerned_about_my_money_and_keeps/)
 
 
 

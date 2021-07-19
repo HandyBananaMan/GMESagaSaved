@@ -1,6 +1,6 @@
-#Title: I believe the following price movement has been specifically created to trigger the gamma squeeze. Analysis inside.
-#Author: Dannyboi93
-#Post URL: [https://www.reddit.com/r/GME/comments/m2vje6/i_believe_the_following_price_movement_has_been/](https://www.reddit.com/r/GME/comments/m2vje6/i_believe_the_following_price_movement_has_been/)
+# Title: I believe the following price movement has been specifically created to trigger the gamma squeeze. Analysis inside.
+# Author: Dannyboi93
+# Post URL: [https://www.reddit.com/r/GME/comments/m2vje6/i_believe_the_following_price_movement_has_been/](https://www.reddit.com/r/GME/comments/m2vje6/i_believe_the_following_price_movement_has_been/)
 
 
 As you can see in the image below, the stock is moving in a weird manner, for starters, an ascending triangle usually comes about as a price moves up and hits resistance, but there was none of that here, as soon as the day started the ascending triangle began to form.

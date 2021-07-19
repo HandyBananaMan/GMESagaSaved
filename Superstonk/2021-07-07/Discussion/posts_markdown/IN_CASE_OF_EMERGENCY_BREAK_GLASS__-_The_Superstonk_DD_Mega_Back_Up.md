@@ -1,6 +1,6 @@
-#Title: 🚨🚨IN CASE OF EMERGENCY, BREAK GLASS 🚨🚨 - The Superstonk DD Mega Back Up 🚀
-#Author: onlyfuturehuman
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofl270/in_case_of_emergency_break_glass_the_superstonk/](https://www.reddit.com/r/Superstonk/comments/ofl270/in_case_of_emergency_break_glass_the_superstonk/)
+# Title: 🚨🚨IN CASE OF EMERGENCY, BREAK GLASS 🚨🚨 - The Superstonk DD Mega Back Up 🚀
+# Author: onlyfuturehuman
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofl270/in_case_of_emergency_break_glass_the_superstonk/](https://www.reddit.com/r/Superstonk/comments/ofl270/in_case_of_emergency_break_glass_the_superstonk/)
 
 
 Hello Fellow Apes!

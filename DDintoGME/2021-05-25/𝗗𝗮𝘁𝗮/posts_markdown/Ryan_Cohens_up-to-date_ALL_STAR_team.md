@@ -1,6 +1,6 @@
-#Title: Ryan Cohen's up-to-date ALL STAR team
-#Author: crazysearchjefferson
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nku3ty/ryan_cohens_uptodate_all_star_team/](https://www.reddit.com/r/DDintoGME/comments/nku3ty/ryan_cohens_uptodate_all_star_team/)
+# Title: Ryan Cohen's up-to-date ALL STAR team
+# Author: crazysearchjefferson
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nku3ty/ryan_cohens_uptodate_all_star_team/](https://www.reddit.com/r/DDintoGME/comments/nku3ty/ryan_cohens_uptodate_all_star_team/)
 
 
 &#x200B;

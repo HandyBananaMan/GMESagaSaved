@@ -1,6 +1,6 @@
-#Title: Mystery of the negative beta SOLVED: HFs are levered to the tits + my market watch 25Mar21: where we are now & what we can expect for the future
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/](https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/)
+# Title: Mystery of the negative beta SOLVED: HFs are levered to the tits + my market watch 25Mar21: where we are now & what we can expect for the future
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/](https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/)
 
 
 **Disclaimer:** I am not a financial advisor. I am just an ape with half a master’s degree in finance and financial law (EDIT: am still writing the dissertation) and some imagination. No crayons were harmed in the making of this post.

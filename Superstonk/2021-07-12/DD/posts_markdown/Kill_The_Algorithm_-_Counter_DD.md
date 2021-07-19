@@ -1,6 +1,6 @@
-#Title: Kill The Algorithm - Counter DD
-#Author: Tyrannical_Fruitbat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiyg55/kill_the_algorithm_counter_dd/](https://www.reddit.com/r/Superstonk/comments/oiyg55/kill_the_algorithm_counter_dd/)
+# Title: Kill The Algorithm - Counter DD
+# Author: Tyrannical_Fruitbat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiyg55/kill_the_algorithm_counter_dd/](https://www.reddit.com/r/Superstonk/comments/oiyg55/kill_the_algorithm_counter_dd/)
 
 
 This isn't financial advice. I'm in idiot. Constructive criticism is welcome, and I'll try to include any good points brought to my attention with edits.

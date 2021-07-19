@@ -1,6 +1,6 @@
-#Title: Cede & Co. The secret trillion-dollar company that owns America
-#Author: LaserHawk_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvspq/cede_co_the_secret_trilliondollar_company_that/](https://www.reddit.com/r/Superstonk/comments/mvvspq/cede_co_the_secret_trilliondollar_company_that/)
+# Title: Cede & Co. The secret trillion-dollar company that owns America
+# Author: LaserHawk_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvspq/cede_co_the_secret_trilliondollar_company_that/](https://www.reddit.com/r/Superstonk/comments/mvvspq/cede_co_the_secret_trilliondollar_company_that/)
 
 
 Hello apes of all genders. With the awakening given to us by u/atobitt regarding the rampant corruption that runs up and down the chain I began my due diligence. I ran across an article that I thought had to be shared.  

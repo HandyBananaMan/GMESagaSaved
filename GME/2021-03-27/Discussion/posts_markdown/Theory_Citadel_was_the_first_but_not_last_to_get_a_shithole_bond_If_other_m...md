@@ -1,6 +1,6 @@
-#Title: **Theory** Citadel was the first, but not last to get a shithole bond. If other major players with a short position pursue these BBB-rated bonds it could break open the US corporate debt bond bubble. GME goes to moon no matter what but this could be how GME triggers the collapse of US economy/market
-#Author: somename_05
-#Post URL: [https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/](https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/)
+# Title: **Theory** Citadel was the first, but not last to get a shithole bond. If other major players with a short position pursue these BBB-rated bonds it could break open the US corporate debt bond bubble. GME goes to moon no matter what but this could be how GME triggers the collapse of US economy/market
+# Author: somename_05
+# Post URL: [https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/](https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/)
 
 
 \*\*\*Disclaimer - this is purely speculative. Just a theory. I am a smooth brained ape. I am not a financial advisor and this is not financial advice. This is not DD. I do not endorse any specific type of trading in anyway shape or form. I repeat NOT FINANCIAL ADVICE.\*\*\*

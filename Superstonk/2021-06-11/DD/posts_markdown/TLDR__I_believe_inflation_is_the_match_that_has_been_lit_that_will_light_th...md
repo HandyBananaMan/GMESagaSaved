@@ -1,6 +1,6 @@
-#Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/)
+# Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/)
 
 
 Good evening r/Superstonk, neighborhood jellyfish here! I would like to revisit the [CPI report](https://www.reddit.com/r/Superstonk/comments/nwodvj/the_consumer_price_index_climbed_06_from_the/) from yesterday while considering Reverse Repos. One thing that happened after the 5% number came out was that junk-bond yields fell to new record lows.

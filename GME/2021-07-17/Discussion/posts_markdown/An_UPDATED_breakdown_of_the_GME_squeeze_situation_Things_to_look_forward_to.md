@@ -1,6 +1,6 @@
-#Title: An UPDATED breakdown of the GME squeeze situation: Things to look forward to
-#Author: LtMrDan
-#Post URL: [https://www.reddit.com/r/GME/comments/omco6m/an_updated_breakdown_of_the_gme_squeeze_situation/](https://www.reddit.com/r/GME/comments/omco6m/an_updated_breakdown_of_the_gme_squeeze_situation/)
+# Title: An UPDATED breakdown of the GME squeeze situation: Things to look forward to
+# Author: LtMrDan
+# Post URL: [https://www.reddit.com/r/GME/comments/omco6m/an_updated_breakdown_of_the_gme_squeeze_situation/](https://www.reddit.com/r/GME/comments/omco6m/an_updated_breakdown_of_the_gme_squeeze_situation/)
 
 
 I was asked to repost this every once in a while... and now seems like a better time than ever to cut through the noise with the GME situation, and to focus on what is important to understand / consider.

@@ -1,6 +1,6 @@
-#Title: When squeeze? When crash? No dates, but it is possible that this data science technique might give an early warning...
-#Author: squirrel_of_fortune
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/](https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/)
+# Title: When squeeze? When crash? No dates, but it is possible that this data science technique might give an early warning...
+# Author: squirrel_of_fortune
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/](https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/)
 
 
 **TL/DR:**

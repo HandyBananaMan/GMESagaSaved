@@ -1,6 +1,6 @@
-#Title: 🦍💬 [TOO APE DIDN’T READ] OCC-2021-801 Notice of No Objection re: OCC-2021-003 for kids who can't read good and who wanna learn how to do other stuff good too, ft. SEC comments & Susquehanna International Group
-#Author: Antioch_Orontes
-#Post URL: [https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/](https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/)
+# Title: 🦍💬 [TOO APE DIDN’T READ] OCC-2021-801 Notice of No Objection re: OCC-2021-003 for kids who can't read good and who wanna learn how to do other stuff good too, ft. SEC comments & Susquehanna International Group
+# Author: Antioch_Orontes
+# Post URL: [https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/](https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/)
 
 
 # 🦍💬  "OCC? Notice of no objection? What's the difference between 801 and 003? Please turn the big words into little words."

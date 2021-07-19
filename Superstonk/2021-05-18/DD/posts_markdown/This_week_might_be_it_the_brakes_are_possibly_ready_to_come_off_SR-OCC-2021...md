@@ -1,6 +1,6 @@
-#Title: This week might be it; the brakes are possibly ready to come off (SR-OCC-2021-004 and MORE)
-#Author: c-digs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/](https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/)
+# Title: This week might be it; the brakes are possibly ready to come off (SR-OCC-2021-004 and MORE)
+# Author: c-digs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/](https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/)
 
 
 **EDIT: May 20** \- [So good, Tim Fries at the Tokenist shamelessly lifted this DD](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/) 🤣

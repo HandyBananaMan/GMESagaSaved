@@ -1,6 +1,6 @@
-#Title: Gamestop was previously restricted from issuing dividends and acquisitions by the 2023 bonds, which they just paid off.
-#Author: lucidfer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqc5gh/gamestop_was_previously_restricted_from_issuing/](https://www.reddit.com/r/Superstonk/comments/mqc5gh/gamestop_was_previously_restricted_from_issuing/)
+# Title: Gamestop was previously restricted from issuing dividends and acquisitions by the 2023 bonds, which they just paid off.
+# Author: lucidfer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqc5gh/gamestop_was_previously_restricted_from_issuing/](https://www.reddit.com/r/Superstonk/comments/mqc5gh/gamestop_was_previously_restricted_from_issuing/)
 
 
 creddit goes to ~~/u/samsens for [discovering this](https://www.reddit.com/r/Superstonk/comments/mqaxlh/holy_shit/).~~ [DOMO for highlighting and twattering this.](https://twitter.com/DOMOCAPITAL/status/1382064324248735744?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)

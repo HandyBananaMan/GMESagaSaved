@@ -1,6 +1,6 @@
-#Title: Remember the rumors of the May 17th margin call? Reverse Repos DECREASED and GME jumped 200% on T+5 (margin call deadline). Yesterday, margin calls via anytime SLD checks were enacted, the price is dipping, and Reverse Repos have DECREASED. HODL ONTO YOUR TITS
-#Author: tophereth
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uxlz/remember_the_rumors_of_the_may_17th_margin_call/](https://www.reddit.com/r/Superstonk/comments/o7uxlz/remember_the_rumors_of_the_may_17th_margin_call/)
+# Title: Remember the rumors of the May 17th margin call? Reverse Repos DECREASED and GME jumped 200% on T+5 (margin call deadline). Yesterday, margin calls via anytime SLD checks were enacted, the price is dipping, and Reverse Repos have DECREASED. HODL ONTO YOUR TITS
+# Author: tophereth
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uxlz/remember_the_rumors_of_the_may_17th_margin_call/](https://www.reddit.com/r/Superstonk/comments/o7uxlz/remember_the_rumors_of_the_may_17th_margin_call/)
 
 
 I started thinking about reasons why RRPs decreased today, and then I was reminded of a [post last month that predicted the price action from May 25th into June](https://www.reddit.com/r/DDintoGME/comments/nlzqvs/gamma_squeeze_alert_the_future_ahead/) and how it could've related to reverse repos. Essentially, i'm speculating that the reverse repos dipped today because someone got margin called and unless they satisfy their margin requirements within T+5, they will be forced to cover on July 5th. **This means watch for dips in ETFs that last up to 6 days** (T+5). The deadline for satisfying the *theoretical* margin call would be **July 5th**. Also, i'm currently reading through 002 to see if it throws a wrench in this idea.

@@ -1,6 +1,6 @@
-#Title: Lesson One: How to Create $1.2 Trillion of Value on Paper for Around $2 Million
-#Author: greysweatseveryday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/](https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/)
+# Title: Lesson One: How to Create $1.2 Trillion of Value on Paper for Around $2 Million
+# Author: greysweatseveryday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/](https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/)
 
 
 *EDIT 1: I added a follow up DD using data and SEC rules to discuss whether this is even possible to pull off:* [*https://www.reddit.com/r/Superstonk/comments/mwyeef/lesson\_two\_why\_hedgies\_using\_cxc\_is\_unlikely\_but/*](https://www.reddit.com/r/Superstonk/comments/mwyeef/lesson_two_why_hedgies_using_cxc_is_unlikely_but/)*. I think it would be extremely unlikely for this to actually have happened, but theoretically it is possible.* 

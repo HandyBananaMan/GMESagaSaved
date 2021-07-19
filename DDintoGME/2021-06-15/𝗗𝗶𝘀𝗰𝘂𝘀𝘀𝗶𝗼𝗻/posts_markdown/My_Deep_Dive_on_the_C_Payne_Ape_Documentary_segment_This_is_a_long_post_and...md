@@ -1,6 +1,6 @@
-#Title: My Deep Dive on the C. Payne Ape Documentary segment. This is a long post and I spent all night writing and investigating it, and sort my thoughts as best possible. feedback welcome
-#Author: marcus-halberstram66
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0e46a/my_deep_dive_on_the_c_payne_ape_documentary/](https://www.reddit.com/r/DDintoGME/comments/o0e46a/my_deep_dive_on_the_c_payne_ape_documentary/)
+# Title: My Deep Dive on the C. Payne Ape Documentary segment. This is a long post and I spent all night writing and investigating it, and sort my thoughts as best possible. feedback welcome
+# Author: marcus-halberstram66
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0e46a/my_deep_dive_on_the_c_payne_ape_documentary/](https://www.reddit.com/r/DDintoGME/comments/o0e46a/my_deep_dive_on_the_c_payne_ape_documentary/)
 
 
 I noticed red flags about the documentary featured on C. Payne's programme and went to analyze them in detail.

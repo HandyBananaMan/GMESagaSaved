@@ -1,6 +1,6 @@
-#Title: Why GME in theory could reach 1.686.894 USD within a week when MOAAS begin
-#Author: isnisse
-#Post URL: [https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/](https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/)
+# Title: Why GME in theory could reach 1.686.894 USD within a week when MOAAS begin
+# Author: isnisse
+# Post URL: [https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/](https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/)
 
 
 Hello my dear apes, I got an interesting idea to bring to you guys. I have finally gained not 1, not 2, but 3 wrinkles on my pinky brain.

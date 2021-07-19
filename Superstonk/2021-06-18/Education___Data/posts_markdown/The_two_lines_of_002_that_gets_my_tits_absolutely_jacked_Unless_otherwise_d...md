@@ -1,6 +1,6 @@
-#Title: The two lines of 002 that gets my tits absolutely jacked "Unless otherwise determined by the [NSCC] within 1 hour of demand of [liquidity] from the [NSCC], a member shall make a [deposit]". "In the event of any failure of [liquidity] ... the [NSCC] may collect such amount in system wide settlement".
-#Author: the_nebraskan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/](https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/)
+# Title: The two lines of 002 that gets my tits absolutely jacked "Unless otherwise determined by the [NSCC] within 1 hour of demand of [liquidity] from the [NSCC], a member shall make a [deposit]". "In the event of any failure of [liquidity] ... the [NSCC] may collect such amount in system wide settlement".
+# Author: the_nebraskan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/](https://www.reddit.com/r/Superstonk/comments/o37tlh/the_two_lines_of_002_that_gets_my_tits_absolutely/)
 
 
 [Source Document](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/NSCC/SR-NSCC-2021-002.pdf)

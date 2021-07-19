@@ -1,6 +1,6 @@
-#Title: Hyperinflation is Coming- The Dollar Endgame: PART 1, “A New Rome”
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/)
+# Title: Hyperinflation is Coming- The Dollar Endgame: PART 1, “A New Rome”
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/)
 
 
 (this is a second half of Pt 1 of the endgame series, find the first half of Pt 1 [here](https://www.reddit.com/r/Superstonk/comments/o4vzau/hyperinflation_is_coming_the_dollar_endgame_part/))

@@ -1,6 +1,6 @@
-#Title: IF YOU ARE NEW, DO NOT USE ROBINHOOD AND DO NOT TRADE MARGIN
-#Author: sofessenceee
-#Post URL: [https://www.reddit.com/r/GME/comments/mhlduj/if_you_are_new_do_not_use_robinhood_and_do_not/](https://www.reddit.com/r/GME/comments/mhlduj/if_you_are_new_do_not_use_robinhood_and_do_not/)
+# Title: IF YOU ARE NEW, DO NOT USE ROBINHOOD AND DO NOT TRADE MARGIN
+# Author: sofessenceee
+# Post URL: [https://www.reddit.com/r/GME/comments/mhlduj/if_you_are_new_do_not_use_robinhood_and_do_not/](https://www.reddit.com/r/GME/comments/mhlduj/if_you_are_new_do_not_use_robinhood_and_do_not/)
 
 
 🚀🚀🚀🚀🚀🚀🚀🌚🌚🌚

@@ -1,6 +1,6 @@
-#Title: Steve Cohen selling Picasso's "Woman sitting near a window" for 100 million dollar?
-#Author: Responsible-Spirit95
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nis8nd/steve_cohen_selling_picassos_woman_sitting_near_a/](https://www.reddit.com/r/Superstonk/comments/nis8nd/steve_cohen_selling_picassos_woman_sitting_near_a/)
+# Title: Steve Cohen selling Picasso's "Woman sitting near a window" for 100 million dollar?
+# Author: Responsible-Spirit95
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nis8nd/steve_cohen_selling_picassos_woman_sitting_near_a/](https://www.reddit.com/r/Superstonk/comments/nis8nd/steve_cohen_selling_picassos_woman_sitting_near_a/)
 
 
 Hey,

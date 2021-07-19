@@ -1,6 +1,6 @@
-#Title: Why understanding Gamestop's 10-K legalese is important to help identify FUD: Using yesterday's failed attacks against u/WardenElite as an example
-#Author: luridess
-#Post URL: [https://www.reddit.com/r/GME/comments/mglmzi/why_understanding_gamestops_10k_legalese_is/](https://www.reddit.com/r/GME/comments/mglmzi/why_understanding_gamestops_10k_legalese_is/)
+# Title: Why understanding Gamestop's 10-K legalese is important to help identify FUD: Using yesterday's failed attacks against u/WardenElite as an example
+# Author: luridess
+# Post URL: [https://www.reddit.com/r/GME/comments/mglmzi/why_understanding_gamestops_10k_legalese_is/](https://www.reddit.com/r/GME/comments/mglmzi/why_understanding_gamestops_10k_legalese_is/)
 
 
 ![u/luridess on her way to 🦍, 🦍 &🍌 LLP](https://iili.io/qelHCu.jpg)

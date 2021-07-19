@@ -1,6 +1,6 @@
-#Title: Stop letting Susquehanna fly under the radar... Even if it's hard to spell and pronounce.
-#Author: SixOneFive615
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8o2cf/stop_letting_susquehanna_fly_under_the_radar_even/](https://www.reddit.com/r/Superstonk/comments/o8o2cf/stop_letting_susquehanna_fly_under_the_radar_even/)
+# Title: Stop letting Susquehanna fly under the radar... Even if it's hard to spell and pronounce.
+# Author: SixOneFive615
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8o2cf/stop_letting_susquehanna_fly_under_the_radar_even/](https://www.reddit.com/r/Superstonk/comments/o8o2cf/stop_letting_susquehanna_fly_under_the_radar_even/)
 
 
 Apes. I'm really happy to see that Steve Cohen and Point 72 are getting some attention. While we're at it, we need to talk about the fact that Susquehanna has continued to fly under the radar. Along with Melvin and Citadel, Susquehanna has the largest short position on GME. But what sets them apart? Citadel has $35 billion assets under management. Susquehanna has $633 billion assets under management. And guess who gets those assets when margin comes calling and they're forcefully liquidated? I'd also argue that Susquehanna has likely been the biggest player behind the scenes conducting fuckery to drag this thing out. 

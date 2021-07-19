@@ -1,6 +1,6 @@
-#Title: The NBBO (best price) is only determined by round lots (100 shares and more). This means single share buys do squat all in setting market price. This means retail traders trading a lower volume don't impact the price as they should and high price stocks (AMZN) require a lot of volume to move price
-#Author: bosshax
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/](https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/)
+# Title: The NBBO (best price) is only determined by round lots (100 shares and more). This means single share buys do squat all in setting market price. This means retail traders trading a lower volume don't impact the price as they should and high price stocks (AMZN) require a lot of volume to move price
+# Author: bosshax
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/](https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/)
 
 
 **Many retail investors assume that if there is ONE SHARE exchanged at $10,000,000 then that price will be set as the Market Price. THIS IS WRONG!**

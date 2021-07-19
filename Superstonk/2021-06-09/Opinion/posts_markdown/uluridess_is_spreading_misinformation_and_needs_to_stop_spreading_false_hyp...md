@@ -1,6 +1,6 @@
-#Title: u/luridess is spreading misinformation and needs to stop spreading false hype
-#Author: dce_azzy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/](https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/)
+# Title: u/luridess is spreading misinformation and needs to stop spreading false hype
+# Author: dce_azzy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/](https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/)
 
 
 Majority means >50% .. this is standard, of course they were going to say this.

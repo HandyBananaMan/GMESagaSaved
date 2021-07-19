@@ -1,6 +1,6 @@
-#Title: What to expect 6/9 at the shareholder's meeting
-#Author: punkyrus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqwvgq/what_to_expect_69_at_the_shareholders_meeting/](https://www.reddit.com/r/Superstonk/comments/nqwvgq/what_to_expect_69_at_the_shareholders_meeting/)
+# Title: What to expect 6/9 at the shareholder's meeting
+# Author: punkyrus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqwvgq/what_to_expect_69_at_the_shareholders_meeting/](https://www.reddit.com/r/Superstonk/comments/nqwvgq/what_to_expect_69_at_the_shareholders_meeting/)
 
 
 Hi All,

@@ -1,6 +1,6 @@
-#Title: Theory: ALL THE PIECES, pt. 1 – The Anatomy of the Crime of Citadel
-#Author: swede_child_of_mine
-#Post URL: [https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/](https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/)
+# Title: Theory: ALL THE PIECES, pt. 1 – The Anatomy of the Crime of Citadel
+# Author: swede_child_of_mine
+# Post URL: [https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/](https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/)
 
 
 *“Behind every great fortune there is a crime” – Balzac*

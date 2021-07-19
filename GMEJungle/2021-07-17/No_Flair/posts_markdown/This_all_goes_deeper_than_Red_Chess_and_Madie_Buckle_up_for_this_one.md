@@ -1,6 +1,6 @@
-#Title: This all goes deeper than Red Chess and Madie. Buckle up for this one
-#Author: Mango_Boi_
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omewm4/this_all_goes_deeper_than_red_chess_and_madie/](https://www.reddit.com/r/GMEJungle/comments/omewm4/this_all_goes_deeper_than_red_chess_and_madie/)
+# Title: This all goes deeper than Red Chess and Madie. Buckle up for this one
+# Author: Mango_Boi_
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omewm4/this_all_goes_deeper_than_red_chess_and_madie/](https://www.reddit.com/r/GMEJungle/comments/omewm4/this_all_goes_deeper_than_red_chess_and_madie/)
 
 
 TL,DR: There has been a coordinated infiltration attempt of the reddit communities surrounding retail trading and GME from Day 1. Madie was always sus but infiltrators rarely work alone. Redchessqueen99 clearly in on it. But the KING PIN seems to have been RENSOLE from DAY 1. A heavy accusation, yeah, but the evidence is mounting and with todays mod statement from Superstonk it continues to grow. And their plan almost worked if it hadn’t been for genuine actors like Pink.

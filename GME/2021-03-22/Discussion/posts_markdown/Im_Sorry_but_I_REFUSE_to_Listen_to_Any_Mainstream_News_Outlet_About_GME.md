@@ -1,6 +1,6 @@
-#Title: I’m Sorry but I REFUSE to Listen to Any Mainstream News Outlet About $GME
-#Author: Jibbcar
-#Post URL: [https://www.reddit.com/r/GME/comments/maktdg/im_sorry_but_i_refuse_to_listen_to_any_mainstream/](https://www.reddit.com/r/GME/comments/maktdg/im_sorry_but_i_refuse_to_listen_to_any_mainstream/)
+# Title: I’m Sorry but I REFUSE to Listen to Any Mainstream News Outlet About $GME
+# Author: Jibbcar
+# Post URL: [https://www.reddit.com/r/GME/comments/maktdg/im_sorry_but_i_refuse_to_listen_to_any_mainstream/](https://www.reddit.com/r/GME/comments/maktdg/im_sorry_but_i_refuse_to_listen_to_any_mainstream/)
 
 
 Or anything real for that matter..

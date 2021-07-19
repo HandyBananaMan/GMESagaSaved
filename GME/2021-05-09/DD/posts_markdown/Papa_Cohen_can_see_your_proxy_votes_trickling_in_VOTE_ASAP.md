@@ -1,6 +1,6 @@
-#Title: Papa Cohen can see your proxy votes trickling in. VOTE ASAP
-#Author: jamin4jc
-#Post URL: [https://www.reddit.com/r/GME/comments/n8fe18/papa_cohen_can_see_your_proxy_votes_trickling_in/](https://www.reddit.com/r/GME/comments/n8fe18/papa_cohen_can_see_your_proxy_votes_trickling_in/)
+# Title: Papa Cohen can see your proxy votes trickling in. VOTE ASAP
+# Author: jamin4jc
+# Post URL: [https://www.reddit.com/r/GME/comments/n8fe18/papa_cohen_can_see_your_proxy_votes_trickling_in/](https://www.reddit.com/r/GME/comments/n8fe18/papa_cohen_can_see_your_proxy_votes_trickling_in/)
 
 
 I was checking to see what capabilities that are available by the Proxy Voting vendor that Gamestop is using. The product is called [ProxyVote](https://www.broadridge.com/financial-services/corporate-issuer/issuer/build-your-brand-and-engage-shareholders/proxyvote) by Broadridge Financial Solutions.

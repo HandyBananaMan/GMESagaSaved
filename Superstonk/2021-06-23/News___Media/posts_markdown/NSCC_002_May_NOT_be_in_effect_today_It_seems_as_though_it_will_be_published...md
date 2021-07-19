@@ -1,6 +1,6 @@
-#Title: NSCC 002 May NOT be in effect today. It seems as though it will be published on the Federal register tomorrow.
-#Author: Inevitable-Elk-4162
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ekj2/nscc_002_may_not_be_in_effect_today_it_seems_as/](https://www.reddit.com/r/Superstonk/comments/o6ekj2/nscc_002_may_not_be_in_effect_today_it_seems_as/)
+# Title: NSCC 002 May NOT be in effect today. It seems as though it will be published on the Federal register tomorrow.
+# Author: Inevitable-Elk-4162
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ekj2/nscc_002_may_not_be_in_effect_today_it_seems_as/](https://www.reddit.com/r/Superstonk/comments/o6ekj2/nscc_002_may_not_be_in_effect_today_it_seems_as/)
 
 
 https://preview.redd.it/jzxzpop651771.png?width=845&format=png&auto=webp&s=d1216f0d8056da55a8872ac78579134418cd0599

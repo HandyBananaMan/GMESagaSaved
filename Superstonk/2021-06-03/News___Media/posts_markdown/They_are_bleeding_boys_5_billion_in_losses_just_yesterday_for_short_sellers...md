@@ -1,6 +1,6 @@
-#Title: They are bleeding boys. 5 billion in losses just yesterday for short sellers. HOOOODL
-#Author: HILUX5
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrecly/they_are_bleeding_boys_5_billion_in_losses_just/](https://www.reddit.com/r/Superstonk/comments/nrecly/they_are_bleeding_boys_5_billion_in_losses_just/)
+# Title: They are bleeding boys. 5 billion in losses just yesterday for short sellers. HOOOODL
+# Author: HILUX5
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrecly/they_are_bleeding_boys_5_billion_in_losses_just/](https://www.reddit.com/r/Superstonk/comments/nrecly/they_are_bleeding_boys_5_billion_in_losses_just/)
 
 
 https://v.redd.it/ugr6174b52371

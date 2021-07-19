@@ -1,6 +1,6 @@
-#Title: SEC Legalese to Ape Speak - FINAL CHAPTER: How Gamestop is using its SEC 10-K Filings to fight back against targeted naked short selling (aka My Magnum Opus)
-#Author: luridess
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/](https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/)
+# Title: SEC Legalese to Ape Speak - FINAL CHAPTER: How Gamestop is using its SEC 10-K Filings to fight back against targeted naked short selling (aka My Magnum Opus)
+# Author: luridess
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/](https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: A crypto dive with the Jellyfish - 10 things about crypto that could be useful to know going into the 7/14 reveal.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/](https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/)
+# Title: A crypto dive with the Jellyfish - 10 things about crypto that could be useful to know going into the 7/14 reveal.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/](https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/)
 
 
 ![Good afternoon r\/Superstonk, Jellyfish here to try and discuss crypto \(ducks!\)  ](https://preview.redd.it/7du1kjnfot971.jpg?width=320&format=pjpg&auto=webp&s=59591863e05125f8bd644d116f2b5d85aabac612)

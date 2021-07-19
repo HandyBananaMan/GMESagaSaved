@@ -1,6 +1,6 @@
-#Title: Feb 24-26: failed launch attempt and proof the DTCC must be the catalyst?
-#Author: Bladeace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/)
+# Title: Feb 24-26: failed launch attempt and proof the DTCC must be the catalyst?
+# Author: Bladeace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/)
 
 
 **TL;DR:** This never should have gone on for this long, it's too dangerous for everyone involved. Whales tried to solve this themselves and attempted to launch the rocket in February with a gamma squeeze. This failed, so they have no choice except to fight a holding pattern until the DTCC and the feds step in. I hold because I think they are all working hard to bring me a very large bucket of tendies.

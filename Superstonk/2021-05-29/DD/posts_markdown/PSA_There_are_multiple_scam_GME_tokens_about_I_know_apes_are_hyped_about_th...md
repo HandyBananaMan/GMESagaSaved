@@ -1,6 +1,6 @@
-#Title: PSA: There are multiple scam GME tokens about. I know apes are hyped about the GME NFT but please be careful.
-#Author: Safisynai
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/](https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/)
+# Title: PSA: There are multiple scam GME tokens about. I know apes are hyped about the GME NFT but please be careful.
+# Author: Safisynai
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/](https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/)
 
 
 **Mods:** I flaired this DD, but please let me know if another flair would be more appropriate.

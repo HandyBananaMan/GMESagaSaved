@@ -1,6 +1,6 @@
-#Title: Citadel office activity, from the ground
-#Author: SuperstonkBot
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/)
+# Title: Citadel office activity, from the ground
+# Author: SuperstonkBot
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/)
 
 
 *Note: Mods, this would be a Data flair, please and thank you for all you do*.

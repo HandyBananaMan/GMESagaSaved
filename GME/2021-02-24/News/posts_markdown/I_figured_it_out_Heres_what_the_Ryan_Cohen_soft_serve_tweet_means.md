@@ -1,6 +1,6 @@
-#Title: I figured it out! Here's what the Ryan Cohen 'soft serve' tweet means!!!
-#Author: Gyrene4341
-#Post URL: [https://www.reddit.com/r/GME/comments/lryuig/i_figured_it_out_heres_what_the_ryan_cohen_soft/](https://www.reddit.com/r/GME/comments/lryuig/i_figured_it_out_heres_what_the_ryan_cohen_soft/)
+# Title: I figured it out! Here's what the Ryan Cohen 'soft serve' tweet means!!!
+# Author: Gyrene4341
+# Post URL: [https://www.reddit.com/r/GME/comments/lryuig/i_figured_it_out_heres_what_the_ryan_cohen_soft/](https://www.reddit.com/r/GME/comments/lryuig/i_figured_it_out_heres_what_the_ryan_cohen_soft/)
 
 
 You guys! 🚀 Holy fuck!  🚀 Ryan Cohen has the reigns now and they just had their first board meeting 🍦 and are on the new path to Tendietown. Same as he did at Chewy!

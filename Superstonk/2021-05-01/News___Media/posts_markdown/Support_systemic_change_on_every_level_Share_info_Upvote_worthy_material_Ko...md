@@ -1,6 +1,6 @@
-#Title: Support systemic change on every level. Share info. Upvote worthy material. Korean naked short sellers will be fined up to 100% of their order amount and could face imprisonment for a year or more as well as additional penalties up to five times the unfair profits made. Ants are showing us the way.
-#Author: mtgac
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n2gt1y/support_systemic_change_on_every_level_share_info/](https://www.reddit.com/r/Superstonk/comments/n2gt1y/support_systemic_change_on_every_level_share_info/)
+# Title: Support systemic change on every level. Share info. Upvote worthy material. Korean naked short sellers will be fined up to 100% of their order amount and could face imprisonment for a year or more as well as additional penalties up to five times the unfair profits made. Ants are showing us the way.
+# Author: mtgac
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2gt1y/support_systemic_change_on_every_level_share_info/](https://www.reddit.com/r/Superstonk/comments/n2gt1y/support_systemic_change_on_every_level_share_info/)
 
 
 [Korea](https://en.m.wikipedia.org/wiki/South_Korea) actually *halted short selling* during the pandemic.  They implemented the  

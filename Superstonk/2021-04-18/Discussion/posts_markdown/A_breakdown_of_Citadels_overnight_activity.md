@@ -1,6 +1,6 @@
-#Title: A breakdown of Citadel's overnight activity
-#Author: Longjumping_College
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/](https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/)
+# Title: A breakdown of Citadel's overnight activity
+# Author: Longjumping_College
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/](https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/)
 
 
 Last night, Citadel worked through the night. Their phone traffic started ~1 hour before crypto crashed (no comment on that yet, just noting timing). They kept going, phone traffic increased enough that people drove to verify indeed lights were on. 

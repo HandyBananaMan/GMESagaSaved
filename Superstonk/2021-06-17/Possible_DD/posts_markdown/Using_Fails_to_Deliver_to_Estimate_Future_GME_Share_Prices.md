@@ -1,6 +1,6 @@
-#Title: Using Fails to Deliver to Estimate Future $GME Share Prices
-#Author: ajquick
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/](https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/)
+# Title: Using Fails to Deliver to Estimate Future $GME Share Prices
+# Author: ajquick
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/](https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/)
 
 
 ## This method did not work. It is (obviously) more complicated than this basic computation. The SHFs are doing a LOT to surprise the price right now.

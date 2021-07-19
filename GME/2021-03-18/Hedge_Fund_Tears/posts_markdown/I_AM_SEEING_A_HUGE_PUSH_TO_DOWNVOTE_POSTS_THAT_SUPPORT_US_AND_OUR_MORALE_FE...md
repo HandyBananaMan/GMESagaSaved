@@ -1,6 +1,6 @@
-#Title: I AM SEEING A HUGE PUSH TO DOWNVOTE POSTS THAT SUPPORT US AND OUR MORALE FELLOW APES. FOR EVERY 3 UPVOTES THERE ARE 2 DOWNVOTES. THIS IS PSYCHOLOGICAL WARFARE AND THEY ARE USING EVERY WEAPON THEY CAN AGAINST US. IF YOU WERE LOSING BILLIONS YOU WOULD TOO. IT MUST BE WORKING! ❤️🙌🏼💎
-#Author: antzuno
-#Post URL: [https://www.reddit.com/r/GME/comments/m7swud/i_am_seeing_a_huge_push_to_downvote_posts_that/](https://www.reddit.com/r/GME/comments/m7swud/i_am_seeing_a_huge_push_to_downvote_posts_that/)
+# Title: I AM SEEING A HUGE PUSH TO DOWNVOTE POSTS THAT SUPPORT US AND OUR MORALE FELLOW APES. FOR EVERY 3 UPVOTES THERE ARE 2 DOWNVOTES. THIS IS PSYCHOLOGICAL WARFARE AND THEY ARE USING EVERY WEAPON THEY CAN AGAINST US. IF YOU WERE LOSING BILLIONS YOU WOULD TOO. IT MUST BE WORKING! ❤️🙌🏼💎
+# Author: antzuno
+# Post URL: [https://www.reddit.com/r/GME/comments/m7swud/i_am_seeing_a_huge_push_to_downvote_posts_that/](https://www.reddit.com/r/GME/comments/m7swud/i_am_seeing_a_huge_push_to_downvote_posts_that/)
 
 
 They are pulling out all the stops. This is where diamonds are made 💎

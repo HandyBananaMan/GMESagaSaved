@@ -1,6 +1,6 @@
-#Title: So today I woke up and I checked our beloved r/GME
-#Author: ArGi98
-#Post URL: [https://www.reddit.com/r/GME/comments/mbyy4l/so_today_i_woke_up_and_i_checked_our_beloved_rgme/](https://www.reddit.com/r/GME/comments/mbyy4l/so_today_i_woke_up_and_i_checked_our_beloved_rgme/)
+# Title: So today I woke up and I checked our beloved r/GME
+# Author: ArGi98
+# Post URL: [https://www.reddit.com/r/GME/comments/mbyy4l/so_today_i_woke_up_and_i_checked_our_beloved_rgme/](https://www.reddit.com/r/GME/comments/mbyy4l/so_today_i_woke_up_and_i_checked_our_beloved_rgme/)
 
 
 And what I found is:

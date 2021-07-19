@@ -1,6 +1,6 @@
-#Title: DEEP ITM Calls Activity PT2 - April 1st - 708,000 FTDs reset today - adding to the 44 million laundered shares we already found.
-#Author: dejf2
-#Post URL: [https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/](https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/)
+# Title: DEEP ITM Calls Activity PT2 - April 1st - 708,000 FTDs reset today - adding to the 44 million laundered shares we already found.
+# Author: dejf2
+# Post URL: [https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/](https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/)
 
 
 # EDIT: 1,033,500 shares as of market close April1

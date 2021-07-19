@@ -1,6 +1,6 @@
-#Title: All Shorts Must Cover. They're Entering The Danger Zone. The SI Report Loop Consistently Brings Us Ever Closer To The Squeeze.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)
+# Title: All Shorts Must Cover. They're Entering The Danger Zone. The SI Report Loop Consistently Brings Us Ever Closer To The Squeeze.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)
 
 
 # 0. Preface

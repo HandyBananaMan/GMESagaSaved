@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Tuesday 06-22-2021- THIS WEEK IS SO HYPE 🚀🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/](https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/)
+# Title: The Jungle Beat- Tuesday 06-22-2021- THIS WEEK IS SO HYPE 🚀🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/](https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/)
 
 
 *This piece will be posted at 4:20 pm NYSE time every trading day!*

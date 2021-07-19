@@ -1,6 +1,6 @@
-#Title: Why I'm 100% certain DFV will HOLD through the entire squeeze, and how he inspires me to do the same. I realized selling just 1 or 2 shares after the peak is enough to be set for life. The rest is for diamond handing, and the Post-MOASS world will be glorious for any GME shareholder 💎🙌♥️🚀🚀
-#Author: paul-allen66
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt9eiw/why_im_100_certain_dfv_will_hold_through_the/](https://www.reddit.com/r/Superstonk/comments/mt9eiw/why_im_100_certain_dfv_will_hold_through_the/)
+# Title: Why I'm 100% certain DFV will HOLD through the entire squeeze, and how he inspires me to do the same. I realized selling just 1 or 2 shares after the peak is enough to be set for life. The rest is for diamond handing, and the Post-MOASS world will be glorious for any GME shareholder 💎🙌♥️🚀🚀
+# Author: paul-allen66
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt9eiw/why_im_100_certain_dfv_will_hold_through_the/](https://www.reddit.com/r/Superstonk/comments/mt9eiw/why_im_100_certain_dfv_will_hold_through_the/)
 
 
 DFV's actions in this saga make it perfectly clear to me that he will hold all the way through the MOASS. I have zero doubt about that in my mind now.

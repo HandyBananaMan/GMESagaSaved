@@ -1,6 +1,6 @@
-#Title: Releasing Short Selling Fact Sheet early just for Reddit: How the SEC Should Stop Short Sellers from Screwing Retail Investors (before big House hearing Thursday)
-#Author: WallSt4MainSt
-#Post URL: [https://www.reddit.com/r/GME/comments/n4ywk4/releasing_short_selling_fact_sheet_early_just_for/](https://www.reddit.com/r/GME/comments/n4ywk4/releasing_short_selling_fact_sheet_early_just_for/)
+# Title: Releasing Short Selling Fact Sheet early just for Reddit: How the SEC Should Stop Short Sellers from Screwing Retail Investors (before big House hearing Thursday)
+# Author: WallSt4MainSt
+# Post URL: [https://www.reddit.com/r/GME/comments/n4ywk4/releasing_short_selling_fact_sheet_early_just_for/](https://www.reddit.com/r/GME/comments/n4ywk4/releasing_short_selling_fact_sheet_early_just_for/)
 
 
 Hate short sellers from ripping off investors & markets? Us too. That's why we're releasing (early to Reddit!) a Fact Sheet w/ 10 recommendations for the SEC to stop them from doing that - read it here: [https://bettermarkets.com/sites/default/files/Short%20Selling%20-%2010%20Recommendations%20for%20Improving%20the%20SEC%E2%80%99s%20Regulatory%20Framework.pdf](https://bettermarkets.com/sites/default/files/Short%20Selling%20-%2010%20Recommendations%20for%20Improving%20the%20SEC%E2%80%99s%20Regulatory%20Framework.pdf).  The SEC Chair is testifying Thursday at the House Financial Services Committee hearing & we're going to push for him to be questioned about this & lots of other issues re GME, Robinhood, retail traders, Citadel, high frequency trading, etc. We will also be live tweeting the hearing @bettermarkets - join us for what should be an important discussion of issues that directly impact retail traders and the markets.

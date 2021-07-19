@@ -1,6 +1,6 @@
-#Title: A tombstone in finance is "a written advertisement of a public offering". Ryan Cohen's tweet after R.I.P. Dumb Ass reads "Ryan Cohen Tombstone Builder". If RC Ventures LLC was to merge with GameStop and form a new entity, that would KILL RC ventures - and necessitate a tombstone for the new offering
-#Author: showmeurknuckleball
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nndohw/a_tombstone_in_finance_is_a_written_advertisement/](https://www.reddit.com/r/Superstonk/comments/nndohw/a_tombstone_in_finance_is_a_written_advertisement/)
+# Title: A tombstone in finance is "a written advertisement of a public offering". Ryan Cohen's tweet after R.I.P. Dumb Ass reads "Ryan Cohen Tombstone Builder". If RC Ventures LLC was to merge with GameStop and form a new entity, that would KILL RC ventures - and necessitate a tombstone for the new offering
+# Author: showmeurknuckleball
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nndohw/a_tombstone_in_finance_is_a_written_advertisement/](https://www.reddit.com/r/Superstonk/comments/nndohw/a_tombstone_in_finance_is_a_written_advertisement/)
 
 
 https://www.investopedia.com/terms/t/tombstone.asp

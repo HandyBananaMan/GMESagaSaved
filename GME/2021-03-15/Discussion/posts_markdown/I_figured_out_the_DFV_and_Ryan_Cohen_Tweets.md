@@ -1,6 +1,6 @@
-#Title: I figured out the DFV and Ryan Cohen Tweets
-#Author: Mike00889
-#Post URL: [https://www.reddit.com/r/GME/comments/m5utih/i_figured_out_the_dfv_and_ryan_cohen_tweets/](https://www.reddit.com/r/GME/comments/m5utih/i_figured_out_the_dfv_and_ryan_cohen_tweets/)
+# Title: I figured out the DFV and Ryan Cohen Tweets
+# Author: Mike00889
+# Post URL: [https://www.reddit.com/r/GME/comments/m5utih/i_figured_out_the_dfv_and_ryan_cohen_tweets/](https://www.reddit.com/r/GME/comments/m5utih/i_figured_out_the_dfv_and_ryan_cohen_tweets/)
 
 
 On Feb 25th Ryan Cohen tweeted a McDonald’s ice cream cone and a frog emoji. That afternoon GME went up 88%.

@@ -1,6 +1,6 @@
-#Title: Zero-Coupon Bonds
-#Author: Magistricide
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)
+# Title: Zero-Coupon Bonds
+# Author: Magistricide
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)
 
 
 Recently, the US treasury just announced 40 billion of sales in Zero-Coupon Bonds. What are they?

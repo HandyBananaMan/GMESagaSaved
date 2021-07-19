@@ -1,6 +1,6 @@
-#Title: Technical analysis from an enginerd that has a hard on for statistical modeling and multivariate regression analysis.
-#Author: PWNWTFBBQ
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/)
+# Title: Technical analysis from an enginerd that has a hard on for statistical modeling and multivariate regression analysis.
+# Author: PWNWTFBBQ
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/)
 
 
 # Debunked: Incorrect Assumptions

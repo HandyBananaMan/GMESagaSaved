@@ -1,6 +1,6 @@
-#Title: Inflation Alert! Union Pacific extreme weather events interrupting service from the West Coast. AS we have previously covered, shipment volumes were already hindered by supply-chain constraints, here is a new wrinkle on that.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oma9w0/inflation_alert_union_pacific_extreme_weather/](https://www.reddit.com/r/Superstonk/comments/oma9w0/inflation_alert_union_pacific_extreme_weather/)
+# Title: Inflation Alert! Union Pacific extreme weather events interrupting service from the West Coast. AS we have previously covered, shipment volumes were already hindered by supply-chain constraints, here is a new wrinkle on that.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oma9w0/inflation_alert_union_pacific_extreme_weather/](https://www.reddit.com/r/Superstonk/comments/oma9w0/inflation_alert_union_pacific_extreme_weather/)
 
 
 ![Hello! Jellyfish here and I would like to dive into Union Pacific's most recent service interruptions in the broader 'inflation in the transportation network' discussion. ](https://i.redd.it/9zaud1jh6tb71.gif)

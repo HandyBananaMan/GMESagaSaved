@@ -1,6 +1,6 @@
-#Title: Supplying the Demand and Quanting Even More - 6/8/21 Analysis
-#Author: myplayprofile
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvgslf/supplying_the_demand_and_quanting_even_more_6821/](https://www.reddit.com/r/Superstonk/comments/nvgslf/supplying_the_demand_and_quanting_even_more_6821/)
+# Title: Supplying the Demand and Quanting Even More - 6/8/21 Analysis
+# Author: myplayprofile
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvgslf/supplying_the_demand_and_quanting_even_more_6821/](https://www.reddit.com/r/Superstonk/comments/nvgslf/supplying_the_demand_and_quanting_even_more_6821/)
 
 
 It's time to get back to basics, ECON 101. All prices are subject to supply and demand, and at the most basic level, this is taught in economics as a supply and demand curve where the optimal price for something is where the most buyers (demand) and most sellers (supply) are available. These same concepts apply to GME, and using the historical data of price and volume, I've made a model showing this supply and demand and there's some pretty intriguing information that's hidden in the data.

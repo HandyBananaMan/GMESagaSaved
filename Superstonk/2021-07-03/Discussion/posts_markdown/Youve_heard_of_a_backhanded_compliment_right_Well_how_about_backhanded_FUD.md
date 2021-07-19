@@ -1,6 +1,6 @@
-#Title: You've heard of a backhanded compliment right? Well how about backhanded FUD?
-#Author: ChudBomB
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocx0zl/youve_heard_of_a_backhanded_compliment_right_well/](https://www.reddit.com/r/Superstonk/comments/ocx0zl/youve_heard_of_a_backhanded_compliment_right_well/)
+# Title: You've heard of a backhanded compliment right? Well how about backhanded FUD?
+# Author: ChudBomB
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocx0zl/youve_heard_of_a_backhanded_compliment_right_well/](https://www.reddit.com/r/Superstonk/comments/ocx0zl/youve_heard_of_a_backhanded_compliment_right_well/)
 
 
 For those unsure of the definition of a backhanded compliment:

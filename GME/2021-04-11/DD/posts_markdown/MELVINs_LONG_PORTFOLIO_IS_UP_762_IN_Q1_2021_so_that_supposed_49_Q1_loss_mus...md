@@ -1,6 +1,6 @@
-#Title: MELVIN's LONG PORTFOLIO IS UP 7.62% IN Q1 2021, so that supposed 49% Q1 loss must be REAL bad. Was someone naked shorting stocks for the big boys to try and impress them so he's finally let in on the big boy conversations? [SEC 13-F filings and stock price data analysis] [Evidence-backed DD]
-#Author: dejf2
-#Post URL: [https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/](https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/)
+# Title: MELVIN's LONG PORTFOLIO IS UP 7.62% IN Q1 2021, so that supposed 49% Q1 loss must be REAL bad. Was someone naked shorting stocks for the big boys to try and impress them so he's finally let in on the big boy conversations? [SEC 13-F filings and stock price data analysis] [Evidence-backed DD]
+# Author: dejf2
+# Post URL: [https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/](https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/)
 
 
 Hey guys,

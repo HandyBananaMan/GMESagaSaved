@@ -1,6 +1,6 @@
-#Title: 2160 DEEP ITM CALLS WERE PURCHASED IN LARGE BLOCK TRADES FROM PHLX TODAY (4/14)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mr4ykn/2160_deep_itm_calls_were_purchased_in_large_block/](https://www.reddit.com/r/Superstonk/comments/mr4ykn/2160_deep_itm_calls_were_purchased_in_large_block/)
+# Title: 2160 DEEP ITM CALLS WERE PURCHASED IN LARGE BLOCK TRADES FROM PHLX TODAY (4/14)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mr4ykn/2160_deep_itm_calls_were_purchased_in_large_block/](https://www.reddit.com/r/Superstonk/comments/mr4ykn/2160_deep_itm_calls_were_purchased_in_large_block/)
 
 
  What up Apes,

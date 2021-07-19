@@ -1,6 +1,6 @@
-#Title: What you need to know about the Russell 1000-3000 Indexes and Reconstitution Day.
-#Author: Dekeiy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/](https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/)
+# Title: What you need to know about the Russell 1000-3000 Indexes and Reconstitution Day.
+# Author: Dekeiy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/](https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/)
 
 
 Good evening fellow apes.

@@ -1,6 +1,6 @@
-#Title: This is for you, Mom.
-#Author: MatteJew
-#Post URL: [https://www.reddit.com/r/GME/comments/myceud/this_is_for_you_mom/](https://www.reddit.com/r/GME/comments/myceud/this_is_for_you_mom/)
+# Title: This is for you, Mom.
+# Author: MatteJew
+# Post URL: [https://www.reddit.com/r/GME/comments/myceud/this_is_for_you_mom/](https://www.reddit.com/r/GME/comments/myceud/this_is_for_you_mom/)
 
 
 I remember how shitty things were for my family growing up. My mom is a 1st and 2nd grade teacher who married a bipolar narcissist. My dad retired early when I was a kid, and he became a belligerent drunk, physically and mentally abusing my mom, brother, and me whenever possible. She stayed with him because she couldn't support two kids by herself. 

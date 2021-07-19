@@ -1,6 +1,6 @@
-#Title: After listening to today's online hearing and hearing how I'm a "gambler", "reddit is ruining the market", "poor hedgefund shorters", "retail shouldnt buy single stocks they should invest into mutual funds so PROFESSIONALS can play with our money" I'm raising my previous floor from 510k to 1.2 MIL
-#Author: NielDiamondHands
-#Post URL: [https://www.reddit.com/r/GME/comments/m1d6d8/after_listening_to_todays_online_hearing_and/](https://www.reddit.com/r/GME/comments/m1d6d8/after_listening_to_todays_online_hearing_and/)
+# Title: After listening to today's online hearing and hearing how I'm a "gambler", "reddit is ruining the market", "poor hedgefund shorters", "retail shouldnt buy single stocks they should invest into mutual funds so PROFESSIONALS can play with our money" I'm raising my previous floor from 510k to 1.2 MIL
+# Author: NielDiamondHands
+# Post URL: [https://www.reddit.com/r/GME/comments/m1d6d8/after_listening_to_todays_online_hearing_and/](https://www.reddit.com/r/GME/comments/m1d6d8/after_listening_to_todays_online_hearing_and/)
 
 
 Its fine I don't need SEC or anyone's support or "help" 

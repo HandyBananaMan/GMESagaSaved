@@ -1,6 +1,6 @@
-#Title: Some posts referring to "when GME gets into the 500s"... but is that even possible? Given the complete lack of liquidity, how will the price not just completely rocket up into the 10,000s immediately on the first failed margin call?
-#Author: boborygmy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5qqej/some_posts_referring_to_when_gme_gets_into_the/](https://www.reddit.com/r/Superstonk/comments/n5qqej/some_posts_referring_to_when_gme_gets_into_the/)
+# Title: Some posts referring to "when GME gets into the 500s"... but is that even possible? Given the complete lack of liquidity, how will the price not just completely rocket up into the 10,000s immediately on the first failed margin call?
+# Author: boborygmy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5qqej/some_posts_referring_to_when_gme_gets_into_the/](https://www.reddit.com/r/Superstonk/comments/n5qqej/some_posts_referring_to_when_gme_gets_into_the/)
 
 
 Today someone posted on IEX that at times there were no asks below $99999. On the level 2 data I see from Fidelity there's never more than about 1000 or so (suspicious) asks on the board before some real ape is selling a couple of shares for 50k.

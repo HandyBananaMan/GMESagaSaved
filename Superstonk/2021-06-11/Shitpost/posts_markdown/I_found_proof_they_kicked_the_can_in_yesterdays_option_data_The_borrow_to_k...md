@@ -1,6 +1,6 @@
-#Title: I found proof they kicked the can in yesterdays option data. The borrow to kick the can thesis was perfectly right months ago.
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxevrq/i_found_proof_they_kicked_the_can_in_yesterdays/](https://www.reddit.com/r/Superstonk/comments/nxevrq/i_found_proof_they_kicked_the_can_in_yesterdays/)
+# Title: I found proof they kicked the can in yesterdays option data. The borrow to kick the can thesis was perfectly right months ago.
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxevrq/i_found_proof_they_kicked_the_can_in_yesterdays/](https://www.reddit.com/r/Superstonk/comments/nxevrq/i_found_proof_they_kicked_the_can_in_yesterdays/)
 
 
 I've been collecting option flow data for the past couple of months.

@@ -1,6 +1,6 @@
-#Title: PSA: Voting Will Be Underreported
-#Author: greysweatseveryday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/](https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/)
+# Title: PSA: Voting Will Be Underreported
+# Author: greysweatseveryday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/](https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/)
 
 
 JUNE 3, 2021 EDIT: This has been reposted since the AGM is coming up quickly. Some apes have pointed out that the AMA with Wes Christian confirmed this further, that some over-voting may be corrected prior to those votes reaching Computershare/GME. 

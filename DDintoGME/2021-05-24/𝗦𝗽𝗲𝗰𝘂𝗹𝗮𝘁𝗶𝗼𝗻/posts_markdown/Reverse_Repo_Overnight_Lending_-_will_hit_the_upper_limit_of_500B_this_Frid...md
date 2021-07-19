@@ -1,6 +1,6 @@
-#Title: Reverse Repo Overnight Lending - will hit the upper limit of $500B this Friday
-#Author: HODLTheLineMyFriend
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/](https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/)
+# Title: Reverse Repo Overnight Lending - will hit the upper limit of $500B this Friday
+# Author: HODLTheLineMyFriend
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/](https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/)
 
 
 I simply put in the last 3 weeks and fit the best curve. There's a 3rd order polynomial function that maps with 0.89 R-squared, looks almost exponential but not quite. It predicts that the Fed will hit $500B by Friday, and if they were not limited to that, $1T by June 6.

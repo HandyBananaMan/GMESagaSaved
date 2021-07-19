@@ -1,6 +1,6 @@
-#Title: I work in data centers and the more I read in to the infrastructure used by the stock market, the more jacked my tits get that the more jacked my tits get. It’s not “just a server reboot”.
-#Author: Azote_Air
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/](https://www.reddit.com/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/)
+# Title: I work in data centers and the more I read in to the infrastructure used by the stock market, the more jacked my tits get that the more jacked my tits get. It’s not “just a server reboot”.
+# Author: Azote_Air
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/](https://www.reddit.com/r/Superstonk/comments/n8zzi4/i_work_in_data_centers_and_the_more_i_read_in_to/)
 
 
 EDIT: ICYMI - there were a volume mismatches blamed on server reboots.

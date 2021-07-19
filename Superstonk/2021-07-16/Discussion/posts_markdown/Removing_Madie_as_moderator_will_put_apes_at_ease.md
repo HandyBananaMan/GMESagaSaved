@@ -1,6 +1,6 @@
-#Title: Removing Madie as moderator will put apes at ease.
-#Author: David_moneybags
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olnujb/removing_madie_as_moderator_will_put_apes_at_ease/](https://www.reddit.com/r/Superstonk/comments/olnujb/removing_madie_as_moderator_will_put_apes_at_ease/)
+# Title: Removing Madie as moderator will put apes at ease.
+# Author: David_moneybags
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olnujb/removing_madie_as_moderator_will_put_apes_at_ease/](https://www.reddit.com/r/Superstonk/comments/olnujb/removing_madie_as_moderator_will_put_apes_at_ease/)
 
 
 

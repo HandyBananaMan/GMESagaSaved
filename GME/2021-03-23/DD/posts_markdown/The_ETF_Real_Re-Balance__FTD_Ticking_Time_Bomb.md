@@ -1,6 +1,6 @@
-#Title: The ETF Real Re-Balance & FTD Ticking Time Bomb
-#Author: Turdfurg23
-#Post URL: [https://www.reddit.com/r/GME/comments/mbxkya/the_etf_real_rebalance_ftd_ticking_time_bomb/](https://www.reddit.com/r/GME/comments/mbxkya/the_etf_real_rebalance_ftd_ticking_time_bomb/)
+# Title: The ETF Real Re-Balance & FTD Ticking Time Bomb
+# Author: Turdfurg23
+# Post URL: [https://www.reddit.com/r/GME/comments/mbxkya/the_etf_real_rebalance_ftd_ticking_time_bomb/](https://www.reddit.com/r/GME/comments/mbxkya/the_etf_real_rebalance_ftd_ticking_time_bomb/)
 
 
 First, I'd like to thank u/Augrr for all his help finishing and compiling the rest of this DD to come to some conclusions also u/NordyDave for putting together some pieces into how this plays into FTDs. Second, I'm not a financial advisor and all of this is opinion and data gathered from publicly available sources.  Key Fact: 1,705,385 shares have been pulled out of the ETFs containing GME (not including Vangard) between Quad Witching Eve 3.18.2021 and Today 3.23.2021. Some very key ones such as XRT.

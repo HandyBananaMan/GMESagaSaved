@@ -1,6 +1,6 @@
-#Title: Why are we trading sideways? Why is the borrow rate so low? When will we moon? The Theory of EVERYTHING GME
-#Author: c-digs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/)
+# Title: Why are we trading sideways? Why is the borrow rate so low? When will we moon? The Theory of EVERYTHING GME
+# Author: c-digs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/)
 
 
 Over the last few weeks, there have been some anomalies which have been bugging all of us.

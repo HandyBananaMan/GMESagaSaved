@@ -1,6 +1,6 @@
-#Title: Connecting the puzzle pieces. The failed bet.
-#Author: Notifyd
-#Post URL: [https://www.reddit.com/r/GME/comments/mhyv94/connecting_the_puzzle_pieces_the_failed_bet/](https://www.reddit.com/r/GME/comments/mhyv94/connecting_the_puzzle_pieces_the_failed_bet/)
+# Title: Connecting the puzzle pieces. The failed bet.
+# Author: Notifyd
+# Post URL: [https://www.reddit.com/r/GME/comments/mhyv94/connecting_the_puzzle_pieces_the_failed_bet/](https://www.reddit.com/r/GME/comments/mhyv94/connecting_the_puzzle_pieces_the_failed_bet/)
 
 
 **TL;DR: I will TL;DR this as best as I can. Adding this because people don't want to read. Citadel has been moving to Texas since 2019. They moved right next to some big players in the game. These data centers were setup to hide the more sophisticated Citadel scheme (albeit relatedly structured) involving shorts, FTDs, and moving capital around to make their assets and positions appear larger than they materially are. There are more players in this game than we think. This has been going on for too long. It's only a matter of time before someone lets go.**

@@ -1,6 +1,6 @@
-#Title: An options analysis response to Alex Goldstein's comments on the squeeze not happening. Why we are actually better positioned for a short squeeze now than January.
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/](https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/)
+# Title: An options analysis response to Alex Goldstein's comments on the squeeze not happening. Why we are actually better positioned for a short squeeze now than January.
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/](https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/)
 
 
 **This is not financial advice. These are opinions. Seek an financial professional for investment advice.**

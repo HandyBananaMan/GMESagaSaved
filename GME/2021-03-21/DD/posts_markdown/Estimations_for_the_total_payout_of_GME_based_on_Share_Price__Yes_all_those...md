@@ -1,6 +1,6 @@
-#Title: Estimations for the total payout of GME based on Share Price. 🦍🚀🚀🚀 Yes all those numbers are possible because Math 🦍🚀🚀🚀
-#Author: Raught19
-#Post URL: [https://www.reddit.com/r/GME/comments/m9td6w/estimations_for_the_total_payout_of_gme_based_on/](https://www.reddit.com/r/GME/comments/m9td6w/estimations_for_the_total_payout_of_gme_based_on/)
+# Title: Estimations for the total payout of GME based on Share Price. 🦍🚀🚀🚀 Yes all those numbers are possible because Math 🦍🚀🚀🚀
+# Author: Raught19
+# Post URL: [https://www.reddit.com/r/GME/comments/m9td6w/estimations_for_the_total_payout_of_gme_based_on/](https://www.reddit.com/r/GME/comments/m9td6w/estimations_for_the_total_payout_of_gme_based_on/)
 
 
 Because apes keep asking and saying that 1k, 100k, 500k, 2m, 10m, 20m is impossible, I've decided to help people out with learning how to use Geometric Mean. This lets us estimate the price per share as people jump off at different points on the way up, which is expected, everyone has a different price point, just as different sell points are expressed.

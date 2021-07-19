@@ -1,6 +1,6 @@
-#Title: I think it was Blackrock/Vanguard that liquidated. Work with me here...
-#Author: xpurplexamyx
-#Post URL: [https://www.reddit.com/r/GME/comments/mewwrp/i_think_it_was_blackrockvanguard_that_liquidated/](https://www.reddit.com/r/GME/comments/mewwrp/i_think_it_was_blackrockvanguard_that_liquidated/)
+# Title: I think it was Blackrock/Vanguard that liquidated. Work with me here...
+# Author: xpurplexamyx
+# Post URL: [https://www.reddit.com/r/GME/comments/mewwrp/i_think_it_was_blackrockvanguard_that_liquidated/](https://www.reddit.com/r/GME/comments/mewwrp/i_think_it_was_blackrockvanguard_that_liquidated/)
 
 
 **TO BE CLEAR. BLACKROCK/VANGUARD DID _NOT_ LIQUIDATE GME.** They may have been involved in the mass block sale event on Friday though.

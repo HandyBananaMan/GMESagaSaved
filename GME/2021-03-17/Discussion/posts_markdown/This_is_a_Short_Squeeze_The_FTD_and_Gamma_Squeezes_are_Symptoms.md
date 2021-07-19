@@ -1,6 +1,6 @@
-#Title: This is a Short Squeeze!!! The FTD and Gamma Squeezes are Symptoms
-#Author: kekking_ass
-#Post URL: [https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/](https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/)
+# Title: This is a Short Squeeze!!! The FTD and Gamma Squeezes are Symptoms
+# Author: kekking_ass
+# Post URL: [https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/](https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/)
 
 
 Ok, hopefully this works as my last 2 DD posts would not upload.

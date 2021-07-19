@@ -1,6 +1,6 @@
-#Title: GO VOTE! u/atobitt and GME themselves telling us one thing. Exercise your right and VOTE 🚀. Don't sweat the NSCC-002 delay right now
-#Author: willbeattheodds
-#Post URL: [https://www.reddit.com/r/GME/comments/n7avu5/go_vote_uatobitt_and_gme_themselves_telling_us/](https://www.reddit.com/r/GME/comments/n7avu5/go_vote_uatobitt_and_gme_themselves_telling_us/)
+# Title: GO VOTE! u/atobitt and GME themselves telling us one thing. Exercise your right and VOTE 🚀. Don't sweat the NSCC-002 delay right now
+# Author: willbeattheodds
+# Post URL: [https://www.reddit.com/r/GME/comments/n7avu5/go_vote_uatobitt_and_gme_themselves_telling_us/](https://www.reddit.com/r/GME/comments/n7avu5/go_vote_uatobitt_and_gme_themselves_telling_us/)
 
 
 Apes, think of voting as your boarding pass check in as we now board the rocket...were on the launchpad and were now choosing our seats and buckling up for launch 💎✊🏻🚀

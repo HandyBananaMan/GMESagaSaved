@@ -1,6 +1,6 @@
-#Title: Breakdown of the Cohen as Chairman News(hint: MORE ROCKETS THAN WE THOUGHT!!🚀🚀🚀🚀🚀)
-#Author: MiddleBananaSplit
-#Post URL: [https://www.reddit.com/r/GME/comments/mmrz68/breakdown_of_the_cohen_as_chairman_newshint_more/](https://www.reddit.com/r/GME/comments/mmrz68/breakdown_of_the_cohen_as_chairman_newshint_more/)
+# Title: Breakdown of the Cohen as Chairman News(hint: MORE ROCKETS THAN WE THOUGHT!!🚀🚀🚀🚀🚀)
+# Author: MiddleBananaSplit
+# Post URL: [https://www.reddit.com/r/GME/comments/mmrz68/breakdown_of_the_cohen_as_chairman_newshint_more/](https://www.reddit.com/r/GME/comments/mmrz68/breakdown_of_the_cohen_as_chairman_newshint_more/)
 
 
 I need to throw my ELIA TLDR right at the top. 

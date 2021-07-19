@@ -1,6 +1,6 @@
-#Title: Amendment to CAT (Consolidated Audit Trail) NMS Plan to LIMIT FINE AMOUNTS: Comment Period Re-Opened to 9/3/2021
-#Author: Freadom6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/](https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/)
+# Title: Amendment to CAT (Consolidated Audit Trail) NMS Plan to LIMIT FINE AMOUNTS: Comment Period Re-Opened to 9/3/2021
+# Author: Freadom6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/](https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/)
 
 
 Obligatory: Not financial advice. \[Insert wity comment about tiny pea brain and 4th of July hangover here\].

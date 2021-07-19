@@ -1,6 +1,6 @@
-#Title: A BRIEF OVERVIEW OF RECENT FILINGS FROM THE DTC, NSCC, AND OCC FOR DIPSHITS WHO KNOW FUCKALL ABOUT SECURITIES LEGISLATION AND GET CONFUSED BY LETTERS AND NUMBERS
-#Author: Antioch_Orontes
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/)
+# Title: A BRIEF OVERVIEW OF RECENT FILINGS FROM THE DTC, NSCC, AND OCC FOR DIPSHITS WHO KNOW FUCKALL ABOUT SECURITIES LEGISLATION AND GET CONFUSED BY LETTERS AND NUMBERS
+# Author: Antioch_Orontes
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/)
 
 
 # EDIT: I have posted an updated, further-depth overview of all DTC filings [here](https://www.reddit.com/r/DDintoGME/comments/mtw35e/filings_from_the_dtc_whos_who_and_whats_what/), and will be posting NSCC and OCC filings this week.

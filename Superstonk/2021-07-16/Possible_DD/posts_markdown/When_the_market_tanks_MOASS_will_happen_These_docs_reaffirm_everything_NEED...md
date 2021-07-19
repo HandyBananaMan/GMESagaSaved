@@ -1,6 +1,6 @@
-#Title: When the market tanks, MOASS will happen. These docs reaffirm everything. NEED WRINKLES, PLEASE.
-#Author: Snowbagels
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olb0bw/when_the_market_tanks_moass_will_happen_these/](https://www.reddit.com/r/Superstonk/comments/olb0bw/when_the_market_tanks_moass_will_happen_these/)
+# Title: When the market tanks, MOASS will happen. These docs reaffirm everything. NEED WRINKLES, PLEASE.
+# Author: Snowbagels
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olb0bw/when_the_market_tanks_moass_will_happen_these/](https://www.reddit.com/r/Superstonk/comments/olb0bw/when_the_market_tanks_moass_will_happen_these/)
 
 
 TLDR: Market tanks and we collect our tendies. MOASS will happen at some point no matter what the catalyst. Patience is everything. The court case referenced below began in 2018 and settled in 2019. 

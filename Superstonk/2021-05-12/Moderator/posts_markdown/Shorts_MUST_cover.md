@@ -1,6 +1,6 @@
-#Title: Shorts MUST cover!
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nazyz3/shorts_must_cover/](https://www.reddit.com/r/Superstonk/comments/nazyz3/shorts_must_cover/)
+# Title: Shorts MUST cover!
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nazyz3/shorts_must_cover/](https://www.reddit.com/r/Superstonk/comments/nazyz3/shorts_must_cover/)
 
 
 EDIT: To those of you coming from r/all, this is the video we're referring to. Its important. 

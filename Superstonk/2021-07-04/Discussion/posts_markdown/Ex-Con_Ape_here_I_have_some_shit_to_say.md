@@ -1,6 +1,6 @@
-#Title: Ex-Con Ape here. I have some shit to say.
-#Author: The-Bodhii
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odsjri/excon_ape_here_i_have_some_shit_to_say/](https://www.reddit.com/r/Superstonk/comments/odsjri/excon_ape_here_i_have_some_shit_to_say/)
+# Title: Ex-Con Ape here. I have some shit to say.
+# Author: The-Bodhii
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odsjri/excon_ape_here_i_have_some_shit_to_say/](https://www.reddit.com/r/Superstonk/comments/odsjri/excon_ape_here_i_have_some_shit_to_say/)
 
 
 First and foremost, Happy 4th of July 🇺🇸 

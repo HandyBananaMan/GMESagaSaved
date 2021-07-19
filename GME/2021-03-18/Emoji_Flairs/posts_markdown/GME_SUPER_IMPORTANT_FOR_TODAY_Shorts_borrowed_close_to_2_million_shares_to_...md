@@ -1,6 +1,6 @@
-#Title: ***GME: SUPER IMPORTANT FOR TODAY*** Shorts borrowed close to 2 million shares to short either today or tomorrow. FYI: $172 has been been an area of support the last two times they tried to tank it. Today they have to buy shares if people execute options, they need GME price as low as possible
-#Author: khashi1
-#Post URL: [https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/](https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/)
+# Title: ***GME: SUPER IMPORTANT FOR TODAY*** Shorts borrowed close to 2 million shares to short either today or tomorrow. FYI: $172 has been been an area of support the last two times they tried to tank it. Today they have to buy shares if people execute options, they need GME price as low as possible
+# Author: khashi1
+# Post URL: [https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/](https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/)
 
 
 https://preview.redd.it/rj6hf817ltn61.jpg?width=1629&format=pjpg&auto=webp&s=ef9ad85671d96ead25c180733eb24354f5b56732

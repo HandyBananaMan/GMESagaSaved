@@ -1,6 +1,6 @@
-#Title: Tomorrow marks the beginning of the end for Citadel
-#Author: Aidangamer28
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o62ndb/tomorrow_marks_the_beginning_of_the_end_for/](https://www.reddit.com/r/Superstonk/comments/o62ndb/tomorrow_marks_the_beginning_of_the_end_for/)
+# Title: Tomorrow marks the beginning of the end for Citadel
+# Author: Aidangamer28
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o62ndb/tomorrow_marks_the_beginning_of_the_end_for/](https://www.reddit.com/r/Superstonk/comments/o62ndb/tomorrow_marks_the_beginning_of_the_end_for/)
 
 
 Since January I, and all of you, have witnessed history. We have seen the greatest uncovering of financial and institutional fraud ever found. There has never been this much fraud in any system since the beginning of all recorded history, since the start of time. Think about that for a minute. The smartest minds have come together to figure out the biggest amount of criminal and fraudulent activity on a global scale. For once retail investors have overcome Wall Street and we will win. There is no way out for the hedge funds, the banks, or the SEC. The only end to this situation is for a payout of millions of dollars per GME share, there seriously is no floor since we apes own the entirety of the float, and we decide how much the cost is per share.

@@ -1,6 +1,6 @@
-#Title: New DTCC rule just passed, in effect immediatly. Explained in Detail, as simple as possible.
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/)
+# Title: New DTCC rule just passed, in effect immediatly. Explained in Detail, as simple as possible.
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/)
 
 
 Edit: Typo in the title. It should be "immediately"

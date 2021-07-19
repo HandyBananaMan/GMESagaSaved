@@ -1,6 +1,6 @@
-#Title: Release the NDAs
-#Author: mybustersword
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omjk4s/release_the_ndas/](https://www.reddit.com/r/GMEJungle/comments/omjk4s/release_the_ndas/)
+# Title: Release the NDAs
+# Author: mybustersword
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omjk4s/release_the_ndas/](https://www.reddit.com/r/GMEJungle/comments/omjk4s/release_the_ndas/)
 
 
 Many major writers of DD this past year have slipped off. Disappeared. The quality of dd, while still high, has fallen to less and less of. Why is this?

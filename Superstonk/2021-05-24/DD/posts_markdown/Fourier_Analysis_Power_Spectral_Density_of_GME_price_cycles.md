@@ -1,6 +1,6 @@
-#Title: Fourier Analysis: Power Spectral Density of GME price cycles
-#Author: positive_root
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/)
+# Title: Fourier Analysis: Power Spectral Density of GME price cycles
+# Author: positive_root
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/)
 
 
 I'm trying a cross-post here, hope I'm doing this right, I made some slight improvements after some review on the DD sub.

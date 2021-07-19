@@ -1,6 +1,6 @@
-#Title: BLOOMBERG TERMINAL DATA ON EARNINGS ESTIMATES FOR TOMORROW
-#Author: elias-el
-#Post URL: [https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/](https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/)
+# Title: BLOOMBERG TERMINAL DATA ON EARNINGS ESTIMATES FOR TOMORROW
+# Author: elias-el
+# Post URL: [https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/](https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/)
 
 
 Guten Tag my dear apes,

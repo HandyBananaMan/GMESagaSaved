@@ -1,6 +1,6 @@
-#Title: COVID-19, The CARES Act, and Undeniable Greed: The Story of How Wall Street Tried to Bankrupt Businesses with Money Meant to Save Businesses (GME Centric)
-#Author: Freadom6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/](https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/)
+# Title: COVID-19, The CARES Act, and Undeniable Greed: The Story of How Wall Street Tried to Bankrupt Businesses with Money Meant to Save Businesses (GME Centric)
+# Author: Freadom6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/](https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/)
 
 
 Obligatory: This should not be confused with financial advise. I do not offer finanicial advice or services. I am simply pointing out connections I am making through data and deductive reasoning.

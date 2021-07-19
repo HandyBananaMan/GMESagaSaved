@@ -1,6 +1,6 @@
-#Title: WHERE IS THE MEDIA ON THE 41.21% GAIN TODAY? 🤔
-#Author: josecvillanueva
-#Post URL: [https://www.reddit.com/r/GME/comments/m0rdm1/where_is_the_media_on_the_4121_gain_today/](https://www.reddit.com/r/GME/comments/m0rdm1/where_is_the_media_on_the_4121_gain_today/)
+# Title: WHERE IS THE MEDIA ON THE 41.21% GAIN TODAY? 🤔
+# Author: josecvillanueva
+# Post URL: [https://www.reddit.com/r/GME/comments/m0rdm1/where_is_the_media_on_the_4121_gain_today/](https://www.reddit.com/r/GME/comments/m0rdm1/where_is_the_media_on_the_4121_gain_today/)
 
 
 Not a peep from CNBC. 

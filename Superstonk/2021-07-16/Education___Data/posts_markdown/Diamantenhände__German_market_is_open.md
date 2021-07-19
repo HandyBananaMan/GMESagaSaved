@@ -1,6 +1,6 @@
-#Title: Diamantenhände 💎👐 German market is open 🇩🇪
-#Author: Parsnip
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olaqr1/diamantenhände_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/olaqr1/diamantenhände_german_market_is_open/)
+# Title: Diamantenhände 💎👐 German market is open 🇩🇪
+# Author: Parsnip
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olaqr1/diamantenhände_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/olaqr1/diamantenhände_german_market_is_open/)
 
 
 Guten Morgen to all of you Great Apes across the world! 👋🦍

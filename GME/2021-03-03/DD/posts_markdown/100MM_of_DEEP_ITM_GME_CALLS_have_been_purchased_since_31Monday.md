@@ -1,6 +1,6 @@
-#Title: $100MM of DEEP ITM GME CALLS have been purchased since 3/1(Monday)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/lx5kgk/100mm_of_deep_itm_gme_calls_have_been_purchased/](https://www.reddit.com/r/GME/comments/lx5kgk/100mm_of_deep_itm_gme_calls_have_been_purchased/)
+# Title: $100MM of DEEP ITM GME CALLS have been purchased since 3/1(Monday)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/lx5kgk/100mm_of_deep_itm_gme_calls_have_been_purchased/](https://www.reddit.com/r/GME/comments/lx5kgk/100mm_of_deep_itm_gme_calls_have_been_purchased/)
 
 
 **New Post is UP 3/9:** [https://www.reddit.com/r/GME/comments/m1hejz/quick\_update\_additional\_40\_million\_deep\_itm\_calls/](https://www.reddit.com/r/GME/comments/m1hejz/quick_update_additional_40_million_deep_itm_calls/)

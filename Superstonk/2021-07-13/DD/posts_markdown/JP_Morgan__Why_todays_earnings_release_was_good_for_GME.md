@@ -1,6 +1,6 @@
-#Title: JP Morgan & Why todays earnings release was good for GME
-#Author: Munoz10594
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/)
+# Title: JP Morgan & Why todays earnings release was good for GME
+# Author: Munoz10594
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/)
 
 
 Alright guys. We had our first day of earnings season, and while the banks posted big earnings there's reason for pessimism moving into the 2nd half of the year.  I'll be focusing on the corporate investment bank portion of the earnings in this post. This is my best attempt at foreshadowing what's to come based on how their investments performed and what we could expect from other banks based on JP Morgan Chase Corporate &amp;amp; Investment Banks earnings report. I am not perfect and this could be completely wrong, but I'm confident in my analysis and open to criticism. If this was posted earlier I apologize. Just got off work and had some time to sift through the earnings and thought this was important.

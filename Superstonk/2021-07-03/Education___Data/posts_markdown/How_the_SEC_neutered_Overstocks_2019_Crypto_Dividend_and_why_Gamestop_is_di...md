@@ -1,6 +1,6 @@
-#Title: How the SEC neutered Overstock's 2019 Crypto Dividend (and why Gamestop is different)
-#Author: w1ndylion
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/](https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/)
+# Title: How the SEC neutered Overstock's 2019 Crypto Dividend (and why Gamestop is different)
+# Author: w1ndylion
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/](https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/)
 
 
 **Edit:** So it would appear there's more to the story! Hooo baby. I'll leave it to u/Minuteman_Capital to explain fully [in their recent post,](https://www.reddit.com/r/Superstonk/comments/o6si8c/how_overstocks_squeeze_was_a_twopart_squiz_court/) but to summarize:

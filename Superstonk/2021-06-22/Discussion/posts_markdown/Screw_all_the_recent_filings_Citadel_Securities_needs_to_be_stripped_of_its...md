@@ -1,6 +1,6 @@
-#Title: Screw all the recent filings; Citadel Securities needs to be stripped of its market marker privileges
-#Author: missing_the_point_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5uzci/screw_all_the_recent_filings_citadel_securities/](https://www.reddit.com/r/Superstonk/comments/o5uzci/screw_all_the_recent_filings_citadel_securities/)
+# Title: Screw all the recent filings; Citadel Securities needs to be stripped of its market marker privileges
+# Author: missing_the_point_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5uzci/screw_all_the_recent_filings_citadel_securities/](https://www.reddit.com/r/Superstonk/comments/o5uzci/screw_all_the_recent_filings_citadel_securities/)
 
 
 Citadel Security's blatant abuse of their market maker privelages should result in an immediate revocation in power. This conflict of interest is such an obvious, monumental market flaw; I don't know how it's even allowed.

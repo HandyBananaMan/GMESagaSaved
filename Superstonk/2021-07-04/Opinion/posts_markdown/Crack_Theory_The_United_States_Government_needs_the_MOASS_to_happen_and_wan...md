@@ -1,6 +1,6 @@
-#Title: Crack Theory: The United States Government needs the MOASS to happen, and wants corrupt agents like Citadel to fall
-#Author: fortifier22
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/](https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/)
+# Title: Crack Theory: The United States Government needs the MOASS to happen, and wants corrupt agents like Citadel to fall
+# Author: fortifier22
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/](https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/)
 
 
 The US Government has a lot to gain from the MOASS happening, and so much more to lose from preventing the MOASS from not happening. And it's not just 37% capital gains taxes either.

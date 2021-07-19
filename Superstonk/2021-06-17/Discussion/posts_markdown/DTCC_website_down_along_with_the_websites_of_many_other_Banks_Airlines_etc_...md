@@ -1,6 +1,6 @@
-#Title: DTCC website down, along with the websites of many other Banks, Airlines, etc. Wrinkle brains, assemble! 🚀 💎 🙌
-#Author: Feeling_Ad_411
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1pdo8/dtcc_website_down_along_with_the_websites_of_many/](https://www.reddit.com/r/Superstonk/comments/o1pdo8/dtcc_website_down_along_with_the_websites_of_many/)
+# Title: DTCC website down, along with the websites of many other Banks, Airlines, etc. Wrinkle brains, assemble! 🚀 💎 🙌
+# Author: Feeling_Ad_411
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1pdo8/dtcc_website_down_along_with_the_websites_of_many/](https://www.reddit.com/r/Superstonk/comments/o1pdo8/dtcc_website_down_along_with_the_websites_of_many/)
 
 
 I’m wondering if it’s just servers? Seems to be centered around banks, airlines, some credit unions, including in other countries, but can’t confirm fully.

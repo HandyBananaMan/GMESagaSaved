@@ -1,6 +1,6 @@
-#Title: After finding out how my parents lost their business and our home during the 07-08 financial crisis, I am unloading my entire portfolio today to BUY GME. YES, NOW IT IS FUCKING PERSONAL. My portfolio will be nothing else but 100% GME. AND HEY CITADEL, MELVIN, POINT72 AND SHILLS, HERE'S MY MESSAGE.
-#Author: kzgatsby
-#Post URL: [https://www.reddit.com/r/GME/comments/m8dteq/after_finding_out_how_my_parents_lost_their/](https://www.reddit.com/r/GME/comments/m8dteq/after_finding_out_how_my_parents_lost_their/)
+# Title: After finding out how my parents lost their business and our home during the 07-08 financial crisis, I am unloading my entire portfolio today to BUY GME. YES, NOW IT IS FUCKING PERSONAL. My portfolio will be nothing else but 100% GME. AND HEY CITADEL, MELVIN, POINT72 AND SHILLS, HERE'S MY MESSAGE.
+# Author: kzgatsby
+# Post URL: [https://www.reddit.com/r/GME/comments/m8dteq/after_finding_out_how_my_parents_lost_their/](https://www.reddit.com/r/GME/comments/m8dteq/after_finding_out_how_my_parents_lost_their/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: The flurry of rules before the storm. DTC, ICC, OCC are prepared. GME might be hitting T+35 and T+21 crossover next week, pulling the house of cards down.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/](https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/)
+# Title: The flurry of rules before the storm. DTC, ICC, OCC are prepared. GME might be hitting T+35 and T+21 crossover next week, pulling the house of cards down.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/](https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/)
 
 
 # 0. Preface

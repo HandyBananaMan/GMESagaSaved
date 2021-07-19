@@ -1,6 +1,6 @@
-#Title: 📣 SEC PAYS DARK POOL WHISTLEBLOWER: Constantine Cannon Client Receives Maximum Award for Blowing the Whistle on ITG
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/niqgpo/sec_pays_dark_pool_whistleblower_constantine/](https://www.reddit.com/r/DDintoGME/comments/niqgpo/sec_pays_dark_pool_whistleblower_constantine/)
+# Title: 📣 SEC PAYS DARK POOL WHISTLEBLOWER: Constantine Cannon Client Receives Maximum Award for Blowing the Whistle on ITG
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/niqgpo/sec_pays_dark_pool_whistleblower_constantine/](https://www.reddit.com/r/DDintoGME/comments/niqgpo/sec_pays_dark_pool_whistleblower_constantine/)
 
 
 \--- start of article; link follows---

@@ -1,6 +1,6 @@
-#Title: This week is different than Jan & March because we all have more wrinkles - what DFV knows
-#Author: Icy-Paleontologist97
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndqd6e/this_week_is_different_than_jan_march_because_we/](https://www.reddit.com/r/Superstonk/comments/ndqd6e/this_week_is_different_than_jan_march_because_we/)
+# Title: This week is different than Jan & March because we all have more wrinkles - what DFV knows
+# Author: Icy-Paleontologist97
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndqd6e/this_week_is_different_than_jan_march_because_we/](https://www.reddit.com/r/Superstonk/comments/ndqd6e/this_week_is_different_than_jan_march_because_we/)
 
 
 GOOD MORNING COURAGEOUS & BEAUTIFUL APES! Before I begin I just want to share with all of you how privileged I feel to count myself as a member of your ranks. Being here on Reddit with you, on the frontlines of this once-in-a-lifetime experience is truly a great honor. In other words, I’m so happy I have found you all - many of you have helped restore my faith in humanity.

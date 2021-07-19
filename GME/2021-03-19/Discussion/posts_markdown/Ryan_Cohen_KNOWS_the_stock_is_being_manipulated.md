@@ -1,6 +1,6 @@
-#Title: Ryan Cohen KNOWS the stock is being manipulated.
-#Author: apewithabrain1
-#Post URL: [https://www.reddit.com/r/GME/comments/m8tru8/ryan_cohen_knows_the_stock_is_being_manipulated/](https://www.reddit.com/r/GME/comments/m8tru8/ryan_cohen_knows_the_stock_is_being_manipulated/)
+# Title: Ryan Cohen KNOWS the stock is being manipulated.
+# Author: apewithabrain1
+# Post URL: [https://www.reddit.com/r/GME/comments/m8tru8/ryan_cohen_knows_the_stock_is_being_manipulated/](https://www.reddit.com/r/GME/comments/m8tru8/ryan_cohen_knows_the_stock_is_being_manipulated/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: When MOASS happens: 1 It WONT BE a STRAIGHTLINE 2 it will GO UP & DOWN and STABALIZE then GO BACK UP 3 The Media and the Bot will SPREAD FUD & LIES 24/7 - DO NOT PAPERHAND HODL!!!!
-#Author: CallOfDeception
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbg8qp/when_moass_happens_1_it_wont_be_a_straightline_2/](https://www.reddit.com/r/Superstonk/comments/nbg8qp/when_moass_happens_1_it_wont_be_a_straightline_2/)
+# Title: When MOASS happens: 1 It WONT BE a STRAIGHTLINE 2 it will GO UP & DOWN and STABALIZE then GO BACK UP 3 The Media and the Bot will SPREAD FUD & LIES 24/7 - DO NOT PAPERHAND HODL!!!!
+# Author: CallOfDeception
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbg8qp/when_moass_happens_1_it_wont_be_a_straightline_2/](https://www.reddit.com/r/Superstonk/comments/nbg8qp/when_moass_happens_1_it_wont_be_a_straightline_2/)
 
 
 Edit 2: Damn at least 1K downvotes. Bots, are you there? 

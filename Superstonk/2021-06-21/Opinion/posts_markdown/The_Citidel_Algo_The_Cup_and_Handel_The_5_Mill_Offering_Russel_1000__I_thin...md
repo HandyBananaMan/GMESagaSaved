@@ -1,6 +1,6 @@
-#Title: The Citidel Algo, The Cup and Handel, The 5 Mill Offering, Russel 1000 /// I think the stars have aligned.
-#Author: hunnybadger101
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/](https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/)
+# Title: The Citidel Algo, The Cup and Handel, The 5 Mill Offering, Russel 1000 /// I think the stars have aligned.
+# Author: hunnybadger101
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/](https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/)
 
 
 Sup Ape's

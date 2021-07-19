@@ -1,6 +1,6 @@
-#Title: Vlad and friends been very bad boys(and girls).
-#Author: ant962
-#Post URL: [https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/](https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/)
+# Title: Vlad and friends been very bad boys(and girls).
+# Author: ant962
+# Post URL: [https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/](https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/)
 
 
 Obligatory I am not a financial advisor, this is not financial advice and 🚀🚀🚀

@@ -1,6 +1,6 @@
-#Title: [Speculation] For those who are also wondering why this is all happening this year. I believe that we are holding over 100% of the float, and there is large over 500% total float shorted. 💎🙌
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/GME/comments/mfabf8/speculation_for_those_who_are_also_wondering_why/](https://www.reddit.com/r/GME/comments/mfabf8/speculation_for_those_who_are_also_wondering_why/)
+# Title: [Speculation] For those who are also wondering why this is all happening this year. I believe that we are holding over 100% of the float, and there is large over 500% total float shorted. 💎🙌
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/GME/comments/mfabf8/speculation_for_those_who_are_also_wondering_why/](https://www.reddit.com/r/GME/comments/mfabf8/speculation_for_those_who_are_also_wondering_why/)
 
 
 This is not investing advice, it's not even a prediction. I had a few drinks last night and was trying to give myself confirmation bias to hold (don't try this at home kids).

@@ -1,6 +1,6 @@
-#Title: Happy Father's Day Kenny! SSR Days Don't Mean Dick Do They? I've Got A Surprise From Us To You! ❤🦍🤗
-#Author: DigitalArts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4js5r/happy_fathers_day_kenny_ssr_days_dont_mean_dick/](https://www.reddit.com/r/Superstonk/comments/o4js5r/happy_fathers_day_kenny_ssr_days_dont_mean_dick/)
+# Title: Happy Father's Day Kenny! SSR Days Don't Mean Dick Do They? I've Got A Surprise From Us To You! ❤🦍🤗
+# Author: DigitalArts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4js5r/happy_fathers_day_kenny_ssr_days_dont_mean_dick/](https://www.reddit.com/r/Superstonk/comments/o4js5r/happy_fathers_day_kenny_ssr_days_dont_mean_dick/)
 
 
 \*Edits for grammar/spelling/formatting and thank you for the awards, but what would help more? Whether you copy/paste everything, share the link, or simply educate brother and sister apes on the topic, please share this information (I don't even care about credit). Hopefully the SEC can pull away from watching videos of some dude banging  his step-sister to at least take a look.

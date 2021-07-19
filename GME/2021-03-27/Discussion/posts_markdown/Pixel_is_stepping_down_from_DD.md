@@ -1,6 +1,6 @@
-#Title: Pixel is stepping down from DD
-#Author: Qwiny
-#Post URL: [https://www.reddit.com/r/GME/comments/mekn1i/pixel_is_stepping_down_from_dd/](https://www.reddit.com/r/GME/comments/mekn1i/pixel_is_stepping_down_from_dd/)
+# Title: Pixel is stepping down from DD
+# Author: Qwiny
+# Post URL: [https://www.reddit.com/r/GME/comments/mekn1i/pixel_is_stepping_down_from_dd/](https://www.reddit.com/r/GME/comments/mekn1i/pixel_is_stepping_down_from_dd/)
 
 
 He just tweeted. I actually have tears that he is being threatened to the extend they have to give up an enjoyable and valuable part of their time, let one worry for their safety

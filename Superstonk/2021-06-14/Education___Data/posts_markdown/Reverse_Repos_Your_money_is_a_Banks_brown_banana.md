@@ -1,6 +1,6 @@
-#Title: Reverse Repos. Your money is a Bank's brown banana.
-#Author: DracoFinance
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzugr4/reverse_repos_your_money_is_a_banks_brown_banana/](https://www.reddit.com/r/Superstonk/comments/nzugr4/reverse_repos_your_money_is_a_banks_brown_banana/)
+# Title: Reverse Repos. Your money is a Bank's brown banana.
+# Author: DracoFinance
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzugr4/reverse_repos_your_money_is_a_banks_brown_banana/](https://www.reddit.com/r/Superstonk/comments/nzugr4/reverse_repos_your_money_is_a_banks_brown_banana/)
 
 
 I tried to post this as a reply to someone looking to understand Reverse Repos better and I ended up going over the word limit.  I wrote it because while there are resources elsewhere about what Repos are, I really couldn't find a good DD/Education post here about what they are; only what they are doing.  

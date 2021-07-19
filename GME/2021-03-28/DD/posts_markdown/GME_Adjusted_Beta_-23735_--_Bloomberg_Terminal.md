@@ -1,6 +1,6 @@
-#Title: GME Adjusted Beta: -23.735% -- Bloomberg Terminal
-#Author: SpeedoCheeto
-#Post URL: [https://www.reddit.com/r/GME/comments/mfhszf/gme_adjusted_beta_23735_bloomberg_terminal/](https://www.reddit.com/r/GME/comments/mfhszf/gme_adjusted_beta_23735_bloomberg_terminal/)
+# Title: GME Adjusted Beta: -23.735% -- Bloomberg Terminal
+# Author: SpeedoCheeto
+# Post URL: [https://www.reddit.com/r/GME/comments/mfhszf/gme_adjusted_beta_23735_bloomberg_terminal/](https://www.reddit.com/r/GME/comments/mfhszf/gme_adjusted_beta_23735_bloomberg_terminal/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: Reverse Repo Rate for today is at 134 BILLION USD - 28.25% rise in 24 hours - 10x the Average for March
-#Author: Sh0w3n
-#Post URL: [https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/](https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/)
+# Title: Reverse Repo Rate for today is at 134 BILLION USD - 28.25% rise in 24 hours - 10x the Average for March
+# Author: Sh0w3n
+# Post URL: [https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/](https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/)
 
 
 Yeah, you read that right. 

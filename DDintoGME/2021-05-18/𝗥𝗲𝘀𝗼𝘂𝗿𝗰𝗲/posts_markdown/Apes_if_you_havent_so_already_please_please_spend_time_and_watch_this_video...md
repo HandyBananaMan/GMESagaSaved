@@ -1,6 +1,6 @@
-#Title: Apes if you haven’t so already, please, please spend time and watch this video. You will not regret it and gain all sorts of wrinkles.
-#Author: Expensive_SCOLLI2
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nfq9rd/apes_if_you_havent_so_already_please_please_spend/](https://www.reddit.com/r/DDintoGME/comments/nfq9rd/apes_if_you_havent_so_already_please_please_spend/)
+# Title: Apes if you haven’t so already, please, please spend time and watch this video. You will not regret it and gain all sorts of wrinkles.
+# Author: Expensive_SCOLLI2
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nfq9rd/apes_if_you_havent_so_already_please_please_spend/](https://www.reddit.com/r/DDintoGME/comments/nfq9rd/apes_if_you_havent_so_already_please_please_spend/)
 
 
 

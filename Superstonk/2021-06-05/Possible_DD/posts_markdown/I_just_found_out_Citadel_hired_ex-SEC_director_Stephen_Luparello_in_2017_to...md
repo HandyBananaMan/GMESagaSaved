@@ -1,6 +1,6 @@
-#Title: I just found out Citadel hired ex-SEC director Stephen Luparello in 2017 to be their General Counsel... and then they did all this shit... with an ex-SEC director counseling them. 😂😂😂🚀🚀🚀🚀🚀🚀🚀🌙
-#Author: JessasaurusJames
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/](https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/)
+# Title: I just found out Citadel hired ex-SEC director Stephen Luparello in 2017 to be their General Counsel... and then they did all this shit... with an ex-SEC director counseling them. 😂😂😂🚀🚀🚀🚀🚀🚀🚀🌙
+# Author: JessasaurusJames
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/](https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/)
 
 
 I found [this article from 2017 about Citadel hiring an ex-SEC director](https://www.wsj.com/articles/citadel-securities-hires-ex-sec-director-luparello-as-general-counsel-1491323109).

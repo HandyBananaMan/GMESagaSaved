@@ -1,6 +1,6 @@
-#Title: ||The Endgame ||- connecting the dots.
-#Author: flaming_pope
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/](https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/)
+# Title: ||The Endgame ||- connecting the dots.
+# Author: flaming_pope
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/](https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/)
 
 
 &#x200B;

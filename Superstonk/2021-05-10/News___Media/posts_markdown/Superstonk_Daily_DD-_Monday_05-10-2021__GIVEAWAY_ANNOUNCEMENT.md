@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Monday 05-10-2021 🍌🐈 GIVEAWAY ANNOUNCEMENT!! 🍌🐈
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/](https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/)
+# Title: Superstonk Daily DD- Monday 05-10-2021 🍌🐈 GIVEAWAY ANNOUNCEMENT!! 🍌🐈
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/](https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/)
 
 
 &#x200B;

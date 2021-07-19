@@ -1,6 +1,6 @@
-#Title: I keep seeing people selling high and buying dips for quick profits -- DO NOT DO THIS IF YOU WANT A SQUEEZE
-#Author: BGS_B
-#Post URL: [https://www.reddit.com/r/GME/comments/lsf2u0/i_keep_seeing_people_selling_high_and_buying_dips/](https://www.reddit.com/r/GME/comments/lsf2u0/i_keep_seeing_people_selling_high_and_buying_dips/)
+# Title: I keep seeing people selling high and buying dips for quick profits -- DO NOT DO THIS IF YOU WANT A SQUEEZE
+# Author: BGS_B
+# Post URL: [https://www.reddit.com/r/GME/comments/lsf2u0/i_keep_seeing_people_selling_high_and_buying_dips/](https://www.reddit.com/r/GME/comments/lsf2u0/i_keep_seeing_people_selling_high_and_buying_dips/)
 
 
 I've seen several posts and comments saying something to the tune of "selling at 170 and buying back in at 140".

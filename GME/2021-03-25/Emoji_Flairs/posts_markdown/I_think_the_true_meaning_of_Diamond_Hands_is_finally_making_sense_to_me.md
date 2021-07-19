@@ -1,6 +1,6 @@
-#Title: I think the true meaning of Diamond Hands is finally making sense to me.
-#Author: Dramatic_Bean
-#Post URL: [https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/](https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/)
+# Title: I think the true meaning of Diamond Hands is finally making sense to me.
+# Author: Dramatic_Bean
+# Post URL: [https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/](https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/)
 
 
 I am a Canadian millennial ape nurse holding less than 6 shares since the end of January. Before January 27th, 2021, I knew NOTHING of investing, the stock market etc., my knowledge only encompassed creating a tight budget with which to organize my piddly little nursing wage. Until GameStop...

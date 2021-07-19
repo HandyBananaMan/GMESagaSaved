@@ -1,6 +1,6 @@
-#Title: DD: I did the math, there is literally NO DOUBT that we own >100% of the remaining float (could be up to 1000% or even more), SHARE THIS ! 🚀
-#Author: InForTheSqueeze
-#Post URL: [https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/](https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/)
+# Title: DD: I did the math, there is literally NO DOUBT that we own >100% of the remaining float (could be up to 1000% or even more), SHARE THIS ! 🚀
+# Author: InForTheSqueeze
+# Post URL: [https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/](https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/)
 
 
 Okay fellow apes, listen up, here is some fresh DD straight out of the oven to feed your confirmation bias. 🚀

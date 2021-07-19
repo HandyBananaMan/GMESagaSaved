@@ -1,6 +1,6 @@
-#Title: SR-NSCC-2021-801 CONFIRMATION (MAY THE 4TH BE WITH YOU)
-#Author: Door_Public
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/](https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/)
+# Title: SR-NSCC-2021-801 CONFIRMATION (MAY THE 4TH BE WITH YOU)
+# Author: Door_Public
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/](https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/)
 
 
 1. Congratulations to everyone wo had bought the dip in the disccounts of today.

@@ -1,6 +1,6 @@
-#Title: Petition: Create a "Before MOASS" user flair... which will be unobtainable after it begins.
-#Author: Roid_Rage_Smurf
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhi6sl/petition_create_a_before_moass_user_flair_which/](https://www.reddit.com/r/Superstonk/comments/nhi6sl/petition_create_a_before_moass_user_flair_which/)
+# Title: Petition: Create a "Before MOASS" user flair... which will be unobtainable after it begins.
+# Author: Roid_Rage_Smurf
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhi6sl/petition_create_a_before_moass_user_flair_which/](https://www.reddit.com/r/Superstonk/comments/nhi6sl/petition_create_a_before_moass_user_flair_which/)
 
 
 I don't know what this fantastic community is going to evolve into... but I'd welcome a quick way to separate out the riff from the raff....

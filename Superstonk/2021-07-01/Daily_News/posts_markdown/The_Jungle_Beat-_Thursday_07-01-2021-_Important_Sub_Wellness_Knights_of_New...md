@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Thursday 07-01-2021- Important Sub Wellness, Knights of New, & Security Updates! 🩺🦍💪
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/](https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/)
+# Title: The Jungle Beat- Thursday 07-01-2021- Important Sub Wellness, Knights of New, & Security Updates! 🩺🦍💪
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/](https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/)
 
 
 &#x200B;

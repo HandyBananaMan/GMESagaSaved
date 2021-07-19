@@ -1,6 +1,6 @@
-#Title: Plotkin and Griffin accidentally showed us their cards in the hearing 🃏🃏🃏
-#Author: fatedMercy
-#Post URL: [https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/](https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/)
+# Title: Plotkin and Griffin accidentally showed us their cards in the hearing 🃏🃏🃏
+# Author: fatedMercy
+# Post URL: [https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/](https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/)
 
 
 

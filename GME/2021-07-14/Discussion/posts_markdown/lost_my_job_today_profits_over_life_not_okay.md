@@ -1,6 +1,6 @@
-#Title: lost my job today, profits over life not okay
-#Author: Horror_Difference419
-#Post URL: [https://www.reddit.com/r/GME/comments/okbvmc/lost_my_job_today_profits_over_life_not_okay/](https://www.reddit.com/r/GME/comments/okbvmc/lost_my_job_today_profits_over_life_not_okay/)
+# Title: lost my job today, profits over life not okay
+# Author: Horror_Difference419
+# Post URL: [https://www.reddit.com/r/GME/comments/okbvmc/lost_my_job_today_profits_over_life_not_okay/](https://www.reddit.com/r/GME/comments/okbvmc/lost_my_job_today_profits_over_life_not_okay/)
 
 
 Gonna keep this short as possible and sweet not so much. I have been silent and sat back watching this entire fiasco unfold before me only since march. The amount of financial knowledge I've learned while observing quality DD here and in the other sub, is mind blowing fucking absurd. Not only was the data spot on and reviewed and reviewed over by hundreds of peers, it was also laid out in lay mans terms so everyone could understand, including my dumb construction ass. All i know is hard work. And the fucks we're up against are the opposite of that. I have watched my wages stagnate for 20 years, yet everything else has gotten out of fucking hand.  

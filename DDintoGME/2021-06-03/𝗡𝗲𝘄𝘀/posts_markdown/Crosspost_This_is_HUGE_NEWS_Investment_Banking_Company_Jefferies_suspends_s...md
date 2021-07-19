@@ -1,6 +1,6 @@
-#Title: Crosspost: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked *options* on $GME
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/](https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/)
+# Title: Crosspost: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked *options* on $GME
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/](https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/)
 
 
 [https://www.reddit.com/r/Superstonk/duplicates/nrgdlo/this\_is\_huge\_news\_investment\_banking\_company/](https://www.reddit.com/r/Superstonk/duplicates/nrgdlo/this_is_huge_news_investment_banking_company/), by [u/FDAz](https://www.reddit.com/user/FDAz/)

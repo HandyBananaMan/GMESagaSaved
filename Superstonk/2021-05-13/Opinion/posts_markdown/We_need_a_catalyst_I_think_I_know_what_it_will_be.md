@@ -1,6 +1,6 @@
-#Title: We need a catalyst. I think I know what it will be.
-#Author: kg9936
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbj59s/we_need_a_catalyst_i_think_i_know_what_it_will_be/](https://www.reddit.com/r/Superstonk/comments/nbj59s/we_need_a_catalyst_i_think_i_know_what_it_will_be/)
+# Title: We need a catalyst. I think I know what it will be.
+# Author: kg9936
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbj59s/we_need_a_catalyst_i_think_i_know_what_it_will_be/](https://www.reddit.com/r/Superstonk/comments/nbj59s/we_need_a_catalyst_i_think_i_know_what_it_will_be/)
 
 
 This may have been covered already, and/or I may be wrong, but I have a theory. I'm relying on this sub to poke holes in this theory or provide additional insight.

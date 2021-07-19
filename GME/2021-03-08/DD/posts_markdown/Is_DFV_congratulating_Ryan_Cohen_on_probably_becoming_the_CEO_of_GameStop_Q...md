@@ -1,6 +1,6 @@
-#Title: Is DFV congratulating Ryan Cohen on probably becoming the CEO of GameStop? Quick Breakdown!
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)
+# Title: Is DFV congratulating Ryan Cohen on probably becoming the CEO of GameStop? Quick Breakdown!
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)
 
 
 **Original Tweet:** [https://twitter.com/TheRoaringKitty/status/1368952570874654730](https://twitter.com/TheRoaringKitty/status/1368952570874654730)

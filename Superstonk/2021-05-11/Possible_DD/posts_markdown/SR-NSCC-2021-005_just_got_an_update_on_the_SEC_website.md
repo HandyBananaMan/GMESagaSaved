@@ -1,6 +1,6 @@
-#Title: SR-NSCC-2021-005 just got an update on the SEC website.
-#Author: Official_Siro
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/na0u5x/srnscc2021005_just_got_an_update_on_the_sec/](https://www.reddit.com/r/Superstonk/comments/na0u5x/srnscc2021005_just_got_an_update_on_the_sec/)
+# Title: SR-NSCC-2021-005 just got an update on the SEC website.
+# Author: Official_Siro
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/na0u5x/srnscc2021005_just_got_an_update_on_the_sec/](https://www.reddit.com/r/Superstonk/comments/na0u5x/srnscc2021005_just_got_an_update_on_the_sec/)
 
 
 Any wrinkle brains know anything about this? Just got updated.  

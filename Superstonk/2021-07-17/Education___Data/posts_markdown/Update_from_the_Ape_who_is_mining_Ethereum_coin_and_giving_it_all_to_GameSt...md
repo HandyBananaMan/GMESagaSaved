@@ -1,6 +1,6 @@
-#Title: Update from the Ape who is mining Ethereum coin and giving it all to GameStop's NFT program. It's working and there is an active FUD campaign set against us doing it!
-#Author: Shorty-hunter
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omijsk/update_from_the_ape_who_is_mining_ethereum_coin/](https://www.reddit.com/r/Superstonk/comments/omijsk/update_from_the_ape_who_is_mining_ethereum_coin/)
+# Title: Update from the Ape who is mining Ethereum coin and giving it all to GameStop's NFT program. It's working and there is an active FUD campaign set against us doing it!
+# Author: Shorty-hunter
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omijsk/update_from_the_ape_who_is_mining_ethereum_coin/](https://www.reddit.com/r/Superstonk/comments/omijsk/update_from_the_ape_who_is_mining_ethereum_coin/)
 
 
 I am successfully mining ETH for GME. Everything that was said in regards to me wasting my time was FUD. My miner is accepting the code and mining Ether into GME's NFT wallet with zero reversions!

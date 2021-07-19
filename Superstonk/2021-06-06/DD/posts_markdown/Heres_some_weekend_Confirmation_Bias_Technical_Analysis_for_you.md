@@ -1,6 +1,6 @@
-#Title: Here's some weekend Confirmation Bias Technical Analysis for you
-#Author: respecthepump
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/](https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/)
+# Title: Here's some weekend Confirmation Bias Technical Analysis for you
+# Author: respecthepump
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/](https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/)
 
 
 What's going on fellow diamond-handed, tendie-hungry apes? I'm here to give you all some confirmation bias about where I think GME is headed based on some technical analysis. I'd like to remind you also that we just had a very good week and things are starting to get juicy as we're approaching levels we haven't seen since January and March. 

@@ -1,6 +1,6 @@
-#Title: Is Archegos the missing puzzle piece?
-#Author: taimpeng
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/](https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/)
+# Title: Is Archegos the missing puzzle piece?
+# Author: taimpeng
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/](https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/)
 
 
 I've had a burning question in my mind planted a few days ago when I stumbled upon [a comment I made](https://old.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/h1vxwji/) that was [screen-shotted, submitted, and earned more karma](https://old.reddit.com/r/Superstonk/comments/o0qbuq/this_comment_needs_more_exposure_may_be_why_005/h1wpar5/) and awards than my account had accumulated over the last 7 years of casual Redditing.

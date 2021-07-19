@@ -1,6 +1,6 @@
-#Title: My posts are being suppressed in SuperStonk. I posted a theory and it’s not showing up, with no explanation. I asked 4 friends to check and they don’t see it in my profile.
-#Author: missing_the_point_
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omhlz6/my_posts_are_being_suppressed_in_superstonk_i/](https://www.reddit.com/r/GMEJungle/comments/omhlz6/my_posts_are_being_suppressed_in_superstonk_i/)
+# Title: My posts are being suppressed in SuperStonk. I posted a theory and it’s not showing up, with no explanation. I asked 4 friends to check and they don’t see it in my profile.
+# Author: missing_the_point_
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omhlz6/my_posts_are_being_suppressed_in_superstonk_i/](https://www.reddit.com/r/GMEJungle/comments/omhlz6/my_posts_are_being_suppressed_in_superstonk_i/)
 
 
 Here is proof that a friend can’t see my most recent post theorizing what is going on and predicting a massive price drop: https://imgur.com/a/HH4a3lE

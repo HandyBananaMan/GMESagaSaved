@@ -1,6 +1,6 @@
-#Title: Did Cohen just Neutralize the Short Ladder Attack?
-#Author: Ago0330
-#Post URL: [https://www.reddit.com/r/GME/comments/n0rx8x/did_cohen_just_neutralize_the_short_ladder_attack/](https://www.reddit.com/r/GME/comments/n0rx8x/did_cohen_just_neutralize_the_short_ladder_attack/)
+# Title: Did Cohen just Neutralize the Short Ladder Attack?
+# Author: Ago0330
+# Post URL: [https://www.reddit.com/r/GME/comments/n0rx8x/did_cohen_just_neutralize_the_short_ladder_attack/](https://www.reddit.com/r/GME/comments/n0rx8x/did_cohen_just_neutralize_the_short_ladder_attack/)
 
 
 I never understood the strategy behind Cohen issuing shares and working aggressively with the MMs to drive the price on GME down last week. I was wondering, why would our daddy put us through so much pain? What is the strategic purpose behind it? How does this help us reach the moon?

@@ -1,6 +1,6 @@
-#Title: Beta Part 2: Extremely abnormal negative beta as indirect evidence of the risk management of shorts that have not covered
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/](https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/)
+# Title: Beta Part 2: Extremely abnormal negative beta as indirect evidence of the risk management of shorts that have not covered
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/](https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/)
 
 
 Yay, I just noticed that the mods only require an account to be 30 days old now, so this is my first post in r/GME. It is also intended to complete my first post about beta, originally posted in r/Wallstreetbetsnew.

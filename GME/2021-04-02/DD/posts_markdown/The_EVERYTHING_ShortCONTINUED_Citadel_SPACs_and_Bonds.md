@@ -1,6 +1,6 @@
-#Title: The EVERYTHING Short....CONTINUED. Citadel, SPACs and Bonds
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/](https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/)
+# Title: The EVERYTHING Short....CONTINUED. Citadel, SPACs and Bonds
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/](https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/)
 
 
 I think if I update this any more, I'd like to leave this at the top.

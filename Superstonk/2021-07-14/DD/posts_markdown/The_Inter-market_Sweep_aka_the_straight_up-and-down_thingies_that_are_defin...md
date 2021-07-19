@@ -1,6 +1,6 @@
-#Title: The Inter-market Sweep; a.k.a the "straight up-and-down thingies" that are definitely NOT a glitch
-#Author: G_KG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/](https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/)
+# Title: The Inter-market Sweep; a.k.a the "straight up-and-down thingies" that are definitely NOT a glitch
+# Author: G_KG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/](https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/)
 
 
 Hello all you glorious apes and apettes, I'm back after a break for more psychological abuse!  Actually I can't get enough....  the thought of Gabe Plotkin scouring my message board is....  brb sec cold shower time  (source: [https://finance.yahoo.com/news/melvin-t-shake-reddit-attack-205148761.html](https://finance.yahoo.com/news/melvin-t-shake-reddit-attack-205148761.html) )

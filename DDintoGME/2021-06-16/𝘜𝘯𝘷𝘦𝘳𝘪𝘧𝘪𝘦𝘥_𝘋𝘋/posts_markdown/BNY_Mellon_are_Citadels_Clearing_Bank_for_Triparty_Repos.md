@@ -1,6 +1,6 @@
-#Title: BNY Mellon are Citadel’s Clearing Bank for Triparty Repos
-#Author: PeopleCalledRomanes
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o18t8a/bny_mellon_are_citadels_clearing_bank_for/](https://www.reddit.com/r/DDintoGME/comments/o18t8a/bny_mellon_are_citadels_clearing_bank_for/)
+# Title: BNY Mellon are Citadel’s Clearing Bank for Triparty Repos
+# Author: PeopleCalledRomanes
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o18t8a/bny_mellon_are_citadels_clearing_bank_for/](https://www.reddit.com/r/DDintoGME/comments/o18t8a/bny_mellon_are_citadels_clearing_bank_for/)
 
 
 With the [new found document](https://www.reddit.com/r/Superstonk/comments/o13686/am_i_reading_this_correctly_from_041321_citadel/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf) outlining Citadel’s agreement for a line of credit with BNY Mellon, I wanted to point out that BNY Mellon are one of two clearing banks. The other is JP Morgan (who last I knew severely limited operations). In the triparty repo market, their role is to settle the transaction of various securities, and particularly government securities (Treasury securities, agency MBS). 

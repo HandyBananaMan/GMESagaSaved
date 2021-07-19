@@ -1,6 +1,6 @@
-#Title: I created a webpage to draw attention to the GME media and stock manipulation and I can see DDOS attempts in the site's error logs 🚀🚀
-#Author: infj-t
-#Post URL: [https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/](https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/)
+# Title: I created a webpage to draw attention to the GME media and stock manipulation and I can see DDOS attempts in the site's error logs 🚀🚀
+# Author: infj-t
+# Post URL: [https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/](https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/)
 
 
 **Last Updated: 15:00PM (GMT), 10:00AM (EST), 07:00AM (PST)**

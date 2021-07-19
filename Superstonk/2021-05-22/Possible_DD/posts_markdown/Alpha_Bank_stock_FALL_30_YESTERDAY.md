@@ -1,6 +1,6 @@
-#Title: Alpha Bank stock FALL 30% YESTERDAY
-#Author: ChrisOGone
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/niprsr/alpha_bank_stock_fall_30_yesterday/](https://www.reddit.com/r/Superstonk/comments/niprsr/alpha_bank_stock_fall_30_yesterday/)
+# Title: Alpha Bank stock FALL 30% YESTERDAY
+# Author: ChrisOGone
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/niprsr/alpha_bank_stock_fall_30_yesterday/](https://www.reddit.com/r/Superstonk/comments/niprsr/alpha_bank_stock_fall_30_yesterday/)
 
 
 ok 

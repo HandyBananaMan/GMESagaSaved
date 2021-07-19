@@ -1,6 +1,6 @@
-#Title: The Importance of 0.786 Retracement During Volatile Times
-#Author: Sgt-GiggleFarts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/](https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/)
+# Title: The Importance of 0.786 Retracement During Volatile Times
+# Author: Sgt-GiggleFarts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/](https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/)
 
 
 TL;DR:

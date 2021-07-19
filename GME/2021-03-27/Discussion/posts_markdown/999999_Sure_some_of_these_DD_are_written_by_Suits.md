@@ -1,6 +1,6 @@
-#Title: 99.9999% Sure some of these DD are written by Suits
-#Author: PowerHausMachine
-#Post URL: [https://www.reddit.com/r/GME/comments/met918/999999_sure_some_of_these_dd_are_written_by_suits/](https://www.reddit.com/r/GME/comments/met918/999999_sure_some_of_these_dd_are_written_by_suits/)
+# Title: 99.9999% Sure some of these DD are written by Suits
+# Author: PowerHausMachine
+# Post URL: [https://www.reddit.com/r/GME/comments/met918/999999_sure_some_of_these_dd_are_written_by_suits/](https://www.reddit.com/r/GME/comments/met918/999999_sure_some_of_these_dd_are_written_by_suits/)
 
 
 **EDIT!! Ok seems a bunch of people are doing detective work on my experience and picture. I'll make this easy, mod pm me I will send proof of my identity. who are the mods,** /u/rensole **and who else?**

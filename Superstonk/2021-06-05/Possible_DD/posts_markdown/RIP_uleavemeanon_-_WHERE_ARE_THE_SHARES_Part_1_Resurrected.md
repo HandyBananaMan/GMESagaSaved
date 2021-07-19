@@ -1,6 +1,6 @@
-#Title: RIP /u/leavemeanon - WHERE ARE THE SHARES (Part 1) Resurrected
-#Author: VoxUmbra
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/](https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/)
+# Title: RIP /u/leavemeanon - WHERE ARE THE SHARES (Part 1) Resurrected
+# Author: VoxUmbra
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/](https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/)
 
 
 [\[Part 2\]](https://www.reddit.com/r/Superstonk/comments/nt8qzj/rip_uleavemeanon_where_are_the_shares_part_2/)

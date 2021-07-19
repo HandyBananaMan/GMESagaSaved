@@ -1,6 +1,6 @@
-#Title: What happens on 7/16 when ~30M shares of Married Puts expire worthless?
-#Author: thatskindaneat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obw91a/what_happens_on_716_when_30m_shares_of_married/](https://www.reddit.com/r/Superstonk/comments/obw91a/what_happens_on_716_when_30m_shares_of_married/)
+# Title: What happens on 7/16 when ~30M shares of Married Puts expire worthless?
+# Author: thatskindaneat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obw91a/what_happens_on_716_when_30m_shares_of_married/](https://www.reddit.com/r/Superstonk/comments/obw91a/what_happens_on_716_when_30m_shares_of_married/)
 
 
 Wondering if some smarter folks than myself can help provide some context. I haven’t seen this discussed and I think it aligns well to some of the 7/14 theories we’ve been seeing. 

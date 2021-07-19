@@ -1,6 +1,6 @@
-#Title: It's a great opportunity to turn this sub into, factual DD only sub
-#Author: nornator
-#Post URL: [https://www.reddit.com/r/GME/comments/ml7zti/its_a_great_opportunity_to_turn_this_sub_into/](https://www.reddit.com/r/GME/comments/ml7zti/its_a_great_opportunity_to_turn_this_sub_into/)
+# Title: It's a great opportunity to turn this sub into, factual DD only sub
+# Author: nornator
+# Post URL: [https://www.reddit.com/r/GME/comments/ml7zti/its_a_great_opportunity_to_turn_this_sub_into/](https://www.reddit.com/r/GME/comments/ml7zti/its_a_great_opportunity_to_turn_this_sub_into/)
 
 
 That's it.

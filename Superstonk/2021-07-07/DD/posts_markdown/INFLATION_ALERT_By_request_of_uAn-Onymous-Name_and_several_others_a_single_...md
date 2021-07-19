@@ -1,6 +1,6 @@
-#Title: INFLATION ALERT! By request of u/An-Onymous-Name and several others, a single list with the dive into the banking information that ended up scattered in the comments. *NOW WITH MORE MEMES!!!*
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofe7s8/inflation_alert_by_request_of_uanonymousname_and/](https://www.reddit.com/r/Superstonk/comments/ofe7s8/inflation_alert_by_request_of_uanonymousname_and/)
+# Title: INFLATION ALERT! By request of u/An-Onymous-Name and several others, a single list with the dive into the banking information that ended up scattered in the comments. *NOW WITH MORE MEMES!!!*
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofe7s8/inflation_alert_by_request_of_uanonymousname_and/](https://www.reddit.com/r/Superstonk/comments/ofe7s8/inflation_alert_by_request_of_uanonymousname_and/)
 
 
 ![Hiya r\/Superstonk jellyfish after hours with you! ](https://i.redd.it/1x0k998wpq971.gif)

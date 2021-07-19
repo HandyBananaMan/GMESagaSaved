@@ -1,6 +1,6 @@
-#Title: Blackrock and a trillion dollar honeypot
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/)
+# Title: Blackrock and a trillion dollar honeypot
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/)
 
 
 Edit: this is blowing up a little, I'd like to reiterate this is not in any way presented as facts. I am actively seeking to know more. Conjecture on finding out motivations is exciting. In no way is this advice.

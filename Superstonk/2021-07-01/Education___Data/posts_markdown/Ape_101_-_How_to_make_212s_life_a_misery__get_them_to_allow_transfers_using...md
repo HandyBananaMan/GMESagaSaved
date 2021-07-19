@@ -1,6 +1,6 @@
-#Title: Ape 101 - How to make 212s life a misery & get them to allow transfers using UK regulation.
-#Author: moonski
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obouqn/ape_101_how_to_make_212s_life_a_misery_get_them/](https://www.reddit.com/r/Superstonk/comments/obouqn/ape_101_how_to_make_212s_life_a_misery_get_them/)
+# Title: Ape 101 - How to make 212s life a misery & get them to allow transfers using UK regulation.
+# Author: moonski
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obouqn/ape_101_how_to_make_212s_life_a_misery_get_them/](https://www.reddit.com/r/Superstonk/comments/obouqn/ape_101_how_to_make_212s_life_a_misery_get_them/)
 
 
 So this post is on the front page about 212 not facilitating transfers: https://reddit.com/r/Superstonk/comments/obk7qj/update_on_t212_share_tranfers/

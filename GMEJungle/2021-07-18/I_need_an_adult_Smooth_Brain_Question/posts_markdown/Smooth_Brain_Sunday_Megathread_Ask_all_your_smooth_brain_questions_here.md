@@ -1,6 +1,6 @@
-#Title: 🦧🧠 Smooth Brain Sunday Megathread! Ask all your smooth brain questions here! 👇
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omuisc/smooth_brain_sunday_megathread_ask_all_your/](https://www.reddit.com/r/GMEJungle/comments/omuisc/smooth_brain_sunday_megathread_ask_all_your/)
+# Title: 🦧🧠 Smooth Brain Sunday Megathread! Ask all your smooth brain questions here! 👇
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omuisc/smooth_brain_sunday_megathread_ask_all_your/](https://www.reddit.com/r/GMEJungle/comments/omuisc/smooth_brain_sunday_megathread_ask_all_your/)
 
 
 # [Regular Weekend discussion thread here](https://www.reddit.com/r/GMEJungle/comments/omv5lo/weekend_gme_discussion_thread/)

@@ -1,6 +1,6 @@
-#Title: House of Cards pt 1 and Citadel Has No Clothes audio!
-#Author: GoryAmos
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okosq1/house_of_cards_pt_1_and_citadel_has_no_clothes/](https://www.reddit.com/r/Superstonk/comments/okosq1/house_of_cards_pt_1_and_citadel_has_no_clothes/)
+# Title: House of Cards pt 1 and Citadel Has No Clothes audio!
+# Author: GoryAmos
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okosq1/house_of_cards_pt_1_and_citadel_has_no_clothes/](https://www.reddit.com/r/Superstonk/comments/okosq1/house_of_cards_pt_1_and_citadel_has_no_clothes/)
 
 
 Hello Apes Who Learn Better With Ears and Apes Who Just Like to Listen- 

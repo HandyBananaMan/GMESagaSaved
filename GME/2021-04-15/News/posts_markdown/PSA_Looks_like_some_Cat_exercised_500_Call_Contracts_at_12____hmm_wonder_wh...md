@@ -1,6 +1,6 @@
-#Title: PSA: Looks like some Cat exercised 500 Call Contracts at $12 . . . hmm wonder who that was? This 🦍 Salutes you!!!
-#Author: Nazereth_99
-#Post URL: [https://www.reddit.com/r/GME/comments/mrijdp/psa_looks_like_some_cat_exercised_500_call/](https://www.reddit.com/r/GME/comments/mrijdp/psa_looks_like_some_cat_exercised_500_call/)
+# Title: PSA: Looks like some Cat exercised 500 Call Contracts at $12 . . . hmm wonder who that was? This 🦍 Salutes you!!!
+# Author: Nazereth_99
+# Post URL: [https://www.reddit.com/r/GME/comments/mrijdp/psa_looks_like_some_cat_exercised_500_call/](https://www.reddit.com/r/GME/comments/mrijdp/psa_looks_like_some_cat_exercised_500_call/)
 
 
  **This 🦍 Salutes you!!!** 

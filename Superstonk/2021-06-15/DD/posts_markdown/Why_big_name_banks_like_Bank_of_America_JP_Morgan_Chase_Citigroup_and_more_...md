@@ -1,6 +1,6 @@
-#Title: Why big name banks like Bank of America, JP Morgan Chase, Citigroup and more were excluded from bonds sales in the EU, and what banks have been doing for YEARS to manipulate the market to fuck everyone else over
-#Author: AcedVector
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0hey8/why_big_name_banks_like_bank_of_america_jp_morgan/](https://www.reddit.com/r/Superstonk/comments/o0hey8/why_big_name_banks_like_bank_of_america_jp_morgan/)
+# Title: Why big name banks like Bank of America, JP Morgan Chase, Citigroup and more were excluded from bonds sales in the EU, and what banks have been doing for YEARS to manipulate the market to fuck everyone else over
+# Author: AcedVector
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0hey8/why_big_name_banks_like_bank_of_america_jp_morgan/](https://www.reddit.com/r/Superstonk/comments/o0hey8/why_big_name_banks_like_bank_of_america_jp_morgan/)
 
 
 #Edit: I just want to thank everyone for the support you guys have been giving me in the comments! I truly appreciate it and I am greatful that this community is a really nice and caring one. I wouldn't want to go to the moon any other way, this sub is really something else. :)

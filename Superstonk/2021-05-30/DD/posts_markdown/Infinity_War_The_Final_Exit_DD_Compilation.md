@@ -1,6 +1,6 @@
-#Title: Infinity War: The Final Exit DD Compilation
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/](https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/)
+# Title: Infinity War: The Final Exit DD Compilation
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/](https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/)
 
 
 Hello Superstonk!

@@ -1,6 +1,6 @@
-#Title: IMPORTANT note on FTD Cycle from Hank
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwb0a/important_note_on_ftd_cycle_from_hank/](https://www.reddit.com/r/Superstonk/comments/nlwb0a/important_note_on_ftd_cycle_from_hank/)
+# Title: IMPORTANT note on FTD Cycle from Hank
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwb0a/important_note_on_ftd_cycle_from_hank/](https://www.reddit.com/r/Superstonk/comments/nlwb0a/important_note_on_ftd_cycle_from_hank/)
 
 
 Apes, this is going to be an extremely quick post. I'm sorry that it won't include anything super funny or anything too in-depth but this is extremely important and I had to get it out now.

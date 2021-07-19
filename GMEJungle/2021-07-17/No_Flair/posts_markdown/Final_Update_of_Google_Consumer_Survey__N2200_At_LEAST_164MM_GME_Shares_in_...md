@@ -1,6 +1,6 @@
-#Title: Final Update of Google Consumer Survey *** N=2,200***; At LEAST 164MM $GME Shares in Hands of U.S. Retail; ***My Best Guesstimate For Total Shares Owned Globally — 531MM***
-#Author: Get-It-Got
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omda94/final_update_of_google_consumer_survey_n2200_at/](https://www.reddit.com/r/GMEJungle/comments/omda94/final_update_of_google_consumer_survey_n2200_at/)
+# Title: Final Update of Google Consumer Survey *** N=2,200***; At LEAST 164MM $GME Shares in Hands of U.S. Retail; ***My Best Guesstimate For Total Shares Owned Globally — 531MM***
+# Author: Get-It-Got
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omda94/final_update_of_google_consumer_survey_n2200_at/](https://www.reddit.com/r/GMEJungle/comments/omda94/final_update_of_google_consumer_survey_n2200_at/)
 
 
 Hi Everyone,

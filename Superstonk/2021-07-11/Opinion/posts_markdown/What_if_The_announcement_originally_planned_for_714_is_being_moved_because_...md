@@ -1,6 +1,6 @@
-#Title: What if: The announcement originally planned for 7/14 is being moved because the SEC wants to see what happens to the 40M deep OTM shares on Friday 7/16 to potentially take action?
-#Author: aguynamedbry
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oi1nva/what_if_the_announcement_originally_planned_for/](https://www.reddit.com/r/Superstonk/comments/oi1nva/what_if_the_announcement_originally_planned_for/)
+# Title: What if: The announcement originally planned for 7/14 is being moved because the SEC wants to see what happens to the 40M deep OTM shares on Friday 7/16 to potentially take action?
+# Author: aguynamedbry
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oi1nva/what_if_the_announcement_originally_planned_for/](https://www.reddit.com/r/Superstonk/comments/oi1nva/what_if_the_announcement_originally_planned_for/)
 
 
 I'm a non-professional on a computer smashing keys with no financial/professional advice in sight. Apologies if this was covered elsewhere.

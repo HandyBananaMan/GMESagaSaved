@@ -1,6 +1,6 @@
-#Title: A Comprehensive guide to selling during MOASS for eToro apes
-#Author: Tx3hc78
-#Post URL: [https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/](https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/)
+# Title: A Comprehensive guide to selling during MOASS for eToro apes
+# Author: Tx3hc78
+# Post URL: [https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/](https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/)
 
 
 # Introduction

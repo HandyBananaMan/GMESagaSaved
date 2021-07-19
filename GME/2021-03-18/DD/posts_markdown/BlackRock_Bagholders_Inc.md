@@ -1,6 +1,6 @@
-#Title: BlackRock Bagholders, Inc.
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
+# Title: BlackRock Bagholders, Inc.
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
 
 
 EDIT: FMR is Fidelity. I've updated this below.

@@ -1,6 +1,6 @@
-#Title: Melvin Capital's 13F is SUS AF!!!
-#Author: GodOfThunder39
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nertud/melvin_capitals_13f_is_sus_af/](https://www.reddit.com/r/DDintoGME/comments/nertud/melvin_capitals_13f_is_sus_af/)
+# Title: Melvin Capital's 13F is SUS AF!!!
+# Author: GodOfThunder39
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nertud/melvin_capitals_13f_is_sus_af/](https://www.reddit.com/r/DDintoGME/comments/nertud/melvin_capitals_13f_is_sus_af/)
 
 
 Melvin Capital does not list a single PUT option in their 13F.  Did they close every single short position they had, and all associate puts????  NOT JUST GME.   EVERYTHING!!!!

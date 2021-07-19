@@ -1,6 +1,6 @@
-#Title: Fails to deliver report for the second half of June is out!
-#Author: Deal_Ambitious
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okwu7x/fails_to_deliver_report_for_the_second_half_of/](https://www.reddit.com/r/Superstonk/comments/okwu7x/fails_to_deliver_report_for_the_second_half_of/)
+# Title: Fails to deliver report for the second half of June is out!
+# Author: Deal_Ambitious
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okwu7x/fails_to_deliver_report_for_the_second_half_of/](https://www.reddit.com/r/Superstonk/comments/okwu7x/fails_to_deliver_report_for_the_second_half_of/)
 
 
 Browsing through the fails to deliver data of the first half of June to see when we will expect GME to bounce back. I noticed that there are 105,712 FTD's from the 14th of Juni, which might give us some upward movement at T+35, which is at the 19th of July.

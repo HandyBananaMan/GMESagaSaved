@@ -1,6 +1,6 @@
-#Title: Something smells fishy. (6/2) GME hit's a high of 262.9 premarket at the same time Movie company hit 44.75 then rug pull. We find out Mudrick Capital is Citadel who bought 8.5 Million shares at 27 on top of their 700k position, then they dump them at 33? 550k GME shares borrowed at 7AM....Fuckery
-#Author: khashi1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqll9k/something_smells_fishy_62_gme_hits_a_high_of_2629/](https://www.reddit.com/r/Superstonk/comments/nqll9k/something_smells_fishy_62_gme_hits_a_high_of_2629/)
+# Title: Something smells fishy. (6/2) GME hit's a high of 262.9 premarket at the same time Movie company hit 44.75 then rug pull. We find out Mudrick Capital is Citadel who bought 8.5 Million shares at 27 on top of their 700k position, then they dump them at 33? 550k GME shares borrowed at 7AM....Fuckery
+# Author: khashi1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqll9k/something_smells_fishy_62_gme_hits_a_high_of_2629/](https://www.reddit.com/r/Superstonk/comments/nqll9k/something_smells_fishy_62_gme_hits_a_high_of_2629/)
 
 
 # 

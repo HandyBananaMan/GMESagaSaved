@@ -1,6 +1,6 @@
-#Title: The Infinity Squeeze Thesis Summary and Breakdown of the Market Concepts/Mechanics That Make it Possible
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/](https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/)
+# Title: The Infinity Squeeze Thesis Summary and Breakdown of the Market Concepts/Mechanics That Make it Possible
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/](https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/)
 
 
 This is a stripped version of the [GME MOASS Thesis](https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/?utm_medium=android_app&utm_source=share) I wrote a while back and refined recently. It is AMC/GME agnostic and is beneficial and relevant to apes on both sides. 

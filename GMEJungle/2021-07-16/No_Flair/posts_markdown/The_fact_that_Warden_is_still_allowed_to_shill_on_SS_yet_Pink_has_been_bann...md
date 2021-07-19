@@ -1,6 +1,6 @@
-#Title: The fact that Warden is still allowed to shill on SS yet Pink has been banned speaks volumes
-#Author: The-Grubster
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olszwy/the_fact_that_warden_is_still_allowed_to_shill_on/](https://www.reddit.com/r/GMEJungle/comments/olszwy/the_fact_that_warden_is_still_allowed_to_shill_on/)
+# Title: The fact that Warden is still allowed to shill on SS yet Pink has been banned speaks volumes
+# Author: The-Grubster
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olszwy/the_fact_that_warden_is_still_allowed_to_shill_on/](https://www.reddit.com/r/GMEJungle/comments/olszwy/the_fact_that_warden_is_still_allowed_to_shill_on/)
 
 
 As the title says. I'm done with all the Mod drama, I hope we are all able to have a safe space here.

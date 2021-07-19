@@ -1,6 +1,6 @@
-#Title: Major Deep ITM CALL Option Dates. A Massive Net Capital BOMB Might Explode This Week.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/)
+# Title: Major Deep ITM CALL Option Dates. A Massive Net Capital BOMB Might Explode This Week.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/)
 
 
 # 0. Update

@@ -1,6 +1,6 @@
-#Title: Mystery solved: The deep ITM calls are coming from none other than the devil himself
-#Author: TheWhackBateman
-#Post URL: [https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/)
+# Title: Mystery solved: The deep ITM calls are coming from none other than the devil himself
+# Author: TheWhackBateman
+# Post URL: [https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/)
 
 
 Disclaimer: This is not financial advise. Do your own DD before making any decisions. I am not a financial advisor. I'm just a guy and this is my analysis of the data. 

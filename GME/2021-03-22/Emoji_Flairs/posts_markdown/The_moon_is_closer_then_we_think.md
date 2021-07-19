@@ -1,6 +1,6 @@
-#Title: The moon is closer then we think
-#Author: somelittlefella
-#Post URL: [https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/](https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/)
+# Title: The moon is closer then we think
+# Author: somelittlefella
+# Post URL: [https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/](https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/)
 
 
 Edit 3: Great suggestion from u/FllKY52 to combat shill downvotes by posting time and count every so often. Would work much better in the hundreds then the thousands

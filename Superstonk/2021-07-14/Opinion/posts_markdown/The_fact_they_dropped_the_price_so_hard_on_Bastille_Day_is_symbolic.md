@@ -1,6 +1,6 @@
-#Title: The fact they dropped the price so hard on Bastille Day is symbolic
-#Author: faddishw0rm
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okeeee/the_fact_they_dropped_the_price_so_hard_on/](https://www.reddit.com/r/Superstonk/comments/okeeee/the_fact_they_dropped_the_price_so_hard_on/)
+# Title: The fact they dropped the price so hard on Bastille Day is symbolic
+# Author: faddishw0rm
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okeeee/the_fact_they_dropped_the_price_so_hard_on/](https://www.reddit.com/r/Superstonk/comments/okeeee/the_fact_they_dropped_the_price_so_hard_on/)
 
 
 A nice little fuck you to the great unwashed ape masses from our elite ruling class overlords. 

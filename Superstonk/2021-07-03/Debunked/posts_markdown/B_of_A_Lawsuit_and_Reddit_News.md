@@ -1,6 +1,6 @@
-#Title: B of A Lawsuit and Reddit News
-#Author: Bye_Triangle
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/](https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/)
+# Title: B of A Lawsuit and Reddit News
+# Author: Bye_Triangle
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/](https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/)
 
 
 Hello everyone,

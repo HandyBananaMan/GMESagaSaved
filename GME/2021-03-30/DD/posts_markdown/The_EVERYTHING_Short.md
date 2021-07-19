@@ -1,6 +1,6 @@
-#Title: The EVERYTHING Short
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
+# Title: The EVERYTHING Short
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
 
 
 4/4/2021 EDIT: Just got done watching [this review](https://www.youtube.com/watch?v=6pnK7W4b0Ro) (2:09:37) from George Gammon and Meet Kevin. As pointed out by George, the link I posted below talking about the submitted repo amount was ONLY showing the NY Fed's total for that day. According to his own research, he suspects that $4 TRILLION is pumped through this market, EACH DAY.

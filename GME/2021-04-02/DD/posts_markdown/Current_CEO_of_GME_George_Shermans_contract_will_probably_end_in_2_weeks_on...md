@@ -1,6 +1,6 @@
-#Title: Current CEO of GME, George Sherman’s contract will probably end in 2 weeks on 4/15/21. See SEC Filing.
-#Author: Altruistic_Prior1932
-#Post URL: [https://www.reddit.com/r/GME/comments/migeel/current_ceo_of_gme_george_shermans_contract_will/](https://www.reddit.com/r/GME/comments/migeel/current_ceo_of_gme_george_shermans_contract_will/)
+# Title: Current CEO of GME, George Sherman’s contract will probably end in 2 weeks on 4/15/21. See SEC Filing.
+# Author: Altruistic_Prior1932
+# Post URL: [https://www.reddit.com/r/GME/comments/migeel/current_ceo_of_gme_george_shermans_contract_will/](https://www.reddit.com/r/GME/comments/migeel/current_ceo_of_gme_george_shermans_contract_will/)
 
 
 He was hired on 4/15/19. He got a signing bonus and vested stock schedule that is his to keep so long as he stays through 4/15/21. He has 300K that will vest in June 2021. 

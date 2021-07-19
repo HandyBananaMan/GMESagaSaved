@@ -1,6 +1,6 @@
-#Title: Crosspost: I found a correlation in why REVERSE REPO RATES are exponentially growing, Gamestop & crypto and its in NSCC 802 DD 👨‍🔬
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/](https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/)
+# Title: Crosspost: I found a correlation in why REVERSE REPO RATES are exponentially growing, Gamestop & crypto and its in NSCC 802 DD 👨‍🔬
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/](https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/)
 
 
 [Original Post](https://www.reddit.com/r/Superstonk/duplicates/nz0fsz/i_found_a_correlation_in_why_reverse_repo_rates/) by [u/con101smd](https://www.reddit.com/user/con101smd/)

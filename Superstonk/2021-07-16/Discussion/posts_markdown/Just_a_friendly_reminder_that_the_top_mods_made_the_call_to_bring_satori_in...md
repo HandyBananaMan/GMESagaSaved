@@ -1,6 +1,6 @@
-#Title: Just a friendly reminder, that the top mods made the call to bring satori in, the top mods made it possible to have this sub relatively shill free. The top mods specifically made a hierarchy so the sub cant be taken over without serious effort. I trust the mods to clean up this mess and move on.
-#Author: jsutajguauga
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olnuvm/just_a_friendly_reminder_that_the_top_mods_made/](https://www.reddit.com/r/Superstonk/comments/olnuvm/just_a_friendly_reminder_that_the_top_mods_made/)
+# Title: Just a friendly reminder, that the top mods made the call to bring satori in, the top mods made it possible to have this sub relatively shill free. The top mods specifically made a hierarchy so the sub cant be taken over without serious effort. I trust the mods to clean up this mess and move on.
+# Author: jsutajguauga
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olnuvm/just_a_friendly_reminder_that_the_top_mods_made/](https://www.reddit.com/r/Superstonk/comments/olnuvm/just_a_friendly_reminder_that_the_top_mods_made/)
 
 
 Shills can take their concern trolling elsewhere. There is no rush or urgency to go for kneejerk reactions. Even if this sub is full of useless memes and forum sliding for 3 days straight, there is nothing going on other than buying and holding anyways. So all those "this is a serious sub and we need to deal with this IMmEdIaTely" people can just dial it down a notch and relax.

@@ -1,6 +1,6 @@
-#Title: GME Turnover Ratio at 93%!? Rocket is Fueled, Primed, and Waiting for Ignition
-#Author: Lancerevo012
-#Post URL: [https://www.reddit.com/r/GME/comments/m6m8fw/gme_turnover_ratio_at_93_rocket_is_fueled_primed/](https://www.reddit.com/r/GME/comments/m6m8fw/gme_turnover_ratio_at_93_rocket_is_fueled_primed/)
+# Title: GME Turnover Ratio at 93%!? Rocket is Fueled, Primed, and Waiting for Ignition
+# Author: Lancerevo012
+# Post URL: [https://www.reddit.com/r/GME/comments/m6m8fw/gme_turnover_ratio_at_93_rocket_is_fueled_primed/](https://www.reddit.com/r/GME/comments/m6m8fw/gme_turnover_ratio_at_93_rocket_is_fueled_primed/)
 
 
 ![GME TRO 3/16/21](https://imgur.com/a/VLwdj44)

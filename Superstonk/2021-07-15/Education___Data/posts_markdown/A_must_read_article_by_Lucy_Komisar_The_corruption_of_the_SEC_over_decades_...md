@@ -1,6 +1,6 @@
-#Title: A must read article (by Lucy Komisar): "The corruption of the SEC, over decades and till today"
-#Author: CupioDissolvi333
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okrmiw/a_must_read_article_by_lucy_komisar_the/](https://www.reddit.com/r/Superstonk/comments/okrmiw/a_must_read_article_by_lucy_komisar_the/)
+# Title: A must read article (by Lucy Komisar): "The corruption of the SEC, over decades and till today"
+# Author: CupioDissolvi333
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okrmiw/a_must_read_article_by_lucy_komisar_the/](https://www.reddit.com/r/Superstonk/comments/okrmiw/a_must_read_article_by_lucy_komisar_the/)
 
 
 ([The Article Link](https://www.thekomisarscoop.com/2021/06/the-corruption-of-the-sec-over-decades-and-till-today/)) 

@@ -1,6 +1,6 @@
-#Title: Infinite Loop Part 2 and Part 3
-#Author: draygon_media
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/](https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/)
+# Title: Infinite Loop Part 2 and Part 3
+# Author: draygon_media
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/](https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/)
 
 
 ![The beast is growing!](https://preview.redd.it/om4eohkucqy61.png?width=1534&format=png&auto=webp&s=704017fd96e28f8e3e54d81cf7e14ca3b7c0c16a)

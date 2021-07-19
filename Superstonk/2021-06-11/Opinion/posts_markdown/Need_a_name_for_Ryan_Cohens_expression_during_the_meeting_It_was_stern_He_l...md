@@ -1,6 +1,6 @@
-#Title: Need a name for Ryan Cohen's expression during the meeting? It was stern. He looked stern.
-#Author: visijared
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxd9ry/need_a_name_for_ryan_cohens_expression_during_the/](https://www.reddit.com/r/Superstonk/comments/nxd9ry/need_a_name_for_ryan_cohens_expression_during_the/)
+# Title: Need a name for Ryan Cohen's expression during the meeting? It was stern. He looked stern.
+# Author: visijared
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxd9ry/need_a_name_for_ryan_cohens_expression_during_the/](https://www.reddit.com/r/Superstonk/comments/nxd9ry/need_a_name_for_ryan_cohens_expression_during_the/)
 
 
 >"Cohen wanted the message to be stern, said the sources, who were close to the discussions." -[source](https://www.reuters.com/technology/gamestop-lures-amazon-talent-with-grand-plans-no-frills-2021-06-11/)

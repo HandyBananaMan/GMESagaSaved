@@ -1,6 +1,6 @@
-#Title: Gamestop is playing 4D chess and the SHFs are playing checkers
-#Author: blacktar-lurker
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw9jud/gamestop_is_playing_4d_chess_and_the_shfs_are/](https://www.reddit.com/r/Superstonk/comments/nw9jud/gamestop_is_playing_4d_chess_and_the_shfs_are/)
+# Title: Gamestop is playing 4D chess and the SHFs are playing checkers
+# Author: blacktar-lurker
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw9jud/gamestop_is_playing_4d_chess_and_the_shfs_are/](https://www.reddit.com/r/Superstonk/comments/nw9jud/gamestop_is_playing_4d_chess_and_the_shfs_are/)
 
 
 Notice how quickly this 8-K was filed? Minutes after the conference?? And as we know last year (and I believe typically) the voting company didn't provide results to the company until 3 business days after, and Gamestop filed the 8-K on the 4th day. 

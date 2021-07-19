@@ -1,6 +1,6 @@
-#Title: "But what if the SEC steps in and stops the MOASS?" - An Answer!
-#Author: Klldarkness
-#Post URL: [https://www.reddit.com/r/GME/comments/nuz6v7/but_what_if_the_sec_steps_in_and_stops_the_moass/](https://www.reddit.com/r/GME/comments/nuz6v7/but_what_if_the_sec_steps_in_and_stops_the_moass/)
+# Title: "But what if the SEC steps in and stops the MOASS?" - An Answer!
+# Author: Klldarkness
+# Post URL: [https://www.reddit.com/r/GME/comments/nuz6v7/but_what_if_the_sec_steps_in_and_stops_the_moass/](https://www.reddit.com/r/GME/comments/nuz6v7/but_what_if_the_sec_steps_in_and_stops_the_moass/)
 
 
 Hello all!

@@ -1,6 +1,6 @@
-#Title: Please remember that during the shareholder's meeting the price can be highly manipulated to tell the story the hedgies want you to believe.
-#Author: NoMoreCheeters
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu1pnq/please_remember_that_during_the_shareholders/](https://www.reddit.com/r/Superstonk/comments/nu1pnq/please_remember_that_during_the_shareholders/)
+# Title: Please remember that during the shareholder's meeting the price can be highly manipulated to tell the story the hedgies want you to believe.
+# Author: NoMoreCheeters
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu1pnq/please_remember_that_during_the_shareholders/](https://www.reddit.com/r/Superstonk/comments/nu1pnq/please_remember_that_during_the_shareholders/)
 
 
 They have a game plan. No doubt. They've had time to plan. They have the power to move the price anywhere they want. Up, down, or nowhere. Whatever happens, it's because they want it to happen.

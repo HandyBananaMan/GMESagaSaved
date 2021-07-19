@@ -1,6 +1,6 @@
-#Title: I don't to tout the horn without knowing anything, but, i think "they" got margin called today.
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5trot/i_dont_to_tout_the_horn_without_knowing_anything/](https://www.reddit.com/r/Superstonk/comments/n5trot/i_dont_to_tout_the_horn_without_knowing_anything/)
+# Title: I don't to tout the horn without knowing anything, but, i think "they" got margin called today.
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5trot/i_dont_to_tout_the_horn_without_knowing_anything/](https://www.reddit.com/r/Superstonk/comments/n5trot/i_dont_to_tout_the_horn_without_knowing_anything/)
 
 
 First of all, control yourselves. This isn't confirmation bias. I'm probably wrong. Treat what i have below as such and keep expectations low. Don't fomo into weekly contracts or plan to trade based on what i'm about to say. I'm not a financial advisor and this is not financial advice.

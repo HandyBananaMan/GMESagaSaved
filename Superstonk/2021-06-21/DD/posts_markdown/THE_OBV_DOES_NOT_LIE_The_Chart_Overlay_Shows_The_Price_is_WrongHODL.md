@@ -1,6 +1,6 @@
-#Title: THE OBV DOES NOT LIE. The Chart Overlay Shows📈. The Price is Wrong.💎🙌HODL!🚀
-#Author: _Badtothebone_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/](https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/)
+# Title: THE OBV DOES NOT LIE. The Chart Overlay Shows📈. The Price is Wrong.💎🙌HODL!🚀
+# Author: _Badtothebone_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/](https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/)
 
 
 Yo Yo Yo waddup Apes!, Boner here...again, Coming at you with yet another OBV update post. Lets dive right into it shall we?🚀

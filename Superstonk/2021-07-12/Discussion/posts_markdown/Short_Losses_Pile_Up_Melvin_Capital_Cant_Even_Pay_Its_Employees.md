@@ -1,6 +1,6 @@
-#Title: Short Losses Pile Up... Melvin Capital Can't Even Pay Its Employees...
-#Author: ThatGuyOnTheReddits
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oirfr1/short_losses_pile_up_melvin_capital_cant_even_pay/](https://www.reddit.com/r/Superstonk/comments/oirfr1/short_losses_pile_up_melvin_capital_cant_even_pay/)
+# Title: Short Losses Pile Up... Melvin Capital Can't Even Pay Its Employees...
+# Author: ThatGuyOnTheReddits
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oirfr1/short_losses_pile_up_melvin_capital_cant_even_pay/](https://www.reddit.com/r/Superstonk/comments/oirfr1/short_losses_pile_up_melvin_capital_cant_even_pay/)
 
 
 https://www.wsj.com/articles/the-meme-stock-rally-hurt-melvin-and-maplelane-it-hasnt-gotten-easier-since-11625931173

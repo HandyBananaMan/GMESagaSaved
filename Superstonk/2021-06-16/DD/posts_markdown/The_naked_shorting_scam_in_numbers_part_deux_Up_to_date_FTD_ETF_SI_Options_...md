@@ -1,6 +1,6 @@
-#Title: The naked shorting scam in numbers part deux: Up to date FTD, ETF, SI, Options & Dark Pool Data. GME is the shorted to shit unicorn that can never happen again.
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/](https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/)
+# Title: The naked shorting scam in numbers part deux: Up to date FTD, ETF, SI, Options & Dark Pool Data. GME is the shorted to shit unicorn that can never happen again.
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/](https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/)
 
 
 EDIT: This is an important update! I made a mistake with the KOSS ETFs. When searching for ETFs containing this stock I ended up on the page for KOS [https://www.etf.com/stock/KOS](https://www.etf.com/stock/KOS). So all my KOSS ETF plots were wrong. This is just a small part of the post but it does mean that IWM alone can't be driving price in all these meme stocks. And KOSS has no options trading. So weird that it moves with the others, could this be a sign of massive Archegos style exposure in the shadowy unregulated Swaps market??

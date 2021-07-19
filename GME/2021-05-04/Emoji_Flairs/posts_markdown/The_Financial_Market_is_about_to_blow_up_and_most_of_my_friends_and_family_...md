@@ -1,6 +1,6 @@
-#Title: The Financial Market is about to blow up and most of my friends and family think I'm crazy. At least I have you ape brothers and sisters
-#Author: renren-x
-#Post URL: [https://www.reddit.com/r/GME/comments/n54ci7/the_financial_market_is_about_to_blow_up_and_most/](https://www.reddit.com/r/GME/comments/n54ci7/the_financial_market_is_about_to_blow_up_and_most/)
+# Title: The Financial Market is about to blow up and most of my friends and family think I'm crazy. At least I have you ape brothers and sisters
+# Author: renren-x
+# Post URL: [https://www.reddit.com/r/GME/comments/n54ci7/the_financial_market_is_about_to_blow_up_and_most/](https://www.reddit.com/r/GME/comments/n54ci7/the_financial_market_is_about_to_blow_up_and_most/)
 
 
 I'm not going to lie. It's been a rough couple of months after diving into all the amazing DD that was put out here on reddit. 

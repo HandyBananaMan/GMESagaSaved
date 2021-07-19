@@ -1,6 +1,6 @@
-#Title: There is negative beta? Nothing to see here, keep scrolling!
-#Author: mate_mate_mate_mate_
-#Post URL: [https://www.reddit.com/r/GME/comments/mrf9v9/there_is_negative_beta_nothing_to_see_here_keep/](https://www.reddit.com/r/GME/comments/mrf9v9/there_is_negative_beta_nothing_to_see_here_keep/)
+# Title: There is negative beta? Nothing to see here, keep scrolling!
+# Author: mate_mate_mate_mate_
+# Post URL: [https://www.reddit.com/r/GME/comments/mrf9v9/there_is_negative_beta_nothing_to_see_here_keep/](https://www.reddit.com/r/GME/comments/mrf9v9/there_is_negative_beta_nothing_to_see_here_keep/)
 
 
 Pixel tweeted an image showing the negative beta of GME. So I decided to compare the negative beta to other stocks with the same settings. The chart interval setting is set to 1W and Beta 20, SPY.

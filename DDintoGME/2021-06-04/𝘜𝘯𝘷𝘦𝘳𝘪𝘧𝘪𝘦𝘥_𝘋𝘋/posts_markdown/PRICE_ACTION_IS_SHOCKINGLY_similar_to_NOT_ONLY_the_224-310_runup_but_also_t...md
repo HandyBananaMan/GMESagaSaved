@@ -1,6 +1,6 @@
-#Title: PRICE ACTION IS SHOCKINGLY similar to NOT ONLY the 2/24-3/10 runup, but also to the JANUARY run from $20 - $480. T+35 / T+21 elaboration. Crosspost
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/)
+# Title: PRICE ACTION IS SHOCKINGLY similar to NOT ONLY the 2/24-3/10 runup, but also to the JANUARY run from $20 - $480. T+35 / T+21 elaboration. Crosspost
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/)
 
 
 Wrinkly stuff by [u/sharp717](https://www.reddit.com/user/sharp717/) at [https://www.reddit.com/r/Superstonk/comments/nrud2r/price\_action\_is\_shockingly\_similar\_to\_not\_only/](https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/)

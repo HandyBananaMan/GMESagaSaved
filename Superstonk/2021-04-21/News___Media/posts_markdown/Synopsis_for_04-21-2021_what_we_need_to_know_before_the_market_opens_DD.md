@@ -1,6 +1,6 @@
-#Title: Synopsis for 04-21-2021 what we need to know before the market opens DD
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvbfu0/synopsis_for_04212021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mvbfu0/synopsis_for_04212021_what_we_need_to_know_before/)
+# Title: Synopsis for 04-21-2021 what we need to know before the market opens DD
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvbfu0/synopsis_for_04212021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mvbfu0/synopsis_for_04212021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,

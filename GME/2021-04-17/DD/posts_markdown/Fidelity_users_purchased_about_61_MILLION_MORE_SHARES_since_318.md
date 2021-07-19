@@ -1,6 +1,6 @@
-#Title: Fidelity users purchased about 6.1 MILLION MORE SHARES since 3/18
-#Author: 33a
-#Post URL: [https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/](https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/)
+# Title: Fidelity users purchased about 6.1 MILLION MORE SHARES since 3/18
+# Author: 33a
+# Post URL: [https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/](https://www.reddit.com/r/GME/comments/msyhlq/fidelity_users_purchased_about_61_million_more/)
 
 
 The [Fidelity customer orders](https://eresearch.fidelity.com/eresearch/gotoBL/fidelityTopOrders.jhtml) suggest retail is buying GME *hard*.  But it's an incomplete picture because:

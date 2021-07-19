@@ -1,6 +1,6 @@
-#Title: HERE'S HOW THIS WORKS KEN. 😎🚀
-#Author: ilikebooks5
-#Post URL: [https://www.reddit.com/r/GME/comments/mcueoc/heres_how_this_works_ken/](https://www.reddit.com/r/GME/comments/mcueoc/heres_how_this_works_ken/)
+# Title: HERE'S HOW THIS WORKS KEN. 😎🚀
+# Author: ilikebooks5
+# Post URL: [https://www.reddit.com/r/GME/comments/mcueoc/heres_how_this_works_ken/](https://www.reddit.com/r/GME/comments/mcueoc/heres_how_this_works_ken/)
 
 
 https://i.imgur.com/Mh2XdtI.jpg

@@ -1,6 +1,6 @@
-#Title: SHFs LOSING the Psychology War?
-#Author: cleareyeswow
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oez4wy/shfs_losing_the_psychology_war/](https://www.reddit.com/r/Superstonk/comments/oez4wy/shfs_losing_the_psychology_war/)
+# Title: SHFs LOSING the Psychology War?
+# Author: cleareyeswow
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oez4wy/shfs_losing_the_psychology_war/](https://www.reddit.com/r/Superstonk/comments/oez4wy/shfs_losing_the_psychology_war/)
 
 
 How’s this for FUD; I’m **bored**, **tired**, **impatient**, **frustrated** and occasionally **doubtful**. As I watch my parents age and feel the fire of mortality on my asscheeks, I wonder if I should take my GME gains and start another venture so at *least* they can buy a house to retire in. Captain Hook has long been a pile of reptile shit and Tick-Tock the Croc is back on the clock.

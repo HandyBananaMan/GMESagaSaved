@@ -1,6 +1,6 @@
-#Title: NSCC / DTC rule change DD
-#Author: Leaglese
-#Post URL: [https://www.reddit.com/r/GME/comments/m01x20/nscc_dtc_rule_change_dd/](https://www.reddit.com/r/GME/comments/m01x20/nscc_dtc_rule_change_dd/)
+# Title: NSCC / DTC rule change DD
+# Author: Leaglese
+# Post URL: [https://www.reddit.com/r/GME/comments/m01x20/nscc_dtc_rule_change_dd/](https://www.reddit.com/r/GME/comments/m01x20/nscc_dtc_rule_change_dd/)
 
 
 CORRECTION: THIS RULE WILL NOT GO LIVE UNTIL 10 BUSINESS DAYS FOLLOWING THE SEC'S APPROVAL!!

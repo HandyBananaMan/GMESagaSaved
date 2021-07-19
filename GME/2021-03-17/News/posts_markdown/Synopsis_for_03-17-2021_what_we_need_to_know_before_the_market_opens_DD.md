@@ -1,6 +1,6 @@
-#Title: Synopsis for 03-17-2021 what we need to know before the market opens DD
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/)
+# Title: Synopsis for 03-17-2021 what we need to know before the market opens DD
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,

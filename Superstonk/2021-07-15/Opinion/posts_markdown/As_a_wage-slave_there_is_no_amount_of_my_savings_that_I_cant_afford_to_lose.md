@@ -1,6 +1,6 @@
-#Title: As a wage-slave there is no amount of my savings that I "can't afford to lose"
-#Author: thegreatself
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okymj0/as_a_wageslave_there_is_no_amount_of_my_savings/](https://www.reddit.com/r/Superstonk/comments/okymj0/as_a_wageslave_there_is_no_amount_of_my_savings/)
+# Title: As a wage-slave there is no amount of my savings that I "can't afford to lose"
+# Author: thegreatself
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okymj0/as_a_wageslave_there_is_no_amount_of_my_savings/](https://www.reddit.com/r/Superstonk/comments/okymj0/as_a_wageslave_there_is_no_amount_of_my_savings/)
 
 
 A survey conducted in my "first-world" country with an extremely (and relatively) high "standard of living" (wooo 🇨🇦!) indicated that [roughly half of us are within $200 of not being able to cover our bills](https://www.ctvnews.ca/mobile/business/half-of-canadians-within-200-of-not-being-able-to-cover-bills-debt-payments-survey-1.5379871) - alternatively, [for every $1.00 of disposable income the average household owes $1.71 in debt](https://www.bnnbloomberg.ca/household-debt-ratio-rises-to-170-7-per-cent-statcan-says-1.1535105)

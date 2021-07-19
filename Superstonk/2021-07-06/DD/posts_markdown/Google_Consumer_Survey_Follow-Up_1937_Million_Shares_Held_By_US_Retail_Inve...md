@@ -1,6 +1,6 @@
-#Title: Google Consumer Survey Follow-Up: ***193.7 Million Shares Held By U.S. Retail Investors; N=700***
-#Author: Get-It-Got
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/](https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/)
+# Title: Google Consumer Survey Follow-Up: ***193.7 Million Shares Held By U.S. Retail Investors; N=700***
+# Author: Get-It-Got
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/](https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/)
 
 
 Hello Everyone,

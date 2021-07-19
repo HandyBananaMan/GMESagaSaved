@@ -1,6 +1,6 @@
-#Title: UPDATE: 4.8035 slope continued and other things pointing to an excellent Cinco de Buyo...
-#Author: AOCsquad126
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n53n2b/update_48035_slope_continued_and_other_things/](https://www.reddit.com/r/Superstonk/comments/n53n2b/update_48035_slope_continued_and_other_things/)
+# Title: UPDATE: 4.8035 slope continued and other things pointing to an excellent Cinco de Buyo...
+# Author: AOCsquad126
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n53n2b/update_48035_slope_continued_and_other_things/](https://www.reddit.com/r/Superstonk/comments/n53n2b/update_48035_slope_continued_and_other_things/)
 
 
 For those of you who haven't read my possible DD last week, here is the link:

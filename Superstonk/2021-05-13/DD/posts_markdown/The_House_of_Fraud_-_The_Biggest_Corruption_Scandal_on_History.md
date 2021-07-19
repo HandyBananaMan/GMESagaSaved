@@ -1,6 +1,6 @@
-#Title: The House of Fraud - The Biggest Corruption Scandal on History
-#Author: AndiCat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/](https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/)
+# Title: The House of Fraud - The Biggest Corruption Scandal on History
+# Author: AndiCat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/](https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/)
 
 
 Hello, I want to share with you my research this months and why this is the biggest fraud on history.

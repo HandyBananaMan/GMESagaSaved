@@ -1,6 +1,6 @@
-#Title: Extended Summary CFTC Risk Meeting and Proposals
-#Author: leisure_rules
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/](https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/)
+# Title: Extended Summary CFTC Risk Meeting and Proposals
+# Author: leisure_rules
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/](https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/)
 
 
 For those who saw [this post](https://www.reddit.com/r/Superstonk/comments/ojgmav/for_anyone_interested_there_is_currently_a_risk/?utm_source=share&utm_medium=web2x&context=3) and are looking for a summary, here ya go:

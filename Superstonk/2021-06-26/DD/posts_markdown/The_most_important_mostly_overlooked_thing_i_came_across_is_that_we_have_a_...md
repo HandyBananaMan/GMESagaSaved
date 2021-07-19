@@ -1,6 +1,6 @@
-#Title: The most important, mostly overlooked thing i came across is that we have a way of calculating shares owned by retail. No, not guessing, pretty precisely, with official, unbiased data.
-#Author: trashboy_69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/](https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/)
+# Title: The most important, mostly overlooked thing i came across is that we have a way of calculating shares owned by retail. No, not guessing, pretty precisely, with official, unbiased data.
+# Author: trashboy_69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/](https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/)
 
 
  #EDIT/MODS!

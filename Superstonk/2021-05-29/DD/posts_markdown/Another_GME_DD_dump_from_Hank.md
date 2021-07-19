@@ -1,6 +1,6 @@
-#Title: Another GME DD dump from Hank
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/](https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/)
+# Title: Another GME DD dump from Hank
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/](https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

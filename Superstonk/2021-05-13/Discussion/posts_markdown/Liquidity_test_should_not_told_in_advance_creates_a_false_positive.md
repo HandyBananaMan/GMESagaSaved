@@ -1,6 +1,6 @@
-#Title: Liquidity test should not told in advance, creates a false positive ?
-#Author: Spirited-Badger7015
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbbe87/liquidity_test_should_not_told_in_advance_creates/](https://www.reddit.com/r/Superstonk/comments/nbbe87/liquidity_test_should_not_told_in_advance_creates/)
+# Title: Liquidity test should not told in advance, creates a false positive ?
+# Author: Spirited-Badger7015
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbbe87/liquidity_test_should_not_told_in_advance_creates/](https://www.reddit.com/r/Superstonk/comments/nbbe87/liquidity_test_should_not_told_in_advance_creates/)
 
 
 So the liquidity test is a "stress test" where they run a simulation to check that brokers MM and HF's have the required liquidity right?

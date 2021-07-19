@@ -1,6 +1,6 @@
-#Title: Maybe Melvin Capital just accidentally revealed their margin limit?
-#Author: ouhw
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oi43b1/maybe_melvin_capital_just_accidentally_revealed/](https://www.reddit.com/r/Superstonk/comments/oi43b1/maybe_melvin_capital_just_accidentally_revealed/)
+# Title: Maybe Melvin Capital just accidentally revealed their margin limit?
+# Author: ouhw
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oi43b1/maybe_melvin_capital_just_accidentally_revealed/](https://www.reddit.com/r/Superstonk/comments/oi43b1/maybe_melvin_capital_just_accidentally_revealed/)
 
 
 So, recently news spread, that Melvin Capital made a Q1 loss of around 46%.  I just quickly checked the closing price of GME at the end of March, which was around 194 dollars. 

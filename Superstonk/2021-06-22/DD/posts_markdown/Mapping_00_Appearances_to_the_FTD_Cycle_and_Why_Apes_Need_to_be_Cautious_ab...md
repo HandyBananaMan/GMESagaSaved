@@ -1,6 +1,6 @@
-#Title: Mapping .00 Appearances to the FTD Cycle and Why Apes Need to be Cautious about Data
-#Author: LongTimeGamer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/](https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/)
+# Title: Mapping .00 Appearances to the FTD Cycle and Why Apes Need to be Cautious about Data
+# Author: LongTimeGamer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/](https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/)
 
 
 Hell.00 again! If you haven't heard of ".00 Guy", know I’m obsessed with the appearance of .00 Open, Close, High, and Low price points in GME.

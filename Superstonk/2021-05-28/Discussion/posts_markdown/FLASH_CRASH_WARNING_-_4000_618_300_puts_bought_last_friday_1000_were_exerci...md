@@ -1,6 +1,6 @@
-#Title: FLASH CRASH WARNING - 4000 6/18 300 puts bought last friday, 1000 were exercised on monday to cause the end of day mini-crash
-#Author: trust-theprocess
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/)
+# Title: FLASH CRASH WARNING - 4000 6/18 300 puts bought last friday, 1000 were exercised on monday to cause the end of day mini-crash
+# Author: trust-theprocess
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/)
 
 
 As the DD has shown they use ITM puts as an expensive last resort to drop the price. Those 4000 puts cost over 51 million.

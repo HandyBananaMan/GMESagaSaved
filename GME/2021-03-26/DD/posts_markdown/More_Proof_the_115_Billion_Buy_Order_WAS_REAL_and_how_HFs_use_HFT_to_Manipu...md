@@ -1,6 +1,6 @@
-#Title: More Proof the $115 Billion Buy Order WAS REAL and how HFs use HFT to Manipulate GME through One Specific Order Type.
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/](https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/)
+# Title: More Proof the $115 Billion Buy Order WAS REAL and how HFs use HFT to Manipulate GME through One Specific Order Type.
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/](https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/)
 
 
 Putting this at the top because it's important.

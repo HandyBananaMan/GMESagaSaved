@@ -1,6 +1,6 @@
-#Title: I feel cheated and very angry
-#Author: vucanthi
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv78iu/i_feel_cheated_and_very_angry/](https://www.reddit.com/r/Superstonk/comments/nv78iu/i_feel_cheated_and_very_angry/)
+# Title: I feel cheated and very angry
+# Author: vucanthi
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv78iu/i_feel_cheated_and_very_angry/](https://www.reddit.com/r/Superstonk/comments/nv78iu/i_feel_cheated_and_very_angry/)
 
 
 I spent a fuck tons of money getting a degree in Finance. For all those years, what I learned was market is efficient and fair. Supply and demand should drive the market. It will correct itself with price discovery. Blah blah blah. I was so naive to fucking believed it.

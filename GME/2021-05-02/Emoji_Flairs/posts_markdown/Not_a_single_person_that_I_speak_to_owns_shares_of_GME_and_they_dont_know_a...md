@@ -1,6 +1,6 @@
-#Title: Not a single person that I speak to owns shares of GME, and they don't know anything other than what MSM have told them
-#Author: IGotYerBelly
-#Post URL: [https://www.reddit.com/r/GME/comments/n3jo5c/not_a_single_person_that_i_speak_to_owns_shares/](https://www.reddit.com/r/GME/comments/n3jo5c/not_a_single_person_that_i_speak_to_owns_shares/)
+# Title: Not a single person that I speak to owns shares of GME, and they don't know anything other than what MSM have told them
+# Author: IGotYerBelly
+# Post URL: [https://www.reddit.com/r/GME/comments/n3jo5c/not_a_single_person_that_i_speak_to_owns_shares/](https://www.reddit.com/r/GME/comments/n3jo5c/not_a_single_person_that_i_speak_to_owns_shares/)
 
 
 Is it just my experience? I'll admit I have a small group of people that I interact with, however if someone else talked to them about GME I am sure they would've had some reaction. Even a couple people who are "hip" to the stock market are not looking into the situation surrounding Gamestop, despite having prior knowledge of shorting and naked shorting...

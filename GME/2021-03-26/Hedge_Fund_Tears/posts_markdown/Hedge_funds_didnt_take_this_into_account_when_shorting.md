@@ -1,6 +1,6 @@
-#Title: Hedge funds didn't take this into account when shorting!
-#Author: nktm85
-#Post URL: [https://www.reddit.com/r/GME/comments/mdus7g/hedge_funds_didnt_take_this_into_account_when/](https://www.reddit.com/r/GME/comments/mdus7g/hedge_funds_didnt_take_this_into_account_when/)
+# Title: Hedge funds didn't take this into account when shorting!
+# Author: nktm85
+# Post URL: [https://www.reddit.com/r/GME/comments/mdus7g/hedge_funds_didnt_take_this_into_account_when/](https://www.reddit.com/r/GME/comments/mdus7g/hedge_funds_didnt_take_this_into_account_when/)
 
 
 Long time lurker here...  Bought into GME back in late Jan a few days before the RH incident.  Won't post my position, but I can say it's gone way up since then (Edit: not in value, but # of shares...)

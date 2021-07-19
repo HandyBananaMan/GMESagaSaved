@@ -1,6 +1,6 @@
-#Title: REPOST DUE TO DD DELETION of my Original Post .....Disclaimer: This is not a date prediction for ridiculous upward price action. But I believe that the hedges bleeding has been under our noses this whole time on iBorrowdesk. This will be a mix of others' DD info plus a little speculation. No images
-#Author: DigitalSoldier1776
-#Post URL: [https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/](https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/)
+# Title: REPOST DUE TO DD DELETION of my Original Post .....Disclaimer: This is not a date prediction for ridiculous upward price action. But I believe that the hedges bleeding has been under our noses this whole time on iBorrowdesk. This will be a mix of others' DD info plus a little speculation. No images
+# Author: DigitalSoldier1776
+# Post URL: [https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/](https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/)
 
 
 Make sure y'all all start using this by just commenting the user link on your post My post is already getting downvoted or having upvotes removed 10 minutes after posting: [u/L2DBot](https://www.reddit.com/u/L2DBot/)

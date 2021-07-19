@@ -1,6 +1,6 @@
-#Title: Melissa may have given Ryan Cohen the Blue Turtle shell...
-#Author: TenguAteMyBreakfast
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nttvdz/melissa_may_have_given_ryan_cohen_the_blue_turtle/](https://www.reddit.com/r/Superstonk/comments/nttvdz/melissa_may_have_given_ryan_cohen_the_blue_turtle/)
+# Title: Melissa may have given Ryan Cohen the Blue Turtle shell...
+# Author: TenguAteMyBreakfast
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nttvdz/melissa_may_have_given_ryan_cohen_the_blue_turtle/](https://www.reddit.com/r/Superstonk/comments/nttvdz/melissa_may_have_given_ryan_cohen_the_blue_turtle/)
 
 
 I made a post earlier about Melissa untying the hands of media then lightning struck. Please hear me out here...

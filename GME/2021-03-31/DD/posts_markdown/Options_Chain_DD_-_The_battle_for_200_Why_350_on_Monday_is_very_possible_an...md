@@ -1,6 +1,6 @@
-#Title: Options Chain DD - The battle for $200. Why 350 on Monday is very possible, and the 15,560 call options waiting to FUCKING MOON
-#Author: iamzyb
-#Post URL: [https://www.reddit.com/r/GME/comments/mh1c3a/options_chain_dd_the_battle_for_200_why_350_on/](https://www.reddit.com/r/GME/comments/mh1c3a/options_chain_dd_the_battle_for_200_why_350_on/)
+# Title: Options Chain DD - The battle for $200. Why 350 on Monday is very possible, and the 15,560 call options waiting to FUCKING MOON
+# Author: iamzyb
+# Post URL: [https://www.reddit.com/r/GME/comments/mh1c3a/options_chain_dd_the_battle_for_200_why_350_on/](https://www.reddit.com/r/GME/comments/mh1c3a/options_chain_dd_the_battle_for_200_why_350_on/)
 
 
 **TL;DR - 79,812 Options are nearing the money and shorts are FUCKING scared shitless.  15,560 call options for 200c is going cause a gamma squeeze up to 350c.**

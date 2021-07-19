@@ -1,6 +1,6 @@
-#Title: NSCC Filing Today. THIS. IS. ACTUALLY. INSANE.
-#Author: Sar7814
-#Post URL: [https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/)
+# Title: NSCC Filing Today. THIS. IS. ACTUALLY. INSANE.
+# Author: Sar7814
+# Post URL: [https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/)
 
 
 

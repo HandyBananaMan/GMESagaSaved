@@ -1,6 +1,6 @@
-#Title: 🦍💬 [TOO APE DIDN'T READ] — Summary of SR-NSCC-2021-801: Amendment of Supplemental Liquidity Deposit Requirements for the functionally illiterate
-#Author: Antioch_Orontes
-#Post URL: [https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/)
+# Title: 🦍💬 [TOO APE DIDN'T READ] — Summary of SR-NSCC-2021-801: Amendment of Supplemental Liquidity Deposit Requirements for the functionally illiterate
+# Author: Antioch_Orontes
+# Post URL: [https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/)
 
 
 # 🦍💬 What the fuck are you talking about?

@@ -1,6 +1,6 @@
-#Title: ⛔ MY NEXT WARNING ⛔ You will see some big sell order numbers on Level 2 data. Like 10k @$300 20k @ $350 etc These are fake orders to make you think that there are people who trying to sell 10k shares to try and make you sell before that price. Psychological game. DON'T FALL ! YOU DECIDE YOUR SELL!
-#Author: DavidNIO
-#Post URL: [https://www.reddit.com/r/GME/comments/mc88ii/my_next_warning_you_will_see_some_big_sell_order/](https://www.reddit.com/r/GME/comments/mc88ii/my_next_warning_you_will_see_some_big_sell_order/)
+# Title: ⛔ MY NEXT WARNING ⛔ You will see some big sell order numbers on Level 2 data. Like 10k @$300 20k @ $350 etc These are fake orders to make you think that there are people who trying to sell 10k shares to try and make you sell before that price. Psychological game. DON'T FALL ! YOU DECIDE YOUR SELL!
+# Author: DavidNIO
+# Post URL: [https://www.reddit.com/r/GME/comments/mc88ii/my_next_warning_you_will_see_some_big_sell_order/](https://www.reddit.com/r/GME/comments/mc88ii/my_next_warning_you_will_see_some_big_sell_order/)
 
 
 Make sure everyone in this sub sees this.

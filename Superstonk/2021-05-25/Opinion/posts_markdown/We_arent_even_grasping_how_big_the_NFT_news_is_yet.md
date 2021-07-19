@@ -1,6 +1,6 @@
-#Title: We aren't even grasping how big the NFT news is yet
-#Author: AJDillonsMiddleLeg
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/](https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/)
+# Title: We aren't even grasping how big the NFT news is yet
+# Author: AJDillonsMiddleLeg
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/](https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/)
 
 
 Yeah, it's a big deal. Remember the NFT stock craze a couple months ago? Everyone was rushing to pump out NFT news. Most of those companies haven't actually developed any NFTs yet.

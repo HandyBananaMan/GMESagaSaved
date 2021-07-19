@@ -1,6 +1,6 @@
-#Title: CNBC to Citadel: What (or who...) is the link?
-#Author: Region-Formal
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/](https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/)
+# Title: CNBC to Citadel: What (or who...) is the link?
+# Author: Region-Formal
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/](https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/)
 
 
 Apes, some of you may recall a DD I put out about a month ago, showing the vested interest that may be leading to **The Motley Fool** advancing **Shitadel's** cause:

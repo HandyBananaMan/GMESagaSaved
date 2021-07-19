@@ -1,6 +1,6 @@
-#Title: If you voted via Fidelity, raise your hand. Let's get ballpark count on Apes who voted. Thanks to u/ThatGuyOnTheReddits for update. Remember, your voted record (control number) is aligned on the back-end with a real share record. Stand strong, keep reading...
-#Author: locallingo
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5h4it/if_you_voted_via_fidelity_raise_your_hand_lets/](https://www.reddit.com/r/Superstonk/comments/n5h4it/if_you_voted_via_fidelity_raise_your_hand_lets/)
+# Title: If you voted via Fidelity, raise your hand. Let's get ballpark count on Apes who voted. Thanks to u/ThatGuyOnTheReddits for update. Remember, your voted record (control number) is aligned on the back-end with a real share record. Stand strong, keep reading...
+# Author: locallingo
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5h4it/if_you_voted_via_fidelity_raise_your_hand_lets/](https://www.reddit.com/r/Superstonk/comments/n5h4it/if_you_voted_via_fidelity_raise_your_hand_lets/)
 
 
 [https://www.reddit.com/r/Superstonk/comments/n5cyq9/fidelity\_just\_posted\_proxy\_materials\_to\_your/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/n5cyq9/fidelity_just_posted_proxy_materials_to_your/?utm_source=share&utm_medium=web2x&context=3)

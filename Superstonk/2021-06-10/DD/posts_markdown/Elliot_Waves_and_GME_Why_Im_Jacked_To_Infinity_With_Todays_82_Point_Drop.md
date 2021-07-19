@@ -1,6 +1,6 @@
-#Title: Elliot Waves and GME, Why I'm Jacked To Infinity With Today's 82 Point Drop 🚀
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/](https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/)
+# Title: Elliot Waves and GME, Why I'm Jacked To Infinity With Today's 82 Point Drop 🚀
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/](https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/)
 
 
 Sup apes, (refer to edit 8 for updated downside target, i looked at my levels wrong, and want you to have accurate information)

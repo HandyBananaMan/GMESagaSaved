@@ -1,6 +1,6 @@
-#Title: The Sun Never Sets on Citadel -- Part 2
-#Author: swede_child_of_mine
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/)
+# Title: The Sun Never Sets on Citadel -- Part 2
+# Author: swede_child_of_mine
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/)
 
 
 [Part 1](https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/)

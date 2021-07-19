@@ -1,6 +1,6 @@
-#Title: Resetting FTDs: What to look for the next few days
-#Author: lawrgood
-#Post URL: [https://www.reddit.com/r/GME/comments/oktmba/resetting_ftds_what_to_look_for_the_next_few_days/](https://www.reddit.com/r/GME/comments/oktmba/resetting_ftds_what_to_look_for_the_next_few_days/)
+# Title: Resetting FTDs: What to look for the next few days
+# Author: lawrgood
+# Post URL: [https://www.reddit.com/r/GME/comments/oktmba/resetting_ftds_what_to_look_for_the_next_few_days/](https://www.reddit.com/r/GME/comments/oktmba/resetting_ftds_what_to_look_for_the_next_few_days/)
 
 
 Want to do more to help combat financial crime? Over the next few days millions of shares need to be reset for hedge funds to avoid FTDs.

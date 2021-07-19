@@ -1,6 +1,6 @@
-#Title: Delta Neutral Update: Any meaningful underlying price increase today will significantly increase our chances at a squeeze in the near future.
-#Author: yelyah2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/](https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/)
+# Title: Delta Neutral Update: Any meaningful underlying price increase today will significantly increase our chances at a squeeze in the near future.
+# Author: yelyah2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/](https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/)
 
 
 **TLDR: any meaningful increase today (>2%) will significantly increase the chances of a squeeze in our near future.**

@@ -1,6 +1,6 @@
-#Title: HUGE: Citadel is paying for Order Flow from NINE ONLINE BROKERS- not just Robinhood!
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/](https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/)
+# Title: HUGE: Citadel is paying for Order Flow from NINE ONLINE BROKERS- not just Robinhood!
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/](https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/)
 
 
 *EDIT: Updated info at bottom*

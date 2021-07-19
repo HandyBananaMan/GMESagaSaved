@@ -1,6 +1,6 @@
-#Title: Claryfing about the "importance" of this week, the Endgame DD and adressing the lies about me.
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/m6374k/claryfing_about_the_importance_of_this_week_the/](https://www.reddit.com/r/GME/comments/m6374k/claryfing_about_the_importance_of_this_week_the/)
+# Title: Claryfing about the "importance" of this week, the Endgame DD and adressing the lies about me.
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/m6374k/claryfing_about_the_importance_of_this_week_the/](https://www.reddit.com/r/GME/comments/m6374k/claryfing_about_the_importance_of_this_week_the/)
 
 
 Hi everyone. I am gonna be honest with you, I am really starting to get pissed about people spreading lies about what I said. I am getting tagged in about 150 - 200 posts a day and about the same amount of comments. Half of which is people trying to slander my name and telling other people lies about what I said is going to happen this week and how I supposedly said, this is "the last chance" (quote by one of the dumbf\*\*\* that slandered me over the last few weeks) for a Gamma Squeeze or Short Squeeze to happen.

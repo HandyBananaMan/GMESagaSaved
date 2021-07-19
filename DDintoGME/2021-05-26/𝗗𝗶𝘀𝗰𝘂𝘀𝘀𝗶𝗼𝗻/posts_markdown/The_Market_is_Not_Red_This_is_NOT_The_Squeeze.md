@@ -1,6 +1,6 @@
-#Title: The Market is Not Red; This is NOT The Squeeze
-#Author: c-digs
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/](https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/)
+# Title: The Market is Not Red; This is NOT The Squeeze
+# Author: c-digs
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/](https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/)
 
 
 Something is throwing me off about this rally.  I know many apes are in an excited state given the long stretch of sideways trading and I don't want to damper anyone's excitement, but this surge feels *off*.

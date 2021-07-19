@@ -1,6 +1,6 @@
-#Title: Ultimate Wargame: Flashbacks – Archegos, Glacier Capital, White Square Capital, and Iceberg Research
-#Author: Blanderson_Snooper
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oku8fm/ultimate_wargame_flashbacks_archegos_glacier/](https://www.reddit.com/r/Superstonk/comments/oku8fm/ultimate_wargame_flashbacks_archegos_glacier/)
+# Title: Ultimate Wargame: Flashbacks – Archegos, Glacier Capital, White Square Capital, and Iceberg Research
+# Author: Blanderson_Snooper
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oku8fm/ultimate_wargame_flashbacks_archegos_glacier/](https://www.reddit.com/r/Superstonk/comments/oku8fm/ultimate_wargame_flashbacks_archegos_glacier/)
 
 
 Blanderson Snooper here, time to Double Down on some wargame theories and take a look at these four companies and their role in this saga with fresh eyes and new intel.

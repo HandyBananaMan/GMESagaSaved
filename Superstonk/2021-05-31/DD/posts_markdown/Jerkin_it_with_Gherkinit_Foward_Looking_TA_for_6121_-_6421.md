@@ -1,6 +1,6 @@
-#Title: Jerkin' it with Gherkinit Foward Looking TA for 6/1/21 - 6/4/21
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/](https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/)
+# Title: Jerkin' it with Gherkinit Foward Looking TA for 6/1/21 - 6/4/21
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/](https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/)
 
 
 Hello Superstonk!

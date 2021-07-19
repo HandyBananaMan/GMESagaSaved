@@ -1,6 +1,6 @@
-#Title: Reverse Repos, DTC-2021-005, SR-NSCC-2021-002, Banks, and the C-Market: How it's all connected and how we might be on the verge of the House of Cards falling.
-#Author: AcedVector
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4n596/reverse_repos_dtc2021005_srnscc2021002_banks_and/](https://www.reddit.com/r/Superstonk/comments/o4n596/reverse_repos_dtc2021005_srnscc2021002_banks_and/)
+# Title: Reverse Repos, DTC-2021-005, SR-NSCC-2021-002, Banks, and the C-Market: How it's all connected and how we might be on the verge of the House of Cards falling.
+# Author: AcedVector
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4n596/reverse_repos_dtc2021005_srnscc2021002_banks_and/](https://www.reddit.com/r/Superstonk/comments/o4n596/reverse_repos_dtc2021005_srnscc2021002_banks_and/)
 
 
 # EDIT: 002 is not coming into effect tommorow as a fellow redditor has pointed out to me in the comments. It is going to get approved or denied, then implemented either same day or up to 10 days after approval(as far as I am aware)

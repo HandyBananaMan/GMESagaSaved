@@ -1,6 +1,6 @@
-#Title: Citadel Headed toward Hiring Freeze - Deep Dive into Linkedin Data
-#Author: Worried-Yogurt-4204
-#Post URL: [https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/](https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/)
+# Title: Citadel Headed toward Hiring Freeze - Deep Dive into Linkedin Data
+# Author: Worried-Yogurt-4204
+# Post URL: [https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/](https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/)
 
 
 Hey everyone! I love the saying "actions speak louder than words", and today I am going to show you how Citadel's changes in employment prove that they are a shit company and know they are FUCKED.

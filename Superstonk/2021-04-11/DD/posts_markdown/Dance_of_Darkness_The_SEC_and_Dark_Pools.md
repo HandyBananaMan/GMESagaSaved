@@ -1,6 +1,6 @@
-#Title: Dance of Darkness: The SEC and Dark Pools
-#Author: umu68
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/movevb/dance_of_darkness_the_sec_and_dark_pools/](https://www.reddit.com/r/Superstonk/comments/movevb/dance_of_darkness_the_sec_and_dark_pools/)
+# Title: Dance of Darkness: The SEC and Dark Pools
+# Author: umu68
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/movevb/dance_of_darkness_the_sec_and_dark_pools/](https://www.reddit.com/r/Superstonk/comments/movevb/dance_of_darkness_the_sec_and_dark_pools/)
 
 
 # Dance of Darkness: The SEC and Dark Pools

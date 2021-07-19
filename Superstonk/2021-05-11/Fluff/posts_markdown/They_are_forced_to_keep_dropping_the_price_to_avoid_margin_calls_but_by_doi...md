@@ -1,6 +1,6 @@
-#Title: They are forced to keep dropping the price to avoid margin calls, but by doing so they are giving you a discount in one of the best growth stocks for the next few years
-#Author: Damsellindistress
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9z67m/they_are_forced_to_keep_dropping_the_price_to/](https://www.reddit.com/r/Superstonk/comments/n9z67m/they_are_forced_to_keep_dropping_the_price_to/)
+# Title: They are forced to keep dropping the price to avoid margin calls, but by doing so they are giving you a discount in one of the best growth stocks for the next few years
+# Author: Damsellindistress
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9z67m/they_are_forced_to_keep_dropping_the_price_to/](https://www.reddit.com/r/Superstonk/comments/n9z67m/they_are_forced_to_keep_dropping_the_price_to/)
 
 
 # See the funny thing is we have literally all the reason to buy, and no reasons to sell.

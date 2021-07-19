@@ -1,6 +1,6 @@
-#Title: Hi All, It's Ryan Cohen T+21 Tweet Guy. I'm losing my shit
-#Author: Nalifi
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tax3/hi_all_its_ryan_cohen_t21_tweet_guy_im_losing_my/](https://www.reddit.com/r/Superstonk/comments/o6tax3/hi_all_its_ryan_cohen_t21_tweet_guy_im_losing_my/)
+# Title: Hi All, It's Ryan Cohen T+21 Tweet Guy. I'm losing my shit
+# Author: Nalifi
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tax3/hi_all_its_ryan_cohen_t21_tweet_guy_im_losing_my/](https://www.reddit.com/r/Superstonk/comments/o6tax3/hi_all_its_ryan_cohen_t21_tweet_guy_im_losing_my/)
 
 
 *This is not financial advice.*

@@ -1,6 +1,6 @@
-#Title: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked shorts on $GME
-#Author: FDAz
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/](https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/)
+# Title: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked shorts on $GME
+# Author: FDAz
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/](https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/)
 
 
 Just saw this on twitter and found the source --- huge news!

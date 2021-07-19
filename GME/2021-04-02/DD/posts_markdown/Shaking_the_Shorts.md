@@ -1,6 +1,6 @@
-#Title: Shaking the Shorts
-#Author: ResidentSix
-#Post URL: [https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/](https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/)
+# Title: Shaking the Shorts
+# Author: ResidentSix
+# Post URL: [https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/](https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/)
 
 
 Hello Apes!

@@ -1,6 +1,6 @@
-#Title: Paper-handing because you think you’re just ‘one out of many’ is the way we lose.
-#Author: Plagrea
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nog8c9/paperhanding_because_you_think_youre_just_one_out/](https://www.reddit.com/r/Superstonk/comments/nog8c9/paperhanding_because_you_think_youre_just_one_out/)
+# Title: Paper-handing because you think you’re just ‘one out of many’ is the way we lose.
+# Author: Plagrea
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nog8c9/paperhanding_because_you_think_youre_just_one_out/](https://www.reddit.com/r/Superstonk/comments/nog8c9/paperhanding_because_you_think_youre_just_one_out/)
 
 
 MOASS is only possible if we ALL hold through 1,000, 10,000, 100,000. Remember that they HAVE to pay us, either the system has the largest FTD in history, or they pay. 

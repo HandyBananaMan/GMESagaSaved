@@ -1,6 +1,6 @@
-#Title: Think their “tank the price” just backfired
-#Author: Feeling_Ad_411
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxj4sy/think_their_tank_the_price_just_backfired/](https://www.reddit.com/r/Superstonk/comments/nxj4sy/think_their_tank_the_price_just_backfired/)
+# Title: Think their “tank the price” just backfired
+# Author: Feeling_Ad_411
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxj4sy/think_their_tank_the_price_just_backfired/](https://www.reddit.com/r/Superstonk/comments/nxj4sy/think_their_tank_the_price_just_backfired/)
 
 
 All morning I’ve been seeing hundreds of posts from apes saying how they’ve all bought the dip and added shares. This. Is. The. Fucking. Way. 🚀 🚀 🚀 💎 🙌 

@@ -1,6 +1,6 @@
-#Title: How much volume are you hiding in your shorts? A history of GME’s biggest events on a minute-by-minute scale
-#Author: taliskergunn
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/](https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/)
+# Title: How much volume are you hiding in your shorts? A history of GME’s biggest events on a minute-by-minute scale
+# Author: taliskergunn
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/](https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/)
 
 
  Hello everyone!   

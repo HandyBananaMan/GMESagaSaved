@@ -1,6 +1,6 @@
-#Title: ALMOST $1B FTD ON MAY 14TH BETWEEN GME AND ASSOCIATED ETFS!!!!
-#Author: nequin
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrpjle/almost_1b_ftd_on_may_14th_between_gme_and/](https://www.reddit.com/r/Superstonk/comments/nrpjle/almost_1b_ftd_on_may_14th_between_gme_and/)
+# Title: ALMOST $1B FTD ON MAY 14TH BETWEEN GME AND ASSOCIATED ETFS!!!!
+# Author: nequin
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrpjle/almost_1b_ftd_on_may_14th_between_gme_and/](https://www.reddit.com/r/Superstonk/comments/nrpjle/almost_1b_ftd_on_may_14th_between_gme_and/)
 
 
 Hello, fellow apes.  This is my second posting regarding FTDs, but as I mentioned in my first post, I built a tool to analyze the SEC FTD reports which I've update today.  It's [open-source on Github](https://github.com/failedtodeliver/failedtodeliver.com), why don't some of you wrinklier brained apes get in and help make it better.  I'd like to correlate options data but I don't have the money to spend on it (\~$1k).  All my extra money goes you know where

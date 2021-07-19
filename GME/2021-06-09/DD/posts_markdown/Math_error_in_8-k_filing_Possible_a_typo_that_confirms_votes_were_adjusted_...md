@@ -1,6 +1,6 @@
-#Title: Math error in 8-k filing. Possible a typo that confirms votes were adjusted. Need wrinkle brains to weigh in please.
-#Author: Rimigo42
-#Post URL: [https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/](https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/)
+# Title: Math error in 8-k filing. Possible a typo that confirms votes were adjusted. Need wrinkle brains to weigh in please.
+# Author: Rimigo42
+# Post URL: [https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/](https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/)
 
 
 **TL;DR**

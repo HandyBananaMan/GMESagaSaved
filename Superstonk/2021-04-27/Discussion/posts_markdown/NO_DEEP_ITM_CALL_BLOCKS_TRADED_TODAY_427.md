@@ -1,6 +1,6 @@
-#Title: NO DEEP ITM CALL BLOCKS TRADED TODAY (4/27)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n04v84/no_deep_itm_call_blocks_traded_today_427/](https://www.reddit.com/r/Superstonk/comments/n04v84/no_deep_itm_call_blocks_traded_today_427/)
+# Title: NO DEEP ITM CALL BLOCKS TRADED TODAY (4/27)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n04v84/no_deep_itm_call_blocks_traded_today_427/](https://www.reddit.com/r/Superstonk/comments/n04v84/no_deep_itm_call_blocks_traded_today_427/)
 
 
 Good Evening Apes and Apettes,

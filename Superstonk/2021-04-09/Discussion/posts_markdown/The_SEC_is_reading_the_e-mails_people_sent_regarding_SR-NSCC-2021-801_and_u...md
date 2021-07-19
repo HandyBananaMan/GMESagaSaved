@@ -1,6 +1,6 @@
-#Title: The SEC is reading the e-mails people sent regarding SR-NSCC-2021-801, and updated (probably still counting) the numbers on their official website.
-#Author: friedmice
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/](https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/)
+# Title: The SEC is reading the e-mails people sent regarding SR-NSCC-2021-801, and updated (probably still counting) the numbers on their official website.
+# Author: friedmice
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/](https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/)
 
 
 # IF YOU E-MAILED THE SEC AND ARE WORRIED, EVERYTHING IS OKAY!

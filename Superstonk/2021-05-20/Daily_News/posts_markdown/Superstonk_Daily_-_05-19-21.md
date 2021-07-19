@@ -1,6 +1,6 @@
-#Title: Superstonk Daily - 05-19-21
-#Author: AutoModerator
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/](https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/)
+# Title: Superstonk Daily - 05-19-21
+# Author: AutoModerator
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/](https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/)
 
 
 #  Goodmorning Superstonk 

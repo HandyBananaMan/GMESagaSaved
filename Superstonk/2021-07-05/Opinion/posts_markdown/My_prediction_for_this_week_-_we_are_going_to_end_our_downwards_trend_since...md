@@ -1,6 +1,6 @@
-#Title: My prediction for this week - we are going to end our downwards trend since the earnings call/shareholder meeting. No price predictions, JUST UP!
-#Author: Son0fTheSun333
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oec01m/my_prediction_for_this_week_we_are_going_to_end/](https://www.reddit.com/r/Superstonk/comments/oec01m/my_prediction_for_this_week_we_are_going_to_end/)
+# Title: My prediction for this week - we are going to end our downwards trend since the earnings call/shareholder meeting. No price predictions, JUST UP!
+# Author: Son0fTheSun333
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oec01m/my_prediction_for_this_week_we_are_going_to_end/](https://www.reddit.com/r/Superstonk/comments/oec01m/my_prediction_for_this_week_we_are_going_to_end/)
 
 
 The T+21 and/or the T+35 cycle is legit and we've all but confirmed it directly. They are stuck in a loop until they get margin called/force liquidated. 

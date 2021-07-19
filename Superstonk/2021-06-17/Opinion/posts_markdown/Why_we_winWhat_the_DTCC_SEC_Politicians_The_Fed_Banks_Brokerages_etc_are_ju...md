@@ -1,6 +1,6 @@
-#Title: Why we win.......What the DTCC, SEC, Politicians, The Fed, Banks, Brokerages, etc are just figuring out and why they are terrified of what is about to happen.
-#Author: anonfthehfs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/](https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/)
+# Title: Why we win.......What the DTCC, SEC, Politicians, The Fed, Banks, Brokerages, etc are just figuring out and why they are terrified of what is about to happen.
+# Author: anonfthehfs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/](https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/)
 
 
 &#x200B;

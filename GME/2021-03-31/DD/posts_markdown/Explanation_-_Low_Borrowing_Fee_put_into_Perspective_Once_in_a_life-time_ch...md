@@ -1,6 +1,6 @@
-#Title: Explanation - Low Borrowing Fee put into Perspective (Once in a life-time chance)
-#Author: Ren3666
-#Post URL: [https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/](https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/)
+# Title: Explanation - Low Borrowing Fee put into Perspective (Once in a life-time chance)
+# Author: Ren3666
+# Post URL: [https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/](https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/)
 
 
 There is some confusion currently going on why the borrowing fee for GME is so low, even though GME is a hard to borrow stock.

@@ -1,6 +1,6 @@
-#Title: When this Rocket takes off I am going to save my wife’s life! Fuck Huntington’s Disease!
-#Author: MacroMikey
-#Post URL: [https://www.reddit.com/r/GME/comments/mzye4q/when_this_rocket_takes_off_i_am_going_to_save_my/](https://www.reddit.com/r/GME/comments/mzye4q/when_this_rocket_takes_off_i_am_going_to_save_my/)
+# Title: When this Rocket takes off I am going to save my wife’s life! Fuck Huntington’s Disease!
+# Author: MacroMikey
+# Post URL: [https://www.reddit.com/r/GME/comments/mzye4q/when_this_rocket_takes_off_i_am_going_to_save_my/](https://www.reddit.com/r/GME/comments/mzye4q/when_this_rocket_takes_off_i_am_going_to_save_my/)
 
 
 My wife was diagnosed with HD (Huntington’s Disease) about 5 years ago. HD is a genetic disease that is passed down through family, to sum it up, 

@@ -1,6 +1,6 @@
-#Title: Demystify the Feds ON-RRP Operations, Why do we care so much about them? | Finally figured out what Michael Burrry IS trying to tell the world
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/)
+# Title: Demystify the Feds ON-RRP Operations, Why do we care so much about them? | Finally figured out what Michael Burrry IS trying to tell the world
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/)
 
 
 Two things that have led me here 1. Trying to figure out WTF Michael Burrry was trying to reference and getting it wrong several times 2. Why the fuck do we care so much about the Feds ON-RRP operation?

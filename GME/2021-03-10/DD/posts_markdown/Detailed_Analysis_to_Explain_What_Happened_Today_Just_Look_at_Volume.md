@@ -1,6 +1,6 @@
-#Title: Detailed Analysis to Explain What Happened Today. Just Look at Volume.
-#Author: Yonsei
-#Post URL: [https://www.reddit.com/r/GME/comments/m2ayql/detailed_analysis_to_explain_what_happened_today/](https://www.reddit.com/r/GME/comments/m2ayql/detailed_analysis_to_explain_what_happened_today/)
+# Title: Detailed Analysis to Explain What Happened Today. Just Look at Volume.
+# Author: Yonsei
+# Post URL: [https://www.reddit.com/r/GME/comments/m2ayql/detailed_analysis_to_explain_what_happened_today/](https://www.reddit.com/r/GME/comments/m2ayql/detailed_analysis_to_explain_what_happened_today/)
 
 
 **TLDR: Volume during 12:20pm - 12:41pm crash indicates this was either a large whale sell order (unlikely) or algorithmic short selling (likely). Keep HOLDING!**

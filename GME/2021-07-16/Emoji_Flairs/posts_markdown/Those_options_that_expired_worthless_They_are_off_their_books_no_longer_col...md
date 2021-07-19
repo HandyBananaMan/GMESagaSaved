@@ -1,6 +1,6 @@
-#Title: Those options that expired worthless? They are off their books, no longer collateral. VICTORY. We finish In max pain for the day!!
-#Author: sydneyfriendlycub
-#Post URL: [https://www.reddit.com/r/GME/comments/olszic/those_options_that_expired_worthless_they_are_off/](https://www.reddit.com/r/GME/comments/olszic/those_options_that_expired_worthless_they_are_off/)
+# Title: Those options that expired worthless? They are off their books, no longer collateral. VICTORY. We finish In max pain for the day!!
+# Author: sydneyfriendlycub
+# Post URL: [https://www.reddit.com/r/GME/comments/olszic/those_options_that_expired_worthless_they_are_off/](https://www.reddit.com/r/GME/comments/olszic/those_options_that_expired_worthless_they_are_off/)
 
 
 Hi everyone,

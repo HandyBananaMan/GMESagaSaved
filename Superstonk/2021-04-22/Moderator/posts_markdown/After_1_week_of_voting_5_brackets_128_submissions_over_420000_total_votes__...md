@@ -1,6 +1,6 @@
-#Title: 🎉 After 1 week of voting, 5 brackets, 128 submissions, over 420,000 total votes (👀 yes, really) - and - with almost 25,000 votes cast in the FINAL ROUND ... ... 😬 ... ... THE WINNER OF THE R/SUPERSTONK BANNER CONTEST IS ... 🖼🏆
-#Author: StonkU2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/](https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/)
+# Title: 🎉 After 1 week of voting, 5 brackets, 128 submissions, over 420,000 total votes (👀 yes, really) - and - with almost 25,000 votes cast in the FINAL ROUND ... ... 😬 ... ... THE WINNER OF THE R/SUPERSTONK BANNER CONTEST IS ... 🖼🏆
+# Author: StonkU2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/](https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/)
 
 
 &#x200B;

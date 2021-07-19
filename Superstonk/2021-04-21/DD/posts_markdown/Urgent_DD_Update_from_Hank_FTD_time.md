@@ -1,6 +1,6 @@
-#Title: Urgent DD Update from Hank, FTD time!
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvo75j/urgent_dd_update_from_hank_ftd_time/](https://www.reddit.com/r/Superstonk/comments/mvo75j/urgent_dd_update_from_hank_ftd_time/)
+# Title: Urgent DD Update from Hank, FTD time!
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvo75j/urgent_dd_update_from_hank_ftd_time/](https://www.reddit.com/r/Superstonk/comments/mvo75j/urgent_dd_update_from_hank_ftd_time/)
 
 
 **I am not a financial advisor, and this is not financial advice.**

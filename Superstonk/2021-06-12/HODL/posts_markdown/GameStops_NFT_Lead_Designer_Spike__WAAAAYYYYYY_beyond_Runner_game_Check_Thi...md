@@ -1,6 +1,6 @@
-#Title: GameStop’s NFT Lead Designer Spike ... WAAAAYYYYYY beyond Runner game ...Check This Out!!
-#Author: LetsBeatTheStreet
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/](https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/)
+# Title: GameStop’s NFT Lead Designer Spike ... WAAAAYYYYYY beyond Runner game ...Check This Out!!
+# Author: LetsBeatTheStreet
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/](https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/)
 
 
 ![https://i.redd.it/rd1v5lic6t471.gif](https://i.redd.it/rd1v5lic6t471.gif)

@@ -1,6 +1,6 @@
-#Title: The OTC Conspiracy - GME, idiosyncrasies, and the infinite Banana Trees (Part 1)
-#Author: nayboyer2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/](https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/)
+# Title: The OTC Conspiracy - GME, idiosyncrasies, and the infinite Banana Trees (Part 1)
+# Author: nayboyer2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/](https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/)
 
 
 # "Let's take another dive into that Dark Pool data

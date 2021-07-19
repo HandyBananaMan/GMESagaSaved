@@ -1,6 +1,6 @@
-#Title: A Deep Dive into nft.gamestop.com
-#Author: schismsaints
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/](https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/)
+# Title: A Deep Dive into nft.gamestop.com
+# Author: schismsaints
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/](https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/)
 
 
 Like many, I was intrigued when I heard about GameStop dabbling in NFT - first, through the [job postings](https://finance.yahoo.com/news/gamestop-hiring-blockchain-analyst-specializing-075700175.html), then with [nft.gamestop.com](https://nft.gamestop.com).  I did a [brief dive into some of the smart contract details](https://www.reddit.com/r/Superstonk/comments/nkxrhe/umm_guys_i_think_i_just_found_something/gzgpytb/?context=3) back when it initially came out but recently have gone much further down the rabbit hole.

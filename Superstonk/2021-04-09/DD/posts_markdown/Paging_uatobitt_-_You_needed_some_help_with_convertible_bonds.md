@@ -1,6 +1,6 @@
-#Title: Paging u/atobitt - You needed some help with convertible bonds?...
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/](https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/)
+# Title: Paging u/atobitt - You needed some help with convertible bonds?...
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/](https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/)
 
 
 &#x200B;

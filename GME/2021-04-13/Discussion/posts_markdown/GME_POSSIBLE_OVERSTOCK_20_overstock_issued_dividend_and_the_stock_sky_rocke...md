@@ -1,6 +1,6 @@
-#Title: GME POSSIBLE OVERSTOCK 2.0, overstock issued dividend and the stock sky rocketed due to short squeeze.
-#Author: BrokeAsFuck-WSB-APE
-#Post URL: [https://www.reddit.com/r/GME/comments/mqbu5a/gme_possible_overstock_20_overstock_issued/](https://www.reddit.com/r/GME/comments/mqbu5a/gme_possible_overstock_20_overstock_issued/)
+# Title: GME POSSIBLE OVERSTOCK 2.0, overstock issued dividend and the stock sky rocketed due to short squeeze.
+# Author: BrokeAsFuck-WSB-APE
+# Post URL: [https://www.reddit.com/r/GME/comments/mqbu5a/gme_possible_overstock_20_overstock_issued/](https://www.reddit.com/r/GME/comments/mqbu5a/gme_possible_overstock_20_overstock_issued/)
 
 
 Nothing written here is financial advice. I mean read my username. 

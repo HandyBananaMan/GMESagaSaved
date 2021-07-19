@@ -1,6 +1,6 @@
-#Title: Ryan Cohen and/or DFV, please for the love of God, make the most elaborate and cryptic tweet ever so we may can finally move on.
-#Author: BPhair
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omjx3u/ryan_cohen_andor_dfv_please_for_the_love_of_god/](https://www.reddit.com/r/Superstonk/comments/omjx3u/ryan_cohen_andor_dfv_please_for_the_love_of_god/)
+# Title: Ryan Cohen and/or DFV, please for the love of God, make the most elaborate and cryptic tweet ever so we may can finally move on.
+# Author: BPhair
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omjx3u/ryan_cohen_andor_dfv_please_for_the_love_of_god/](https://www.reddit.com/r/Superstonk/comments/omjx3u/ryan_cohen_andor_dfv_please_for_the_love_of_god/)
 
 
 Just tweet anything at all. We can do black and white again, legos, fucking bionicles, I dgaf. Tweet a cat dressed as an astronaut. Fucking tweet a picture of the last shit you took, whatever it takes man. I can only downvote mod drama and apefest bs for so long. This nonsense has gone on for too long.

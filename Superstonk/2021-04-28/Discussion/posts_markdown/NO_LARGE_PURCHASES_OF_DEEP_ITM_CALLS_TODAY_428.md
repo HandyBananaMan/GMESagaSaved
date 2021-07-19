@@ -1,6 +1,6 @@
-#Title: NO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/28)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/](https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/)
+# Title: NO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/28)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/](https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/)
 
 
 u/Dan_Bren DEEP ITM calls you know what it is.

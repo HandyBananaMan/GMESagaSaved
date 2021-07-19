@@ -1,6 +1,6 @@
-#Title: 📢 FOUND OUT WHY THE LIGHTS ARE ON AT JP MORGAN IN THE WEEKENDS! AND SIGNS THEY MAY GET EVAPORATED! 📢
-#Author: Wild_Investigator622
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oauenv/found_out_why_the_lights_are_on_at_jp_morgan_in/](https://www.reddit.com/r/Superstonk/comments/oauenv/found_out_why_the_lights_are_on_at_jp_morgan_in/)
+# Title: 📢 FOUND OUT WHY THE LIGHTS ARE ON AT JP MORGAN IN THE WEEKENDS! AND SIGNS THEY MAY GET EVAPORATED! 📢
+# Author: Wild_Investigator622
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oauenv/found_out_why_the_lights_are_on_at_jp_morgan_in/](https://www.reddit.com/r/Superstonk/comments/oauenv/found_out_why_the_lights_are_on_at_jp_morgan_in/)
 
 
 EuroApe here looking at Euro stuff. So it looks like JP Morgan have been using their weekends to borrow money, filing several charges as recently as Saturday ((Edit: Friday* not Saturday as has been pointed out to me, I am shit at dates as it turns out)! And from who you ask....

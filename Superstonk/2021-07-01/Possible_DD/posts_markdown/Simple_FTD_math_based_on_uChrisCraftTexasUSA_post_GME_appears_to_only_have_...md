@@ -1,6 +1,6 @@
-#Title: Simple FTD math based on u/ChrisCraftTexasUSA post... GME appears to only have about 30 times more FTDs than TSLA... Just...
-#Author: taranasus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/](https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/)
+# Title: Simple FTD math based on u/ChrisCraftTexasUSA post... GME appears to only have about 30 times more FTDs than TSLA... Just...
+# Author: taranasus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/](https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/)
 
 
 # IMPORTANT EDIT

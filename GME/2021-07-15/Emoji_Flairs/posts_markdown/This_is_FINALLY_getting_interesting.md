@@ -1,6 +1,6 @@
-#Title: This is FINALLY getting interesting.
-#Author: gerowcr
-#Post URL: [https://www.reddit.com/r/GME/comments/okry1g/this_is_finally_getting_interesting/](https://www.reddit.com/r/GME/comments/okry1g/this_is_finally_getting_interesting/)
+# Title: This is FINALLY getting interesting.
+# Author: gerowcr
+# Post URL: [https://www.reddit.com/r/GME/comments/okry1g/this_is_finally_getting_interesting/](https://www.reddit.com/r/GME/comments/okry1g/this_is_finally_getting_interesting/)
 
 
 Apes,

@@ -1,6 +1,6 @@
-#Title: GameStop Released Their Proxy Statement and Guess What?
-#Author: Cody15243
-#Post URL: [https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/](https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/)
+# Title: GameStop Released Their Proxy Statement and Guess What?
+# Author: Cody15243
+# Post URL: [https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/](https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/)
 
 
 [GameStop (GME) Definitive Proxy Statement](https://gamestop.gcs-web.com/static-files/b8fcb1ce-dfcf-42fd-89a8-dfaed2084dcc)

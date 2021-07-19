@@ -1,6 +1,6 @@
-#Title: The European Bank Issues Financial Stability Warning
-#Author: StrifeLover
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/](https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/)
+# Title: The European Bank Issues Financial Stability Warning
+# Author: StrifeLover
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/](https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/)
 
 
 Hello everyone. It’s me again. This time I’m not telling you about Sluggs or Snakes. I want to talk about something that was just released by The European Bank yesterday, May 19th and is flying under the radar EVERYWHERE for some reason. I’m not a financial advisor. I manage a warehouse for a construction company and I’m really stupid but the following information, I feel, is very important to review. If I’m wrong or stupid ANYWHERE. Let’s discuss! Let’s get brain juices flowing!

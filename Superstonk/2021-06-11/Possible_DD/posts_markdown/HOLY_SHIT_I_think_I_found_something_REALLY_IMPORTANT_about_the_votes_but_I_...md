@@ -1,6 +1,6 @@
-#Title: HOLY SHIT. I think I found something REALLY IMPORTANT about the votes, but I need some wrinkle brain support to put all the pieces together.
-#Author: catsinbranches
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/](https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/)
+# Title: HOLY SHIT. I think I found something REALLY IMPORTANT about the votes, but I need some wrinkle brain support to put all the pieces together.
+# Author: catsinbranches
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/](https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/)
 
 
 Last night, I posted about my theory on the vote count total and how it has nothing to do with the float count. Some comments pointed out that my theory had a fundamental flaw, and they were absolutely right, and that's cool I can admit when I'm wrong, but the core of the issue remained.

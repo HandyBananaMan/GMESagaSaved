@@ -1,6 +1,6 @@
-#Title: Breakdown of Gamestop's SEC 10-K from Legalese to Ape Speak from an Ape Lawyer - PART 3: I'm even MORE confident that GME confirmed, in legalese, that the POTENTIAL MOASS hasn't happened yet despite the media/shill FUD (NOT FINANCIAL/LEGAL ADVICE)
-#Author: luridess
-#Post URL: [https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/](https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/)
+# Title: Breakdown of Gamestop's SEC 10-K from Legalese to Ape Speak from an Ape Lawyer - PART 3: I'm even MORE confident that GME confirmed, in legalese, that the POTENTIAL MOASS hasn't happened yet despite the media/shill FUD (NOT FINANCIAL/LEGAL ADVICE)
+# Author: luridess
+# Post URL: [https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/](https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/)
 
 
 ![luridess on her way to 🦍,🦍&🍌 LLP](https://iili.io/qwTNOx.jpg)

@@ -1,6 +1,6 @@
-#Title: The naked shorting scam using ETFs: mass shifting of FTDs from GME to 20+ ETFs & 27+ billion dollars still owed in remaining SI
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/](https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/)
+# Title: The naked shorting scam using ETFs: mass shifting of FTDs from GME to 20+ ETFs & 27+ billion dollars still owed in remaining SI
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/](https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/)
 
 
 ![.](https://preview.redd.it/yeq3jm7tqbw61.png?width=4500&format=png&auto=webp&s=d28e4cac7cdb395aa6e758d4b79dafe9847dfc20)

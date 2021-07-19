@@ -1,6 +1,6 @@
-#Title: BREAKING: Goldman Sachs & Co fail to reconstruct AT LEAST 10% of computerized trade data between December 2nd 2020 and January 29th 2021
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking_goldman_sachs_co_fail_to_reconstruct_at/](https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking_goldman_sachs_co_fail_to_reconstruct_at/)
+# Title: BREAKING: Goldman Sachs & Co fail to reconstruct AT LEAST 10% of computerized trade data between December 2nd 2020 and January 29th 2021
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking_goldman_sachs_co_fail_to_reconstruct_at/](https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking_goldman_sachs_co_fail_to_reconstruct_at/)
 
 
 So I was doing my morning walkthrough of new FINRA violations and caught this BEAUTY for [Goldman Sachs & Co LLC](https://files.brokercheck.finra.org/firm/firm_361.pdf). Anyone else recognize the significances of that date range? It's the SAME timeframe that USS GME was prepping for liftoff.

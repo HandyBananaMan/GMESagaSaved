@@ -1,6 +1,6 @@
-#Title: THE FINISHING BLOW: THE END OF THE SHORTS
-#Author: anongmeholder
-#Post URL: [https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/](https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/)
+# Title: THE FINISHING BLOW: THE END OF THE SHORTS
+# Author: anongmeholder
+# Post URL: [https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/](https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/)
 
 
 # The Introduction:

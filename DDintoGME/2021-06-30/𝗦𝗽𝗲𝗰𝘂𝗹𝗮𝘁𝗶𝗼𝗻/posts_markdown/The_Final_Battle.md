@@ -1,6 +1,6 @@
-#Title: The Final Battle
-#Author: thomas798354
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oar709/the_final_battle/](https://www.reddit.com/r/DDintoGME/comments/oar709/the_final_battle/)
+# Title: The Final Battle
+# Author: thomas798354
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oar709/the_final_battle/](https://www.reddit.com/r/DDintoGME/comments/oar709/the_final_battle/)
 
 
  

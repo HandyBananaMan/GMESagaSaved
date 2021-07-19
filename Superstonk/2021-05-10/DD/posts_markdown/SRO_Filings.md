@@ -1,6 +1,6 @@
-#Title: SRO Filings
-#Author: dlauer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9326x/sro_filings/](https://www.reddit.com/r/Superstonk/comments/n9326x/sro_filings/)
+# Title: SRO Filings
+# Author: dlauer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9326x/sro_filings/](https://www.reddit.com/r/Superstonk/comments/n9326x/sro_filings/)
 
 
 Recently there has been a screenshot of a NYSE SRO filing being circulated purporting to show that NYSE is "suspending a ton of dark pool groups." Or that NYSE is appealing an SEC ruling or something like that. 

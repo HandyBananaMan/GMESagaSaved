@@ -1,6 +1,6 @@
-#Title: 🚀 Time to expose the shell game. FTDs can be "reset" through borrowing from ETFs. Read the Truth.
-#Author: augrr
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/](https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/)
+# Title: 🚀 Time to expose the shell game. FTDs can be "reset" through borrowing from ETFs. Read the Truth.
+# Author: augrr
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/](https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/)
 
 
 # 🚀 Time to expose the shell game.

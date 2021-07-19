@@ -1,6 +1,6 @@
-#Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
-#Author: Topster420
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/)
+# Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
+# Author: Topster420
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/)
 
 
 &#x200B;

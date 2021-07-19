@@ -1,6 +1,6 @@
-#Title: CHAOS THEORY - The EVERYTHING Connection [Reposted]
-#Author: sharkbaitlol
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/](https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/)
+# Title: CHAOS THEORY - The EVERYTHING Connection [Reposted]
+# Author: sharkbaitlol
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/](https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/)
 
 
 EDIT 1: THE MODS DID NOT TAKE DOWN THE POST. THIS WAS A RESULT OF ME ATTEMPTING TO INCLUDE THE STORY BELOW IN EDIT 4 FROM A BLACKLISTED SITE ARTICLE WHICH CAUSED THE AUTOMOD TO DELETE THE POST. I hoped that the removal of the link fixed the text but it didn't, this is a Reddit issue, not a mod one. LAY OFF THE MOD NARRATIVE

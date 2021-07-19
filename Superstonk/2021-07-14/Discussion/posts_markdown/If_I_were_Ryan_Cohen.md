@@ -1,6 +1,6 @@
-#Title: If I were Ryan Cohen…..
-#Author: kman907
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okbek2/if_i_were_ryan_cohen/](https://www.reddit.com/r/Superstonk/comments/okbek2/if_i_were_ryan_cohen/)
+# Title: If I were Ryan Cohen…..
+# Author: kman907
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okbek2/if_i_were_ryan_cohen/](https://www.reddit.com/r/Superstonk/comments/okbek2/if_i_were_ryan_cohen/)
 
 
 Let’s play some 4D chess.

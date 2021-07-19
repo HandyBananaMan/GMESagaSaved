@@ -1,6 +1,6 @@
-#Title: 🚀Ryan Cohens Tweet🚀
-#Author: _Badtothebone_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/](https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/)
+# Title: 🚀Ryan Cohens Tweet🚀
+# Author: _Badtothebone_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/](https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/)
 
 
 Ryan Cohen posted this tweet saying he loved it!!!!

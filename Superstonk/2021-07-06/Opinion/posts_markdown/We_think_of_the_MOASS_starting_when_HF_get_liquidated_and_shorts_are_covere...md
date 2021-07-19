@@ -1,6 +1,6 @@
-#Title: We think of the MOASS starting when HF get liquidated and shorts are covered by machines following an automated process but I believe the MOASS started in January and is happening now in a fight to delay the launch
-#Author: dbx99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oeqc0q/we_think_of_the_moass_starting_when_hf_get/](https://www.reddit.com/r/Superstonk/comments/oeqc0q/we_think_of_the_moass_starting_when_hf_get/)
+# Title: We think of the MOASS starting when HF get liquidated and shorts are covered by machines following an automated process but I believe the MOASS started in January and is happening now in a fight to delay the launch
+# Author: dbx99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oeqc0q/we_think_of_the_moass_starting_when_hf_get/](https://www.reddit.com/r/Superstonk/comments/oeqc0q/we_think_of_the_moass_starting_when_hf_get/)
 
 
 Does a tree exist when the first shoot emerges from the surface of dirt into the air?   Or does it begin deep below ground when the seed, hidden from the sun germinates and starts sending its sprout toward the surface?  What about fungus - does it exist when the mushroom appears? Or is that just the fruiting body and the real work of life happen as the mycelium spreads to develop its growing network of multi celled colonies?

@@ -1,6 +1,6 @@
-#Title: Ken Griffin was in meeting day before Bear Sterns crash where investment banks colluded to bankrupt them
-#Author: shroomz11
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/](https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/)
+# Title: Ken Griffin was in meeting day before Bear Sterns crash where investment banks colluded to bankrupt them
+# Author: shroomz11
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/](https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/)
 
 
 The day before Bear Sterns crashed, the Federal Reserve held a private, non recorded meeting with many of the investment banks, with the exception of Bear Sterns. In attendance was Fed Chief Ben Bernanke, the NY Fed President, Jamie Dimon, and the rest from Goldman Sachs, Morgan Stanley, Merrill Lynch among a few others and none other than our mayo loving boy Kenneth Griffin.

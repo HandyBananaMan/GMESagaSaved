@@ -1,3 +1,4 @@
+# Title: An UPDATED breakdown of the GME squeeze situation: Things to look forward to
 # Author: LtMrDan
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nno66e/an_updated_breakdown_of_the_gme_squeeze_situation/](https://www.reddit.com/r/Superstonk/comments/nno66e/an_updated_breakdown_of_the_gme_squeeze_situation/)
 

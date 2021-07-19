@@ -1,6 +1,6 @@
-#Title: #801, #002, SLD Requirements, Intraday Checks, JP Morgan, & how it all ties together!
-#Author: npham54
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/](https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/)
+# Title: #801, #002, SLD Requirements, Intraday Checks, JP Morgan, & how it all ties together!
+# Author: npham54
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/](https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/)
 
 
 \*\*\*\*\* I am NOT a financial advisor & this is NOT financial advice. Take everything you read, see, or hear with a grain of salt. Verify it ALL with your own DD & come up with your own conclusions! \*\*\*\*\*

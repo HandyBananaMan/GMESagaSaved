@@ -1,6 +1,6 @@
-#Title: Everything Superstonk Knows About Naked Shorting - A Definitive Guide
-#Author: sharkbaitlol
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/)
+# Title: Everything Superstonk Knows About Naked Shorting - A Definitive Guide
+# Author: sharkbaitlol
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/)
 
 
 Hi apes; **sharkbaitlol** here again chomping away at MSM this time. This is a quick post surrounding a particular news station confirming the concept of naked short selling (for anyone [out of the loop](https://www.reddit.com/r/Superstonk/comments/nspmql/naked_shorts_yeah/)); while this is hilarious, it's something the apes here at **Superstonk** know all too well as we've been researching this for a while now!

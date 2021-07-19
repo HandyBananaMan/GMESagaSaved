@@ -1,6 +1,6 @@
-#Title: NEW FUD WAVE. How we all Hodl for the highest price DD. Please read and spread with fellow Apes. Shills using new tactics to reduce floor limit. I welcome the shill down votes [cross post from superstonks]
-#Author: puppetjustice
-#Post URL: [https://www.reddit.com/r/GME/comments/mls5p1/new_fud_wave_how_we_all_hodl_for_the_highest/](https://www.reddit.com/r/GME/comments/mls5p1/new_fud_wave_how_we_all_hodl_for_the_highest/)
+# Title: NEW FUD WAVE. How we all Hodl for the highest price DD. Please read and spread with fellow Apes. Shills using new tactics to reduce floor limit. I welcome the shill down votes [cross post from superstonks]
+# Author: puppetjustice
+# Post URL: [https://www.reddit.com/r/GME/comments/mls5p1/new_fud_wave_how_we_all_hodl_for_the_highest/](https://www.reddit.com/r/GME/comments/mls5p1/new_fud_wave_how_we_all_hodl_for_the_highest/)
 
 
 Hello, my Diamond Handed fellow apes. If you have been here forever or just joined I love you just the same. 

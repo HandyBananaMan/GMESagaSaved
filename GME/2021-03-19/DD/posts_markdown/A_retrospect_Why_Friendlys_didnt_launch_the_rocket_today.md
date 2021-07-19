@@ -1,6 +1,6 @@
-#Title: A retrospect: Why Friendly's didn't launch the rocket today
-#Author: swede_child_of_mine
-#Post URL: [https://www.reddit.com/r/GME/comments/m8ty6o/a_retrospect_why_friendlys_didnt_launch_the/](https://www.reddit.com/r/GME/comments/m8ty6o/a_retrospect_why_friendlys_didnt_launch_the/)
+# Title: A retrospect: Why Friendly's didn't launch the rocket today
+# Author: swede_child_of_mine
+# Post URL: [https://www.reddit.com/r/GME/comments/m8ty6o/a_retrospect_why_friendlys_didnt_launch_the/](https://www.reddit.com/r/GME/comments/m8ty6o/a_retrospect_why_friendlys_didnt_launch_the/)
 
 
 Happy Friday fam!  You know what this post is?  *Not financial advice.*

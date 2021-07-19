@@ -1,6 +1,6 @@
-#Title: IS THIS THE FINAL BOSS? John Petry and Ken Griffin Billionaires Boys Club - And the Puppet Master behind it all???
-#Author: BadassTrader
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/](https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/)
+# Title: IS THIS THE FINAL BOSS? John Petry and Ken Griffin Billionaires Boys Club - And the Puppet Master behind it all???
+# Author: BadassTrader
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/](https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/)
 
 
 (Shameless PLUG: Follow me on Twtter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )

@@ -1,6 +1,6 @@
-#Title: New OCC rule passed to fuck the large financial institutions out of using derivatives to pass their tests.
-#Author: laflammaster
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/](https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/)
+# Title: New OCC rule passed to fuck the large financial institutions out of using derivatives to pass their tests.
+# Author: laflammaster
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/](https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/)
 
 
 u/leisure_rules has pointed me to the OCC - something that I should have been taking a look at since the beginning of my journey into the workings of the Fed. 

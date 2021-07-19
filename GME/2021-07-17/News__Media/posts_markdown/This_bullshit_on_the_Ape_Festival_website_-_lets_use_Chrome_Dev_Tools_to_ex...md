@@ -1,6 +1,6 @@
-#Title: This bullshit on the Ape Festival website - let's use Chrome Dev Tools to explore some bullshit.
-#Author: spozzy
-#Post URL: [https://www.reddit.com/r/GME/comments/olxx95/this_bullshit_on_the_ape_festival_website_lets/](https://www.reddit.com/r/GME/comments/olxx95/this_bullshit_on_the_ape_festival_website_lets/)
+# Title: This bullshit on the Ape Festival website - let's use Chrome Dev Tools to explore some bullshit.
+# Author: spozzy
+# Post URL: [https://www.reddit.com/r/GME/comments/olxx95/this_bullshit_on_the_ape_festival_website_lets/](https://www.reddit.com/r/GME/comments/olxx95/this_bullshit_on_the_ape_festival_website_lets/)
 
 
 Ape Festival and its organizers can go to hell, but I just wanted to highlight some off the bullshit tactics around the Ape Festival website.

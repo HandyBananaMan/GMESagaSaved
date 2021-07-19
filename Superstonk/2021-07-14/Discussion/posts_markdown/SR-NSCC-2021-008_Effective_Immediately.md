@@ -1,6 +1,6 @@
-#Title: SR-NSCC-2021-008 Effective Immediately.
-#Author: Official_Siro
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok4f8f/srnscc2021008_effective_immediately/](https://www.reddit.com/r/Superstonk/comments/ok4f8f/srnscc2021008_effective_immediately/)
+# Title: SR-NSCC-2021-008 Effective Immediately.
+# Author: Official_Siro
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok4f8f/srnscc2021008_effective_immediately/](https://www.reddit.com/r/Superstonk/comments/ok4f8f/srnscc2021008_effective_immediately/)
 
 
 The proposed rule change clarifies the scope of the Clearing Agency Model Risk Management Framework (“Framework”) of NSCC and its affiliates The Depository Trust Company (“DTC”) and Fixed Income Clearing Corporation (“FICC,” and together with NSCC, the “CCPs,” and the CCPs together with DTC, the “Clearing Agencies”).5  

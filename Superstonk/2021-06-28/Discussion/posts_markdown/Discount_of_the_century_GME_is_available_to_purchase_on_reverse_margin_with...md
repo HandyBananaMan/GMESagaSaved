@@ -1,6 +1,6 @@
-#Title: Discount of the century!!! GME is available to purchase on reverse margin, with reverse leverage. For a $213 investment you get $25'000'000 asset. NO RISK (broker is subject to requirements and Market Maker is subject to Margin Call). Offer available for a limited time. "THE PRICE IS WRONG B1TCH"
-#Author: realDeegzScotland
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9w7jg/discount_of_the_century_gme_is_available_to/](https://www.reddit.com/r/Superstonk/comments/o9w7jg/discount_of_the_century_gme_is_available_to/)
+# Title: Discount of the century!!! GME is available to purchase on reverse margin, with reverse leverage. For a $213 investment you get $25'000'000 asset. NO RISK (broker is subject to requirements and Market Maker is subject to Margin Call). Offer available for a limited time. "THE PRICE IS WRONG B1TCH"
+# Author: realDeegzScotland
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9w7jg/discount_of_the_century_gme_is_available_to/](https://www.reddit.com/r/Superstonk/comments/o9w7jg/discount_of_the_century_gme_is_available_to/)
 
 
 I wanted to call this the "THANKS KEN" Megathread!!! 

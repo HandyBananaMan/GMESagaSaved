@@ -1,6 +1,6 @@
-#Title: r/GME Megathread for Thursday April 22, 2021
-#Author: SpaceMillionaire
-#Post URL: [https://www.reddit.com/r/GME/comments/mvyhcz/rgme_megathread_for_thursday_april_22_2021/](https://www.reddit.com/r/GME/comments/mvyhcz/rgme_megathread_for_thursday_april_22_2021/)
+# Title: r/GME Megathread for Thursday April 22, 2021
+# Author: SpaceMillionaire
+# Post URL: [https://www.reddit.com/r/GME/comments/mvyhcz/rgme_megathread_for_thursday_april_22_2021/](https://www.reddit.com/r/GME/comments/mvyhcz/rgme_megathread_for_thursday_april_22_2021/)
 
 
 This is a place to discuss technical analysis, fundamental analysis, buyer/seller sentiment, **and all things relevant to GME.**

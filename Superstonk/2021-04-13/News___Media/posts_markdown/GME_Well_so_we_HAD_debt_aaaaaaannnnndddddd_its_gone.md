@@ -1,6 +1,6 @@
-#Title: GME: Well, so we HAD debt, aaaaaaannnnndddddd it's gone....
-#Author: ElevationAV
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/](https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/)
+# Title: GME: Well, so we HAD debt, aaaaaaannnnndddddd it's gone....
+# Author: ElevationAV
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/](https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/)
 
 
 So you know that $216 million in debt that GME had on the books on it's 10k?  

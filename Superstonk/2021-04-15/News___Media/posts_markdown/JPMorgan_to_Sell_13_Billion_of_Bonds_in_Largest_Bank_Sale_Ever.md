@@ -1,6 +1,6 @@
-#Title: JPMorgan to Sell $13 Billion of Bonds in Largest Bank Sale Ever
-#Author: Captain_Omar
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/)
+# Title: JPMorgan to Sell $13 Billion of Bonds in Largest Bank Sale Ever
+# Author: Captain_Omar
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/)
 
 
 It's happening!

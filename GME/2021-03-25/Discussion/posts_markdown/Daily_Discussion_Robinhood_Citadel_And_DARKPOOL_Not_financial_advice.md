@@ -1,6 +1,6 @@
-#Title: (Daily Discussion) Robinhood, Citadel, And,, DARKPOOL. Not financial advice!
-#Author: kiki_YH_KOR
-#Post URL: [https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/](https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/)
+# Title: (Daily Discussion) Robinhood, Citadel, And,, DARKPOOL. Not financial advice!
+# Author: kiki_YH_KOR
+# Post URL: [https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/](https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/)
 
 
 Hello, I’m korean ape. from South korea. 🚀🚀🚀🚀🚀🚀 (I'm not a financial advisor)

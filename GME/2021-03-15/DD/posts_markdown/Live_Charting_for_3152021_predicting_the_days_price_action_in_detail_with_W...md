@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/15/2021, predicting the day's price action in detail with Warden. Predicting the dips special edition. Let's find the juiciest dips!
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/m5kn1c/live_charting_for_3152021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m5kn1c/live_charting_for_3152021_predicting_the_days/)
+# Title: Live Charting for 3/15/2021, predicting the day's price action in detail with Warden. Predicting the dips special edition. Let's find the juiciest dips!
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/m5kn1c/live_charting_for_3152021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m5kn1c/live_charting_for_3152021_predicting_the_days/)
 
 
 Again to reiterate, since this should probably be at the top. **This is not financial nor investment advice.** **These are ideas and opinions for information purposes only.**

@@ -1,6 +1,6 @@
-#Title: Dr. Trimbath's Work Directly Disproves a Reverse-Merger or CUSIP # Change Catalyst
-#Author: InvestmentOracle
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/noyhu8/dr_trimbaths_work_directly_disproves_a/](https://www.reddit.com/r/DDintoGME/comments/noyhu8/dr_trimbaths_work_directly_disproves_a/)
+# Title: Dr. Trimbath's Work Directly Disproves a Reverse-Merger or CUSIP # Change Catalyst
+# Author: InvestmentOracle
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/noyhu8/dr_trimbaths_work_directly_disproves_a/](https://www.reddit.com/r/DDintoGME/comments/noyhu8/dr_trimbaths_work_directly_disproves_a/)
 
 
 A reverse-merger, or any sort of CUSIP # change or name change, will not work, and here’s why:

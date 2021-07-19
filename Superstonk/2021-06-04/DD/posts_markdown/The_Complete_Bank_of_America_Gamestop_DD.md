@@ -1,6 +1,6 @@
-#Title: The Complete Bank of America Gamestop DD
-#Author: gfountyyc
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/)
+# Title: The Complete Bank of America Gamestop DD
+# Author: gfountyyc
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/)
 
 
 TL/DR It's possible that Bank of America is holding the biggest bag in the Gamestop saga

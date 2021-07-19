@@ -1,6 +1,6 @@
-#Title: While We're Having A Party, Two New Rules Just Posted On DTCC's Site
-#Author: DigitalArts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/](https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/)
+# Title: While We're Having A Party, Two New Rules Just Posted On DTCC's Site
+# Author: DigitalArts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/](https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/)
 
 
 I have no clue what are in these, but they sound juicy. 🤷‍♂️ Anyone know anything about these? This isn't the 801 we've waited for I know that.

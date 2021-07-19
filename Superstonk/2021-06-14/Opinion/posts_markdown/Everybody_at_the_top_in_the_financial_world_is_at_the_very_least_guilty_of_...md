@@ -1,6 +1,6 @@
-#Title: Everybody at the top in the financial world is, at the very least, guilty of allowing the coming financial crash to happen.
-#Author: Starwarsandbacon
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o044za/everybody_at_the_top_in_the_financial_world_is_at/](https://www.reddit.com/r/Superstonk/comments/o044za/everybody_at_the_top_in_the_financial_world_is_at/)
+# Title: Everybody at the top in the financial world is, at the very least, guilty of allowing the coming financial crash to happen.
+# Author: Starwarsandbacon
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o044za/everybody_at_the_top_in_the_financial_world_is_at/](https://www.reddit.com/r/Superstonk/comments/o044za/everybody_at_the_top_in_the_financial_world_is_at/)
 
 
 I read u/possibly6 (Elliot Wave Guy) update from today and the SPY puts being Citadel's largest position, along with all the others holding those same puts, got me thinking.

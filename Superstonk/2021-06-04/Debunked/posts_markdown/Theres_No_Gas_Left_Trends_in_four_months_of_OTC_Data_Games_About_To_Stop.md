@@ -1,6 +1,6 @@
-#Title: There's No Gas Left. Trends in four months of OTC Data. Game's About To Stop.
-#Author: djk934
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/](https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/)
+# Title: There's No Gas Left. Trends in four months of OTC Data. Game's About To Stop.
+# Author: djk934
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/](https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/)
 
 
 **MAJOR EDIT: This post has been debunked. After a significant amount of discussion with several other users (including u/dlauer) an assumption I made about a section of the data has made both this post and a previous DD (the FINRA Veil) I worked on yesterday incorrect. It sucks to be publicly wrong when both of these posts got a lot of attention, but when you do DD's sometimes you will be wrong. I am changing this now as I am (unfortunately) not able to reconcile that error. I made the post, I should have done a better job of checking the data. Rather than letting this sit overnight as I am about to head to sleep, I would implore a moderator to switch the flair and have put in a request to have this done. I will leave the post up as it is though, as failure helps us apes improve.**

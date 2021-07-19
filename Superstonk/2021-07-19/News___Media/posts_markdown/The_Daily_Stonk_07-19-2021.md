@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 07-19-2021
-#Author: vice1337
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/onab8m/the_daily_stonk_07192021/](https://www.reddit.com/r/Superstonk/comments/onab8m/the_daily_stonk_07192021/)
+# Title: The Daily Stonk 07-19-2021
+# Author: vice1337
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/onab8m/the_daily_stonk_07192021/](https://www.reddit.com/r/Superstonk/comments/onab8m/the_daily_stonk_07192021/)
 
 
 &#x200B;

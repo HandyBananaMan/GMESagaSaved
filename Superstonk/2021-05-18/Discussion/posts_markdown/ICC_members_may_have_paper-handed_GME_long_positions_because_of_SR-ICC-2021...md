@@ -1,6 +1,6 @@
-#Title: ICC members may have "paper-handed" GME long positions because of SR-ICC-2021-005 and that they believed MOASS was coming.
-#Author: PowerHausMachine
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfvefa/icc_members_may_have_paperhanded_gme_long/](https://www.reddit.com/r/Superstonk/comments/nfvefa/icc_members_may_have_paperhanded_gme_long/)
+# Title: ICC members may have "paper-handed" GME long positions because of SR-ICC-2021-005 and that they believed MOASS was coming.
+# Author: PowerHausMachine
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfvefa/icc_members_may_have_paperhanded_gme_long/](https://www.reddit.com/r/Superstonk/comments/nfvefa/icc_members_may_have_paperhanded_gme_long/)
 
 
 Credit to  [u/FriedrichWeyland](https://www.reddit.com/user/FriedrichWeyland/)  who explains why Morgan Stanley may have sold their GME positions.

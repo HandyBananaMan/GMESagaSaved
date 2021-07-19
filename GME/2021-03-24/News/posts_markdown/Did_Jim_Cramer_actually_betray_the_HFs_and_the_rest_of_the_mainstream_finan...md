@@ -1,6 +1,6 @@
-#Title: Did Jim Cramer actually "betray" the HFs and the rest of the mainstream financial media?
-#Author: ineeeeeeeeeeedit
-#Post URL: [https://www.reddit.com/r/GME/comments/mc8z5m/did_jim_cramer_actually_betray_the_hfs_and_the/](https://www.reddit.com/r/GME/comments/mc8z5m/did_jim_cramer_actually_betray_the_hfs_and_the/)
+# Title: Did Jim Cramer actually "betray" the HFs and the rest of the mainstream financial media?
+# Author: ineeeeeeeeeeedit
+# Post URL: [https://www.reddit.com/r/GME/comments/mc8z5m/did_jim_cramer_actually_betray_the_hfs_and_the/](https://www.reddit.com/r/GME/comments/mc8z5m/did_jim_cramer_actually_betray_the_hfs_and_the/)
 
 
 So today Jim Cramer, who has been very vocally against GME up until now, did a 180 turn on CNBC and said shorts should "give up" before they lose all their money, among other things.   

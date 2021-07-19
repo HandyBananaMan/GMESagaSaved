@@ -1,6 +1,6 @@
-#Title: JP Morgan spoofed their earnings to get investors interested, then sells $13 Billion in bonds to keep them afloat during the MOASS.
-#Author: socrates6210
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrrwz5/jp_morgan_spoofed_their_earnings_to_get_investors/](https://www.reddit.com/r/Superstonk/comments/mrrwz5/jp_morgan_spoofed_their_earnings_to_get_investors/)
+# Title: JP Morgan spoofed their earnings to get investors interested, then sells $13 Billion in bonds to keep them afloat during the MOASS.
+# Author: socrates6210
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrrwz5/jp_morgan_spoofed_their_earnings_to_get_investors/](https://www.reddit.com/r/Superstonk/comments/mrrwz5/jp_morgan_spoofed_their_earnings_to_get_investors/)
 
 
 &#x200B;

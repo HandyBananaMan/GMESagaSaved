@@ -1,6 +1,6 @@
-#Title: I believe GME's new baseline price is $129.42 -- Here is my (updated) theory and (deeper) analysis to back it up.
-#Author: BigBrainBets
-#Post URL: [https://www.reddit.com/r/GME/comments/lysax2/i_believe_gmes_new_baseline_price_is_12942_here/](https://www.reddit.com/r/GME/comments/lysax2/i_believe_gmes_new_baseline_price_is_12942_here/)
+# Title: I believe GME's new baseline price is $129.42 -- Here is my (updated) theory and (deeper) analysis to back it up.
+# Author: BigBrainBets
+# Post URL: [https://www.reddit.com/r/GME/comments/lysax2/i_believe_gmes_new_baseline_price_is_12942_here/](https://www.reddit.com/r/GME/comments/lysax2/i_believe_gmes_new_baseline_price_is_12942_here/)
 
 
 # TL;DR.

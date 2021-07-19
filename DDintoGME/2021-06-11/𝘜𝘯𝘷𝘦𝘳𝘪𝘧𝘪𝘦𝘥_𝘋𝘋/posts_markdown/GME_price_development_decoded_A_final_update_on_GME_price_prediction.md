@@ -1,6 +1,6 @@
-#Title: GME price development decoded: A final update on GME price prediction
-#Author: RocketApes
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/](https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/)
+# Title: GME price development decoded: A final update on GME price prediction
+# Author: RocketApes
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/](https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/)
 
 
 *edit3: Concerning* [this](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/) *DD where several new T+18-21 and T+35 dates are given: I updated my model. T+21 is a thing after days with more than 15% down, but not T+18-20, also not T+33-35. But a little improvement. Tagging OP* /u/Leenixus

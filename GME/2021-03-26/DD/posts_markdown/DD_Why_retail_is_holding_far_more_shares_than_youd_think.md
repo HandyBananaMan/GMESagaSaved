@@ -1,6 +1,6 @@
-#Title: DD: Why retail is holding far more shares than you'd think
-#Author: thedav1d
-#Post URL: [https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/](https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/)
+# Title: DD: Why retail is holding far more shares than you'd think
+# Author: thedav1d
+# Post URL: [https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/](https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/)
 
 
 *Disclaimer: I am in no way an expert or a financial advisor, this is not financial advice, this is only my understanding of the current situation based on what I have read. I entered the stock market about 8 months ago, so please correct me in the comments if I'm wrong, and I'll edit the post.*

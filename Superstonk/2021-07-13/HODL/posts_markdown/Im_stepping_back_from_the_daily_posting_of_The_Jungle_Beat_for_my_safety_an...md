@@ -1,6 +1,6 @@
-#Title: I'm stepping back from the daily posting of The Jungle Beat for my safety and well-being
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojos41/im_stepping_back_from_the_daily_posting_of_the/](https://www.reddit.com/r/Superstonk/comments/ojos41/im_stepping_back_from_the_daily_posting_of_the/)
+# Title: I'm stepping back from the daily posting of The Jungle Beat for my safety and well-being
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojos41/im_stepping_back_from_the_daily_posting_of_the/](https://www.reddit.com/r/Superstonk/comments/ojos41/im_stepping_back_from_the_daily_posting_of_the/)
 
 
  Hello friends. 💖

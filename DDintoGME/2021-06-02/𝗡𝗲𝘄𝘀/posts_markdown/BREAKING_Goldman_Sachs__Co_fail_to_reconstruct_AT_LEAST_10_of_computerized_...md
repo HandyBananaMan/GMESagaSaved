@@ -1,6 +1,6 @@
-#Title: BREAKING: Goldman Sachs & Co fail to reconstruct AT LEAST 10% of computerized trade data between December 2nd 2020 and January 29th 2021 - CROSSPOST
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqrsvi/breaking_goldman_sachs_co_fail_to_reconstruct_at/](https://www.reddit.com/r/DDintoGME/comments/nqrsvi/breaking_goldman_sachs_co_fail_to_reconstruct_at/)
+# Title: BREAKING: Goldman Sachs & Co fail to reconstruct AT LEAST 10% of computerized trade data between December 2nd 2020 and January 29th 2021 - CROSSPOST
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqrsvi/breaking_goldman_sachs_co_fail_to_reconstruct_at/](https://www.reddit.com/r/DDintoGME/comments/nqrsvi/breaking_goldman_sachs_co_fail_to_reconstruct_at/)
 
 
 From [https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking\_goldman\_sachs\_co\_fail\_to\_reconstruct\_at/](https://www.reddit.com/r/Superstonk/comments/nqmz4u/breaking_goldman_sachs_co_fail_to_reconstruct_at/) by, [u/atobitt](https://www.reddit.com/user/atobitt/)

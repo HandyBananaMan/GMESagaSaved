@@ -1,6 +1,6 @@
-#Title: Did the SEC just said they had no objection to SR-OCC-2021-801?
-#Author: Critical-Badger-1148
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mm8eek/did_the_sec_just_said_they_had_no_objection_to/](https://www.reddit.com/r/Superstonk/comments/mm8eek/did_the_sec_just_said_they_had_no_objection_to/)
+# Title: Did the SEC just said they had no objection to SR-OCC-2021-801?
+# Author: Critical-Badger-1148
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mm8eek/did_the_sec_just_said_they_had_no_objection_to/](https://www.reddit.com/r/Superstonk/comments/mm8eek/did_the_sec_just_said_they_had_no_objection_to/)
 
 
 I was curious as to the status of this one and notice that today they had an update to it saying no objection. I haven't delved into it yet (should really be working), but maybe some apes with more wrinkles than I can take a look at this.

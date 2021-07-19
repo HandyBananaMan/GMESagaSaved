@@ -1,6 +1,6 @@
-#Title: Posted with permission from u/Get-It-Got. Final Update of Google Consumer Survey *** N=2,200***; At LEAST 164MM $GME Shares in Hands of U.S. Retail; ***My Best Guesstimate For Total Shares Owned Globally — 531MM***
-#Author: akareil
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/omi52f/posted_with_permission_from_ugetitgot_final/](https://www.reddit.com/r/DDintoGME/comments/omi52f/posted_with_permission_from_ugetitgot_final/)
+# Title: Posted with permission from u/Get-It-Got. Final Update of Google Consumer Survey *** N=2,200***; At LEAST 164MM $GME Shares in Hands of U.S. Retail; ***My Best Guesstimate For Total Shares Owned Globally — 531MM***
+# Author: akareil
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/omi52f/posted_with_permission_from_ugetitgot_final/](https://www.reddit.com/r/DDintoGME/comments/omi52f/posted_with_permission_from_ugetitgot_final/)
 
 
 Edit: Thanks for the awards, feels like cheating.

@@ -1,6 +1,6 @@
-#Title: The Ape's Guide to the Galaxy - A Compilation of DDs, News, Announcements, Alerts, Tools & Resources
-#Author: thr0wthis4ccount4way
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/)
+# Title: The Ape's Guide to the Galaxy - A Compilation of DDs, News, Announcements, Alerts, Tools & Resources
+# Author: thr0wthis4ccount4way
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/)
 
 
 ![thr0w's recommended reading list](https://preview.redd.it/ecwfkdsmntt61.png?width=1600&format=png&auto=webp&s=7a0d663f1ee82a38fe435b6576b2997b2f919ad3)

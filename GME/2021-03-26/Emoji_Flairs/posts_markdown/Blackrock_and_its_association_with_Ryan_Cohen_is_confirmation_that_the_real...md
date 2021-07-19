@@ -1,6 +1,6 @@
-#Title: Blackrock and it’s association with Ryan Cohen is confirmation that the real squeeze was GME and the others were only a distraction 🚀💎🚀💎🚀💎
-#Author: DMDTT
-#Post URL: [https://www.reddit.com/r/GME/comments/mdmzf3/blackrock_and_its_association_with_ryan_cohen_is/](https://www.reddit.com/r/GME/comments/mdmzf3/blackrock_and_its_association_with_ryan_cohen_is/)
+# Title: Blackrock and it’s association with Ryan Cohen is confirmation that the real squeeze was GME and the others were only a distraction 🚀💎🚀💎🚀💎
+# Author: DMDTT
+# Post URL: [https://www.reddit.com/r/GME/comments/mdmzf3/blackrock_and_its_association_with_ryan_cohen_is/](https://www.reddit.com/r/GME/comments/mdmzf3/blackrock_and_its_association_with_ryan_cohen_is/)
 
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀💎💎💎💎💎💎💎

@@ -1,6 +1,6 @@
-#Title: The State of The Subreddit — A Combination of Long-Overdue Announcements
-#Author: Theta-voidance
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/olvosd/the_state_of_the_subreddit_a_combination_of/](https://www.reddit.com/r/DDintoGME/comments/olvosd/the_state_of_the_subreddit_a_combination_of/)
+# Title: The State of The Subreddit — A Combination of Long-Overdue Announcements
+# Author: Theta-voidance
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/olvosd/the_state_of_the_subreddit_a_combination_of/](https://www.reddit.com/r/DDintoGME/comments/olvosd/the_state_of_the_subreddit_a_combination_of/)
 
 
 **I have linked** [**Ape's Guide to the Galaxy**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) **while I post this announcement, will be stickied at the top of the sub again once we have had time to engage with this post as a community.**

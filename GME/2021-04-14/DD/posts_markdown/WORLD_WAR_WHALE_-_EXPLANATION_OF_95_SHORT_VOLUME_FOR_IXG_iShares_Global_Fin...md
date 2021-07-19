@@ -1,6 +1,6 @@
-#Title: 🚨WORLD WAR WHALE🐋⚠️ - EXPLANATION OF ~95% SHORT VOLUME FOR IXG (iShares Global Financials ETF)🚀🚀🚀🚀🚀
-#Author: choompop
-#Post URL: [https://www.reddit.com/r/GME/comments/mr6pz6/world_war_whale_explanation_of_95_short_volume/](https://www.reddit.com/r/GME/comments/mr6pz6/world_war_whale_explanation_of_95_short_volume/)
+# Title: 🚨WORLD WAR WHALE🐋⚠️ - EXPLANATION OF ~95% SHORT VOLUME FOR IXG (iShares Global Financials ETF)🚀🚀🚀🚀🚀
+# Author: choompop
+# Post URL: [https://www.reddit.com/r/GME/comments/mr6pz6/world_war_whale_explanation_of_95_short_volume/](https://www.reddit.com/r/GME/comments/mr6pz6/world_war_whale_explanation_of_95_short_volume/)
 
 
 **APES, I have GREAT news, but the data may be deceiving.**

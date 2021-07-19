@@ -1,6 +1,6 @@
-#Title: One of the best confirmation bias is how MSM now has the green light to talk about AMC and other meme stocks but specifically avoid talking about GME
-#Author: guillaume21
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o275mi/one_of_the_best_confirmation_bias_is_how_msm_now/](https://www.reddit.com/r/Superstonk/comments/o275mi/one_of_the_best_confirmation_bias_is_how_msm_now/)
+# Title: One of the best confirmation bias is how MSM now has the green light to talk about AMC and other meme stocks but specifically avoid talking about GME
+# Author: guillaume21
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o275mi/one_of_the_best_confirmation_bias_is_how_msm_now/](https://www.reddit.com/r/Superstonk/comments/o275mi/one_of_the_best_confirmation_bias_is_how_msm_now/)
 
 
 **TL;DR** : The way the stock market MSM is talking about AMC but specifically avoiding to talk about GME is, for me, one of the biggest confirmation bias. Because when the stock market MSM guys avoid talking about a stock is exactly when you should look into said stock. They're not there to help you with your investments, they exist to push the stocks that their daddies want them to push. This is part of their strategy for a « controlled demolition » regarding the MOASS.

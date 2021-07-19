@@ -1,6 +1,6 @@
-#Title: Who Participated In The June 30th $991 Billion Fed Reverse Repo Operation?
-#Author: humanslime
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/](https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/)
+# Title: Who Participated In The June 30th $991 Billion Fed Reverse Repo Operation?
+# Author: humanslime
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/](https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/)
 
 
 In this thread I provide a breakdown of the 90 participants in the June 30th $991.9 billion reverse repo (RRP) operation. It was mostly Money Market Funds (MMFs).

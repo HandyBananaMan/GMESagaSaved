@@ -1,6 +1,6 @@
-#Title: ***What a rare opportunity this community has with GameStop! There really have only been 5 MAJOR squeezes in the modern area. Come learn and be amazed!!
-#Author: khashi1
-#Post URL: [https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/](https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/)
+# Title: ***What a rare opportunity this community has with GameStop! There really have only been 5 MAJOR squeezes in the modern area. Come learn and be amazed!!
+# Author: khashi1
+# Post URL: [https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/](https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/)
 
 
 # 

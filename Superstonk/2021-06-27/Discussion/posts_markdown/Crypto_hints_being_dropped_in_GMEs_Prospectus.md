@@ -1,6 +1,6 @@
-#Title: Crypto hints being dropped in GME's Prospectus?
-#Author: loggic
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o933f5/crypto_hints_being_dropped_in_gmes_prospectus/](https://www.reddit.com/r/Superstonk/comments/o933f5/crypto_hints_being_dropped_in_gmes_prospectus/)
+# Title: Crypto hints being dropped in GME's Prospectus?
+# Author: loggic
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o933f5/crypto_hints_being_dropped_in_gmes_prospectus/](https://www.reddit.com/r/Superstonk/comments/o933f5/crypto_hints_being_dropped_in_gmes_prospectus/)
 
 
 #Major Edit

@@ -1,6 +1,6 @@
-#Title: If the squeeze was worth only $1,000 a share, or 5,000 a share or even 10k a share.. You know the hedgies would have just covered by now...
-#Author: WickedStonks
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/noc4sc/if_the_squeeze_was_worth_only_1000_a_share_or/](https://www.reddit.com/r/Superstonk/comments/noc4sc/if_the_squeeze_was_worth_only_1000_a_share_or/)
+# Title: If the squeeze was worth only $1,000 a share, or 5,000 a share or even 10k a share.. You know the hedgies would have just covered by now...
+# Author: WickedStonks
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/noc4sc/if_the_squeeze_was_worth_only_1000_a_share_or/](https://www.reddit.com/r/Superstonk/comments/noc4sc/if_the_squeeze_was_worth_only_1000_a_share_or/)
 
 
 Dear Reddit world, as a new front page post, I need to call your attention to something. You could make some real change in this world. Please read... 

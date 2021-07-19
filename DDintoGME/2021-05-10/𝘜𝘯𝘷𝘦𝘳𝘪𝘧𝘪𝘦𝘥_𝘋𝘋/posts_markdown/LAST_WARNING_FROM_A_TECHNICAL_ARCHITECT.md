@@ -1,6 +1,6 @@
-#Title: LAST WARNING FROM A TECHNICAL ARCHITECT
-#Author: YharnamHF
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n8youe/last_warning_from_a_technical_architect/](https://www.reddit.com/r/DDintoGME/comments/n8youe/last_warning_from_a_technical_architect/)
+# Title: LAST WARNING FROM A TECHNICAL ARCHITECT
+# Author: YharnamHF
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n8youe/last_warning_from_a_technical_architect/](https://www.reddit.com/r/DDintoGME/comments/n8youe/last_warning_from_a_technical_architect/)
 
 
 First let me say this is not financial advise, but for certain some technical advise on RHs failure.

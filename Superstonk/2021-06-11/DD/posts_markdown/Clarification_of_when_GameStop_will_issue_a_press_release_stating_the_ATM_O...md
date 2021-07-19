@@ -1,6 +1,6 @@
-#Title: Clarification of when GameStop will issue a press release stating the ATM Offering is complete, sale price max, maximum offering, update on outstanding shares, the reason why MarketWatch and Ortex differ, and other Form 424B5 goodies with highlighted pictures!
-#Author: Squashua1982
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxkuvw/clarification_of_when_gamestop_will_issue_a_press/](https://www.reddit.com/r/Superstonk/comments/nxkuvw/clarification_of_when_gamestop_will_issue_a_press/)
+# Title: Clarification of when GameStop will issue a press release stating the ATM Offering is complete, sale price max, maximum offering, update on outstanding shares, the reason why MarketWatch and Ortex differ, and other Form 424B5 goodies with highlighted pictures!
+# Author: Squashua1982
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxkuvw/clarification_of_when_gamestop_will_issue_a_press/](https://www.reddit.com/r/Superstonk/comments/nxkuvw/clarification_of_when_gamestop_will_issue_a_press/)
 
 
 Hey there! This comes straight from the 424B5 Form! Here is the link for reference. 

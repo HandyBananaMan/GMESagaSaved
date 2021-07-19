@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/29/2021, predicting the day's price action in detail with Warden. LIVESTREAM EDITION!
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/mfpae5/live_charting_for_3292021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mfpae5/live_charting_for_3292021_predicting_the_days/)
+# Title: Live Charting for 3/29/2021, predicting the day's price action in detail with Warden. LIVESTREAM EDITION!
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/mfpae5/live_charting_for_3292021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mfpae5/live_charting_for_3292021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.

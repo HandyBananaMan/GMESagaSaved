@@ -1,6 +1,6 @@
-#Title: The Dollar Endgame PART 2 “The Ouroboros”
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/)
+# Title: The Dollar Endgame PART 2 “The Ouroboros”
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/)
 
 
 Apes, this is a continuation of my Dollar Endgame Series. You can find Part 1 [here](https://www.reddit.com/r/Superstonk/comments/o4vzau/hyperinflation_is_coming_the_dollar_endgame_part/).

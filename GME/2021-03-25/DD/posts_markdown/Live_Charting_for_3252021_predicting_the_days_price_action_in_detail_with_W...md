@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/25/2021, predicting the day's price action in detail with Warden. The calm before the storm.
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/)
+# Title: Live Charting for 3/25/2021, predicting the day's price action in detail with Warden. The calm before the storm.
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.

@@ -1,6 +1,6 @@
-#Title: GME Min Margin Requirement as of today
-#Author: HumblestUser
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nn6qox/gme_min_margin_requirement_as_of_today/](https://www.reddit.com/r/DDintoGME/comments/nn6qox/gme_min_margin_requirement_as_of_today/)
+# Title: GME Min Margin Requirement as of today
+# Author: HumblestUser
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nn6qox/gme_min_margin_requirement_as_of_today/](https://www.reddit.com/r/DDintoGME/comments/nn6qox/gme_min_margin_requirement_as_of_today/)
 
 
 Was curious how much Hedgie money is currently locked up in their margin accounts these days.  Depending on how heavily they shorted, they need at least as much as the last column in their accounts or else they will be margin called.  Figured I would share.

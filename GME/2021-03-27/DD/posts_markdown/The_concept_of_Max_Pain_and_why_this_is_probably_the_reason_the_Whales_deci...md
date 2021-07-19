@@ -1,6 +1,6 @@
-#Title: The concept of 'Max Pain' and why this is probably the reason the 'Whales' decided to not push up the price on Friday after they met resistance. They wanted to inflict the maximum pain on shorts while spending the least amount of money. way to rub 🧂 in the wound! 💎✋🚀🚀🚀
-#Author: Cuttingwater_
-#Post URL: [https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/](https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/)
+# Title: The concept of 'Max Pain' and why this is probably the reason the 'Whales' decided to not push up the price on Friday after they met resistance. They wanted to inflict the maximum pain on shorts while spending the least amount of money. way to rub 🧂 in the wound! 💎✋🚀🚀🚀
+# Author: Cuttingwater_
+# Post URL: [https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/](https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/)
 
 
 Hello my fellow Apes 🦍🦍🦍,

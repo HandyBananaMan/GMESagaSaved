@@ -1,6 +1,6 @@
-#Title: The total number of shares might be above 283 Mio. based on official data released by the Dutch Authority for Financial Markets
-#Author: buuri
-#Post URL: [https://www.reddit.com/r/GME/comments/nwnjiq/the_total_number_of_shares_might_be_above_283_mio/](https://www.reddit.com/r/GME/comments/nwnjiq/the_total_number_of_shares_might_be_above_283_mio/)
+# Title: The total number of shares might be above 283 Mio. based on official data released by the Dutch Authority for Financial Markets
+# Author: buuri
+# Post URL: [https://www.reddit.com/r/GME/comments/nwnjiq/the_total_number_of_shares_might_be_above_283_mio/](https://www.reddit.com/r/GME/comments/nwnjiq/the_total_number_of_shares_might_be_above_283_mio/)
 
 
 **TL;DR: I estimated the total number of shares to be 283.199.842 or higher based on official data from the dutch financial authority and bloomberg data. The estimate is conservative.** 

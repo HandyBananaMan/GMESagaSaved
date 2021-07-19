@@ -1,6 +1,6 @@
-#Title: Complete DD collection PDF! Save locally before it gets deleted!
-#Author: Timatora
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/om2g72/complete_dd_collection_pdf_save_locally_before_it/](https://www.reddit.com/r/Superstonk/comments/om2g72/complete_dd_collection_pdf_save_locally_before_it/)
+# Title: Complete DD collection PDF! Save locally before it gets deleted!
+# Author: Timatora
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/om2g72/complete_dd_collection_pdf_save_locally_before_it/](https://www.reddit.com/r/Superstonk/comments/om2g72/complete_dd_collection_pdf_save_locally_before_it/)
 
 
 Mods have crumbled, Shills have breached the walls.

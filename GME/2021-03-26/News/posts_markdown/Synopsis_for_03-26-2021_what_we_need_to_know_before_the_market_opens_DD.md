@@ -1,6 +1,6 @@
-#Title: Synopsis for 03-26-2021 what we need to know before the market opens DD
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/)
+# Title: Synopsis for 03-26-2021 what we need to know before the market opens DD
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,

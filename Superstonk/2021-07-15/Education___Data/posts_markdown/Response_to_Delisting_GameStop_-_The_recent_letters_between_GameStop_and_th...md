@@ -1,6 +1,6 @@
-#Title: Response to "Delisting GameStop - The recent letters between GameStop and the SEC"
-#Author: Kintsugi2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okyfpm/response_to_delisting_gamestop_the_recent_letters/](https://www.reddit.com/r/Superstonk/comments/okyfpm/response_to_delisting_gamestop_the_recent_letters/)
+# Title: Response to "Delisting GameStop - The recent letters between GameStop and the SEC"
+# Author: Kintsugi2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okyfpm/response_to_delisting_gamestop_the_recent_letters/](https://www.reddit.com/r/Superstonk/comments/okyfpm/response_to_delisting_gamestop_the_recent_letters/)
 
 
 Per the character limit, I decided to make my own post to get this across to everyone. This is in regards to this post: https://www.reddit.com/r/Superstonk/comments/okxio7/delisting_gamestop_the_recent_letters_between/

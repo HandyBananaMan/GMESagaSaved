@@ -1,6 +1,6 @@
-#Title: UPDATE (3/5): $162.5 Million of DEEP ITM GME CALLS have been purchased since 3/1(Monday) NEW DD!
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/lylvrb/update_35_1625_million_of_deep_itm_gme_calls_have/](https://www.reddit.com/r/GME/comments/lylvrb/update_35_1625_million_of_deep_itm_gme_calls_have/)
+# Title: UPDATE (3/5): $162.5 Million of DEEP ITM GME CALLS have been purchased since 3/1(Monday) NEW DD!
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/lylvrb/update_35_1625_million_of_deep_itm_gme_calls_have/](https://www.reddit.com/r/GME/comments/lylvrb/update_35_1625_million_of_deep_itm_gme_calls_have/)
 
 
 Salutations Future 1% Apes,

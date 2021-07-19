@@ -1,6 +1,6 @@
-#Title: DTCC New Proposed Rule Change - DTC-2021-005!
-#Author: ChippThaRipp
-#Post URL: [https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/](https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/)
+# Title: DTCC New Proposed Rule Change - DTC-2021-005!
+# Author: ChippThaRipp
+# Post URL: [https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/](https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/)
 
 
 Document can be found here:

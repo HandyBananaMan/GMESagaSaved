@@ -1,6 +1,6 @@
-#Title: Over 7,000 resumes including the words "hedge fund" are listed on Indeed, with many being updated within the last month. We can gain valuable insight into hedgies corporate climate, as well as forecasting potential sweeping changes. We can possibly see hedge funds collapsing before it is announced.
-#Author: SilkKringle
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/](https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/)
+# Title: Over 7,000 resumes including the words "hedge fund" are listed on Indeed, with many being updated within the last month. We can gain valuable insight into hedgies corporate climate, as well as forecasting potential sweeping changes. We can possibly see hedge funds collapsing before it is announced.
+# Author: SilkKringle
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/](https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/)
 
 
 Hey ya'll, congrats on hodling through another week. You are stronger than you know, and we will all come out of this mess blessed.

@@ -1,6 +1,6 @@
-#Title: Options Subreddit is going crazy working out WTF is going on with the GME price
-#Author: theprufeshanul
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxdbo8/options_subreddit_is_going_crazy_working_out_wtf/](https://www.reddit.com/r/Superstonk/comments/nxdbo8/options_subreddit_is_going_crazy_working_out_wtf/)
+# Title: Options Subreddit is going crazy working out WTF is going on with the GME price
+# Author: theprufeshanul
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxdbo8/options_subreddit_is_going_crazy_working_out_wtf/](https://www.reddit.com/r/Superstonk/comments/nxdbo8/options_subreddit_is_going_crazy_working_out_wtf/)
 
 
 &#x200B;

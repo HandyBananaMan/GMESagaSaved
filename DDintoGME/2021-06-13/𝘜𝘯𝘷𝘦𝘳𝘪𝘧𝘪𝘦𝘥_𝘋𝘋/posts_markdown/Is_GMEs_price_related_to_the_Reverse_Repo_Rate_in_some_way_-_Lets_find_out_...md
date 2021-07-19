@@ -1,6 +1,6 @@
-#Title: Is GME's price related to the Reverse Repo Rate in some way? - Lets find out! - Brought to you by the Superstonk Quants 🦍👨‍💻🧐🚀
-#Author: orangecatmasterrace
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/](https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/)
+# Title: Is GME's price related to the Reverse Repo Rate in some way? - Lets find out! - Brought to you by the Superstonk Quants 🦍👨‍💻🧐🚀
+# Author: orangecatmasterrace
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/](https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/)
 
 
 Hi everyone! I'm u/orangecatmasterrace \- a longtime reddit lurker, but I've been involved in GME since January. I'm posting here as I don't yet have enough karma to post directly to r/Superstonk. I wanted to share an analysis that I, along with the incredibly talented apes at [Superstonk Quants](https://www.superstonkquant.org/) pulled together over the past couple days. We're the group that initially banded together to aid u/HomeDepotHank69 in his [quest for data-driven DD](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/?utm_source=share&utm_medium=web2x&context=3).

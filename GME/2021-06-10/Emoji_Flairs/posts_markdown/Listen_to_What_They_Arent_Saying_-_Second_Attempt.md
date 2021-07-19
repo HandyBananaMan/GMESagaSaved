@@ -1,6 +1,6 @@
-#Title: Listen to What They Aren’t Saying - Second Attempt
-#Author: Wammy4U2
-#Post URL: [https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/](https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/)
+# Title: Listen to What They Aren’t Saying - Second Attempt
+# Author: Wammy4U2
+# Post URL: [https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/](https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/)
 
 
 I made a comment earlier and people responded saying this belonged as it’s own post. And I got one bit of FUD in response that led me to do a bit more digging. So here is a very small, smooth brained bit of DD that should be easy to verify.

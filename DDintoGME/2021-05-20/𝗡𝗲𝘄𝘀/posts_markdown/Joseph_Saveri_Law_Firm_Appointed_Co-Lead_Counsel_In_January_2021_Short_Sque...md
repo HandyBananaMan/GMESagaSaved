@@ -1,6 +1,6 @@
-#Title: Joseph Saveri Law Firm Appointed Co-Lead Counsel In January 2021 Short Squeeze Trading Litigation
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/](https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/)
+# Title: Joseph Saveri Law Firm Appointed Co-Lead Counsel In January 2021 Short Squeeze Trading Litigation
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/](https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/)
 
 
 \--- Start of article (link to it posted at the end; Defendants, 35 of them, also listed) ---

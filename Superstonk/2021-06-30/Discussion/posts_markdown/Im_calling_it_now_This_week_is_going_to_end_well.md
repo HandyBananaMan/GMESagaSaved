@@ -1,6 +1,6 @@
-#Title: I'm calling it now. This week is going to end well.
-#Author: InvestmentOracle
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oatbcn/im_calling_it_now_this_week_is_going_to_end_well/](https://www.reddit.com/r/Superstonk/comments/oatbcn/im_calling_it_now_this_week_is_going_to_end_well/)
+# Title: I'm calling it now. This week is going to end well.
+# Author: InvestmentOracle
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oatbcn/im_calling_it_now_this_week_is_going_to_end_well/](https://www.reddit.com/r/Superstonk/comments/oatbcn/im_calling_it_now_this_week_is_going_to_end_well/)
 
 
 This is complete speculation, please take this all with a grain of salt, and no dates… but…

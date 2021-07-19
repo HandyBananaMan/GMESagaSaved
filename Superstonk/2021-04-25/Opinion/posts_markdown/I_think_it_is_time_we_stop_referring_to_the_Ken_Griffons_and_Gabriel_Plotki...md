@@ -1,6 +1,6 @@
-#Title: I think it is time we stop referring to the Ken Griffons and Gabriel Plotkins as short-sellers. These people have resolved to wreck companies, and now possibly the US economy via shorting treasuries. They are economic terrorists and I think it is time we refer to them as such.
-#Author: untouchable_0
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myf9yt/i_think_it_is_time_we_stop_referring_to_the_ken/](https://www.reddit.com/r/Superstonk/comments/myf9yt/i_think_it_is_time_we_stop_referring_to_the_ken/)
+# Title: I think it is time we stop referring to the Ken Griffons and Gabriel Plotkins as short-sellers. These people have resolved to wreck companies, and now possibly the US economy via shorting treasuries. They are economic terrorists and I think it is time we refer to them as such.
+# Author: untouchable_0
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myf9yt/i_think_it_is_time_we_stop_referring_to_the_ken/](https://www.reddit.com/r/Superstonk/comments/myf9yt/i_think_it_is_time_we_stop_referring_to_the_ken/)
 
 
 I really hope this catches on, because these people seem to be fine wrecking the economy and only get away with fines.  But maybe that is our fault for calling them businessmen.  Let's take control of the narrative here.  These men destroyed companies.  They indirectly let to people dying from unemployment.  They paid for laws to be passed so they can destroy the dollar and get away with it.  Maybe we start referring to them as economic terrorist, since that is what they are.  They control the narrative because they pay for it.  They show fear to get laws passed to favor them.  They bribe politicians.  These people are terrorists so let's refer to them as such.

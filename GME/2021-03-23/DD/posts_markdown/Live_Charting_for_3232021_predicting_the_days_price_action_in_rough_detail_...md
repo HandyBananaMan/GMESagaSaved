@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/23/2021, predicting the day's price action in (rough) detail with Warden. Midterms edition.
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/mbepx2/live_charting_for_3232021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mbepx2/live_charting_for_3232021_predicting_the_days/)
+# Title: Live Charting for 3/23/2021, predicting the day's price action in (rough) detail with Warden. Midterms edition.
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/mbepx2/live_charting_for_3232021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mbepx2/live_charting_for_3232021_predicting_the_days/)
 
 
 &#x200B;

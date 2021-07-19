@@ -1,6 +1,6 @@
-#Title: If you want the legislation changed to more accurately reflect true Short Interest and FTDs here's your opportunity.
-#Author: FeedbackSpecific642
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/om55z9/if_you_want_the_legislation_changed_to_more/](https://www.reddit.com/r/DDintoGME/comments/om55z9/if_you_want_the_legislation_changed_to_more/)
+# Title: If you want the legislation changed to more accurately reflect true Short Interest and FTDs here's your opportunity.
+# Author: FeedbackSpecific642
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/om55z9/if_you_want_the_legislation_changed_to_more/](https://www.reddit.com/r/DDintoGME/comments/om55z9/if_you_want_the_legislation_changed_to_more/)
 
 
  

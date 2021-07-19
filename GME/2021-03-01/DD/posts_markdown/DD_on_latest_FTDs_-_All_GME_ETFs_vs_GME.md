@@ -1,6 +1,6 @@
-#Title: DD on latest FTDs - All $GME ETFs vs $GME
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/](https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/)
+# Title: DD on latest FTDs - All $GME ETFs vs $GME
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/](https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/)
 
 
 **Data**

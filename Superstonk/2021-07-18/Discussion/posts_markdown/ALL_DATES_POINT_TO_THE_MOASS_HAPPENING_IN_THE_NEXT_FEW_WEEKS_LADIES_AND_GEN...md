@@ -1,6 +1,6 @@
-#Title: ALL DATES POINT TO THE MOASS HAPPENING IN THE NEXT FEW WEEKS. LADIES AND GENTLEMEN, GET READY FOR TAKE OFF 🚀🚀🚀
-#Author: johnwithcheese
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omzqub/all_dates_point_to_the_moass_happening_in_the/](https://www.reddit.com/r/Superstonk/comments/omzqub/all_dates_point_to_the_moass_happening_in_the/)
+# Title: ALL DATES POINT TO THE MOASS HAPPENING IN THE NEXT FEW WEEKS. LADIES AND GENTLEMEN, GET READY FOR TAKE OFF 🚀🚀🚀
+# Author: johnwithcheese
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omzqub/all_dates_point_to_the_moass_happening_in_the/](https://www.reddit.com/r/Superstonk/comments/omzqub/all_dates_point_to_the_moass_happening_in_the/)
 
 
 July 9th - July 16th we’re almost the same as May 5th - May 12th , which was the last bullish movement. Edit: link removed due to automod 

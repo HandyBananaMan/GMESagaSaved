@@ -1,6 +1,6 @@
-#Title: Using Maths and the to estimate the real SI and the total number of shares shorted
-#Author: ThrilHouse83
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/](https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/)
+# Title: Using Maths and the to estimate the real SI and the total number of shares shorted
+# Author: ThrilHouse83
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/](https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/)
 
 
 Hi all, I wanted to repost this fantastic DD from yesterday that seems to have gotten completely lost in the avalanche of karma farming lego meme's. All credit goes to [u/nydus\_erdos](https://www.reddit.com/user/nydus_erdos/). This is part two of his series, both posts are top tier IMO and deserve more love. You can find them here:

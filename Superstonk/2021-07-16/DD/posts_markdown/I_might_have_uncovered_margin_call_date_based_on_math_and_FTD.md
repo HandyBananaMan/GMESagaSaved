@@ -1,6 +1,6 @@
-#Title: I might have uncovered margin call date based on math and FTD
-#Author: xLuminus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olt8fm/i_might_have_uncovered_margin_call_date_based_on/](https://www.reddit.com/r/Superstonk/comments/olt8fm/i_might_have_uncovered_margin_call_date_based_on/)
+# Title: I might have uncovered margin call date based on math and FTD
+# Author: xLuminus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olt8fm/i_might_have_uncovered_margin_call_date_based_on/](https://www.reddit.com/r/Superstonk/comments/olt8fm/i_might_have_uncovered_margin_call_date_based_on/)
 
 
 Let's head right into it.So the first ever T+35 occured on 25th January 2021.Counting back these 35 calender days that shouldve started at 21st December 2020. (FTD)

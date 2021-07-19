@@ -1,6 +1,6 @@
-#Title: ⚠️ Your Votes Are IMPORTANT. The Time To Vote Is NOW ⚠️
-#Author: Nauaf101
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/](https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/)
+# Title: ⚠️ Your Votes Are IMPORTANT. The Time To Vote Is NOW ⚠️
+# Author: Nauaf101
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/](https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/)
 
 
 Heya Stonkers!

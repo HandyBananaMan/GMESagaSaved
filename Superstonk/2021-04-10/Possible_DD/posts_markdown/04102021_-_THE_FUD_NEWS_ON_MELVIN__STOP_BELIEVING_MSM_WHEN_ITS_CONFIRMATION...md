@@ -1,6 +1,6 @@
-#Title: 04/10/2021 - THE FUD NEWS ON MELVIN – STOP BELIEVING MSM WHEN ITS CONFIRMATION BIAS – DAILY FUD REPORT
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mo038k/04102021_the_fud_news_on_melvin_stop_believing/](https://www.reddit.com/r/Superstonk/comments/mo038k/04102021_the_fud_news_on_melvin_stop_believing/)
+# Title: 04/10/2021 - THE FUD NEWS ON MELVIN – STOP BELIEVING MSM WHEN ITS CONFIRMATION BIAS – DAILY FUD REPORT
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mo038k/04102021_the_fud_news_on_melvin_stop_believing/](https://www.reddit.com/r/Superstonk/comments/mo038k/04102021_the_fud_news_on_melvin_stop_believing/)
 
 
 **Edit -** [04/11/2021 - The Fake Squeeze theory - Daily FUD Report](https://www.reddit.com/r/Superstonk/comments/moldpw/11042021_the_fake_squeeze_explained_ive_set_out/) \- I've decided to go in depth a little more on the fake squeeze theory in 'tomorrows' FUD report.

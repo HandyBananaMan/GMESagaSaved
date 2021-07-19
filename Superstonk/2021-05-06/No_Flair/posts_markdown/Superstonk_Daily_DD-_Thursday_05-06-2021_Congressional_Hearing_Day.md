@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Thursday 05-06-2021 Congressional Hearing Day!! 🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/](https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/)
+# Title: Superstonk Daily DD- Thursday 05-06-2021 Congressional Hearing Day!! 🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/](https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/)
 
 
 *Sorry y'all I'm still figuring out titles! I'll use this title format from now on to make it easier to find!!*

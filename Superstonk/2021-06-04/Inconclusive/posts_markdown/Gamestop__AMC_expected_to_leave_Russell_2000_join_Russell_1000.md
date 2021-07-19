@@ -1,6 +1,6 @@
-#Title: Gamestop & AMC expected to leave Russell 2000, join Russell 1000.
-#Author: jacobbomb
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsfq6l/gamestop_amc_expected_to_leave_russell_2000_join/](https://www.reddit.com/r/Superstonk/comments/nsfq6l/gamestop_amc_expected_to_leave_russell_2000_join/)
+# Title: Gamestop & AMC expected to leave Russell 2000, join Russell 1000.
+# Author: jacobbomb
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsfq6l/gamestop_amc_expected_to_leave_russell_2000_join/](https://www.reddit.com/r/Superstonk/comments/nsfq6l/gamestop_amc_expected_to_leave_russell_2000_join/)
 
 
 Update #3: One ape has [shared](https://www.reddit.com/r/Superstonk/comments/nsfq6l/gamestop_amc_expected_to_leave_russell_2000_join/h0n7grn/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3) that it looks like GME has been removed from the microcap index. Now we await news on changes to the Russell 1000 & 2000. 

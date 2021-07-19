@@ -1,6 +1,6 @@
-#Title: SOMETHING BIG IS COMING! ROCKET ABOUR TO TAKE OFF! GET YOUR MOASS TICKETS IN 🚀 🚀🚀
-#Author: johnwithcheese
-#Post URL: [https://www.reddit.com/r/GME/comments/omzk0b/something_big_is_coming_rocket_abour_to_take_off/](https://www.reddit.com/r/GME/comments/omzk0b/something_big_is_coming_rocket_abour_to_take_off/)
+# Title: SOMETHING BIG IS COMING! ROCKET ABOUR TO TAKE OFF! GET YOUR MOASS TICKETS IN 🚀 🚀🚀
+# Author: johnwithcheese
+# Post URL: [https://www.reddit.com/r/GME/comments/omzk0b/something_big_is_coming_rocket_abour_to_take_off/](https://www.reddit.com/r/GME/comments/omzk0b/something_big_is_coming_rocket_abour_to_take_off/)
 
 
 [July 9th - July 16th we’re almost the same as May 5th - May 12th , which was the last bullish movement. ](https://www.reddit.com/r/DDintoGME/comments/omnpzw/july_916_and_may_512_they_are_the_same_picture_oh/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)

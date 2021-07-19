@@ -1,6 +1,6 @@
-#Title: DRAFT: I have done my best to summarize the GME MOASS Thesis in a way that hopefully appeals to individuals outside of this community. I was thinking about reposting before opening bell tomorrow with updates depending on feedback I get tonight. Intention is for it to be a starting point prior to DD
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/njln8o/draft_i_have_done_my_best_to_summarize_the_gme/](https://www.reddit.com/r/Superstonk/comments/njln8o/draft_i_have_done_my_best_to_summarize_the_gme/)
+# Title: DRAFT: I have done my best to summarize the GME MOASS Thesis in a way that hopefully appeals to individuals outside of this community. I was thinking about reposting before opening bell tomorrow with updates depending on feedback I get tonight. Intention is for it to be a starting point prior to DD
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/njln8o/draft_i_have_done_my_best_to_summarize_the_gme/](https://www.reddit.com/r/Superstonk/comments/njln8o/draft_i_have_done_my_best_to_summarize_the_gme/)
 
 
 Updated version - https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/?utm_medium=android_app&utm_source=share 

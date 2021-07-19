@@ -1,6 +1,6 @@
-#Title: Compilation of obvious violations by Hedge Funds and Market Makers during GME event.
-#Author: AgnostosTheosLogos
-#Post URL: [https://www.reddit.com/r/GME/comments/llswj6/compilation_of_obvious_violations_by_hedge_funds/](https://www.reddit.com/r/GME/comments/llswj6/compilation_of_obvious_violations_by_hedge_funds/)
+# Title: Compilation of obvious violations by Hedge Funds and Market Makers during GME event.
+# Author: AgnostosTheosLogos
+# Post URL: [https://www.reddit.com/r/GME/comments/llswj6/compilation_of_obvious_violations_by_hedge_funds/](https://www.reddit.com/r/GME/comments/llswj6/compilation_of_obvious_violations_by_hedge_funds/)
 
 
 This is a list of the most obvious regulatory and legal violations involved in the GME event for informational purposes.

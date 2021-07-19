@@ -1,6 +1,6 @@
-#Title: Today's price action was Shitadel & Co's counter DD. It's a desperate move that only further confirms they're trying to rig the game and manufacture stories to get out of a deep dung hole.
-#Author: zenquest
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o7ehyd/todays_price_action_was_shitadel_cos_counter_dd/](https://www.reddit.com/r/DDintoGME/comments/o7ehyd/todays_price_action_was_shitadel_cos_counter_dd/)
+# Title: Today's price action was Shitadel & Co's counter DD. It's a desperate move that only further confirms they're trying to rig the game and manufacture stories to get out of a deep dung hole.
+# Author: zenquest
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o7ehyd/todays_price_action_was_shitadel_cos_counter_dd/](https://www.reddit.com/r/DDintoGME/comments/o7ehyd/todays_price_action_was_shitadel_cos_counter_dd/)
 
 
 * Today's price action was a desperate attempt to disprove cycles (T+35/T+21) and impact of NSCC-002 rule

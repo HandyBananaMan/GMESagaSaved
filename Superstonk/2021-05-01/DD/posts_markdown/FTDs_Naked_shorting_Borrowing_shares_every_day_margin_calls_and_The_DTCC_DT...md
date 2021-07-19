@@ -1,6 +1,6 @@
-#Title: FTDs, Naked shorting, Borrowing shares (every day), margin calls and The DTCC, DTC & NSCC - FOR DUMMIES (Part I)
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n2nhgw/ftds_naked_shorting_borrowing_shares_every_day/](https://www.reddit.com/r/Superstonk/comments/n2nhgw/ftds_naked_shorting_borrowing_shares_every_day/)
+# Title: FTDs, Naked shorting, Borrowing shares (every day), margin calls and The DTCC, DTC & NSCC - FOR DUMMIES (Part I)
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2nhgw/ftds_naked_shorting_borrowing_shares_every_day/](https://www.reddit.com/r/Superstonk/comments/n2nhgw/ftds_naked_shorting_borrowing_shares_every_day/)
 
 
 **TL;DR: HFs are naked shorting GME over and over. They are failing to deliver, which forces the NSCC to borrow shares from other participants to ensure the trade is completed by T+3. This is why you see shares disappear each day. It's not HFs, it's the NSCC borrowing them to ensure the trade is completed for buyers.**

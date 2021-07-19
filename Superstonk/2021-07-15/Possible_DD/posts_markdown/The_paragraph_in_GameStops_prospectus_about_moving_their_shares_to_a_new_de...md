@@ -1,6 +1,6 @@
-#Title: The paragraph in GameStop's prospectus about moving their shares to a new depository after 90 days is not unique to GameStop, I found the same paragraph in 44 recent filings on EDGAR
-#Author: GreedyJester
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okw558/the_paragraph_in_gamestops_prospectus_about/](https://www.reddit.com/r/Superstonk/comments/okw558/the_paragraph_in_gamestops_prospectus_about/)
+# Title: The paragraph in GameStop's prospectus about moving their shares to a new depository after 90 days is not unique to GameStop, I found the same paragraph in 44 recent filings on EDGAR
+# Author: GreedyJester
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okw558/the_paragraph_in_gamestops_prospectus_about/](https://www.reddit.com/r/Superstonk/comments/okw558/the_paragraph_in_gamestops_prospectus_about/)
 
 
 The paragraph in question was included the Gamestop's 424B5 Prospectus and has garnered a lot of attention lately, [it can be found at the top of page 16 of their 424B5 prospectus filed on June 9, 2021](https://www.sec.gov/Archives/edgar/data/1326380/000119312521186796/d192873d424b5.htm). It reads:

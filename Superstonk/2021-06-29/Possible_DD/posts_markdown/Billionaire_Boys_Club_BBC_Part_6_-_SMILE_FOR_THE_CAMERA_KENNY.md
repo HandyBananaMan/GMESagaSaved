@@ -1,6 +1,6 @@
-#Title: Billionaire Boys Club (BBC) Part 6 - SMILE FOR THE CAMERA KENNY...
-#Author: BadassTrader
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8ynd/billionaire_boys_club_bbc_part_6_smile_for_the/](https://www.reddit.com/r/Superstonk/comments/oa8ynd/billionaire_boys_club_bbc_part_6_smile_for_the/)
+# Title: Billionaire Boys Club (BBC) Part 6 - SMILE FOR THE CAMERA KENNY...
+# Author: BadassTrader
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8ynd/billionaire_boys_club_bbc_part_6_smile_for_the/](https://www.reddit.com/r/Superstonk/comments/oa8ynd/billionaire_boys_club_bbc_part_6_smile_for_the/)
 
 
  

@@ -1,6 +1,6 @@
-#Title: Synopsis for 05-11-2021 DD that's not DD but DDing in the D's for DD-juice
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/](https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/)
+# Title: Synopsis for 05-11-2021 DD that's not DD but DDing in the D's for DD-juice
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/](https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/)
 
 
 Good morning San Diago,

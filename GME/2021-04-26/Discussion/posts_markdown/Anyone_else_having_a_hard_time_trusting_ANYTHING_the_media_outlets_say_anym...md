@@ -1,6 +1,6 @@
-#Title: Anyone else having a hard time trusting ANYTHING the media outlets say anymore after learning about all the collusion and manipulation of our beloved meme stonks?
-#Author: MrAaronBaron
-#Post URL: [https://www.reddit.com/r/GME/comments/myql7i/anyone_else_having_a_hard_time_trusting_anything/](https://www.reddit.com/r/GME/comments/myql7i/anyone_else_having_a_hard_time_trusting_anything/)
+# Title: Anyone else having a hard time trusting ANYTHING the media outlets say anymore after learning about all the collusion and manipulation of our beloved meme stonks?
+# Author: MrAaronBaron
+# Post URL: [https://www.reddit.com/r/GME/comments/myql7i/anyone_else_having_a_hard_time_trusting_anything/](https://www.reddit.com/r/GME/comments/myql7i/anyone_else_having_a_hard_time_trusting_anything/)
 
 
 I mean, I used to try to take everything with a grain of salt, but now I just straight up can't trust anything I read anymore. Each side is so well worded its no wonder we have such a divide between us.

@@ -1,6 +1,6 @@
-#Title: The DTC and Its Subsidiaries (DTCC & NSCC) is Complicit in the Robbing of America
-#Author: Ninblades
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/](https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/)
+# Title: The DTC and Its Subsidiaries (DTCC & NSCC) is Complicit in the Robbing of America
+# Author: Ninblades
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/](https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/)
 
 
 First of all, this is not financial advice. I am just a crayon-chewing ape like many of you, but I did have experience in the financial services industry and I just have to say how impressed I am with the sheer amount of quality DD & financial analyses you apes do. It would make the most senior analysts on Wall Street hang their heads in shame. As many of you fellow apes have been aware,  Dr. Susanne Trimbath raised the alarm regarding the dangers of FTDs and naked short selling wayy back and wrote a pretty good book about it (highly recommend you check it out, there's lots of posts covering it already) while she was a manager/director at the DTCC.

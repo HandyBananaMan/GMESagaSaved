@@ -1,6 +1,6 @@
-#Title: Ryan Cohen knows the FTD Cycle! He been tweeting the right time and my tits are jacked!
-#Author: Mammoth-Priority-516
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6sbu4/ryan_cohen_knows_the_ftd_cycle_he_been_tweeting/](https://www.reddit.com/r/Superstonk/comments/o6sbu4/ryan_cohen_knows_the_ftd_cycle_he_been_tweeting/)
+# Title: Ryan Cohen knows the FTD Cycle! He been tweeting the right time and my tits are jacked!
+# Author: Mammoth-Priority-516
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6sbu4/ryan_cohen_knows_the_ftd_cycle_he_been_tweeting/](https://www.reddit.com/r/Superstonk/comments/o6sbu4/ryan_cohen_knows_the_ftd_cycle_he_been_tweeting/)
 
 
 Ryan Cohen just tweeted and I am not gonna link it because I am sure y’all saw it. Remember last Ftd cycle? Ryan tweeted the guy floating with a boner and on the night of the ftd cycle?! Yeah?! Gme went from 180 to 344! Remember the ice cream cone tweet In feb? Gme went from 40 to 200! Remember the peanut tweet? That was just before gme went from 20 to 500 plus!  Check the dates and tell me he doesn’t know the cycle! Buckle up apes!🚀🚀🚀🚀🚀🚀🚀

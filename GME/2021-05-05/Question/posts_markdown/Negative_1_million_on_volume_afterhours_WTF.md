@@ -1,6 +1,6 @@
-#Title: Negative 1 million on volume afterhours?? WTF
-#Author: SpeedReactor
-#Post URL: [https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/](https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/)
+# Title: Negative 1 million on volume afterhours?? WTF
+# Author: SpeedReactor
+# Post URL: [https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/](https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/)
 
 
 Ok I have no idea what this is but need share it. I will do some digging to see what this "glitch" is. But it totally messed my charts for the day and at first glance should not be possible?? Unless we are deleting shares now?

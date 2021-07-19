@@ -1,6 +1,6 @@
-#Title: The Catastrophic Correlation Between Union Bank, Morgan Stanley, and Archegos Capital.
-#Author: anongmeholder
-#Post URL: [https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/](https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/)
+# Title: The Catastrophic Correlation Between Union Bank, Morgan Stanley, and Archegos Capital.
+# Author: anongmeholder
+# Post URL: [https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/](https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/)
 
 
  So today we saw that Union Bank had confirmed to closing over 400 locations. This can be seen through the following post: [https://www.reddit.com/r/Superstonk/comments/mv6k4z/union\_bank\_confirms\_emergency\_closing\_of\_over\_400/](https://www.reddit.com/r/Superstonk/comments/mv6k4z/union_bank_confirms_emergency_closing_of_over_400/)

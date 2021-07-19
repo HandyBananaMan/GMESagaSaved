@@ -1,6 +1,6 @@
-#Title: FINTEL Short Data Altered for GME & AMC
-#Author: TowelFine6933
-#Post URL: [https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/](https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/)
+# Title: FINTEL Short Data Altered for GME & AMC
+# Author: TowelFine6933
+# Post URL: [https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/](https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/)
 
 
 UPDATED ON FEB 16, 2021

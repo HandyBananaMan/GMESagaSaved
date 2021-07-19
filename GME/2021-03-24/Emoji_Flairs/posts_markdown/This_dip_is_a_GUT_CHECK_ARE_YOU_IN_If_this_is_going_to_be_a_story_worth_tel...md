@@ -1,6 +1,6 @@
-#Title: This dip is a GUT CHECK. ARE YOU IN? If this is going to be a story worth telling your kids about someday, its going to have to be something where you stared fear in the face, and decided to persevere, and STAY IN THE FIGHT.
-#Author: mnpc
-#Post URL: [https://www.reddit.com/r/GME/comments/mc6mpl/this_dip_is_a_gut_check_are_you_in_if_this_is/](https://www.reddit.com/r/GME/comments/mc6mpl/this_dip_is_a_gut_check_are_you_in_if_this_is/)
+# Title: This dip is a GUT CHECK. ARE YOU IN? If this is going to be a story worth telling your kids about someday, its going to have to be something where you stared fear in the face, and decided to persevere, and STAY IN THE FIGHT.
+# Author: mnpc
+# Post URL: [https://www.reddit.com/r/GME/comments/mc6mpl/this_dip_is_a_gut_check_are_you_in_if_this_is/](https://www.reddit.com/r/GME/comments/mc6mpl/this_dip_is_a_gut_check_are_you_in_if_this_is/)
 
 
 I would rather:

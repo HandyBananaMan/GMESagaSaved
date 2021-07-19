@@ -1,6 +1,6 @@
-#Title: Greetings, Apes. Let's clarify some things about average trade sizes, transactions reporting, and the FINRA ADF.
-#Author: MarketMicrostructure
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/](https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/)
+# Title: Greetings, Apes. Let's clarify some things about average trade sizes, transactions reporting, and the FINRA ADF.
+# Author: MarketMicrostructure
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/](https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/)
 
 
 Hello Apes,

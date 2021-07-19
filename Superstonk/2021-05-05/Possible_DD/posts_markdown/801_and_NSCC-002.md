@@ -1,6 +1,6 @@
-#Title: 801 and NSCC-002
-#Author: MoonTellsMeASecret
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/](https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/)
+# Title: 801 and NSCC-002
+# Author: MoonTellsMeASecret
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/](https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/)
 
 
 CREDIT TO u/FATJUUL FOR STRUCTURE AND INFO

@@ -1,6 +1,6 @@
-#Title: OFFICIAL GAMESTOP SEC FILING ... SHORT SQUEEZE... MAY CONTINUE and ... to the extent aggregate short exposure EXCEEDS the number of shares available... investors WITH short exposure "MAY HAVE TO PAY A PREMIUM"
-#Author: ancient_wis
-#Post URL: [https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/)
+# Title: OFFICIAL GAMESTOP SEC FILING ... SHORT SQUEEZE... MAY CONTINUE and ... to the extent aggregate short exposure EXCEEDS the number of shares available... investors WITH short exposure "MAY HAVE TO PAY A PREMIUM"
+# Author: ancient_wis
+# Post URL: [https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/)
 
 
 in case you missed it apes

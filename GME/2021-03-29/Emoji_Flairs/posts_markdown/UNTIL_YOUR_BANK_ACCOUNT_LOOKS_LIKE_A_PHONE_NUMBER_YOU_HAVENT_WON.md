@@ -1,6 +1,6 @@
-#Title: UNTIL YOUR BANK ACCOUNT LOOKS LIKE A PHONE NUMBER YOU HAVENT WON
-#Author: the-truth888
-#Post URL: [https://www.reddit.com/r/GME/comments/mfl3ww/until_your_bank_account_looks_like_a_phone_number/](https://www.reddit.com/r/GME/comments/mfl3ww/until_your_bank_account_looks_like_a_phone_number/)
+# Title: UNTIL YOUR BANK ACCOUNT LOOKS LIKE A PHONE NUMBER YOU HAVENT WON
+# Author: the-truth888
+# Post URL: [https://www.reddit.com/r/GME/comments/mfl3ww/until_your_bank_account_looks_like_a_phone_number/](https://www.reddit.com/r/GME/comments/mfl3ww/until_your_bank_account_looks_like_a_phone_number/)
 
 
 HODL. HODL. HODL. 

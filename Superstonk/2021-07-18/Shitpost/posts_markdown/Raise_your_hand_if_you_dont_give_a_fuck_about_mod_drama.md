@@ -1,6 +1,6 @@
-#Title: Raise your hand if you don't give a fuck about mod drama
-#Author: headguts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omp2s6/raise_your_hand_if_you_dont_give_a_fuck_about_mod/](https://www.reddit.com/r/Superstonk/comments/omp2s6/raise_your_hand_if_you_dont_give_a_fuck_about_mod/)
+# Title: Raise your hand if you don't give a fuck about mod drama
+# Author: headguts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omp2s6/raise_your_hand_if_you_dont_give_a_fuck_about_mod/](https://www.reddit.com/r/Superstonk/comments/omp2s6/raise_your_hand_if_you_dont_give_a_fuck_about_mod/)
 
 
 Shills peddle FUD and verifiably false DD. If you like the stock and believe in the company /MOASS, You know it makes sense to buy and hodl.  

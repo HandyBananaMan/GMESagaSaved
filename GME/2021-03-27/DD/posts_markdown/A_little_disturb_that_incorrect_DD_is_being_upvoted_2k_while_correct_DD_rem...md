@@ -1,6 +1,6 @@
-#Title: A little disturb that incorrect DD is being upvoted 2k+ while correct DD remains buried
-#Author: Vic18t
-#Post URL: [https://www.reddit.com/r/GME/comments/me9yjg/a_little_disturb_that_incorrect_dd_is_being/](https://www.reddit.com/r/GME/comments/me9yjg/a_little_disturb_that_incorrect_dd_is_being/)
+# Title: A little disturb that incorrect DD is being upvoted 2k+ while correct DD remains buried
+# Author: Vic18t
+# Post URL: [https://www.reddit.com/r/GME/comments/me9yjg/a_little_disturb_that_incorrect_dd_is_being/](https://www.reddit.com/r/GME/comments/me9yjg/a_little_disturb_that_incorrect_dd_is_being/)
 
 
 I am all for positive news around GME but if we haven’t learned from the past, it’s that bad DD can be destructive. Please remember DD stands for due diligence; not a bra size.

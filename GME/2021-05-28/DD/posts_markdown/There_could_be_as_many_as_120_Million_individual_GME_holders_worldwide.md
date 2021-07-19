@@ -1,6 +1,6 @@
-#Title: There could be as many as 120 Million individual GME holders worldwide!
-#Author: harambe_go_brrr
-#Post URL: [https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/](https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/)
+# Title: There could be as many as 120 Million individual GME holders worldwide!
+# Author: harambe_go_brrr
+# Post URL: [https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/](https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/)
 
 
 **Edit: So it's been pointed out by a few in the comments that the 1.5% could be referring to the** **outstanding or overall float rather than the shareholders of GME. My reasoning that I don't think this is likely is that it does clearly say shareholders (although I could concede this is an error in wording)But my main issue with that argument is that 1.5% of the full 70mil float is only 1.05mil shares. eToro is the biggest broker in Europe and has 20 mil users.**

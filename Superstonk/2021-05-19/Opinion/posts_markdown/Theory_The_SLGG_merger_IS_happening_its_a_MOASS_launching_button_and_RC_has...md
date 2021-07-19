@@ -1,6 +1,6 @@
-#Title: Theory: The SLGG merger IS happening, it's a MOASS launching button and RC has been pointing it out for a long time (TODAY AS WELL ♥)
-#Author: pepsodont
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/](https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/)
+# Title: Theory: The SLGG merger IS happening, it's a MOASS launching button and RC has been pointing it out for a long time (TODAY AS WELL ♥)
+# Author: pepsodont
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/](https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/)
 
 
 I think it might be apparent from my posts now that I'm not wrinkle-brained in financials, chart reading and other ~~boring~~ important stuff but I like finding patterns. I've been working as a psychologist and a marketer for a long time, so believe me when I tell you there's a lot to be uncovered by understanding behavior patterns or just patterns of things that look unrelated, but really aren't.

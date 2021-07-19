@@ -1,6 +1,6 @@
-#Title: SEC Market Structure Data and GME Hidden Orders
-#Author: CruxHub
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/](https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/)
+# Title: SEC Market Structure Data and GME Hidden Orders
+# Author: CruxHub
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/](https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/)
 
 
 Fellow apes, I wanted to present a source of market data related to the trading of GME which I have not seen previously analyzed here. I am an infant ape when it comes to the complexities of market structures and specific trade types (I only know buy and hodl), however I thought this information - with a focus on "hidden" orders - would be of interest even in a basic form. This is not financial advice, I prefer the taste of green crayons over red and have typed this with my toes.

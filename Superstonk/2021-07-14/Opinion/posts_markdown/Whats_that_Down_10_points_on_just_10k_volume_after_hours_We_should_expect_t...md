@@ -1,6 +1,6 @@
-#Title: What's that? Down 10 points on just 10k volume after hours? We should expect their illegal moves to get more and more desperate as we approach the MOASS
-#Author: TingleTime
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okfpms/whats_that_down_10_points_on_just_10k_volume/](https://www.reddit.com/r/Superstonk/comments/okfpms/whats_that_down_10_points_on_just_10k_volume/)
+# Title: What's that? Down 10 points on just 10k volume after hours? We should expect their illegal moves to get more and more desperate as we approach the MOASS
+# Author: TingleTime
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okfpms/whats_that_down_10_points_on_just_10k_volume/](https://www.reddit.com/r/Superstonk/comments/okfpms/whats_that_down_10_points_on_just_10k_volume/)
 
 
 These are criminals we are dealing with. And sociopathic ones at that.

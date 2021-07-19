@@ -1,6 +1,6 @@
-#Title: Glacier Capital Letter To Investors states they opened a new short position on GME at $167
-#Author: tombq
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/neehh0/glacier_capital_letter_to_investors_states_they/](https://www.reddit.com/r/Superstonk/comments/neehh0/glacier_capital_letter_to_investors_states_they/)
+# Title: Glacier Capital Letter To Investors states they opened a new short position on GME at $167
+# Author: tombq
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/neehh0/glacier_capital_letter_to_investors_states_they/](https://www.reddit.com/r/Superstonk/comments/neehh0/glacier_capital_letter_to_investors_states_they/)
 
 
 More tendies for us apes, let's prove them wrong! 🚀🚀🚀

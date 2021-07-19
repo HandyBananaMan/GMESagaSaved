@@ -1,6 +1,6 @@
-#Title: New article: "Investors co-ordinating their purchases on Reddit’s WallStreetBets message board were able to drive up the share price of Gamestop." We are not coordinating a damn thing. I hold because hedge funds made a terrible bet, then doubled down on it, and they're going to pay me.
-#Author: hike_mo_often
-#Post URL: [https://www.reddit.com/r/GME/comments/mrmqwa/new_article_investors_coordinating_their/](https://www.reddit.com/r/GME/comments/mrmqwa/new_article_investors_coordinating_their/)
+# Title: New article: "Investors co-ordinating their purchases on Reddit’s WallStreetBets message board were able to drive up the share price of Gamestop." We are not coordinating a damn thing. I hold because hedge funds made a terrible bet, then doubled down on it, and they're going to pay me.
+# Author: hike_mo_often
+# Post URL: [https://www.reddit.com/r/GME/comments/mrmqwa/new_article_investors_coordinating_their/](https://www.reddit.com/r/GME/comments/mrmqwa/new_article_investors_coordinating_their/)
 
 
 Kenny G started pushing this narrative weeks ago, and now it's ramping up. I've seen several articles in the last 24 hours about how reddit is "coordinating" or "working together." We're not working together. Let's be honest. I don't care about your personal finances; I just want to get paid. I'm betting that the shorts haven't covered, and that's it. This media nonsense goes beyond libel against the people posting here.

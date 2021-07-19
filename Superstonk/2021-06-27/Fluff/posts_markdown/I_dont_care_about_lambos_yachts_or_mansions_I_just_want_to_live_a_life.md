@@ -1,6 +1,6 @@
-#Title: I don't care about lambos, yachts or mansions. I just want to live a life
-#Author: wedjhes
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o972ew/i_dont_care_about_lambos_yachts_or_mansions_i/](https://www.reddit.com/r/Superstonk/comments/o972ew/i_dont_care_about_lambos_yachts_or_mansions_i/)
+# Title: I don't care about lambos, yachts or mansions. I just want to live a life
+# Author: wedjhes
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o972ew/i_dont_care_about_lambos_yachts_or_mansions_i/](https://www.reddit.com/r/Superstonk/comments/o972ew/i_dont_care_about_lambos_yachts_or_mansions_i/)
 
 
 Sorry for clogging up the DD flow, ik some people really hate these kinds of posts but this sub is an amazing place and outlet for me. 

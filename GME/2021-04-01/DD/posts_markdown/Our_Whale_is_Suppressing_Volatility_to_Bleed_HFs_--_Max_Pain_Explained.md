@@ -1,6 +1,6 @@
-#Title: Our Whale is Suppressing Volatility to Bleed HFs -- Max Pain Explained
-#Author: JuxtaposeLife
-#Post URL: [https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/](https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/)
+# Title: Our Whale is Suppressing Volatility to Bleed HFs -- Max Pain Explained
+# Author: JuxtaposeLife
+# Post URL: [https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/](https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/)
 
 
 I'll keep this brief, I used up the last of my Adderall on that DD yesterday.

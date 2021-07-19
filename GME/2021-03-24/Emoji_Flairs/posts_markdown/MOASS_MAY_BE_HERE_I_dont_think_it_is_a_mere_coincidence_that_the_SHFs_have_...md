@@ -1,6 +1,6 @@
-#Title: MOASS MAY BE HERE!! I don’t think it is a mere coincidence that the SHFs have been apparently margin called effective tomorrow 3/24. Here’s why. Dont worry, It’s simple to draw in green crayon for my fellow apes!
-#Author: Altruistic_Prior1932
-#Post URL: [https://www.reddit.com/r/GME/comments/mbzwcd/moass_may_be_here_i_dont_think_it_is_a_mere/](https://www.reddit.com/r/GME/comments/mbzwcd/moass_may_be_here_i_dont_think_it_is_a_mere/)
+# Title: MOASS MAY BE HERE!! I don’t think it is a mere coincidence that the SHFs have been apparently margin called effective tomorrow 3/24. Here’s why. Dont worry, It’s simple to draw in green crayon for my fellow apes!
+# Author: Altruistic_Prior1932
+# Post URL: [https://www.reddit.com/r/GME/comments/mbzwcd/moass_may_be_here_i_dont_think_it_is_a_mere/](https://www.reddit.com/r/GME/comments/mbzwcd/moass_may_be_here_i_dont_think_it_is_a_mere/)
 
 
 MOASS may be here! 🚀 🚀 🚀 

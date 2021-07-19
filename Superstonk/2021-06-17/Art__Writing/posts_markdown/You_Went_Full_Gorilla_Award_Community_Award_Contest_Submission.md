@@ -1,3 +1,4 @@
+# Title: You Went Full Gorilla Award (Community Award Contest Submission)
 # Author: The3000MX
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o2280d/you_went_full_gorilla_award_community_award/](https://www.reddit.com/r/Superstonk/comments/o2280d/you_went_full_gorilla_award_community_award/)
 

@@ -1,6 +1,6 @@
-#Title: UPDATE ON: "The Hidden Shorts: The Correlation of FTDs and Open Interest for EXTREMELY OTM Put Options"
-#Author: Jonathan_McFall
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o28bbd/update_on_the_hidden_shorts_the_correlation_of/](https://www.reddit.com/r/Superstonk/comments/o28bbd/update_on_the_hidden_shorts_the_correlation_of/)
+# Title: UPDATE ON: "The Hidden Shorts: The Correlation of FTDs and Open Interest for EXTREMELY OTM Put Options"
+# Author: Jonathan_McFall
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o28bbd/update_on_the_hidden_shorts_the_correlation_of/](https://www.reddit.com/r/Superstonk/comments/o28bbd/update_on_the_hidden_shorts_the_correlation_of/)
 
 
 Hey guys,

@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 05-28-2021
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/](https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/)
+# Title: The Daily Stonk 05-28-2021
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/](https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/)
 
 
 https://preview.redd.it/p3yfpss97t171.png?width=1600&format=png&auto=webp&s=825ffd179bc212c737f844969d365702c1f58530

@@ -1,6 +1,6 @@
-#Title: I had a thought, it really hurt! But what if I told you that Juneteenth was a Federal Holiday this year on the books and it may have moved the FTD cycle up +1 day?
-#Author: Ok_Entrepreneur_5833
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/](https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/)
+# Title: I had a thought, it really hurt! But what if I told you that Juneteenth was a Federal Holiday this year on the books and it may have moved the FTD cycle up +1 day?
+# Author: Ok_Entrepreneur_5833
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/](https://www.reddit.com/r/Superstonk/comments/o77jm5/i_had_a_thought_it_really_hurt_but_what_if_i_told/)
 
 
 Although the market was open, the SEC was not open.  It took me a minute to find this;

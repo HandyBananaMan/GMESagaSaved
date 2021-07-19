@@ -1,6 +1,6 @@
-#Title: Convertible Bonds
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmz5yx/convertible_bonds/](https://www.reddit.com/r/Superstonk/comments/mmz5yx/convertible_bonds/)
+# Title: Convertible Bonds
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmz5yx/convertible_bonds/](https://www.reddit.com/r/Superstonk/comments/mmz5yx/convertible_bonds/)
 
 
 **EDIT 3: THIS SHOULD BE TAKEN AS GOOD NEWS!!!**

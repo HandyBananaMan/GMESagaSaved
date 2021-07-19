@@ -1,6 +1,6 @@
-#Title: Citadel Bond INFO, BlackRock and Ryan Cohens Tweet
-#Author: Alert_Piano341
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/](https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/)
+# Title: Citadel Bond INFO, BlackRock and Ryan Cohens Tweet
+# Author: Alert_Piano341
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/](https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/)
 
 
 Heavy Edits

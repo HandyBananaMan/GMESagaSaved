@@ -1,6 +1,6 @@
-#Title: ROCKET FUEL: Kenny's running out of resources and shorting everything to pay for it.
-#Author: Alieniity
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwm2iz/rocket_fuel_kennys_running_out_of_resources_and/](https://www.reddit.com/r/Superstonk/comments/mwm2iz/rocket_fuel_kennys_running_out_of_resources_and/)
+# Title: ROCKET FUEL: Kenny's running out of resources and shorting everything to pay for it.
+# Author: Alieniity
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwm2iz/rocket_fuel_kennys_running_out_of_resources_and/](https://www.reddit.com/r/Superstonk/comments/mwm2iz/rocket_fuel_kennys_running_out_of_resources_and/)
 
 
  

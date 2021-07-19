@@ -1,6 +1,6 @@
-#Title: Knock knock- Housekeeping! 🧹🧼
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omucfa/knock_knock_housekeeping/](https://www.reddit.com/r/GMEJungle/comments/omucfa/knock_knock_housekeeping/)
+# Title: Knock knock- Housekeeping! 🧹🧼
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omucfa/knock_knock_housekeeping/](https://www.reddit.com/r/GMEJungle/comments/omucfa/knock_knock_housekeeping/)
 
 
 # 60k?

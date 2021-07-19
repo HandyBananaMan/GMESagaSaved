@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Tuesday 05-11-2021
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/](https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/)
+# Title: Superstonk Daily DD- Tuesday 05-11-2021
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/](https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/)
 
 
 &#x200B;

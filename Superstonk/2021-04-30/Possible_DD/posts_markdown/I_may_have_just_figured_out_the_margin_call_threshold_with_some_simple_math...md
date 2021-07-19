@@ -1,6 +1,6 @@
-#Title: I may have just figured out the margin call threshold with some simple math. I about shit myself. Its VERY consistent!
-#Author: AOCsquad126
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n27l05/i_may_have_just_figured_out_the_margin_call/](https://www.reddit.com/r/Superstonk/comments/n27l05/i_may_have_just_figured_out_the_margin_call/)
+# Title: I may have just figured out the margin call threshold with some simple math. I about shit myself. Its VERY consistent!
+# Author: AOCsquad126
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n27l05/i_may_have_just_figured_out_the_margin_call/](https://www.reddit.com/r/Superstonk/comments/n27l05/i_may_have_just_figured_out_the_margin_call/)
 
 
 I've posted some memes on here before but this is my first take on a possible DD. I consider myself to be a two-wrinkle ape. No financial advice here y'all, just pure speculation that is awfully consistent.

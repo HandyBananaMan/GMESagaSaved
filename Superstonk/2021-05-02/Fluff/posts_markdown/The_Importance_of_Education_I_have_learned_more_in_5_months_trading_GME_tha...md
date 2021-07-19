@@ -1,6 +1,6 @@
-#Title: The Importance of Education: I have learned more in 5 months trading GME, than the previous 30 years "investing". I have learned about the corruption, the lies, the deception of using media to control us "dumb" money. Literally, the worst thing they could have done was shut down trading in Jan!!
-#Author: khashi1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n35dao/the_importance_of_education_i_have_learned_more/](https://www.reddit.com/r/Superstonk/comments/n35dao/the_importance_of_education_i_have_learned_more/)
+# Title: The Importance of Education: I have learned more in 5 months trading GME, than the previous 30 years "investing". I have learned about the corruption, the lies, the deception of using media to control us "dumb" money. Literally, the worst thing they could have done was shut down trading in Jan!!
+# Author: khashi1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n35dao/the_importance_of_education_i_have_learned_more/](https://www.reddit.com/r/Superstonk/comments/n35dao/the_importance_of_education_i_have_learned_more/)
 
 
 # 

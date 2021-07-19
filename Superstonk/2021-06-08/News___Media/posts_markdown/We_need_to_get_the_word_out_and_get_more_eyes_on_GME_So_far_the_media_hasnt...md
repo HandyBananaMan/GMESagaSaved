@@ -1,6 +1,6 @@
-#Title: We need to get the word out and get more eyes on GME. So far the media hasn't done a great job at it so I've decided to take action. Tomorrow, June 9th, The Tendieman will be broadcast to radio stations AROUND THE WORLD for all to hear. BUT I NEED YOUR HELP!
-#Author: Bombxing
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/](https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/)
+# Title: We need to get the word out and get more eyes on GME. So far the media hasn't done a great job at it so I've decided to take action. Tomorrow, June 9th, The Tendieman will be broadcast to radio stations AROUND THE WORLD for all to hear. BUT I NEED YOUR HELP!
+# Author: Bombxing
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/](https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/)
 
 
 **TL:DR I have now registered my song, The Tendieman, to be played on the radio. I am in contact with a fellow ape (** u/HelloYouBeautiful **) who has contacted radio stations AROUND THE WORLD to play this song for all to hear on Wednesday 6/9 (P.S. He and I have a non-monetized agreement). BUT this is where I need a hand. We need people to contact these stations telling them that YOU WANT TO HEAR MORE TENDIEMAN. We can only convince the stations to play the song initially. Contact info, times, and radio stations will be listed at the bottom of this post. You can also call in to your own local stations and request they play The Tendieman as well. More calls = higher chance of it being played.**

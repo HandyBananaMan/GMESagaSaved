@@ -1,6 +1,6 @@
-#Title: DTC-2021-005 is supposed to be the regulatory change that will curtail naked short selling. It was removed from the DTCC website last month under the guise of ‘final formatting changes’. I don’t think it’s coming back. Here’s why.
-#Author: SpinCharm
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/](https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/)
+# Title: DTC-2021-005 is supposed to be the regulatory change that will curtail naked short selling. It was removed from the DTCC website last month under the guise of ‘final formatting changes’. I don’t think it’s coming back. Here’s why.
+# Author: SpinCharm
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/](https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/)
 
 
 Edit 15 June:  I’m glad to see that the DTCC have released the 005 regulation change today.  And very glad to be proven wrong!

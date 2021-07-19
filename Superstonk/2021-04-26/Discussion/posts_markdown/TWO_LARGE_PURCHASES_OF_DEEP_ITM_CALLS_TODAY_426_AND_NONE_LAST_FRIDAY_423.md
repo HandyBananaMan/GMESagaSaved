@@ -1,6 +1,6 @@
-#Title: TWO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/26) AND NONE LAST FRIDAY (4/23)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/](https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/)
+# Title: TWO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/26) AND NONE LAST FRIDAY (4/23)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/](https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/)
 
 
 Good Afternoon Apes,

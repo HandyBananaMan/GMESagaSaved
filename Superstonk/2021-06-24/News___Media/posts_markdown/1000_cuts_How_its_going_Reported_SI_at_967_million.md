@@ -1,10 +1,11 @@
+# Title: 1000 cuts. How it's going. Reported SI at 9.67 million
 # Author: No1Important_4real
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000_cuts_how_its_going_reported_si_at_967_million/](https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000_cuts_how_its_going_reported_si_at_967_million/)
 
 
 Well, the SI numbers have been published and the reported SI is 9.67 mil.
 
-![https://www.morningstar.com/stocks/xnys/gme/quote](https://www.morningstar.com/stocks/xnys/gme/quote)
+[https://www.morningstar.com/stocks/xnys/gme/quote](https://www.morningstar.com/stocks/xnys/gme/quote)
 
 That means that they did not simply report their shorts for June 1st - 14th like I believed they would.
 

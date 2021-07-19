@@ -1,6 +1,6 @@
-#Title: TL:DR - Power to the players is real and Apes/Gamers are the wildcards in GameStop turning the NFT Marketplace and metaverse into a money printing press.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/](https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/)
+# Title: TL:DR - Power to the players is real and Apes/Gamers are the wildcards in GameStop turning the NFT Marketplace and metaverse into a money printing press.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/](https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/)
 
 
 ![Hello r\/Superstonk, Jellyfish here! ](https://i.redd.it/p6o856kjt1a71.gif)

@@ -1,6 +1,6 @@
-#Title: Daily Heat Map of Citadel (and Melvin's) Long Holdings — May 11 2021
-#Author: HODLTheLineMyFriend
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
+# Title: Daily Heat Map of Citadel (and Melvin's) Long Holdings — May 11 2021
+# Author: HODLTheLineMyFriend
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
 
 
 Here's what today's heat map looks like for Citadel's long holdings at market close. I went ahead and gathered up Melvin's as well, and created a second heat map. There's a lot of overlap between them, but enough differences to be interesting. Citadel has $200B AUM, while Melvin has/had $22B, so Citadel has 10x the influence on prices, if/when they are liquidating.

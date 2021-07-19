@@ -1,6 +1,6 @@
-#Title: Looks like the Media's sudden change of heart towards GME is a possible set up for a fake short squeeze.
-#Author: Cappachano
-#Post URL: [https://www.reddit.com/r/GME/comments/mhfjsx/looks_like_the_medias_sudden_change_of_heart/](https://www.reddit.com/r/GME/comments/mhfjsx/looks_like_the_medias_sudden_change_of_heart/)
+# Title: Looks like the Media's sudden change of heart towards GME is a possible set up for a fake short squeeze.
+# Author: Cappachano
+# Post URL: [https://www.reddit.com/r/GME/comments/mhfjsx/looks_like_the_medias_sudden_change_of_heart/](https://www.reddit.com/r/GME/comments/mhfjsx/looks_like_the_medias_sudden_change_of_heart/)
 
 
 When they short the fuck out of it once it reaches 1K-5K, hold your GME shares tighter than you've held them thus far. 

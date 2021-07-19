@@ -1,6 +1,6 @@
-#Title: July 14 is T+35 (34) after June 10
-#Author: TiberiusWoodwind
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oex561/july_14_is_t35_34_after_june_10/](https://www.reddit.com/r/Superstonk/comments/oex561/july_14_is_t35_34_after_june_10/)
+# Title: July 14 is T+35 (34) after June 10
+# Author: TiberiusWoodwind
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oex561/july_14_is_t35_34_after_june_10/](https://www.reddit.com/r/Superstonk/comments/oex561/july_14_is_t35_34_after_june_10/)
 
 
 Likely this was noticed elsewhere, but I realized for myself that the gap of time between the share offering and July 14th is 34 days. Just to point out why I care about 34, remember that if it gets to 35 then covering for FTD's starts getting taken out of the hands of hedgies, so they want to get it done prior to the cut off.

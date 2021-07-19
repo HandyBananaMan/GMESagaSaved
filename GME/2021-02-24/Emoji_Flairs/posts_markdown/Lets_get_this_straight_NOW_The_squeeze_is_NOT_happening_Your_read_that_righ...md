@@ -1,6 +1,6 @@
-#Title: Let's get this straight NOW. The squeeze is NOT happening. Your read that right, it's NOT happening. ...It's STARTING. HUGE difference in messaging. People thinking it's happening right now gets them in the mindset of selling. This is only the beginning, so let's strap in and feel those G forces!
-#Author: Jagsfreak
-#Post URL: [https://www.reddit.com/r/GME/comments/lrn93q/lets_get_this_straight_now_the_squeeze_is_not/](https://www.reddit.com/r/GME/comments/lrn93q/lets_get_this_straight_now_the_squeeze_is_not/)
+# Title: Let's get this straight NOW. The squeeze is NOT happening. Your read that right, it's NOT happening. ...It's STARTING. HUGE difference in messaging. People thinking it's happening right now gets them in the mindset of selling. This is only the beginning, so let's strap in and feel those G forces!
+# Author: Jagsfreak
+# Post URL: [https://www.reddit.com/r/GME/comments/lrn93q/lets_get_this_straight_now_the_squeeze_is_not/](https://www.reddit.com/r/GME/comments/lrn93q/lets_get_this_straight_now_the_squeeze_is_not/)
 
 
 Not financial advice. My brain makes marbles look like waterlogged toes.  

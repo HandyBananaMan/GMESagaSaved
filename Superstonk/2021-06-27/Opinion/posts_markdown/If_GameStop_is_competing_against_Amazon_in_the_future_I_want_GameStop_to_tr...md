@@ -1,6 +1,6 @@
-#Title: If GameStop is competing against Amazon in the future. I want GameStop to treat their employees better than them.
-#Author: delish-noodles
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8txwq/if_gamestop_is_competing_against_amazon_in_the/](https://www.reddit.com/r/Superstonk/comments/o8txwq/if_gamestop_is_competing_against_amazon_in_the/)
+# Title: If GameStop is competing against Amazon in the future. I want GameStop to treat their employees better than them.
+# Author: delish-noodles
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8txwq/if_gamestop_is_competing_against_amazon_in_the/](https://www.reddit.com/r/Superstonk/comments/o8txwq/if_gamestop_is_competing_against_amazon_in_the/)
 
 
 I'm SICK and TIRED of seeing Amazon being total POS to all their employees especially the delivery drivers, temp and warehouse workers. Everytime I interact with any of their delivery workers, they look like they're on the verge of tears from shitty hours, low wages and just straight up constant abuse. NO ONE DESERVES TO BE TREATED LIKE THAT. WTF.

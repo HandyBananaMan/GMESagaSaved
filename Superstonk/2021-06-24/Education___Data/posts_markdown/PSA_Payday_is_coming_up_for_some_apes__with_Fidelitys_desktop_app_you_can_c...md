@@ -1,6 +1,6 @@
-#Title: PSA: Payday is coming up for some apes & with Fidelity’s desktop app, you can choose which market you can purchase your stock through. Which means you can buy without it being routed by Citadel through a darkpool
-#Author: goodyearbelt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6vm7r/psa_payday_is_coming_up_for_some_apes_with/](https://www.reddit.com/r/Superstonk/comments/o6vm7r/psa_payday_is_coming_up_for_some_apes_with/)
+# Title: PSA: Payday is coming up for some apes & with Fidelity’s desktop app, you can choose which market you can purchase your stock through. Which means you can buy without it being routed by Citadel through a darkpool
+# Author: goodyearbelt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6vm7r/psa_payday_is_coming_up_for_some_apes_with/](https://www.reddit.com/r/Superstonk/comments/o6vm7r/psa_payday_is_coming_up_for_some_apes_with/)
 
 
  It’s late and I just woke up again from my weird insomniac sleep schedule of 4hrs before finally falling back asleep around 3am-ish. But with T+21 and the RC tweet all but confirming a price rise tomorrow with his high 90’s percentage of tweeting cryptic but relevant memes around these dates…

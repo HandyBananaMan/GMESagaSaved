@@ -1,6 +1,6 @@
-#Title: Wrinkle Brains Needed - Citadel Loading up on High Yield Corporate Bond ETF
-#Author: BadassTrader
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyt6l8/wrinkle_brains_needed_citadel_loading_up_on_high/](https://www.reddit.com/r/Superstonk/comments/nyt6l8/wrinkle_brains_needed_citadel_loading_up_on_high/)
+# Title: Wrinkle Brains Needed - Citadel Loading up on High Yield Corporate Bond ETF
+# Author: BadassTrader
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyt6l8/wrinkle_brains_needed_citadel_loading_up_on_high/](https://www.reddit.com/r/Superstonk/comments/nyt6l8/wrinkle_brains_needed_citadel_loading_up_on_high/)
 
 
 Was just spending some quality Sunday reading time browsing through Fintel reports... as you do... and I came across some shit that may mean nothing, but may be worth putting some collective brain power into. 

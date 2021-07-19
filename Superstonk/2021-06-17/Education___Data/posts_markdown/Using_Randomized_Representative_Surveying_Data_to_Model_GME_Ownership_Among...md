@@ -1,6 +1,6 @@
-#Title: Using Randomized, Representative Surveying Data to Model $GME Ownership Among the U.S. Adult Population
-#Author: Get-It-Got
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/](https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/)
+# Title: Using Randomized, Representative Surveying Data to Model $GME Ownership Among the U.S. Adult Population
+# Author: Get-It-Got
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/](https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/)
 
 
 \*\*\*PLEASE DON'T LAUNCH YOUR OWN SURVEY FOR THE U.S. USING GCS ... A LOT OF PEOPLE ARE DOING THIS AND IT MAY OVER-SATURATE THE PLATFORM AND START IMPACTING RESULTS.\*\*\*

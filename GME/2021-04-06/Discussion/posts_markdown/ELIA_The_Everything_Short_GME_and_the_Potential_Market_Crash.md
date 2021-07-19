@@ -1,6 +1,6 @@
-#Title: ELIA The Everything Short, GME, and the Potential Market Crash
-#Author: Calluma93
-#Post URL: [https://www.reddit.com/r/GME/comments/ml6xy0/elia_the_everything_short_gme_and_the_potential/](https://www.reddit.com/r/GME/comments/ml6xy0/elia_the_everything_short_gme_and_the_potential/)
+# Title: ELIA The Everything Short, GME, and the Potential Market Crash
+# Author: Calluma93
+# Post URL: [https://www.reddit.com/r/GME/comments/ml6xy0/elia_the_everything_short_gme_and_the_potential/](https://www.reddit.com/r/GME/comments/ml6xy0/elia_the_everything_short_gme_and_the_potential/)
 
 
 I wrote a (not so) quick summary of what was uncovered in the fantastic Everything Short DD by u/atobitt

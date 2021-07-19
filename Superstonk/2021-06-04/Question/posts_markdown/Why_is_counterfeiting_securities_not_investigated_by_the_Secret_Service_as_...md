@@ -1,6 +1,6 @@
-#Title: Why is counterfeiting securities not investigated by the Secret Service as is counterfeiting USD? Let's call this crime what it is.
-#Author: jedielfninja
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns9cdn/why_is_counterfeiting_securities_not_investigated/](https://www.reddit.com/r/Superstonk/comments/ns9cdn/why_is_counterfeiting_securities_not_investigated/)
+# Title: Why is counterfeiting securities not investigated by the Secret Service as is counterfeiting USD? Let's call this crime what it is.
+# Author: jedielfninja
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns9cdn/why_is_counterfeiting_securities_not_investigated/](https://www.reddit.com/r/Superstonk/comments/ns9cdn/why_is_counterfeiting_securities_not_investigated/)
 
 
 Counterfeiting paper is nothing compared to the billions upon billions of dollars short sellers have counterfeited. Let's call this crime what it is.

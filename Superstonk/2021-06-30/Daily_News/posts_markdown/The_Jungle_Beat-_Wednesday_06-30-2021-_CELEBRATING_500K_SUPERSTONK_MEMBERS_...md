@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Wednesday 06-30-2021- CELEBRATING 500K SUPERSTONK MEMBERS WITH FLAIRS!! 🥳🎊🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/](https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/)
+# Title: The Jungle Beat- Wednesday 06-30-2021- CELEBRATING 500K SUPERSTONK MEMBERS WITH FLAIRS!! 🥳🎊🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/](https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: PSA: FUD seeds are being planted right now. Shills are creating duplicate social media accounts mimicking real apes to likely trick people with FUD at a time when emotion may have taken over
-#Author: Relatable_Yak
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/](https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/)
+# Title: PSA: FUD seeds are being planted right now. Shills are creating duplicate social media accounts mimicking real apes to likely trick people with FUD at a time when emotion may have taken over
+# Author: Relatable_Yak
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/](https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/)
 
 
 You may not be on social media, but this isn’t just about you. This is about all apes that are, too. It is important for seasoned apes to recognize these occurrences for the ones that may totally miss this. If enough people are scared and paperhand, I’m worried it could damage the MOASS. Please correct me if I am wrong here. (Edited this blurb in post-posting)

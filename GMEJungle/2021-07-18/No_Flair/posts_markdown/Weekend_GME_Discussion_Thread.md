@@ -1,6 +1,6 @@
-#Title: Weekend $GME Discussion Thread
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omv5lo/weekend_gme_discussion_thread/](https://www.reddit.com/r/GMEJungle/comments/omv5lo/weekend_gme_discussion_thread/)
+# Title: Weekend $GME Discussion Thread
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omv5lo/weekend_gme_discussion_thread/](https://www.reddit.com/r/GMEJungle/comments/omv5lo/weekend_gme_discussion_thread/)
 
 
 # This is your weekend discussion thread

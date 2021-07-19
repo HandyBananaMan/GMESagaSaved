@@ -1,6 +1,6 @@
-#Title: Superstonk Wellness Update 🩺 and New Mods 🦍🦍🦍🦍
-#Author: redchessqueen99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/](https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/)
+# Title: Superstonk Wellness Update 🩺 and New Mods 🦍🦍🦍🦍
+# Author: redchessqueen99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/](https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/)
 
 
 # Congratulations on 500,000 members, Superstonk! This is truly remarkable! Thank you all for being here! I love you all! 💎💙

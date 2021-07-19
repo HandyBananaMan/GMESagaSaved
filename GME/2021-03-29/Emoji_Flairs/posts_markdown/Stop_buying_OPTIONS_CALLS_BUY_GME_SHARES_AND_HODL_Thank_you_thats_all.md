@@ -1,6 +1,6 @@
-#Title: Stop buying OPTIONS CALLS. BUY GME SHARES AND HODL. Thank you that’s all🚀🚀🚀🚀🚀🚀🚀🚀
-#Author: DeepFuckingApes
-#Post URL: [https://www.reddit.com/r/GME/comments/mfmle6/stop_buying_options_calls_buy_gme_shares_and_hodl/](https://www.reddit.com/r/GME/comments/mfmle6/stop_buying_options_calls_buy_gme_shares_and_hodl/)
+# Title: Stop buying OPTIONS CALLS. BUY GME SHARES AND HODL. Thank you that’s all🚀🚀🚀🚀🚀🚀🚀🚀
+# Author: DeepFuckingApes
+# Post URL: [https://www.reddit.com/r/GME/comments/mfmle6/stop_buying_options_calls_buy_gme_shares_and_hodl/](https://www.reddit.com/r/GME/comments/mfmle6/stop_buying_options_calls_buy_gme_shares_and_hodl/)
 
 
 Not financial advice. I’m typing this using a banana 🍌 

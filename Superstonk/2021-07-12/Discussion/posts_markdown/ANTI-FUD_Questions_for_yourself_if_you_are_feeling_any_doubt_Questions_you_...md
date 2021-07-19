@@ -1,6 +1,6 @@
-#Title: ANTI-FUD. Questions for yourself if you are feeling any doubt. Questions you can ask a shill too, if you want to break their brain.
-#Author: TDETLES
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/](https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/)
+# Title: ANTI-FUD. Questions for yourself if you are feeling any doubt. Questions you can ask a shill too, if you want to break their brain.
+# Author: TDETLES
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/](https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/)
 
 
 &#x200B;

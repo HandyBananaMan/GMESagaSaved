@@ -1,6 +1,6 @@
-#Title: NOTICE OF LIQUIDATION (i.e. Morgan Stanley and JPMorgan) - How do you best tell a fund or company is going to be liquidated?
-#Author: myFIREjourney
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/](https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/)
+# Title: NOTICE OF LIQUIDATION (i.e. Morgan Stanley and JPMorgan) - How do you best tell a fund or company is going to be liquidated?
+# Author: myFIREjourney
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/](https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/)
 
 
 **Edit:** Marked as Discussion for now. Let me know if flair needs to be updated. Also will try to update with more info on the filings including CIK details so everyone can find the filings. Added images in the body of the post in case you guys couldn't see the various examples from the Imgur link.

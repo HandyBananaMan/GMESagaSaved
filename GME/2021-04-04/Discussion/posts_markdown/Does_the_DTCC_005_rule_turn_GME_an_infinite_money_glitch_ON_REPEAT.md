@@ -1,6 +1,6 @@
-#Title: Does the DTCC 005 rule turn GME an infinite money glitch, ON REPEAT?
-#Author: fsocietyfwallstreet
-#Post URL: [https://www.reddit.com/r/GME/comments/mjwcpm/does_the_dtcc_005_rule_turn_gme_an_infinite_money/](https://www.reddit.com/r/GME/comments/mjwcpm/does_the_dtcc_005_rule_turn_gme_an_infinite_money/)
+# Title: Does the DTCC 005 rule turn GME an infinite money glitch, ON REPEAT?
+# Author: fsocietyfwallstreet
+# Post URL: [https://www.reddit.com/r/GME/comments/mjwcpm/does_the_dtcc_005_rule_turn_gme_an_infinite_money/](https://www.reddit.com/r/GME/comments/mjwcpm/does_the_dtcc_005_rule_turn_gme_an_infinite_money/)
 
 
 #Tldr; the setup is the same as january, but call option open interest + the new 005 rule makes the rocket more like a shuttle, that will launch over and over again without intervention.

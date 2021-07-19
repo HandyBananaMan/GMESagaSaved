@@ -1,6 +1,6 @@
-#Title: BEWARE!!!! NEW SHILL STRATEGY SPREADING: they push the “we” agenda
-#Author: Mostalaine
-#Post URL: [https://www.reddit.com/r/GME/comments/lzpi40/beware_new_shill_strategy_spreading_they_push_the/](https://www.reddit.com/r/GME/comments/lzpi40/beware_new_shill_strategy_spreading_they_push_the/)
+# Title: BEWARE!!!! NEW SHILL STRATEGY SPREADING: they push the “we” agenda
+# Author: Mostalaine
+# Post URL: [https://www.reddit.com/r/GME/comments/lzpi40/beware_new_shill_strategy_spreading_they_push_the/](https://www.reddit.com/r/GME/comments/lzpi40/beware_new_shill_strategy_spreading_they_push_the/)
 
 
 I’VE NOTICED THIS WEEKEND massive shill accounts and shill posts pushing the “we” agenda.

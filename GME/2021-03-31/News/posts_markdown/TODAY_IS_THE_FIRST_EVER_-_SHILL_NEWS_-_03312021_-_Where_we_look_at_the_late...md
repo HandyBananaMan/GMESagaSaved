@@ -1,6 +1,6 @@
-#Title: TODAY IS THE FIRST EVER - SHILL NEWS! - 03/31/2021 - Where we look at the latest shill news and uncover the truth!
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/GME/comments/mh5m4v/today_is_the_first_ever_shill_news_03312021_where/](https://www.reddit.com/r/GME/comments/mh5m4v/today_is_the_first_ever_shill_news_03312021_where/)
+# Title: TODAY IS THE FIRST EVER - SHILL NEWS! - 03/31/2021 - Where we look at the latest shill news and uncover the truth!
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/GME/comments/mh5m4v/today_is_the_first_ever_shill_news_03312021_where/](https://www.reddit.com/r/GME/comments/mh5m4v/today_is_the_first_ever_shill_news_03312021_where/)
 
 
 **Edit - Today's segment for 04/01/2021 is here!**

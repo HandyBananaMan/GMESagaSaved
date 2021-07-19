@@ -1,6 +1,6 @@
-#Title: Analyzing yesterdays crash and investigating the bullshit
-#Author: Damsellindistress
-#Post URL: [https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/](https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/)
+# Title: Analyzing yesterdays crash and investigating the bullshit
+# Author: Damsellindistress
+# Post URL: [https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/](https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/)
 
 
 So guys, yesterday, we had a bumpy ride.Although anyone of you should be able to understand that growing steadily to $346 and then crashing in minutes back down to $178 isn't normal...lets look at what actually happened.

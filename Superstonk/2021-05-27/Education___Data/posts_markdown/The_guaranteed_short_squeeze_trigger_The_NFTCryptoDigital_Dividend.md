@@ -1,6 +1,6 @@
-#Title: The guaranteed short squeeze trigger: The NFT/Crypto/Digital Dividend
-#Author: integ3r_p0sitron
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmd7cr/the_guaranteed_short_squeeze_trigger_the/](https://www.reddit.com/r/Superstonk/comments/nmd7cr/the_guaranteed_short_squeeze_trigger_the/)
+# Title: The guaranteed short squeeze trigger: The NFT/Crypto/Digital Dividend
+# Author: integ3r_p0sitron
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmd7cr/the_guaranteed_short_squeeze_trigger_the/](https://www.reddit.com/r/Superstonk/comments/nmd7cr/the_guaranteed_short_squeeze_trigger_the/)
 
 
 Others have pointed this out, but it seems there's still a lack of awareness or realization of how serious this is.

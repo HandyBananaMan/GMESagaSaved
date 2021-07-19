@@ -1,6 +1,6 @@
-#Title: GME Hiring People Skilled In Blockchain, Crypto, And NFTs so GME is Making A Crypto, NFT Foray? Also GME makes early repayment of all debt. So what apes should be really asking is?
-#Author: AndyLee168
-#Post URL: [https://www.reddit.com/r/GME/comments/mqskzw/gme_hiring_people_skilled_in_blockchain_crypto/](https://www.reddit.com/r/GME/comments/mqskzw/gme_hiring_people_skilled_in_blockchain_crypto/)
+# Title: GME Hiring People Skilled In Blockchain, Crypto, And NFTs so GME is Making A Crypto, NFT Foray? Also GME makes early repayment of all debt. So what apes should be really asking is?
+# Author: AndyLee168
+# Post URL: [https://www.reddit.com/r/GME/comments/mqskzw/gme_hiring_people_skilled_in_blockchain_crypto/](https://www.reddit.com/r/GME/comments/mqskzw/gme_hiring_people_skilled_in_blockchain_crypto/)
 
 
 

@@ -1,6 +1,6 @@
-#Title: The Counter Play to the Everything Short
-#Author: karasuuchiha
-#Post URL: [https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/](https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/)
+# Title: The Counter Play to the Everything Short
+# Author: karasuuchiha
+# Post URL: [https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/](https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/)
 
 
 [Please go to the Correction of this Thesis, its slightly different but is a world of difference](https://www.reddit.com/r/GME/comments/ml2w7u/the_counter_to_the_everything_short_correction/?utm_medium=android_app&utm_source=share)

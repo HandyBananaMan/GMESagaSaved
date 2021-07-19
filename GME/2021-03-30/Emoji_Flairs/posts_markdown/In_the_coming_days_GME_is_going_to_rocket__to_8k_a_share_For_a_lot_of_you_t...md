@@ -1,6 +1,6 @@
-#Title: In the coming days $GME is going to rocket 🚀 to $8k+ a share. For a lot of you, the temptation to sell will be great. Resist. IF YOU COMMIT TO $1,000,000/ share and you will receive it. It’s that simple.
-#Author: A_world_in_need
-#Post URL: [https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/](https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/)
+# Title: In the coming days $GME is going to rocket 🚀 to $8k+ a share. For a lot of you, the temptation to sell will be great. Resist. IF YOU COMMIT TO $1,000,000/ share and you will receive it. It’s that simple.
+# Author: A_world_in_need
+# Post URL: [https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/](https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/)
 
 
 Not financial advice. 

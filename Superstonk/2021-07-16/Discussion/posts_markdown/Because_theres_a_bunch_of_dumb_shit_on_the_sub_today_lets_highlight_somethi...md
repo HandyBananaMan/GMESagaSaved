@@ -1,6 +1,6 @@
-#Title: Because there’s a bunch of dumb shit on the sub today, let’s highlight something that deserves every ape’s attention that hasn’t been talked about enough - the Frontline episode on the Fed was incredible.
-#Author: thatskindaneat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olmlqt/because_theres_a_bunch_of_dumb_shit_on_the_sub/](https://www.reddit.com/r/Superstonk/comments/olmlqt/because_theres_a_bunch_of_dumb_shit_on_the_sub/)
+# Title: Because there’s a bunch of dumb shit on the sub today, let’s highlight something that deserves every ape’s attention that hasn’t been talked about enough - the Frontline episode on the Fed was incredible.
+# Author: thatskindaneat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olmlqt/because_theres_a_bunch_of_dumb_shit_on_the_sub/](https://www.reddit.com/r/Superstonk/comments/olmlqt/because_theres_a_bunch_of_dumb_shit_on_the_sub/)
 
 
 [Link to the episode](https://youtu.be/9RbL8lTsITY) 

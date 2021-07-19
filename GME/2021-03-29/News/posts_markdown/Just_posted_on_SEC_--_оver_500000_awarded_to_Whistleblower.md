@@ -1,6 +1,6 @@
-#Title: Just posted on SEC -- оver $500,000 awarded to Whistleblower
-#Author: Pitiful_Yellow_7274
-#Post URL: [https://www.reddit.com/r/GME/comments/mfv9we/just_posted_on_sec_оver_500000_awarded_to/](https://www.reddit.com/r/GME/comments/mfv9we/just_posted_on_sec_оver_500000_awarded_to/)
+# Title: Just posted on SEC -- оver $500,000 awarded to Whistleblower
+# Author: Pitiful_Yellow_7274
+# Post URL: [https://www.reddit.com/r/GME/comments/mfv9we/just_posted_on_sec_оver_500000_awarded_to/](https://www.reddit.com/r/GME/comments/mfv9we/just_posted_on_sec_оver_500000_awarded_to/)
 
 
 Link to the Press Release on SEC's website:

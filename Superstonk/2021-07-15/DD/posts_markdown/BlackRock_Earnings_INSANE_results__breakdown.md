@@ -1,6 +1,6 @@
-#Title: BlackRock Earnings INSANE results & breakdown
-#Author: Munoz10594
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ol7w67/blackrock_earnings_insane_results_breakdown/](https://www.reddit.com/r/Superstonk/comments/ol7w67/blackrock_earnings_insane_results_breakdown/)
+# Title: BlackRock Earnings INSANE results & breakdown
+# Author: Munoz10594
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ol7w67/blackrock_earnings_insane_results_breakdown/](https://www.reddit.com/r/Superstonk/comments/ol7w67/blackrock_earnings_insane_results_breakdown/)
 
 
 I'm diving into the entire BlackRock report this time around guys so it's another late-night release, but I promise it's worth the wait. I think at this point we all know how much Black Rock is (likely) rooting for GME and retail given that they have a ton of shares. They also handle a ton of Retail trades. The thing is, I'm rooting for Black Rock for this reason. But Black Rock had some significant changes in net inflows and earnings (mostly good and some bad) this Quarter compared to Q1-2021. I cannot stress this enough. Black Rock has posted some significant changes, but looks strongest of all our friends. **Maybe retail gets a new friend on Wall Street in the giant they helped create at the end of this all?** Anyways, lets get this going.

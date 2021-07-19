@@ -1,6 +1,6 @@
-#Title: Norwegian Apes wake up! As a share holder it is our right to vote! Don't be lazy now! We know for 3 weeks already that Nordent is saying "no, with empty words and a lot of other empty statements. Time to take things in Apes hands even made a template below for you extra lazy apes !
-#Author: MagicPanCakeMixx
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nidx45/norwegian_apes_wake_up_as_a_share_holder_it_is/](https://www.reddit.com/r/Superstonk/comments/nidx45/norwegian_apes_wake_up_as_a_share_holder_it_is/)
+# Title: Norwegian Apes wake up! As a share holder it is our right to vote! Don't be lazy now! We know for 3 weeks already that Nordent is saying "no, with empty words and a lot of other empty statements. Time to take things in Apes hands even made a template below for you extra lazy apes !
+# Author: MagicPanCakeMixx
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nidx45/norwegian_apes_wake_up_as_a_share_holder_it_is/](https://www.reddit.com/r/Superstonk/comments/nidx45/norwegian_apes_wake_up_as_a_share_holder_it_is/)
 
 
 German Apes went full monkey mode and got their broker reversed and are able to vote as of yesterday.  The only thing they did was mail en mass to their regulators. Yes only that!

@@ -1,6 +1,6 @@
-#Title: ETF lending and why Citadel is finished. Also, why I think today is important- IRRESPECTIVE OF SHARE PRICE.
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/](https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/)
+# Title: ETF lending and why Citadel is finished. Also, why I think today is important- IRRESPECTIVE OF SHARE PRICE.
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/](https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/)
 
 
 **ALL EDITS HAVE BEEN MOVED TO THE BOTTOM, APART FROM ONE. I am continually updating this post as more is learnt surrounding ETFs. Thanks for all your help you beautiful apes!**

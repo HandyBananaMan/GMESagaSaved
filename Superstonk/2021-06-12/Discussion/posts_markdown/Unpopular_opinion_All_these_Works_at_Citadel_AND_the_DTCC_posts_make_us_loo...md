@@ -1,6 +1,6 @@
-#Title: Unpopular opinion: All these "Works at Citadel AND the DTCC" posts make us look like idiots.
-#Author: Bob_the_peasant
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nykfgb/unpopular_opinion_all_these_works_at_citadel_and/](https://www.reddit.com/r/Superstonk/comments/nykfgb/unpopular_opinion_all_these_works_at_citadel_and/)
+# Title: Unpopular opinion: All these "Works at Citadel AND the DTCC" posts make us look like idiots.
+# Author: Bob_the_peasant
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nykfgb/unpopular_opinion_all_these_works_at_citadel_and/](https://www.reddit.com/r/Superstonk/comments/nykfgb/unpopular_opinion_all_these_works_at_citadel_and/)
 
 
 Why are these posts being upvoted like they are some kind of 'gotcha'?  The DTCC is literally just the country club for large banks, hedge funds, financial institutions.  They are, by definition, themselves.  This sub looks stupid as hell parading it around like it is a conflict of interests.

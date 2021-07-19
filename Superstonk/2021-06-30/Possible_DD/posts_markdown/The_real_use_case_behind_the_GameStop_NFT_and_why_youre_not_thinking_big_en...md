@@ -1,6 +1,6 @@
-#Title: The real use case behind the GameStop NFT, and why you're not thinking big enough
-#Author: DropDeadDevon
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/](https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/)
+# Title: The real use case behind the GameStop NFT, and why you're not thinking big enough
+# Author: DropDeadDevon
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/](https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/)
 
 
  Hello everyone, there's been a lot of talk lately about what GameStop could possibly announce in relation to the [NFT teaser](https://nft.gamestop.com/). Most of the discussion I've seen has been about GameStop issuing a c r y p t o dividend ala Overstock, as discussed in this [DD](https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/). While I believe this is definitely possible, I also believe there is something much bigger they could do with it. This post was prompted by this comment from u/JustTheBigMan 

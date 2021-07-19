@@ -1,6 +1,6 @@
-#Title: Dr Susanne Trimbath “Lehman brothers had so many naked shorts in everything including mortgage back securities, credit default swaps, stocks and bonds and there was billions of dollars worth of open positions at the foster trust company that it took them a decade to close.” Timestamp at 25:30
-#Author: Mammoth-Priority-516
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/](https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/)
+# Title: Dr Susanne Trimbath “Lehman brothers had so many naked shorts in everything including mortgage back securities, credit default swaps, stocks and bonds and there was billions of dollars worth of open positions at the foster trust company that it took them a decade to close.” Timestamp at 25:30
+# Author: Mammoth-Priority-516
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/](https://www.reddit.com/r/Superstonk/comments/o3vbjt/dr_susanne_trimbath_lehman_brothers_had_so_many/)
 
 
 [YouTube link](https://youtu.be/ITeiFwJlGGI)

@@ -1,6 +1,6 @@
-#Title: I taut i taw a married put... i did, i did see married puts...
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/](https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/)
+# Title: I taut i taw a married put... i did, i did see married puts...
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/](https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: GME's Gambit. How we were almost all fooled by Rensole, Redchessqueen, and Wardenelite from the very start. The truth about their deception. Their end game unsuccessful and how their last strategy could be to nuke Superstonks / MOAF (Mother of All Fud). Damning evidence. Part 1/3
-#Author: fusionnnnnnnha
-#Post URL: [https://www.reddit.com/r/GME/comments/omeb9e/gmes_gambit_how_we_were_almost_all_fooled_by/](https://www.reddit.com/r/GME/comments/omeb9e/gmes_gambit_how_we_were_almost_all_fooled_by/)
+# Title: GME's Gambit. How we were almost all fooled by Rensole, Redchessqueen, and Wardenelite from the very start. The truth about their deception. Their end game unsuccessful and how their last strategy could be to nuke Superstonks / MOAF (Mother of All Fud). Damning evidence. Part 1/3
+# Author: fusionnnnnnnha
+# Post URL: [https://www.reddit.com/r/GME/comments/omeb9e/gmes_gambit_how_we_were_almost_all_fooled_by/](https://www.reddit.com/r/GME/comments/omeb9e/gmes_gambit_how_we_were_almost_all_fooled_by/)
 
 
 **Update:** u/pinkcatsonacid **just removed this from the new sub** r/GMEJungle  **just as it was getting traction**. **~~No answer or explanation.~~** **~~Looking very very sus.~~**

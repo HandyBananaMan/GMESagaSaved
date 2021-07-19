@@ -1,6 +1,6 @@
-#Title: A DD drop from last weekend which predicted and described in depth BOTH the usage of ETFs and Married-Put action that occurred this week. Why is no one talking about this???
-#Author: 3for100Specials
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/](https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/)
+# Title: A DD drop from last weekend which predicted and described in depth BOTH the usage of ETFs and Married-Put action that occurred this week. Why is no one talking about this???
+# Author: 3for100Specials
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/](https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/)
 
 
 This DD post was dropped over the last weekend by a Reddit user who has since deleted his account, shortly after dropping this thermonuclear of analysis on HOW the shares have been suppressed and WHERE they are most likely located.

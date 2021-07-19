@@ -1,6 +1,6 @@
-#Title: SR-NSCC-2021-801 💣 To Be Officially **Published Today** in Federal Register 🚀🚀🚀🚀🚀
-#Author: ChippThaRipp
-#Post URL: [https://www.reddit.com/r/GME/comments/mc1tzy/srnscc2021801_to_be_officially_published_today_in/](https://www.reddit.com/r/GME/comments/mc1tzy/srnscc2021801_to_be_officially_published_today_in/)
+# Title: SR-NSCC-2021-801 💣 To Be Officially **Published Today** in Federal Register 🚀🚀🚀🚀🚀
+# Author: ChippThaRipp
+# Post URL: [https://www.reddit.com/r/GME/comments/mc1tzy/srnscc2021801_to_be_officially_published_today_in/](https://www.reddit.com/r/GME/comments/mc1tzy/srnscc2021801_to_be_officially_published_today_in/)
 
 
 # First of all, this sounds great, but I want to start this of by stating this does not mean the rule will come into effect immediately.

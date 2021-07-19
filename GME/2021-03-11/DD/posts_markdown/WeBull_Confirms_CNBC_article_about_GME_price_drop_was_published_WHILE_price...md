@@ -1,6 +1,6 @@
-#Title: WeBull Confirms CNBC article about $GME price drop was published WHILE price was still high**
-#Author: ihatedmyboss
-#Post URL: [https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/](https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/)
+# Title: WeBull Confirms CNBC article about $GME price drop was published WHILE price was still high**
+# Author: ihatedmyboss
+# Post URL: [https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/](https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/)
 
 
 **Good Morning fellow Europoors and Galactic Apes**

@@ -1,6 +1,6 @@
-#Title: In South Korea: "Market traders found guilty of naked short selling will be fined up to their order amount. In addition, illegal short sellers could face imprisonment for a year or more as well as additional penalties up to five times the unfair profits..."
-#Author: AndyLee168
-#Post URL: [https://www.reddit.com/r/GME/comments/n34c08/in_south_korea_market_traders_found_guilty_of/](https://www.reddit.com/r/GME/comments/n34c08/in_south_korea_market_traders_found_guilty_of/)
+# Title: In South Korea: "Market traders found guilty of naked short selling will be fined up to their order amount. In addition, illegal short sellers could face imprisonment for a year or more as well as additional penalties up to five times the unfair profits..."
+# Author: AndyLee168
+# Post URL: [https://www.reddit.com/r/GME/comments/n34c08/in_south_korea_market_traders_found_guilty_of/](https://www.reddit.com/r/GME/comments/n34c08/in_south_korea_market_traders_found_guilty_of/)
 
 
 

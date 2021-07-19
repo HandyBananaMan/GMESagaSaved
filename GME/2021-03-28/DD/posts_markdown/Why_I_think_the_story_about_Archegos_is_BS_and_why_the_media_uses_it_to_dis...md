@@ -1,6 +1,6 @@
-#Title: Why I think the story about Archegos is BS and why the media uses it to distract us from GME
-#Author: NothingNeo
-#Post URL: [https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/](https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/)
+# Title: Why I think the story about Archegos is BS and why the media uses it to distract us from GME
+# Author: NothingNeo
+# Post URL: [https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/](https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/)
 
 
 First: This is not financial advice and is intended for entertainment only. I do hold a long position in GME.

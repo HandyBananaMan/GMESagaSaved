@@ -1,6 +1,6 @@
-#Title: Just spoke to etoro over the phone in regards to gme liquidity and the price spike.
-#Author: Papin9
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n62v6y/just_spoke_to_etoro_over_the_phone_in_regards_to/](https://www.reddit.com/r/Superstonk/comments/n62v6y/just_spoke_to_etoro_over_the_phone_in_regards_to/)
+# Title: Just spoke to etoro over the phone in regards to gme liquidity and the price spike.
+# Author: Papin9
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n62v6y/just_spoke_to_etoro_over_the_phone_in_regards_to/](https://www.reddit.com/r/Superstonk/comments/n62v6y/just_spoke_to_etoro_over_the_phone_in_regards_to/)
 
 
 So I just spoke to my account manager over the phone. I know people have spoken before but I wanted to get some confirmation on liquidity and price spikes.

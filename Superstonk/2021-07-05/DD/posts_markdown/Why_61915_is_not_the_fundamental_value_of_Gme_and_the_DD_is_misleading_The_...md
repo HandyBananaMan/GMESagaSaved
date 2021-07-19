@@ -1,6 +1,6 @@
-#Title: Why 619.15 is not the fundamental value of Gme and the DD is misleading! The price is wrong because Gme is at least worth 4 digits fundamentally in a few years!
-#Author: Mammoth-Priority-516
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oeayp2/why_61915_is_not_the_fundamental_value_of_gme_and/](https://www.reddit.com/r/Superstonk/comments/oeayp2/why_61915_is_not_the_fundamental_value_of_gme_and/)
+# Title: Why 619.15 is not the fundamental value of Gme and the DD is misleading! The price is wrong because Gme is at least worth 4 digits fundamentally in a few years!
+# Author: Mammoth-Priority-516
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oeayp2/why_61915_is_not_the_fundamental_value_of_gme_and/](https://www.reddit.com/r/Superstonk/comments/oeayp2/why_61915_is_not_the_fundamental_value_of_gme_and/)
 
 
 First of all, this is my first time writing out a full DD and there are gonna be gamma errors so please forgive me haha. I woke up in the morning and started my usual morning routine on superstonk and I came across this post. [619.15 DD](https://www.reddit.com/r/Superstonk/comments/oe2sar/61915_that_is_the_conservative_long_term_fair/h44vosk/?context=3) In short, this user did a comparison between gamestop and amazon and he compared the sales and then came to a conclusion of 619.15 as  a long term price. I disagree with his post because it is much higher and OP did not account for  a lot of factors and i will touch on them. Please feel free to add or critic because I can be wrong too. Also I am not a financial advisor nor this is financial advice. 

@@ -1,6 +1,6 @@
-#Title: Imagine Naked Shorting at these levels...LMAYO
-#Author: apewithabrain1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okumot/imagine_naked_shorting_at_these_levelslmayo/](https://www.reddit.com/r/Superstonk/comments/okumot/imagine_naked_shorting_at_these_levelslmayo/)
+# Title: Imagine Naked Shorting at these levels...LMAYO
+# Author: apewithabrain1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okumot/imagine_naked_shorting_at_these_levelslmayo/](https://www.reddit.com/r/Superstonk/comments/okumot/imagine_naked_shorting_at_these_levelslmayo/)
 
 
 * 81% Buyers to 19% Sellers

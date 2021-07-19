@@ -1,3 +1,4 @@
+# Title: Diamond Hands 💎👐 Pre-Market is opened ! 🚀
 # Author: PanicImANurse
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nqgrq3/diamond_hands_premarket_is_opened/](https://www.reddit.com/r/Superstonk/comments/nqgrq3/diamond_hands_premarket_is_opened/)
 

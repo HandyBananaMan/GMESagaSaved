@@ -1,6 +1,6 @@
-#Title: SMOKES & MIRRORS (the Asymmetric Warfare on America's wealth)
-#Author: Foureyedguy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvn1nm/smokes_mirrors_the_asymmetric_warfare_on_americas/](https://www.reddit.com/r/Superstonk/comments/mvn1nm/smokes_mirrors_the_asymmetric_warfare_on_americas/)
+# Title: SMOKES & MIRRORS (the Asymmetric Warfare on America's wealth)
+# Author: Foureyedguy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvn1nm/smokes_mirrors_the_asymmetric_warfare_on_americas/](https://www.reddit.com/r/Superstonk/comments/mvn1nm/smokes_mirrors_the_asymmetric_warfare_on_americas/)
 
 
  

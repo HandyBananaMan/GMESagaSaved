@@ -1,3 +1,4 @@
+# Title: Sacrifices must be made til the MOASS.
 # Author: BranSoFly
 # Post URL: [https://www.reddit.com/r/GME/comments/nqyb5q/sacrifices_must_be_made_til_the_moass/](https://www.reddit.com/r/GME/comments/nqyb5q/sacrifices_must_be_made_til_the_moass/)
 

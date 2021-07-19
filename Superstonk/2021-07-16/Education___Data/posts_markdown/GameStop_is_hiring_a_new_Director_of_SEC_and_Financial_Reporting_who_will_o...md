@@ -1,6 +1,6 @@
-#Title: GameStop is hiring a new Director of SEC and Financial Reporting who will oversee "the equity process including tasks related to stock-based compensation, equity rollforward, shares outstanding, calculation of basic/diluted EPS," etc. Bullish!
-#Author: Green8Dreamer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olxepi/gamestop_is_hiring_a_new_director_of_sec_and/](https://www.reddit.com/r/Superstonk/comments/olxepi/gamestop_is_hiring_a_new_director_of_sec_and/)
+# Title: GameStop is hiring a new Director of SEC and Financial Reporting who will oversee "the equity process including tasks related to stock-based compensation, equity rollforward, shares outstanding, calculation of basic/diluted EPS," etc. Bullish!
+# Author: Green8Dreamer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olxepi/gamestop_is_hiring_a_new_director_of_sec_and/](https://www.reddit.com/r/Superstonk/comments/olxepi/gamestop_is_hiring_a_new_director_of_sec_and/)
 
 
 Amid all the mod drama, dates hype and other distractions, I guess no one has noticed that [one of GameStop's most interesting new job postings is for a "Director of SEC and Financial Reporting](https://www.linkedin.com/jobs/view/director-sec-and-financial-reporting-at-gamestop-2615517946/)," which could indicate that GameStop is about to get a lot more serious about SEC engagement and shareholder protection by devoting an entire full-time $100-150k position to the responsibility.

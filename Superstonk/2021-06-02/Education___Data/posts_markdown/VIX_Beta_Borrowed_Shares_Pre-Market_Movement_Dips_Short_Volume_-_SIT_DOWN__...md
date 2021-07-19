@@ -1,6 +1,6 @@
-#Title: ✋🏽🛑 VIX, Beta, Borrowed Shares, Pre-Market Movement, Dips, Short Volume - SIT DOWN & LISTEN, this has to STOP. ✋🏽🛑
-#Author: Sh0w3n
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/](https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/)
+# Title: ✋🏽🛑 VIX, Beta, Borrowed Shares, Pre-Market Movement, Dips, Short Volume - SIT DOWN & LISTEN, this has to STOP. ✋🏽🛑
+# Author: Sh0w3n
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/](https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/)
 
 
 &#x200B;

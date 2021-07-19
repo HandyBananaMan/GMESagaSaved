@@ -1,6 +1,6 @@
-#Title: Yo this got me heated about our boy Cohen.
-#Author: Paladinspector
-#Post URL: [https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/](https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/)
+# Title: Yo this got me heated about our boy Cohen.
+# Author: Paladinspector
+# Post URL: [https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/](https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/)
 
 
 From Reuters:

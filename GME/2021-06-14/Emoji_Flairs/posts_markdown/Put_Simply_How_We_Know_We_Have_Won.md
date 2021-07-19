@@ -1,6 +1,6 @@
-#Title: Put Simply: How We Know We Have Won
-#Author: PSychoGME
-#Post URL: [https://www.reddit.com/r/GME/comments/nzqctp/put_simply_how_we_know_we_have_won/](https://www.reddit.com/r/GME/comments/nzqctp/put_simply_how_we_know_we_have_won/)
+# Title: Put Simply: How We Know We Have Won
+# Author: PSychoGME
+# Post URL: [https://www.reddit.com/r/GME/comments/nzqctp/put_simply_how_we_know_we_have_won/](https://www.reddit.com/r/GME/comments/nzqctp/put_simply_how_we_know_we_have_won/)
 
 
 So they dropped the price to 226. This may feel unpleasant and FUD-y to some, but it is still far higher than it was just 3 weeks ago. 

@@ -1,6 +1,6 @@
-#Title: There is no move they can make that we can't see, nothing that they can hide that we can't find, nothing that they can do that we don't predict for. We aren't winning, we've won. We just have to wait for the prize.
-#Author: DaBi5cu1t
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7txqb/there_is_no_move_they_can_make_that_we_cant_see/](https://www.reddit.com/r/Superstonk/comments/o7txqb/there_is_no_move_they_can_make_that_we_cant_see/)
+# Title: There is no move they can make that we can't see, nothing that they can hide that we can't find, nothing that they can do that we don't predict for. We aren't winning, we've won. We just have to wait for the prize.
+# Author: DaBi5cu1t
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7txqb/there_is_no_move_they_can_make_that_we_cant_see/](https://www.reddit.com/r/Superstonk/comments/o7txqb/there_is_no_move_they_can_make_that_we_cant_see/)
 
 
 We have been and still are more than one step ahead of the short hedge funds.

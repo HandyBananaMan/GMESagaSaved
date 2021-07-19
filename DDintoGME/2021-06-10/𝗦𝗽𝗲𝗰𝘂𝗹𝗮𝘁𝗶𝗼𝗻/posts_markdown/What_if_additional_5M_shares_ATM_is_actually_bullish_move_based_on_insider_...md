@@ -1,6 +1,6 @@
-#Title: What if additional 5M shares ATM is actually bullish move based on insider SI intel? GME sold 3.5M shares knowing full well it was at least shorted 140%. Perhaps they know SI is well over 200% (140÷3.5×5) and 5M will barely make a ripple.
-#Author: zenquest
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nwlafl/what_if_additional_5m_shares_atm_is_actually/](https://www.reddit.com/r/DDintoGME/comments/nwlafl/what_if_additional_5m_shares_atm_is_actually/)
+# Title: What if additional 5M shares ATM is actually bullish move based on insider SI intel? GME sold 3.5M shares knowing full well it was at least shorted 140%. Perhaps they know SI is well over 200% (140÷3.5×5) and 5M will barely make a ripple.
+# Author: zenquest
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nwlafl/what_if_additional_5m_shares_atm_is_actually/](https://www.reddit.com/r/DDintoGME/comments/nwlafl/what_if_additional_5m_shares_atm_is_actually/)
 
 
 There is no denial that RC got into GME knowing the extremely high short interest. The first few moves were to cull planted 🐍insiders, create a vision, shed drowning debt, and mobilize an A-team. The company twitter even mentioned ***moass***, before taking it down. Two recent SEC filings explicitly mention "short squeeze" as risk, and we now know SEC is actively looking into manipulation.

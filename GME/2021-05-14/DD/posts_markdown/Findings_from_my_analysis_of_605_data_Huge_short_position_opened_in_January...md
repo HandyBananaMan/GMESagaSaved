@@ -1,6 +1,6 @@
-#Title: Findings from my analysis of 605 data: Huge short position opened in January. Expanded in February and March. Has not been closed. (Also posted on Superstonk)
-#Author: Bladeace
-#Post URL: [https://www.reddit.com/r/GME/comments/nc2zcc/findings_from_my_analysis_of_605_data_huge_short/](https://www.reddit.com/r/GME/comments/nc2zcc/findings_from_my_analysis_of_605_data_huge_short/)
+# Title: Findings from my analysis of 605 data: Huge short position opened in January. Expanded in February and March. Has not been closed. (Also posted on Superstonk)
+# Author: Bladeace
+# Post URL: [https://www.reddit.com/r/GME/comments/nc2zcc/findings_from_my_analysis_of_605_data_huge_short/](https://www.reddit.com/r/GME/comments/nc2zcc/findings_from_my_analysis_of_605_data_huge_short/)
 
 
 **TA;DR: I looked at the 605 data - Citadel’s short position is so huge it’s distorted the order flow. It’s so massive you can see it merely by looking at where the GME orders are being executed. It also shows they haven’t closed.**

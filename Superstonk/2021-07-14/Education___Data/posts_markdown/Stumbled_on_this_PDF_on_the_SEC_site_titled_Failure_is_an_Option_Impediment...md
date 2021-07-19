@@ -1,6 +1,6 @@
-#Title: Stumbled on this PDF on the SEC site titled "Failure is an Option: Impediments to Short Selling and Options Prices" - can I get some silverback wrinkles to read this over with me?
-#Author: xRehab
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okam0g/stumbled_on_this_pdf_on_the_sec_site_titled/](https://www.reddit.com/r/Superstonk/comments/okam0g/stumbled_on_this_pdf_on_the_sec_site_titled/)
+# Title: Stumbled on this PDF on the SEC site titled "Failure is an Option: Impediments to Short Selling and Options Prices" - can I get some silverback wrinkles to read this over with me?
+# Author: xRehab
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okam0g/stumbled_on_this_pdf_on_the_sec_site_titled/](https://www.reddit.com/r/Superstonk/comments/okam0g/stumbled_on_this_pdf_on_the_sec_site_titled/)
 
 
 I'm not a smart 🦍 but I have been trying to understand the chain of responsibility between Brokers/MM/Clearing houses/DTCC. Found this in my searches, and it seems to address a lot of things we are seeing with GME. MM abuse of FTDs, oligopoly as a security becomes volatile and hard to borrow....

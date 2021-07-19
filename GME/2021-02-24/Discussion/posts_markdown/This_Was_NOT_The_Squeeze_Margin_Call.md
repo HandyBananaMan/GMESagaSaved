@@ -1,6 +1,6 @@
-#Title: This Was NOT The Squeeze: Margin Call
-#Author: GME_200K
-#Post URL: [https://www.reddit.com/r/GME/comments/lrpw2v/this_was_not_the_squeeze_margin_call/](https://www.reddit.com/r/GME/comments/lrpw2v/this_was_not_the_squeeze_margin_call/)
+# Title: This Was NOT The Squeeze: Margin Call
+# Author: GME_200K
+# Post URL: [https://www.reddit.com/r/GME/comments/lrpw2v/this_was_not_the_squeeze_margin_call/](https://www.reddit.com/r/GME/comments/lrpw2v/this_was_not_the_squeeze_margin_call/)
 
 
 Hello,

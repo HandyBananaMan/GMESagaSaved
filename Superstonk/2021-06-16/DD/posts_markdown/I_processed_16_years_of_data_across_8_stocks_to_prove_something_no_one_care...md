@@ -1,6 +1,6 @@
-#Title: I processed 16 years of data across 8 stocks to prove something no one cares about: GME's price is ending in .00 10X more than it should be.
-#Author: LongTimeGamer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/](https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/)
+# Title: I processed 16 years of data across 8 stocks to prove something no one cares about: GME's price is ending in .00 10X more than it should be.
+# Author: LongTimeGamer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/](https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/)
 
 
 I’m back and so is my fondness of the .00. I spent all week trying to shake the thought of it... but just as the return of 005 was, the return of .00 is inevitable.

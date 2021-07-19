@@ -1,6 +1,6 @@
-#Title: The Inflation Bomb
-#Author: Ren3666
-#Post URL: [https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/](https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/)
+# Title: The Inflation Bomb
+# Author: Ren3666
+# Post URL: [https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/](https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/)
 
 
 Disclaimer: I wonder if anyone considers this a nuclear bomb, even though it is coming from me, I was baffled the whole time. I don´t even want you to believe me, rather I would prefer it if you prove me wrong, but here we are, so take this with an infusion of natrium chloride. It may feel cold in the beginning, but the chill will have spread throughout your body, when you reach the end.

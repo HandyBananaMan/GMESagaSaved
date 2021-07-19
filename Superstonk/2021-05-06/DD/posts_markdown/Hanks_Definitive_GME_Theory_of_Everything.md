@@ -1,6 +1,6 @@
-#Title: Hank's Definitive GME Theory of Everything
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n66tzh/hanks_definitive_gme_theory_of_everything/](https://www.reddit.com/r/Superstonk/comments/n66tzh/hanks_definitive_gme_theory_of_everything/)
+# Title: Hank's Definitive GME Theory of Everything
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n66tzh/hanks_definitive_gme_theory_of_everything/](https://www.reddit.com/r/Superstonk/comments/n66tzh/hanks_definitive_gme_theory_of_everything/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

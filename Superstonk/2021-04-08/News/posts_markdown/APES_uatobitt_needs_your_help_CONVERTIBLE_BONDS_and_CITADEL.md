@@ -1,6 +1,6 @@
-#Title: APES: u/atobitt needs your help! CONVERTIBLE BONDS and CITADEL
-#Author: micahsaurus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mn0rlf/apes_uatobitt_needs_your_help_convertible_bonds/](https://www.reddit.com/r/Superstonk/comments/mn0rlf/apes_uatobitt_needs_your_help_convertible_bonds/)
+# Title: APES: u/atobitt needs your help! CONVERTIBLE BONDS and CITADEL
+# Author: micahsaurus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mn0rlf/apes_uatobitt_needs_your_help_convertible_bonds/](https://www.reddit.com/r/Superstonk/comments/mn0rlf/apes_uatobitt_needs_your_help_convertible_bonds/)
 
 
 u/atobitt was on AndrewMoMoney's stream just a few minutes ago and he needs our help! We need to scour EDGAR for any connections to convertible bonds and any of the Citadel companies. He is putting together another DD. 

@@ -1,6 +1,6 @@
-#Title: According to TradingView.com, Crypto market has liquidated over $1,000,000,000,000 USD since May. The price of GME has no limit.
-#Author: KFC_just
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/](https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/)
+# Title: According to TradingView.com, Crypto market has liquidated over $1,000,000,000,000 USD since May. The price of GME has no limit.
+# Author: KFC_just
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/](https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/)
 
 
 # TL;DR: Pretty picture show hedgies r fukt.

@@ -1,6 +1,6 @@
-#Title: I don't know where I'm going from here, but I promise it won't be boring...
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olp09b/i_dont_know_where_im_going_from_here_but_i/](https://www.reddit.com/r/GMEJungle/comments/olp09b/i_dont_know_where_im_going_from_here_but_i/)
+# Title: I don't know where I'm going from here, but I promise it won't be boring...
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olp09b/i_dont_know_where_im_going_from_here_but_i/](https://www.reddit.com/r/GMEJungle/comments/olp09b/i_dont_know_where_im_going_from_here_but_i/)
 
 
 This was originally posted on the other sub and has been edited for the name. GMEJungle is my abandoned sub idea from before modship over there but I guess since I'm permanently banned, here I am. You asked, here's something. Please don't expect much from it. Idk wtf is happening.

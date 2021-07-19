@@ -1,6 +1,6 @@
-#Title: ANOTHER HUGE WAVE OF DEEP OTM PUTS WERE BOUGHT TODAY (6/23)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6reyc/another_huge_wave_of_deep_otm_puts_were_bought/](https://www.reddit.com/r/Superstonk/comments/o6reyc/another_huge_wave_of_deep_otm_puts_were_bought/)
+# Title: ANOTHER HUGE WAVE OF DEEP OTM PUTS WERE BOUGHT TODAY (6/23)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6reyc/another_huge_wave_of_deep_otm_puts_were_bought/](https://www.reddit.com/r/Superstonk/comments/o6reyc/another_huge_wave_of_deep_otm_puts_were_bought/)
 
 
  What up Apes,

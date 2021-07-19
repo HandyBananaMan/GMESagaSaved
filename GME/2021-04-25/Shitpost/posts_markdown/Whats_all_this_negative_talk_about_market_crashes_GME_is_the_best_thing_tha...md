@@ -1,6 +1,6 @@
-#Title: What’s all this negative talk about market crashes? GME is the best thing that has happened to the broad economy. EVER.
-#Author: madal2
-#Post URL: [https://www.reddit.com/r/GME/comments/my5084/whats_all_this_negative_talk_about_market_crashes/](https://www.reddit.com/r/GME/comments/my5084/whats_all_this_negative_talk_about_market_crashes/)
+# Title: What’s all this negative talk about market crashes? GME is the best thing that has happened to the broad economy. EVER.
+# Author: madal2
+# Post URL: [https://www.reddit.com/r/GME/comments/my5084/whats_all_this_negative_talk_about_market_crashes/](https://www.reddit.com/r/GME/comments/my5084/whats_all_this_negative_talk_about_market_crashes/)
 
 
 GDP is roughly defined as a money  measure of the market value of all the final goods and services produced  over a specific time. (thanks Wikipedia) Has anyone thought about all  of the *indirect* ways that GME  has contributed to the GDP? This list is by no means comprehensive, but  the result of a crayon sniffing binge, and is in no way financial  advice.

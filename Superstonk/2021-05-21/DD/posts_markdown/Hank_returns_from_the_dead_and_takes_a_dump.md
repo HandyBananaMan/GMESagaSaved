@@ -1,6 +1,6 @@
-#Title: Hank returns from the dead and takes a dump
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/](https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/)
+# Title: Hank returns from the dead and takes a dump
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/](https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/)
 
 
 **\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***

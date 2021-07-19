@@ -1,6 +1,6 @@
-#Title: Looks like GameStop is cooperating with an SEC investigation, possibly related to a lawsuit against Apex and 30 something other firms.
-#Author: Sladerade
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwklbg/looks_like_gamestop_is_cooperating_with_an_sec/](https://www.reddit.com/r/Superstonk/comments/nwklbg/looks_like_gamestop_is_cooperating_with_an_sec/)
+# Title: Looks like GameStop is cooperating with an SEC investigation, possibly related to a lawsuit against Apex and 30 something other firms.
+# Author: Sladerade
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwklbg/looks_like_gamestop_is_cooperating_with_an_sec/](https://www.reddit.com/r/Superstonk/comments/nwklbg/looks_like_gamestop_is_cooperating_with_an_sec/)
 
 
 **EDIT: Fixed the link to the Apex Merger Document. Sorry guys!**

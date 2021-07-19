@@ -1,6 +1,6 @@
-#Title: The Matrix is Everywhere. A Quant DD
-#Author: BurnieSlander
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/](https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/)
+# Title: The Matrix is Everywhere. A Quant DD
+# Author: BurnieSlander
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/](https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/)
 
 
 Greetings Apetards, hold on to your tits.

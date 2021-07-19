@@ -1,6 +1,6 @@
-#Title: Regarding the 3.5m GME Common Stock offering - bullish! 🚀
-#Author: battorusobaku
-#Post URL: [https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/](https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/)
+# Title: Regarding the 3.5m GME Common Stock offering - bullish! 🚀
+# Author: battorusobaku
+# Post URL: [https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/](https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/)
 
 
 Everyone has seen the news that GME is offering 3,5m in new common stock to raise capital. 

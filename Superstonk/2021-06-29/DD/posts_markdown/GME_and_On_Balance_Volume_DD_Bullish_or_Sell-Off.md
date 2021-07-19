@@ -1,6 +1,6 @@
-#Title: GME and On Balance Volume DD (Bullish or Sell-Off?)
-#Author: NA_1983
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/](https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/)
+# Title: GME and On Balance Volume DD (Bullish or Sell-Off?)
+# Author: NA_1983
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/](https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/)
 
 
 &#x200B;

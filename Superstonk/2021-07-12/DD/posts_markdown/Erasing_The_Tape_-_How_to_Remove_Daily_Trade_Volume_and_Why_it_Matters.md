@@ -1,6 +1,6 @@
-#Title: "Erasing The Tape" - How to Remove Daily Trade Volume and Why it Matters
-#Author: myplayprofile
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/](https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/)
+# Title: "Erasing The Tape" - How to Remove Daily Trade Volume and Why it Matters
+# Author: myplayprofile
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/](https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/)
 
 
 While the whole world was having a big old COVID reopening party, a few autistics and apes saw the giant lie at the heart of the stonk markets, and they saw it by doing something the rest of the suckers never thought to do - They looked. Insert obligatory shoutout to u/atobitt u/criand u/homedepothank69 u/broccaaa and the many other DD authors in this sub that have and continue to 👀.

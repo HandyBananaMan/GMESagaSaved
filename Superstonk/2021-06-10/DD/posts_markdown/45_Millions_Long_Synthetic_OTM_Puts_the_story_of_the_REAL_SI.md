@@ -1,6 +1,6 @@
-#Title: 45 Millions Long Synthetic OTM Puts, the story of the REAL SI %
-#Author: luxowoman
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/](https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/)
+# Title: 45 Millions Long Synthetic OTM Puts, the story of the REAL SI %
+# Author: luxowoman
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/](https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/)
 
 
 Alright boring day, so perfect timing to write something !

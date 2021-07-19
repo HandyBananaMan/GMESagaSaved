@@ -1,6 +1,6 @@
-#Title: Blackrock lending piles of GME shares at dumbfounding rates setting up the trigger and not selling during the MOASS
-#Author: angrywingnut
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mutwug/blackrock_lending_piles_of_gme_shares_at/](https://www.reddit.com/r/Superstonk/comments/mutwug/blackrock_lending_piles_of_gme_shares_at/)
+# Title: Blackrock lending piles of GME shares at dumbfounding rates setting up the trigger and not selling during the MOASS
+# Author: angrywingnut
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mutwug/blackrock_lending_piles_of_gme_shares_at/](https://www.reddit.com/r/Superstonk/comments/mutwug/blackrock_lending_piles_of_gme_shares_at/)
 
 
 **TLDR: The ETF IJR has 2,700,000 shares of GME available to borrow at 0.3% and is an iShares ETF owned by Blackrock (BLK). BLK has a total of 14 ETFs that contain GME totaling 6,698,453 shares and rebalance quarterly, so these shares will most likely be held through the MOASS. If BLK has been lending shares like this for weeks they hold the MOASS trigger making the SEC rule changes critical to clearing liftoff. Opinion: As Blackrock is a passive investment firm and the 4th branch of the government they won't sell anything during the MOASS prioritizing Citadel's demise to buy their assets on the cheap and stabilize the economy from their mountain of fuckery.**

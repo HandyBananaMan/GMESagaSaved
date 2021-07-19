@@ -1,6 +1,6 @@
-#Title: Shorty vs Whale for $200 and why the rocket wasn’t launched yesterday. DD
-#Author: Squashua1982
-#Post URL: [https://www.reddit.com/r/GME/comments/m9bsjl/shorty_vs_whale_for_200_and_why_the_rocket_wasnt/](https://www.reddit.com/r/GME/comments/m9bsjl/shorty_vs_whale_for_200_and_why_the_rocket_wasnt/)
+# Title: Shorty vs Whale for $200 and why the rocket wasn’t launched yesterday. DD
+# Author: Squashua1982
+# Post URL: [https://www.reddit.com/r/GME/comments/m9bsjl/shorty_vs_whale_for_200_and_why_the_rocket_wasnt/](https://www.reddit.com/r/GME/comments/m9bsjl/shorty_vs_whale_for_200_and_why_the_rocket_wasnt/)
 
 
 This is my first DD and I am, by no means, a smart ape. I have skin in the game but will not post my position due to info that came out this week saying we shouldn’t. I am no shill, or intern, or troll. I teach and have a small Barbecue business on the side to make ends meet. 

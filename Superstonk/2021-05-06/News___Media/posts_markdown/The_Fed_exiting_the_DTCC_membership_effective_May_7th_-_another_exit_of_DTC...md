@@ -1,6 +1,6 @@
-#Title: The Fed exiting the DTCC membership effective May 7th - another exit of DTCC and FICC
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6cwwi/the_fed_exiting_the_dtcc_membership_effective_may/](https://www.reddit.com/r/Superstonk/comments/n6cwwi/the_fed_exiting_the_dtcc_membership_effective_may/)
+# Title: The Fed exiting the DTCC membership effective May 7th - another exit of DTCC and FICC
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6cwwi/the_fed_exiting_the_dtcc_membership_effective_may/](https://www.reddit.com/r/Superstonk/comments/n6cwwi/the_fed_exiting_the_dtcc_membership_effective_may/)
 
 
 In my last post I highlighted that Interactive Brokers is exiting membership of the MBS division of the FICC. [https://www.reddit.com/r/Superstonk/comments/n5ttd2/interactive\_brokers\_intb\_to\_retire\_from/](https://www.reddit.com/r/Superstonk/comments/n5ttd2/interactive_brokers_intb_to_retire_from/)

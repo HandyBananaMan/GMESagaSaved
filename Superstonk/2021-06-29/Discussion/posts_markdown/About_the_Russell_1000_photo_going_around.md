@@ -1,6 +1,6 @@
-#Title: About the Russell 1000 photo going around…
-#Author: dat-danku
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1kvz/about_the_russell_1000_photo_going_around/](https://www.reddit.com/r/Superstonk/comments/oa1kvz/about_the_russell_1000_photo_going_around/)
+# Title: About the Russell 1000 photo going around…
+# Author: dat-danku
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1kvz/about_the_russell_1000_photo_going_around/](https://www.reddit.com/r/Superstonk/comments/oa1kvz/about_the_russell_1000_photo_going_around/)
 
 
 It’s misinformation at best, unethical at worst, and FUD nonetheless. I don’t think OP was aware of the misinformation they were spreading. It’s up to ALL us apes to catch these things before it circulates, like the post did. Let’s begin.

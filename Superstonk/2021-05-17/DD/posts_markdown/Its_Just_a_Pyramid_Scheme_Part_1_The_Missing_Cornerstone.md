@@ -1,6 +1,6 @@
-#Title: It's Just a Pyramid Scheme Part 1: The Missing Cornerstone
-#Author: hell-mitc
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/](https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/)
+# Title: It's Just a Pyramid Scheme Part 1: The Missing Cornerstone
+# Author: hell-mitc
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/](https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/)
 
 
 Hey Everyone! 

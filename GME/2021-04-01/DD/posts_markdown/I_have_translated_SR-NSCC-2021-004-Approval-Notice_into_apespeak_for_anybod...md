@@ -1,6 +1,6 @@
-#Title: 📑📑📑I have translated 'SR-NSCC-2021-004-Approval-Notice' into apespeak for anybody that want's to read along. 🐵🐵🐵
-#Author: Dannyboi93
-#Post URL: [https://www.reddit.com/r/GME/comments/mhx3p8/i_have_translated_srnscc2021004approvalnotice/](https://www.reddit.com/r/GME/comments/mhx3p8/i_have_translated_srnscc2021004approvalnotice/)
+# Title: 📑📑📑I have translated 'SR-NSCC-2021-004-Approval-Notice' into apespeak for anybody that want's to read along. 🐵🐵🐵
+# Author: Dannyboi93
+# Post URL: [https://www.reddit.com/r/GME/comments/mhx3p8/i_have_translated_srnscc2021004approvalnotice/](https://www.reddit.com/r/GME/comments/mhx3p8/i_have_translated_srnscc2021004approvalnotice/)
 
 
 Quick note, original text is in the blocks, mine is in italics, and I randomly switch between their 1st person and my 1st person and I can't be bothered to go through putting quotation marks to differentiate so you'll have to figure it out for yourself. Similarly, I am just an ape who shoves crayons in his butt, takes pictures, uploads them to /r/ buttcrayons of which I am the only real member and then I upvote them with alts and comment on them to boost my own self-esteem. Similarly, if anybody wants to chime in (on the article, not my ass) then feel free to point shit out and I will amend it, there are a few points in there were I need somebody with more wrinkles to clarify what they mean.

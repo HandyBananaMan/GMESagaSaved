@@ -1,6 +1,6 @@
-#Title: GME, Banks Falling Off a Cliff, The Movie Stock, Elliot Waves, WUT Mean For This Week? 🚀
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/)
+# Title: GME, Banks Falling Off a Cliff, The Movie Stock, Elliot Waves, WUT Mean For This Week? 🚀
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/)
 
 
 Sup Apes

@@ -1,6 +1,6 @@
-#Title: Citadel Has No Clothes
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
+# Title: Citadel Has No Clothes
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
 
 
 EDIT: This is not financial advice. Everything disclosed in the post was done by myself, with public information. I came to my own conclusions, as should you.

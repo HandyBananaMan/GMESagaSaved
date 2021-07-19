@@ -1,6 +1,6 @@
-#Title: “This is a Big Fucking Dealing”
-#Author: Upset_Tourist69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obcbb7/this_is_a_big_fucking_dealing/](https://www.reddit.com/r/Superstonk/comments/obcbb7/this_is_a_big_fucking_dealing/)
+# Title: “This is a Big Fucking Dealing”
+# Author: Upset_Tourist69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obcbb7/this_is_a_big_fucking_dealing/](https://www.reddit.com/r/Superstonk/comments/obcbb7/this_is_a_big_fucking_dealing/)
 
 
 Please tell me someone saved “TLC - The Long Con” DD before it got deleted.  Perhaps archived it or as a PDF?

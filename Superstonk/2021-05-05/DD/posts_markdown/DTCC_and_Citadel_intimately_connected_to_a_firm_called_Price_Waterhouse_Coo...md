@@ -1,6 +1,6 @@
-#Title: DTCC and Citadel intimately connected to a firm called Price Waterhouse Coopers which profited 322M from Lehman's collapse.
-#Author: thabat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/](https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/)
+# Title: DTCC and Citadel intimately connected to a firm called Price Waterhouse Coopers which profited 322M from Lehman's collapse.
+# Author: thabat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/](https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/)
 
 
 I had this idea.. What if Citadel has dirt on the DTCC and that's why they're letting this shit go on?

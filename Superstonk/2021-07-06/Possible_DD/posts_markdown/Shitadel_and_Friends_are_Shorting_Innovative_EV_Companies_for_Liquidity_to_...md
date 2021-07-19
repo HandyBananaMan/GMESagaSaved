@@ -1,6 +1,6 @@
-#Title: Shitadel and Friends are Shorting Innovative EV Companies for Liquidity to Fight GME
-#Author: phoenixfenix
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/)
+# Title: Shitadel and Friends are Shorting Innovative EV Companies for Liquidity to Fight GME
+# Author: phoenixfenix
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/)
 
 
 This is a series I am writing up about why I believe ALL short selling, not just naked short selling, should be banned. 

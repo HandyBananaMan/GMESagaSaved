@@ -1,6 +1,6 @@
-#Title: A deep dive into some more of the data released this week. Some of it is bleak, but there is HOPE in here! 🚀🚀🚀🚀
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/](https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/)
+# Title: A deep dive into some more of the data released this week. Some of it is bleak, but there is HOPE in here! 🚀🚀🚀🚀
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/](https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/)
 
 
 ![Hello, r\/Superstonk Jellyfish here!  ](https://i.redd.it/k2eixqtt63971.gif)

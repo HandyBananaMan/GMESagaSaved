@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Tuesday 06-29-2021- The Beat Goes On 🦍🥁💎🙌🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/](https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/)
+# Title: The Jungle Beat- Tuesday 06-29-2021- The Beat Goes On 🦍🥁💎🙌🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/](https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/)
 
 
 *The Jungle Beat will be posted at 4:20 pm NYSE time every trading day!*

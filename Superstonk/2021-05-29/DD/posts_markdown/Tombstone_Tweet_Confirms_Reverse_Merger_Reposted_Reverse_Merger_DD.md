@@ -1,6 +1,6 @@
-#Title: Tombstone Tweet Confirms Reverse Merger? Reposted Reverse Merger DD
-#Author: Alert_Piano341
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/](https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/)
+# Title: Tombstone Tweet Confirms Reverse Merger? Reposted Reverse Merger DD
+# Author: Alert_Piano341
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/](https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/)
 
 
 &#x200B;

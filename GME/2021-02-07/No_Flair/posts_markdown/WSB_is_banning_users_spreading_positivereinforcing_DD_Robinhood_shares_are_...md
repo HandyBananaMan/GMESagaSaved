@@ -1,6 +1,6 @@
-#Title: WSB is banning users spreading positive/reinforcing DD, Robinhood shares are being used to sell to short sellers behind your back if you do not downgrade to a Cash acouunt, GME is FAR from over!
-#Author: Wiezgie
-#Post URL: [https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/](https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/)
+# Title: WSB is banning users spreading positive/reinforcing DD, Robinhood shares are being used to sell to short sellers behind your back if you do not downgrade to a Cash acouunt, GME is FAR from over!
+# Author: Wiezgie
+# Post URL: [https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/](https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/)
 
 
 Every share you purchase off Robinhood is through margin, even if you dont have gold or margin turned on.

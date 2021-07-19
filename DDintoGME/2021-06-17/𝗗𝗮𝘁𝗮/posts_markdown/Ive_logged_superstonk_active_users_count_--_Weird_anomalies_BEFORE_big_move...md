@@ -1,6 +1,6 @@
-#Title: Ive logged superstonk active users count -- Weird anomalies BEFORE big movement days.
-#Author: icusu
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o2evxb/ive_logged_superstonk_active_users_count_weird/](https://www.reddit.com/r/DDintoGME/comments/o2evxb/ive_logged_superstonk_active_users_count_weird/)
+# Title: Ive logged superstonk active users count -- Weird anomalies BEFORE big movement days.
+# Author: icusu
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o2evxb/ive_logged_superstonk_active_users_count_weird/](https://www.reddit.com/r/DDintoGME/comments/o2evxb/ive_logged_superstonk_active_users_count_weird/)
 
 
 Heya apes.  

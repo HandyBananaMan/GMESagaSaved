@@ -1,6 +1,6 @@
-#Title: Guys just saying THIS IS THE DIP BEFORE THE STORM!
-#Author: TheExile7
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0jrww/guys_just_saying_this_is_the_dip_before_the_storm/](https://www.reddit.com/r/Superstonk/comments/o0jrww/guys_just_saying_this_is_the_dip_before_the_storm/)
+# Title: Guys just saying THIS IS THE DIP BEFORE THE STORM!
+# Author: TheExile7
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0jrww/guys_just_saying_this_is_the_dip_before_the_storm/](https://www.reddit.com/r/Superstonk/comments/o0jrww/guys_just_saying_this_is_the_dip_before_the_storm/)
 
 
 I could type my whole story here since 7 Jan. Sold NONE, high xxxx holder.

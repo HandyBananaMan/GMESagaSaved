@@ -1,6 +1,6 @@
-#Title: To the apes with lower floors- 1 million dollars is less money than you think and will be gone before you know it
-#Author: Edible-Arrangement-
-#Post URL: [https://www.reddit.com/r/GME/comments/o9yezu/to_the_apes_with_lower_floors_1_million_dollars/](https://www.reddit.com/r/GME/comments/o9yezu/to_the_apes_with_lower_floors_1_million_dollars/)
+# Title: To the apes with lower floors- 1 million dollars is less money than you think and will be gone before you know it
+# Author: Edible-Arrangement-
+# Post URL: [https://www.reddit.com/r/GME/comments/o9yezu/to_the_apes_with_lower_floors_1_million_dollars/](https://www.reddit.com/r/GME/comments/o9yezu/to_the_apes_with_lower_floors_1_million_dollars/)
 
 
 I have a friend I got to buy in who plans to sell when she can make $1 million dollars by selling all of her shares. She thinks that is enough money to completely change her life. 

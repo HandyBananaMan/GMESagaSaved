@@ -1,6 +1,6 @@
-#Title: An update on relationships between stocks - STATISTICS ROCKS! - Brought to you by the SuperstonkQuants 🦍🥼🔬🚀
-#Author: xpurplexamyx
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/](https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/)
+# Title: An update on relationships between stocks - STATISTICS ROCKS! - Brought to you by the SuperstonkQuants 🦍🥼🔬🚀
+# Author: xpurplexamyx
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/](https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/)
 
 
 Edit: Some folks have asked for a TA;DR. It's sorta hard to distill this post down into a mere sentence, but I'll try to channel my smooth brain:

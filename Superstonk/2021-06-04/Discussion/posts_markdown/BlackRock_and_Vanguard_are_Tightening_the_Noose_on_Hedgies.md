@@ -1,6 +1,6 @@
-#Title: BlackRock and Vanguard are Tightening the Noose on Hedgies
-#Author: IPromisedNoPosts
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns900c/blackrock_and_vanguard_are_tightening_the_noose/](https://www.reddit.com/r/Superstonk/comments/ns900c/blackrock_and_vanguard_are_tightening_the_noose/)
+# Title: BlackRock and Vanguard are Tightening the Noose on Hedgies
+# Author: IPromisedNoPosts
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns900c/blackrock_and_vanguard_are_tightening_the_noose/](https://www.reddit.com/r/Superstonk/comments/ns900c/blackrock_and_vanguard_are_tightening_the_noose/)
 
 
 Yesterday there were two big things that happened that may not seem related initially, but our awesome DD has helped to uncover their relation.

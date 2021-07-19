@@ -1,6 +1,6 @@
-#Title: After MOASS, make sure you buy back in.....
-#Author: pearlyman
-#Post URL: [https://www.reddit.com/r/GME/comments/n7z5eh/after_moass_make_sure_you_buy_back_in/](https://www.reddit.com/r/GME/comments/n7z5eh/after_moass_make_sure_you_buy_back_in/)
+# Title: After MOASS, make sure you buy back in.....
+# Author: pearlyman
+# Post URL: [https://www.reddit.com/r/GME/comments/n7z5eh/after_moass_make_sure_you_buy_back_in/](https://www.reddit.com/r/GME/comments/n7z5eh/after_moass_make_sure_you_buy_back_in/)
 
 
 I've said this as a comment before, but I think it should be said again...

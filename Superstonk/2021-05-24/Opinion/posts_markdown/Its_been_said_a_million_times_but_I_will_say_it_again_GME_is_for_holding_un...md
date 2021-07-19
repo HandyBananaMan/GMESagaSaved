@@ -1,6 +1,6 @@
-#Title: It's been said a million times but I will say it again. GME is for holding until the MOASS, not for making a quick profit and not for day trading.
-#Author: Skyman69420
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nju2h0/its_been_said_a_million_times_but_i_will_say_it/](https://www.reddit.com/r/Superstonk/comments/nju2h0/its_been_said_a_million_times_but_i_will_say_it/)
+# Title: It's been said a million times but I will say it again. GME is for holding until the MOASS, not for making a quick profit and not for day trading.
+# Author: Skyman69420
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nju2h0/its_been_said_a_million_times_but_i_will_say_it/](https://www.reddit.com/r/Superstonk/comments/nju2h0/its_been_said_a_million_times_but_i_will_say_it/)
 
 
 GME is not a regular "solid" investment, a lot of apes have been following this for months and understand that this sittuation is bigger than you and me.

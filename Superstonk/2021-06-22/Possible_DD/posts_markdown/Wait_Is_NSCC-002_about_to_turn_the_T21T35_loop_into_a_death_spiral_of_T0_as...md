@@ -1,6 +1,6 @@
-#Title: Wait... Is NSCC-002 about to turn the T+21/T+35 loop into a death spiral of T+0 as we approach Q2 end?
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/](https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/)
+# Title: Wait... Is NSCC-002 about to turn the T+21/T+35 loop into a death spiral of T+0 as we approach Q2 end?
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/](https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/)
 
 
 # 0. Preface

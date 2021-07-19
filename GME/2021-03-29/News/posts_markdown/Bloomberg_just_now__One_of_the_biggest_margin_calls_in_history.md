@@ -1,6 +1,6 @@
-#Title: Bloomberg just now : "One of the biggest margin calls in history"
-#Author: Independent-Novel840
-#Post URL: [https://www.reddit.com/r/GME/comments/mfqbzw/bloomberg_just_now_one_of_the_biggest_margin/](https://www.reddit.com/r/GME/comments/mfqbzw/bloomberg_just_now_one_of_the_biggest_margin/)
+# Title: Bloomberg just now : "One of the biggest margin calls in history"
+# Author: Independent-Novel840
+# Post URL: [https://www.reddit.com/r/GME/comments/mfqbzw/bloomberg_just_now_one_of_the_biggest_margin/](https://www.reddit.com/r/GME/comments/mfqbzw/bloomberg_just_now_one_of_the_biggest_margin/)
 
 
 Bloomberg just now : "One of the biggest margin calls in history"

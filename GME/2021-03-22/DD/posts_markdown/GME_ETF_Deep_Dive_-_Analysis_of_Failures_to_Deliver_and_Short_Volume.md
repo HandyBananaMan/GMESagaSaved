@@ -1,6 +1,6 @@
-#Title: GME ETF Deep Dive - Analysis of Failures to Deliver and Short Volume
-#Author: the_nebraskan
-#Post URL: [https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/](https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/)
+# Title: GME ETF Deep Dive - Analysis of Failures to Deliver and Short Volume
+# Author: the_nebraskan
+# Post URL: [https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/](https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/)
 
 
 this is a follow on to my earlier post regarding ETFs holding GME [here](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/).

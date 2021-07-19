@@ -1,6 +1,6 @@
-#Title: "less than 300 share volume in Germany" is misleading and wrong
-#Author: wowsuchcookie
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/](https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/)
+# Title: "less than 300 share volume in Germany" is misleading and wrong
+# Author: wowsuchcookie
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/](https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/)
 
 
 u/CallMeMo2 posted [this image](https://www.reddit.com/r/Superstonk/comments/oe8dyz/when_shitadel_is_closed_with_less_than_300_share/?utm_source=share&utm_medium=web2x&context=3) some 5 hours ago and a lot of people upvoted and it even got an award because the message is what people look for in their confirmation bias and an overall silent day with no trading.

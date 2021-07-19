@@ -1,6 +1,6 @@
-#Title: DTCC just filed another rule yesterday that overhauls their plan in the event of an economic crisis such as a major member default
-#Author: Scalpel_Jockey9965
-#Post URL: [https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/](https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/)
+# Title: DTCC just filed another rule yesterday that overhauls their plan in the event of an economic crisis such as a major member default
+# Author: Scalpel_Jockey9965
+# Post URL: [https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/](https://www.reddit.com/r/GME/comments/mc8trw/dtcc_just_filed_another_rule_yesterday_that/)
 
 
 Taken from [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)

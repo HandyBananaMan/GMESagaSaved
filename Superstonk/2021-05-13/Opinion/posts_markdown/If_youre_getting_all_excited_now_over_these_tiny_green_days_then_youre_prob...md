@@ -1,6 +1,6 @@
-#Title: If you're getting all excited now over these tiny green days, then you're probably going to get overly emotional and paper hand when the real squeeze starts. So chill out.
-#Author: Noderpsy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbnn6k/if_youre_getting_all_excited_now_over_these_tiny/](https://www.reddit.com/r/Superstonk/comments/nbnn6k/if_youre_getting_all_excited_now_over_these_tiny/)
+# Title: If you're getting all excited now over these tiny green days, then you're probably going to get overly emotional and paper hand when the real squeeze starts. So chill out.
+# Author: Noderpsy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbnn6k/if_youre_getting_all_excited_now_over_these_tiny/](https://www.reddit.com/r/Superstonk/comments/nbnn6k/if_youre_getting_all_excited_now_over_these_tiny/)
 
 
 This is a psychological game at this point.  We like the stock, and the math is telling us that they are fucked.

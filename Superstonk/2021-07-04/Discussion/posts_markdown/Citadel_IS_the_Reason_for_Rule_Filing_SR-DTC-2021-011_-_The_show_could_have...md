@@ -1,6 +1,6 @@
-#Title: Citadel IS the Reason for Rule Filing SR-DTC-2021-011 - The show could have come to a grinding halt if they were liquidated before it was in place. ✋💎🤚🦍🚀🌕
-#Author: EnvisionAU
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ode12g/citadel_is_the_reason_for_rule_filing/](https://www.reddit.com/r/Superstonk/comments/ode12g/citadel_is_the_reason_for_rule_filing/)
+# Title: Citadel IS the Reason for Rule Filing SR-DTC-2021-011 - The show could have come to a grinding halt if they were liquidated before it was in place. ✋💎🤚🦍🚀🌕
+# Author: EnvisionAU
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ode12g/citadel_is_the_reason_for_rule_filing/](https://www.reddit.com/r/Superstonk/comments/ode12g/citadel_is_the_reason_for_rule_filing/)
 
 
 I was reading this DD ( [The Sun Never Sets on Citadel -- Part 2](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/) ) by u/[swede\_child\_of\_mine](https://www.reddit.com/user/swede_child_of_mine/) and this quote stood out to me:

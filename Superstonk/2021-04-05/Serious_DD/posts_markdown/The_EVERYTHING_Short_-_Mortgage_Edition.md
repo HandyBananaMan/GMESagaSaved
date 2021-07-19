@@ -1,6 +1,6 @@
-#Title: The EVERYTHING Short - Mortgage Edition
-#Author: zipitrealgood
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/](https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/)
+# Title: The EVERYTHING Short - Mortgage Edition
+# Author: zipitrealgood
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/](https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/)
 
 
 **Disclaimer: This is not financial advice, I am not a financial advisor, please take everything I say with a grain of salt and do your own due diligence research.**

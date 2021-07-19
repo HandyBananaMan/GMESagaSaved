@@ -1,6 +1,6 @@
-#Title: So much FUD, stock volatility, and low low volume this last week. My tits are JACKED!!!!!
-#Author: ThatOneGiantofAMan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olrg0v/so_much_fud_stock_volatility_and_low_low_volume/](https://www.reddit.com/r/Superstonk/comments/olrg0v/so_much_fud_stock_volatility_and_low_low_volume/)
+# Title: So much FUD, stock volatility, and low low volume this last week. My tits are JACKED!!!!!
+# Author: ThatOneGiantofAMan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olrg0v/so_much_fud_stock_volatility_and_low_low_volume/](https://www.reddit.com/r/Superstonk/comments/olrg0v/so_much_fud_stock_volatility_and_low_low_volume/)
 
 
 Let’s put this bitch into perspective: 

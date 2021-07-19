@@ -1,6 +1,6 @@
-#Title: Huge number of Puts expiring April 16. 382k Open Interest for strikes <$175. This is equivalent to 70% of the float and 7x higher than any other week in April. Are the shorts up to something, or just trying to make some money after the squeeze? 🚀🚀🚀
-#Author: Cuttingwater_
-#Post URL: [https://www.reddit.com/r/GME/comments/mfw3u4/huge_number_of_puts_expiring_april_16_382k_open/](https://www.reddit.com/r/GME/comments/mfw3u4/huge_number_of_puts_expiring_april_16_382k_open/)
+# Title: Huge number of Puts expiring April 16. 382k Open Interest for strikes <$175. This is equivalent to 70% of the float and 7x higher than any other week in April. Are the shorts up to something, or just trying to make some money after the squeeze? 🚀🚀🚀
+# Author: Cuttingwater_
+# Post URL: [https://www.reddit.com/r/GME/comments/mfw3u4/huge_number_of_puts_expiring_april_16_382k_open/](https://www.reddit.com/r/GME/comments/mfw3u4/huge_number_of_puts_expiring_april_16_382k_open/)
 
 
 **~~Note: this is getting shill attacked. please upvote!~~** **You beat them!**

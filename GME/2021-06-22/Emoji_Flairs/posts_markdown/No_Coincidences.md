@@ -1,6 +1,6 @@
-#Title: No Coincidences.
-#Author: ChiefNorske
-#Post URL: [https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/](https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/)
+# Title: No Coincidences.
+# Author: ChiefNorske
+# Post URL: [https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/](https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/)
 
 
 I would just like to preface this post by saying that none of this is financial advice. What you may read below could potentially make you lose braincells, and that there are No Coincidences.

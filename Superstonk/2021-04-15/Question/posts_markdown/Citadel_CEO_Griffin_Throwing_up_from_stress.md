@@ -1,6 +1,6 @@
-#Title: Citadel CEO Griffin Throwing up from stress.
-#Author: RogueYorkshire
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrh2bw/citadel_ceo_griffin_throwing_up_from_stress/](https://www.reddit.com/r/Superstonk/comments/mrh2bw/citadel_ceo_griffin_throwing_up_from_stress/)
+# Title: Citadel CEO Griffin Throwing up from stress.
+# Author: RogueYorkshire
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrh2bw/citadel_ceo_griffin_throwing_up_from_stress/](https://www.reddit.com/r/Superstonk/comments/mrh2bw/citadel_ceo_griffin_throwing_up_from_stress/)
 
 
 [https://www.youtube.com/watch?v=RNgzOr-m6ok&ab\_channel=CNBCTelevision](https://www.youtube.com/watch?v=RNgzOr-m6ok&ab_channel=CNBCTelevision)

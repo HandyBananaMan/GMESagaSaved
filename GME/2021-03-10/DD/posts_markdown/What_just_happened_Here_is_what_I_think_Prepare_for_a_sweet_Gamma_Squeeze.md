@@ -1,6 +1,6 @@
-#Title: What just happened? Here is what I think: Prepare for a sweet Gamma Squeeze.
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/](https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/)
+# Title: What just happened? Here is what I think: Prepare for a sweet Gamma Squeeze.
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/](https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/)
 
 
 **I CAN'T STRESS THIS ENOUGH: READ THE EDITS!!! PEOPLE KEEP ASKING THE SAME QUESTIONS I ALREADY ANSWERED THERE.**

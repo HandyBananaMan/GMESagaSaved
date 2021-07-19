@@ -1,6 +1,6 @@
-#Title: The big picture. Data dump, trading the float, and Ken's no no zone.
-#Author: GrilledCheeseNScotch
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o38hiv/the_big_picture_data_dump_trading_the_float_and/](https://www.reddit.com/r/Superstonk/comments/o38hiv/the_big_picture_data_dump_trading_the_float_and/)
+# Title: The big picture. Data dump, trading the float, and Ken's no no zone.
+# Author: GrilledCheeseNScotch
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o38hiv/the_big_picture_data_dump_trading_the_float_and/](https://www.reddit.com/r/Superstonk/comments/o38hiv/the_big_picture_data_dump_trading_the_float_and/)
 
 
 Pt 1. Trading the float.

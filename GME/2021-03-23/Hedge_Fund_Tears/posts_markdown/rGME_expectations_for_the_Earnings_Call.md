@@ -1,6 +1,6 @@
-#Title: r/GME expectations for the Earnings Call
-#Author: rudyb0y
-#Post URL: [https://www.reddit.com/r/GME/comments/mbm8o9/rgme_expectations_for_the_earnings_call/](https://www.reddit.com/r/GME/comments/mbm8o9/rgme_expectations_for_the_earnings_call/)
+# Title: r/GME expectations for the Earnings Call
+# Author: rudyb0y
+# Post URL: [https://www.reddit.com/r/GME/comments/mbm8o9/rgme_expectations_for_the_earnings_call/](https://www.reddit.com/r/GME/comments/mbm8o9/rgme_expectations_for_the_earnings_call/)
 
 
 Just 3 simple things:

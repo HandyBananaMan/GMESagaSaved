@@ -1,6 +1,6 @@
-#Title: FTD Cycle mapping into the future.
-#Author: bobsmith808
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/](https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/)
+# Title: FTD Cycle mapping into the future.
+# Author: bobsmith808
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/](https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/)
 
 
 Hi everyone, bob here. I know we have been watching the FTD cycle a lot lately and it's looking like a solid predictive tool, so I thought I'd map it out for the next 5ish cycles to see if we can make some predictions since I have only seen this done retroactively so far.  If it already exists, please let me know and i'll remove the duplicate content.

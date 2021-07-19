@@ -1,6 +1,6 @@
-#Title: Please spread
-#Author: kohatian35106
-#Post URL: [https://www.reddit.com/r/GME/comments/m2z4zf/please_spread/](https://www.reddit.com/r/GME/comments/m2z4zf/please_spread/)
+# Title: Please spread
+# Author: kohatian35106
+# Post URL: [https://www.reddit.com/r/GME/comments/m2z4zf/please_spread/](https://www.reddit.com/r/GME/comments/m2z4zf/please_spread/)
 
 
 The following message came in on a discord 

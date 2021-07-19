@@ -1,6 +1,6 @@
-#Title: The scramble for shares meant that shareholders could name their price, and VW stock went from 210 to more than 1,000 euros in two days, making VW, the world's most valuable company at £240 billion (PS - Apple is currently $2.1 Trillion.)
-#Author: utopian_potential
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu4ols/the_scramble_for_shares_meant_that_shareholders/](https://www.reddit.com/r/Superstonk/comments/nu4ols/the_scramble_for_shares_meant_that_shareholders/)
+# Title: The scramble for shares meant that shareholders could name their price, and VW stock went from 210 to more than 1,000 euros in two days, making VW, the world's most valuable company at £240 billion (PS - Apple is currently $2.1 Trillion.)
+# Author: utopian_potential
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu4ols/the_scramble_for_shares_meant_that_shareholders/](https://www.reddit.com/r/Superstonk/comments/nu4ols/the_scramble_for_shares_meant_that_shareholders/)
 
 
 Education flair because it shows what is possible in a short squeeze.

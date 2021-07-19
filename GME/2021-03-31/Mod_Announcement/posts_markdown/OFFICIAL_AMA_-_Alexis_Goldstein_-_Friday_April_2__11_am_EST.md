@@ -1,6 +1,6 @@
-#Title: OFFICIAL AMA - Alexis Goldstein - Friday, April 2 @ 11 a.m. EST
-#Author: dontfightthevol
-#Post URL: [https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/](https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/)
+# Title: OFFICIAL AMA - Alexis Goldstein - Friday, April 2 @ 11 a.m. EST
+# Author: dontfightthevol
+# Post URL: [https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/](https://www.reddit.com/r/GME/comments/mhfxbm/official_ama_alexis_goldstein_friday_april_2_11/)
 
 
 Hi all, Alexis Goldstein here. I’ll be doing an AMA this Friday April 2nd at 11am EST.

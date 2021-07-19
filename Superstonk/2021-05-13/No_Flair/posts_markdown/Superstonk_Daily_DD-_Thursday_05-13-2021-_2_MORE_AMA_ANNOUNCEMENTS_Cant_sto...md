@@ -1,6 +1,6 @@
-#Title: Superstonk Daily DD- Thursday 05-13-2021- 2 MORE AMA ANNOUNCEMENTS!! Can't stop won't stop!!! 🚀🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/](https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/)
+# Title: Superstonk Daily DD- Thursday 05-13-2021- 2 MORE AMA ANNOUNCEMENTS!! Can't stop won't stop!!! 🚀🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/](https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/)
 
 
 &#x200B;

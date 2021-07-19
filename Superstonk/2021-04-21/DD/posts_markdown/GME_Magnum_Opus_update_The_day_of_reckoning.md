@@ -1,6 +1,6 @@
-#Title: GME Magnum Opus update: The day of reckoning
-#Author: HomeDepotHank69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/](https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/)
+# Title: GME Magnum Opus update: The day of reckoning
+# Author: HomeDepotHank69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/](https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/)
 
 
 **CRUCIAL UPDATE:** If my theory is correct, I will be renaming this "the theory of hank"

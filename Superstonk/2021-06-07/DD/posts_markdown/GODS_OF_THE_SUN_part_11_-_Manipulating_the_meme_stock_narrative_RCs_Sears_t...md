@@ -1,6 +1,6 @@
-#Title: GODS OF THE SUN, part 1.1 - Manipulating the meme stock narrative, RC’s “Sears” tweet, Vulture Funds, Apollo Global Management, who Adam Aron really is, Epstein, Goldman Sachs, and the TOTAL ECLIPSE of the SUN. (Wow, eh?)
-#Author: JessasaurusJames
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/](https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/)
+# Title: GODS OF THE SUN, part 1.1 - Manipulating the meme stock narrative, RC’s “Sears” tweet, Vulture Funds, Apollo Global Management, who Adam Aron really is, Epstein, Goldman Sachs, and the TOTAL ECLIPSE of the SUN. (Wow, eh?)
+# Author: JessasaurusJames
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/](https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/)
 
 
 GOTS, part 1.1

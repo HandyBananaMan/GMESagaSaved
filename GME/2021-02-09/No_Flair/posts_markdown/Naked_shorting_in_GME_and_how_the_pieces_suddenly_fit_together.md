@@ -1,6 +1,6 @@
-#Title: Naked shorting in GME and how the pieces suddenly fit together
-#Author: sfjetsetter
-#Post URL: [https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/](https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/)
+# Title: Naked shorting in GME and how the pieces suddenly fit together
+# Author: sfjetsetter
+# Post URL: [https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/](https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/)
 
 
 TLDR: Naked shorting appears prevalent in GME, and if so is likely aided by DTCC, whom by extension may have shut down the short squeeze on 1/28 because it would've caused a *massive* scandal. I know ape can't read but I implore you to read the whole thing (originally wasn't going to add a TLDR but decided to add it just so more people understand even just a little bit)

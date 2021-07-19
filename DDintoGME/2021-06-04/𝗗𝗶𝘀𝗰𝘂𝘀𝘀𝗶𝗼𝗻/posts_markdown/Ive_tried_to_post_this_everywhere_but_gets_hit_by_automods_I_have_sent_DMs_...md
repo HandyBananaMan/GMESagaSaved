@@ -1,6 +1,6 @@
-#Title: Ive tried to post this everywhere, but gets hit by automods. I have sent DMs, and no response. I think this needs exposure, and this is my last try.
-#Author: StorageMinimum6460
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/](https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/)
+# Title: Ive tried to post this everywhere, but gets hit by automods. I have sent DMs, and no response. I think this needs exposure, and this is my last try.
+# Author: StorageMinimum6460
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/](https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/)
 
 
 So, I'm finally allowed to share something that I feel if it at least gets to one person and gets one more vote, then I'll be happy I tried. My buddy and I both bought back into GME on Apr 22nd. At the time I was in RobbingHood. I was reading some DD one day and saw someone post about searching the word proxy in email, and for shit and giggles I did. After TONS of lurking (not a social media fan) and reading and learning, I thought that if I hadn't got the shares be the 15th, that I didn't get a vote, so I never even tried or thought about it. To my surprise, RH had in fact sent me a proxy to vote with, and my friend as well.

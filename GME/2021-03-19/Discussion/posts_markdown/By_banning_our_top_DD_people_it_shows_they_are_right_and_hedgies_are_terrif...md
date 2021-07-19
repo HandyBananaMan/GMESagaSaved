@@ -1,3 +1,4 @@
+# Title: By banning our top DD people it shows they are right and hedgies are terrified.
 # Author: SycoticMantis
 # Post URL: [https://www.reddit.com/r/GME/comments/m8d2qa/by_banning_our_top_dd_people_it_shows_they_are/](https://www.reddit.com/r/GME/comments/m8d2qa/by_banning_our_top_dd_people_it_shows_they_are/)
 

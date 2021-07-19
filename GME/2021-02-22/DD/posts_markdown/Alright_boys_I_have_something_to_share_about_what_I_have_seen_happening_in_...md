@@ -1,6 +1,6 @@
-#Title: Alright boys! I have something to share about what I have seen happening in the market today.
-#Author: Questionable_Reason
-#Post URL: [https://www.reddit.com/r/GME/comments/lq7thg/alright_boys_i_have_something_to_share_about_what/](https://www.reddit.com/r/GME/comments/lq7thg/alright_boys_i_have_something_to_share_about_what/)
+# Title: Alright boys! I have something to share about what I have seen happening in the market today.
+# Author: Questionable_Reason
+# Post URL: [https://www.reddit.com/r/GME/comments/lq7thg/alright_boys_i_have_something_to_share_about_what/](https://www.reddit.com/r/GME/comments/lq7thg/alright_boys_i_have_something_to_share_about_what/)
 
 
 Crayons, apes, bananas, tendies, etc. etc. just READ! Or just like those bedtime stories you get at night, ask your mom read it to you.

@@ -1,6 +1,6 @@
-#Title: The price action isn't for us. The dips aren't for us.
-#Author: Present_Strength_119
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojpry2/the_price_action_isnt_for_us_the_dips_arent_for_us/](https://www.reddit.com/r/Superstonk/comments/ojpry2/the_price_action_isnt_for_us_the_dips_arent_for_us/)
+# Title: The price action isn't for us. The dips aren't for us.
+# Author: Present_Strength_119
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojpry2/the_price_action_isnt_for_us_the_dips_arent_for_us/](https://www.reddit.com/r/Superstonk/comments/ojpry2/the_price_action_isnt_for_us_the_dips_arent_for_us/)
 
 
 Just a simple thought. People keep saying "do they really think we're selling?" and the answer is no. They know you won't sell. They are screwed, yeah.

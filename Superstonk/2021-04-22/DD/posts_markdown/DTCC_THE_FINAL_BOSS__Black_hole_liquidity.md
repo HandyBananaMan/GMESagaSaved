@@ -1,6 +1,6 @@
-#Title: DTCC THE FINAL BOSS : Black hole liquidity
-#Author: Boringhate
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/](https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/)
+# Title: DTCC THE FINAL BOSS : Black hole liquidity
+# Author: Boringhate
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/](https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/)
 
 
 **V.2**

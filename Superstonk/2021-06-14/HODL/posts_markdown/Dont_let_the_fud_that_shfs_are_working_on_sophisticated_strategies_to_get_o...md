@@ -1,6 +1,6 @@
-#Title: Don’t let the fud that shfs are working on sophisticated strategies to get out from under their short positions concern you. They’ve sold millions of shares short that are now locked away in the brokerage accounts of retail and there’s no way to get them back unless retail sells them back.
-#Author: Stonkinator3000
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzry3b/dont_let_the_fud_that_shfs_are_working_on/](https://www.reddit.com/r/Superstonk/comments/nzry3b/dont_let_the_fud_that_shfs_are_working_on/)
+# Title: Don’t let the fud that shfs are working on sophisticated strategies to get out from under their short positions concern you. They’ve sold millions of shares short that are now locked away in the brokerage accounts of retail and there’s no way to get them back unless retail sells them back.
+# Author: Stonkinator3000
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzry3b/dont_let_the_fud_that_shfs_are_working_on/](https://www.reddit.com/r/Superstonk/comments/nzry3b/dont_let_the_fud_that_shfs_are_working_on/)
 
 
 There’s no need to overthink it. Buy and hodl beats short selling every time. Short selling requires smoke and mirrors,  it requires the general sentiment to change enough that a self-fulfilling prophecy is created where retail actually does start selling off. No amount of strategy or sophisticated algorithms or late night meetings with the finest financial minds in the world can change the simple truth that shfs borrowed hundreds of millions of shares they didn’t own, sold them into the market, and now those shares are safely contained in retail brokerage accounts all over the world. Shfs need those shares back to close their positions. End of story. Nothing they say or do can change that ironclad fact.

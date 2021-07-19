@@ -1,6 +1,6 @@
-#Title: If the squeeze starts happening this week it is because the hedgefunds want you to paper hand before the shareholders meeting HODL
-#Author: Skyman69420
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqhl63/if_the_squeeze_starts_happening_this_week_it_is/](https://www.reddit.com/r/Superstonk/comments/nqhl63/if_the_squeeze_starts_happening_this_week_it_is/)
+# Title: If the squeeze starts happening this week it is because the hedgefunds want you to paper hand before the shareholders meeting HODL
+# Author: Skyman69420
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqhl63/if_the_squeeze_starts_happening_this_week_it_is/](https://www.reddit.com/r/Superstonk/comments/nqhl63/if_the_squeeze_starts_happening_this_week_it_is/)
 
 
 Now I will admit, I am a very smooth brained ape that has been holding GME for nearly 6 months (what a ride, right?).

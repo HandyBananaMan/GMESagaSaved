@@ -1,6 +1,6 @@
-#Title: By the 16th Of July, at least 26.9M synthetic shares will evaporate, what to do dear shorties?
-#Author: moeldevs
-#Post URL: [https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/](https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/)
+# Title: By the 16th Of July, at least 26.9M synthetic shares will evaporate, what to do dear shorties?
+# Author: moeldevs
+# Post URL: [https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/](https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/)
 
 
 **Introduction:**

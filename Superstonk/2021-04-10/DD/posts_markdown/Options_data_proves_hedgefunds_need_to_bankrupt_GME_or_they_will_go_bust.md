@@ -1,6 +1,6 @@
-#Title: Options data proves hedgefunds need to bankrupt GME or they will go bust.
-#Author: AlternativeNo2917
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/](https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/)
+# Title: Options data proves hedgefunds need to bankrupt GME or they will go bust.
+# Author: AlternativeNo2917
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/](https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/)
 
 
 TLDR - Options data show that the hedgefunds are still fucked and the original plan for bankrupting GME hasn't changed. Since I've become more active on reddit either making posts, commenting more or responding to DMs I've started getting threatening messages and "insulting" comments, these do not bother me and the tone of my posts will now include a lot more sarcasm and mocking in response, please enjoy. 

@@ -1,6 +1,6 @@
-#Title: Theory that Citadel & Susquehanna are Internalizing Trades Through OTC, Borrowing & Lending Through Themselves to the NYSE.
-#Author: hell-mitc
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/](https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/)
+# Title: Theory that Citadel & Susquehanna are Internalizing Trades Through OTC, Borrowing & Lending Through Themselves to the NYSE.
+# Author: hell-mitc
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/](https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/)
 
 
 Ok, I guess it isn't really a theory. I've kind of proved it here. But didn't want to come off too strong.

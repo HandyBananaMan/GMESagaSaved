@@ -1,3 +1,4 @@
+# Title: Infinity Pool: How GME Will Break the Laws of Supply and Demand and Enable the Money Glitch
 # Author: Hemoglobin_trotter
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o9ifjx/infinity_pool_how_gme_will_break_the_laws_of/](https://www.reddit.com/r/Superstonk/comments/o9ifjx/infinity_pool_how_gme_will_break_the_laws_of/)
 
@@ -56,13 +57,13 @@ Ape Speak: higher prices gradually convince more Apes to sell over time.
 
 > Changes in price can be reflected in movement along a demand curve, but do not by themselves increase or decrease demand.
 
-Ape Speak: [Typically, higher prices make people buy fewer of something.](https://imgur.com/a/WlR7tGv)
+Ape Speak: ![Typically, higher prices make people buy fewer of something.](https://imgur.com/a/WlR7tGv)
 
 *****************************************************
 
 **1.3 Supply and Demand Curves** - [Link to Article](https://open.lib.umn.edu/principleseconomics/chapter/3-3-demand-supply-and-equilibrium/)
 
-[Pic#1: Example Supply and Demand Curves plotted together.](https://imgur.com/a/xVsyDnh)
+![Pic#1: Example Supply and Demand Curves plotted together.](https://imgur.com/a/xVsyDnh)
 
 > The demand curve shows the quantities of a particular good or service that buyers will be willing and able to purchase at each price during a specified period. The supply curve shows the quantities that sellers will offer for sale at each price during that same period. By putting the two curves together, we should be able to find a price at which the quantity buyers are willing and able to purchase equals the quantity sellers will offer for sale.
 
@@ -92,7 +93,7 @@ Ape Speak: Equilibrium is reached when quantity supplied = quantity demanded. Eq
 
 [Elasticity vs. Inelasticity](https://www.investopedia.com/ask/answers/012915/what-difference-between-inelasticity-and-elasticity-demand.asp) - [Perfect Elasticity and Zero Elasticity](https://opentextbc.ca/principlesofeconomics/chapter/5-2-polar-cases-of-elasticity-and-constant-elasticity/) - [Inelastic Supply Explained](https://www.economicshelp.org/concepts/inelastic-supply/)
 
-*Elasticity:* In this context, elasticity is another way of saying "rate of change" of a curve. Both Supply and Demand Curves have their own elasticity, [which determines exactly how steep the curve is on the graph](https://imgur.com/a/xVsyDnh). See Pic#1. Determining the elasticity of each curve is helpful for understanding where the curves might intersect to create market equilibrium price and quantity.
+*Elasticity:* In this context, elasticity is another way of saying "rate of change" of a curve. Both Supply and Demand Curves have their own elasticity, ![which determines exactly how steep the curve is on the graph](https://imgur.com/a/xVsyDnh). See Pic#1. Determining the elasticity of each curve is helpful for understanding where the curves might intersect to create market equilibrium price and quantity.
 
 Elasticity, expressed mathematically, is: E = (% Change in Quantity (Supplied or Demanded) / % Change in Price). It expresses the relationship of how many units become available from sellers or are demanded by buyers in response to changes in price. In theory, Demand and Supply Curves can reach extremes of elasticity - either perfect elasticity, or zero elasticity. It is important to note that elasticity is subject to market conditions, and changes over time - this means that Supply and Demand Curves can have different slopes at different quantities/prices. (Hint: supply being held by a diamond-handed Ape is a market condition that impacts elasticity of supply!)
 
@@ -108,11 +109,11 @@ Ape Speak: Elasticity determines the slope of the Supply and Demand Curves. Low 
 
 *Disclaimer: This is the point of the post at which my understanding of the material presented above collides with my understanding of the last few months of DD. In other words, the proceeding sections could be most accurately classified as an opinion or educated guess.*
 
-[We're gonna hypothetical them hedgies' clavicles!](https://imgur.com/a/09lARpM)
+![We're gonna hypothetical them hedgies' clavicles!](https://imgur.com/a/09lARpM)
 
 Here, I will apply the above-reference microeconomic principles to a MOASS that uses hypothetical numbers. Short Interest is critical here because it represents the number of shares at which the QUANTITY DEMANDED WILL BE FIXED. (Note: this is not a discussion about the possible short interest. I personally believe that the real SI is much higher than in the example I am about to pose.)
 
-[Pic#2: Money Glitch Activated: A Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh)
+![Pic#2: Money Glitch Activated: A Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh)
 
 **Important Numbers for this example:**
 
@@ -166,7 +167,7 @@ Here, I will apply the above-reference microeconomic principles to a MOASS that 
 
 **2.3. GME Theory of Price and Equilibrium - Ape Names Price**
 
-Bringing it back to this graphic: [Pic#2: Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh), you can see that a hypothetical *Equilibrium Price* has been established.
+Bringing it back to this graphic: ![Pic#2: Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh), you can see that a hypothetical *Equilibrium Price* has been established.
 
 *Disclaimer: This example does not account for the fact that some amount of the final ~25m shares (the final float once rehypothecated shares are gone) will be re-circulated and change the Price Elasticity of Supply as the Supply Curve approaches the Demand Curve. In other words, the Supply Curve could begin to flatten once Quantity Supplied is one whole float away from Quantity Demanded.*
 
@@ -180,7 +181,7 @@ Bringing it back to this graphic: [Pic#2: Hypothetical GME MOASS Supply & Demand
 
 *But what happens if the Quantity Supplied never reaches the Quantity Demanded?* 
 
-It would look something like this: [Pic#3: GME MOASS Supply & Demand Curve: INFINITY POOL EDITION](https://imgur.com/a/xVsyDnh)
+It would look something like this: ![Pic#3: GME MOASS Supply & Demand Curve: INFINITY POOL EDITION](https://imgur.com/a/xVsyDnh)
 
 * An Infinity Pool of any size will reduce *Price Elasticity of Supply*, thus maintaining a more vertical *Supply Curve* even as real shares enter the market for re-circulation.
 
@@ -219,9 +220,9 @@ My personal opinion on the matter, which is obviously not financial advice, is t
 
 **ta;dr: GME is a fascinating experiment of Supply and Demand. Diamond-handed Ape names price for banana**
 
-[Pic #1: Ordinary Supply and Demand Curves](https://imgur.com/a/xVsyDnh)
+![Pic #1: Ordinary Supply and Demand Curves](https://imgur.com/a/xVsyDnh)
 
-[Pic #2: Money Glitch Activated: A Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh)
+![Pic #2: Money Glitch Activated: A Hypothetical GME MOASS Supply & Demand Curve](https://imgur.com/a/xVsyDnh)
 
 ![Pic #3: GME MOASS Supply & Demand Curve: INFINITY POOL EDITION](https://imgur.com/a/xVsyDnh)
 

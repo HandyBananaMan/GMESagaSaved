@@ -1,6 +1,6 @@
-#Title: Mind-boggling dark pool network may have traded 445,660 GME shares 1,479 times in a single week
-#Author: thr0wthis4ccount4way
-#Post URL: [https://www.reddit.com/r/GME/comments/llax6o/mindboggling_dark_pool_network_may_have_traded/](https://www.reddit.com/r/GME/comments/llax6o/mindboggling_dark_pool_network_may_have_traded/)
+# Title: Mind-boggling dark pool network may have traded 445,660 GME shares 1,479 times in a single week
+# Author: thr0wthis4ccount4way
+# Post URL: [https://www.reddit.com/r/GME/comments/llax6o/mindboggling_dark_pool_network_may_have_traded/](https://www.reddit.com/r/GME/comments/llax6o/mindboggling_dark_pool_network_may_have_traded/)
 
 
 # I am posting on behalf of u/StonkyFarts. This is not my work. [Original thread here](https://www.reddit.com/user/StonkyFarts/comments/lla71p/s3_partners_gme_manipulation/?utm_source=share&utm_medium=web2x&context=3) - please credit him! Don't award me, go to his posts and award him because he deserves it

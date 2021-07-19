@@ -1,6 +1,6 @@
-#Title: Finished reading the entire Rule from NSCC/DTCC, that SEC approved. This shit is going to blow minds. Wet beds. Shit pants. And dry mouths. I read this with a few different people to get some cliff notes for you...
-#Author: InkedEnigma
-#Post URL: [https://www.reddit.com/r/GME/comments/mg99gz/finished_reading_the_entire_rule_from_nsccdtcc/](https://www.reddit.com/r/GME/comments/mg99gz/finished_reading_the_entire_rule_from_nsccdtcc/)
+# Title: Finished reading the entire Rule from NSCC/DTCC, that SEC approved. This shit is going to blow minds. Wet beds. Shit pants. And dry mouths. I read this with a few different people to get some cliff notes for you...
+# Author: InkedEnigma
+# Post URL: [https://www.reddit.com/r/GME/comments/mg99gz/finished_reading_the_entire_rule_from_nsccdtcc/](https://www.reddit.com/r/GME/comments/mg99gz/finished_reading_the_entire_rule_from_nsccdtcc/)
 
 
 But then  something magic happened.. one after the other, each person said Holy shit, fuck me running, no fucking way, etc after reading the same thing and coming to this conclusion. (Redacted due to speculation). The NSCC is actually required to liquidate it's entire holdings, if necessary to cover every single position that still exist after liquidating the assets of the firms responsible. Yes. Let that simmer. The DTCC established a plan for liquidating everything allocated to the NSCC and outlines the entire process of the steps the NSCC will take to maintain critical roles until they have to undergo bankruptcy and transfer all responsibility to another party who will takeover the entire role of clearing transactions.. So the takeaway is they planned with the expectations of liquidation of NSCC if required.. Go google the net worth of the NSCC  and lose your shit. I already have. Farewell comrades. I'm going to pray for them to get a quick death, financially speaking.

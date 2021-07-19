@@ -1,6 +1,6 @@
-#Title: The Deep Out of The Money Puts 2: Judgment Day (FINRA 21-24 Analysis)
-#Author: Daweism
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/](https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/)
+# Title: The Deep Out of The Money Puts 2: Judgment Day (FINRA 21-24 Analysis)
+# Author: Daweism
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/](https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/)
 
 
 &#x200B;

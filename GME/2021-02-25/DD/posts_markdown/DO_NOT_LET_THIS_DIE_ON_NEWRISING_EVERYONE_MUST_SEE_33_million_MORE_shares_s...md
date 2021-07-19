@@ -1,6 +1,6 @@
-#Title: DO NOT LET THIS DIE ON NEW/RISING. EVERYONE MUST SEE! 33 million MORE shares shorted today!
-#Author: wowmuchdoge_verymeme
-#Post URL: [https://www.reddit.com/r/GME/comments/lsk75q/do_not_let_this_die_on_newrising_everyone_must/](https://www.reddit.com/r/GME/comments/lsk75q/do_not_let_this_die_on_newrising_everyone_must/)
+# Title: DO NOT LET THIS DIE ON NEW/RISING. EVERYONE MUST SEE! 33 million MORE shares shorted today!
+# Author: wowmuchdoge_verymeme
+# Post URL: [https://www.reddit.com/r/GME/comments/lsk75q/do_not_let_this_die_on_newrising_everyone_must/](https://www.reddit.com/r/GME/comments/lsk75q/do_not_let_this_die_on_newrising_everyone_must/)
 
 
 Original post gone. Updated for exposure. It's about to begin... Original post by: u/bEAc0n

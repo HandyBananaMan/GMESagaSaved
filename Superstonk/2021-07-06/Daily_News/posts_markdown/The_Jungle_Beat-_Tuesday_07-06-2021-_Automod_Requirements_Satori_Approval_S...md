@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Tuesday 07-06-2021- Automod Requirements, Satori Approval, Superstonk Bot, and more 🎮 !powerup! 🛑
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/](https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/)
+# Title: The Jungle Beat- Tuesday 07-06-2021- Automod Requirements, Satori Approval, Superstonk Bot, and more 🎮 !powerup! 🛑
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/](https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/)
 
 
 *The Jungle Beat will be posted every trading day at 4:20 pm NYSE time!*

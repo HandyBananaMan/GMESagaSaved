@@ -1,6 +1,6 @@
-#Title: Serious DD - Retail Ownership using Public Data
-#Author: DiamondsApes
-#Post URL: [https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/](https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/)
+# Title: Serious DD - Retail Ownership using Public Data
+# Author: DiamondsApes
+# Post URL: [https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/](https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/)
 
 
 Hello fellow apes,

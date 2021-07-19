@@ -1,6 +1,6 @@
-#Title: The picture of the players is complete. Special relationships.
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/GME/comments/mldh4n/the_picture_of_the_players_is_complete_special/](https://www.reddit.com/r/GME/comments/mldh4n/the_picture_of_the_players_is_complete_special/)
+# Title: The picture of the players is complete. Special relationships.
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/GME/comments/mldh4n/the_picture_of_the_players_is_complete_special/](https://www.reddit.com/r/GME/comments/mldh4n/the_picture_of_the_players_is_complete_special/)
 
 
 Correlations are like special relationships. Even if we don't know all the ins and outs of what connects the parties in the relationship, from the correlation we can at least see that they have something special together. Financial beta is such a beautiful thing. We still honour you and your CAPM model, Mr William Forsyth Sharpe. 

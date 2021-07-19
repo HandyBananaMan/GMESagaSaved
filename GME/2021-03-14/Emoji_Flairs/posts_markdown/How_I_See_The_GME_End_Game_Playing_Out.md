@@ -1,6 +1,6 @@
-#Title: How I See The GME End Game Playing Out
-#Author: CM_MOJO
-#Post URL: [https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
+# Title: How I See The GME End Game Playing Out
+# Author: CM_MOJO
+# Post URL: [https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
 
 
 This post contains total speculation about how I THINK this GME end game will play out.

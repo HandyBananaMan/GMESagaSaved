@@ -1,6 +1,6 @@
-#Title: The squeeze only starts when the hedge funds are margin called. The whole financial industry is complicit the predatory naked shorting scheme.
-#Author: Branch-Manager
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/](https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/)
+# Title: The squeeze only starts when the hedge funds are margin called. The whole financial industry is complicit the predatory naked shorting scheme.
+# Author: Branch-Manager
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/](https://www.reddit.com/r/Superstonk/comments/nv3r0i/the_squeeze_only_starts_when_the_hedge_funds_are/)
 
 
 The first to be margin called (and eventually liquidated to cover their shorts when they fail to meet margin requirements) are the hedge funds... 

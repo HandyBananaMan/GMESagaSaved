@@ -1,6 +1,6 @@
-#Title: It actually is big when the NYSE president says "prices may not properly reflect demand"... here's why
-#Author: delicious_manboobs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1tzje/it_actually_is_big_when_the_nyse_president_says/](https://www.reddit.com/r/Superstonk/comments/o1tzje/it_actually_is_big_when_the_nyse_president_says/)
+# Title: It actually is big when the NYSE president says "prices may not properly reflect demand"... here's why
+# Author: delicious_manboobs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1tzje/it_actually_is_big_when_the_nyse_president_says/](https://www.reddit.com/r/Superstonk/comments/o1tzje/it_actually_is_big_when_the_nyse_president_says/)
 
 
 Smooth brain 🦍 checking in.

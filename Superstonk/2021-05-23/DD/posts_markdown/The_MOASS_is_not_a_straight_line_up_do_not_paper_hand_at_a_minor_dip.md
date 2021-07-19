@@ -1,6 +1,6 @@
-#Title: The MOASS is not a straight line up, do not paper hand at a minor dip
-#Author: Magistricide
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/](https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/)
+# Title: The MOASS is not a straight line up, do not paper hand at a minor dip
+# Author: Magistricide
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/](https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/)
 
 
 "It is said that if you **know your enemies** and **know yourself**, you will not be imperilled in a hundred battles;" -Sun Tzu

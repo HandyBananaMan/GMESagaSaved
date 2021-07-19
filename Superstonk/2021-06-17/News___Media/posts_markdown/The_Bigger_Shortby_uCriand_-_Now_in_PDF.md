@@ -1,6 +1,6 @@
-#Title: The Bigger Short...by u/Criand - Now in PDF!
-#Author: posterizeee
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1q5xi/the_bigger_shortby_ucriand_now_in_pdf/](https://www.reddit.com/r/Superstonk/comments/o1q5xi/the_bigger_shortby_ucriand_now_in_pdf/)
+# Title: The Bigger Short...by u/Criand - Now in PDF!
+# Author: posterizeee
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1q5xi/the_bigger_shortby_ucriand_now_in_pdf/](https://www.reddit.com/r/Superstonk/comments/o1q5xi/the_bigger_shortby_ucriand_now_in_pdf/)
 
 
 I read the original u/Criand god tier DD on mobile and was hoping to find a PDF version for when I had my laptop, but no luck. So I decided to put one together for everyone to enjoy and share! 

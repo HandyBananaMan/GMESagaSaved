@@ -1,6 +1,6 @@
-#Title: GME TA: Why I'm JACKED about today's drop!
-#Author: RocketTraveler
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/](https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/)
+# Title: GME TA: Why I'm JACKED about today's drop!
+# Author: RocketTraveler
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/](https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/)
 
 
 Happy Wednesday Everyone!

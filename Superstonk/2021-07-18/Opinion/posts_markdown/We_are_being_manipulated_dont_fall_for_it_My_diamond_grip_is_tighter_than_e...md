@@ -1,6 +1,6 @@
-#Title: We are being manipulated, don't fall for it. My diamond grip is tighter than ever. I'm not selling shit until I see the SHFs fall. This FUD campaign is proof we are on the right track. Expect fuckery and hold with your life. They are desperate for your shares.
-#Author: Maximito
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omoguq/we_are_being_manipulated_dont_fall_for_it_my/](https://www.reddit.com/r/Superstonk/comments/omoguq/we_are_being_manipulated_dont_fall_for_it_my/)
+# Title: We are being manipulated, don't fall for it. My diamond grip is tighter than ever. I'm not selling shit until I see the SHFs fall. This FUD campaign is proof we are on the right track. Expect fuckery and hold with your life. They are desperate for your shares.
+# Author: Maximito
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omoguq/we_are_being_manipulated_dont_fall_for_it_my/](https://www.reddit.com/r/Superstonk/comments/omoguq/we_are_being_manipulated_dont_fall_for_it_my/)
 
 
 We are being manipulated. It is clear as day. They have Psy ops teams working on us and how to break our morale. They want to make us think they are succeeding. Don't give them the pleasure. 

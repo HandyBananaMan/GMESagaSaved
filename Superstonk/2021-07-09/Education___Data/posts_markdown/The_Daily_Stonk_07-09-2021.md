@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 07-09-2021
-#Author: iamaneditor
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/](https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/)
+# Title: The Daily Stonk 07-09-2021
+# Author: iamaneditor
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/](https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/)
 
 
 &#x200B;

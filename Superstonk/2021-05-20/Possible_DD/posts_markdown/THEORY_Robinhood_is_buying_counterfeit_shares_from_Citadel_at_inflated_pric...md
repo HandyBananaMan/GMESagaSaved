@@ -1,6 +1,6 @@
-#Title: THEORY: Robinhood is buying counterfeit shares from Citadel at inflated prices to move capital towards the mothership, trying to prevent the margin call
-#Author: DerButterkex
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/](https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/)
+# Title: THEORY: Robinhood is buying counterfeit shares from Citadel at inflated prices to move capital towards the mothership, trying to prevent the margin call
+# Author: DerButterkex
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/](https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/)
 
 
 LAST EDIT; THIS THEORY HAS BEEN PARTIALLY DISPROVED BY DLAURER; [https://www.reddit.com/r/Superstonk/comments/nhtt04/cost\_basis\_and\_trade\_price\_issues/](https://www.reddit.com/r/Superstonk/comments/nhtt04/cost_basis_and_trade_price_issues/) 

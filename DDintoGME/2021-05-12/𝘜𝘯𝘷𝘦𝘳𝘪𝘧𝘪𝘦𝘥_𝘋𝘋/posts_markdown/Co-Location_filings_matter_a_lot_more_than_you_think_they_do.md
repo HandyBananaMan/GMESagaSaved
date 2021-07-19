@@ -1,6 +1,6 @@
-#Title: Co-Location filings matter a lot more than you think they do.
-#Author: AgnostosTheosLogos
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/naone7/colocation_filings_matter_a_lot_more_than_you/](https://www.reddit.com/r/DDintoGME/comments/naone7/colocation_filings_matter_a_lot_more_than_you/)
+# Title: Co-Location filings matter a lot more than you think they do.
+# Author: AgnostosTheosLogos
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/naone7/colocation_filings_matter_a_lot_more_than_you/](https://www.reddit.com/r/DDintoGME/comments/naone7/colocation_filings_matter_a_lot_more_than_you/)
 
 
 First sub post, had to shut this thing down. You guys have been dismissing the **bread and fucking butter** of Citadel's profit structure: High-Frequency Trade Difference Profit Scalping.

@@ -1,6 +1,6 @@
-#Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
-#Author: Parsnip
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4odu9/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/o4odu9/diamantenhände_from_seattle_german_market_is_open/)
+# Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
+# Author: Parsnip
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4odu9/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/o4odu9/diamantenhände_from_seattle_german_market_is_open/)
 
 
 Hello Great Apes of the world! 👋 Last week was one of sideways action on GME, but apes resisted boredom, bought the dip, and held strong. Prepare your Diamantenhände as the German market leads us into a new week (SR-NSCC-2021-002 and Russell 1000 here we come!), and join apes around the world to watch low-frequency updates from a single German exchange as we prepare for the US pre-market to open!

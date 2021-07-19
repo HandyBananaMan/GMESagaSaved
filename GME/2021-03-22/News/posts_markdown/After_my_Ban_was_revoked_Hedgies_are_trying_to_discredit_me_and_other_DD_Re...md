@@ -1,6 +1,6 @@
-#Title: After my Ban was revoked, Hedgies are trying to discredit me and other DD Researchers. Now more than ever
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/maikv1/after_my_ban_was_revoked_hedgies_are_trying_to/](https://www.reddit.com/r/GME/comments/maikv1/after_my_ban_was_revoked_hedgies_are_trying_to/)
+# Title: After my Ban was revoked, Hedgies are trying to discredit me and other DD Researchers. Now more than ever
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/maikv1/after_my_ban_was_revoked_hedgies_are_trying_to/](https://www.reddit.com/r/GME/comments/maikv1/after_my_ban_was_revoked_hedgies_are_trying_to/)
 
 
 **PSA: IF YOU ARE A PAID SHILL, YOU ARE MAKING YOURSELF GUILTY OF MARKET MANIPULATION. YOU CAN WHISTE BLOW AND RECEIVE A HUGE AMOUNT OF MONEY FOR THAT. KEEP THAT IN MIND.**

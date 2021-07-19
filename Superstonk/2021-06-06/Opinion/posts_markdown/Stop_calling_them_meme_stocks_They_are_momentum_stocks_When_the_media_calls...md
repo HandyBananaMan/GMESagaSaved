@@ -1,6 +1,6 @@
-#Title: Stop calling them “meme” stocks. They are momentum stocks. When the media calls them “meme stocks” it comes with a negative connotation and the average folk take it for just that.. a meme. We are a movement for financial reform. Let’s get better at our branding to get the legislative reform we need
-#Author: RobinGoods
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntxyjw/stop_calling_them_meme_stocks_they_are_momentum/](https://www.reddit.com/r/Superstonk/comments/ntxyjw/stop_calling_them_meme_stocks_they_are_momentum/)
+# Title: Stop calling them “meme” stocks. They are momentum stocks. When the media calls them “meme stocks” it comes with a negative connotation and the average folk take it for just that.. a meme. We are a movement for financial reform. Let’s get better at our branding to get the legislative reform we need
+# Author: RobinGoods
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntxyjw/stop_calling_them_meme_stocks_they_are_momentum/](https://www.reddit.com/r/Superstonk/comments/ntxyjw/stop_calling_them_meme_stocks_they_are_momentum/)
 
 
 Ug I don’t know what more there is to say here, it’s all in the title, but I need to add text here because I need at least 250 characters due to sub rules, well here goes 

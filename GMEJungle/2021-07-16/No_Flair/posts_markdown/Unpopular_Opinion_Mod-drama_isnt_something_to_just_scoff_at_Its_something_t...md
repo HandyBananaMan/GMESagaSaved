@@ -1,6 +1,6 @@
-#Title: Unpopular Opinion: "Mod-drama" isn't something to just scoff at. It's something that impacts who has moderative control over the flow of information on a subreddit. This exchange of information is what has allowed apes to become aware of GME, naked shorting, and everything else involved.
-#Author: CloverPixels
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olqlo2/unpopular_opinion_moddrama_isnt_something_to_just/](https://www.reddit.com/r/GMEJungle/comments/olqlo2/unpopular_opinion_moddrama_isnt_something_to_just/)
+# Title: Unpopular Opinion: "Mod-drama" isn't something to just scoff at. It's something that impacts who has moderative control over the flow of information on a subreddit. This exchange of information is what has allowed apes to become aware of GME, naked shorting, and everything else involved.
+# Author: CloverPixels
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olqlo2/unpopular_opinion_moddrama_isnt_something_to_just/](https://www.reddit.com/r/GMEJungle/comments/olqlo2/unpopular_opinion_moddrama_isnt_something_to_just/)
 
 
 Before downvoting, please hear me out:

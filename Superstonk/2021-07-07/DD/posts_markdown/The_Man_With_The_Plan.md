@@ -1,6 +1,6 @@
-#Title: The Man With The Plan
-#Author: No-Fox-1400
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/](https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/)
+# Title: The Man With The Plan
+# Author: No-Fox-1400
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/](https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/)
 
 
 In my last DD I started out with pointing out why I did not think that any of the new financial institutions’ rules will have an effect on MOASS.  I went on to loosely describe what I thought was the plan from RC and how a few concepts people have talked about come into an overall plan.  Here’s the link

@@ -1,6 +1,6 @@
-#Title: For all those who missed what Ryan Cohen said because of FUD and the attempt to divide us by attacking mods. Transcript below:
-#Author: rabeenesh
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw1ze8/for_all_those_who_missed_what_ryan_cohen_said/](https://www.reddit.com/r/Superstonk/comments/nw1ze8/for_all_those_who_missed_what_ryan_cohen_said/)
+# Title: For all those who missed what Ryan Cohen said because of FUD and the attempt to divide us by attacking mods. Transcript below:
+# Author: rabeenesh
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw1ze8/for_all_those_who_missed_what_ryan_cohen_said/](https://www.reddit.com/r/Superstonk/comments/nw1ze8/for_all_those_who_missed_what_ryan_cohen_said/)
 
 
 "We ushered in a whole new era of GameStop. On a personal note, I want you to know I’m humbled to be elected to your board and serve as your Chairman. We have a lot of work in front of us, and it will take time.

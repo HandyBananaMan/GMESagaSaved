@@ -1,6 +1,6 @@
-#Title: Tomorrow Gamestop pays off their debts!
-#Author: infinitequesti1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1frg1/tomorrow_gamestop_pays_off_their_debts/](https://www.reddit.com/r/Superstonk/comments/n1frg1/tomorrow_gamestop_pays_off_their_debts/)
+# Title: Tomorrow Gamestop pays off their debts!
+# Author: infinitequesti1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1frg1/tomorrow_gamestop_pays_off_their_debts/](https://www.reddit.com/r/Superstonk/comments/n1frg1/tomorrow_gamestop_pays_off_their_debts/)
 
 
 To my apes and apettes!

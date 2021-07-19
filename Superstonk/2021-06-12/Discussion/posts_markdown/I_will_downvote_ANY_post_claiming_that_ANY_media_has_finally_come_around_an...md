@@ -1,6 +1,6 @@
-#Title: I will downvote ANY post claiming that ANY media has “finally come around and is coming to terms with reality”.
-#Author: Gate_Keeper_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyfdao/i_will_downvote_any_post_claiming_that_any_media/](https://www.reddit.com/r/Superstonk/comments/nyfdao/i_will_downvote_any_post_claiming_that_any_media/)
+# Title: I will downvote ANY post claiming that ANY media has “finally come around and is coming to terms with reality”.
+# Author: Gate_Keeper_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyfdao/i_will_downvote_any_post_claiming_that_any_media/](https://www.reddit.com/r/Superstonk/comments/nyfdao/i_will_downvote_any_post_claiming_that_any_media/)
 
 
 Some of you apes are naive as fuck. I’m seeing more and more posts praising Fox and Charles Payne (among others) for being on retail’s side. 

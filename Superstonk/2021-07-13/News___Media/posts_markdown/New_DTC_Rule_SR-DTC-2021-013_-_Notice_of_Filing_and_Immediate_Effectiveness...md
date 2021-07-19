@@ -1,6 +1,6 @@
-#Title: New DTC Rule SR-DTC-2021-013 - Notice of Filing and Immediate Effectiveness of Proposed Rule Change to Amend the Clearing Agency Model Risk Management Framework
-#Author: llamaste-to-you
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojm5ao/new_dtc_rule_srdtc2021013_notice_of_filing_and/](https://www.reddit.com/r/Superstonk/comments/ojm5ao/new_dtc_rule_srdtc2021013_notice_of_filing_and/)
+# Title: New DTC Rule SR-DTC-2021-013 - Notice of Filing and Immediate Effectiveness of Proposed Rule Change to Amend the Clearing Agency Model Risk Management Framework
+# Author: llamaste-to-you
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojm5ao/new_dtc_rule_srdtc2021013_notice_of_filing_and/](https://www.reddit.com/r/Superstonk/comments/ojm5ao/new_dtc_rule_srdtc2021013_notice_of_filing_and/)
 
 
 You can check out the rule on the SEC website here: [https://www.sec.gov/rules/sro/dtc.htm](https://www.sec.gov/rules/sro/dtc.htm)

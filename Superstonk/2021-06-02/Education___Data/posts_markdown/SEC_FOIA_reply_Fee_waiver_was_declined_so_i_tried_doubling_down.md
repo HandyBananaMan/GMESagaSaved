@@ -1,6 +1,6 @@
-#Title: SEC FOIA reply. Fee waiver was declined so i tried doubling down.
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nr0jd5/sec_foia_reply_fee_waiver_was_declined_so_i_tried/](https://www.reddit.com/r/Superstonk/comments/nr0jd5/sec_foia_reply_fee_waiver_was_declined_so_i_tried/)
+# Title: SEC FOIA reply. Fee waiver was declined so i tried doubling down.
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nr0jd5/sec_foia_reply_fee_waiver_was_declined_so_i_tried/](https://www.reddit.com/r/Superstonk/comments/nr0jd5/sec_foia_reply_fee_waiver_was_declined_so_i_tried/)
 
 
 https://preview.redd.it/7g18khg3zx271.png?width=1227&format=png&auto=webp&s=fbdd208906bbe8ef8ea604a497b88b8fe9491e3a

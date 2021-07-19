@@ -1,6 +1,6 @@
-#Title: GROUNDBREAKING DISCOVERY: Have I, ButtFarm69, blown the lid on Kenny's deepest, darkest secrets?! It's worse than you thought (please hold me, I'm scared)...
-#Author: ButtFarm69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nllceu/groundbreaking_discovery_have_i_buttfarm69_blown/](https://www.reddit.com/r/Superstonk/comments/nllceu/groundbreaking_discovery_have_i_buttfarm69_blown/)
+# Title: GROUNDBREAKING DISCOVERY: Have I, ButtFarm69, blown the lid on Kenny's deepest, darkest secrets?! It's worse than you thought (please hold me, I'm scared)...
+# Author: ButtFarm69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nllceu/groundbreaking_discovery_have_i_buttfarm69_blown/](https://www.reddit.com/r/Superstonk/comments/nllceu/groundbreaking_discovery_have_i_buttfarm69_blown/)
 
 
 EDIT: u/Tyrant-Tyra has graciously done an excellent [audio recording](https://youtu.be/rxcjnqdThsg) of this post if you would prefer it read aloud!

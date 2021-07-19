@@ -1,6 +1,6 @@
-#Title: 8-K confirms a MINIMUM of 88 million shares
-#Author: Magistricide
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6fc2/8k_confirms_a_minimum_of_88_million_shares/](https://www.reddit.com/r/Superstonk/comments/nw6fc2/8k_confirms_a_minimum_of_88_million_shares/)
+# Title: 8-K confirms a MINIMUM of 88 million shares
+# Author: Magistricide
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6fc2/8k_confirms_a_minimum_of_88_million_shares/](https://www.reddit.com/r/Superstonk/comments/nw6fc2/8k_confirms_a_minimum_of_88_million_shares/)
 
 
 Final edit: I have debunked myself. Check out the [new post here](https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/) with the updated information. TLDR is that retail owns 75 million share on April 15th and it's far more accurate.

@@ -1,6 +1,6 @@
-#Title: I have been doing some SEC digging on purposed rules changes. Holy crap big stuff in the works! Looks like they are coming in to lay the smack down on these hedges. Melvin and friends probably shitting themselves.
-#Author: Lohe1234
-#Post URL: [https://www.reddit.com/r/GME/comments/mdhtsr/i_have_been_doing_some_sec_digging_on_purposed/](https://www.reddit.com/r/GME/comments/mdhtsr/i_have_been_doing_some_sec_digging_on_purposed/)
+# Title: I have been doing some SEC digging on purposed rules changes. Holy crap big stuff in the works! Looks like they are coming in to lay the smack down on these hedges. Melvin and friends probably shitting themselves.
+# Author: Lohe1234
+# Post URL: [https://www.reddit.com/r/GME/comments/mdhtsr/i_have_been_doing_some_sec_digging_on_purposed/](https://www.reddit.com/r/GME/comments/mdhtsr/i_have_been_doing_some_sec_digging_on_purposed/)
 
 
 First one to include dark pools in the bid/ask exchange pricing! 

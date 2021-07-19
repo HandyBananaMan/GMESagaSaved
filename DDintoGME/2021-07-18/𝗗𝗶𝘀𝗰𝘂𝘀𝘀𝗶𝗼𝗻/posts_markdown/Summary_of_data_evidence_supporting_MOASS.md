@@ -1,6 +1,6 @@
-#Title: Summary of data evidence supporting MOASS
-#Author: Immortan-GME
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/omuprc/summary_of_data_evidence_supporting_moass/](https://www.reddit.com/r/DDintoGME/comments/omuprc/summary_of_data_evidence_supporting_moass/)
+# Title: Summary of data evidence supporting MOASS
+# Author: Immortan-GME
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/omuprc/summary_of_data_evidence_supporting_moass/](https://www.reddit.com/r/DDintoGME/comments/omuprc/summary_of_data_evidence_supporting_moass/)
 
 
 Looks like lots of hot posts rn are regarding mod drama on Superstonk which is in of itself sus that this happens like every 2 months, but in the big picture it's just a distraction.

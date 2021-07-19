@@ -1,6 +1,6 @@
-#Title: FINRA Requests Comment on SHORT INTEREST POSITION REPORTING ENHANCEMENTS & Other Changes Related to SHORT SALE REPORTING (Includes Reporting of Synthetic Shorts): Comments Accepted Until 8/3/2021
-#Author: Freadom6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofmswd/finra_requests_comment_on_short_interest_position/](https://www.reddit.com/r/Superstonk/comments/ofmswd/finra_requests_comment_on_short_interest_position/)
+# Title: FINRA Requests Comment on SHORT INTEREST POSITION REPORTING ENHANCEMENTS & Other Changes Related to SHORT SALE REPORTING (Includes Reporting of Synthetic Shorts): Comments Accepted Until 8/3/2021
+# Author: Freadom6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofmswd/finra_requests_comment_on_short_interest_position/](https://www.reddit.com/r/Superstonk/comments/ofmswd/finra_requests_comment_on_short_interest_position/)
 
 
 Edit 1/3: Formatting

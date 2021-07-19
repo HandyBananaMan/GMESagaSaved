@@ -1,6 +1,6 @@
-#Title: Correspondence From Risk.net That Published The Article About JP Morgan Issuing intraday Margin Calls.
-#Author: Timeburners
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ol3gyz/correspondence_from_risknet_that_published_the/](https://www.reddit.com/r/Superstonk/comments/ol3gyz/correspondence_from_risknet_that_published_the/)
+# Title: Correspondence From Risk.net That Published The Article About JP Morgan Issuing intraday Margin Calls.
+# Author: Timeburners
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ol3gyz/correspondence_from_risknet_that_published_the/](https://www.reddit.com/r/Superstonk/comments/ol3gyz/correspondence_from_risknet_that_published_the/)
 
 
 So we haven't seen it from any other media outlets however to me this proves it was not a anomaly but a legit article. Onkadonk from my discord had the interaction. Feel free to join [https://discord.gg/U2F6bN9GPB](https://discord.gg/U2F6bN9GPB)

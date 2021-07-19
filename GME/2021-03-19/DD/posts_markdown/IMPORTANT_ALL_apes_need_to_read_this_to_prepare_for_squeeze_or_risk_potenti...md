@@ -1,6 +1,6 @@
-#Title: 🚨IMPORTANT🚨 ALL apes need to read this to prepare for squeeze, or risk potentially losing profit!
-#Author: NHNE
-#Post URL: [https://www.reddit.com/r/GME/comments/m8nk84/important_all_apes_need_to_read_this_to_prepare/](https://www.reddit.com/r/GME/comments/m8nk84/important_all_apes_need_to_read_this_to_prepare/)
+# Title: 🚨IMPORTANT🚨 ALL apes need to read this to prepare for squeeze, or risk potentially losing profit!
+# Author: NHNE
+# Post URL: [https://www.reddit.com/r/GME/comments/m8nk84/important_all_apes_need_to_read_this_to_prepare/](https://www.reddit.com/r/GME/comments/m8nk84/important_all_apes_need_to_read_this_to_prepare/)
 
 
 Front Page Edit: Thanks everyone for getting this to the front page. To all my lost GME HODL apes on r/wallstreetbets who are reading this on the front page, if you want good GME DD and info, you won't find it there. That sub has been compromised since late Jan early Feb. The mods let in some GME fluff and non important posts through, but they delete genuine important info that will help you with the squeeze. This type of important content is only found here on r/GME. That's why this DD for example is posted here and not on r/wallstreetbets. So if you're relying on r/wallstreetbets for good DD, please, join r/GME instead. Education and knowledge is power. 

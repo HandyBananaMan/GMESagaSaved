@@ -1,6 +1,6 @@
-#Title: Why the 400$ Mark is Important and How it Explains Todays Price Action
-#Author: AcedVector
-#Post URL: [https://www.reddit.com/r/GME/comments/m2bhl8/why_the_400_mark_is_important_and_how_it_explains/](https://www.reddit.com/r/GME/comments/m2bhl8/why_the_400_mark_is_important_and_how_it_explains/)
+# Title: Why the 400$ Mark is Important and How it Explains Todays Price Action
+# Author: AcedVector
+# Post URL: [https://www.reddit.com/r/GME/comments/m2bhl8/why_the_400_mark_is_important_and_how_it_explains/](https://www.reddit.com/r/GME/comments/m2bhl8/why_the_400_mark_is_important_and_how_it_explains/)
 
 
 I was asked to write a follow up DD about a post I made yesterday about the 400$ price point for GME, and why I think if we pass that point, the hedge fund's ability to play their game would be *dramatically* impaired. If you would like to see the post about it, click [here](https://www.reddit.com/r/GME/comments/m1igsy/why_the_400_mark_will_be_the_straw_that_breaks/?utm_source=share&utm_medium=web2x&context=3), but here's the TLDR:

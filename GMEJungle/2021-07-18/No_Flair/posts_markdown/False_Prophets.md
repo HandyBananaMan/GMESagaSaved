@@ -1,6 +1,6 @@
-#Title: False Prophets
-#Author: 3for100Specials
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omntvy/false_prophets/](https://www.reddit.com/r/GMEJungle/comments/omntvy/false_prophets/)
+# Title: False Prophets
+# Author: 3for100Specials
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omntvy/false_prophets/](https://www.reddit.com/r/GMEJungle/comments/omntvy/false_prophets/)
 
 
 # Preface - 

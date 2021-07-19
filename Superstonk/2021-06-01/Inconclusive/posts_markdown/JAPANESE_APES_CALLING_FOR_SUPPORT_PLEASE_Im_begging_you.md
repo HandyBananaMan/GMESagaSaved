@@ -1,6 +1,6 @@
-#Title: JAPANESE APES CALLING FOR SUPPORT! PLEASE!! I’m begging you
-#Author: StupidMonsters
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nq8idk/japanese_apes_calling_for_support_please_im/](https://www.reddit.com/r/Superstonk/comments/nq8idk/japanese_apes_calling_for_support_please_im/)
+# Title: JAPANESE APES CALLING FOR SUPPORT! PLEASE!! I’m begging you
+# Author: StupidMonsters
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nq8idk/japanese_apes_calling_for_support_please_im/](https://www.reddit.com/r/Superstonk/comments/nq8idk/japanese_apes_calling_for_support_please_im/)
 
 
 Edit6# credit to u/ThaStonk

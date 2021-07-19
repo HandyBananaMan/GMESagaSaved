@@ -1,6 +1,6 @@
-#Title: Citadel, NYSE, and the SEC in the case of the Disappearing Dark Pools!
-#Author: LeCyador
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/](https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/)
+# Title: Citadel, NYSE, and the SEC in the case of the Disappearing Dark Pools!
+# Author: LeCyador
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/](https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/)
 
 
 

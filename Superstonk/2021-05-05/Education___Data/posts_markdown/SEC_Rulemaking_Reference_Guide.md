@@ -1,6 +1,6 @@
-#Title: SEC Rulemaking Reference Guide
-#Author: According_Bee2757
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/](https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/)
+# Title: SEC Rulemaking Reference Guide
+# Author: According_Bee2757
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/](https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/)
 
 
 Pending edit: TA;DR: to be added for each rule

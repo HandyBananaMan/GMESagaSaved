@@ -1,6 +1,6 @@
-#Title: Today was a dip. So I bought more and now I’m in the XXX shares club.
-#Author: dbx99
-#Post URL: [https://www.reddit.com/r/GME/comments/nn17qm/today_was_a_dip_so_i_bought_more_and_now_im_in/](https://www.reddit.com/r/GME/comments/nn17qm/today_was_a_dip_so_i_bought_more_and_now_im_in/)
+# Title: Today was a dip. So I bought more and now I’m in the XXX shares club.
+# Author: dbx99
+# Post URL: [https://www.reddit.com/r/GME/comments/nn17qm/today_was_a_dip_so_i_bought_more_and_now_im_in/](https://www.reddit.com/r/GME/comments/nn17qm/today_was_a_dip_so_i_bought_more_and_now_im_in/)
 
 
 Any share price is a steal compared to where this is going.   But a small dip like this makes me feel like it’s a little bargain.  

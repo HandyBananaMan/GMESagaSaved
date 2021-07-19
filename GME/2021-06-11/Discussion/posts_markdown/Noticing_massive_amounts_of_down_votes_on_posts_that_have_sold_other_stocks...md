@@ -1,6 +1,6 @@
-#Title: Noticing massive amounts of down votes on posts that have sold other stocks to buy the GME dip. I'm wondering if SHF shills are trying to keep it quiet 🤔
-#Author: pringles3
-#Post URL: [https://www.reddit.com/r/GME/comments/nxjk67/noticing_massive_amounts_of_down_votes_on_posts/](https://www.reddit.com/r/GME/comments/nxjk67/noticing_massive_amounts_of_down_votes_on_posts/)
+# Title: Noticing massive amounts of down votes on posts that have sold other stocks to buy the GME dip. I'm wondering if SHF shills are trying to keep it quiet 🤔
+# Author: pringles3
+# Post URL: [https://www.reddit.com/r/GME/comments/nxjk67/noticing_massive_amounts_of_down_votes_on_posts/](https://www.reddit.com/r/GME/comments/nxjk67/noticing_massive_amounts_of_down_votes_on_posts/)
 
 
 I'm all for AMC Apes and Apettes cashing in on the AMC squeeze, but there is only One True MOASS and that's GME. It seems SHFs don't want us to jump ship for some reason.  

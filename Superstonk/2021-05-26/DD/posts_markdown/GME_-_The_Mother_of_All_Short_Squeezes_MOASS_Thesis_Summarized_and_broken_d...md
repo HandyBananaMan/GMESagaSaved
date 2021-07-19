@@ -1,6 +1,6 @@
-#Title: $GME - The Mother of All Short Squeezes (MOASS) Thesis. Summarized and broken down in a way for all (or most) to understand. We are in the end-game everyone, and this rocket is taking off with or without you. If you want to understand that whole "GME thing" this is my best shot at explaining it
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/)
+# Title: $GME - The Mother of All Short Squeezes (MOASS) Thesis. Summarized and broken down in a way for all (or most) to understand. We are in the end-game everyone, and this rocket is taking off with or without you. If you want to understand that whole "GME thing" this is my best shot at explaining it
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/)
 
 
 >Not Fincical Advice, I am not a financial advisor![.](https://i.redd.it/xrcur2axv4571.jpg)

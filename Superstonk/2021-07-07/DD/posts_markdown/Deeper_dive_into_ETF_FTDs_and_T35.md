@@ -1,6 +1,6 @@
-#Title: Deeper dive into ETF FTDs and T+35
-#Author: dentisttft
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/](https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/)
+# Title: Deeper dive into ETF FTDs and T+35
+# Author: dentisttft
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/](https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/)
 
 
 *This post is for education purposes only. Not financial advice.*

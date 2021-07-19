@@ -1,6 +1,6 @@
-#Title: Thoughts on the Fed’s balance sheet after today’s record $755.800 Reverse Repo operations and what it means for inflation and the GME rocket.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/](https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/)
+# Title: Thoughts on the Fed’s balance sheet after today’s record $755.800 Reverse Repo operations and what it means for inflation and the GME rocket.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/](https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/)
 
 
 Evening r/Superstonk, neighborhood Jellyfish here! Today, the Fed released its updated balance sheet for the week. (through June 16th)

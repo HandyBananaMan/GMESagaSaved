@@ -1,6 +1,6 @@
-#Title: Who else won't buy a Lambo after this?
-#Author: Stemvid
-#Post URL: [https://www.reddit.com/r/GME/comments/m5lv5k/who_else_wont_buy_a_lambo_after_this/](https://www.reddit.com/r/GME/comments/m5lv5k/who_else_wont_buy_a_lambo_after_this/)
+# Title: Who else won't buy a Lambo after this?
+# Author: Stemvid
+# Post URL: [https://www.reddit.com/r/GME/comments/m5lv5k/who_else_wont_buy_a_lambo_after_this/](https://www.reddit.com/r/GME/comments/m5lv5k/who_else_wont_buy_a_lambo_after_this/)
 
 
 \*\*The "lambo" is figurative, read the actual post\*\*

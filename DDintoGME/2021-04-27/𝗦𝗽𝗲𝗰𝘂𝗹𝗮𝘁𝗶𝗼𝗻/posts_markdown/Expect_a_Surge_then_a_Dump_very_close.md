@@ -1,6 +1,6 @@
-#Title: Expect a Surge then a Dump very close
-#Author: thr0wthis4ccount4way
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mznu6h/expect_a_surge_then_a_dump_very_close/](https://www.reddit.com/r/DDintoGME/comments/mznu6h/expect_a_surge_then_a_dump_very_close/)
+# Title: Expect a Surge then a Dump very close
+# Author: thr0wthis4ccount4way
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mznu6h/expect_a_surge_then_a_dump_very_close/](https://www.reddit.com/r/DDintoGME/comments/mznu6h/expect_a_surge_then_a_dump_very_close/)
 
 
 ![4\/27 @ 08:55](https://preview.redd.it/mxf9d9xlqpv61.png?width=1600&format=png&auto=webp&s=6597894d71d5970ca024e41d48f0757b16e5c781)

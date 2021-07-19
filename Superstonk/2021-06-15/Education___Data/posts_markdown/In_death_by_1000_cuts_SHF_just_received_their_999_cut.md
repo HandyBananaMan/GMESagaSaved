@@ -1,6 +1,6 @@
-#Title: In death by 1000 cuts, SHF just received their 999 cut
-#Author: No1Important_4real
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/](https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/)
+# Title: In death by 1000 cuts, SHF just received their 999 cut
+# Author: No1Important_4real
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/](https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/)
 
 
 **EDIT 06/25:** I have made a follow up post as soon as the numbers came out: [https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000\_cuts\_how\_its\_going\_reported\_si\_at\_967\_million/](https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000_cuts_how_its_going_reported_si_at_967_million/)

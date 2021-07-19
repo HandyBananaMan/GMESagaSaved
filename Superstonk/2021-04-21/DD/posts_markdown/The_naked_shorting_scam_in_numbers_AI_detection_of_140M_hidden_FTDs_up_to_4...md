@@ -1,6 +1,6 @@
-#Title: The naked shorting scam in numbers: AI detection of 140M hidden FTDs, up to 400M naked shorts in married puts and massive dark pool activity by Shitadel and the shorts
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)
+# Title: The naked shorting scam in numbers: AI detection of 140M hidden FTDs, up to 400M naked shorts in married puts and massive dark pool activity by Shitadel and the shorts
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)
 
 
 Edit: I made [a new post describing how I trained the binary classifier (AI) used in this post](https://www.reddit.com/r/Superstonk/comments/mwrycd/how_to_train_a_binary_classifier_ai_to_detect/).

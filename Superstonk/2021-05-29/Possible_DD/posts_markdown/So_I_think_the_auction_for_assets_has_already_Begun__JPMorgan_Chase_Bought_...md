@@ -1,6 +1,6 @@
-#Title: So, I think the auction for assets has already Begun & JPMorgan Chase Bought the 25th largest Bank in the US.
-#Author: WrongByTechnicality
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/](https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/)
+# Title: So, I think the auction for assets has already Begun & JPMorgan Chase Bought the 25th largest Bank in the US.
+# Author: WrongByTechnicality
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/](https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/)
 
 
 Okay, so this is my first attempt at doing a possible DD and this is what I’ve come up with.

@@ -1,6 +1,6 @@
-#Title: Ken. It’s 10 million now for threatening the life of Pixel with suicide
-#Author: Totally_Kyle
-#Post URL: [https://www.reddit.com/r/GME/comments/md149k/ken_its_10_million_now_for_threatening_the_life/](https://www.reddit.com/r/GME/comments/md149k/ken_its_10_million_now_for_threatening_the_life/)
+# Title: Ken. It’s 10 million now for threatening the life of Pixel with suicide
+# Author: Totally_Kyle
+# Post URL: [https://www.reddit.com/r/GME/comments/md149k/ken_its_10_million_now_for_threatening_the_life/](https://www.reddit.com/r/GME/comments/md149k/ken_its_10_million_now_for_threatening_the_life/)
 
 
 Ken, all we do is shitpost on a board. You went directly to a fellow 🦍 and threatened to suicide him. Have fun in prison, hope you succumb to yourself this weekend, and no I really don’t care about your life and I’m not gonna pretend you matter. You’re never gonna learn and you would rather take the easy way out. I know it’s on your mind.

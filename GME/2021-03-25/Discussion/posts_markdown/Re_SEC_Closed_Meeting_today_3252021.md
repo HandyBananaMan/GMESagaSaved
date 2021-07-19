@@ -1,6 +1,6 @@
-#Title: Re: SEC Closed Meeting today 3/25/2021
-#Author: Conscious-Sea-5937
-#Post URL: [https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
+# Title: Re: SEC Closed Meeting today 3/25/2021
+# Author: Conscious-Sea-5937
+# Post URL: [https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
 
 
 So this is my first attempt at trying to add value to our beloved ape community.  I decided to see what I could find out about this closed meeting the SEC had on deck for today.  What I found is mostly above my head but it does sound to me that someone(s) about to get pinched?

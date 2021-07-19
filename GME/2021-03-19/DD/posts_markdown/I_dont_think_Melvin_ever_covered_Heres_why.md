@@ -1,6 +1,6 @@
-#Title: I don't think Melvin ever covered. Here's why.
-#Author: Fat_Sassy_Classy
-#Post URL: [https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/](https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/)
+# Title: I don't think Melvin ever covered. Here's why.
+# Author: Fat_Sassy_Classy
+# Post URL: [https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/](https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/)
 
 
 TL;DR Melvin’s initial short position was 50 million shorted shares. Possibly 63 million shares at the end of February.

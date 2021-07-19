@@ -1,6 +1,6 @@
-#Title: Reported Short Interest is still being manipulated using OTM puts to reset FTD’s
-#Author: eastrod
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1p0j1/reported_short_interest_is_still_being/](https://www.reddit.com/r/DDintoGME/comments/n1p0j1/reported_short_interest_is_still_being/)
+# Title: Reported Short Interest is still being manipulated using OTM puts to reset FTD’s
+# Author: eastrod
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1p0j1/reported_short_interest_is_still_being/](https://www.reddit.com/r/DDintoGME/comments/n1p0j1/reported_short_interest_is_still_being/)
 
 
 Apes and apettes, I’m jacked to the tits!!!

@@ -1,6 +1,6 @@
-#Title: What Exactly Happened with Melvin Capital?
-#Author: AvidTreesFan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/](https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/)
+# Title: What Exactly Happened with Melvin Capital?
+# Author: AvidTreesFan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/](https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/)
 
 
 Okay, I've been typing all day and sipping coffee all night, so strap in for my crayon drawings.

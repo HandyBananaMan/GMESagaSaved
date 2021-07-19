@@ -1,6 +1,6 @@
-#Title: The Bigger Short. How 2008 is repeating, at a much greater magnitude, and COVID ignited the fuse. GME is not the reason for the market crash. GME was the fatal flaw of Wall Street in their infinite money cheat that they did not expect.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
+# Title: The Bigger Short. How 2008 is repeating, at a much greater magnitude, and COVID ignited the fuse. GME is not the reason for the market crash. GME was the fatal flaw of Wall Street in their infinite money cheat that they did not expect.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
 
 
 &#x200B;

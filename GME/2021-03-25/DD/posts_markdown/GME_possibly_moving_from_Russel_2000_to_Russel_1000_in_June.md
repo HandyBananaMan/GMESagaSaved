@@ -1,6 +1,6 @@
-#Title: GME possibly moving from Russel 2000 to Russel 1000 in June.
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)
+# Title: GME possibly moving from Russel 2000 to Russel 1000 in June.
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)
 
 
 Due to GME's current market cap / stock price, GME is very likely to be eligible to join the Russel 1000 in June.

@@ -1,6 +1,6 @@
-#Title: A House Of Cards - Part 2 - Translated to Danish/DANSK
-#Author: jimmijoness
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/](https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/)
+# Title: A House Of Cards - Part 2 - Translated to Danish/DANSK
+# Author: jimmijoness
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/](https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/)
 
 
   

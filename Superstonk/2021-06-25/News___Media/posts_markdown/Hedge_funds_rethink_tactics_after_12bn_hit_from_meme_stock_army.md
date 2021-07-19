@@ -1,6 +1,6 @@
-#Title: Hedge funds rethink tactics after $12bn hit from meme stock army
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/](https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/)
+# Title: Hedge funds rethink tactics after $12bn hit from meme stock army
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/](https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/)
 
 
 &#x200B;

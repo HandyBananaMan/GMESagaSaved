@@ -1,6 +1,6 @@
-#Title: Volume 'Glitches' Surrounding T+21 Dates. FINRA Rule of "Orders Locked In By 2:30PM". These 'Glitches' Might Be Revealing The True SI%.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/](https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/)
+# Title: Volume 'Glitches' Surrounding T+21 Dates. FINRA Rule of "Orders Locked In By 2:30PM". These 'Glitches' Might Be Revealing The True SI%.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/](https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/)
 
 
 # Edit: Debunked! Big sad. The posts of glitches were only around T+21 dates so that thew me for a loop. They happen frequently and in other stocks too. I'm not a TOS user so I followed a red herring only to get suplexed by /u/jsmar18

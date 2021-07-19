@@ -1,6 +1,6 @@
-#Title: GME GOES FROM 300M+ IN DEBT TO HALF A BILLION IN CAPITAL IN MONTH
-#Author: Zacwel
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mz9hu7/gme_goes_from_300m_in_debt_to_half_a_billion_in/](https://www.reddit.com/r/Superstonk/comments/mz9hu7/gme_goes_from_300m_in_debt_to_half_a_billion_in/)
+# Title: GME GOES FROM 300M+ IN DEBT TO HALF A BILLION IN CAPITAL IN MONTH
+# Author: Zacwel
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mz9hu7/gme_goes_from_300m_in_debt_to_half_a_billion_in/](https://www.reddit.com/r/Superstonk/comments/mz9hu7/gme_goes_from_300m_in_debt_to_half_a_billion_in/)
 
 
 AND THE PRICE NEVER DROPPED??

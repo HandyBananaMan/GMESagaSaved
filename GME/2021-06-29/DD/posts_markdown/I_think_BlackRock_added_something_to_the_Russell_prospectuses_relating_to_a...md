@@ -1,6 +1,6 @@
-#Title: I think BlackRock added something to the Russell prospectuses relating to a MOASS payout?
-#Author: hunting_snipes
-#Post URL: [https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/](https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/)
+# Title: I think BlackRock added something to the Russell prospectuses relating to a MOASS payout?
+# Author: hunting_snipes
+# Post URL: [https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/](https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/)
 
 
 EDIT: I'm working on some clarifying DD right now -- I understand why they put in these redemption clauses better now. I don't think I explained well and there's been some misunderstandings. I don't think they're saying IWM is shorted, **I think this was BlackRock's way of cockblocking SHFs that were using Russell 2000 ETFs to fuck with GME** \[and possibly other shorted stocks\].

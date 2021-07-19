@@ -1,6 +1,6 @@
-#Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members. (Citadel is an options clearing member) SR-OCC-2021-004
-#Author: Scalpel_Jockey9965
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/)
+# Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members. (Citadel is an options clearing member) SR-OCC-2021-004
+# Author: Scalpel_Jockey9965
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/)
 
 
 **Some people are getting a little confused. These "auctions" are not for GME \*stonk\* or any other stock for that matter. These are for open options contracts in other companies that have yet to expire and will need to be sold to cover short positions. The OCC handles all options transactions while the NSCC handles securities (stocks) transactions.**

@@ -1,6 +1,6 @@
-#Title: Elliott Waves, GME, Algos, Bastille Day, Wut Next?
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/](https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/)
+# Title: Elliott Waves, GME, Algos, Bastille Day, Wut Next?
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/](https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/)
 
 
 Sup apes

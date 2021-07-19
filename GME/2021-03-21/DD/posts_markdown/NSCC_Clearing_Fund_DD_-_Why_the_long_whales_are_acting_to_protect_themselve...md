@@ -1,6 +1,6 @@
-#Title: NSCC Clearing Fund DD - Why the long whales are acting to protect themselves and not retail
-#Author: Leaglese
-#Post URL: [https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/](https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/)
+# Title: NSCC Clearing Fund DD - Why the long whales are acting to protect themselves and not retail
+# Author: Leaglese
+# Post URL: [https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/](https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/)
 
 
 Given the TLDR at the top has proven popular elsewhere, here's mine:

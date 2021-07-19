@@ -1,6 +1,6 @@
-#Title: More conformation bias: 1,970,881,693 (1.9 billion) shares in short volume since Jan 4, 2021
-#Author: natep001001
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ol12az/more_conformation_bias_1970881693_19_billion/](https://www.reddit.com/r/Superstonk/comments/ol12az/more_conformation_bias_1970881693_19_billion/)
+# Title: More conformation bias: 1,970,881,693 (1.9 billion) shares in short volume since Jan 4, 2021
+# Author: natep001001
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ol12az/more_conformation_bias_1970881693_19_billion/](https://www.reddit.com/r/Superstonk/comments/ol12az/more_conformation_bias_1970881693_19_billion/)
 
 
 So I summed up the [historical volume (NSDAQ) ](https://www.nasdaq.com/market-activity/stocks/gme/historical) from January 4th 2021 to July 14th 2021.  The sum/ total volume was 3,284,802,823- or 3.28 billion shares. 

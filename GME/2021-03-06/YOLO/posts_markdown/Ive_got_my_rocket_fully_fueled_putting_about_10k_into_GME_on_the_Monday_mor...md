@@ -1,6 +1,6 @@
-#Title: I've got my rocket fully fueled, putting about 10k into $GME on the Monday morning dip
-#Author: Doug_Duper
-#Post URL: [https://www.reddit.com/r/GME/comments/lz8to6/ive_got_my_rocket_fully_fueled_putting_about_10k/](https://www.reddit.com/r/GME/comments/lz8to6/ive_got_my_rocket_fully_fueled_putting_about_10k/)
+# Title: I've got my rocket fully fueled, putting about 10k into $GME on the Monday morning dip
+# Author: Doug_Duper
+# Post URL: [https://www.reddit.com/r/GME/comments/lz8to6/ive_got_my_rocket_fully_fueled_putting_about_10k/](https://www.reddit.com/r/GME/comments/lz8to6/ive_got_my_rocket_fully_fueled_putting_about_10k/)
 
 
 selling all my shares fuck everything else the only good stock rn is $GME,  Putting every last penny from my account into gme, see you apes at the moon! (not financial advice) 💎🙌🚀🚀🚀🐒

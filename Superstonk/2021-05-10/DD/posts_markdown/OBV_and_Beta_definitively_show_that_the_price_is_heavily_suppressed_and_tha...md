@@ -1,6 +1,6 @@
-#Title: OBV and Beta definitively show that the price is heavily suppressed and that GME is the ultimate hedge against market volatility
-#Author: OverlordHippo
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/](https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/)
+# Title: OBV and Beta definitively show that the price is heavily suppressed and that GME is the ultimate hedge against market volatility
+# Author: OverlordHippo
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/](https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/)
 
 
 Hey there, dildos and dildettes. I normally keep my DD to myself and my friends, but if I can convince my cautious anchor to reality that GME is going to the moon, maybe I can help you do the same. 

@@ -1,6 +1,6 @@
-#Title: So You Think You Wanna Buy A Lambo, Eh?
-#Author: 2008UniGrad
-#Post URL: [https://www.reddit.com/r/GME/comments/m960vj/so_you_think_you_wanna_buy_a_lambo_eh/](https://www.reddit.com/r/GME/comments/m960vj/so_you_think_you_wanna_buy_a_lambo_eh/)
+# Title: So You Think You Wanna Buy A Lambo, Eh?
+# Author: 2008UniGrad
+# Post URL: [https://www.reddit.com/r/GME/comments/m960vj/so_you_think_you_wanna_buy_a_lambo_eh/](https://www.reddit.com/r/GME/comments/m960vj/so_you_think_you_wanna_buy_a_lambo_eh/)
 
 
 Ok Apes! I know what you are thinking - 'I'm so bored, the weekend sucks, how much longer to Monday?'.  Grab your crayon sticks and let's try and grow some brain wrinkles in the process.  I have just what the Dr. ordered to counter your boredom!

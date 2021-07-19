@@ -1,6 +1,6 @@
-#Title: The $27 price drop in after hours only brought down the Volume Weighted Average Price (VWAP) by $3 to $183 🤣🤣🤣 Nice try, but we are not falling for it 🚀🚀🚀
-#Author: Cuttingwater_
-#Post URL: [https://www.reddit.com/r/GME/comments/mbwf03/the_27_price_drop_in_after_hours_only_brought/](https://www.reddit.com/r/GME/comments/mbwf03/the_27_price_drop_in_after_hours_only_brought/)
+# Title: The $27 price drop in after hours only brought down the Volume Weighted Average Price (VWAP) by $3 to $183 🤣🤣🤣 Nice try, but we are not falling for it 🚀🚀🚀
+# Author: Cuttingwater_
+# Post URL: [https://www.reddit.com/r/GME/comments/mbwf03/the_27_price_drop_in_after_hours_only_brought/](https://www.reddit.com/r/GME/comments/mbwf03/the_27_price_drop_in_after_hours_only_brought/)
 
 
 Hello my fellow Apes 🦍🦍🦍,

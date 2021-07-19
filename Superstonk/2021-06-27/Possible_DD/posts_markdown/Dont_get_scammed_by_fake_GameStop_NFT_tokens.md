@@ -1,6 +1,6 @@
-#Title: Don't get scammed by fake GameStop NFT tokens!!!
-#Author: JessasaurusJames
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9a2ty/dont_get_scammed_by_fake_gamestop_nft_tokens/](https://www.reddit.com/r/Superstonk/comments/o9a2ty/dont_get_scammed_by_fake_gamestop_nft_tokens/)
+# Title: Don't get scammed by fake GameStop NFT tokens!!!
+# Author: JessasaurusJames
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9a2ty/dont_get_scammed_by_fake_gamestop_nft_tokens/](https://www.reddit.com/r/Superstonk/comments/o9a2ty/dont_get_scammed_by_fake_gamestop_nft_tokens/)
 
 
 Hey apes,

@@ -1,6 +1,6 @@
-#Title: $GME Discussion for the weekend 07/16-07/18/2021
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olpqcc/gme_discussion_for_the_weekend_071607182021/](https://www.reddit.com/r/GMEJungle/comments/olpqcc/gme_discussion_for_the_weekend_071607182021/)
+# Title: $GME Discussion for the weekend 07/16-07/18/2021
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olpqcc/gme_discussion_for_the_weekend_071607182021/](https://www.reddit.com/r/GMEJungle/comments/olpqcc/gme_discussion_for_the_weekend_071607182021/)
 
 
 Talk about the stock.

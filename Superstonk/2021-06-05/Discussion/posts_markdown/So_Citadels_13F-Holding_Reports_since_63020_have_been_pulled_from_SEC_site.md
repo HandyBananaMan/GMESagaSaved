@@ -1,6 +1,6 @@
-#Title: So... Citadel's 13F-Holding Reports since 6.30.20 have been pulled from SEC site
-#Author: floodmayhem
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt5lzz/so_citadels_13fholding_reports_since_63020_have/](https://www.reddit.com/r/Superstonk/comments/nt5lzz/so_citadels_13fholding_reports_since_63020_have/)
+# Title: So... Citadel's 13F-Holding Reports since 6.30.20 have been pulled from SEC site
+# Author: floodmayhem
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt5lzz/so_citadels_13fholding_reports_since_63020_have/](https://www.reddit.com/r/Superstonk/comments/nt5lzz/so_citadels_13fholding_reports_since_63020_have/)
 
 
 EDIT: Source of the problem was incorrect Information Table filenames for the last couple 13F-HR filings, leading to an error in the "search by text" engine when trying to reach them. Still, sus to me it happened on last 3(5 including amendments) 13F-HR filings.

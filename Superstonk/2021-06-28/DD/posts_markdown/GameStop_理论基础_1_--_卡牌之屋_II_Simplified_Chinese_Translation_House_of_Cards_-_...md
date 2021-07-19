@@ -1,6 +1,6 @@
-#Title: GameStop 理论基础 #1 -- 卡牌之屋 II [Simplified Chinese Translation: House of Cards - Part 2, u/atobitt]
-#Author: zhishy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/)
+# Title: GameStop 理论基础 #1 -- 卡牌之屋 II [Simplified Chinese Translation: House of Cards - Part 2, u/atobitt]
+# Author: zhishy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/)
 
 
 原文标题：House of Cards - Part 2, u/atobitt

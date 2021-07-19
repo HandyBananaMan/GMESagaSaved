@@ -1,6 +1,6 @@
-#Title: Citadel did NOT borrow $600,000,000. Stop spreading misinformation!!!
-#Author: SyntacticLuster
-#Post URL: [https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/](https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/)
+# Title: Citadel did NOT borrow $600,000,000. Stop spreading misinformation!!!
+# Author: SyntacticLuster
+# Post URL: [https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/](https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/)
 
 
 Citadel Securities issued 600 Million convertible bonds.

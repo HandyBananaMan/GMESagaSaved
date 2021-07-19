@@ -1,6 +1,6 @@
-#Title: A GameStop crypto dividend will NOT be an NFT. Misinformation and incorrect terminology is running rampant, let's clear it up.
-#Author: GooseG17
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/](https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/)
+# Title: A GameStop crypto dividend will NOT be an NFT. Misinformation and incorrect terminology is running rampant, let's clear it up.
+# Author: GooseG17
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/](https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/)
 
 
 I'm sorry for the condescending title. I promise I'm friendly, just stupid af.

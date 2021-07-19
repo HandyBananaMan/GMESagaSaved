@@ -1,6 +1,6 @@
-#Title: What seperates us from them
-#Author: samyy15
-#Post URL: [https://www.reddit.com/r/GME/comments/mxzxen/what_seperates_us_from_them/](https://www.reddit.com/r/GME/comments/mxzxen/what_seperates_us_from_them/)
+# Title: What seperates us from them
+# Author: samyy15
+# Post URL: [https://www.reddit.com/r/GME/comments/mxzxen/what_seperates_us_from_them/](https://www.reddit.com/r/GME/comments/mxzxen/what_seperates_us_from_them/)
 
 
 Hi All.

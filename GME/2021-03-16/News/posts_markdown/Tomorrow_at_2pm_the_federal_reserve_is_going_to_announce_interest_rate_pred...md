@@ -1,6 +1,6 @@
-#Title: Tomorrow at 2pm the federal reserve is going to announce interest rate predictions. This could be huge. If interest go up then shorting becomes more expensive. Treasury yields are up 1.62% today
-#Author: Game_man04
-#Post URL: [https://www.reddit.com/r/GME/comments/m6ov56/tomorrow_at_2pm_the_federal_reserve_is_going_to/](https://www.reddit.com/r/GME/comments/m6ov56/tomorrow_at_2pm_the_federal_reserve_is_going_to/)
+# Title: Tomorrow at 2pm the federal reserve is going to announce interest rate predictions. This could be huge. If interest go up then shorting becomes more expensive. Treasury yields are up 1.62% today
+# Author: Game_man04
+# Post URL: [https://www.reddit.com/r/GME/comments/m6ov56/tomorrow_at_2pm_the_federal_reserve_is_going_to/](https://www.reddit.com/r/GME/comments/m6ov56/tomorrow_at_2pm_the_federal_reserve_is_going_to/)
 
 
 [federal reserve article ](https://www.cnbc.com/2021/03/16/as-fed-meets-wells-fargo-predicts-10-year-yield-could-reach-2point25percent.html)

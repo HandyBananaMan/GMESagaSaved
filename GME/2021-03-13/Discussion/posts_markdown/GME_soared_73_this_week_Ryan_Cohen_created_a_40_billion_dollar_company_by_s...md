@@ -1,6 +1,6 @@
-#Title: GME soared 73% this week. Ryan Cohen created a 40 billion dollar company by selling dog food. Stop freaking out, you are in good hands. Let's recall all the failed tactics from Melvin
-#Author: queserrva
-#Post URL: [https://www.reddit.com/r/GME/comments/m4f3ge/gme_soared_73_this_week_ryan_cohen_created_a_40/](https://www.reddit.com/r/GME/comments/m4f3ge/gme_soared_73_this_week_ryan_cohen_created_a_40/)
+# Title: GME soared 73% this week. Ryan Cohen created a 40 billion dollar company by selling dog food. Stop freaking out, you are in good hands. Let's recall all the failed tactics from Melvin
+# Author: queserrva
+# Post URL: [https://www.reddit.com/r/GME/comments/m4f3ge/gme_soared_73_this_week_ryan_cohen_created_a_40/](https://www.reddit.com/r/GME/comments/m4f3ge/gme_soared_73_this_week_ryan_cohen_created_a_40/)
 
 
 I will rank them based on the IQ of the tactic.

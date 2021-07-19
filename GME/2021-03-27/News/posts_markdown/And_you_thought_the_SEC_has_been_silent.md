@@ -1,6 +1,6 @@
-#Title: And you thought the SEC has been silent
-#Author: Current-Information7
-#Post URL: [https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/)
+# Title: And you thought the SEC has been silent
+# Author: Current-Information7
+# Post URL: [https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/)
 
 
 They have quietly restricted access to information they are required to make public (you are still right about the silent part)

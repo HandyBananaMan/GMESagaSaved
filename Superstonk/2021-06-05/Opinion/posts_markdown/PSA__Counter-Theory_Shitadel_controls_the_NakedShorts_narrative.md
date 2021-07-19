@@ -1,6 +1,6 @@
-#Title: PSA / Counter-Theory: Shitadel controls the #NakedShorts narrative.
-#Author: ChemicalFist
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/](https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/)
+# Title: PSA / Counter-Theory: Shitadel controls the #NakedShorts narrative.
+# Author: ChemicalFist
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/](https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/)
 
 
 Hello fam, we need to have a talk.

@@ -1,6 +1,6 @@
-#Title: $115 BILLION CORRELATION + FTD COVERAGE SPECULATION THREAD, ENDGAME.
-#Author: stormshawty
-#Post URL: [https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/](https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/)
+# Title: $115 BILLION CORRELATION + FTD COVERAGE SPECULATION THREAD, ENDGAME.
+# Author: stormshawty
+# Post URL: [https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/](https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/)
 
 
 ![7/14-7/16](https://i.imgur.com/u63ZqPN.png)

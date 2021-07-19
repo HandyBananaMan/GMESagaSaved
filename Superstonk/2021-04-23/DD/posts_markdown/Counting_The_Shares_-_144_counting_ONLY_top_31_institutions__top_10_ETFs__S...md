@@ -1,6 +1,6 @@
-#Title: Counting The Shares - 144% counting ONLY top 31 institutions + top 10 ETFs + Superstonk poll.
-#Author: thabat
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/](https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/)
+# Title: Counting The Shares - 144% counting ONLY top 31 institutions + top 10 ETFs + Superstonk poll.
+# Author: thabat
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/](https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/)
 
 
 Following this rabbit hole:

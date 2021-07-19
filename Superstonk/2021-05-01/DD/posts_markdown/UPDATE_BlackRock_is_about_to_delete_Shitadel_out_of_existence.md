@@ -1,6 +1,6 @@
-#Title: [UPDATE] BlackRock is about to delete Shitadel out of existence.
-#Author: alienashtray
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n2jdy6/update_blackrock_is_about_to_delete_shitadel_out/](https://www.reddit.com/r/Superstonk/comments/n2jdy6/update_blackrock_is_about_to_delete_shitadel_out/)
+# Title: [UPDATE] BlackRock is about to delete Shitadel out of existence.
+# Author: alienashtray
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2jdy6/update_blackrock_is_about_to_delete_shitadel_out/](https://www.reddit.com/r/Superstonk/comments/n2jdy6/update_blackrock_is_about_to_delete_shitadel_out/)
 
 
 Hello apes/retards,

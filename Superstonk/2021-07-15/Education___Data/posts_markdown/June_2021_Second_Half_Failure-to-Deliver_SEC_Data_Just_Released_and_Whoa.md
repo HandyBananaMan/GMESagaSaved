@@ -1,6 +1,6 @@
-#Title: June 2021, Second Half Failure-to-Deliver SEC Data Just Released and... Whoa
-#Author: Suspicious-Singer243
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okvtid/june_2021_second_half_failuretodeliver_sec_data/](https://www.reddit.com/r/Superstonk/comments/okvtid/june_2021_second_half_failuretodeliver_sec_data/)
+# Title: June 2021, Second Half Failure-to-Deliver SEC Data Just Released and... Whoa
+# Author: Suspicious-Singer243
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okvtid/june_2021_second_half_failuretodeliver_sec_data/](https://www.reddit.com/r/Superstonk/comments/okvtid/june_2021_second_half_failuretodeliver_sec_data/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: Overall Democratic Decisions for the Sub- Please comment with your input!!
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/olu21e/overall_democratic_decisions_for_the_sub_please/](https://www.reddit.com/r/GMEJungle/comments/olu21e/overall_democratic_decisions_for_the_sub_please/)
+# Title: Overall Democratic Decisions for the Sub- Please comment with your input!!
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/olu21e/overall_democratic_decisions_for_the_sub_please/](https://www.reddit.com/r/GMEJungle/comments/olu21e/overall_democratic_decisions_for_the_sub_please/)
 
 
 # Welcome to the Jungle 🦍🤝💪

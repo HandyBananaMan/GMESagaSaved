@@ -1,6 +1,6 @@
-#Title: Theory: Hedgies have not defaulted and seen their accounts unwind - because their prime brokers refuse to let that happen, as doing so would destroy themselves.
-#Author: fsocietyfwallstreet
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvbsip/theory_hedgies_have_not_defaulted_and_seen_their/](https://www.reddit.com/r/Superstonk/comments/nvbsip/theory_hedgies_have_not_defaulted_and_seen_their/)
+# Title: Theory: Hedgies have not defaulted and seen their accounts unwind - because their prime brokers refuse to let that happen, as doing so would destroy themselves.
+# Author: fsocietyfwallstreet
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvbsip/theory_hedgies_have_not_defaulted_and_seen_their/](https://www.reddit.com/r/Superstonk/comments/nvbsip/theory_hedgies_have_not_defaulted_and_seen_their/)
 
 
 #Background & reason for post:

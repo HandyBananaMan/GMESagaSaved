@@ -1,6 +1,6 @@
-#Title: Point 72 discussion
-#Author: Longjumping_College
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8bk07/point_72_discussion/](https://www.reddit.com/r/Superstonk/comments/o8bk07/point_72_discussion/)
+# Title: Point 72 discussion
+# Author: Longjumping_College
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8bk07/point_72_discussion/](https://www.reddit.com/r/Superstonk/comments/o8bk07/point_72_discussion/)
 
 
 Comment got too long (that 1500 word limit) so I'm gonna make a post to discuss the SAC capital/point72/plotkin/Citadel partnership. 

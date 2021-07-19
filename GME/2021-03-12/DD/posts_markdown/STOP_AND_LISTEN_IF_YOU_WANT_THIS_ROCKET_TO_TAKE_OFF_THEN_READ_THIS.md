@@ -1,6 +1,6 @@
-#Title: STOP AND LISTEN; IF YOU WANT THIS ROCKET TO TAKE OFF THEN READ THIS
-#Author: _Badtothebone_
-#Post URL: [https://www.reddit.com/r/GME/comments/m3rvq6/stop_and_listen_if_you_want_this_rocket_to_take/](https://www.reddit.com/r/GME/comments/m3rvq6/stop_and_listen_if_you_want_this_rocket_to_take/)
+# Title: STOP AND LISTEN; IF YOU WANT THIS ROCKET TO TAKE OFF THEN READ THIS
+# Author: _Badtothebone_
+# Post URL: [https://www.reddit.com/r/GME/comments/m3rvq6/stop_and_listen_if_you_want_this_rocket_to_take/](https://www.reddit.com/r/GME/comments/m3rvq6/stop_and_listen_if_you_want_this_rocket_to_take/)
 
 
 Okay, now that i have your attention, please take this whole heartedly and do not call me a shill or a traitor or whatever, i am BEYOND BULLISH of where we are right now. 

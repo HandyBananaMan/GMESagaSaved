@@ -1,6 +1,6 @@
-#Title: Warning PSA: Robinhood keeps your shares on margin even after disabling margin and transferring to Fidelity
-#Author: Oktocry
-#Post URL: [https://www.reddit.com/r/GME/comments/msv1pi/warning_psa_robinhood_keeps_your_shares_on_margin/](https://www.reddit.com/r/GME/comments/msv1pi/warning_psa_robinhood_keeps_your_shares_on_margin/)
+# Title: Warning PSA: Robinhood keeps your shares on margin even after disabling margin and transferring to Fidelity
+# Author: Oktocry
+# Post URL: [https://www.reddit.com/r/GME/comments/msv1pi/warning_psa_robinhood_keeps_your_shares_on_margin/](https://www.reddit.com/r/GME/comments/msv1pi/warning_psa_robinhood_keeps_your_shares_on_margin/)
 
 
 I'm writing this and crossposting to trading subreddits in hopes of saving heartbreak when people still on Robbinghood learn that they're all on margin and cannot sell at their personal floor. 

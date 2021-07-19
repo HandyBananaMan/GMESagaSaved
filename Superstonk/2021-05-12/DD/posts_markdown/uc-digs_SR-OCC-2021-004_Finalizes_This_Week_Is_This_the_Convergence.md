@@ -1,6 +1,6 @@
-#Title: u/c-digs: SR-OCC-2021-004 Finalizes This Week; Is This the Convergence?
-#Author: sharp717
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/naweno/ucdigs_srocc2021004_finalizes_this_week_is_this/](https://www.reddit.com/r/Superstonk/comments/naweno/ucdigs_srocc2021004_finalizes_this_week_is_this/)
+# Title: u/c-digs: SR-OCC-2021-004 Finalizes This Week; Is This the Convergence?
+# Author: sharp717
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/naweno/ucdigs_srocc2021004_finalizes_this_week_is_this/](https://www.reddit.com/r/Superstonk/comments/naweno/ucdigs_srocc2021004_finalizes_this_week_is_this/)
 
 
 Hey guys, re-posting this here cuz someone cross posted it with a crap title and no one is seeing it.

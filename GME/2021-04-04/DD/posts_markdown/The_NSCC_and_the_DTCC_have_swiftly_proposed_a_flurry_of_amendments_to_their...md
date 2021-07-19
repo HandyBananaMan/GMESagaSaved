@@ -1,6 +1,6 @@
-#Title: The NSCC and the DTCC have swiftly proposed a flurry of amendments to their rules which I’ve outlined in very brief manner below
-#Author: TheAutistcMilyonar
-#Post URL: [https://www.reddit.com/r/GME/comments/mjpmps/the_nscc_and_the_dtcc_have_swiftly_proposed_a/](https://www.reddit.com/r/GME/comments/mjpmps/the_nscc_and_the_dtcc_have_swiftly_proposed_a/)
+# Title: The NSCC and the DTCC have swiftly proposed a flurry of amendments to their rules which I’ve outlined in very brief manner below
+# Author: TheAutistcMilyonar
+# Post URL: [https://www.reddit.com/r/GME/comments/mjpmps/the_nscc_and_the_dtcc_have_swiftly_proposed_a/](https://www.reddit.com/r/GME/comments/mjpmps/the_nscc_and_the_dtcc_have_swiftly_proposed_a/)
 
 
 

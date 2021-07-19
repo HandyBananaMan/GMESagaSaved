@@ -1,6 +1,6 @@
-#Title: *Proof CNBC edited out exactly 10 minutes and 18 seconds of a specific part of the US Congreesional Hearing that targeted Citadel & Robinhood.
-#Author: ringingbells
-#Post URL: [https://www.reddit.com/r/GME/comments/m7gq8w/proof_cnbc_edited_out_exactly_10_minutes_and_18/](https://www.reddit.com/r/GME/comments/m7gq8w/proof_cnbc_edited_out_exactly_10_minutes_and_18/)
+# Title: *Proof CNBC edited out exactly 10 minutes and 18 seconds of a specific part of the US Congreesional Hearing that targeted Citadel & Robinhood.
+# Author: ringingbells
+# Post URL: [https://www.reddit.com/r/GME/comments/m7gq8w/proof_cnbc_edited_out_exactly_10_minutes_and_18/](https://www.reddit.com/r/GME/comments/m7gq8w/proof_cnbc_edited_out_exactly_10_minutes_and_18/)
 
 
 Here is the CNBC coverage 2 seconds before the moment the video jump cuts.

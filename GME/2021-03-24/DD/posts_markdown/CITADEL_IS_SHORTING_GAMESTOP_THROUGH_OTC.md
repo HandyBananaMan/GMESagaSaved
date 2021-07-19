@@ -1,6 +1,6 @@
-#Title: CITADEL IS SHORTING GAMESTOP THROUGH OTC!!!
-#Author: rcinvestments
-#Post URL: [https://www.reddit.com/r/GME/comments/mcivxw/citadel_is_shorting_gamestop_through_otc/](https://www.reddit.com/r/GME/comments/mcivxw/citadel_is_shorting_gamestop_through_otc/)
+# Title: CITADEL IS SHORTING GAMESTOP THROUGH OTC!!!
+# Author: rcinvestments
+# Post URL: [https://www.reddit.com/r/GME/comments/mcivxw/citadel_is_shorting_gamestop_through_otc/](https://www.reddit.com/r/GME/comments/mcivxw/citadel_is_shorting_gamestop_through_otc/)
 
 
  

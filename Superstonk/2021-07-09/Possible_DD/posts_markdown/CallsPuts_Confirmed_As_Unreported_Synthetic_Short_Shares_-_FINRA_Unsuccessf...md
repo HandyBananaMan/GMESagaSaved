@@ -1,6 +1,6 @@
-#Title: Calls/Puts Confirmed As Unreported Synthetic Short Shares - FINRA; Unsuccessful Attempt by MM/HF to Death Spiral GME Shows Correlation to Margin Debt
-#Author: Freadom6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/](https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/)
+# Title: Calls/Puts Confirmed As Unreported Synthetic Short Shares - FINRA; Unsuccessful Attempt by MM/HF to Death Spiral GME Shows Correlation to Margin Debt
+# Author: Freadom6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/](https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/)
 
 
 Obligatory: Not financial advice. I am merely pointing out some items I have stumbled across during my late nights reading regulatory documents. Much of what I will discuss is my speculative opinion on information I am reading and using deductive reasoning to put this information together.

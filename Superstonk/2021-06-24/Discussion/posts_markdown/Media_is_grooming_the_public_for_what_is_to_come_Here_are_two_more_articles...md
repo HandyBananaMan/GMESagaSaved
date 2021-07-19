@@ -1,6 +1,6 @@
-#Title: Media is grooming the public for what is to come. Here are two more articles from the media, proving that Superstonk DDs have been correct and way ahead of the curve.
-#Author: _atworkdontsendnudes
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o73bdr/media_is_grooming_the_public_for_what_is_to_come/](https://www.reddit.com/r/Superstonk/comments/o73bdr/media_is_grooming_the_public_for_what_is_to_come/)
+# Title: Media is grooming the public for what is to come. Here are two more articles from the media, proving that Superstonk DDs have been correct and way ahead of the curve.
+# Author: _atworkdontsendnudes
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o73bdr/media_is_grooming_the_public_for_what_is_to_come/](https://www.reddit.com/r/Superstonk/comments/o73bdr/media_is_grooming_the_public_for_what_is_to_come/)
 
 
 Look at these two articles. One on NYT and another on Yahoo.

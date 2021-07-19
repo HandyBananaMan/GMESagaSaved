@@ -1,6 +1,6 @@
-#Title: NO DEEP ITM CALLS WERE BOUGHT FRIDAY (4/9)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mowbw3/no_deep_itm_calls_were_bought_friday_49/](https://www.reddit.com/r/Superstonk/comments/mowbw3/no_deep_itm_calls_were_bought_friday_49/)
+# Title: NO DEEP ITM CALLS WERE BOUGHT FRIDAY (4/9)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mowbw3/no_deep_itm_calls_were_bought_friday_49/](https://www.reddit.com/r/Superstonk/comments/mowbw3/no_deep_itm_calls_were_bought_friday_49/)
 
 
 Hope all of you Apes are having a good weekend,

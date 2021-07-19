@@ -1,6 +1,6 @@
-#Title: Was GameStop Attacked By GLOBAL FRAUD RING? I Think Yes! They Appear to Be Working Closely with FinCEN and DOJ!
-#Author: SurVVhyNot
-#Post URL: [https://www.reddit.com/r/GME/comments/obthrv/was_gamestop_attacked_by_global_fraud_ring_i/](https://www.reddit.com/r/GME/comments/obthrv/was_gamestop_attacked_by_global_fraud_ring_i/)
+# Title: Was GameStop Attacked By GLOBAL FRAUD RING? I Think Yes! They Appear to Be Working Closely with FinCEN and DOJ!
+# Author: SurVVhyNot
+# Post URL: [https://www.reddit.com/r/GME/comments/obthrv/was_gamestop_attacked_by_global_fraud_ring_i/](https://www.reddit.com/r/GME/comments/obthrv/was_gamestop_attacked_by_global_fraud_ring_i/)
 
 
 I'm uncovering stuff that's making me shaky. This is distracting me so much from my actual work it's insane. These links are HINTS to what I'm currently energized by.

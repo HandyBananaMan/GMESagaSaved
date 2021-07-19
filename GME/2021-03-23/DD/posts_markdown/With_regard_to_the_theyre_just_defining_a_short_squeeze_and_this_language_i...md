@@ -1,6 +1,6 @@
-#Title: With regard to the "they're just defining a short squeeze" and "this language is common in SEC filings" FUD
-#Author: BeanDaddyMac
-#Post URL: [https://www.reddit.com/r/GME/comments/mbteqo/with_regard_to_the_theyre_just_defining_a_short/](https://www.reddit.com/r/GME/comments/mbteqo/with_regard_to_the_theyre_just_defining_a_short/)
+# Title: With regard to the "they're just defining a short squeeze" and "this language is common in SEC filings" FUD
+# Author: BeanDaddyMac
+# Post URL: [https://www.reddit.com/r/GME/comments/mbteqo/with_regard_to_the_theyre_just_defining_a_short/](https://www.reddit.com/r/GME/comments/mbteqo/with_regard_to_the_theyre_just_defining_a_short/)
 
 
 Here's the thing about legal filings and CYA turns of phrase- the lawyers who craft these documents do so based on precedent and are encouraged to reuse legal terms as much as possible in order to avoid misinterpretation. Turns out you can actually search the SEC's vast archive of 10-K filings for specific phrases. Let's see just how common this language is, shall we? First, the actual excerpt from the 10K filing in its entirety:

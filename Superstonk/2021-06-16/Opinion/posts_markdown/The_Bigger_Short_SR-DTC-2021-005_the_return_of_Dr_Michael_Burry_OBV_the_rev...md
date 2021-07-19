@@ -1,6 +1,6 @@
-#Title: The Bigger Short, SR-DTC-2021-005, the return of Dr. Michael Burry, OBV, the reverse repo market, upcoming NFT, Citadel Luxembourg dissolved...so many reasons for my mammary glands to be stimulated, but I think it's time to recall the words of Sun Tzu...
-#Author: International_Gold20
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o19ak7/the_bigger_short_srdtc2021005_the_return_of_dr/](https://www.reddit.com/r/Superstonk/comments/o19ak7/the_bigger_short_srdtc2021005_the_return_of_dr/)
+# Title: The Bigger Short, SR-DTC-2021-005, the return of Dr. Michael Burry, OBV, the reverse repo market, upcoming NFT, Citadel Luxembourg dissolved...so many reasons for my mammary glands to be stimulated, but I think it's time to recall the words of Sun Tzu...
+# Author: International_Gold20
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o19ak7/the_bigger_short_srdtc2021005_the_return_of_dr/](https://www.reddit.com/r/Superstonk/comments/o19ak7/the_bigger_short_srdtc2021005_the_return_of_dr/)
 
 
 It is no secret that Sun Tzu's *The Art of War* is a popular book amongst the Wall Street elite. So if I were a depraved, worthless hedge fund manager stuck in the unenviable position of being forced to purchase the millions of counterfeit shares I had created in my efforts to deliberately bankrupt a viable company and walk away with tax free profits, what would I do? My only hope at this point is to make retail investors anxious or frightened or uncertain, thus causing them to sell their shares at prices that are *astronomically* lower than their actual value. Otherwise I will not survive and I won't be able to continue my acts of financial terrorism that have allowed me to steal literally hundreds of trillions of dollars from honest, hard working people over the past few decades.

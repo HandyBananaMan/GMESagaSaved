@@ -1,6 +1,6 @@
-#Title: JUST F-ING BUY AND HOLD!!! nothing else. This sub LITERALLY called this week HYPE WEEK. This only sets us up to disappointment. STOP WITH ALL THE DATES AND FLOORS etc.
-#Author: Tovergieter1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7pbk3/just_fing_buy_and_hold_nothing_else_this_sub/](https://www.reddit.com/r/Superstonk/comments/o7pbk3/just_fing_buy_and_hold_nothing_else_this_sub/)
+# Title: JUST F-ING BUY AND HOLD!!! nothing else. This sub LITERALLY called this week HYPE WEEK. This only sets us up to disappointment. STOP WITH ALL THE DATES AND FLOORS etc.
+# Author: Tovergieter1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7pbk3/just_fing_buy_and_hold_nothing_else_this_sub/](https://www.reddit.com/r/Superstonk/comments/o7pbk3/just_fing_buy_and_hold_nothing_else_this_sub/)
 
 
 OMG people it can be sooooo easy. We know GME is shorted 100+%. So... just buy and hold and eventually  **🚀**  **🚀**  because shorting parties will break under the fees.

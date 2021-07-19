@@ -1,6 +1,6 @@
-#Title: Whats really amazing about this is our discipline despite all the media and hedgefuck fuckery. The trust we have in each is on a level the internet has rarely seen in history
-#Author: canary1988
-#Post URL: [https://www.reddit.com/r/GME/comments/m3e82j/whats_really_amazing_about_this_is_our_discipline/](https://www.reddit.com/r/GME/comments/m3e82j/whats_really_amazing_about_this_is_our_discipline/)
+# Title: Whats really amazing about this is our discipline despite all the media and hedgefuck fuckery. The trust we have in each is on a level the internet has rarely seen in history
+# Author: canary1988
+# Post URL: [https://www.reddit.com/r/GME/comments/m3e82j/whats_really_amazing_about_this_is_our_discipline/](https://www.reddit.com/r/GME/comments/m3e82j/whats_really_amazing_about_this_is_our_discipline/)
 
 
 Perhaps it has something to do with World of Warcraft Raids. WoW was also the punching bag of media and parents. But what we really did was learning teamwork, discipline and dedication.

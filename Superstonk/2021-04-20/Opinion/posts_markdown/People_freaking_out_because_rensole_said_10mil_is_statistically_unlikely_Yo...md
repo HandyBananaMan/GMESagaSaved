@@ -1,6 +1,6 @@
-#Title: People freaking out because rensole said 10mil is statistically unlikely. You know what is also statistically unlikely? -30 Beta
-#Author: Serafal
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mup8fv/people_freaking_out_because_rensole_said_10mil_is/](https://www.reddit.com/r/Superstonk/comments/mup8fv/people_freaking_out_because_rensole_said_10mil_is/)
+# Title: People freaking out because rensole said 10mil is statistically unlikely. You know what is also statistically unlikely? -30 Beta
+# Author: Serafal
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mup8fv/people_freaking_out_because_rensole_said_10mil_is/](https://www.reddit.com/r/Superstonk/comments/mup8fv/people_freaking_out_because_rensole_said_10mil_is/)
 
 
 Headline says it all. 

@@ -1,6 +1,6 @@
-#Title: ONCE AGAIN NO IN-THE-MONEY CALLS WERE PURCHASED TODAY
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mlt726/once_again_no_inthemoney_calls_were_purchased/](https://www.reddit.com/r/Superstonk/comments/mlt726/once_again_no_inthemoney_calls_were_purchased/)
+# Title: ONCE AGAIN NO IN-THE-MONEY CALLS WERE PURCHASED TODAY
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mlt726/once_again_no_inthemoney_calls_were_purchased/](https://www.reddit.com/r/Superstonk/comments/mlt726/once_again_no_inthemoney_calls_were_purchased/)
 
 
 Apes,

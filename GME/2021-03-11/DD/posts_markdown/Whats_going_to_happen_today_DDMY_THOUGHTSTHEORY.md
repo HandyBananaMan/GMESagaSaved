@@ -1,6 +1,6 @@
-#Title: What's going to happen today? DD/MY THOUGHTS/THEORY
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/](https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/)
+# Title: What's going to happen today? DD/MY THOUGHTS/THEORY
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/](https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/)
 
 
 **Edit 3:45PM CET: SSR IS TRIGGERED FOR TOMORROW NOW!!!!!**

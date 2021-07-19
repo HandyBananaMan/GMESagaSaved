@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/17/2021, predicting the day's price action in detail with Warden. Negative beta edition. I heard negative beta is hot right now!
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/m70cvy/live_charting_for_3172021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m70cvy/live_charting_for_3172021_predicting_the_days/)
+# Title: Live Charting for 3/17/2021, predicting the day's price action in detail with Warden. Negative beta edition. I heard negative beta is hot right now!
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/m70cvy/live_charting_for_3172021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m70cvy/live_charting_for_3172021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.

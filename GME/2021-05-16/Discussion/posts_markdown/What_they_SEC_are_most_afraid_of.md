@@ -1,6 +1,6 @@
-#Title: What they (SEC) are most afraid of..
-#Author: Civilian1984
-#Post URL: [https://www.reddit.com/r/GME/comments/ndurwf/what_they_sec_are_most_afraid_of/](https://www.reddit.com/r/GME/comments/ndurwf/what_they_sec_are_most_afraid_of/)
+# Title: What they (SEC) are most afraid of..
+# Author: Civilian1984
+# Post URL: [https://www.reddit.com/r/GME/comments/ndurwf/what_they_sec_are_most_afraid_of/](https://www.reddit.com/r/GME/comments/ndurwf/what_they_sec_are_most_afraid_of/)
 
 
 On 6/9 in Grapevine, TX during the 2021 GME shareholder's meeting, the results of the proxy vote will be revealed.  Many apes out there, including myself, expect the number of shares voted to far exceed the available float.  It is my belief that the SEC also knows this and is preparing for the reveal of the biggest financial fraud perpetrated against investors since Madoff himself.  

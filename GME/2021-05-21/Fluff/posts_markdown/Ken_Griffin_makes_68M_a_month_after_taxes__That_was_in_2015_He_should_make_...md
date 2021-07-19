@@ -1,6 +1,6 @@
-#Title: Ken Griffin makes $68M a month after taxes . That was in 2015. He should make more now. That's why my floor is $69M.
-#Author: DFVFan
-#Post URL: [https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/](https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/)
+# Title: Ken Griffin makes $68M a month after taxes . That was in 2015. He should make more now. That's why my floor is $69M.
+# Author: DFVFan
+# Post URL: [https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/](https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/)
 
 
 [https://www.cnbc.com/2015/03/03/ken-griffin-makes-68m-a-month-after-taxes-ex-wife-says.html](https://www.cnbc.com/2015/03/03/ken-griffin-makes-68m-a-month-after-taxes-ex-wife-says.html)

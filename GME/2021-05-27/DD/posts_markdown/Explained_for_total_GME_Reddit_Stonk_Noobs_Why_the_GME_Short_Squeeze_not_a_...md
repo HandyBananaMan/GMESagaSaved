@@ -1,6 +1,6 @@
-#Title: Explained for total GME, Reddit, Stonk Noobs: Why the GME Short Squeeze not a "conspiracy theory," even though ignored by mainstream media.
-#Author: chris962x
-#Post URL: [https://www.reddit.com/r/GME/comments/nmn7qw/explained_for_total_gme_reddit_stonk_noobs_why/](https://www.reddit.com/r/GME/comments/nmn7qw/explained_for_total_gme_reddit_stonk_noobs_why/)
+# Title: Explained for total GME, Reddit, Stonk Noobs: Why the GME Short Squeeze not a "conspiracy theory," even though ignored by mainstream media.
+# Author: chris962x
+# Post URL: [https://www.reddit.com/r/GME/comments/nmn7qw/explained_for_total_gme_reddit_stonk_noobs_why/](https://www.reddit.com/r/GME/comments/nmn7qw/explained_for_total_gme_reddit_stonk_noobs_why/)
 
 
 Are you worried that the GME 'short squeeze' thesis is crazy tin-foil hat conspiracy, like a financial Qanon of sorts? Here is a guide, explained so complete GME, stonk, reddit noobs can understand it, that seeks to debunk that worry, with lots of links for helpful data for the skeptical.

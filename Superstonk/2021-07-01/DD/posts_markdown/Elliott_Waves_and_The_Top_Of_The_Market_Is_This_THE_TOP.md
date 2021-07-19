@@ -1,6 +1,6 @@
-#Title: Elliott Waves and The Top Of The Market, Is This THE TOP?
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/](https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/)
+# Title: Elliott Waves and The Top Of The Market, Is This THE TOP?
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/](https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/)
 
 
 Sup Apes

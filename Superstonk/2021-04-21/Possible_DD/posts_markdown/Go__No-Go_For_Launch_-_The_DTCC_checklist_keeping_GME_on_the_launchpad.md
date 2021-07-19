@@ -1,6 +1,6 @@
-#Title: Go / No-Go For Launch - The DTCC checklist keeping GME on the launchpad.
-#Author: nothingbuttherainsir
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvq6rs/go_nogo_for_launch_the_dtcc_checklist_keeping_gme/](https://www.reddit.com/r/Superstonk/comments/mvq6rs/go_nogo_for_launch_the_dtcc_checklist_keeping_gme/)
+# Title: Go / No-Go For Launch - The DTCC checklist keeping GME on the launchpad.
+# Author: nothingbuttherainsir
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvq6rs/go_nogo_for_launch_the_dtcc_checklist_keeping_gme/](https://www.reddit.com/r/Superstonk/comments/mvq6rs/go_nogo_for_launch_the_dtcc_checklist_keeping_gme/)
 
 
 #### [New Post - Updated and reposted version as of 2021-05-20](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/) <-- all updates will be made there.

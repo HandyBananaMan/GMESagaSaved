@@ -1,6 +1,6 @@
-#Title: 4 DD's that highlights GME's plan with the NFT and have a ridiculously low amount of upvotes. It's more than just a possible NFT dividend.
-#Author: dusernhhh
-#Post URL: [https://www.reddit.com/r/GME/comments/olk504/4_dds_that_highlights_gmes_plan_with_the_nft_and/](https://www.reddit.com/r/GME/comments/olk504/4_dds_that_highlights_gmes_plan_with_the_nft_and/)
+# Title: 4 DD's that highlights GME's plan with the NFT and have a ridiculously low amount of upvotes. It's more than just a possible NFT dividend.
+# Author: dusernhhh
+# Post URL: [https://www.reddit.com/r/GME/comments/olk504/4_dds_that_highlights_gmes_plan_with_the_nft_and/](https://www.reddit.com/r/GME/comments/olk504/4_dds_that_highlights_gmes_plan_with_the_nft_and/)
 
 
 1. [https://www.reddit.com/r/Superstonk/comments/nl9lu2/there\_is\_a\_lot\_more\_to\_that\_crypto\_wallet\_than/](https://www.reddit.com/r/Superstonk/comments/nl9lu2/there_is_a_lot_more_to_that_crypto_wallet_than/)

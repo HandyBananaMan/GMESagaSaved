@@ -1,6 +1,6 @@
-#Title: Kenny's reaction to the "Brick by Brick" tweet
-#Author: Mr___Roboto
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/objcjx/kennys_reaction_to_the_brick_by_brick_tweet/](https://www.reddit.com/r/Superstonk/comments/objcjx/kennys_reaction_to_the_brick_by_brick_tweet/)
+# Title: Kenny's reaction to the "Brick by Brick" tweet
+# Author: Mr___Roboto
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/objcjx/kennys_reaction_to_the_brick_by_brick_tweet/](https://www.reddit.com/r/Superstonk/comments/objcjx/kennys_reaction_to_the_brick_by_brick_tweet/)
 
 
 https://i.redd.it/5telka151l871.gif

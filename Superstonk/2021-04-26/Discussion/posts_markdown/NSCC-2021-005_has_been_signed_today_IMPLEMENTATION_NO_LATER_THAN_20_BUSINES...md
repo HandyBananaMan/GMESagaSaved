@@ -1,6 +1,6 @@
-#Title: NSCC-2021-005 has been signed today! IMPLEMENTATION NO LATER THAN 20 BUSINESS DAYS.
-#Author: creakfast
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mz9gl6/nscc2021005_has_been_signed_today_implementation/](https://www.reddit.com/r/Superstonk/comments/mz9gl6/nscc2021005_has_been_signed_today_implementation/)
+# Title: NSCC-2021-005 has been signed today! IMPLEMENTATION NO LATER THAN 20 BUSINESS DAYS.
+# Author: creakfast
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mz9gl6/nscc2021005_has_been_signed_today_implementation/](https://www.reddit.com/r/Superstonk/comments/mz9gl6/nscc2021005_has_been_signed_today_implementation/)
 
 
 Apes. A ***CRUCIAL*** regulatory ruling has been just signed by the DTC, and will be implemented no later than 20 business days. That means May 24th is the latest day this could be passed if we are starting the count tomorrow 4/27.

@@ -1,6 +1,6 @@
-#Title: Wondering where tf the SEC is? The Financial Stability Oversight Council met yesterday, including the HEDGE FUND WORKING GROUP, and why I think it confirms the Everything Short DD.
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
+# Title: Wondering where tf the SEC is? The Financial Stability Oversight Council met yesterday, including the HEDGE FUND WORKING GROUP, and why I think it confirms the Everything Short DD.
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
 
 
 DISCLAIMER: POLITICS ARE DISCUSSED, BUT ONLY ON AN UNBIASED, FACTUAL LEVEL. NO PARTISAN POLITICS HERE! I’m even leaving some details out to avoid saying certain names to trigger argument or auto mod. Anyways...

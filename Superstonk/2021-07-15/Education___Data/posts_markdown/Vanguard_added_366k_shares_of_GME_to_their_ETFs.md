@@ -1,6 +1,6 @@
-#Title: Vanguard added 366k shares of GME to their ETFs!
-#Author: Turdfurg23
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okz7jx/vanguard_added_366k_shares_of_gme_to_their_etfs/](https://www.reddit.com/r/Superstonk/comments/okz7jx/vanguard_added_366k_shares_of_gme_to_their_etfs/)
+# Title: Vanguard added 366k shares of GME to their ETFs!
+# Author: Turdfurg23
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okz7jx/vanguard_added_366k_shares_of_gme_to_their_etfs/](https://www.reddit.com/r/Superstonk/comments/okz7jx/vanguard_added_366k_shares_of_gme_to_their_etfs/)
 
 
 Good Afternoon Apes,

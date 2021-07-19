@@ -1,6 +1,6 @@
-#Title: The Actual Reason I'm Here in the Jungle Isn't the Mod Drama
-#Author: kaoscurrent
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om39tf/the_actual_reason_im_here_in_the_jungle_isnt_the/](https://www.reddit.com/r/GMEJungle/comments/om39tf/the_actual_reason_im_here_in_the_jungle_isnt_the/)
+# Title: The Actual Reason I'm Here in the Jungle Isn't the Mod Drama
+# Author: kaoscurrent
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om39tf/the_actual_reason_im_here_in_the_jungle_isnt_the/](https://www.reddit.com/r/GMEJungle/comments/om39tf/the_actual_reason_im_here_in_the_jungle_isnt_the/)
 
 
 In fact, I could really care less about it. No offense Pink. The reason I came over, and maybe this is gonna be true for a few others too, is that I've had a nagging sensation that something hasn't been quite right over at SuperStonk for a few weeks now. 

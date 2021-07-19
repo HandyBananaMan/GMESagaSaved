@@ -1,6 +1,6 @@
-#Title: Wes Christian when asked how apes can help expose the problem so they can’t continue to kick the can down the road? 1. Buy, hold, spread awareness. 2. Write your Congressmen! Template letter and how to inside.
-#Author: Ryantacular
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nz31hy/wes_christian_when_asked_how_apes_can_help_expose/](https://www.reddit.com/r/Superstonk/comments/nz31hy/wes_christian_when_asked_how_apes_can_help_expose/)
+# Title: Wes Christian when asked how apes can help expose the problem so they can’t continue to kick the can down the road? 1. Buy, hold, spread awareness. 2. Write your Congressmen! Template letter and how to inside.
+# Author: Ryantacular
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nz31hy/wes_christian_when_asked_how_apes_can_help_expose/](https://www.reddit.com/r/Superstonk/comments/nz31hy/wes_christian_when_asked_how_apes_can_help_expose/)
 
 
 

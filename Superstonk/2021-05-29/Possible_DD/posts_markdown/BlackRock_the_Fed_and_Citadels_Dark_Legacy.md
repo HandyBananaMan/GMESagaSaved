@@ -1,6 +1,6 @@
-#Title: BlackRock, the Fed, and Citadel's Dark Legacy
-#Author: Pop-Tart_Rabies_Monk
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnn7ly/blackrock_the_fed_and_citadels_dark_legacy/](https://www.reddit.com/r/Superstonk/comments/nnn7ly/blackrock_the_fed_and_citadels_dark_legacy/)
+# Title: BlackRock, the Fed, and Citadel's Dark Legacy
+# Author: Pop-Tart_Rabies_Monk
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnn7ly/blackrock_the_fed_and_citadels_dark_legacy/](https://www.reddit.com/r/Superstonk/comments/nnn7ly/blackrock_the_fed_and_citadels_dark_legacy/)
 
 
 APES. So my post last night in u/CuriousCatNYC777's post was taken down by automod because I edited it and that took it over the character limit. Lol smooth brain. My first comment that blows up and that happens. Original post: [https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/?utm_source=share&utm_medium=mweb](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/?utm_source=share&utm_medium=mweb) I have messaged the mods to ask it be brought back, but in the meantime putting it out there for those that want to see it.

@@ -1,6 +1,6 @@
-#Title: Reminder: Shorts have NOT covered and are LYING in their fintel & iborrow reports. Despite new market regulations and congressional acts to minimize fraud, it is still widely and easily practiced today.
-#Author: Schwaggaccino
-#Post URL: [https://www.reddit.com/r/GME/comments/m3qflo/reminder_shorts_have_not_covered_and_are_lying_in/](https://www.reddit.com/r/GME/comments/m3qflo/reminder_shorts_have_not_covered_and_are_lying_in/)
+# Title: Reminder: Shorts have NOT covered and are LYING in their fintel & iborrow reports. Despite new market regulations and congressional acts to minimize fraud, it is still widely and easily practiced today.
+# Author: Schwaggaccino
+# Post URL: [https://www.reddit.com/r/GME/comments/m3qflo/reminder_shorts_have_not_covered_and_are_lying_in/](https://www.reddit.com/r/GME/comments/m3qflo/reminder_shorts_have_not_covered_and_are_lying_in/)
 
 
 #They are lying.

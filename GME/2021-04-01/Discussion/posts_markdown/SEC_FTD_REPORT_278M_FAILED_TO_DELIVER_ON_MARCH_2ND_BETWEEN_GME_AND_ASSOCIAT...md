@@ -1,6 +1,6 @@
-#Title: SEC FTD REPORT: $278M FAILED TO DELIVER ON MARCH 2ND BETWEEN GME AND ASSOCIATED ETFS
-#Author: nequin
-#Post URL: [https://www.reddit.com/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/](https://www.reddit.com/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/)
+# Title: SEC FTD REPORT: $278M FAILED TO DELIVER ON MARCH 2ND BETWEEN GME AND ASSOCIATED ETFS
+# Author: nequin
+# Post URL: [https://www.reddit.com/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/](https://www.reddit.com/r/GME/comments/mhp1dr/sec_ftd_report_278m_failed_to_deliver_on_march/)
 
 
 **HOLY SHIT!!!**   **I THINK THIS IS HUGE**.

@@ -1,6 +1,6 @@
-#Title: Learn from the past, when they didn't care to hide.
-#Author: JustBeingPunny
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxs1f/learn_from_the_past_when_they_didnt_care_to_hide/](https://www.reddit.com/r/Superstonk/comments/nyxs1f/learn_from_the_past_when_they_didnt_care_to_hide/)
+# Title: Learn from the past, when they didn't care to hide.
+# Author: JustBeingPunny
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxs1f/learn_from_the_past_when_they_didnt_care_to_hide/](https://www.reddit.com/r/Superstonk/comments/nyxs1f/learn_from_the_past_when_they_didnt_care_to_hide/)
 
 
 Have you heard of Max-D? No, nor had I. I searched for ‘naked short selling’ through EDGAR (SEC’s public database’ and amongst all of the filings, I stumbled upon their wonderful little company. 

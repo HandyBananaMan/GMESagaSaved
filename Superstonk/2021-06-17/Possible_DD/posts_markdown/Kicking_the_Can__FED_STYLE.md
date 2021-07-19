@@ -1,6 +1,6 @@
-#Title: Kicking the Can – FED STYLE
-#Author: dreadfulol
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/](https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/)
+# Title: Kicking the Can – FED STYLE
+# Author: dreadfulol
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/](https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/)
 
 
 # Kicking the Can – FED STYLE

@@ -1,6 +1,6 @@
-#Title: 7/7 Update: The bigger your volume gets, the more it disgusts and disturbs me (Minute by Minute Guy update)
-#Author: taliskergunn
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofsjmv/77_update_the_bigger_your_volume_gets_the_more_it/](https://www.reddit.com/r/Superstonk/comments/ofsjmv/77_update_the_bigger_your_volume_gets_the_more_it/)
+# Title: 7/7 Update: The bigger your volume gets, the more it disgusts and disturbs me (Minute by Minute Guy update)
+# Author: taliskergunn
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofsjmv/77_update_the_bigger_your_volume_gets_the_more_it/](https://www.reddit.com/r/Superstonk/comments/ofsjmv/77_update_the_bigger_your_volume_gets_the_more_it/)
 
 
 Hello everybody!

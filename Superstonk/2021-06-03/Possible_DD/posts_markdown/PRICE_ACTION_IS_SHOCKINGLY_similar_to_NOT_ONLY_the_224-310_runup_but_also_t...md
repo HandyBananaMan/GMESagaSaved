@@ -1,6 +1,6 @@
-#Title: PRICE ACTION IS SHOCKINGLY similar to NOT ONLY the 2/24-3/10 runup, but also to the JANUARY run from $20 - $480. T+35 / T+21 elaboration.
-#Author: sharp717
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/)
+# Title: PRICE ACTION IS SHOCKINGLY similar to NOT ONLY the 2/24-3/10 runup, but also to the JANUARY run from $20 - $480. T+35 / T+21 elaboration.
+# Author: sharp717
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/)
 
 
 I'll start with the usual: I am not a financial advisor.  I do not provide financial advice! Everything following this is opinion/observation.  Much of my knowledge of the markets has been acquired through reading countless hours of DD posted by others in this sub.

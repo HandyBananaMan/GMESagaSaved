@@ -1,6 +1,6 @@
-#Title: BlackRock & The Great Reset (Part 2)
-#Author: Exceedingly
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ommfz1/blackrock_the_great_reset_part_2/](https://www.reddit.com/r/Superstonk/comments/ommfz1/blackrock_the_great_reset_part_2/)
+# Title: BlackRock & The Great Reset (Part 2)
+# Author: Exceedingly
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ommfz1/blackrock_the_great_reset_part_2/](https://www.reddit.com/r/Superstonk/comments/ommfz1/blackrock_the_great_reset_part_2/)
 
 
 Welcome back. If you read all of [**Part 1**](https://reddit.com/r/Superstonk/comments/ommfn7/blackrock_the_great_reset_part_1/?) well done. This thing definitely got bigger than I originally intended.

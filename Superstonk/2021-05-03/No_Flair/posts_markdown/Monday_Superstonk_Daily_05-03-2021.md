@@ -1,6 +1,6 @@
-#Title: Monday Superstonk Daily 05-03-2021
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/](https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/)
+# Title: Monday Superstonk Daily 05-03-2021
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/](https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: A TL:DR History of Market Crashes
-#Author: Rugby97
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogp3se/a_tldr_history_of_market_crashes/](https://www.reddit.com/r/Superstonk/comments/ogp3se/a_tldr_history_of_market_crashes/)
+# Title: A TL:DR History of Market Crashes
+# Author: Rugby97
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogp3se/a_tldr_history_of_market_crashes/](https://www.reddit.com/r/Superstonk/comments/ogp3se/a_tldr_history_of_market_crashes/)
 
 
 In case you've been living under a rock, it's no news the market is due for a significant correction.

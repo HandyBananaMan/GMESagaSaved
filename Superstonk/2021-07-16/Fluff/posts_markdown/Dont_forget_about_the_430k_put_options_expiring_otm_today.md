@@ -1,6 +1,6 @@
-#Title: Don’t forget about the 430k put options expiring otm today.
-#Author: birdsiview
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olnwqv/dont_forget_about_the_430k_put_options_expiring/](https://www.reddit.com/r/Superstonk/comments/olnwqv/dont_forget_about_the_430k_put_options_expiring/)
+# Title: Don’t forget about the 430k put options expiring otm today.
+# Author: birdsiview
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olnwqv/dont_forget_about_the_430k_put_options_expiring/](https://www.reddit.com/r/Superstonk/comments/olnwqv/dont_forget_about_the_430k_put_options_expiring/)
 
 
 Shorts still must buy back and return the shares they attempted to short. Nothing has changed.

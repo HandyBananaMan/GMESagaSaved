@@ -1,6 +1,6 @@
-#Title: Found a few interesting things in the newly filed SR-NSCC-2021-004 that came out today.
-#Author: Klone211
-#Post URL: [https://www.reddit.com/r/GME/comments/mg5z30/found_a_few_interesting_things_in_the_newly_filed/](https://www.reddit.com/r/GME/comments/mg5z30/found_a_few_interesting_things_in_the_newly_filed/)
+# Title: Found a few interesting things in the newly filed SR-NSCC-2021-004 that came out today.
+# Author: Klone211
+# Post URL: [https://www.reddit.com/r/GME/comments/mg5z30/found_a_few_interesting_things_in_the_newly_filed/](https://www.reddit.com/r/GME/comments/mg5z30/found_a_few_interesting_things_in_the_newly_filed/)
 
 
 Thanks to [u/Shooting4daMoon]( https://www.reddit.com/user/Shooting4daMoon) for posting the [filing]( https://www.sec.gov/rules/sro/nscc.htm#SR-NSCC-2021-004)!

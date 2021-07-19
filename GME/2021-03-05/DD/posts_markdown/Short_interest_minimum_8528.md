@@ -1,6 +1,6 @@
-#Title: Short interest minimum 85.28%
-#Author: idontdislikeoranges
-#Post URL: [https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/](https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/)
+# Title: Short interest minimum 85.28%
+# Author: idontdislikeoranges
+# Post URL: [https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/](https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/)
 
 
 Ok guys, short interest (SI) has always been such a moving target. The FINRA data is published twice a month and it's already 2 weeks old by the time that comes out. We get ''Predictive analytic's'' from companies who's customers are the HFs and Wall Street, not retail. We see press releases saying they have covered and yet we suffered 80% loss as they supposedly bought millions and millions of shares and yet the price went down.  We don't know the formulas they use so we can't verify there numbers.

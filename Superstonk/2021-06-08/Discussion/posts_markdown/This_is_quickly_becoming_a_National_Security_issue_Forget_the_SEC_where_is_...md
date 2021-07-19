@@ -1,6 +1,6 @@
-#Title: 🚨This is quickly becoming a National Security issue. Forget the SEC where is DHS?🚨
-#Author: Ok_Entrepreneur_5833
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/](https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/)
+# Title: 🚨This is quickly becoming a National Security issue. Forget the SEC where is DHS?🚨
+# Author: Ok_Entrepreneur_5833
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/](https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/)
 
 
 These economic terrorists at Citadel and Susquehanna have shown quite clearly that they will stop at nothing short of disrupting our communications platforms in order to prevent themselves from losing money while gambling on the stock market.

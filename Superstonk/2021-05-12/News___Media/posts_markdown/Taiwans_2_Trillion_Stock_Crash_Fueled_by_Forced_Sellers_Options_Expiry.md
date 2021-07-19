@@ -1,6 +1,6 @@
-#Title: Taiwan’s $2 Trillion Stock Crash Fueled by Forced Sellers, Options Expiry
-#Author: blahb_blahb
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/naj09h/taiwans_2_trillion_stock_crash_fueled_by_forced/](https://www.reddit.com/r/Superstonk/comments/naj09h/taiwans_2_trillion_stock_crash_fueled_by_forced/)
+# Title: Taiwan’s $2 Trillion Stock Crash Fueled by Forced Sellers, Options Expiry
+# Author: blahb_blahb
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/naj09h/taiwans_2_trillion_stock_crash_fueled_by_forced/](https://www.reddit.com/r/Superstonk/comments/naj09h/taiwans_2_trillion_stock_crash_fueled_by_forced/)
 
 
 [Link](https://www.bloomberg.com/news/articles/2021-05-12/taiwan-s-stock-crash-fueled-by-forced-sellers-options-expiry) 

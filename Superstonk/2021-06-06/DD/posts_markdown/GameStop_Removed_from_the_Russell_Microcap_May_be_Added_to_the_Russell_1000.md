@@ -1,6 +1,6 @@
-#Title: GameStop Removed from the Russell Microcap, May be Added to the Russell 1000
-#Author: DrGigaChad_MD
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntwd1h/gamestop_removed_from_the_russell_microcap_may_be/](https://www.reddit.com/r/Superstonk/comments/ntwd1h/gamestop_removed_from_the_russell_microcap_may_be/)
+# Title: GameStop Removed from the Russell Microcap, May be Added to the Russell 1000
+# Author: DrGigaChad_MD
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntwd1h/gamestop_removed_from_the_russell_microcap_may_be/](https://www.reddit.com/r/Superstonk/comments/ntwd1h/gamestop_removed_from_the_russell_microcap_may_be/)
 
 
 (Originally posted Friday, reposting for visibility)

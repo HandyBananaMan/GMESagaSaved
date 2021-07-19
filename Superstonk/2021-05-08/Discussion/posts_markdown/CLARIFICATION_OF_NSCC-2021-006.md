@@ -1,6 +1,6 @@
-#Title: CLARIFICATION OF NSCC-2021-006
-#Author: SquareGravy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7in6k/clarification_of_nscc2021006/](https://www.reddit.com/r/Superstonk/comments/n7in6k/clarification_of_nscc2021006/)
+# Title: CLARIFICATION OF NSCC-2021-006
+# Author: SquareGravy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7in6k/clarification_of_nscc2021006/](https://www.reddit.com/r/Superstonk/comments/n7in6k/clarification_of_nscc2021006/)
 
 
 I got tired of commenting to a ton of people and decided to make a post about it. Mind you I have no wrinkle in my brain at all and might have some part of it wrong, but my god the amount of people just accepting what the top post about it is telling them, when it's completely wrong.

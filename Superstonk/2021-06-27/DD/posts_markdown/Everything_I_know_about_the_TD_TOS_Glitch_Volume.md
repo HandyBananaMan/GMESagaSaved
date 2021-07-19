@@ -1,6 +1,6 @@
-#Title: Everything I know about the TD TOS "Glitch" Volume
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8wjh7/everything_i_know_about_the_td_tos_glitch_volume/](https://www.reddit.com/r/Superstonk/comments/o8wjh7/everything_i_know_about_the_td_tos_glitch_volume/)
+# Title: Everything I know about the TD TOS "Glitch" Volume
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8wjh7/everything_i_know_about_the_td_tos_glitch_volume/](https://www.reddit.com/r/Superstonk/comments/o8wjh7/everything_i_know_about_the_td_tos_glitch_volume/)
 
 
 So.... The glitch is back, I've personally waged a war against it as I've consolidated my belief that it's actually a glitch. But there are people who are still skeptical, which is totally fine - as we don't have a 100% solid reason for why they occur, just that they do occur.

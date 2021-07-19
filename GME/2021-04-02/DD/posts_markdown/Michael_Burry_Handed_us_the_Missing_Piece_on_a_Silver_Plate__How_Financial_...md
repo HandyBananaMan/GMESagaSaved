@@ -1,6 +1,6 @@
-#Title: Michael Burry Handed us the Missing Piece on a Silver Plate... | How Financial Institutions are Using US Treasury Securities Nearly Caused the Market to Collapse and What Does it Mean for Us?
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/](https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/)
+# Title: Michael Burry Handed us the Missing Piece on a Silver Plate... | How Financial Institutions are Using US Treasury Securities Nearly Caused the Market to Collapse and What Does it Mean for Us?
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/](https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/)
 
 
 Alright, this took a long time to write, and was all thanks to Michael Burry (MB) linking [this](https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.htm) in his profile, then mysteriously removing it less than a day later. This post will have a lot of parallels to [the EVERYTHING short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/). 

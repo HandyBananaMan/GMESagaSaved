@@ -1,6 +1,6 @@
-#Title: 🚀 GameStop (GME) 🚀 Stable around $180, Fundamentals only getting stronger
-#Author: Thump4
-#Post URL: [https://www.reddit.com/r/GME/comments/nju9ja/gamestop_gme_stable_around_180_fundamentals_only/](https://www.reddit.com/r/GME/comments/nju9ja/gamestop_gme_stable_around_180_fundamentals_only/)
+# Title: 🚀 GameStop (GME) 🚀 Stable around $180, Fundamentals only getting stronger
+# Author: Thump4
+# Post URL: [https://www.reddit.com/r/GME/comments/nju9ja/gamestop_gme_stable_around_180_fundamentals_only/](https://www.reddit.com/r/GME/comments/nju9ja/gamestop_gme_stable_around_180_fundamentals_only/)
 
 
 1. Debt free

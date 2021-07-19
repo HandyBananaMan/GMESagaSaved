@@ -1,6 +1,6 @@
-#Title: A new bomb just dropped over at discord - ETFs re-balanced, FTD reset no-longer viable
-#Author: chabird
-#Post URL: [https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/](https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/)
+# Title: A new bomb just dropped over at discord - ETFs re-balanced, FTD reset no-longer viable
+# Author: chabird
+# Post URL: [https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/](https://www.reddit.com/r/GME/comments/mb6vg2/a_new_bomb_just_dropped_over_at_discord_etfs/)
 
 
 This just being dropped over at [GME discord](https://discord.gg/gmeofficial) dd-discussion channel. User ~~Pickle Kim~~ **(See Edit)** plowed through and found ETFs actually re-balanced but no websites were updated. If true, SHFs can no longer reset FTD dates and the time bomb is SET where they are forced to cover the FTDs after 5 consecutive days of FTD, at T+13.

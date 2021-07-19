@@ -1,6 +1,6 @@
-#Title: ATTENTION DATA FANS: the gme-data repository now collecting options chain, borrowable shares, short volume, and failure to deliver data in uniform text formats
-#Author: tangentstorm
-#Post URL: [https://www.reddit.com/r/GME/comments/m8m1nn/attention_data_fans_the_gmedata_repository_now/](https://www.reddit.com/r/GME/comments/m8m1nn/attention_data_fans_the_gmedata_repository_now/)
+# Title: ATTENTION DATA FANS: the gme-data repository now collecting options chain, borrowable shares, short volume, and failure to deliver data in uniform text formats
+# Author: tangentstorm
+# Post URL: [https://www.reddit.com/r/GME/comments/m8m1nn/attention_data_fans_the_gmedata_repository_now/](https://www.reddit.com/r/GME/comments/m8m1nn/attention_data_fans_the_gmedata_repository_now/)
 
 
 I started this repo a couple days ago but it didn't get much attention. Have been adding to it ever since:

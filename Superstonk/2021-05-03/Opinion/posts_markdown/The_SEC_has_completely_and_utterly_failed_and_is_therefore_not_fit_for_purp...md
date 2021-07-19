@@ -1,6 +1,6 @@
-#Title: The SEC has completely and utterly failed and is therefore not fit for purpose. A regulatory body that does not regulate needs removing or complete reform.
-#Author: DaBi5cu1t
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n43lh4/the_sec_has_completely_and_utterly_failed_and_is/](https://www.reddit.com/r/Superstonk/comments/n43lh4/the_sec_has_completely_and_utterly_failed_and_is/)
+# Title: The SEC has completely and utterly failed and is therefore not fit for purpose. A regulatory body that does not regulate needs removing or complete reform.
+# Author: DaBi5cu1t
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n43lh4/the_sec_has_completely_and_utterly_failed_and_is/](https://www.reddit.com/r/Superstonk/comments/n43lh4/the_sec_has_completely_and_utterly_failed_and_is/)
 
 
 This is sentiment that has been echoed here enough over the last few months, but to see such a body fail so overtly and massively is further proof in the pudding that that the SEC is not only allowing this to happen, but is complicit and promoting it.

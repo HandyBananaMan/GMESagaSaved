@@ -1,6 +1,6 @@
-#Title: Jerkin' it With Gherkinit : Forward looking Technical Analysis for the week of 5/10/21-5/14/21
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/)
+# Title: Jerkin' it With Gherkinit : Forward looking Technical Analysis for the week of 5/10/21-5/14/21
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/)
 
 
 Hello, fellow apes!

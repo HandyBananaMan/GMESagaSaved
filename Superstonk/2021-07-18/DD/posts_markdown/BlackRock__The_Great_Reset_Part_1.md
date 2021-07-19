@@ -1,6 +1,6 @@
-#Title: BlackRock & The Great Reset (Part 1)
-#Author: Exceedingly
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ommfn7/blackrock_the_great_reset_part_1/](https://www.reddit.com/r/Superstonk/comments/ommfn7/blackrock_the_great_reset_part_1/)
+# Title: BlackRock & The Great Reset (Part 1)
+# Author: Exceedingly
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ommfn7/blackrock_the_great_reset_part_1/](https://www.reddit.com/r/Superstonk/comments/ommfn7/blackrock_the_great_reset_part_1/)
 
 
 ##PREFACE

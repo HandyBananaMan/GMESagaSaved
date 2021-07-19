@@ -1,6 +1,6 @@
-#Title: No one even remotely interested in the upcoming Russel 1000 ranking day and the possibility that GME might be joining it?
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/](https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/)
+# Title: No one even remotely interested in the upcoming Russel 1000 ranking day and the possibility that GME might be joining it?
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/](https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/)
 
 
 I seriously just might start shitposting my DD at this point since no one gives this stuff any attention.

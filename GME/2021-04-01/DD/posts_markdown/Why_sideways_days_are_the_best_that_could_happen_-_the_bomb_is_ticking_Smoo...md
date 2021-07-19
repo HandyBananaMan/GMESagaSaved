@@ -1,6 +1,6 @@
-#Title: Why sideways days are the best that could happen - the bomb is ticking! (Smooth brain explanation)
-#Author: AvocadoDiavolo
-#Post URL: [https://www.reddit.com/r/GME/comments/mi50z6/why_sideways_days_are_the_best_that_could_happen/](https://www.reddit.com/r/GME/comments/mi50z6/why_sideways_days_are_the_best_that_could_happen/)
+# Title: Why sideways days are the best that could happen - the bomb is ticking! (Smooth brain explanation)
+# Author: AvocadoDiavolo
+# Post URL: [https://www.reddit.com/r/GME/comments/mi50z6/why_sideways_days_are_the_best_that_could_happen/](https://www.reddit.com/r/GME/comments/mi50z6/why_sideways_days_are_the_best_that_could_happen/)
 
 
 # Hello everyone,

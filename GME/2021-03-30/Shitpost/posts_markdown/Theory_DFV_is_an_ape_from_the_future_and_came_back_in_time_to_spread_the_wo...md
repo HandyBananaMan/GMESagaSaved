@@ -1,6 +1,6 @@
-#Title: Theory: DFV is an ape from the future and came back in time to spread the word about GME, creating a new boatload of millionaires that are actually interested in helping the Earth
-#Author: Jk946
-#Post URL: [https://www.reddit.com/r/GME/comments/mglz6k/theory_dfv_is_an_ape_from_the_future_and_came/](https://www.reddit.com/r/GME/comments/mglz6k/theory_dfv_is_an_ape_from_the_future_and_came/)
+# Title: Theory: DFV is an ape from the future and came back in time to spread the word about GME, creating a new boatload of millionaires that are actually interested in helping the Earth
+# Author: Jk946
+# Post URL: [https://www.reddit.com/r/GME/comments/mglz6k/theory_dfv_is_an_ape_from_the_future_and_came/](https://www.reddit.com/r/GME/comments/mglz6k/theory_dfv_is_an_ape_from_the_future_and_came/)
 
 
 But that’s just a theory, an ape theory 

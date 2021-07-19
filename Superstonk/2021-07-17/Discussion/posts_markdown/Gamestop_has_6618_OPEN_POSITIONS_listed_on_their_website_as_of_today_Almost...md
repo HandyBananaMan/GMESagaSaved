@@ -1,6 +1,6 @@
-#Title: Gamestop has 6,618 OPEN POSITIONS listed on their website as of today. Almost all of them are retail. They're about to do something BIG!
-#Author: Suthrnr
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omexzl/gamestop_has_6618_open_positions_listed_on_their/](https://www.reddit.com/r/Superstonk/comments/omexzl/gamestop_has_6618_open_positions_listed_on_their/)
+# Title: Gamestop has 6,618 OPEN POSITIONS listed on their website as of today. Almost all of them are retail. They're about to do something BIG!
+# Author: Suthrnr
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omexzl/gamestop_has_6618_open_positions_listed_on_their/](https://www.reddit.com/r/Superstonk/comments/omexzl/gamestop_has_6618_open_positions_listed_on_their/)
 
 
 Look at the [Gamestop Careers Page](https://careers.gamestop.com/en-US/search?pagenumber=80). There are an absolutely insane amount of job listings up for retail stores across the nation. These are mostly store staff listings meaning they're probably planning on rolling out the initiative they did earlier (regarding the new store designs).  

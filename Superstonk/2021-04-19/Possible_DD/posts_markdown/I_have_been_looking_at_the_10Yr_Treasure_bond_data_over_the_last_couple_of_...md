@@ -1,6 +1,6 @@
-#Title: I have been looking at the 10Yr Treasure bond data over the last couple of decades, The 10yr Bonds entered the Overbought area in the RSI indicator, The last time this happened was the week before the 19th of October in 1987, otherwise known as Black Monday
-#Author: TheSadBantha
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/](https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/)
+# Title: I have been looking at the 10Yr Treasure bond data over the last couple of decades, The 10yr Bonds entered the Overbought area in the RSI indicator, The last time this happened was the week before the 19th of October in 1987, otherwise known as Black Monday
+# Author: TheSadBantha
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/](https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/)
 
 
 So as we know the CDO's that caused the market crash of 2008 were backed by worthless Mortgages loans,This time we have CLO's backed by Treasury Bonds, so I decided to look up the behaviour of this bond.

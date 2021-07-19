@@ -1,6 +1,6 @@
-#Title: Came for the Memes, Stayed for the Fundamentals: A Look into GME Without The Squeeze
-#Author: jarofmy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/](https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/)
+# Title: Came for the Memes, Stayed for the Fundamentals: A Look into GME Without The Squeeze
+# Author: jarofmy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/](https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/)
 
 
 # **Intro/Observation:

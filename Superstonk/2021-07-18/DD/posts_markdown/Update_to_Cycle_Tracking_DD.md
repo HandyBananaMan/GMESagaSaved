@@ -1,6 +1,6 @@
-#Title: Update to Cycle Tracking DD
-#Author: bobsmith808
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on3424/update_to_cycle_tracking_dd/](https://www.reddit.com/r/Superstonk/comments/on3424/update_to_cycle_tracking_dd/)
+# Title: Update to Cycle Tracking DD
+# Author: bobsmith808
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on3424/update_to_cycle_tracking_dd/](https://www.reddit.com/r/Superstonk/comments/on3424/update_to_cycle_tracking_dd/)
 
 
 Hi everyone, Bob here.

@@ -1,6 +1,6 @@
-#Title: The Super League and how it is connected to J.P. Morgan/Gamestop DD
-#Author: Haiupei
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/](https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/)
+# Title: The Super League and how it is connected to J.P. Morgan/Gamestop DD
+# Author: Haiupei
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/](https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/)
 
 
   

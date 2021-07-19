@@ -1,6 +1,6 @@
-#Title: Things are shockingly similar to the February 24th and March 10th runup so far. Gamma squeeze indicators from the previous T+21/T+35 have returned. Their doom approaches.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/)
+# Title: Things are shockingly similar to the February 24th and March 10th runup so far. Gamma squeeze indicators from the previous T+21/T+35 have returned. Their doom approaches.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/)
 
 
 # 0. Preface

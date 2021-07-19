@@ -1,6 +1,6 @@
-#Title: REALLY LONG DD AND ANALYSIS! What happened yesterday explained in detail and exposing the HFs obvious manipulation.
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/](https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/)
+# Title: REALLY LONG DD AND ANALYSIS! What happened yesterday explained in detail and exposing the HFs obvious manipulation.
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/](https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/)
 
 
 **THE POST IS NOW UP ON WSB! SHOW IT SOME LOVE THERE AND TRY TO REACH AS MANY PEOPLE AS POSSIBLE!;** [https://www.reddit.com/r/wallstreetbets/comments/lsvl8k/really\_long\_dd\_and\_analysis\_what\_happened/](https://www.reddit.com/r/wallstreetbets/comments/lsvl8k/really_long_dd_and_analysis_what_happened/)

@@ -1,6 +1,6 @@
-#Title: Look at the WAKE! - revisiting GME OTC trades and why the float is much bigger than anyone expects
-#Author: Doom_Douche
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/](https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/)
+# Title: Look at the WAKE! - revisiting GME OTC trades and why the float is much bigger than anyone expects
+# Author: Doom_Douche
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/](https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/)
 
 
 Hello SuperStonk,

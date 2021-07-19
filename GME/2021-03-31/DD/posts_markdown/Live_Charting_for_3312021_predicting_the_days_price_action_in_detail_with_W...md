@@ -1,6 +1,6 @@
-#Title: Live Charting for 3/31/2021, predicting the day's price action in detail with Warden. Insider Information on the Third Bridge meeting.
-#Author: WardenElite
-#Post URL: [https://www.reddit.com/r/GME/comments/mh62v6/live_charting_for_3312021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mh62v6/live_charting_for_3312021_predicting_the_days/)
+# Title: Live Charting for 3/31/2021, predicting the day's price action in detail with Warden. Insider Information on the Third Bridge meeting.
+# Author: WardenElite
+# Post URL: [https://www.reddit.com/r/GME/comments/mh62v6/live_charting_for_3312021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mh62v6/live_charting_for_3312021_predicting_the_days/)
 
 
 **This is not financial nor investment advice. These are ideas and opinions for information purposes only.**

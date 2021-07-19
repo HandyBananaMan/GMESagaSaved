@@ -1,6 +1,6 @@
-#Title: Double DD Analysis: Massive volume “glitches”, their connection to FTDs, and lastly why DTCC is the end result of a failed DBZ fusion dance between Sauron and Sidious
-#Author: 3for100Specials
-#Post URL: [https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/](https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/)
+# Title: Double DD Analysis: Massive volume “glitches”, their connection to FTDs, and lastly why DTCC is the end result of a failed DBZ fusion dance between Sauron and Sidious
+# Author: 3for100Specials
+# Post URL: [https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/](https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/)
 
 
 This Isn'T FinAnCiaL AdVicE. Not like you guys can read anyways. 🦧💎👐🚀🌙

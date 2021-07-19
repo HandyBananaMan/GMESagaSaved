@@ -1,6 +1,6 @@
-#Title: Peek-A-Boo! I Track You Kicked Cans!
-#Author: WhatCanIMakeToday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of1zn4/peekaboo_i_track_you_kicked_cans/](https://www.reddit.com/r/Superstonk/comments/of1zn4/peekaboo_i_track_you_kicked_cans/)
+# Title: Peek-A-Boo! I Track You Kicked Cans!
+# Author: WhatCanIMakeToday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of1zn4/peekaboo_i_track_you_kicked_cans/](https://www.reddit.com/r/Superstonk/comments/of1zn4/peekaboo_i_track_you_kicked_cans/)
 
 
 If you've been following along with my posts, you'll know I track deep worthless OTM puts which SuperStonk has suspected of being used for married puts to defer FTDs.  If you're new, you may want to catch up with my previous posts:

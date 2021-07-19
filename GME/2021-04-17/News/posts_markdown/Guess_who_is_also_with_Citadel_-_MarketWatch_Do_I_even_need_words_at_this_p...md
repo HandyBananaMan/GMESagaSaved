@@ -1,6 +1,6 @@
-#Title: Guess who is also with Citadel - MarketWatch (Do I even need words at this point?)
-#Author: Ren3666
-#Post URL: [https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/](https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/)
+# Title: Guess who is also with Citadel - MarketWatch (Do I even need words at this point?)
+# Author: Ren3666
+# Post URL: [https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/](https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: The Daily Stonk 06-29-2021
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/](https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/)
+# Title: The Daily Stonk 06-29-2021
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/](https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/)
 
 
 &#x200B;

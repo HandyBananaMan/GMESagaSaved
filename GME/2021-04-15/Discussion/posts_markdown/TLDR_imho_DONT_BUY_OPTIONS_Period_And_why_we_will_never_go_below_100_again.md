@@ -1,6 +1,6 @@
-#Title: TL;DR imho DONT BUY OPTIONS. Period. And why we will never go below $100 again.
-#Author: ultrasharpie
-#Post URL: [https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/](https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/)
+# Title: TL;DR imho DONT BUY OPTIONS. Period. And why we will never go below $100 again.
+# Author: ultrasharpie
+# Post URL: [https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/](https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/)
 
 
 Edit: imho= In My Honest Opinion

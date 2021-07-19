@@ -1,6 +1,6 @@
-#Title: THE $400 TRILLION DOLLAR MATRIX RABBIT HOLE THAT NO KNOWS ABOUT!! NOT A MEME. UPVOTE SHARE GET THIS INFO TO APES!!! THIS IS THE MISSING JENGA PUZZLE PIECE!!
-#Author: HCRDR
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mp00nj/the_400_trillion_dollar_matrix_rabbit_hole_that/](https://www.reddit.com/r/Superstonk/comments/mp00nj/the_400_trillion_dollar_matrix_rabbit_hole_that/)
+# Title: THE $400 TRILLION DOLLAR MATRIX RABBIT HOLE THAT NO KNOWS ABOUT!! NOT A MEME. UPVOTE SHARE GET THIS INFO TO APES!!! THIS IS THE MISSING JENGA PUZZLE PIECE!!
+# Author: HCRDR
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mp00nj/the_400_trillion_dollar_matrix_rabbit_hole_that/](https://www.reddit.com/r/Superstonk/comments/mp00nj/the_400_trillion_dollar_matrix_rabbit_hole_that/)
 
 
 Libor Thesis Questions

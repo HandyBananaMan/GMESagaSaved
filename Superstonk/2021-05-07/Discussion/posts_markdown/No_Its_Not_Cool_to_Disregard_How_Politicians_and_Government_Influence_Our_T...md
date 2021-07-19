@@ -1,6 +1,6 @@
-#Title: No, It's Not Cool to Disregard How Politicians and Government Influence Our Tendies. No, It's Not Helping to Encourage Citizens to Disengage from a Group of Individuals Who Control TRILLIONS of OUR Hard Earned Dollars. Yes, Policies, Therefore Politics, Has Everything to Do With Getting to the Moon
-#Author: DatgirlwitAss
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6z6y2/no_its_not_cool_to_disregard_how_politicians_and/](https://www.reddit.com/r/Superstonk/comments/n6z6y2/no_its_not_cool_to_disregard_how_politicians_and/)
+# Title: No, It's Not Cool to Disregard How Politicians and Government Influence Our Tendies. No, It's Not Helping to Encourage Citizens to Disengage from a Group of Individuals Who Control TRILLIONS of OUR Hard Earned Dollars. Yes, Policies, Therefore Politics, Has Everything to Do With Getting to the Moon
+# Author: DatgirlwitAss
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6z6y2/no_its_not_cool_to_disregard_how_politicians_and/](https://www.reddit.com/r/Superstonk/comments/n6z6y2/no_its_not_cool_to_disregard_how_politicians_and/)
 
 
 First of all, It's SO FUCKING EASY to just give up and dismiss the system as "never gonna work for us" and "it's stupid to believe it can, just do you and only have faith in yourself".

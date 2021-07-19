@@ -1,6 +1,6 @@
-#Title: Why your Stop Loss is mostly an Assured Loss - Stop Loss Hunting
-#Author: theregoesasupernova
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nnll3e/why_your_stop_loss_is_mostly_an_assured_loss_stop/](https://www.reddit.com/r/DDintoGME/comments/nnll3e/why_your_stop_loss_is_mostly_an_assured_loss_stop/)
+# Title: Why your Stop Loss is mostly an Assured Loss - Stop Loss Hunting
+# Author: theregoesasupernova
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nnll3e/why_your_stop_loss_is_mostly_an_assured_loss_stop/](https://www.reddit.com/r/DDintoGME/comments/nnll3e/why_your_stop_loss_is_mostly_an_assured_loss_stop/)
 
 
 **What is stop loss?**

@@ -1,6 +1,6 @@
-#Title: Unpopular opinion: Am I the only one sick of all the Lambo/frivolous post payday expenses posts?
-#Author: RoyalMnkyDimondHands
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n0lot8/unpopular_opinion_am_i_the_only_one_sick_of_all/](https://www.reddit.com/r/DDintoGME/comments/n0lot8/unpopular_opinion_am_i_the_only_one_sick_of_all/)
+# Title: Unpopular opinion: Am I the only one sick of all the Lambo/frivolous post payday expenses posts?
+# Author: RoyalMnkyDimondHands
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n0lot8/unpopular_opinion_am_i_the_only_one_sick_of_all/](https://www.reddit.com/r/DDintoGME/comments/n0lot8/unpopular_opinion_am_i_the_only_one_sick_of_all/)
 
 
 Yeah, sure, you could totally go buy a lambo after payday on this HODLing acct. But, why? You want to be seen as a flashy d-bag burning through your money like the asshats we're highlighting in this fight? 

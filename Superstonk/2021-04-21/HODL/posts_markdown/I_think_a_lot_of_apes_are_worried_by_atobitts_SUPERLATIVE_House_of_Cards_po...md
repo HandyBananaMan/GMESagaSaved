@@ -1,6 +1,6 @@
-#Title: I think a lot of apes are worried by atobitt's SUPERLATIVE House of Cards post that the DTCC, SEC, et al. will be able to forcibly prevent the squeeze or somehow finagle our shares out of our diamond hands.
-#Author: LassannnfromImgur
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvsu0d/i_think_a_lot_of_apes_are_worried_by_atobitts/](https://www.reddit.com/r/Superstonk/comments/mvsu0d/i_think_a_lot_of_apes_are_worried_by_atobitts/)
+# Title: I think a lot of apes are worried by atobitt's SUPERLATIVE House of Cards post that the DTCC, SEC, et al. will be able to forcibly prevent the squeeze or somehow finagle our shares out of our diamond hands.
+# Author: LassannnfromImgur
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvsu0d/i_think_a_lot_of_apes_are_worried_by_atobitts/](https://www.reddit.com/r/Superstonk/comments/mvsu0d/i_think_a_lot_of_apes_are_worried_by_atobitts/)
 
 
  So always go back to these 4 simple rules:

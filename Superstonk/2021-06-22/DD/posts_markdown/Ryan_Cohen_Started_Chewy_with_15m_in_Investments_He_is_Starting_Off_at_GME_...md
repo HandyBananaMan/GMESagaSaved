@@ -1,6 +1,6 @@
-#Title: Ryan Cohen Started Chewy with $15m in Investments. He is Starting Off at GME with $1bn. This Interview is the Only DD I Need. Possible Blue Prints for GME?
-#Author: tendieful
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5phuu/ryan_cohen_started_chewy_with_15m_in_investments/](https://www.reddit.com/r/Superstonk/comments/o5phuu/ryan_cohen_started_chewy_with_15m_in_investments/)
+# Title: Ryan Cohen Started Chewy with $15m in Investments. He is Starting Off at GME with $1bn. This Interview is the Only DD I Need. Possible Blue Prints for GME?
+# Author: tendieful
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5phuu/ryan_cohen_started_chewy_with_15m_in_investments/](https://www.reddit.com/r/Superstonk/comments/o5phuu/ryan_cohen_started_chewy_with_15m_in_investments/)
 
 
 I have added commentary to the interview and bolded what I think are the important takeaways. If you want to read the un-adultured full interview you can find it [here.](https://www.forbes.com/sites/zackfriedman/2020/08/16/entrepreneur-chewy-founder-ryan-cohen-shares-his-best-advice/?sh=4c7b405d5840) I cut out the end part where he answers some questions about his dad. While very insightful information into the life of RC, I didn't feel like analyzing that particular part as it relates to investing.

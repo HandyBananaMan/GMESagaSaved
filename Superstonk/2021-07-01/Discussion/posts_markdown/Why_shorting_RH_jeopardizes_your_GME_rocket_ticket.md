@@ -1,6 +1,6 @@
-#Title: Why shorting RH jeopardizes your GME rocket ticket
-#Author: Icy-Paleontologist97
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obw3jw/why_shorting_rh_jeopardizes_your_gme_rocket_ticket/](https://www.reddit.com/r/Superstonk/comments/obw3jw/why_shorting_rh_jeopardizes_your_gme_rocket_ticket/)
+# Title: Why shorting RH jeopardizes your GME rocket ticket
+# Author: Icy-Paleontologist97
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obw3jw/why_shorting_rh_jeopardizes_your_gme_rocket_ticket/](https://www.reddit.com/r/Superstonk/comments/obw3jw/why_shorting_rh_jeopardizes_your_gme_rocket_ticket/)
 
 
 Listen up, apes. Right now you are winning. You are winning because you hold GME and because others like you hold GME, and NO ONE IS SELLING.

@@ -1,6 +1,6 @@
-#Title: By now Citadel should have lost its status as a market maker.
-#Author: Seiphert
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okc80u/by_now_citadel_should_have_lost_its_status_as_a/](https://www.reddit.com/r/Superstonk/comments/okc80u/by_now_citadel_should_have_lost_its_status_as_a/)
+# Title: By now Citadel should have lost its status as a market maker.
+# Author: Seiphert
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okc80u/by_now_citadel_should_have_lost_its_status_as_a/](https://www.reddit.com/r/Superstonk/comments/okc80u/by_now_citadel_should_have_lost_its_status_as_a/)
 
 
 The blatant and criminal act of market manipulation using dark pools to re route a majority of retail buy orders and the consistent shorting and dodging of ftds by using married puts should be enough proof that Citadel is exploiting the MM privileges they have been granted.

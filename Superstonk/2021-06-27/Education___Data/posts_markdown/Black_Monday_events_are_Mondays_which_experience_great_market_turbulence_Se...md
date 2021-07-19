@@ -1,6 +1,6 @@
-#Title: "Black Monday" events are Mondays which experience great market turbulence. September 29th, 2008, was one of these days which occurred the week OF a quarter end where there is even more strain on the system. The markets have been boiling all quarter, and next week is a Quarter End (June 30th).
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/)
+# Title: "Black Monday" events are Mondays which experience great market turbulence. September 29th, 2008, was one of these days which occurred the week OF a quarter end where there is even more strain on the system. The markets have been boiling all quarter, and next week is a Quarter End (June 30th).
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/)
 
 
 # 0. Preface

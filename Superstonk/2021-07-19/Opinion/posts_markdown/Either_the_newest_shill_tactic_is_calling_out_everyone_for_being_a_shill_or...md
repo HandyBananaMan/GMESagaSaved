@@ -1,6 +1,6 @@
-#Title: Either the newest shill tactic is calling out everyone for being a shill, or there are some really paranoid motherfuckers in here. For the sake of this community, you need to check yourself.
-#Author: darthmcneely
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/onb1qr/either_the_newest_shill_tactic_is_calling_out/](https://www.reddit.com/r/Superstonk/comments/onb1qr/either_the_newest_shill_tactic_is_calling_out/)
+# Title: Either the newest shill tactic is calling out everyone for being a shill, or there are some really paranoid motherfuckers in here. For the sake of this community, you need to check yourself.
+# Author: darthmcneely
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/onb1qr/either_the_newest_shill_tactic_is_calling_out/](https://www.reddit.com/r/Superstonk/comments/onb1qr/either_the_newest_shill_tactic_is_calling_out/)
 
 
 For well over a month, I have watched members of this community grow louder and louder with their paranoia and shill accusations, attacking other community members. There can only be one of two explanations to this: 1) the bad actors are the ones doing this or 2) vocal members of this community have grown paranoid beyond reason.

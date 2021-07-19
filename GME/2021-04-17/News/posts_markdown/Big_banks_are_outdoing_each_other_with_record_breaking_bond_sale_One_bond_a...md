@@ -1,6 +1,6 @@
-#Title: Big banks are outdoing each other with record breaking bond sale. One bond after another! Bank of America to Set Record for Largest Bank Bond Sale at $15 Billion!
-#Author: AndyLee168
-#Post URL: [https://www.reddit.com/r/GME/comments/mt45h8/big_banks_are_outdoing_each_other_with_record/](https://www.reddit.com/r/GME/comments/mt45h8/big_banks_are_outdoing_each_other_with_record/)
+# Title: Big banks are outdoing each other with record breaking bond sale. One bond after another! Bank of America to Set Record for Largest Bank Bond Sale at $15 Billion!
+# Author: AndyLee168
+# Post URL: [https://www.reddit.com/r/GME/comments/mt45h8/big_banks_are_outdoing_each_other_with_record/](https://www.reddit.com/r/GME/comments/mt45h8/big_banks_are_outdoing_each_other_with_record/)
 
 
 

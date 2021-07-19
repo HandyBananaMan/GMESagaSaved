@@ -1,6 +1,6 @@
-#Title: Article: London-based hedge fund that bet against GameStop shuts down
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o5ezrr/article_londonbased_hedge_fund_that_bet_against/](https://www.reddit.com/r/DDintoGME/comments/o5ezrr/article_londonbased_hedge_fund_that_bet_against/)
+# Title: Article: London-based hedge fund that bet against GameStop shuts down
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o5ezrr/article_londonbased_hedge_fund_that_bet_against/](https://www.reddit.com/r/DDintoGME/comments/o5ezrr/article_londonbased_hedge_fund_that_bet_against/)
 
 
 [Source](https://www.businesstimes.com.sg/banking-finance/london-based-hedge-fund-that-bet-against-gamestop-shuts-down)

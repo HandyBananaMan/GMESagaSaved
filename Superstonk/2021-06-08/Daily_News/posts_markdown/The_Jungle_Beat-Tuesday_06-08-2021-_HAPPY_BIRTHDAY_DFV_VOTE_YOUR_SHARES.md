@@ -1,6 +1,6 @@
-#Title: The Jungle Beat-Tuesday 06-08-2021- HAPPY BIRTHDAY DFV!! VOTE YOUR SHARES!!
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/](https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/)
+# Title: The Jungle Beat-Tuesday 06-08-2021- HAPPY BIRTHDAY DFV!! VOTE YOUR SHARES!!
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/](https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/)
 
 
 # FROM EVERYONE AT SUPERSTONK, HAPPY FUCKING BIRTHDAY TO THE MAN, THE MYTH, THE LEGEND, KEITH GILL AKA u/deepfuckingvalue AKA THE ROARING KITTY!! 

@@ -1,6 +1,6 @@
-#Title: DO NOT VOTE ON THE NSCC-2021-801
-#Author: GuitarEvil
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mngy2b/do_not_vote_on_the_nscc2021801/](https://www.reddit.com/r/Superstonk/comments/mngy2b/do_not_vote_on_the_nscc2021801/)
+# Title: DO NOT VOTE ON THE NSCC-2021-801
+# Author: GuitarEvil
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mngy2b/do_not_vote_on_the_nscc2021801/](https://www.reddit.com/r/Superstonk/comments/mngy2b/do_not_vote_on_the_nscc2021801/)
 
 
 THERE IS NO FUCKING THING AS VOTING ON THE RULE,  PERIOD.  DO NOT comment.  Here is how these rules work by someone that has over 40 years of writing, reviewing, government regulations and rules.

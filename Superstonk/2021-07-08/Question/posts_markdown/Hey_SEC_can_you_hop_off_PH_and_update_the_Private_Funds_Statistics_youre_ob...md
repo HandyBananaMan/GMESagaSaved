@@ -1,6 +1,6 @@
-#Title: Hey SEC, can you hop off PH and update the Private Funds Statistics you're obligated to share every quarter...? You're 3 quarters behind now...
-#Author: leisure_rules
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/](https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/)
+# Title: Hey SEC, can you hop off PH and update the Private Funds Statistics you're obligated to share every quarter...? You're 3 quarters behind now...
+# Author: leisure_rules
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/](https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/)
 
 
 As the title implies, the SEC - or specifically, Division of Investment Management’s Analytics Office - is supposed to share the quarterly update of [*Private Funds Statistics*](https://www.sec.gov/divisions/investment/private-funds-statistics.shtml)

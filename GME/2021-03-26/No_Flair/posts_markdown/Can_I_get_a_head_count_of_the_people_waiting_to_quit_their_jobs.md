@@ -1,6 +1,6 @@
-#Title: Can I get a head count of the people waiting to quit their jobs?
-#Author: Watchtower00Updated
-#Post URL: [https://www.reddit.com/r/GME/comments/mdnful/can_i_get_a_head_count_of_the_people_waiting_to/](https://www.reddit.com/r/GME/comments/mdnful/can_i_get_a_head_count_of_the_people_waiting_to/)
+# Title: Can I get a head count of the people waiting to quit their jobs?
+# Author: Watchtower00Updated
+# Post URL: [https://www.reddit.com/r/GME/comments/mdnful/can_i_get_a_head_count_of_the_people_waiting_to/](https://www.reddit.com/r/GME/comments/mdnful/can_i_get_a_head_count_of_the_people_waiting_to/)
 
 
 And donate their time, change the lives of themselves and their loved ones, make a change in the world for the better

@@ -1,6 +1,6 @@
-#Title: GME +35% and not one single article about it... media is really fcked up!!!
-#Author: JustCus_1800
-#Post URL: [https://www.reddit.com/r/GME/comments/md14mg/gme_35_and_not_one_single_article_about_it_media/](https://www.reddit.com/r/GME/comments/md14mg/gme_35_and_not_one_single_article_about_it_media/)
+# Title: GME +35% and not one single article about it... media is really fcked up!!!
+# Author: JustCus_1800
+# Post URL: [https://www.reddit.com/r/GME/comments/md14mg/gme_35_and_not_one_single_article_about_it_media/](https://www.reddit.com/r/GME/comments/md14mg/gme_35_and_not_one_single_article_about_it_media/)
 
 
 It is just ridiculous how GME drops 10% and simply every news talks about how the fcking stock is crashing. 

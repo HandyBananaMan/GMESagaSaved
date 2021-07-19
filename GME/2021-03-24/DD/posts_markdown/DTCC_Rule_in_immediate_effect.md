@@ -1,6 +1,6 @@
-#Title: DTCC Rule in immediate effect
-#Author: Official_Siro
-#Post URL: [https://www.reddit.com/r/GME/comments/mcmt1a/dtcc_rule_in_immediate_effect/](https://www.reddit.com/r/GME/comments/mcmt1a/dtcc_rule_in_immediate_effect/)
+# Title: DTCC Rule in immediate effect
+# Author: Official_Siro
+# Post URL: [https://www.reddit.com/r/GME/comments/mcmt1a/dtcc_rule_in_immediate_effect/](https://www.reddit.com/r/GME/comments/mcmt1a/dtcc_rule_in_immediate_effect/)
 
 
 *Breaking News*

@@ -1,6 +1,6 @@
-#Title: POWER TO THE APES 🦍🦍🦍 Emergency Karma/Age Restrictions and Brigading Crackdown
-#Author: redchessqueen99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od4ai9/power_to_the_apes_emergency_karmaage_restrictions/](https://www.reddit.com/r/Superstonk/comments/od4ai9/power_to_the_apes_emergency_karmaage_restrictions/)
+# Title: POWER TO THE APES 🦍🦍🦍 Emergency Karma/Age Restrictions and Brigading Crackdown
+# Author: redchessqueen99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od4ai9/power_to_the_apes_emergency_karmaage_restrictions/](https://www.reddit.com/r/Superstonk/comments/od4ai9/power_to_the_apes_emergency_karmaage_restrictions/)
 
 
 Let me first say that I love this community along with all of the mods and we are working diligently to prevent any serious action against the sub. We have received warnings about brigading and we take these VERY SERIOUSLY, so as a result we are hoping to enforce our [NO BRIGADING rule](https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/) as well as minimize the amount of posts we need to moderate to make sure this can be enforced.

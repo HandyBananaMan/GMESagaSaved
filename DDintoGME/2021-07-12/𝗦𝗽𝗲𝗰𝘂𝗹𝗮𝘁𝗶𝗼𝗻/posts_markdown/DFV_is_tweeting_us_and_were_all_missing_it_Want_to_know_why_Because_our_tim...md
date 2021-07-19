@@ -1,6 +1,6 @@
-#Title: DFV is tweeting us and we're all missing it. Want to know why? Because our time travelling cat friend is writing to us from exactly 3 months ago
-#Author: JaboniThxDad
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oiu9b7/dfv_is_tweeting_us_and_were_all_missing_it_want/](https://www.reddit.com/r/DDintoGME/comments/oiu9b7/dfv_is_tweeting_us_and_were_all_missing_it_want/)
+# Title: DFV is tweeting us and we're all missing it. Want to know why? Because our time travelling cat friend is writing to us from exactly 3 months ago
+# Author: JaboniThxDad
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oiu9b7/dfv_is_tweeting_us_and_were_all_missing_it_want/](https://www.reddit.com/r/DDintoGME/comments/oiu9b7/dfv_is_tweeting_us_and_were_all_missing_it_want/)
 
 
 &#x200B;

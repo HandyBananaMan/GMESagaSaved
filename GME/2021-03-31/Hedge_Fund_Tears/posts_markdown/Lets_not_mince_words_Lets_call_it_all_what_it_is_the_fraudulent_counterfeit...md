@@ -1,6 +1,6 @@
-#Title: Let's not mince words. Lets call it all what it is: the fraudulent counterfeiting of shares in order to drive an established business into bankruptcy. Wholeheartedly enabled abusive "market makers". These are criminal offences and they carry prison time.
-#Author: 111111222222
-#Post URL: [https://www.reddit.com/r/GME/comments/mh5a6s/lets_not_mince_words_lets_call_it_all_what_it_is/](https://www.reddit.com/r/GME/comments/mh5a6s/lets_not_mince_words_lets_call_it_all_what_it_is/)
+# Title: Let's not mince words. Lets call it all what it is: the fraudulent counterfeiting of shares in order to drive an established business into bankruptcy. Wholeheartedly enabled abusive "market makers". These are criminal offences and they carry prison time.
+# Author: 111111222222
+# Post URL: [https://www.reddit.com/r/GME/comments/mh5a6s/lets_not_mince_words_lets_call_it_all_what_it_is/](https://www.reddit.com/r/GME/comments/mh5a6s/lets_not_mince_words_lets_call_it_all_what_it_is/)
 
 
 Calling them "naked" devalues the seriousness of the criminal offences committed.

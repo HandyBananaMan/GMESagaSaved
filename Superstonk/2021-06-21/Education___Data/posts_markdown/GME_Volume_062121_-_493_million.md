@@ -1,6 +1,6 @@
-#Title: GME Volume 06/21/21 - 4.93 million
-#Author: VariableLighting
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o542dz/gme_volume_062121_493_million/](https://www.reddit.com/r/Superstonk/comments/o542dz/gme_volume_062121_493_million/)
+# Title: GME Volume 06/21/21 - 4.93 million
+# Author: VariableLighting
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o542dz/gme_volume_062121_493_million/](https://www.reddit.com/r/Superstonk/comments/o542dz/gme_volume_062121_493_million/)
 
 
 Amidst all the noise, GME almost breaks the lowest volume record for a Monday in 2021

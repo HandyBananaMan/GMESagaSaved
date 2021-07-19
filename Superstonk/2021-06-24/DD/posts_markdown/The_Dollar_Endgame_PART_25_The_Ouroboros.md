@@ -1,6 +1,6 @@
-#Title: The Dollar Endgame PART 2.5 “The Ouroboros”
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)
+# Title: The Dollar Endgame PART 2.5 “The Ouroboros”
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)
 
 
 Apes, this is the second half of Part 2. [You can find the first half of Part 2 here](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/).

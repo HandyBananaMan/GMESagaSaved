@@ -1,6 +1,6 @@
-#Title: Citigroup, Goldman Sachs, BofA restrict shorting on GME, adjust their "risk controls". "Institutional investors now face higher collateral reqs" -- June 4, Bloomberg
-#Author: Lucky2240
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nui12c/citigroup_goldman_sachs_bofa_restrict_shorting_on/](https://www.reddit.com/r/Superstonk/comments/nui12c/citigroup_goldman_sachs_bofa_restrict_shorting_on/)
+# Title: Citigroup, Goldman Sachs, BofA restrict shorting on GME, adjust their "risk controls". "Institutional investors now face higher collateral reqs" -- June 4, Bloomberg
+# Author: Lucky2240
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nui12c/citigroup_goldman_sachs_bofa_restrict_shorting_on/](https://www.reddit.com/r/Superstonk/comments/nui12c/citigroup_goldman_sachs_bofa_restrict_shorting_on/)
 
 
 Posting this for u/strong-ape-bro due to lack of karma.  All credit to him!  Edit:  added screenshots

@@ -1,6 +1,6 @@
-#Title: 3 Big Reasons Why I am All In GME
-#Author: ReturnOfCapital
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oiodkr/3_big_reasons_why_i_am_all_in_gme/](https://www.reddit.com/r/DDintoGME/comments/oiodkr/3_big_reasons_why_i_am_all_in_gme/)
+# Title: 3 Big Reasons Why I am All In GME
+# Author: ReturnOfCapital
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oiodkr/3_big_reasons_why_i_am_all_in_gme/](https://www.reddit.com/r/DDintoGME/comments/oiodkr/3_big_reasons_why_i_am_all_in_gme/)
 
 
 I study complex systems.  I've been told I am very good at connecting the dots and seeing the significance in seemingly random relationships.  I present a brief aggregate of my research and opinion - not financial advice, please do your own due diligence and fact checking before initiating any trade. **Disclosure:**  I have a significant long position in GME.

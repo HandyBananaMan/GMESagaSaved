@@ -1,6 +1,6 @@
-#Title: Reposting - GME and the Market Crash
-#Author: kekking_ass
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
+# Title: Reposting - GME and the Market Crash
+# Author: kekking_ass
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
 
 
 I posted this **almost 2 months ago** and folks thought I was wrong or fear mongering.  Look at all the DD now and tell me I'm wrong.  I wish I was wrong because this is a big deal as most of you have learned.  Either way, we are going to the fucking moon and beyond!!!  Enjoy your tendies when they come because you're going to be the apes who survived it and earned it for holding throughout all the bullshit so far.

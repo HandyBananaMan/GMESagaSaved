@@ -1,6 +1,6 @@
-#Title: I just realized why Burry has shorted (bet against) TSLA... its the most held long stock of Hedgefunds. And guess what HF need to sell to be able to pay for GME... Slowpoke just gained a wrinkle 🚀💎🙌
-#Author: Frotselke
-#Post URL: [https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/](https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/)
+# Title: I just realized why Burry has shorted (bet against) TSLA... its the most held long stock of Hedgefunds. And guess what HF need to sell to be able to pay for GME... Slowpoke just gained a wrinkle 🚀💎🙌
+# Author: Frotselke
+# Post URL: [https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/](https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/)
 
 
 

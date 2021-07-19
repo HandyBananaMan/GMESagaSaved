@@ -1,6 +1,6 @@
-#Title: I made a post awhile back about holding for my son who died too soon. Well now I’m here to talk about just how much power the rich have over the poor.
-#Author: iheartjj
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o67ea3/i_made_a_post_awhile_back_about_holding_for_my/](https://www.reddit.com/r/Superstonk/comments/o67ea3/i_made_a_post_awhile_back_about_holding_for_my/)
+# Title: I made a post awhile back about holding for my son who died too soon. Well now I’m here to talk about just how much power the rich have over the poor.
+# Author: iheartjj
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o67ea3/i_made_a_post_awhile_back_about_holding_for_my/](https://www.reddit.com/r/Superstonk/comments/o67ea3/i_made_a_post_awhile_back_about_holding_for_my/)
 
 
 My son died in 2013 of appendicitis. A treatable illness. So why did my son die since it’s treatable? 

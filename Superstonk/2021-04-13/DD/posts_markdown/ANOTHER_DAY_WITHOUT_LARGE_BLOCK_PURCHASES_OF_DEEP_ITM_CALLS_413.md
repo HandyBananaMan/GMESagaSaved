@@ -1,6 +1,6 @@
-#Title: ANOTHER DAY WITHOUT LARGE BLOCK PURCHASES OF DEEP ITM CALLS (4/13)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/](https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/)
+# Title: ANOTHER DAY WITHOUT LARGE BLOCK PURCHASES OF DEEP ITM CALLS (4/13)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/](https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/)
 
 
 Good evening everyone,

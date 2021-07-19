@@ -1,6 +1,6 @@
-#Title: Take a breather and remember how the price spikes consistently in T+21 patterns. They're stuck in a loop and to me they haven't covered. We expected this price dip and FUD attack.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6xyl/take_a_breather_and_remember_how_the_price_spikes/](https://www.reddit.com/r/Superstonk/comments/nw6xyl/take_a_breather_and_remember_how_the_price_spikes/)
+# Title: Take a breather and remember how the price spikes consistently in T+21 patterns. They're stuck in a loop and to me they haven't covered. We expected this price dip and FUD attack.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw6xyl/take_a_breather_and_remember_how_the_price_spikes/](https://www.reddit.com/r/Superstonk/comments/nw6xyl/take_a_breather_and_remember_how_the_price_spikes/)
 
 
 A few questions to ask yourself:

@@ -1,6 +1,6 @@
-#Title: Liquidity Providers and Market Makers and how they make sweet, sweet love to T+2
-#Author: EtoshOE
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrh013/liquidity_providers_and_market_makers_and_how/](https://www.reddit.com/r/Superstonk/comments/nrh013/liquidity_providers_and_market_makers_and_how/)
+# Title: Liquidity Providers and Market Makers and how they make sweet, sweet love to T+2
+# Author: EtoshOE
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrh013/liquidity_providers_and_market_makers_and_how/](https://www.reddit.com/r/Superstonk/comments/nrh013/liquidity_providers_and_market_makers_and_how/)
 
 
 Hello apes! 

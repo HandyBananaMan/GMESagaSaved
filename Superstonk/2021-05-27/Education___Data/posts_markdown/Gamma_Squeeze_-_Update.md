@@ -1,6 +1,6 @@
-#Title: Gamma Squeeze - Update
-#Author: yelyah2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/](https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/)
+# Title: Gamma Squeeze - Update
+# Author: yelyah2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/](https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/)
 
 
 TLDR: GME had the right conditions for a gamma squeeze today, but attention/ equity volume was diverted to AMC, which made the GME momentum slow down. However, the current higher price is being supported by other indicators, so hopefully we can build on it from here and be ready for the next opportunity.

@@ -1,6 +1,6 @@
-#Title: In honour of Ryan Cohen, DFV, and this beautiful community I will be awarding every positive GME comment in this post!!!
-#Author: Holybolognabatman
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/np4rtu/in_honour_of_ryan_cohen_dfv_and_this_beautiful/](https://www.reddit.com/r/Superstonk/comments/np4rtu/in_honour_of_ryan_cohen_dfv_and_this_beautiful/)
+# Title: In honour of Ryan Cohen, DFV, and this beautiful community I will be awarding every positive GME comment in this post!!!
+# Author: Holybolognabatman
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/np4rtu/in_honour_of_ryan_cohen_dfv_and_this_beautiful/](https://www.reddit.com/r/Superstonk/comments/np4rtu/in_honour_of_ryan_cohen_dfv_and_this_beautiful/)
 
 
 I know I know, “don’t but Reddit coins buy GameStop” 

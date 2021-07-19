@@ -1,6 +1,6 @@
-#Title: NSCC mitigate FTDs by just 'borrowing' stock from other members for a fee. This is why they are incentivized to NOT force buy-in FTDs. FTDs are a profit center!
-#Author: bosshax
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/](https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/)
+# Title: NSCC mitigate FTDs by just 'borrowing' stock from other members for a fee. This is why they are incentivized to NOT force buy-in FTDs. FTDs are a profit center!
+# Author: bosshax
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/](https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/)
 
 
 [**RegSHO** was implemented in 2004 by the SEC to address abusive short selling](https://www.sec.gov/investor/pubs/regsho.htm)

@@ -1,6 +1,6 @@
-#Title: Today was intentionally a flat day to make short sellers bleed their reserve stock giving them less ammo during the gamma squeeze. Strap in for tomorrow / Monday! 🚀🚀🚀
-#Author: Cuttingwater_
-#Post URL: [https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/](https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/)
+# Title: Today was intentionally a flat day to make short sellers bleed their reserve stock giving them less ammo during the gamma squeeze. Strap in for tomorrow / Monday! 🚀🚀🚀
+# Author: Cuttingwater_
+# Post URL: [https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/](https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/)
 
 
 [Click here for my post about Friday!](https://www.reddit.com/r/GME/comments/m3yeh7/day_2_of_battleground_gme_after_the_mornings/?utm_source=share&utm_medium=web2x&context=3)

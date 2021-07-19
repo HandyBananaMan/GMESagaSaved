@@ -1,6 +1,6 @@
-#Title: GameStop SEC filings in 6/11, I think I can show all 5mil shares have been sold
-#Author: cspawn
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzz9i4/gamestop_sec_filings_in_611_i_think_i_can_show/](https://www.reddit.com/r/Superstonk/comments/nzz9i4/gamestop_sec_filings_in_611_i_think_i_can_show/)
+# Title: GameStop SEC filings in 6/11, I think I can show all 5mil shares have been sold
+# Author: cspawn
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzz9i4/gamestop_sec_filings_in_611_i_think_i_can_show/](https://www.reddit.com/r/Superstonk/comments/nzz9i4/gamestop_sec_filings_in_611_i_think_i_can_show/)
 
 
 ***I'm seeing some conflicting numbers like here:

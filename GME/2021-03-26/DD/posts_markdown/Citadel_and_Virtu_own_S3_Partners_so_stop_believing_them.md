@@ -1,6 +1,6 @@
-#Title: Citadel and Virtu own S3 Partners so stop believing them!!!
-#Author: StonkyFarts
-#Post URL: [https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/](https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/)
+# Title: Citadel and Virtu own S3 Partners so stop believing them!!!
+# Author: StonkyFarts
+# Post URL: [https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/](https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/)
 
 
  Re-post from January.

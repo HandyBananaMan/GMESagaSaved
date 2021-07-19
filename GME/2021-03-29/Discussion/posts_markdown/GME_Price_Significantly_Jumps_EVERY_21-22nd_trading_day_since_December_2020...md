@@ -1,6 +1,6 @@
-#Title: $GME Price Significantly Jumps EVERY 21-22nd trading day since December 2020. Linked possibly to Citadel's failure-to-deliver. Shorts have NOT covered **
-#Author: ihatedmyboss
-#Post URL: [https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/](https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/)
+# Title: $GME Price Significantly Jumps EVERY 21-22nd trading day since December 2020. Linked possibly to Citadel's failure-to-deliver. Shorts have NOT covered **
+# Author: ihatedmyboss
+# Post URL: [https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/](https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/)
 
 
 &#x200B;

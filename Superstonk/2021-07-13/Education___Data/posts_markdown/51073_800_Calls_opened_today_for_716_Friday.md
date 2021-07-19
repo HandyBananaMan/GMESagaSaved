@@ -1,6 +1,6 @@
-#Title: 51,073 $800 Calls opened today for 7/16 Friday
-#Author: SpeedoCheeto
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/](https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/)
+# Title: 51,073 $800 Calls opened today for 7/16 Friday
+# Author: SpeedoCheeto
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/](https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/)
 
 
 &#x200B;

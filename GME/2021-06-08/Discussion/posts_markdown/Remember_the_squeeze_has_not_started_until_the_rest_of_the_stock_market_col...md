@@ -1,6 +1,6 @@
-#Title: Remember: the squeeze has not started until the rest of the stock market collapses
-#Author: appleflaxen
-#Post URL: [https://www.reddit.com/r/GME/comments/nv4lmg/remember_the_squeeze_has_not_started_until_the/](https://www.reddit.com/r/GME/comments/nv4lmg/remember_the_squeeze_has_not_started_until_the/)
+# Title: Remember: the squeeze has not started until the rest of the stock market collapses
+# Author: appleflaxen
+# Post URL: [https://www.reddit.com/r/GME/comments/nv4lmg/remember_the_squeeze_has_not_started_until_the/](https://www.reddit.com/r/GME/comments/nv4lmg/remember_the_squeeze_has_not_started_until_the/)
 
 
 The margin call on GME will result in forced liquidation of entire institutions. These results will cascade, and you know the rocket is lit when you see a 15+ percent drop in all the major indices.

@@ -1,6 +1,6 @@
-#Title: Peek-A-Boo! I see 30M+ hidden shorts coming due!
-#Author: WhatCanIMakeToday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiemiu/peekaboo_i_see_30m_hidden_shorts_coming_due/](https://www.reddit.com/r/Superstonk/comments/oiemiu/peekaboo_i_see_30m_hidden_shorts_coming_due/)
+# Title: Peek-A-Boo! I see 30M+ hidden shorts coming due!
+# Author: WhatCanIMakeToday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiemiu/peekaboo_i_see_30m_hidden_shorts_coming_due/](https://www.reddit.com/r/Superstonk/comments/oiemiu/peekaboo_i_see_30m_hidden_shorts_coming_due/)
 
 
 **Question:** How many of the upcoming July 16 options expiring this Friday are worthless deep OTM puts used to kick cans down the road?

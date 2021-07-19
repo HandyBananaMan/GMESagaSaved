@@ -1,6 +1,6 @@
-#Title: Something Big is happening! I think Citadel is throwing everything they got at us!
-#Author: Mammoth-Priority-516
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4uqs4/something_big_is_happening_i_think_citadel_is/](https://www.reddit.com/r/Superstonk/comments/n4uqs4/something_big_is_happening_i_think_citadel_is/)
+# Title: Something Big is happening! I think Citadel is throwing everything they got at us!
+# Author: Mammoth-Priority-516
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4uqs4/something_big_is_happening_i_think_citadel_is/](https://www.reddit.com/r/Superstonk/comments/n4uqs4/something_big_is_happening_i_think_citadel_is/)
 
 
 The entire market is bloody red and today is the day 801 is suppose to be passed. If you don't know what it is, please read about it! In short, hedgies need to put up like 20x the collateral to short or in other words they are fucked! Dogecoin is soaring and who owns a lot of dogecoin? That's right, fucking robinthehood! Guess what? Rh is basically citadel bitch, so basically citadel is pumping up doge to raise money. Guess what, rh restricts selling so citadel can make money and retails gets fucked over again. Get out of rh already! Check the rest of cryptos, they are all down and Elon didn't tweet anything about dogecoin. Hm interesting, maybe shitadel needs money to not be margin called

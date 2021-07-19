@@ -1,6 +1,6 @@
-#Title: Ken Griffin is scared. Already coming up with excuses. Please read this article.
-#Author: Nomes2424
-#Post URL: [https://www.reddit.com/r/GME/comments/mfbim9/ken_griffin_is_scared_already_coming_up_with/](https://www.reddit.com/r/GME/comments/mfbim9/ken_griffin_is_scared_already_coming_up_with/)
+# Title: Ken Griffin is scared. Already coming up with excuses. Please read this article.
+# Author: Nomes2424
+# Post URL: [https://www.reddit.com/r/GME/comments/mfbim9/ken_griffin_is_scared_already_coming_up_with/](https://www.reddit.com/r/GME/comments/mfbim9/ken_griffin_is_scared_already_coming_up_with/)
 
 
 https://www.ft.com/content/6c613f92-cf35-4b2e-b2b0-2ac0a6afb1fb

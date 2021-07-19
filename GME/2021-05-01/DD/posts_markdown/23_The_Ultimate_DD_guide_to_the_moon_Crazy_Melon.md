@@ -1,6 +1,6 @@
-#Title: [2/3] The Ultimate DD guide to the moon!!. Crazy Melon
-#Author: sydneyfriendlycub
-#Post URL: [https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+# Title: [2/3] The Ultimate DD guide to the moon!!. Crazy Melon
+# Author: sydneyfriendlycub
+# Post URL: [https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 
 

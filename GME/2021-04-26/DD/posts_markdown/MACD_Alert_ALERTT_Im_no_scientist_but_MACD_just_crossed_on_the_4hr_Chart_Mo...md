@@ -1,6 +1,6 @@
-#Title: MACD Alert!!! ALERTT🚀🚀 I’m no scientist but MACD just crossed on the 4hr Chart!!!! Moon is near, if you held this long, diamond balls to you my friend!! You will reap the tendies with the rest of the APES🚀🚀💎💎 HODL and buy on the way up!! I swear it’s the way!!!
-#Author: excellmarine
-#Post URL: [https://www.reddit.com/r/GME/comments/mz2jww/macd_alert_alertt_im_no_scientist_but_macd_just/](https://www.reddit.com/r/GME/comments/mz2jww/macd_alert_alertt_im_no_scientist_but_macd_just/)
+# Title: MACD Alert!!! ALERTT🚀🚀 I’m no scientist but MACD just crossed on the 4hr Chart!!!! Moon is near, if you held this long, diamond balls to you my friend!! You will reap the tendies with the rest of the APES🚀🚀💎💎 HODL and buy on the way up!! I swear it’s the way!!!
+# Author: excellmarine
+# Post URL: [https://www.reddit.com/r/GME/comments/mz2jww/macd_alert_alertt_im_no_scientist_but_macd_just/](https://www.reddit.com/r/GME/comments/mz2jww/macd_alert_alertt_im_no_scientist_but_macd_just/)
 
 
 https://i.redd.it/mqztvk9avjv61.jpg

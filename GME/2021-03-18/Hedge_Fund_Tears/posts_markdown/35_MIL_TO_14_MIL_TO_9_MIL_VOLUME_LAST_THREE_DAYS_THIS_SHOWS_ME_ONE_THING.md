@@ -1,6 +1,6 @@
-#Title: 35 MIL TO 14 MIL TO 9 MIL VOLUME LAST THREE DAYS. THIS SHOWS ME ONE THING
-#Author: gmorgan99
-#Post URL: [https://www.reddit.com/r/GME/comments/m7xqfh/35_mil_to_14_mil_to_9_mil_volume_last_three_days/](https://www.reddit.com/r/GME/comments/m7xqfh/35_mil_to_14_mil_to_9_mil_volume_last_three_days/)
+# Title: 35 MIL TO 14 MIL TO 9 MIL VOLUME LAST THREE DAYS. THIS SHOWS ME ONE THING
+# Author: gmorgan99
+# Post URL: [https://www.reddit.com/r/GME/comments/m7xqfh/35_mil_to_14_mil_to_9_mil_volume_last_three_days/](https://www.reddit.com/r/GME/comments/m7xqfh/35_mil_to_14_mil_to_9_mil_volume_last_three_days/)
 
 
 No ammo left for the big boys 

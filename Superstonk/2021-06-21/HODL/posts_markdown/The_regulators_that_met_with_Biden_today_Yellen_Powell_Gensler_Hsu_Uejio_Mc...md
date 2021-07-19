@@ -1,6 +1,6 @@
-#Title: The regulators that met with Biden today (Yellen, Powell, Gensler, Hsu, Uejio, McWilliams, Behnam) are all voting members of the Financial Stability Oversight Council (FSOC)
-#Author: valtani
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dd2c/the_regulators_that_met_with_biden_today_yellen/](https://www.reddit.com/r/Superstonk/comments/o5dd2c/the_regulators_that_met_with_biden_today_yellen/)
+# Title: The regulators that met with Biden today (Yellen, Powell, Gensler, Hsu, Uejio, McWilliams, Behnam) are all voting members of the Financial Stability Oversight Council (FSOC)
+# Author: valtani
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dd2c/the_regulators_that_met_with_biden_today_yellen/](https://www.reddit.com/r/Superstonk/comments/o5dd2c/the_regulators_that_met_with_biden_today_yellen/)
 
 
 &#x200B;

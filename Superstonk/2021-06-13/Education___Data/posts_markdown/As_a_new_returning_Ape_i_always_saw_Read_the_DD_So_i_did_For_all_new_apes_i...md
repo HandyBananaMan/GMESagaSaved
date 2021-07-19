@@ -1,6 +1,6 @@
-#Title: As a new, returning Ape i always saw "Read the DD". So i did. For all new apes, i'd recommend all these DD's in order to understand the basics of what is going on, and why people are so jacked right now!
-#Author: Insolopia
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyvlws/as_a_new_returning_ape_i_always_saw_read_the_dd/](https://www.reddit.com/r/Superstonk/comments/nyvlws/as_a_new_returning_ape_i_always_saw_read_the_dd/)
+# Title: As a new, returning Ape i always saw "Read the DD". So i did. For all new apes, i'd recommend all these DD's in order to understand the basics of what is going on, and why people are so jacked right now!
+# Author: Insolopia
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyvlws/as_a_new_returning_ape_i_always_saw_read_the_dd/](https://www.reddit.com/r/Superstonk/comments/nyvlws/as_a_new_returning_ape_i_always_saw_read_the_dd/)
 
 
 This subreddit is amazing, but as a newcomer i found it very daunting to "do my own DD" and the following order is both what i found most interesting, and what helped me understand it all. Hopefully it helps some new apes, which can then branch off and delve deeper into it all knowing the basics.

@@ -1,6 +1,6 @@
-#Title: How I'm going to tell my wife after the squeeze
-#Author: randalljhen
-#Post URL: [https://www.reddit.com/r/GME/comments/mihflw/how_im_going_to_tell_my_wife_after_the_squeeze/](https://www.reddit.com/r/GME/comments/mihflw/how_im_going_to_tell_my_wife_after_the_squeeze/)
+# Title: How I'm going to tell my wife after the squeeze
+# Author: randalljhen
+# Post URL: [https://www.reddit.com/r/GME/comments/mihflw/how_im_going_to_tell_my_wife_after_the_squeeze/](https://www.reddit.com/r/GME/comments/mihflw/how_im_going_to_tell_my_wife_after_the_squeeze/)
 
 
 Gonna buy The Big Short.

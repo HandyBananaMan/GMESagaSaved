@@ -1,6 +1,6 @@
-#Title: Yes, those patterns y'all keep posting are real! The similarity in meme stock price movement is statistically significant and differs significantly from a control group of boomer stocks (answer to u/HomeDepotHank69).
-#Author: squirrel_of_fortune
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/](https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/)
+# Title: Yes, those patterns y'all keep posting are real! The similarity in meme stock price movement is statistically significant and differs significantly from a control group of boomer stocks (answer to u/HomeDepotHank69).
+# Author: squirrel_of_fortune
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/](https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/)
 
 
 So, this post is in response to u/HomeDepotHank69 ‘s request for DD into correlation between stock price movements.

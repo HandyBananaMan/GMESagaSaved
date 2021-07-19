@@ -1,6 +1,6 @@
-#Title: Citadel's Clear Error
-#Author: djk934
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/](https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/)
+# Title: Citadel's Clear Error
+# Author: djk934
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/](https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/)
 
 
 So for the past three straight days, millions of volume has been removed after hours in what appears to be a “glitch” – except it’s happened for a few straight days. Also, why would these transactions just disappear? The stocks with disappearing volume seem to be on the NYSE and it doesn’t seem to be only GME. An issue with the consolidated tape? I believe that's only partially true.

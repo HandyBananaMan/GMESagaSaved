@@ -1,6 +1,6 @@
-#Title: A deep dive into the housing data released yesterday and what it can mean for GME! Hint:🚀🚀🚀🚀
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ie6p/a_deep_dive_into_the_housing_data_released/](https://www.reddit.com/r/Superstonk/comments/o6ie6p/a_deep_dive_into_the_housing_data_released/)
+# Title: A deep dive into the housing data released yesterday and what it can mean for GME! Hint:🚀🚀🚀🚀
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ie6p/a_deep_dive_into_the_housing_data_released/](https://www.reddit.com/r/Superstonk/comments/o6ie6p/a_deep_dive_into_the_housing_data_released/)
 
 
 TL:DR – I think the Housing market is in a bubble, which could trigger calamity when home values are no longer worth the inflated loans taken out to purchase them, which will begin to poison the Mortgage-Backed Securities they are packaged in causing further balance sheet woes for those trying to keep Marge from calling.

@@ -1,6 +1,6 @@
-#Title: ⛔ NYSE SAYS BID/ASK DIFFERENTIAL IS $40. LIQUIDITY DRYING UP. THIS COULD BE THE BIGGEST SHORT SQUEEZE IN HISTORY OF MANKIND ⛔
-#Author: DavidNIO
-#Post URL: [https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/](https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/)
+# Title: ⛔ NYSE SAYS BID/ASK DIFFERENTIAL IS $40. LIQUIDITY DRYING UP. THIS COULD BE THE BIGGEST SHORT SQUEEZE IN HISTORY OF MANKIND ⛔
+# Author: DavidNIO
+# Post URL: [https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/](https://www.reddit.com/r/GME/comments/ls14ti/nyse_says_bidask_differential_is_40_liquidity/)
 
 
 ⛔IF WE DON'T SELL THEY CANT BUY,  NYSE HAS ANNOUNCED BID/ASK DIFFERENTIAL IS $40 ( option market). LIQUIDITY DRYING UP. HIGH DIFFERENTIAL MEANS STOCK IS LESS LIQUID AND NO ONE IS WILLING TO SELL EVEN THOUGH HEDGE FUNDS ARE DESPERATE TO BUY. MAY BE RYAN IS RECALLING THE FLOAT ( SPARE SHARES IN THE MARKET ) NOT CONFIRMED JUST AN ASSUMPTION.

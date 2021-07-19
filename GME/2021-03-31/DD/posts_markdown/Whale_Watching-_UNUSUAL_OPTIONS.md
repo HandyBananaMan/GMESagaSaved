@@ -1,6 +1,6 @@
-#Title: Whale Watching- UNUSUAL OPTIONS
-#Author: G_KG
-#Post URL: [https://www.reddit.com/r/GME/comments/mhgks7/whale_watching_unusual_options/](https://www.reddit.com/r/GME/comments/mhgks7/whale_watching_unusual_options/)
+# Title: Whale Watching- UNUSUAL OPTIONS
+# Author: G_KG
+# Post URL: [https://www.reddit.com/r/GME/comments/mhgks7/whale_watching_unusual_options/](https://www.reddit.com/r/GME/comments/mhgks7/whale_watching_unusual_options/)
 
 
 Hello ape gang, grab your crayons and let’s head out for some whale watching.  Friendly reminder: life’s too short for cheap crayons- treat yo self to some Crayola, because [fuck RoseArt, your crayons taste like the salty tears of unloved children.](https://www.buzzfeed.com/donnad/scientific-proof-that-rose-art-crayons-suck)  Ahem.

@@ -1,6 +1,6 @@
-#Title: I bet there’s a huge majority of you out there, across the world, who are mostly silent on here, quietly hodling your GME and are completely impervious by any news (good or bad), any dramas within this or other subs, the DDs, the SEC rules, GameStop hires, lights on at 3am.
-#Author: DelMonte20
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/murhr0/i_bet_theres_a_huge_majority_of_you_out_there/](https://www.reddit.com/r/Superstonk/comments/murhr0/i_bet_theres_a_huge_majority_of_you_out_there/)
+# Title: I bet there’s a huge majority of you out there, across the world, who are mostly silent on here, quietly hodling your GME and are completely impervious by any news (good or bad), any dramas within this or other subs, the DDs, the SEC rules, GameStop hires, lights on at 3am.
+# Author: DelMonte20
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/murhr0/i_bet_theres_a_huge_majority_of_you_out_there/](https://www.reddit.com/r/Superstonk/comments/murhr0/i_bet_theres_a_huge_majority_of_you_out_there/)
 
 
 There’s only one directive no matter what, and that’s to carry on hodling. 

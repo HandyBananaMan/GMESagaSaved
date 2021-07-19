@@ -1,6 +1,6 @@
-#Title: Firm of billionaire Griffin sells Miami Beach condo at loss for $11M
-#Author: THC_Is_Me
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/](https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/)
+# Title: Firm of billionaire Griffin sells Miami Beach condo at loss for $11M
+# Author: THC_Is_Me
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/](https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/)
 
 
 TL:DR Hedgies are Fucked. Buy and Hold. This is not financial advice. If you notice I use the letter I alot, it’s because I JUST LIKE THE STOCK. 😉

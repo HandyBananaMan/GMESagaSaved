@@ -1,6 +1,6 @@
-#Title: June Failure To Deliver Graphs/Data now parsed and available to view.
-#Author: davegtturbo
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/objvcd/june_failure_to_deliver_graphsdata_now_parsed_and/](https://www.reddit.com/r/Superstonk/comments/objvcd/june_failure_to_deliver_graphsdata_now_parsed_and/)
+# Title: June Failure To Deliver Graphs/Data now parsed and available to view.
+# Author: davegtturbo
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/objvcd/june_failure_to_deliver_graphsdata_now_parsed_and/](https://www.reddit.com/r/Superstonk/comments/objvcd/june_failure_to_deliver_graphsdata_now_parsed_and/)
 
 
 **Edit2: the SEC has only published data covering up to June 14th. 15th -> 30th June will be published by the SEC mid July.**

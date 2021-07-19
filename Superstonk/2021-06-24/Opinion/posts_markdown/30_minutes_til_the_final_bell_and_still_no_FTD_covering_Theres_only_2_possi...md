@@ -1,6 +1,6 @@
-#Title: 30 minutes til the final bell and still no FTD covering. There's only 2 possible reasons why we haven't seen the price jump yet. If we haven't already, we probably won't today.
-#Author: Son0fTheSun333
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/](https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/)
+# Title: 30 minutes til the final bell and still no FTD covering. There's only 2 possible reasons why we haven't seen the price jump yet. If we haven't already, we probably won't today.
+# Author: Son0fTheSun333
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/](https://www.reddit.com/r/Superstonk/comments/o787jm/30_minutes_til_the_final_bell_and_still_no_ftd/)
 
 
 1. The first reason being, they don't HAVE to cover FTDs on the T+21 day cycle. If you've read the all the DD's regarding this theory, and the fact that we've been able to single this down to a specific date  every month, you'd know that the net capital requirements can be fulfilled any day within that T+21 day timeframe. The run-up we saw in the early days of June were, in my opinion, inorganic price movements and likely a result of them attempting to discredit our "confirmed" T+21 FTD cycle theory in order to confuse us and demoralise us. In my smooth-brained opinion, they spread out their buybacks of this cycle's FTDs between 6/1-6/8 because they knew they were going to spend a fuck-ton of their ammo shorting the price down after the shareholder meeting and Gamestop's positive earnings call. Again, in my opinion, this was their hail mary because they knew the rules that would up-end them would be in place and they needed one last hurrah to try and fuck our morale and get us to sell.

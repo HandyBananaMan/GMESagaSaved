@@ -1,6 +1,6 @@
-#Title: Stop saying there is only 60 Trillion available. We can grab more.
-#Author: Godibraku
-#Post URL: [https://www.reddit.com/r/GME/comments/mifp9e/stop_saying_there_is_only_60_trillion_available/](https://www.reddit.com/r/GME/comments/mifp9e/stop_saying_there_is_only_60_trillion_available/)
+# Title: Stop saying there is only 60 Trillion available. We can grab more.
+# Author: Godibraku
+# Post URL: [https://www.reddit.com/r/GME/comments/mifp9e/stop_saying_there_is_only_60_trillion_available/](https://www.reddit.com/r/GME/comments/mifp9e/stop_saying_there_is_only_60_trillion_available/)
 
 
 **Edit3:** Stop it you apes. STOP IT. I dont want your Awards, use that money to buy GME and HODL. If i get another Award i´ll go to Walmart and buy EVERY banana until there are no more left for you. YOU´VE BEEN WARNED *goddamn apes dont push me*

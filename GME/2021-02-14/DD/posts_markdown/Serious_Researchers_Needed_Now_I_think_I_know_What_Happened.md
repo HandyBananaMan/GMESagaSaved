@@ -1,6 +1,6 @@
-#Title: Serious Researchers Needed Now: I think I know What Happened
-#Author: ahh_soy
-#Post URL: [https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/](https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/)
+# Title: Serious Researchers Needed Now: I think I know What Happened
+# Author: ahh_soy
+# Post URL: [https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/](https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/)
 
 
 **SCROLL DOWN FOR THE ORIGINAL POST**

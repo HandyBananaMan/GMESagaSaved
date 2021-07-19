@@ -1,6 +1,6 @@
-#Title: IMPORTANT AND NEEDS TO BE SEEN
-#Author: MoonTellsMeASecret
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olimp5/important_and_needs_to_be_seen/](https://www.reddit.com/r/Superstonk/comments/olimp5/important_and_needs_to_be_seen/)
+# Title: IMPORTANT AND NEEDS TO BE SEEN
+# Author: MoonTellsMeASecret
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olimp5/important_and_needs_to_be_seen/](https://www.reddit.com/r/Superstonk/comments/olimp5/important_and_needs_to_be_seen/)
 
 
 This is extremely important - I am posting this solely to spread awareness and information.

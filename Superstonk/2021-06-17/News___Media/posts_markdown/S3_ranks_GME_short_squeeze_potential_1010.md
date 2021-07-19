@@ -1,6 +1,6 @@
-#Title: S3 ranks GME short squeeze potential 10/10 💪💎🚀⚡️⚡️
-#Author: BlitzFritzXX
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xf10/s3_ranks_gme_short_squeeze_potential_1010/](https://www.reddit.com/r/Superstonk/comments/o1xf10/s3_ranks_gme_short_squeeze_potential_1010/)
+# Title: S3 ranks GME short squeeze potential 10/10 💪💎🚀⚡️⚡️
+# Author: BlitzFritzXX
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xf10/s3_ranks_gme_short_squeeze_potential_1010/](https://www.reddit.com/r/Superstonk/comments/o1xf10/s3_ranks_gme_short_squeeze_potential_1010/)
 
 
 S3 Partners recently issued a short squeeze score card assessing the squeeze potential of stocks according to a number of criteria an then assigning a score between 1 - 10. 

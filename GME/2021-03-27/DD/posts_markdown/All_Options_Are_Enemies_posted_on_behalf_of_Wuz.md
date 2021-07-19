@@ -1,6 +1,6 @@
-#Title: All Options Are Enemies (posted on behalf of Wuz)
-#Author: beowulf77
-#Post URL: [https://www.reddit.com/r/GME/comments/meo9sg/all_options_are_enemies_posted_on_behalf_of_wuz/](https://www.reddit.com/r/GME/comments/meo9sg/all_options_are_enemies_posted_on_behalf_of_wuz/)
+# Title: All Options Are Enemies (posted on behalf of Wuz)
+# Author: beowulf77
+# Post URL: [https://www.reddit.com/r/GME/comments/meo9sg/all_options_are_enemies_posted_on_behalf_of_wuz/](https://www.reddit.com/r/GME/comments/meo9sg/all_options_are_enemies_posted_on_behalf_of_wuz/)
 
 
 As stated in my first DD:

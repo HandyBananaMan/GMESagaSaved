@@ -1,6 +1,6 @@
-#Title: New report: massive margin debt increase
-#Author: finalfarter
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/](https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/)
+# Title: New report: massive margin debt increase
+# Author: finalfarter
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/](https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/)
 
 
 Seems like our dear investors have some debt.

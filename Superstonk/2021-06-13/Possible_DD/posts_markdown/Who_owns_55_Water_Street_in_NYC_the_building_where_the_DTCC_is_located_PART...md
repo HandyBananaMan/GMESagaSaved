@@ -1,6 +1,6 @@
-#Title: Who owns 55 Water Street in NYC, the building where the DTCC is located? PART 2 (or "What's in your wallet, Alabama?")
-#Author: throwawaylurker012
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/](https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/)
+# Title: Who owns 55 Water Street in NYC, the building where the DTCC is located? PART 2 (or "What's in your wallet, Alabama?")
+# Author: throwawaylurker012
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/](https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/)
 
 
  

@@ -1,6 +1,6 @@
-#Title: A missing block of text of the original final post of "WHERE ARE THE SHARES??" by u/leavemeanon
-#Author: Freakei
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntinqs/a_missing_block_of_text_of_the_original_final/](https://www.reddit.com/r/Superstonk/comments/ntinqs/a_missing_block_of_text_of_the_original_final/)
+# Title: A missing block of text of the original final post of "WHERE ARE THE SHARES??" by u/leavemeanon
+# Author: Freakei
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntinqs/a_missing_block_of_text_of_the_original_final/](https://www.reddit.com/r/Superstonk/comments/ntinqs/a_missing_block_of_text_of_the_original_final/)
 
 
 I left the original DD "WHERE ARE THE SHARES?? A Beginner's Guide to Hiding 100 Million FTDs - (FINAL)" by u/leavemeanon open because I wanted to read it later, but then I forgot about it and then it was deleted, but my browser was still opened on that page.

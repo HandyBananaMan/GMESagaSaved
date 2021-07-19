@@ -1,6 +1,6 @@
-#Title: Origin Stories: An Uncovering of More FTD Cycles Than You Can Imagine
-#Author: Suspicious-Singer243
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/)
+# Title: Origin Stories: An Uncovering of More FTD Cycles Than You Can Imagine
+# Author: Suspicious-Singer243
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/)
 
 
 It been well proven that GameStop price action experiences the effects of a 21-day Failure to Deliver (FTD) cycle. To catch some up to speed, here’s Hank:

@@ -1,6 +1,6 @@
-#Title: Ex Citadel Manager spilling tea in a new book: Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
-#Author: wkowdyw
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/](https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/)
+# Title: Ex Citadel Manager spilling tea in a new book: Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
+# Author: wkowdyw
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/](https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/)
 
 
 \--- start of article ---

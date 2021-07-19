@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Monday 06-07-2021- 2 DAYS TIL ANNUAL MEETING!!
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/](https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/)
+# Title: The Jungle Beat- Monday 06-07-2021- 2 DAYS TIL ANNUAL MEETING!!
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/](https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/)
 
 
 *This piece will be posted at 4:20 pm NYSE time every trading day!*

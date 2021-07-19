@@ -1,6 +1,6 @@
-#Title: Analysis On Why The New Heads of SEC & CFPB is BULLISH for The MOASS
-#Author: TblackUman
-#Post URL: [https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/](https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/)
+# Title: Analysis On Why The New Heads of SEC & CFPB is BULLISH for The MOASS
+# Author: TblackUman
+# Post URL: [https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/](https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/)
 
 
 I have posted this DD previously this weekend, but now with the two new heads, Rohit Chopra(CFPB), and Gary Gensler (SEC), I figure that this information may be more relevant. All the new Information will be at the end separated by '----'. I am typing this on desktop, no emojis here yet (insert rocket diamond hands ape frog ice-cream emojis here)

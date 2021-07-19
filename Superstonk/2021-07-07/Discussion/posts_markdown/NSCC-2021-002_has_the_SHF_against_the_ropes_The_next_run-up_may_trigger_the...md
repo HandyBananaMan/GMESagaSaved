@@ -1,6 +1,6 @@
-#Title: NSCC-2021-002 has the SHF against the ropes. The next run-up may trigger the MOASS.
-#Author: humanisthank
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/](https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/)
+# Title: NSCC-2021-002 has the SHF against the ropes. The next run-up may trigger the MOASS.
+# Author: humanisthank
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/](https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/)
 
 
 *Obligatory not financial advice disclaimer.*

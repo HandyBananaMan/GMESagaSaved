@@ -1,6 +1,6 @@
-#Title: New Shill Tactic: Pretending that the MOASS is Far Away
-#Author: Bill_Assassin7
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7gibj/new_shill_tactic_pretending_that_the_moass_is_far/](https://www.reddit.com/r/Superstonk/comments/o7gibj/new_shill_tactic_pretending_that_the_moass_is_far/)
+# Title: New Shill Tactic: Pretending that the MOASS is Far Away
+# Author: Bill_Assassin7
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7gibj/new_shill_tactic_pretending_that_the_moass_is_far/](https://www.reddit.com/r/Superstonk/comments/o7gibj/new_shill_tactic_pretending_that_the_moass_is_far/)
 
 
 I've been seeing a worrying trend here recently, where lots of people, many with new-ish accounts, are essentially saying that GME is a long play, and that the MOASS will take a long time.

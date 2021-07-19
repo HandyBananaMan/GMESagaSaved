@@ -1,6 +1,6 @@
-#Title: A friendly reminder: They have had months to prepare photoshopped sell posts, photoshopped graphs, fake figures and fake DD - all of which is ready-loaded like ammunition. Prepare to see a full scale barrage of these during MOASS from ALL social media platforms.
-#Author: nesbitandgibley
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmuxxi/a_friendly_reminder_they_have_had_months_to/](https://www.reddit.com/r/Superstonk/comments/nmuxxi/a_friendly_reminder_they_have_had_months_to/)
+# Title: A friendly reminder: They have had months to prepare photoshopped sell posts, photoshopped graphs, fake figures and fake DD - all of which is ready-loaded like ammunition. Prepare to see a full scale barrage of these during MOASS from ALL social media platforms.
+# Author: nesbitandgibley
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmuxxi/a_friendly_reminder_they_have_had_months_to/](https://www.reddit.com/r/Superstonk/comments/nmuxxi/a_friendly_reminder_they_have_had_months_to/)
 
 
 I always considered investing in GME to be like sailing a boat in a storm. Know that the boat is solid and strong. It is built on value, fundamentals, and hours of research.

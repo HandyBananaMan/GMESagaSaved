@@ -1,6 +1,6 @@
-#Title: TIMESTAMP: Congressional Hearing 3/17/21
-#Author: ka99
-#Post URL: [https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/](https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/)
+# Title: TIMESTAMP: Congressional Hearing 3/17/21
+# Author: ka99
+# Post URL: [https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/](https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/)
 
 
  *Added 'quick & dirty' written sound bites to help people navigate.*

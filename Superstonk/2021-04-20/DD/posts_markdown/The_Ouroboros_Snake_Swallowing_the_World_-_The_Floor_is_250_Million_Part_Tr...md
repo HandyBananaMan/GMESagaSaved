@@ -1,6 +1,6 @@
-#Title: The Ouroboros Snake Swallowing the World - The Floor is 250 Million Part Trillion
-#Author: somechicktho
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/](https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/)
+# Title: The Ouroboros Snake Swallowing the World - The Floor is 250 Million Part Trillion
+# Author: somechicktho
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/](https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/)
 
 
 **TL;DR**

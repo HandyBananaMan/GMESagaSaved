@@ -1,6 +1,6 @@
-#Title: The price of GME since February is completely predictable: "Kicking the can down the road" mathematically deciphered. See what determines GMEs price. Superstonk DD by u/RocketApes
-#Author: Kruzenstern
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/npbprd/the_price_of_gme_since_february_is_completely/](https://www.reddit.com/r/DDintoGME/comments/npbprd/the_price_of_gme_since_february_is_completely/)
+# Title: The price of GME since February is completely predictable: "Kicking the can down the road" mathematically deciphered. See what determines GMEs price. Superstonk DD by u/RocketApes
+# Author: Kruzenstern
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/npbprd/the_price_of_gme_since_february_is_completely/](https://www.reddit.com/r/DDintoGME/comments/npbprd/the_price_of_gme_since_february_is_completely/)
 
 
 The following is a prediction by [u/RocketApes](https://www.reddit.com/user/RocketApes/), posted [here in r/Superstonk](https://www.reddit.com/r/Superstonk/comments/np9a0k/the_price_of_gme_since_february_is_completely/). He asked me to post it here since his karma count is too low to do it himself. Apparently he devised a model that can predict the GME price movement. All questions should be directed to him.

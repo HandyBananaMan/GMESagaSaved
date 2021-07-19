@@ -1,6 +1,6 @@
-#Title: Just heard the term, “paper-handed bitch,” at work.
-#Author: Cagerlac
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3xupo/just_heard_the_term_paperhanded_bitch_at_work/](https://www.reddit.com/r/Superstonk/comments/n3xupo/just_heard_the_term_paperhanded_bitch_at_work/)
+# Title: Just heard the term, “paper-handed bitch,” at work.
+# Author: Cagerlac
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3xupo/just_heard_the_term_paperhanded_bitch_at_work/](https://www.reddit.com/r/Superstonk/comments/n3xupo/just_heard_the_term_paperhanded_bitch_at_work/)
 
 
 Turns out 80% of the engineers at my company hold GME, and the majority were ridiculing another engineer that sold out when it crashed. 

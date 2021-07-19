@@ -1,6 +1,6 @@
-#Title: Citadel/Ken Griffin ruined Wall Street’s grand comfortable lifestyle forever. They’re going up in flames, and their peers must fucking hate them with a passion right now
-#Author: DoesHeLookLikeAFitch
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nltppc/citadelken_griffin_ruined_wall_streets_grand/](https://www.reddit.com/r/Superstonk/comments/nltppc/citadelken_griffin_ruined_wall_streets_grand/)
+# Title: Citadel/Ken Griffin ruined Wall Street’s grand comfortable lifestyle forever. They’re going up in flames, and their peers must fucking hate them with a passion right now
+# Author: DoesHeLookLikeAFitch
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nltppc/citadelken_griffin_ruined_wall_streets_grand/](https://www.reddit.com/r/Superstonk/comments/nltppc/citadelken_griffin_ruined_wall_streets_grand/)
 
 
 Citadel is like the athlete in college that got caught roiding up. Now the entire team has to go get tested, and half of them are going to fail.

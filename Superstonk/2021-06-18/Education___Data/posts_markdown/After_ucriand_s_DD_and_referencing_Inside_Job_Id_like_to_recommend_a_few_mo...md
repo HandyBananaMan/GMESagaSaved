@@ -1,6 +1,6 @@
-#Title: After u/criand 's DD and referencing 'Inside Job', I'd like to recommend a few more excellent documentary films that deserve some attention
-#Author: berrieds
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2mksc/after_ucriand_s_dd_and_referencing_inside_job_id/](https://www.reddit.com/r/Superstonk/comments/o2mksc/after_ucriand_s_dd_and_referencing_inside_job_id/)
+# Title: After u/criand 's DD and referencing 'Inside Job', I'd like to recommend a few more excellent documentary films that deserve some attention
+# Author: berrieds
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2mksc/after_ucriand_s_dd_and_referencing_inside_job_id/](https://www.reddit.com/r/Superstonk/comments/o2mksc/after_ucriand_s_dd_and_referencing_inside_job_id/)
 
 
 [Quants | The Alchemists of Wall Street (2010)](https://youtu.be/ed2FWNWwE3I) \- Paul Wilmott, Emanuel Derman, Mike Osinski: these are some of the most wrinkle brained badasses in finance I have ever listened to. These are the people who teach the quants - those people working at the SHFs trying to take your money, or the money from other hedgies. How are the financial systems modeled, and various deals incentivised? Listen to these insiders, the Godfathers of modern finance discuss how we got into this mess.

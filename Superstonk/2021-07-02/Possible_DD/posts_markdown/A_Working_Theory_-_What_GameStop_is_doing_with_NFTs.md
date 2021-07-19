@@ -1,6 +1,6 @@
-#Title: A Working Theory - What GameStop is doing with NFTs
-#Author: tiides
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocex3f/a_working_theory_what_gamestop_is_doing_with_nfts/](https://www.reddit.com/r/Superstonk/comments/ocex3f/a_working_theory_what_gamestop_is_doing_with_nfts/)
+# Title: A Working Theory - What GameStop is doing with NFTs
+# Author: tiides
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocex3f/a_working_theory_what_gamestop_is_doing_with_nfts/](https://www.reddit.com/r/Superstonk/comments/ocex3f/a_working_theory_what_gamestop_is_doing_with_nfts/)
 
 
 This is a repost of a post that ran afoul of the automod, and I'm reposting a sanitized version for visibility for the sake of the community. Note that farther down in a quoted section, when I use "**\[left intentionally blank for automod\]"** I'm referring to the crypt0 network pictured in most images below. Alright, now that that's out of the way.

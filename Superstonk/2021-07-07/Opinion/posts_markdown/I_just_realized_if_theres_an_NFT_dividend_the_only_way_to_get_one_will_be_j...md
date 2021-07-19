@@ -1,6 +1,6 @@
-#Title: I just realized: if there's an NFT dividend, the only way to get one will be joining the infinity pool. (Unless you cheat.)
-#Author: Mupfather
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofqlwm/i_just_realized_if_theres_an_nft_dividend_the/](https://www.reddit.com/r/Superstonk/comments/ofqlwm/i_just_realized_if_theres_an_nft_dividend_the/)
+# Title: I just realized: if there's an NFT dividend, the only way to get one will be joining the infinity pool. (Unless you cheat.)
+# Author: Mupfather
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofqlwm/i_just_realized_if_theres_an_nft_dividend_the/](https://www.reddit.com/r/Superstonk/comments/ofqlwm/i_just_realized_if_theres_an_nft_dividend_the/)
 
 
 The MOASS starts when the dividend is announced and will last until short positions are closed.

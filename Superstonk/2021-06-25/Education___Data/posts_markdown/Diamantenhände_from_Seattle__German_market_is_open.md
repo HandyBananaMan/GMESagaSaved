@@ -1,6 +1,6 @@
-#Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
-#Author: Parsnip
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7hlwc/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/o7hlwc/diamantenhände_from_seattle_german_market_is_open/)
+# Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
+# Author: Parsnip
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7hlwc/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/o7hlwc/diamantenhände_from_seattle_german_market_is_open/)
 
 
 Hello Great Apes of the world! 👋

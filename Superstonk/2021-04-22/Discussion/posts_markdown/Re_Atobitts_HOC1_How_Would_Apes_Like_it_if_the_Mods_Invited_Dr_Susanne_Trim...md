@@ -1,6 +1,6 @@
-#Title: Re: Atobitt's HOC1: How Would Apes Like it if the Mods Invited Dr. Susanne Trimbath and Prof. David C. Donald for an AMA Interview?
-#Author: Golden_D9
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mw448c/re_atobitts_hoc1_how_would_apes_like_it_if_the/](https://www.reddit.com/r/Superstonk/comments/mw448c/re_atobitts_hoc1_how_would_apes_like_it_if_the/)
+# Title: Re: Atobitt's HOC1: How Would Apes Like it if the Mods Invited Dr. Susanne Trimbath and Prof. David C. Donald for an AMA Interview?
+# Author: Golden_D9
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mw448c/re_atobitts_hoc1_how_would_apes_like_it_if_the/](https://www.reddit.com/r/Superstonk/comments/mw448c/re_atobitts_hoc1_how_would_apes_like_it_if_the/)
 
 
 After u/Atobitt amazing DD yesterday, 2 sources emerged that basically confirmed Atobitt's DD to be factually correct: The book "Naked, Short and Greedy" by Wall Street whistleblower **Dr. Susanne Trimbath** (Link here: [https://spiramus.com/naked-short-and-greedy](https://spiramus.com/naked-short-and-greedy)), and the paper "The Rise and Effects of the Indirect Holding System" by law professor **David C. Donald** (Link here: [https://www.ilf-frankfurt.de/fileadmin/\_migrated/content\_uploads/ILF\_WP\_068.pdf](https://www.ilf-frankfurt.de/fileadmin/_migrated/content_uploads/ILF_WP_068.pdf)).

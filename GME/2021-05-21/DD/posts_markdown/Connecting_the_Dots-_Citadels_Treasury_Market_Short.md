@@ -1,6 +1,6 @@
-#Title: Connecting the Dots- Citadel's Treasury Market Short
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/](https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/)
+# Title: Connecting the Dots- Citadel's Treasury Market Short
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/](https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/)
 
 
 So I've been looking into the **MASSIVE** amounts of Reverse Repo lending and I think I came up with a theory that ties Shitadel into all of this. This is all speculation, so take this all with a big grain of salt....

@@ -1,6 +1,6 @@
-#Title: THE MOASS WON'T HAPPEN UNTIL OPTIONS ARE NOT REGULATED: DTC-2021-005 JUST CHANGED THE GAME
-#Author: lighthouse30130
-#Post URL: [https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/](https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/)
+# Title: THE MOASS WON'T HAPPEN UNTIL OPTIONS ARE NOT REGULATED: DTC-2021-005 JUST CHANGED THE GAME
+# Author: lighthouse30130
+# Post URL: [https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/](https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/)
 
 
 # ERRATUM ON TITLE: THE MOASS WON'T HAPPEN UNTIL OPTIONS ARE REGULATED.

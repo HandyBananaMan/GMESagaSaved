@@ -1,6 +1,6 @@
-#Title: A Deep Dive into nft.gamestop.com - Part 2: Electric Boogaloo
-#Author: schismsaints
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/](https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/)
+# Title: A Deep Dive into nft.gamestop.com - Part 2: Electric Boogaloo
+# Author: schismsaints
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/](https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/)
 
 
 &#x200B;

@@ -1,6 +1,6 @@
-#Title: Responding to some of the questions surrounding my old account, u/leavemeanon
-#Author: leavemeanon2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okhjpj/responding_to_some_of_the_questions_surrounding/](https://www.reddit.com/r/Superstonk/comments/okhjpj/responding_to_some_of_the_questions_surrounding/)
+# Title: Responding to some of the questions surrounding my old account, u/leavemeanon
+# Author: leavemeanon2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okhjpj/responding_to_some_of_the_questions_surrounding/](https://www.reddit.com/r/Superstonk/comments/okhjpj/responding_to_some_of_the_questions_surrounding/)
 
 
 I realize that this may immediately raise red flags and that’s warranted. 

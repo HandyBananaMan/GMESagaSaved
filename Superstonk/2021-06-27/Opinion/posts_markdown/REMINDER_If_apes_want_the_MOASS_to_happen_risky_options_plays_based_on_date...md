@@ -1,6 +1,6 @@
-#Title: REMINDER: If apes want the MOASS to happen, risky options plays based on "dates" are not the way
-#Author: TheLewisReddits
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8yzp1/reminder_if_apes_want_the_moass_to_happen_risky/](https://www.reddit.com/r/Superstonk/comments/o8yzp1/reminder_if_apes_want_the_moass_to_happen_risky/)
+# Title: REMINDER: If apes want the MOASS to happen, risky options plays based on "dates" are not the way
+# Author: TheLewisReddits
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8yzp1/reminder_if_apes_want_the_moass_to_happen_risky/](https://www.reddit.com/r/Superstonk/comments/o8yzp1/reminder_if_apes_want_the_moass_to_happen_risky/)
 
 
 Apes of the world, lend me your ears!

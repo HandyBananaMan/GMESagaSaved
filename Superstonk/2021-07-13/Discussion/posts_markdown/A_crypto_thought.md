@@ -1,6 +1,6 @@
-#Title: A crypto thought
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojj7t4/a_crypto_thought/](https://www.reddit.com/r/Superstonk/comments/ojj7t4/a_crypto_thought/)
+# Title: A crypto thought
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojj7t4/a_crypto_thought/](https://www.reddit.com/r/Superstonk/comments/ojj7t4/a_crypto_thought/)
 
 
 Ok so, been sick in bed a couple of days and some random shit popped in my head

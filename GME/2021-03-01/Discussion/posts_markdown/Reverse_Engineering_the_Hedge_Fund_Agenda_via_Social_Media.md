@@ -1,6 +1,6 @@
-#Title: Reverse Engineering the Hedge Fund Agenda via Social Media
-#Author: aLeakyAbstraction
-#Post URL: [https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/](https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/)
+# Title: Reverse Engineering the Hedge Fund Agenda via Social Media
+# Author: aLeakyAbstraction
+# Post URL: [https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/](https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/)
 
 
 **TLDR:** Shills (hedge funds or institutions) are very likely responsible for pushing not only the silv\*r and we\*d buys, but very likely AMC as well. They’re also still heavily trying to push GME FUD and encourage stockholders to sell.

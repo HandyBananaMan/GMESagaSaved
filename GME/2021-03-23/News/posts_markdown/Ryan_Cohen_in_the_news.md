@@ -1,6 +1,6 @@
-#Title: Ryan Cohen in the news
-#Author: rayrockstar
-#Post URL: [https://www.reddit.com/r/GME/comments/mbd5fh/ryan_cohen_in_the_news/](https://www.reddit.com/r/GME/comments/mbd5fh/ryan_cohen_in_the_news/)
+# Title: Ryan Cohen in the news
+# Author: rayrockstar
+# Post URL: [https://www.reddit.com/r/GME/comments/mbd5fh/ryan_cohen_in_the_news/](https://www.reddit.com/r/GME/comments/mbd5fh/ryan_cohen_in_the_news/)
 
 
 Hi everyone! This is my first-ever post on Reddit. Would like to share this news article published less than an hour ago in my country Singapore 

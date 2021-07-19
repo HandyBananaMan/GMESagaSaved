@@ -1,6 +1,6 @@
-#Title: BLACKROCK, VANGUARD, and FIDELITY are going to NUKE 🔥 Shitadel!!!
-#Author: Wilmar16
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mr5s1k/blackrock_vanguard_and_fidelity_are_going_to_nuke/](https://www.reddit.com/r/Superstonk/comments/mr5s1k/blackrock_vanguard_and_fidelity_are_going_to_nuke/)
+# Title: BLACKROCK, VANGUARD, and FIDELITY are going to NUKE 🔥 Shitadel!!!
+# Author: Wilmar16
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mr5s1k/blackrock_vanguard_and_fidelity_are_going_to_nuke/](https://www.reddit.com/r/Superstonk/comments/mr5s1k/blackrock_vanguard_and_fidelity_are_going_to_nuke/)
 
 
 How Investing Giants Gave Away Voting Power Ahead of a Shareholder Fight!

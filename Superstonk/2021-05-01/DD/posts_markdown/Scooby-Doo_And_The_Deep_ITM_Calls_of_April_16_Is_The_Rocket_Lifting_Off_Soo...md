@@ -1,6 +1,6 @@
-#Title: Scooby-Doo And The Deep ITM Calls of April 16. Is The Rocket Lifting Off Soon?
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/](https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/)
+# Title: Scooby-Doo And The Deep ITM Calls of April 16. Is The Rocket Lifting Off Soon?
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/](https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/)
 
 
 Hello apes. Not a financial advisor, hopefully you know that.

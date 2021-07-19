@@ -1,6 +1,6 @@
-#Title: Please understand why 1 Million CAN BE THE FLOOR
-#Author: misketi2345
-#Post URL: [https://www.reddit.com/r/GME/comments/mhuox7/please_understand_why_1_million_can_be_the_floor/](https://www.reddit.com/r/GME/comments/mhuox7/please_understand_why_1_million_can_be_the_floor/)
+# Title: Please understand why 1 Million CAN BE THE FLOOR
+# Author: misketi2345
+# Post URL: [https://www.reddit.com/r/GME/comments/mhuox7/please_understand_why_1_million_can_be_the_floor/](https://www.reddit.com/r/GME/comments/mhuox7/please_understand_why_1_million_can_be_the_floor/)
 
 
 If we hold the float, and IF we don't paperhand and sell early, the price rises. It's as simple as that. We have the supply, and there is demand. 

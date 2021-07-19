@@ -1,6 +1,6 @@
-#Title: How the MOASS won't happen!
-#Author: semprenobre88
-#Post URL: [https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/](https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/)
+# Title: How the MOASS won't happen!
+# Author: semprenobre88
+# Post URL: [https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/](https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/)
 
 
 Ok, fellow apes, i have to share this. I've  been searching in wich scenarios the MOASS won't happen, read all the counter DD's from shills, and came out with that list. Hope you won't think i'm a shill, but wanted to warn you. OK so now let's have a look on that list:

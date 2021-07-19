@@ -1,6 +1,6 @@
-#Title: r/GME Megathread for Friday - June 11, 2021
-#Author: karasuuchiha
-#Post URL: [https://www.reddit.com/r/GME/comments/nx8s46/rgme_megathread_for_friday_june_11_2021/](https://www.reddit.com/r/GME/comments/nx8s46/rgme_megathread_for_friday_june_11_2021/)
+# Title: r/GME Megathread for Friday - June 11, 2021
+# Author: karasuuchiha
+# Post URL: [https://www.reddit.com/r/GME/comments/nx8s46/rgme_megathread_for_friday_june_11_2021/](https://www.reddit.com/r/GME/comments/nx8s46/rgme_megathread_for_friday_june_11_2021/)
 
 
 This is a place to discuss technical analysis, fundamental analysis, buyer/seller sentiment, **and all things relevant to GME.**

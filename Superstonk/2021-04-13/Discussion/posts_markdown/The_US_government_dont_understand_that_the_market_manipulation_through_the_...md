@@ -1,6 +1,6 @@
-#Title: The US government don't understand that the market manipulation through the dark pool and synthetic shares will lead people to invest in crypo!
-#Author: vruzzi
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mq0ftf/the_us_government_dont_understand_that_the_market/](https://www.reddit.com/r/Superstonk/comments/mq0ftf/the_us_government_dont_understand_that_the_market/)
+# Title: The US government don't understand that the market manipulation through the dark pool and synthetic shares will lead people to invest in crypo!
+# Author: vruzzi
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mq0ftf/the_us_government_dont_understand_that_the_market/](https://www.reddit.com/r/Superstonk/comments/mq0ftf/the_us_government_dont_understand_that_the_market/)
 
 
 Why should we invest in stock market that is completely manipulated when I can buy non counterfeit token that has been created through an open source community? I think that what's happening with GME will speed up the transition to crypto! 

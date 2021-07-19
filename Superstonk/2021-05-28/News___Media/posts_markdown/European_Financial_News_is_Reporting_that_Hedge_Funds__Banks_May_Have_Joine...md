@@ -1,6 +1,6 @@
-#Title: European Financial News is Reporting that Hedge Funds / Banks May Have Joined Forces with the Fed to Manipulate Certain “Meme” Stocks in Order to Avoid a Repo Apocalypse - Possibly Disguising Themselves Online as Redditors
-#Author: CuriousCatNYC777
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/)
+# Title: European Financial News is Reporting that Hedge Funds / Banks May Have Joined Forces with the Fed to Manipulate Certain “Meme” Stocks in Order to Avoid a Repo Apocalypse - Possibly Disguising Themselves Online as Redditors
+# Author: CuriousCatNYC777
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/)
 
 
 Translated from Italian Using Google translate (Italian Apes, feel free to correct)

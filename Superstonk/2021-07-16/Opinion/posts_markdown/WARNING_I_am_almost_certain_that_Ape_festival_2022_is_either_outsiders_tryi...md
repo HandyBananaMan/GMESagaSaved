@@ -1,6 +1,6 @@
-#Title: WARNING. I am almost certain that ‘Ape festival 2022’ is either outsiders trying to cash in on the movement, or a desperate ploy from SHF to make a case of a ‘group’ of retail investors manipulating the market. Be wary.
-#Author: eamono360
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/old8er/warning_i_am_almost_certain_that_ape_festival/](https://www.reddit.com/r/Superstonk/comments/old8er/warning_i_am_almost_certain_that_ape_festival/)
+# Title: WARNING. I am almost certain that ‘Ape festival 2022’ is either outsiders trying to cash in on the movement, or a desperate ploy from SHF to make a case of a ‘group’ of retail investors manipulating the market. Be wary.
+# Author: eamono360
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/old8er/warning_i_am_almost_certain_that_ape_festival/](https://www.reddit.com/r/Superstonk/comments/old8er/warning_i_am_almost_certain_that_ape_festival/)
 
 
 I don’t even feel like this needs to be said as I feel like 99% of us are all on the same page on this one, but recently a website and twitter handle has been plugging an ‘Ape Festival 2022’ in Vegas backed by some big names involved in GME or another certain movie stocks on twitter.

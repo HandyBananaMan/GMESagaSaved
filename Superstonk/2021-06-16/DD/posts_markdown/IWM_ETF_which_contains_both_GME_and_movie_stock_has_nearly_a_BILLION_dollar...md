@@ -1,6 +1,6 @@
-#Title: IWM ETF which contains both GME and movie stock has nearly a BILLION dollars worth of FTD’s
-#Author: Jealous-Bike-6883
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1f555/iwm_etf_which_contains_both_gme_and_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o1f555/iwm_etf_which_contains_both_gme_and_movie_stock/)
+# Title: IWM ETF which contains both GME and movie stock has nearly a BILLION dollars worth of FTD’s
+# Author: Jealous-Bike-6883
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1f555/iwm_etf_which_contains_both_gme_and_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o1f555/iwm_etf_which_contains_both_gme_and_movie_stock/)
 
 
 Small cap ETF ticker symbol IWM has a large amount of GME and movie stock. GME’s allocation valued at 196.16 million and Movie stocks valued at 10.08 million. This is the second most(GME) and the most(Movie stock) for all ETF’s containing these stocks. And as we know hedgies have been shorting ETF’s containing these stocks to drive prices down. 

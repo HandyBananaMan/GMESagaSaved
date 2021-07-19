@@ -1,6 +1,6 @@
-#Title: INFLATION ALERT! Bank of Canada and Bank of New Zealand begin preparing for persistent inflation. The Fed continues to crank the printer...
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okicjz/inflation_alert_bank_of_canada_and_bank_of_new/](https://www.reddit.com/r/Superstonk/comments/okicjz/inflation_alert_bank_of_canada_and_bank_of_new/)
+# Title: INFLATION ALERT! Bank of Canada and Bank of New Zealand begin preparing for persistent inflation. The Fed continues to crank the printer...
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okicjz/inflation_alert_bank_of_canada_and_bank_of_new/](https://www.reddit.com/r/Superstonk/comments/okicjz/inflation_alert_bank_of_canada_and_bank_of_new/)
 
 
 ![Good evening r\/Superstonk, Jellyfish back with you with an inflation update! ](https://i.redd.it/fp1191y5y9b71.gif)

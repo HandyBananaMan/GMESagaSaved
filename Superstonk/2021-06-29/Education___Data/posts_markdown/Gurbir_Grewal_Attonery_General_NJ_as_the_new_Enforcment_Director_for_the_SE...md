@@ -1,6 +1,6 @@
-#Title: Gurbir Grewal, Attonery General (N.J) as the new Enforcment Director for the SEC
-#Author: love_butter69
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/](https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/)
+# Title: Gurbir Grewal, Attonery General (N.J) as the new Enforcment Director for the SEC
+# Author: love_butter69
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/](https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/)
 
 
 Gurbir Grewal, Attonery General (N.J) will be the new Enforcment Director for the SEC. 

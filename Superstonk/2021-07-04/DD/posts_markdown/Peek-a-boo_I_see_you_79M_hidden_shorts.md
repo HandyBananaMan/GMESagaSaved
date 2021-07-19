@@ -1,6 +1,6 @@
-#Title: Peek-a-boo! I see you 79M hidden shorts!
-#Author: WhatCanIMakeToday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/](https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/)
+# Title: Peek-a-boo! I see you 79M hidden shorts!
+# Author: WhatCanIMakeToday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/](https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/)
 
 
 **tl;dr:** I found around **79M** can kicked shares in Jan 2021 using the married put approach.  We can see those cans kicked out 1, 2, 3, 6, 12, and 24 months from Jan 2021 at various options expirations.

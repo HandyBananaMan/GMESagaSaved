@@ -1,6 +1,6 @@
-#Title: This is NOT a squeeze!
-#Author: Scythro_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkx4tj/this_is_not_a_squeeze/](https://www.reddit.com/r/Superstonk/comments/nkx4tj/this_is_not_a_squeeze/)
+# Title: This is NOT a squeeze!
+# Author: Scythro_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkx4tj/this_is_not_a_squeeze/](https://www.reddit.com/r/Superstonk/comments/nkx4tj/this_is_not_a_squeeze/)
 
 
 This is an FTD cycle of the T+21 variety combined with a small gamma ramp! 

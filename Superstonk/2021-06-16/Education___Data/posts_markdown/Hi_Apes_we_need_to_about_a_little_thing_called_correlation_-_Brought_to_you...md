@@ -1,6 +1,6 @@
-#Title: Hi Apes, we need to about a little thing called “correlation” - Brought to you by the Superstonk Quants 🦍 📊 👨‍💻🚀
-#Author: orangecatmasterrace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/](https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/)
+# Title: Hi Apes, we need to about a little thing called “correlation” - Brought to you by the Superstonk Quants 🦍 📊 👨‍💻🚀
+# Author: orangecatmasterrace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/](https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/)
 
 
 Hi everyone, u/orangecatmasterrace here to discuss correlation, statistics, and things that we need to keep in mind when putting together our DD, specifically using this particular measure. I'm hoping to share this information so that this sub as a whole can be **more data-driven** in the compiling of our DDs and **more purposeful** in how we share this information with the rest of the apes.

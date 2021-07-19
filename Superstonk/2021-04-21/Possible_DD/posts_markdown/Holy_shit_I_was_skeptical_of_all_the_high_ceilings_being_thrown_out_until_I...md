@@ -1,6 +1,6 @@
-#Title: Holy shit. I was skeptical of all the high ceilings being thrown out until I put the pieces together. I honestly think GME is priceless, and the most valuable stock you will ever buy. Here's the full picture, as I understand it...
-#Author: missing_the_point_
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/](https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/)
+# Title: Holy shit. I was skeptical of all the high ceilings being thrown out until I put the pieces together. I honestly think GME is priceless, and the most valuable stock you will ever buy. Here's the full picture, as I understand it...
+# Author: missing_the_point_
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/](https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/)
 
 
 First of all, I’d like to start off by stating this post is completely nonpartisan. GME is not a political debate, it’s a class war.

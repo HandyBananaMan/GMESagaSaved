@@ -1,6 +1,6 @@
-#Title: NO DEEP ITM CALLS PURCHASED IN LARGE QUANTITIES TODAY (4/19)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mueq2m/no_deep_itm_calls_purchased_in_large_quantities/](https://www.reddit.com/r/Superstonk/comments/mueq2m/no_deep_itm_calls_purchased_in_large_quantities/)
+# Title: NO DEEP ITM CALLS PURCHASED IN LARGE QUANTITIES TODAY (4/19)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mueq2m/no_deep_itm_calls_purchased_in_large_quantities/](https://www.reddit.com/r/Superstonk/comments/mueq2m/no_deep_itm_calls_purchased_in_large_quantities/)
 
 
 Good evening Apes,

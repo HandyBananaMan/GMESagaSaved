@@ -1,6 +1,6 @@
-#Title: MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21
-#Author: Lolly_Jaw
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/)
+# Title: MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21
+# Author: Lolly_Jaw
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/)
 
 
 **Hi-diddly-doo fellow Aperino's!**

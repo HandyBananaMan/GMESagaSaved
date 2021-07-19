@@ -1,6 +1,6 @@
-#Title: Ken's stupid Shitadel trying to shape the narrative towards retail stimmies being the cause of an upcoming surge GME....BUT IT CONFIRMS THAT HE KNOWS A SURGE IS COMING. 🚀🚀🚀🚀
-#Author: Low-Attempt1752
-#Post URL: [https://www.reddit.com/r/GME/comments/mf8ona/kens_stupid_shitadel_trying_to_shape_the/](https://www.reddit.com/r/GME/comments/mf8ona/kens_stupid_shitadel_trying_to_shape_the/)
+# Title: Ken's stupid Shitadel trying to shape the narrative towards retail stimmies being the cause of an upcoming surge GME....BUT IT CONFIRMS THAT HE KNOWS A SURGE IS COMING. 🚀🚀🚀🚀
+# Author: Low-Attempt1752
+# Post URL: [https://www.reddit.com/r/GME/comments/mf8ona/kens_stupid_shitadel_trying_to_shape_the/](https://www.reddit.com/r/GME/comments/mf8ona/kens_stupid_shitadel_trying_to_shape_the/)
 
 
 Check out this article 

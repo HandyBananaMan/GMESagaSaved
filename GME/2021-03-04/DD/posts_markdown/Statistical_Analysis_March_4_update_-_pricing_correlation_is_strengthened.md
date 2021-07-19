@@ -1,6 +1,6 @@
-#Title: Statistical Analysis: March 4 update - pricing correlation is strengthened
-#Author: oaf_king
-#Post URL: [https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/](https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/)
+# Title: Statistical Analysis: March 4 update - pricing correlation is strengthened
+# Author: oaf_king
+# Post URL: [https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/](https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/)
 
 
 Hi all,

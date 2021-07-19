@@ -1,6 +1,6 @@
-#Title: Walkin' like a duck. Talkin' like a duck
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/](https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/)
+# Title: Walkin' like a duck. Talkin' like a duck
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/](https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/)
 
 
 **TL;DR - I have prepared a case which strongly indicates that Citadel Securities, along with it's "affiliates" are committing securities fraud. On March 26th 2021, FINRA released a new citation against Citadel Securities for nearly 2 years worth of securities violations. The only reason Citadel HASN'T been busted for fraud is because they hide behind the veil of 'unintentional' behavior. However, this post illustrates how Citadel's actions flag ALL 3 corners of the fraud triangle-** ***pressure, motivation, and opportunity.*** **It's time for these people to be held accountable.**

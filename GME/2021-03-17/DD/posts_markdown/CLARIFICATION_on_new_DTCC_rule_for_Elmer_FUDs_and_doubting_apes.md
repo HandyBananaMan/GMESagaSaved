@@ -1,6 +1,6 @@
-#Title: 🛑CLARIFICATION🛑 on new DTCC rule for Elmer FUDs and doubting apes.
-#Author: SurpriseNinja
-#Post URL: [https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/](https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/)
+# Title: 🛑CLARIFICATION🛑 on new DTCC rule for Elmer FUDs and doubting apes.
+# Author: SurpriseNinja
+# Post URL: [https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/](https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/)
 
 
 While browsing the comments on /u/heyitspixel's latest post regarding [the new DTCC rule being effective immediately](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/?sort=top), I saw some fear and FUD around some of the verbiage in the document. I'd like to provide some clarity on the particular issue of DTC reducing their liability.

@@ -1,6 +1,6 @@
-#Title: The GME Masters' Guide: A DD Campaign for Apes Levels 1-20 (The GME Story in 100 DDs)
-#Author: Blanderson_Snooper
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/)
+# Title: The GME Masters' Guide: A DD Campaign for Apes Levels 1-20 (The GME Story in 100 DDs)
+# Author: Blanderson_Snooper
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/)
 
 
 Hi all, Blanderson here, back this time with all the DD you wanted in a story you didn't ask for.

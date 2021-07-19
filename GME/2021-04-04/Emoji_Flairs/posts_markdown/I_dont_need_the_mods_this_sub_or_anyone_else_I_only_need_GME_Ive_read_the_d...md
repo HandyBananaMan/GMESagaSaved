@@ -1,6 +1,6 @@
-#Title: I don’t need the mods, this sub, or anyone else. I only need GME. I’ve read the dd, I know what to do. You know what to do. It’s just another day. Buy and hold fellow ape. Disregard the fud and division. Everything will be okay, it’s just a sign of how close we are.
-#Author: fusionnnnnnnha
-#Post URL: [https://www.reddit.com/r/GME/comments/mk8ri7/i_dont_need_the_mods_this_sub_or_anyone_else_i/](https://www.reddit.com/r/GME/comments/mk8ri7/i_dont_need_the_mods_this_sub_or_anyone_else_i/)
+# Title: I don’t need the mods, this sub, or anyone else. I only need GME. I’ve read the dd, I know what to do. You know what to do. It’s just another day. Buy and hold fellow ape. Disregard the fud and division. Everything will be okay, it’s just a sign of how close we are.
+# Author: fusionnnnnnnha
+# Post URL: [https://www.reddit.com/r/GME/comments/mk8ri7/i_dont_need_the_mods_this_sub_or_anyone_else_i/](https://www.reddit.com/r/GME/comments/mk8ri7/i_dont_need_the_mods_this_sub_or_anyone_else_i/)
 
 
 Hold fast.  A true journey is one where you leave to find the answers, only to find you had the answers the whole time. **Buy and Hold.** 

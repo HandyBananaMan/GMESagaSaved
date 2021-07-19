@@ -1,6 +1,6 @@
-#Title: CHAOS THEORY - The FINAL Connection
-#Author: sharkbaitlol
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/](https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/)
+# Title: CHAOS THEORY - The FINAL Connection
+# Author: sharkbaitlol
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/](https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/)
 
 
 The final picture is starting to come together. The ties of the former CFTC (who now works for citadel) & SEC chairmen to the industry appear to be pointing to fraudulent activity in efforts to prolong the necessity of **SOFR** being implemented. **SOFR** the last time it was attempted to transitioned into (in 2019) almost IMPLODED the market due to many realizing that banks and others could not handle a higher interest rate (based off the [DAILY TRESURY YIELD RATE](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield))  versus the fabricated one that banks provide.

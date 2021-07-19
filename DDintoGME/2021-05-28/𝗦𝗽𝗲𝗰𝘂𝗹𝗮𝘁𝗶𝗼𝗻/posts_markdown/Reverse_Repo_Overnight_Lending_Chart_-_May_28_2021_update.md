@@ -1,6 +1,6 @@
-#Title: Reverse Repo Overnight Lending Chart - May 28 2021 update
-#Author: HODLTheLineMyFriend
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nn2yfa/reverse_repo_overnight_lending_chart_may_28_2021/](https://www.reddit.com/r/DDintoGME/comments/nn2yfa/reverse_repo_overnight_lending_chart_may_28_2021/)
+# Title: Reverse Repo Overnight Lending Chart - May 28 2021 update
+# Author: HODLTheLineMyFriend
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nn2yfa/reverse_repo_overnight_lending_chart_may_28_2021/](https://www.reddit.com/r/DDintoGME/comments/nn2yfa/reverse_repo_overnight_lending_chart_may_28_2021/)
 
 
 Latest from the NY Fed Desk, $479.5B in reverse repo treasury lending with 50 counterparties ([link](https://apps.newyorkfed.org/markets/autorates/temp)). Down by only 1%, counterparties unchanged. R^(2) value still at 0.95 on the curve. See below for what this means and how it \*might\* relate to GME. 

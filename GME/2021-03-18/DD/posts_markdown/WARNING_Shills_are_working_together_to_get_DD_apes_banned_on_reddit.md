@@ -1,6 +1,6 @@
-#Title: WARNING!!! Shills are working together to get DD apes banned on reddit
-#Author: pingidjit13
-#Post URL: [https://www.reddit.com/r/GME/comments/m83u3f/warning_shills_are_working_together_to_get_dd/](https://www.reddit.com/r/GME/comments/m83u3f/warning_shills_are_working_together_to_get_dd/)
+# Title: WARNING!!! Shills are working together to get DD apes banned on reddit
+# Author: pingidjit13
+# Post URL: [https://www.reddit.com/r/GME/comments/m83u3f/warning_shills_are_working_together_to_get_dd/](https://www.reddit.com/r/GME/comments/m83u3f/warning_shills_are_working_together_to_get_dd/)
 
 
 A popular daily DD ape known as Warden\_Elite was banned after being falsely accused of hateful comments today, see his tweet for proof. Make sure you follow relevant apes that you find valuable for info on other social media platforms so that this new tactic by shills wont work.

@@ -1,6 +1,6 @@
-#Title: a followup to the HoC DD- the "everything" in Everything Short. I present, RAGNAROK
-#Author: mybustersword
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/](https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/)
+# Title: a followup to the HoC DD- the "everything" in Everything Short. I present, RAGNAROK
+# Author: mybustersword
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/](https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/)
 
 
  Atobitt made some great DD. House of Cards 1-3. Everything Short. Classics. However, part 2 and 3 of HoC felt *incomplete*. No offense to the man, no offense to the data. I think it is spot on, i think we all know what to do. HODL.

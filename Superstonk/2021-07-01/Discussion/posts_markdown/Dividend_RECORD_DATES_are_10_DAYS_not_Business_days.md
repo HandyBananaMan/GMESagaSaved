@@ -1,6 +1,6 @@
-#Title: Dividend RECORD DATES are 10 DAYS not Business days.
-#Author: HealsOnWheals
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/obpcj6/dividend_record_dates_are_10_days_not_business/](https://www.reddit.com/r/Superstonk/comments/obpcj6/dividend_record_dates_are_10_days_not_business/)
+# Title: Dividend RECORD DATES are 10 DAYS not Business days.
+# Author: HealsOnWheals
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/obpcj6/dividend_record_dates_are_10_days_not_business/](https://www.reddit.com/r/Superstonk/comments/obpcj6/dividend_record_dates_are_10_days_not_business/)
 
 
 [Straight from sec.gov](https://www.sec.gov/rules/sro/nyseamer/2018/34-82864-ex5.pdf)  

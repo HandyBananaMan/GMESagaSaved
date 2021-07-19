@@ -1,6 +1,6 @@
-#Title: Tesla will be the MOASS indicator
-#Author: lolailo_le
-#Post URL: [https://www.reddit.com/r/GME/comments/nulqli/tesla_will_be_the_moass_indicator/](https://www.reddit.com/r/GME/comments/nulqli/tesla_will_be_the_moass_indicator/)
+# Title: Tesla will be the MOASS indicator
+# Author: lolailo_le
+# Post URL: [https://www.reddit.com/r/GME/comments/nulqli/tesla_will_be_the_moass_indicator/](https://www.reddit.com/r/GME/comments/nulqli/tesla_will_be_the_moass_indicator/)
 
 
 Hi my fellow apes!

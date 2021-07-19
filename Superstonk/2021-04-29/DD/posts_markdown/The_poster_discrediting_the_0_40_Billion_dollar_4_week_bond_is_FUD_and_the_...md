@@ -1,6 +1,6 @@
-#Title: The poster discrediting the 0% 40 Billion dollar 4 week bond is FUD and the last time it hit 0% was at the bottom of the Covid crash.
-#Author: brockm20
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/](https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/)
+# Title: The poster discrediting the 0% 40 Billion dollar 4 week bond is FUD and the last time it hit 0% was at the bottom of the Covid crash.
+# Author: brockm20
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/](https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/)
 
 
 There is a poster spamming posts that amount to "Chill out it's nothing", so far counting 33 comments between the largest submissions on the sub. 

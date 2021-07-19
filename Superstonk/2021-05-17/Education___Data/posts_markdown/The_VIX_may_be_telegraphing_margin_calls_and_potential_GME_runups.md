@@ -1,6 +1,6 @@
-#Title: The VIX may be telegraphing margin calls and potential GME runups
-#Author: vaseline_sandwich
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/](https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/)
+# Title: The VIX may be telegraphing margin calls and potential GME runups
+# Author: vaseline_sandwich
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/](https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/)
 
 
 *First off, this post is not to persuade anyone to invest in anything other than GME.  The VIX is a tool to gauge risk, fear, or stress in the market.  I wouldn't recommend anyone invest in it even under extraordinary circumstances.  And honestly, GME is the perfect hedge against market instability, last time I saw a Bloomberg terminal raw beta was like negative 35.*

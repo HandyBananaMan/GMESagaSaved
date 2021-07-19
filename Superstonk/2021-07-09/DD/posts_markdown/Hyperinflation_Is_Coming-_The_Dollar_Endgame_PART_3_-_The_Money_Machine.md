@@ -1,6 +1,6 @@
-#Title: Hyperinflation Is Coming- The Dollar Endgame PART 3 - "The Money Machine"
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/)
+# Title: Hyperinflation Is Coming- The Dollar Endgame PART 3 - "The Money Machine"
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/)
 
 
 **I am getting increasingly worried about the amount of warning signals that are flashing red for hyperinflation- I believe the process has already begun, as I will lay out in this paper. The first stages of hyperinflation begin slowly, and as this is an exponential process, most people will not grasp the true extent of it until it is too late.** I know I’m going to gloss over a lot of stuff going over this, sorry about this but I need to fit it all into four posts without giving everyone a 400 page treatise on macro-economics to read. Counter-DDs and opinions welcome. This is going to be a lot longer than a normal DD, but I promise the pay-off is worth it, knowing the history is key to understanding where we are today.

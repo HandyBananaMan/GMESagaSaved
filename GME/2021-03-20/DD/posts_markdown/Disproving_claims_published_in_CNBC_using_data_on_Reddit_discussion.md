@@ -1,6 +1,6 @@
-#Title: Disproving claims published in CNBC using data on Reddit discussion
-#Author: pdwp90
-#Post URL: [https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/](https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/)
+# Title: Disproving claims published in CNBC using data on Reddit discussion
+# Author: pdwp90
+# Post URL: [https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/](https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/)
 
 
 Yesterday, CNBC and Market Watch published [articles](https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html) on research concluding that we shouldn't expect people to use stimulus money to buy GameStop stock. One of the main justifications they gave for this conclusion was that “the number of recent conversations \[on Reddit\] including both GME and stimulus is low.”

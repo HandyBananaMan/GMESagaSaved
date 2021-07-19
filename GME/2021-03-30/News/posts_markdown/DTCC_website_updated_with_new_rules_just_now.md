@@ -1,6 +1,6 @@
-#Title: DTCC website updated with new rules just now
-#Author: Potashe
-#Post URL: [https://www.reddit.com/r/GME/comments/mgh4vk/dtcc_website_updated_with_new_rules_just_now/](https://www.reddit.com/r/GME/comments/mgh4vk/dtcc_website_updated_with_new_rules_just_now/)
+# Title: DTCC website updated with new rules just now
+# Author: Potashe
+# Post URL: [https://www.reddit.com/r/GME/comments/mgh4vk/dtcc_website_updated_with_new_rules_just_now/](https://www.reddit.com/r/GME/comments/mgh4vk/dtcc_website_updated_with_new_rules_just_now/)
 
 
 [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)

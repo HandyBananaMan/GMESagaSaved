@@ -1,6 +1,6 @@
-#Title: Cohen has reached the same conclusion as u/Criand's T+21 Net Capital thesis: An analysis of tweet activity and corporate announcements
-#Author: Nalifi
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/](https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/)
+# Title: Cohen has reached the same conclusion as u/Criand's T+21 Net Capital thesis: An analysis of tweet activity and corporate announcements
+# Author: Nalifi
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/](https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/)
 
 
 *This is not financial advice. I am a retard who always lets one banana in the bunch he buys go bad because I can’t time eating the bananas correctly.*

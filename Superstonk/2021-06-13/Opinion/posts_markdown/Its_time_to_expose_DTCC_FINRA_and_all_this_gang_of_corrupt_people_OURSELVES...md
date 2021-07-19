@@ -1,6 +1,6 @@
-#Title: It's time to expose DTCC FINRA and all this gang of corrupt people OURSELVES and ICIJ can help us.
-#Author: Particular-Salt146
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/](https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/)
+# Title: It's time to expose DTCC FINRA and all this gang of corrupt people OURSELVES and ICIJ can help us.
+# Author: Particular-Salt146
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/](https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/)
 
 
 &#x200B;

@@ -1,3 +1,4 @@
+# Title: Fuck the Lambo I just want the good toilet paper
 # Author: Gleb_Ate_The_Mudpie
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/narfj0/fuck_the_lambo_i_just_want_the_good_toilet_paper/](https://www.reddit.com/r/Superstonk/comments/narfj0/fuck_the_lambo_i_just_want_the_good_toilet_paper/)
 

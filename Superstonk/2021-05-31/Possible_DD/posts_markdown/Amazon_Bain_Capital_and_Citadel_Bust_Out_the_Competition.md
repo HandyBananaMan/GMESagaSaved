@@ -1,6 +1,6 @@
-#Title: Amazon, Bain Capital and Citadel Bust Out the Competition
-#Author: jumpster81
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)
+# Title: Amazon, Bain Capital and Citadel Bust Out the Competition
+# Author: jumpster81
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)
 
 
 What is a bust out?

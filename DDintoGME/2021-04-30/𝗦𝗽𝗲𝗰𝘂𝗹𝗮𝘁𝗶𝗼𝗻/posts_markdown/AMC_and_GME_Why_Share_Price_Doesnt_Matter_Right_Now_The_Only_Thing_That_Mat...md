@@ -1,6 +1,6 @@
-#Title: $AMC and $GME: Why Share Price Doesn't Matter Right Now. The Only Thing That Matters are the Regulations Coming Into Effect and Why They Lead Us to A Specific Date That the Squeezes Could be Initiated. $AMC $GME
-#Author: BeebsGaming
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/)
+# Title: $AMC and $GME: Why Share Price Doesn't Matter Right Now. The Only Thing That Matters are the Regulations Coming Into Effect and Why They Lead Us to A Specific Date That the Squeezes Could be Initiated. $AMC $GME
+# Author: BeebsGaming
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/)
 
 
 Repost with numerous revisions from the more wrinkle brained of our bretheren. Thank you commentors on my post in r/DDintoGME who helped me edit this post.

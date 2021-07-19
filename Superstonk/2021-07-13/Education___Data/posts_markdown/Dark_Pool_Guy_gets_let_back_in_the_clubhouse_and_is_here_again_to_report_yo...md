@@ -1,6 +1,6 @@
-#Title: Dark Pool Guy gets let back in the clubhouse and is here again to report your Top 30 Dark Pool Positions for July 12, 2021!! GME Plummets to #29, shedding $234.73M since July 2, bringing the share count down to 3.49M!! Volume stays below 2M for the 2nd straight day as we play /u dLauer Bingo!!!!!!!
-#Author: Appropriate_Elk_3827
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj9v9a/dark_pool_guy_gets_let_back_in_the_clubhouse_and/](https://www.reddit.com/r/Superstonk/comments/oj9v9a/dark_pool_guy_gets_let_back_in_the_clubhouse_and/)
+# Title: Dark Pool Guy gets let back in the clubhouse and is here again to report your Top 30 Dark Pool Positions for July 12, 2021!! GME Plummets to #29, shedding $234.73M since July 2, bringing the share count down to 3.49M!! Volume stays below 2M for the 2nd straight day as we play /u dLauer Bingo!!!!!!!
+# Author: Appropriate_Elk_3827
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj9v9a/dark_pool_guy_gets_let_back_in_the_clubhouse_and/](https://www.reddit.com/r/Superstonk/comments/oj9v9a/dark_pool_guy_gets_let_back_in_the_clubhouse_and/)
 
 
 Top 30 Dark Pool Positions for July 12, 2021 ([https://GameStonkTerminal.vercel.app](https://gamestonkterminal.vercel.app/))

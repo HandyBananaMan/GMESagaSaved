@@ -1,6 +1,6 @@
-#Title: Dark Pool Guy here baling water from the life raft as we row to a deserted island after a tumultuous few weeks of unnecessary distraction events! GME returns to climbing the charts, up to #27 in the Top 30 Dark Pool Positions with 4.34M shares worth $840M!! Somebody grab that can before the kick!!!
-#Author: Appropriate_Elk_3827
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omygwp/dark_pool_guy_here_baling_water_from_the_life/](https://www.reddit.com/r/GMEJungle/comments/omygwp/dark_pool_guy_here_baling_water_from_the_life/)
+# Title: Dark Pool Guy here baling water from the life raft as we row to a deserted island after a tumultuous few weeks of unnecessary distraction events! GME returns to climbing the charts, up to #27 in the Top 30 Dark Pool Positions with 4.34M shares worth $840M!! Somebody grab that can before the kick!!!
+# Author: Appropriate_Elk_3827
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omygwp/dark_pool_guy_here_baling_water_from_the_life/](https://www.reddit.com/r/GMEJungle/comments/omygwp/dark_pool_guy_here_baling_water_from_the_life/)
 
 
 Apes, let's get this party started over in the Jungle and also get back to playing the game to win!

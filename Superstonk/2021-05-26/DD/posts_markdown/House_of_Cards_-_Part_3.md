@@ -1,6 +1,6 @@
-#Title: House of Cards - Part 3
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)
+# Title: House of Cards - Part 3
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)
 
 
  ***Prerequisite DD:***

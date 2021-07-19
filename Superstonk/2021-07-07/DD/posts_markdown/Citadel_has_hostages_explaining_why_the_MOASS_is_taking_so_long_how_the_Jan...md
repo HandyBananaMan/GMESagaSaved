@@ -1,6 +1,6 @@
-#Title: Citadel has hostages: explaining why the MOASS is taking so long, how the January spike was stopped, Robinhood's motives for the trading halt, and the mysterious silence of the SEC
-#Author: Bladeace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofdhkk/citadel_has_hostages_explaining_why_the_moass_is/](https://www.reddit.com/r/Superstonk/comments/ofdhkk/citadel_has_hostages_explaining_why_the_moass_is/)
+# Title: Citadel has hostages: explaining why the MOASS is taking so long, how the January spike was stopped, Robinhood's motives for the trading halt, and the mysterious silence of the SEC
+# Author: Bladeace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofdhkk/citadel_has_hostages_explaining_why_the_moass_is/](https://www.reddit.com/r/Superstonk/comments/ofdhkk/citadel_has_hostages_explaining_why_the_moass_is/)
 
 
 **TA;DR:** The January MOASS is delayed because Citadel took hostages. They figured out how to ensure that others would be squeezed before they were. January 28th is the day Robinhood was required to deliver some of the GME shares Citadel owed to its customers, so they halted trading. They halted trading because their relationship with Citadel turned them into a hostage. The MOASS waits until new regulations ensure the hostages are safe...

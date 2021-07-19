@@ -1,6 +1,6 @@
-#Title: The final nail for Citadel – And you’re holding the HAMMER!!! 🚀
-#Author: gmorgan99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/)
+# Title: The final nail for Citadel – And you’re holding the HAMMER!!! 🚀
+# Author: gmorgan99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/)
 
 
 This is a summary of what we have discovered:

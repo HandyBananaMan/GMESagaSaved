@@ -1,6 +1,6 @@
-#Title: Huge red volume today at 110million on Dow Jones. The other times the volume were this big was September and October 2008 at 60-80million. Source below
-#Author: marsbar95
-#Post URL: [https://www.reddit.com/r/GME/comments/mhg0e5/huge_red_volume_today_at_110million_on_dow_jones/](https://www.reddit.com/r/GME/comments/mhg0e5/huge_red_volume_today_at_110million_on_dow_jones/)
+# Title: Huge red volume today at 110million on Dow Jones. The other times the volume were this big was September and October 2008 at 60-80million. Source below
+# Author: marsbar95
+# Post URL: [https://www.reddit.com/r/GME/comments/mhg0e5/huge_red_volume_today_at_110million_on_dow_jones/](https://www.reddit.com/r/GME/comments/mhg0e5/huge_red_volume_today_at_110million_on_dow_jones/)
 
 
 If a smarter ape can elaborate would be great. Sounds like good news tbh

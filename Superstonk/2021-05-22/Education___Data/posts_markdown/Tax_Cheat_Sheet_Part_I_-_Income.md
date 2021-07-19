@@ -1,6 +1,6 @@
-#Title: Tax Cheat Sheet Part I - Income
-#Author: areallygoodsandwhich
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/](https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/)
+# Title: Tax Cheat Sheet Part I - Income
+# Author: areallygoodsandwhich
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/](https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/)
 
 
 Howdy Everyone,

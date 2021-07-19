@@ -1,6 +1,6 @@
-#Title: Order Flow and Options Manipulators: The Heinous Crimes of Citadel and Susquehanna
-#Author: beowulf77
-#Post URL: [https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/](https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/)
+# Title: Order Flow and Options Manipulators: The Heinous Crimes of Citadel and Susquehanna
+# Author: beowulf77
+# Post URL: [https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/](https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/)
 
 
 A short story fan fiction posted on behalf of Wuz:

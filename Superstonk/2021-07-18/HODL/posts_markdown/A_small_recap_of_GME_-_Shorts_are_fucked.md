@@ -1,6 +1,6 @@
-#Title: A small recap of GME - Shorts are fucked
-#Author: PowerRaptor
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omk4ch/a_small_recap_of_gme_shorts_are_fucked/](https://www.reddit.com/r/Superstonk/comments/omk4ch/a_small_recap_of_gme_shorts_are_fucked/)
+# Title: A small recap of GME - Shorts are fucked
+# Author: PowerRaptor
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omk4ch/a_small_recap_of_gme_shorts_are_fucked/](https://www.reddit.com/r/Superstonk/comments/omk4ch/a_small_recap_of_gme_shorts_are_fucked/)
 
 
 *The list below is how I understand the events of GME based on the DD I've read across all investment subreddits, but especially this one. Correct me if I get any parts wrong, and I'll edit*

@@ -1,6 +1,6 @@
-#Title: Unverified - XRT Married Puts - Visualized
-#Author: Leenixus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omg8fm/unverified_xrt_married_puts_visualized/](https://www.reddit.com/r/Superstonk/comments/omg8fm/unverified_xrt_married_puts_visualized/)
+# Title: Unverified - XRT Married Puts - Visualized
+# Author: Leenixus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omg8fm/unverified_xrt_married_puts_visualized/](https://www.reddit.com/r/Superstonk/comments/omg8fm/unverified_xrt_married_puts_visualized/)
 
 
 I decided to check XRT and IWM for married puts before the reconstitution and rebalance.

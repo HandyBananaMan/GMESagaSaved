@@ -1,6 +1,6 @@
-#Title: DD Reposting for visibility: The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
-#Author: Just_wondering_bro
-#Post URL: [https://www.reddit.com/r/GME/comments/mgq7am/dd_reposting_for_visibility_the_naked_shorting/](https://www.reddit.com/r/GME/comments/mgq7am/dd_reposting_for_visibility_the_naked_shorting/)
+# Title: DD Reposting for visibility: The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
+# Author: Just_wondering_bro
+# Post URL: [https://www.reddit.com/r/GME/comments/mgq7am/dd_reposting_for_visibility_the_naked_shorting/](https://www.reddit.com/r/GME/comments/mgq7am/dd_reposting_for_visibility_the_naked_shorting/)
 
 
 Full credit goes to u/broccaaa he got banned for accidently having an alt-right link in the DD. 

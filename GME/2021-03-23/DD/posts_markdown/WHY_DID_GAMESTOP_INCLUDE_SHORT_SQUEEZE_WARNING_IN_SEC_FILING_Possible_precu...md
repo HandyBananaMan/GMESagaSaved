@@ -1,6 +1,6 @@
-#Title: WHY DID GAMESTOP INCLUDE SHORT SQUEEZE WARNING IN SEC FILING? Possible precursor to their next move...🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
-#Author: Dwellerofthecrags
-#Post URL: [https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/](https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/)
+# Title: WHY DID GAMESTOP INCLUDE SHORT SQUEEZE WARNING IN SEC FILING? Possible precursor to their next move...🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+# Author: Dwellerofthecrags
+# Post URL: [https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/](https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/)
 
 
 First of all, the following is not financial advice and I'm not a financial advisor.

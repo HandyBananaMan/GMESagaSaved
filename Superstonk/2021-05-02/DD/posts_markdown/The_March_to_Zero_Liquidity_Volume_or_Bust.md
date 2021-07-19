@@ -1,6 +1,6 @@
-#Title: The March to Zero Liquidity: Volume or Bust
-#Author: Suspicious-Singer243
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/)
+# Title: The March to Zero Liquidity: Volume or Bust
+# Author: Suspicious-Singer243
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/)
 
 
 **Edit 1: Requested TL;DR -** Remember that scene in Independence Day where the great Will Smith during a dogfight takes the baddie alien super low and into the canyon before they both crash? Or when we lost the indomitable Jamie Foxx in Stealth? Well, the lower you go the higher the probability there is for fatal error. GME volume has been suppressed to a point where any slight mistake by Citadel or added buy pressure will make price go BOOM.

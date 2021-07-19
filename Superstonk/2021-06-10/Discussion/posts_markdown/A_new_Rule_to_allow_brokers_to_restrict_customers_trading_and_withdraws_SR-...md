@@ -1,6 +1,6 @@
-#Title: A new Rule to allow brokers to restrict customer's trading and withdraws. SR-FINRA-2021-016 will allow firms to place a hold for up to ~~25~~55 days on a customer's ability to trade and/or withdraw funds when there is a reasonable belief the customer is being exploited. **CALLING ALL BIG BRAINS**
-#Author: morebikesthanbrains
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/](https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/)
+# Title: A new Rule to allow brokers to restrict customer's trading and withdraws. SR-FINRA-2021-016 will allow firms to place a hold for up to ~~25~~55 days on a customer's ability to trade and/or withdraw funds when there is a reasonable belief the customer is being exploited. **CALLING ALL BIG BRAINS**
+# Author: morebikesthanbrains
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/](https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/)
 
 
 EDIT6: from /u/thisisnotameme2020 

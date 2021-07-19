@@ -1,6 +1,6 @@
-#Title: GME is most likely the most shorted stock in the history of Wall Street, possibly as much as 2000%. The hedgefunds has been hiding their shorts using synthetic shares, ETF's, dark-pools, etc. -from Yahoo Finance
-#Author: AndyLee168
-#Post URL: [https://www.reddit.com/r/GME/comments/nktzi6/gme_is_most_likely_the_most_shorted_stock_in_the/](https://www.reddit.com/r/GME/comments/nktzi6/gme_is_most_likely_the_most_shorted_stock_in_the/)
+# Title: GME is most likely the most shorted stock in the history of Wall Street, possibly as much as 2000%. The hedgefunds has been hiding their shorts using synthetic shares, ETF's, dark-pools, etc. -from Yahoo Finance
+# Author: AndyLee168
+# Post URL: [https://www.reddit.com/r/GME/comments/nktzi6/gme_is_most_likely_the_most_shorted_stock_in_the/](https://www.reddit.com/r/GME/comments/nktzi6/gme_is_most_likely_the_most_shorted_stock_in_the/)
 
 
 Sharing a good read from Yahoo Finance 

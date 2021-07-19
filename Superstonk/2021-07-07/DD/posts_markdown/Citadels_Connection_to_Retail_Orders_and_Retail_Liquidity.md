@@ -1,6 +1,6 @@
-#Title: Citadel's Connection to Retail Orders and Retail Liquidity
-#Author: djk934
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/](https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/)
+# Title: Citadel's Connection to Retail Orders and Retail Liquidity
+# Author: djk934
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/](https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/)
 
 
 Previously I did a [DD on retail interest on GME](https://www.reddit.com/r/Superstonk/comments/oabdv7/gmes_retail_interest_examining_the_retail/) that focused on the numbers and  some of the information here is a repost from that write up, but with a couple of new important points. Since the retail interest continues to update, I also wanted to break off the educational part of that previous post about the Retail Liquidity Program that I could just link back too in the future. Hopefully I will also educate folks about this program that the NYSE runs since it gives us apes special information about how many shares retail is putting in orders for each week. This will also allow me/some other ape to move to more weekly updates on the actual data from the retail liquidity program.

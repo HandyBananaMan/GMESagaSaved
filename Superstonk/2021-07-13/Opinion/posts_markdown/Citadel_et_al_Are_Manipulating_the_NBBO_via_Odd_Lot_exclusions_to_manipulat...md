@@ -1,6 +1,6 @@
-#Title: Citadel et al Are Manipulating the NBBO, via Odd Lot exclusions, to manipulate the GME price
-#Author: incandescent-leaf
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojn4oi/citadel_et_al_are_manipulating_the_nbbo_via_odd/](https://www.reddit.com/r/Superstonk/comments/ojn4oi/citadel_et_al_are_manipulating_the_nbbo_via_odd/)
+# Title: Citadel et al Are Manipulating the NBBO, via Odd Lot exclusions, to manipulate the GME price
+# Author: incandescent-leaf
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojn4oi/citadel_et_al_are_manipulating_the_nbbo_via_odd/](https://www.reddit.com/r/Superstonk/comments/ojn4oi/citadel_et_al_are_manipulating_the_nbbo_via_odd/)
 
 
 I won't have time until next few days to post into my DD about wash trading, which I think it's incredibly relevent for the price we're seeing right now, so I will lay out the skeleton here:

@@ -1,6 +1,6 @@
-#Title: The Jungle Beat- Monday 06-21-2021 🚀🚀🚀
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/)
+# Title: The Jungle Beat- Monday 06-21-2021 🚀🚀🚀
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/)
 
 
 &#x200B;

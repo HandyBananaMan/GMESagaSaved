@@ -1,6 +1,6 @@
-#Title: Windfall management guidance and lol @ 450K OTM puts expiring worthless BECAUSE YOU HAVE WON.
-#Author: Kaizen_Kintsgui
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/om7v0g/windfall_management_guidance_and_lol_450k_otm/](https://www.reddit.com/r/Superstonk/comments/om7v0g/windfall_management_guidance_and_lol_450k_otm/)
+# Title: Windfall management guidance and lol @ 450K OTM puts expiring worthless BECAUSE YOU HAVE WON.
+# Author: Kaizen_Kintsgui
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/om7v0g/windfall_management_guidance_and_lol_450k_otm/](https://www.reddit.com/r/Superstonk/comments/om7v0g/windfall_management_guidance_and_lol_450k_otm/)
 
 
 Hey Apes, I've written a couple posts about this. I'm an OG BeeTeeSea guy. A lot of what I saw back then is what I see now. People that stumbled across something they knew was going to be incredibly valuable in the future and they diamond handed and bought as much as they could.

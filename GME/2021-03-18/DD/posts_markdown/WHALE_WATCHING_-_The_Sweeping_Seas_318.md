@@ -1,6 +1,6 @@
-#Title: WHALE WATCHING - The Sweeping Seas, 3/18
-#Author: G_KG
-#Post URL: [https://www.reddit.com/r/GME/comments/m7xipv/whale_watching_the_sweeping_seas_318/](https://www.reddit.com/r/GME/comments/m7xipv/whale_watching_the_sweeping_seas_318/)
+# Title: WHALE WATCHING - The Sweeping Seas, 3/18
+# Author: G_KG
+# Post URL: [https://www.reddit.com/r/GME/comments/m7xipv/whale_watching_the_sweeping_seas_318/](https://www.reddit.com/r/GME/comments/m7xipv/whale_watching_the_sweeping_seas_318/)
 
 
 Hello ape friends!  Time to gather your crayons and go whale watching!!  So I have been fascinated (read: obsessed) by the movement in the options market for the last week or so.    It seems like the price of the stock is being primarily driven by activity in the options market- [read the first post here](https://www.reddit.com/r/GME/comments/m6ivjc/whale_watching_conversions_with_crayons/?utm_source=share&utm_medium=web2x&context=3), and the [second post here.](https://www.reddit.com/r/GME/comments/m7c0lv/whale_watching_conversions_with_crayons_316/?utm_source=share&utm_medium=web2x&context=3)  This week, our brains have been freshly wrinkled- if you have not read the Gafgarian GME presentation, [FOR THE LOVE OF APE DOWNLOAD AND READ IMMEDIATELY!](https://drive.google.com/file/d/1VL3zAmTPjptr-vevx6PtQzYGZVKNDUZZ/view)  But the main takeaway is: GME has a huuuuuuge number of synthetic stock (the FTD stocks) that hedgies are basically playing hot-potato with in the options market.  Liquidity is getting lower, and lower, and options trading could be one of the last tools in their monkey-shed... ape is hopeful.

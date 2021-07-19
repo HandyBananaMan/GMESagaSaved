@@ -1,6 +1,6 @@
-#Title: A Deep Dive into nft.gamestop.com
-#Author: schismsaints
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/of0swa/a_deep_dive_into_nftgamestopcom/](https://www.reddit.com/r/DDintoGME/comments/of0swa/a_deep_dive_into_nftgamestopcom/)
+# Title: A Deep Dive into nft.gamestop.com
+# Author: schismsaints
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/of0swa/a_deep_dive_into_nftgamestopcom/](https://www.reddit.com/r/DDintoGME/comments/of0swa/a_deep_dive_into_nftgamestopcom/)
 
 
 **To start, PLEASE take a look at the graphic** as it shows the relationships between the GME tokens a lot more clearly than I've seen anywhere else so far -  [GitHub - schismsaints/GME\_NFT](https://github.com/schismsaints/GME_NFT)

@@ -1,6 +1,6 @@
-#Title: NSCC-2021-006 Approved, Effective Immediately
-#Author: Shooting4daMoon
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb1rtp/nscc2021006_approved_effective_immediately/](https://www.reddit.com/r/Superstonk/comments/nb1rtp/nscc2021006_approved_effective_immediately/)
+# Title: NSCC-2021-006 Approved, Effective Immediately
+# Author: Shooting4daMoon
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb1rtp/nscc2021006_approved_effective_immediately/](https://www.reddit.com/r/Superstonk/comments/nb1rtp/nscc2021006_approved_effective_immediately/)
 
 
 The SEC just approved NSCC-2021-006, effective immediately today.

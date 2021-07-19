@@ -1,6 +1,6 @@
-#Title: "PAGE REDACTED IN ITS ENTIRETY"
-#Author: nottagoodidea
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/omsm8z/page_redacted_in_its_entirety/](https://www.reddit.com/r/DDintoGME/comments/omsm8z/page_redacted_in_its_entirety/)
+# Title: "PAGE REDACTED IN ITS ENTIRETY"
+# Author: nottagoodidea
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/omsm8z/page_redacted_in_its_entirety/](https://www.reddit.com/r/DDintoGME/comments/omsm8z/page_redacted_in_its_entirety/)
 
 
 Good morning everyone, I thought I would share this post here in hopes anyone has any thoughts on this info.

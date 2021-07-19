@@ -1,6 +1,6 @@
-#Title: The SR-NSCC-2021-801 CAN be approved AUTOMATICALLY this week. (MAY THE 4TH BE WITH YOU).
-#Author: Door_Public
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/](https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/)
+# Title: The SR-NSCC-2021-801 CAN be approved AUTOMATICALLY this week. (MAY THE 4TH BE WITH YOU).
+# Author: Door_Public
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/](https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/)
 
 
 1. Sorry for my english

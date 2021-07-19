@@ -1,6 +1,6 @@
-#Title: Anyone panicked or worried about today’s price movement needs to take a deep breath and read this. (Upvote for visibility for other new panicked apes)
-#Author: TrumpsStankLips
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nws60a/anyone_panicked_or_worried_about_todays_price/](https://www.reddit.com/r/Superstonk/comments/nws60a/anyone_panicked_or_worried_about_todays_price/)
+# Title: Anyone panicked or worried about today’s price movement needs to take a deep breath and read this. (Upvote for visibility for other new panicked apes)
+# Author: TrumpsStankLips
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nws60a/anyone_panicked_or_worried_about_todays_price/](https://www.reddit.com/r/Superstonk/comments/nws60a/anyone_panicked_or_worried_about_todays_price/)
 
 
 Today’s price movement seems unnatural right? The volume is also unnaturally high for this time of day and with this type of downward movement. 

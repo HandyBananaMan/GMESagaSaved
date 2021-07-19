@@ -1,6 +1,6 @@
-#Title: Citadel, China and The 45th - A Triangular Investigation Into "He’s trying to hide some of his money"
-#Author: incandescent-leaf
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oeptry/citadel_china_and_the_45th_a_triangular/](https://www.reddit.com/r/DDintoGME/comments/oeptry/citadel_china_and_the_45th_a_triangular/)
+# Title: Citadel, China and The 45th - A Triangular Investigation Into "He’s trying to hide some of his money"
+# Author: incandescent-leaf
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oeptry/citadel_china_and_the_45th_a_triangular/](https://www.reddit.com/r/DDintoGME/comments/oeptry/citadel_china_and_the_45th_a_triangular/)
 
 
 # Ken Griffin - Citadel. What a guy he is. Where are you, Ken? Where the hell is he? He's trying to hide some of his money.

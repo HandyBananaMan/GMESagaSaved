@@ -1,6 +1,6 @@
-#Title: Hyperinflation Is Coming- The Dollar Endgame Part 3.5- "The Money Machine"
-#Author: peruvian_bull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0m2s/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/oh0m2s/hyperinflation_is_coming_the_dollar_endgame_part/)
+# Title: Hyperinflation Is Coming- The Dollar Endgame Part 3.5- "The Money Machine"
+# Author: peruvian_bull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0m2s/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/oh0m2s/hyperinflation_is_coming_the_dollar_endgame_part/)
 
 
 [(Apes, this is a continuation of Part 3, please find the first half of Part 3 here)](https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/)

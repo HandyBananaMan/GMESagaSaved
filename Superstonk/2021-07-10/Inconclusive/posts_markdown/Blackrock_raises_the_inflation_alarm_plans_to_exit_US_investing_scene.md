@@ -1,6 +1,6 @@
-#Title: Blackrock raises the inflation alarm, plans to exit U.S. investing scene
-#Author: visijared
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohmx88/blackrock_raises_the_inflation_alarm_plans_to/](https://www.reddit.com/r/Superstonk/comments/ohmx88/blackrock_raises_the_inflation_alarm_plans_to/)
+# Title: Blackrock raises the inflation alarm, plans to exit U.S. investing scene
+# Author: visijared
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohmx88/blackrock_raises_the_inflation_alarm_plans_to/](https://www.reddit.com/r/Superstonk/comments/ohmx88/blackrock_raises_the_inflation_alarm_plans_to/)
 
 
 Summary of article from yesterday (not linking it sorry, screw 'em) titled: "**BlackRock’s chief strategist for Canada on how to position your portfolio for the tougher investment days to come**"

@@ -1,6 +1,6 @@
-#Title: Melvin Capital 13F filing is inaccurate, and they are hiding ALL their put positions.
-#Author: AutoDrafter2020
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ner3uc/melvin_capital_13f_filing_is_inaccurate_and_they/](https://www.reddit.com/r/Superstonk/comments/ner3uc/melvin_capital_13f_filing_is_inaccurate_and_they/)
+# Title: Melvin Capital 13F filing is inaccurate, and they are hiding ALL their put positions.
+# Author: AutoDrafter2020
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ner3uc/melvin_capital_13f_filing_is_inaccurate_and_they/](https://www.reddit.com/r/Superstonk/comments/ner3uc/melvin_capital_13f_filing_is_inaccurate_and_they/)
 
 
 Melvin Capital previously showed a 6,000,000 put position on GameStop. On the 13F filing they released today, this position is nowhere to be found. 

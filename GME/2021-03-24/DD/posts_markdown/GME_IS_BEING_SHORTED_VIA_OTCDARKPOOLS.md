@@ -1,6 +1,6 @@
-#Title: GME IS BEING SHORTED VIA OTC/DARKPOOLS 🚀🚀🚀
-#Author: Malcomb-X
-#Post URL: [https://www.reddit.com/r/GME/comments/mck684/gme_is_being_shorted_via_otcdarkpools/](https://www.reddit.com/r/GME/comments/mck684/gme_is_being_shorted_via_otcdarkpools/)
+# Title: GME IS BEING SHORTED VIA OTC/DARKPOOLS 🚀🚀🚀
+# Author: Malcomb-X
+# Post URL: [https://www.reddit.com/r/GME/comments/mck684/gme_is_being_shorted_via_otcdarkpools/](https://www.reddit.com/r/GME/comments/mck684/gme_is_being_shorted_via_otcdarkpools/)
 
 
 **GameStop has been shorted A LOT via OTC markets.** 

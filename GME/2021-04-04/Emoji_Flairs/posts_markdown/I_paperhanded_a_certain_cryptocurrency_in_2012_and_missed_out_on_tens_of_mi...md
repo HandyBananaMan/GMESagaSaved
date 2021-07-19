@@ -1,6 +1,6 @@
-#Title: I paperhanded a certain cryptocurrency in 2012 and missed out on tens of millions because I’m a little bitch who lacked conviction and thought the 5000X-10000X price targets were a pipe dream because the numbers were too big.
-#Author: AdoptedGoatTitties
-#Post URL: [https://www.reddit.com/r/GME/comments/mjxu4z/i_paperhanded_a_certain_cryptocurrency_in_2012/](https://www.reddit.com/r/GME/comments/mjxu4z/i_paperhanded_a_certain_cryptocurrency_in_2012/)
+# Title: I paperhanded a certain cryptocurrency in 2012 and missed out on tens of millions because I’m a little bitch who lacked conviction and thought the 5000X-10000X price targets were a pipe dream because the numbers were too big.
+# Author: AdoptedGoatTitties
+# Post URL: [https://www.reddit.com/r/GME/comments/mjxu4z/i_paperhanded_a_certain_cryptocurrency_in_2012/](https://www.reddit.com/r/GME/comments/mjxu4z/i_paperhanded_a_certain_cryptocurrency_in_2012/)
 
 
 Conviction in the DD and patience will be rewarded. I’m still a little bitch but I won’t make the same mistake again.

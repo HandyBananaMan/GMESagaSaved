@@ -1,6 +1,6 @@
-#Title: ***GME: I found a light at the end of the tunnel. Thoughts for Earnings tomorrow and trying to piece together research from this last weekend. I do think there is an endgame coming up in the close future (Some of this is Speculation but there are pieces coming together that make sense)
-#Author: khashi1
-#Post URL: [https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/](https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/)
+# Title: ***GME: I found a light at the end of the tunnel. Thoughts for Earnings tomorrow and trying to piece together research from this last weekend. I do think there is an endgame coming up in the close future (Some of this is Speculation but there are pieces coming together that make sense)
+# Author: khashi1
+# Post URL: [https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/](https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/)
 
 
 # 🚀  🚀 [💎🙌](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%92%8E%F0%9F%99%8C%22&restrict_sr=1) 🚀  🚀 Hi Apes, Hedge Funds Interns, Low level SEC people being stuck reading about $CUM, $ASS, $MOON each week, Long Dong Kong's Interns, etc,

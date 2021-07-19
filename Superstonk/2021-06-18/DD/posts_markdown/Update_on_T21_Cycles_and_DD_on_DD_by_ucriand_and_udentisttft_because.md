@@ -1,6 +1,6 @@
-#Title: Update on T+21 Cycles, and DD on DD by u/criand and u/dentisttft because...
-#Author: bobsmith808
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/](https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/)
+# Title: Update on T+21 Cycles, and DD on DD by u/criand and u/dentisttft because...
+# Author: bobsmith808
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/](https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/)
 
 
 &#x200B;

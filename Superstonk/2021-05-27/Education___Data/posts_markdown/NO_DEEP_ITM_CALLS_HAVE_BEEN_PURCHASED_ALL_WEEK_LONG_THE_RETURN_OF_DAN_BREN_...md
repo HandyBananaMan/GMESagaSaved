@@ -1,6 +1,6 @@
-#Title: NO DEEP ITM CALLS HAVE BEEN PURCHASED ALL WEEK LONG: THE RETURN OF DAN_BREN (5/24-5/27)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmozvh/no_deep_itm_calls_have_been_purchased_all_week/](https://www.reddit.com/r/Superstonk/comments/nmozvh/no_deep_itm_calls_have_been_purchased_all_week/)
+# Title: NO DEEP ITM CALLS HAVE BEEN PURCHASED ALL WEEK LONG: THE RETURN OF DAN_BREN (5/24-5/27)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmozvh/no_deep_itm_calls_have_been_purchased_all_week/](https://www.reddit.com/r/Superstonk/comments/nmozvh/no_deep_itm_calls_have_been_purchased_all_week/)
 
 
 What up Apes,

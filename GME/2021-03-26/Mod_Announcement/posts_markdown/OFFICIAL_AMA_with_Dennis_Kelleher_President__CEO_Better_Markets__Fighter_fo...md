@@ -1,6 +1,6 @@
-#Title: OFFICIAL AMA with Dennis Kelleher, President & CEO, Better Markets – Fighter for Retail, Buy Side & Main St against Wall St/big finance
-#Author: WallSt4MainSt
-#Post URL: [https://www.reddit.com/r/GME/comments/mdt4vi/official_ama_with_dennis_kelleher_president_ceo/](https://www.reddit.com/r/GME/comments/mdt4vi/official_ama_with_dennis_kelleher_president_ceo/)
+# Title: OFFICIAL AMA with Dennis Kelleher, President & CEO, Better Markets – Fighter for Retail, Buy Side & Main St against Wall St/big finance
+# Author: WallSt4MainSt
+# Post URL: [https://www.reddit.com/r/GME/comments/mdt4vi/official_ama_with_dennis_kelleher_president_ceo/](https://www.reddit.com/r/GME/comments/mdt4vi/official_ama_with_dennis_kelleher_president_ceo/)
 
 
 Hi everyone: I'm Dennis Kelleher, President and CEO of Better Markets. Some of you might know me from my recent testimony before the House Financial Services Committee on GameStop, Citadel Securities, and payment for order flow. Thanks to all of you who have cheered us on!

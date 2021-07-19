@@ -1,6 +1,6 @@
-#Title: Data Analysis comparing March and June's Data to Determine Similarities
-#Author: PWNWTFBBQ
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/](https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/)
+# Title: Data Analysis comparing March and June's Data to Determine Similarities
+# Author: PWNWTFBBQ
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/](https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/)
 
 
 # So it begins

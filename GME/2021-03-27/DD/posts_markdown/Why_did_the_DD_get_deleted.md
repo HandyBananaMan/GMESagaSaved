@@ -1,6 +1,6 @@
-#Title: Why did the DD get deleted?
-#Author: idontdislikeoranges
-#Post URL: [https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/](https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/)
+# Title: Why did the DD get deleted?
+# Author: idontdislikeoranges
+# Post URL: [https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/](https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/)
 
 
 Thought this was solid, why did it get deleted?

@@ -1,6 +1,6 @@
-#Title: The SI% is fake. I found 44,000,000 million shorts that had their FTDs reset since January 1st using DEEP ITM CALLS. Identifying call option types used for this practice and timeline of events.
-#Author: dejf2
-#Post URL: [https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
+# Title: The SI% is fake. I found 44,000,000 million shorts that had their FTDs reset since January 1st using DEEP ITM CALLS. Identifying call option types used for this practice and timeline of events.
+# Author: dejf2
+# Post URL: [https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
 
 
 **APR1 Edit: 708,000 more shares laundered today, we have officially entered the new cycle of whatever this is, new data:** [https://www.reddit.com/r/GME/comments/mi31m6/deep\_itm\_calls\_activity\_pt2\_april\_1st\_708000\_ftds/](https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/)

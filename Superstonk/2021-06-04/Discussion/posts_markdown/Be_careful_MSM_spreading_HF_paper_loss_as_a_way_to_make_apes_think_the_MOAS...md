@@ -1,6 +1,6 @@
-#Title: Be careful: MSM spreading HF paper loss as a way to make apes think the MOASS is already over!
-#Author: rich-snowboarder
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns2c11/be_careful_msm_spreading_hf_paper_loss_as_a_way/](https://www.reddit.com/r/Superstonk/comments/ns2c11/be_careful_msm_spreading_hf_paper_loss_as_a_way/)
+# Title: Be careful: MSM spreading HF paper loss as a way to make apes think the MOASS is already over!
+# Author: rich-snowboarder
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns2c11/be_careful_msm_spreading_hf_paper_loss_as_a_way/](https://www.reddit.com/r/Superstonk/comments/ns2c11/be_careful_msm_spreading_hf_paper_loss_as_a_way/)
 
 
 I was wondering why they keep spreading everywhere news about HFs ”losing” x billions.They want people think the MOASS is over and just sell.

@@ -1,6 +1,6 @@
-#Title: SOME DEEP ITM CALLS WERE BOUGHT TODAY: THE FINAL HURRAH
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/)
+# Title: SOME DEEP ITM CALLS WERE BOUGHT TODAY: THE FINAL HURRAH
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/)
 
 
 Hello you goddamn beautiful ~~people~~ apes,

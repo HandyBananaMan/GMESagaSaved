@@ -1,6 +1,6 @@
-#Title: A journalists view on GME,
-#Author: Technical_Challenge
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/)
+# Title: A journalists view on GME,
+# Author: Technical_Challenge
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/)
 
 
 Good Morning, Afternoon or Evening Apes!

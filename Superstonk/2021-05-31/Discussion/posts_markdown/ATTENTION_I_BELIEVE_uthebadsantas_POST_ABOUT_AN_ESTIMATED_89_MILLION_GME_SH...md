@@ -1,6 +1,6 @@
-#Title: ATTENTION: I BELIEVE u/thebadsanta's POST ABOUT AN ESTIMATED 89 MILLION GME SHAREHOLDERS IS VERY WRONG. MY ESTIMATE IS 5.368 MILLION GME SHAREHOLDERS. SEE MATH BELOW:
-#Author: kamayatzee
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/npdoui/attention_i_believe_uthebadsantas_post_about_an/](https://www.reddit.com/r/Superstonk/comments/npdoui/attention_i_believe_uthebadsantas_post_about_an/)
+# Title: ATTENTION: I BELIEVE u/thebadsanta's POST ABOUT AN ESTIMATED 89 MILLION GME SHAREHOLDERS IS VERY WRONG. MY ESTIMATE IS 5.368 MILLION GME SHAREHOLDERS. SEE MATH BELOW:
+# Author: kamayatzee
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/npdoui/attention_i_believe_uthebadsantas_post_about_an/](https://www.reddit.com/r/Superstonk/comments/npdoui/attention_i_believe_uthebadsantas_post_about_an/)
 
 
 TLDR: Etoro has about 1.2 million TOTAL funded shareholder accounts.  His calculation is based off of 1.2 million Etoro shareholders that own GME.  

@@ -1,6 +1,6 @@
-#Title: TRUE LIFE: I married a f@&$ing shill
-#Author: No_Sherbet_3766
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mlvhn8/true_life_i_married_a_fing_shill/](https://www.reddit.com/r/Superstonk/comments/mlvhn8/true_life_i_married_a_fing_shill/)
+# Title: TRUE LIFE: I married a f@&$ing shill
+# Author: No_Sherbet_3766
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mlvhn8/true_life_i_married_a_fing_shill/](https://www.reddit.com/r/Superstonk/comments/mlvhn8/true_life_i_married_a_fing_shill/)
 
 
 I always knew there was something about this guy... just could never put my finger on it.

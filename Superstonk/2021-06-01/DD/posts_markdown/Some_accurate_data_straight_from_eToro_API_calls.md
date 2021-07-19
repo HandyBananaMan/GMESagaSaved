@@ -1,6 +1,6 @@
-#Title: Some accurate data, straight from eToro API calls.
-#Author: taranasus
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/npmaym/some_accurate_data_straight_from_etoro_api_calls/](https://www.reddit.com/r/Superstonk/comments/npmaym/some_accurate_data_straight_from_etoro_api_calls/)
+# Title: Some accurate data, straight from eToro API calls.
+# Author: taranasus
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/npmaym/some_accurate_data_straight_from_etoro_api_calls/](https://www.reddit.com/r/Superstonk/comments/npmaym/some_accurate_data_straight_from_etoro_api_calls/)
 
 
 Hello all! Sorry to beat the drum about this but I feel like it should be summed up one last time as I'm a stickler for accurate data and I have confirmation on some of the numbers that have been floating around the sub yesterday with regards to eToro.

@@ -1,6 +1,6 @@
-#Title: Data. Or is it Data? Someone Has Tied-Up the Entire Float in Derivatives in Less Than 3 Weeks.
-#Author: hell-mitc
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/](https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/)
+# Title: Data. Or is it Data? Someone Has Tied-Up the Entire Float in Derivatives in Less Than 3 Weeks.
+# Author: hell-mitc
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/](https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/)
 
 
 **GME GO BRRR**

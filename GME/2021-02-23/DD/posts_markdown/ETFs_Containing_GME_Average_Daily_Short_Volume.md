@@ -1,6 +1,6 @@
-#Title: ETF's Containing GME Average Daily Short Volume
-#Author: ResponsibleGunOwners
-#Post URL: [https://www.reddit.com/r/GME/comments/lr33yp/etfs_containing_gme_average_daily_short_volume/](https://www.reddit.com/r/GME/comments/lr33yp/etfs_containing_gme_average_daily_short_volume/)
+# Title: ETF's Containing GME Average Daily Short Volume
+# Author: ResponsibleGunOwners
+# Post URL: [https://www.reddit.com/r/GME/comments/lr33yp/etfs_containing_gme_average_daily_short_volume/](https://www.reddit.com/r/GME/comments/lr33yp/etfs_containing_gme_average_daily_short_volume/)
 
 
 I started down a bit of a rabbit hole after reading [this amazing post](https://old.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/) by u/ahh_soy which theorized that Hedge Funds were using ETF's to hide their short positions while making it seem like they covered (great DD, everyone should read this thread).

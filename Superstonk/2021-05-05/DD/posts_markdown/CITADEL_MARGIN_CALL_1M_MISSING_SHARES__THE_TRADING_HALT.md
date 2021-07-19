@@ -1,6 +1,6 @@
-#Title: CITADEL, MARGIN CALL, 1M MISSING SHARES & THE TRADING HALT
-#Author: Rugby97
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/](https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/)
+# Title: CITADEL, MARGIN CALL, 1M MISSING SHARES & THE TRADING HALT
+# Author: Rugby97
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/](https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/)
 
 
 ^(Sit the fuck down before you read this.)

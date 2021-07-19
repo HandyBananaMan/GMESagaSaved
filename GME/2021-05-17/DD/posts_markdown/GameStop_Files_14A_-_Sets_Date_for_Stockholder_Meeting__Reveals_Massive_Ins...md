@@ -1,6 +1,6 @@
-#Title: GameStop Files 14A - Sets Date for Stockholder Meeting & Reveals Massive Institutional Ownership
-#Author: Momoethecat
-#Post URL: [https://www.reddit.com/r/GME/comments/nev4ls/gamestop_files_14a_sets_date_for_stockholder/](https://www.reddit.com/r/GME/comments/nev4ls/gamestop_files_14a_sets_date_for_stockholder/)
+# Title: GameStop Files 14A - Sets Date for Stockholder Meeting & Reveals Massive Institutional Ownership
+# Author: Momoethecat
+# Post URL: [https://www.reddit.com/r/GME/comments/nev4ls/gamestop_files_14a_sets_date_for_stockholder/](https://www.reddit.com/r/GME/comments/nev4ls/gamestop_files_14a_sets_date_for_stockholder/)
 
 
 I'm planning to vote in person and came across this  !

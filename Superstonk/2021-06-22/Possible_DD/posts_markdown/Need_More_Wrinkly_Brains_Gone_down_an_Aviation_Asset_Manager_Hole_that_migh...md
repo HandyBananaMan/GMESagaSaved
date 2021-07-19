@@ -1,6 +1,6 @@
-#Title: 🐱‍🏍🐱‍🏍Need More Wrinkly Brains. Gone down an Aviation Asset Manager Hole that might have ties to Ken G...and another Hedge Fund at 230 Park AVE NY......Right beside CITADEL. Plus Possible Cayman Islands Location of Hiding Funds?🐱‍🏍🐱‍🏍
-#Author: Csmbird
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/](https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/)
+# Title: 🐱‍🏍🐱‍🏍Need More Wrinkly Brains. Gone down an Aviation Asset Manager Hole that might have ties to Ken G...and another Hedge Fund at 230 Park AVE NY......Right beside CITADEL. Plus Possible Cayman Islands Location of Hiding Funds?🐱‍🏍🐱‍🏍
+# Author: Csmbird
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/](https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/)
 
 
 # tl;dr:

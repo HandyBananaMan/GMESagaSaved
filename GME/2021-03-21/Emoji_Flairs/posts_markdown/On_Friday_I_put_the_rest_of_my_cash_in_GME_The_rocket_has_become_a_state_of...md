@@ -1,6 +1,6 @@
-#Title: On Friday I put the rest of my cash in GME. The rocket has become a state of mind for me, since then. 🙌🏻💎🚀
-#Author: triteacid
-#Post URL: [https://www.reddit.com/r/GME/comments/m9tdqs/on_friday_i_put_the_rest_of_my_cash_in_gme_the/](https://www.reddit.com/r/GME/comments/m9tdqs/on_friday_i_put_the_rest_of_my_cash_in_gme_the/)
+# Title: On Friday I put the rest of my cash in GME. The rocket has become a state of mind for me, since then. 🙌🏻💎🚀
+# Author: triteacid
+# Post URL: [https://www.reddit.com/r/GME/comments/m9tdqs/on_friday_i_put_the_rest_of_my_cash_in_gme_the/](https://www.reddit.com/r/GME/comments/m9tdqs/on_friday_i_put_the_rest_of_my_cash_in_gme_the/)
 
 
 Do you know the movies when the astronauts strap into their seats in the rockets and effectively become human cargo with very limited control over the situation. They trust the team on the ground, the technology and each other with their lives. The ride gets shaky and the G-force piles up on their way up. 🌙🚀

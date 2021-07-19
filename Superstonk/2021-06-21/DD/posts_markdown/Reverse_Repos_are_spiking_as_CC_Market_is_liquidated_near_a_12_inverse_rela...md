@@ -1,6 +1,6 @@
-#Title: Reverse Repos are spiking as CC Market is liquidated near a 1:2 inverse relationship. SHF are using CC liquidations to fund Treasury purchases through Reverse Repos to maintain Gamestop positions without margin calls.
-#Author: KFC_just
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/](https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/)
+# Title: Reverse Repos are spiking as CC Market is liquidated near a 1:2 inverse relationship. SHF are using CC liquidations to fund Treasury purchases through Reverse Repos to maintain Gamestop positions without margin calls.
+# Author: KFC_just
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/](https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/)
 
 
 B word and CC word swaps due to AutoMod

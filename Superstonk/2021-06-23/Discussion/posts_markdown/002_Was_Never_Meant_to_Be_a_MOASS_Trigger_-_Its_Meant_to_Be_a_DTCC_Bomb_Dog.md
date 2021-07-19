@@ -1,6 +1,6 @@
-#Title: 002 Was Never Meant to Be a MOASS Trigger - It's Meant to Be a DTCC Bomb Dog.
-#Author: Royaltycoins
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6f5bm/002_was_never_meant_to_be_a_moass_trigger_its/](https://www.reddit.com/r/Superstonk/comments/o6f5bm/002_was_never_meant_to_be_a_moass_trigger_its/)
+# Title: 002 Was Never Meant to Be a MOASS Trigger - It's Meant to Be a DTCC Bomb Dog.
+# Author: Royaltycoins
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6f5bm/002_was_never_meant_to_be_a_moass_trigger_its/](https://www.reddit.com/r/Superstonk/comments/o6f5bm/002_was_never_meant_to_be_a_moass_trigger_its/)
 
 
 There's probably never going to be a world in which this sub won't hype up something like 002 - but as others have suggested, it's unlikely that it will be a MOASS trigger on its own.

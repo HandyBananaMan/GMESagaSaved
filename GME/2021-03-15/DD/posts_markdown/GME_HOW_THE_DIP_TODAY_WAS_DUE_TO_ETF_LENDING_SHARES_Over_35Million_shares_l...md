@@ -1,6 +1,6 @@
-#Title: $GME: HOW THE DIP TODAY WAS DUE TO ETF LENDING SHARES (Over 3.5Million shares lent out) DD
-#Author: CoastalHotDog835
-#Post URL: [https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/](https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/)
+# Title: $GME: HOW THE DIP TODAY WAS DUE TO ETF LENDING SHARES (Over 3.5Million shares lent out) DD
+# Author: CoastalHotDog835
+# Post URL: [https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/](https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/)
 
 
 *Welcome back and it feels good to be writing up posts again. I was asked to write up the recent relation between ETF's and the GME dip's we've been witnessing in the last several trading days.* ***I have included a TLDR for the crayon eating apes with an attention span of a 2-month-old dog.*** 

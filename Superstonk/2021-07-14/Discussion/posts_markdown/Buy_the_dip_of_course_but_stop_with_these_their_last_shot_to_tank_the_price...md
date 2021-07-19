@@ -1,6 +1,6 @@
-#Title: Buy the dip of course, but stop with these "their last shot to tank the price". Buying synthetics gives them cash. They'll continue being able to tank price until a true catalyst arrives.
-#Author: nostbp1
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok7wh0/buy_the_dip_of_course_but_stop_with_these_their/](https://www.reddit.com/r/Superstonk/comments/ok7wh0/buy_the_dip_of_course_but_stop_with_these_their/)
+# Title: Buy the dip of course, but stop with these "their last shot to tank the price". Buying synthetics gives them cash. They'll continue being able to tank price until a true catalyst arrives.
+# Author: nostbp1
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok7wh0/buy_the_dip_of_course_but_stop_with_these_their/](https://www.reddit.com/r/Superstonk/comments/ok7wh0/buy_the_dip_of_course_but_stop_with_these_their/)
 
 
 **edit: i can't edit the title but i want to change "tank price until catalyst" to "control price till catalyst".** they likely don't want to tank it too far as the cheaper it gets the more shares we can buy and an increasing chance some of the big funds buys in.

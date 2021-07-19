@@ -1,6 +1,6 @@
-#Title: Herbert Sukenik the greatest Diamond Hands of all - Weekend Story Time
-#Author: wiseoldmeme
-#Post URL: [https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/](https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/)
+# Title: Herbert Sukenik the greatest Diamond Hands of all - Weekend Story Time
+# Author: wiseoldmeme
+# Post URL: [https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/](https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/)
 
 
 Gather round, all my fellow autists, and let me tell you the incredible story of Herbert Sukenik, one of the greatest diamond hands of all time. 

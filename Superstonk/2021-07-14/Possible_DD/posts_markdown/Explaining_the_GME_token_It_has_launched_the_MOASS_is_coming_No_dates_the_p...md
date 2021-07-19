@@ -1,6 +1,6 @@
-#Title: Explaining the GME token. It has launched, the MOASS is coming. No dates, the patient wait for a new ETH protocol, blockchain, NFT & more!
-#Author: SamBradfordSuperFan
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okjctq/explaining_the_gme_token_it_has_launched_the/](https://www.reddit.com/r/Superstonk/comments/okjctq/explaining_the_gme_token_it_has_launched_the/)
+# Title: Explaining the GME token. It has launched, the MOASS is coming. No dates, the patient wait for a new ETH protocol, blockchain, NFT & more!
+# Author: SamBradfordSuperFan
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okjctq/explaining_the_gme_token_it_has_launched_the/](https://www.reddit.com/r/Superstonk/comments/okjctq/explaining_the_gme_token_it_has_launched_the/)
 
 
   Starting at the beginning, we originally found the [GameStop's NFT website](https://nft.gamestop.com/) which gave us the address 0x13374200c29C757FDCc72F15Da98fb94f286d71e. This is the OFFICIAL GAMESTOP TOKEN address. If you google the address, you will be shown an Etherscan link: [here](https://etherscan.io/address/0x13374200c29C757FDCc72F15Da98fb94f286d71e). This is the official Etherscan profile for the GME tokenized stock. Many FAKE GME tokens have been created. Be vigilant and don't believe, or spread any fake token information because this will confuse a lot of people.

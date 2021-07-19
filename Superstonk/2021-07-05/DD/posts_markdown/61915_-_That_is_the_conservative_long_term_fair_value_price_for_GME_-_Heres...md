@@ -1,6 +1,6 @@
-#Title: $619.15 - That is the conservative, long term, fair value price for GME - Here's Why
-#Author: CompressionNull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oe2sar/61915_that_is_the_conservative_long_term_fair/](https://www.reddit.com/r/Superstonk/comments/oe2sar/61915_that_is_the_conservative_long_term_fair/)
+# Title: $619.15 - That is the conservative, long term, fair value price for GME - Here's Why
+# Author: CompressionNull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oe2sar/61915_that_is_the_conservative_long_term_fair/](https://www.reddit.com/r/Superstonk/comments/oe2sar/61915_that_is_the_conservative_long_term_fair/)
 
 
 Below I have outlined why I think the current price of GME is super deeply discounted. This DD is not even going to factor in anything regarding the MOASS, as that has been so deeply covered already. WHEN the shorts finish covering, I think the share price will have climbed to astronomical levels...BUT, where will it drop back down to and grow from in the years to come? That's what I attempted to find out. Please feel free to cross-check my work and add corrections - I don't want to be right, I want to be as accurate as possible. Please don't up-vote this because you like the numbers, up-vote it so as many wrinkle brains as possible see this and either confirm or refute it as "good DD".

@@ -1,6 +1,6 @@
-#Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members (Citadel is an options clearing member) SR-OCC-2021-004
-#Author: Scalpel_Jockey9965
-#Post URL: [https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/)
+# Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members (Citadel is an options clearing member) SR-OCC-2021-004
+# Author: Scalpel_Jockey9965
+# Post URL: [https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/)
 
 
 This rule is set to drop tomorrow (4/6/2021) on the federal register. You are able to see an unpublished versions of proposed rule changes.

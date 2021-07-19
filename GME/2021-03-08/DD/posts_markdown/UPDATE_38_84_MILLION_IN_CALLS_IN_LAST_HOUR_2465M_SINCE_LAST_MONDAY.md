@@ -1,6 +1,6 @@
-#Title: UPDATE (3/8): $84 MILLION IN CALLS IN LAST HOUR; 246.5M SINCE LAST MONDAY
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/)
+# Title: UPDATE (3/8): $84 MILLION IN CALLS IN LAST HOUR; 246.5M SINCE LAST MONDAY
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/)
 
 
 **New Post is UP 3/9:** [https://www.reddit.com/r/GME/comments/m1hejz/quick\_update\_additional\_40\_million\_deep\_itm\_calls/](https://www.reddit.com/r/GME/comments/m1hejz/quick_update_additional_40_million_deep_itm_calls/)

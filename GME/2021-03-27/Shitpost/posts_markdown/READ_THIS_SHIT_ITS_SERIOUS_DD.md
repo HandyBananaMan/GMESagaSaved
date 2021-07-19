@@ -1,6 +1,6 @@
-#Title: READ THIS SHIT ITS SERIOUS DD
-#Author: InvinctusSs
-#Post URL: [https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/](https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/)
+# Title: READ THIS SHIT ITS SERIOUS DD
+# Author: InvinctusSs
+# Post URL: [https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/](https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/)
 
 
 GUYS, NOTHING THATS HAPPENING RIGHT NOW IS JUST A COINCIDENCE.

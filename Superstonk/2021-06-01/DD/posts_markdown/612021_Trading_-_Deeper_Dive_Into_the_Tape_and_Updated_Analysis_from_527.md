@@ -1,6 +1,6 @@
-#Title: 6/1/2021 Trading - Deeper Dive Into the Tape and Updated Analysis from 5/27
-#Author: myplayprofile
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/)
+# Title: 6/1/2021 Trading - Deeper Dive Into the Tape and Updated Analysis from 5/27
+# Author: myplayprofile
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/)
 
 
 The correlation between the movies and GME continues to breakdown. I originally posted on 5/27 taking a look into this, and have made an update to the models since then. I've copied the original analysis and included the original post at the end. This does mention the movies, but is very much a GME story, and in no way is financial advice. My 🧠 is smooth.

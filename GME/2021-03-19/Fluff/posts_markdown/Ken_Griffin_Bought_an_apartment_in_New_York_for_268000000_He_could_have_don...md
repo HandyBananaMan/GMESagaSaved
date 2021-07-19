@@ -1,6 +1,6 @@
-#Title: Ken Griffin Bought an apartment in New York for $268,000,000. He could have donated $10,000 to 26,800 people. Is that not life changing for people? We as a community barely have anything and we give to each other.
-#Author: tricky4444
-#Post URL: [https://www.reddit.com/r/GME/comments/m8lykx/ken_griffin_bought_an_apartment_in_new_york_for/](https://www.reddit.com/r/GME/comments/m8lykx/ken_griffin_bought_an_apartment_in_new_york_for/)
+# Title: Ken Griffin Bought an apartment in New York for $268,000,000. He could have donated $10,000 to 26,800 people. Is that not life changing for people? We as a community barely have anything and we give to each other.
+# Author: tricky4444
+# Post URL: [https://www.reddit.com/r/GME/comments/m8lykx/ken_griffin_bought_an_apartment_in_new_york_for/](https://www.reddit.com/r/GME/comments/m8lykx/ken_griffin_bought_an_apartment_in_new_york_for/)
 
 
 These billionaires don’t care about the common man. 1 house vs changing the lives of 23,800 people. We will change the world soon at their expense. 

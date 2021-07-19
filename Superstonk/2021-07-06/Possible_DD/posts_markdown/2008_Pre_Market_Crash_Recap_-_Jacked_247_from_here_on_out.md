@@ -1,6 +1,6 @@
-#Title: 2008 Pre Market Crash Recap - Jacked 24/7 from here on out!
-#Author: GMEstockboy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/)
+# Title: 2008 Pre Market Crash Recap - Jacked 24/7 from here on out!
+# Author: GMEstockboy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/)
 
 
 Was looking at 2008 pre market crash news and saw something that happened then and  (i think) we just experiened June 23rd 2021 when Fannie Mae / Freddie Mac securities lost their value. Keep in mind I am a true retard and I know the situations were way different and possibly this has no value.

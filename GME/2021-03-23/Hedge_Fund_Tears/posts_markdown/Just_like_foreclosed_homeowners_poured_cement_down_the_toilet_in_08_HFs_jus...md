@@ -1,6 +1,6 @@
-#Title: Just like foreclosed homeowners poured cement down the toilet in ‘08, HFs just poured liquid assets down the drain in shorting GME tonight post earnings call.
-#Author: Apoliticalmeme
-#Post URL: [https://www.reddit.com/r/GME/comments/mbujch/just_like_foreclosed_homeowners_poured_cement/](https://www.reddit.com/r/GME/comments/mbujch/just_like_foreclosed_homeowners_poured_cement/)
+# Title: Just like foreclosed homeowners poured cement down the toilet in ‘08, HFs just poured liquid assets down the drain in shorting GME tonight post earnings call.
+# Author: Apoliticalmeme
+# Post URL: [https://www.reddit.com/r/GME/comments/mbujch/just_like_foreclosed_homeowners_poured_cement/](https://www.reddit.com/r/GME/comments/mbujch/just_like_foreclosed_homeowners_poured_cement/)
 
 
 This is not investment advice, I am not an investment advisor.

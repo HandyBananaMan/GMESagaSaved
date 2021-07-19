@@ -1,6 +1,6 @@
-#Title: Ryan Cohen Is Obsessed
-#Author: remyrem201
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omf4k1/ryan_cohen_is_obsessed/](https://www.reddit.com/r/GMEJungle/comments/omf4k1/ryan_cohen_is_obsessed/)
+# Title: Ryan Cohen Is Obsessed
+# Author: remyrem201
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omf4k1/ryan_cohen_is_obsessed/](https://www.reddit.com/r/GMEJungle/comments/omf4k1/ryan_cohen_is_obsessed/)
 
 
 Haven't read this before...I knew RC was tenacious but his sleeping three hours per night to read Chewy reviews gets me jacked. He be watchin everything.

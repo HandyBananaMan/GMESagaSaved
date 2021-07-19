@@ -1,6 +1,6 @@
-#Title: New Karma Requirements | www.superstonk.net & !apeprove! Reminder
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/odjcwi/new_karma_requirements_wwwsuperstonknet_apeprove/](https://www.reddit.com/r/Superstonk/comments/odjcwi/new_karma_requirements_wwwsuperstonknet_apeprove/)
+# Title: New Karma Requirements | www.superstonk.net & !apeprove! Reminder
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/odjcwi/new_karma_requirements_wwwsuperstonknet_apeprove/](https://www.reddit.com/r/Superstonk/comments/odjcwi/new_karma_requirements_wwwsuperstonknet_apeprove/)
 
 
 Hey Everyone,

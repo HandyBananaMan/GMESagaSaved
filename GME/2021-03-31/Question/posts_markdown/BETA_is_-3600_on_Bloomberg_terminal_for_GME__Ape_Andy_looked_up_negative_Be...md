@@ -1,6 +1,6 @@
-#Title: BETA is -36.00 on Bloomberg terminal for GME ! Ape Andy looked up negative Beta stonk! -1 is mythical unicorn! Apes any name for -36 beta stonk?
-#Author: AndyLee168
-#Post URL: [https://www.reddit.com/r/GME/comments/mh4bi9/beta_is_3600_on_bloomberg_terminal_for_gme_ape/](https://www.reddit.com/r/GME/comments/mh4bi9/beta_is_3600_on_bloomberg_terminal_for_gme_ape/)
+# Title: BETA is -36.00 on Bloomberg terminal for GME ! Ape Andy looked up negative Beta stonk! -1 is mythical unicorn! Apes any name for -36 beta stonk?
+# Author: AndyLee168
+# Post URL: [https://www.reddit.com/r/GME/comments/mh4bi9/beta_is_3600_on_bloomberg_terminal_for_gme_ape/](https://www.reddit.com/r/GME/comments/mh4bi9/beta_is_3600_on_bloomberg_terminal_for_gme_ape/)
 
 
 BETA is -36.00 on Bloomberg terminal for GME 

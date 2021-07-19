@@ -1,6 +1,6 @@
-#Title: Theory: GameStop is hyping dates deliberately to goad hedgies into market manipulation.
-#Author: Apez_in_Space
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okd5fd/theory_gamestop_is_hyping_dates_deliberately_to/](https://www.reddit.com/r/Superstonk/comments/okd5fd/theory_gamestop_is_hyping_dates_deliberately_to/)
+# Title: Theory: GameStop is hyping dates deliberately to goad hedgies into market manipulation.
+# Author: Apez_in_Space
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okd5fd/theory_gamestop_is_hyping_dates_deliberately_to/](https://www.reddit.com/r/Superstonk/comments/okd5fd/theory_gamestop_is_hyping_dates_deliberately_to/)
 
 
 We know GameStop is working with the SEC. We can assume they know how we’ve read into RC’s tweets to pull out dates, and nothing more blatantly than the NFT launch date. We know that so far none of these hype days have done anything more than spread false expectation and lead to lower prices.

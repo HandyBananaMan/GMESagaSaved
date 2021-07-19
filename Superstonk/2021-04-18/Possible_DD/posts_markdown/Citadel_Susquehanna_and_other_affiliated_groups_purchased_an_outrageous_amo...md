@@ -1,6 +1,6 @@
-#Title: Citadel, Susquehanna, and other affiliated groups purchased an outrageous amounts of Calls on an ETF that goes UP when $SPY goes DOWN. I have included data from IBorrowDesk I took 2 weeks ago, SPXS was being Short Sold into oblivion. Check January 11th today on Iborrowdesk. Data has been altered.
-#Author: LongPutBull
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mteo47/citadel_susquehanna_and_other_affiliated_groups/](https://www.reddit.com/r/Superstonk/comments/mteo47/citadel_susquehanna_and_other_affiliated_groups/)
+# Title: Citadel, Susquehanna, and other affiliated groups purchased an outrageous amounts of Calls on an ETF that goes UP when $SPY goes DOWN. I have included data from IBorrowDesk I took 2 weeks ago, SPXS was being Short Sold into oblivion. Check January 11th today on Iborrowdesk. Data has been altered.
+# Author: LongPutBull
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mteo47/citadel_susquehanna_and_other_affiliated_groups/](https://www.reddit.com/r/Superstonk/comments/mteo47/citadel_susquehanna_and_other_affiliated_groups/)
 
 
 # Hi Guys,

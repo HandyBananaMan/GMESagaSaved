@@ -1,6 +1,6 @@
-#Title: Enormous Credit Suisse volume on Thursday July 8 2021. Volume not this high since Archegos meltdown. Something’s up.
-#Author: KFC_just
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ointkr/enormous_credit_suisse_volume_on_thursday_july_8/](https://www.reddit.com/r/Superstonk/comments/ointkr/enormous_credit_suisse_volume_on_thursday_july_8/)
+# Title: Enormous Credit Suisse volume on Thursday July 8 2021. Volume not this high since Archegos meltdown. Something’s up.
+# Author: KFC_just
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ointkr/enormous_credit_suisse_volume_on_thursday_july_8/](https://www.reddit.com/r/Superstonk/comments/ointkr/enormous_credit_suisse_volume_on_thursday_july_8/)
 
 
 # TL:DR: 15 million CS shares were bought in 1 minute. This was probably to stabilise the price and prevent a crash on Thursday. Or somebody is starting to takeover Credit Suisse.

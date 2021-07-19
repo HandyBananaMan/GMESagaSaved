@@ -1,6 +1,6 @@
-#Title: Math Black Magic Vol. 3: Trillion Short Share Seance
-#Author: nydus_erdos
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/](https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/)
+# Title: Math Black Magic Vol. 3: Trillion Short Share Seance
+# Author: nydus_erdos
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/](https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/)
 
 
 ^(DISCLAIMER: Third part of my first DD. Not financial advice. All credit to the authors of referenced works.)

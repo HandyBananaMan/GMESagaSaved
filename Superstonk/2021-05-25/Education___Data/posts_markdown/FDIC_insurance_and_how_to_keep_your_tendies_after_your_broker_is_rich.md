@@ -1,6 +1,6 @@
-#Title: FDIC insurance and how to keep your tendies after your broker is rich
-#Author: weeknddev
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nklnzm/fdic_insurance_and_how_to_keep_your_tendies_after/](https://www.reddit.com/r/Superstonk/comments/nklnzm/fdic_insurance_and_how_to_keep_your_tendies_after/)
+# Title: FDIC insurance and how to keep your tendies after your broker is rich
+# Author: weeknddev
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nklnzm/fdic_insurance_and_how_to_keep_your_tendies_after/](https://www.reddit.com/r/Superstonk/comments/nklnzm/fdic_insurance_and_how_to_keep_your_tendies_after/)
 
 
 I wasn't always a paranoid ape. 

@@ -1,6 +1,6 @@
-#Title: GME | Ultimate Guide | Cheat Code Inside
-#Author: hello-world-foo-bar2
-#Post URL: [https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/](https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/)
+# Title: GME | Ultimate Guide | Cheat Code Inside
+# Author: hello-world-foo-bar2
+# Post URL: [https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/](https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/)
 
 
 *Disclaimer: I am not a financial advisor. This entire post represents my personal views and opinions, and should not be taken as financial advice (or advice of any kind whatsoever). I encourage you to do your own research, take anything I write with a grain of salt. I love the stock.*

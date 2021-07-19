@@ -1,6 +1,6 @@
-#Title: Maybe the best explanation for smooth brained apes of what’s happening with the market.
-#Author: szuercher43
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oax0ce/maybe_the_best_explanation_for_smooth_brained/](https://www.reddit.com/r/Superstonk/comments/oax0ce/maybe_the_best_explanation_for_smooth_brained/)
+# Title: Maybe the best explanation for smooth brained apes of what’s happening with the market.
+# Author: szuercher43
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oax0ce/maybe_the_best_explanation_for_smooth_brained/](https://www.reddit.com/r/Superstonk/comments/oax0ce/maybe_the_best_explanation_for_smooth_brained/)
 
 
 https://i.redd.it/t8woir30ke871.jpg

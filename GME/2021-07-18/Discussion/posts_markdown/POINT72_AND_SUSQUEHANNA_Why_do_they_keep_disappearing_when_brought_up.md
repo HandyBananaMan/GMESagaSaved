@@ -1,6 +1,6 @@
-#Title: POINT72 AND SUSQUEHANNA... Why do they keep disappearing when brought up?
-#Author: Auntbeckie1968
-#Post URL: [https://www.reddit.com/r/GME/comments/omwwry/point72_and_susquehanna_why_do_they_keep/](https://www.reddit.com/r/GME/comments/omwwry/point72_and_susquehanna_why_do_they_keep/)
+# Title: POINT72 AND SUSQUEHANNA... Why do they keep disappearing when brought up?
+# Author: Auntbeckie1968
+# Post URL: [https://www.reddit.com/r/GME/comments/omwwry/point72_and_susquehanna_why_do_they_keep/](https://www.reddit.com/r/GME/comments/omwwry/point72_and_susquehanna_why_do_they_keep/)
 
 
 Hello fellow apes,

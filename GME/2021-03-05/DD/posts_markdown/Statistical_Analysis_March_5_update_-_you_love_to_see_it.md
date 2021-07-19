@@ -1,6 +1,6 @@
-#Title: Statistical Analysis: March 5 update - you love to see it
-#Author: oaf_king
-#Post URL: [https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/](https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/)
+# Title: Statistical Analysis: March 5 update - you love to see it
+# Author: oaf_king
+# Post URL: [https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/](https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/)
 
 
 Hi all,

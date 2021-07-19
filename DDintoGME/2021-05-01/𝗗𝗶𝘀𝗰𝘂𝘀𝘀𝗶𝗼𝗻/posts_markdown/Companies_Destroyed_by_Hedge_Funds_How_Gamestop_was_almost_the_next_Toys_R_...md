@@ -1,6 +1,6 @@
-#Title: Companies Destroyed by Hedge Funds: How Gamestop was almost the next Toys R' Us
-#Author: AvidTreesFan
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/](https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/)
+# Title: Companies Destroyed by Hedge Funds: How Gamestop was almost the next Toys R' Us
+# Author: AvidTreesFan
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/](https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/)
 
 
  Your favorite caffeine-addled, sleep deprived, tree chomping ape is back with a fresh pack of crayons, glitter and glue. Let's get to it.

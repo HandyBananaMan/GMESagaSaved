@@ -1,6 +1,6 @@
-#Title: Ryan Cohens Kill Shot....the Reverse Merger
-#Author: Alert_Piano341
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
+# Title: Ryan Cohens Kill Shot....the Reverse Merger
+# Author: Alert_Piano341
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
 
 
 **What's RC plan, does he have a plan?**

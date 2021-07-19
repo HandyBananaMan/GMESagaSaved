@@ -1,6 +1,6 @@
-#Title: Shitadel connection with [company automod hates?] promoted by M. Burry (?) (possible DD breadcrumb trail for wrinkles)
-#Author: ChemicalFist
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4xb7n/shitadel_connection_with_company_automod_hates/](https://www.reddit.com/r/Superstonk/comments/o4xb7n/shitadel_connection_with_company_automod_hates/)
+# Title: Shitadel connection with [company automod hates?] promoted by M. Burry (?) (possible DD breadcrumb trail for wrinkles)
+# Author: ChemicalFist
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4xb7n/shitadel_connection_with_company_automod_hates/](https://www.reddit.com/r/Superstonk/comments/o4xb7n/shitadel_connection_with_company_automod_hates/)
 
 
 **TL;DR**: DD breadcrumb trail on a Shitadel connection, ***possibly hinted at*** by M. Burry(?) (*sorry for the brain fart in the title, was fighting automod. Could mods change the title of this post to match the part in bold, please?*).

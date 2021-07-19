@@ -1,6 +1,6 @@
-#Title: Compilation of All DD, TA, Rules & Regulations, News, and more! ALL-IN-ONE STOP for DAILY Wrinkles 🔥🚀
-#Author: CoffeeLaxative
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/](https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/)
+# Title: Compilation of All DD, TA, Rules & Regulations, News, and more! ALL-IN-ONE STOP for DAILY Wrinkles 🔥🚀
+# Author: CoffeeLaxative
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/](https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/)
 
 
 I will update this post everyday since I'm here 24/7 anyways (so save it!), with weekly posts (keep an eye out!). Any suggestions / additions / corrections ? Please let me know, apes & ants & other international species 🤝

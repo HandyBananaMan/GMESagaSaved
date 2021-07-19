@@ -1,6 +1,6 @@
-#Title: Back to Basics! Why GME is still a Deep Fucking Value play at 170USD, based solely on the fundamentals!
-#Author: Common_Compote
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/ombbfp/back_to_basics_why_gme_is_still_a_deep_fucking/](https://www.reddit.com/r/DDintoGME/comments/ombbfp/back_to_basics_why_gme_is_still_a_deep_fucking/)
+# Title: Back to Basics! Why GME is still a Deep Fucking Value play at 170USD, based solely on the fundamentals!
+# Author: Common_Compote
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ombbfp/back_to_basics_why_gme_is_still_a_deep_fucking/](https://www.reddit.com/r/DDintoGME/comments/ombbfp/back_to_basics_why_gme_is_still_a_deep_fucking/)
 
 
 Since January, anytime i see any FUD, there is always one thing that puts me back at ease, the fundamentals and the price of GME stock compared with other popular stocks on the market.

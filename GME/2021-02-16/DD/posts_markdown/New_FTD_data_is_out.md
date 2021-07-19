@@ -1,6 +1,6 @@
-#Title: New FTD data is out!
-#Author: ThrowMoneyAway38
-#Post URL: [https://www.reddit.com/r/GME/comments/ll5t0l/new_ftd_data_is_out/](https://www.reddit.com/r/GME/comments/ll5t0l/new_ftd_data_is_out/)
+# Title: New FTD data is out!
+# Author: ThrowMoneyAway38
+# Post URL: [https://www.reddit.com/r/GME/comments/ll5t0l/new_ftd_data_is_out/](https://www.reddit.com/r/GME/comments/ll5t0l/new_ftd_data_is_out/)
 
 
 The GME Failure to Deliver data from the second half of January is out!  It's about what you'd expect:

@@ -1,6 +1,6 @@
-#Title: Yall. Duh the ApeFest is Bullshit. Remember how they had said we were treating the markets like a CASINO. Now an ApeFest is being held at a CASINO....wtf. It's stimulus pairing at it's finest.👀👀👀🐱‍🏍🤦‍♀️
-#Author: Csmbird
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/olhfjs/yall_duh_the_apefest_is_bullshit_remember_how/](https://www.reddit.com/r/Superstonk/comments/olhfjs/yall_duh_the_apefest_is_bullshit_remember_how/)
+# Title: Yall. Duh the ApeFest is Bullshit. Remember how they had said we were treating the markets like a CASINO. Now an ApeFest is being held at a CASINO....wtf. It's stimulus pairing at it's finest.👀👀👀🐱‍🏍🤦‍♀️
+# Author: Csmbird
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/olhfjs/yall_duh_the_apefest_is_bullshit_remember_how/](https://www.reddit.com/r/Superstonk/comments/olhfjs/yall_duh_the_apefest_is_bullshit_remember_how/)
 
 
 ^(Planned on waking up and studying...but nah gotta pause that shit to say something...)

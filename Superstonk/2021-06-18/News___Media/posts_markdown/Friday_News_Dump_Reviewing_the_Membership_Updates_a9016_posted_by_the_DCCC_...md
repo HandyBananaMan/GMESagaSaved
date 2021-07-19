@@ -1,6 +1,6 @@
-#Title: Friday News Dump! Reviewing the Membership Updates (a9016) posted by the DCCC for the NSCC -- with info about naked shorting by one of the firms called out today!
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o34vs3/friday_news_dump_reviewing_the_membership_updates/](https://www.reddit.com/r/Superstonk/comments/o34vs3/friday_news_dump_reviewing_the_membership_updates/)
+# Title: Friday News Dump! Reviewing the Membership Updates (a9016) posted by the DCCC for the NSCC -- with info about naked shorting by one of the firms called out today!
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o34vs3/friday_news_dump_reviewing_the_membership_updates/](https://www.reddit.com/r/Superstonk/comments/o34vs3/friday_news_dump_reviewing_the_membership_updates/)
 
 
 Evening r/Superstonk, jellyfish here taking a look at [a9016](https://www.dtcc.com/-/media/Files/pdf/2021/6/18/a9016.pdf) posted by the DCCC this afternoon.

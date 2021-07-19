@@ -1,6 +1,6 @@
-#Title: Delta neutral is currently 14 million shares! Market makers should literally own half of actively traded shares right now
-#Author: kmoney41
-#Post URL: [https://www.reddit.com/r/GME/comments/lzv4k4/delta_neutral_is_currently_14_million_shares/](https://www.reddit.com/r/GME/comments/lzv4k4/delta_neutral_is_currently_14_million_shares/)
+# Title: Delta neutral is currently 14 million shares! Market makers should literally own half of actively traded shares right now
+# Author: kmoney41
+# Post URL: [https://www.reddit.com/r/GME/comments/lzv4k4/delta_neutral_is_currently_14_million_shares/](https://www.reddit.com/r/GME/comments/lzv4k4/delta_neutral_is_currently_14_million_shares/)
 
 
 Delta neutral is currently 14,384,617 to be precise. If market makers account for the vast majority of written contracts, that means they could own nearly 50% of the actively traded float RIGHT FUCKING NOW. This makes my confirmation bias rock hard.

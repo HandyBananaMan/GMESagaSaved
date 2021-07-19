@@ -1,6 +1,6 @@
-#Title: Why they’re trying to blame us for volatility
-#Author: Easteuroblondie
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob1uxm/why_theyre_trying_to_blame_us_for_volatility/](https://www.reddit.com/r/Superstonk/comments/ob1uxm/why_theyre_trying_to_blame_us_for_volatility/)
+# Title: Why they’re trying to blame us for volatility
+# Author: Easteuroblondie
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob1uxm/why_theyre_trying_to_blame_us_for_volatility/](https://www.reddit.com/r/Superstonk/comments/ob1uxm/why_theyre_trying_to_blame_us_for_volatility/)
 
 
 I work with a small, independent financial institution and I was tasked with doing some research about market volatility.

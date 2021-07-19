@@ -1,6 +1,6 @@
-#Title: Multibillionaire hedge fund manager Steve Cohen's deep roots with Melvin Capital's Gave Plotkin and Citadel's Ken Griffin
-#Author: NotsoPG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzbmbh/multibillionaire_hedge_fund_manager_steve_cohens/](https://www.reddit.com/r/Superstonk/comments/mzbmbh/multibillionaire_hedge_fund_manager_steve_cohens/)
+# Title: Multibillionaire hedge fund manager Steve Cohen's deep roots with Melvin Capital's Gave Plotkin and Citadel's Ken Griffin
+# Author: NotsoPG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzbmbh/multibillionaire_hedge_fund_manager_steve_cohens/](https://www.reddit.com/r/Superstonk/comments/mzbmbh/multibillionaire_hedge_fund_manager_steve_cohens/)
 
 
   [First post explaining the Panama and Paradise papers](https://www.reddit.com/r/Superstonk/comments/mx8chw/has_there_been_any_look_at_the_possible/)

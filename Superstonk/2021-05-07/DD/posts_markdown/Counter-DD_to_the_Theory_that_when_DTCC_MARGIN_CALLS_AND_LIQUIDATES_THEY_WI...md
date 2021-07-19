@@ -1,6 +1,6 @@
-#Title: Counter-DD to the Theory that when DTCC MARGIN CALLS AND LIQUIDATES ,THEY WILL LET THEIR COMPUTERS GO HAM AT ANY PRICE UNTIL 100% COMPLETE/COVERED (EVEN IF THEY START USING THEIR MONEY). THESIS TO PROVE/DISPROVE IS WHETHER DTCC/NSCC WILL CHANGE APPROACH WHEN THE LIQUIDATED COLLECTOR IS ALL GONE
-#Author: HCMF_MaceFace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/](https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/)
+# Title: Counter-DD to the Theory that when DTCC MARGIN CALLS AND LIQUIDATES ,THEY WILL LET THEIR COMPUTERS GO HAM AT ANY PRICE UNTIL 100% COMPLETE/COVERED (EVEN IF THEY START USING THEIR MONEY). THESIS TO PROVE/DISPROVE IS WHETHER DTCC/NSCC WILL CHANGE APPROACH WHEN THE LIQUIDATED COLLECTOR IS ALL GONE
+# Author: HCMF_MaceFace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/](https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/)
 
 
 START TOP EDIT

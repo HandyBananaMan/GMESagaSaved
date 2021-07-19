@@ -1,6 +1,6 @@
-#Title: Danger Zone Part 2 - Shorts are terrified of a $310+ close. Projected price movement for the next few months based on T+21, ever-increasing, and poking harder at the first domino just waiting for it to fall.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/](https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/)
+# Title: Danger Zone Part 2 - Shorts are terrified of a $310+ close. Projected price movement for the next few months based on T+21, ever-increasing, and poking harder at the first domino just waiting for it to fall.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/](https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/)
 
 
 # 0. Preface

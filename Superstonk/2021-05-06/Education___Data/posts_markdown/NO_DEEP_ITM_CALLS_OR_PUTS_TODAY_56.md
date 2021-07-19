@@ -1,6 +1,6 @@
-#Title: NO DEEP ITM CALLS OR PUTS TODAY (5/6)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6op3b/no_deep_itm_calls_or_puts_today_56/](https://www.reddit.com/r/Superstonk/comments/n6op3b/no_deep_itm_calls_or_puts_today_56/)
+# Title: NO DEEP ITM CALLS OR PUTS TODAY (5/6)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6op3b/no_deep_itm_calls_or_puts_today_56/](https://www.reddit.com/r/Superstonk/comments/n6op3b/no_deep_itm_calls_or_puts_today_56/)
 
 
 Quick update for my Apes:

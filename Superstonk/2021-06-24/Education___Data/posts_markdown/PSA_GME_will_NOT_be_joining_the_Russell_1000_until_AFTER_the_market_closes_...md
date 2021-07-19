@@ -1,6 +1,6 @@
-#Title: PSA: GME will NOT be joining the Russell 1000 until AFTER the market closes tomorrow. Rebalancing happens after hours.
-#Author: haxelhimura
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/)
+# Title: PSA: GME will NOT be joining the Russell 1000 until AFTER the market closes tomorrow. Rebalancing happens after hours.
+# Author: haxelhimura
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/)
 
 
 How do you do fellow apes!

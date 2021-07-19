@@ -1,6 +1,6 @@
-#Title: The most predictable ass short attack is happening post earnings, trying to make good news seem like bad news. Don’t fall for it, we know we’re not going anywhere, and if you’re paper handing now, it’s good to see you leave because you surely would paper hand at the beginning of the rocket
-#Author: The_Peregrine_
-#Post URL: [https://www.reddit.com/r/GME/comments/mbpdkn/the_most_predictable_ass_short_attack_is/](https://www.reddit.com/r/GME/comments/mbpdkn/the_most_predictable_ass_short_attack_is/)
+# Title: The most predictable ass short attack is happening post earnings, trying to make good news seem like bad news. Don’t fall for it, we know we’re not going anywhere, and if you’re paper handing now, it’s good to see you leave because you surely would paper hand at the beginning of the rocket
+# Author: The_Peregrine_
+# Post URL: [https://www.reddit.com/r/GME/comments/mbpdkn/the_most_predictable_ass_short_attack_is/](https://www.reddit.com/r/GME/comments/mbpdkn/the_most_predictable_ass_short_attack_is/)
 
 
 Don’t believe the FUD, Buy n Hold

@@ -1,6 +1,6 @@
-#Title: Just a reminder for my boy Vlad and Shitadel and DTCC and SEC that I would have sold for 999 in January
-#Author: memebetch6969
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhbc9v/just_a_reminder_for_my_boy_vlad_and_shitadel_and/](https://www.reddit.com/r/Superstonk/comments/nhbc9v/just_a_reminder_for_my_boy_vlad_and_shitadel_and/)
+# Title: Just a reminder for my boy Vlad and Shitadel and DTCC and SEC that I would have sold for 999 in January
+# Author: memebetch6969
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhbc9v/just_a_reminder_for_my_boy_vlad_and_shitadel_and/](https://www.reddit.com/r/Superstonk/comments/nhbc9v/just_a_reminder_for_my_boy_vlad_and_shitadel_and/)
 
 
 Yeah that’s right, if you had not halted trading in January I would’ve sold for 999 a share. I never even knew who Citadel was or the DTCC I only wanted quick tendies. Should have just let it happen. Now I’m holding out of spite, and I’m not selling until we come down from the peak which we all know is above 10 million. 

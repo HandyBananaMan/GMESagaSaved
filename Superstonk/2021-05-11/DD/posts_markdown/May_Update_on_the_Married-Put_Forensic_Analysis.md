@@ -1,6 +1,6 @@
-#Title: May Update on the Married-Put Forensic Analysis
-#Author: AlexanderHood
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nacqtm/may_update_on_the_marriedput_forensic_analysis/](https://www.reddit.com/r/Superstonk/comments/nacqtm/may_update_on_the_marriedput_forensic_analysis/)
+# Title: May Update on the Married-Put Forensic Analysis
+# Author: AlexanderHood
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nacqtm/may_update_on_the_marriedput_forensic_analysis/](https://www.reddit.com/r/Superstonk/comments/nacqtm/may_update_on_the_marriedput_forensic_analysis/)
 
 
 About a month ago I did an analysis for the real short interest (SI) for GME using what know about the legal Married Put mechanism for creating naked shorts.

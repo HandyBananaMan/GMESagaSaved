@@ -1,6 +1,6 @@
-#Title: July 9-16 and May 5-12 - "they are the same picture". Oh god this makes me so excited for the upcoming week...
-#Author: ClearlyPopcornSucks
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/omnpzw/july_916_and_may_512_they_are_the_same_picture_oh/](https://www.reddit.com/r/DDintoGME/comments/omnpzw/july_916_and_may_512_they_are_the_same_picture_oh/)
+# Title: July 9-16 and May 5-12 - "they are the same picture". Oh god this makes me so excited for the upcoming week...
+# Author: ClearlyPopcornSucks
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/omnpzw/july_916_and_may_512_they_are_the_same_picture_oh/](https://www.reddit.com/r/DDintoGME/comments/omnpzw/july_916_and_may_512_they_are_the_same_picture_oh/)
 
 
 # TL;DR

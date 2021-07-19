@@ -1,6 +1,6 @@
-#Title: My guess at the Next FUD attempt that has already been put in place: "I don't care about anyone else"
-#Author: akgogreen
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/on9cvo/my_guess_at_the_next_fud_attempt_that_has_already/](https://www.reddit.com/r/Superstonk/comments/on9cvo/my_guess_at_the_next_fud_attempt_that_has_already/)
+# Title: My guess at the Next FUD attempt that has already been put in place: "I don't care about anyone else"
+# Author: akgogreen
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/on9cvo/my_guess_at_the_next_fud_attempt_that_has_already/](https://www.reddit.com/r/Superstonk/comments/on9cvo/my_guess_at_the_next_fud_attempt_that_has_already/)
 
 
 I've seen it commented and posted a few times now, and it caught my eye because it's out of line with what we've always chanted, Ape No Fight Ape. But I think the recent situation is going to be, or is currently, getting spun a certain way.

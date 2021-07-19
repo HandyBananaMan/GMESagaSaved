@@ -1,6 +1,6 @@
-#Title: The whole stock market is being propped up by the RRP market and today I got confirmation bias.
-#Author: titaniumoxide202
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofr285/the_whole_stock_market_is_being_propped_up_by_the/](https://www.reddit.com/r/Superstonk/comments/ofr285/the_whole_stock_market_is_being_propped_up_by_the/)
+# Title: The whole stock market is being propped up by the RRP market and today I got confirmation bias.
+# Author: titaniumoxide202
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofr285/the_whole_stock_market_is_being_propped_up_by_the/](https://www.reddit.com/r/Superstonk/comments/ofr285/the_whole_stock_market_is_being_propped_up_by_the/)
 
 
 I saw a wrinkly brained ape's youtube video (sorry I watch so much shit I can't find who made it) on how the dow jones, S&P, prime brokerages and big banks' (including international ones) stocks tank at around 10 am and then suddenly recover because they NEED the RRP market to post more collateral. I didn't believe it until I checked the charts today. These charts look IDENTICAL to each other. The price is not only wrong for GME but the entire global stock market price is wrong too. HOLY. FUCKING. MOLY. JACKED=TITs.

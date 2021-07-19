@@ -1,6 +1,6 @@
-#Title: 🎥 r/Superstonk Live 6/9 Programming 👨‍🚀 GameStop Shareholder Meeting
-#Author: redchessqueen99
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/](https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/)
+# Title: 🎥 r/Superstonk Live 6/9 Programming 👨‍🚀 GameStop Shareholder Meeting
+# Author: redchessqueen99
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/](https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/)
 
 
 Today's the day! Happy 6/9 everyone! We have a jam-packed day full of live streaming in order to cover the GameStop Annual Shareholders Meeting for the year 2021. Learn all about it from [GameStop's news release](https://investor.gamestop.com/news-releases/news-release-details/gamestop-announces-first-quarter-fiscal-2021-earnings-release).

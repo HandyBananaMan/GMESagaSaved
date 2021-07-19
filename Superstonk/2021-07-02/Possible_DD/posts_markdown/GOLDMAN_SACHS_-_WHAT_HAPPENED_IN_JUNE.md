@@ -1,6 +1,6 @@
-#Title: 📢 GOLDMAN SACHS - WHAT HAPPENED IN JUNE?! 📢
-#Author: Wild_Investigator622
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oc8j9i/goldman_sachs_what_happened_in_june/](https://www.reddit.com/r/Superstonk/comments/oc8j9i/goldman_sachs_what_happened_in_june/)
+# Title: 📢 GOLDMAN SACHS - WHAT HAPPENED IN JUNE?! 📢
+# Author: Wild_Investigator622
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oc8j9i/goldman_sachs_what_happened_in_june/](https://www.reddit.com/r/Superstonk/comments/oc8j9i/goldman_sachs_what_happened_in_june/)
 
 
 I previously posted about JP Morgan and their registering of new charges, including as recently as June 25th. So I wanted to have a look around and see if I can find any sort of similar activities with some of the others. I didnt find much if I'm honest and most banks etc hadn't registered charges in over a decade.... so I decided to have a look at a bank that had a possible connection to all this mess, and landed at our friends at GOLDMAN SACHS. 

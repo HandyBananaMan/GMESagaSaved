@@ -1,6 +1,6 @@
-#Title: Technical Analysis: It's all Lining Up - Week of 6/28
-#Author: RocketTraveler
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/](https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/)
+# Title: Technical Analysis: It's all Lining Up - Week of 6/28
+# Author: RocketTraveler
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/](https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/)
 
 
 Fellow HODLers,

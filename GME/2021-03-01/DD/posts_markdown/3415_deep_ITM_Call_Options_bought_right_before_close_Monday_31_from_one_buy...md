@@ -1,6 +1,6 @@
-#Title: 3,415 deep ITM Call Options bought right before close Monday 3/1 from one buyer. $35.7M (or more) in Premiums paid!
-#Author: tapakip
-#Post URL: [https://www.reddit.com/r/GME/comments/lvt1hd/3415_deep_itm_call_options_bought_right_before/](https://www.reddit.com/r/GME/comments/lvt1hd/3415_deep_itm_call_options_bought_right_before/)
+# Title: 3,415 deep ITM Call Options bought right before close Monday 3/1 from one buyer. $35.7M (or more) in Premiums paid!
+# Author: tapakip
+# Post URL: [https://www.reddit.com/r/GME/comments/lvt1hd/3415_deep_itm_call_options_bought_right_before/](https://www.reddit.com/r/GME/comments/lvt1hd/3415_deep_itm_call_options_bought_right_before/)
 
 
 Obligatory I am not a financial adviser, do your own research.  Not sure if anyone else has already posted this DD, but I noticed this earlier today and thought I'd share.

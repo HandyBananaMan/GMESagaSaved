@@ -1,6 +1,6 @@
-#Title: GameStop listed on London Stock Exchange as (0A6L) 234.00 USD Vol 4.205k
-#Author: bosh023
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/noxyc3/gamestop_listed_on_london_stock_exchange_as_0a6l/](https://www.reddit.com/r/Superstonk/comments/noxyc3/gamestop_listed_on_london_stock_exchange_as_0a6l/)
+# Title: GameStop listed on London Stock Exchange as (0A6L) 234.00 USD Vol 4.205k
+# Author: bosh023
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/noxyc3/gamestop_listed_on_london_stock_exchange_as_0a6l/](https://www.reddit.com/r/Superstonk/comments/noxyc3/gamestop_listed_on_london_stock_exchange_as_0a6l/)
 
 
 \[GAMESTOP CORP GAMESTOP ORD SHS CLASS A\] 0A6L LSE. Showing volume started on 5/18/21

@@ -1,6 +1,6 @@
-#Title: Systems Disconnect Rule: NSCC-2021-007, DTC-2021-011 & FICC 2021-004
-#Author: nimrod8311
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/](https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/)
+# Title: Systems Disconnect Rule: NSCC-2021-007, DTC-2021-011 & FICC 2021-004
+# Author: nimrod8311
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/](https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/)
 
 
 **\*This is not advice, legal, financial or otherwise. All views expressed are strictly personal ape opinions which should not be relied on.**

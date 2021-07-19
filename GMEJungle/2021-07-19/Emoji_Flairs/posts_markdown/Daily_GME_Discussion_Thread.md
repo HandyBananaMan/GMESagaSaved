@@ -1,6 +1,6 @@
-#Title: Daily $GME Discussion Thread
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/on8ug6/daily_gme_discussion_thread/](https://www.reddit.com/r/GMEJungle/comments/on8ug6/daily_gme_discussion_thread/)
+# Title: Daily $GME Discussion Thread
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/on8ug6/daily_gme_discussion_thread/](https://www.reddit.com/r/GMEJungle/comments/on8ug6/daily_gme_discussion_thread/)
 
 
 # This is the Daily $GME discussion thread.

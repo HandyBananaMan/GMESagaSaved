@@ -1,6 +1,6 @@
-#Title: Double the short interest, half the anxiety.
-#Author: haydoboyo
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/](https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/)
+# Title: Double the short interest, half the anxiety.
+# Author: haydoboyo
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/](https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/)
 
 
 Hi everyone, hope your weekend is going well,

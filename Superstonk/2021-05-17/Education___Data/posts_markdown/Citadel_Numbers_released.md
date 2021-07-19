@@ -1,6 +1,6 @@
-#Title: Citadel Numbers released!
-#Author: Fox-Great
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nequjr/citadel_numbers_released/](https://www.reddit.com/r/Superstonk/comments/nequjr/citadel_numbers_released/)
+# Title: Citadel Numbers released!
+# Author: Fox-Great
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nequjr/citadel_numbers_released/](https://www.reddit.com/r/Superstonk/comments/nequjr/citadel_numbers_released/)
 
 
 Citadel finally released 13F-HR

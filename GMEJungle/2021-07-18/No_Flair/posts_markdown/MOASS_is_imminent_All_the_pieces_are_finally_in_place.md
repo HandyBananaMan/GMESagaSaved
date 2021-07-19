@@ -1,6 +1,6 @@
-#Title: MOASS is imminent. All the pieces are finally in place.
-#Author: Skyebits
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/ompl1e/moass_is_imminent_all_the_pieces_are_finally_in/](https://www.reddit.com/r/GMEJungle/comments/ompl1e/moass_is_imminent_all_the_pieces_are_finally_in/)
+# Title: MOASS is imminent. All the pieces are finally in place.
+# Author: Skyebits
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/ompl1e/moass_is_imminent_all_the_pieces_are_finally_in/](https://www.reddit.com/r/GMEJungle/comments/ompl1e/moass_is_imminent_all_the_pieces_are_finally_in/)
 
 
 First let me start by saying that this is just my opinion and some speculation. However, I genuinely believe we are in the endgame and MOASS could happen very soon, like within the next week or two.

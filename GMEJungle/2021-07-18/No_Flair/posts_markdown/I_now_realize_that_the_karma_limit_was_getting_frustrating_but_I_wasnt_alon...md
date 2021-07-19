@@ -1,6 +1,6 @@
-#Title: I now realize that the karma limit was getting frustrating, but I wasn't alone
-#Author: DannyThePatient
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omp8pa/i_now_realize_that_the_karma_limit_was_getting/](https://www.reddit.com/r/GMEJungle/comments/omp8pa/i_now_realize_that_the_karma_limit_was_getting/)
+# Title: I now realize that the karma limit was getting frustrating, but I wasn't alone
+# Author: DannyThePatient
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omp8pa/i_now_realize_that_the_karma_limit_was_getting/](https://www.reddit.com/r/GMEJungle/comments/omp8pa/i_now_realize_that_the_karma_limit_was_getting/)
 
 
 At first I noticed the good: better posts, less shills (or so I thought at the beginning).

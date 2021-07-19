@@ -1,3 +1,4 @@
+# Title: All DD is peer reviewed, or how I learned to stop worrying and wait for the squeeze.
 # Author: stillconnecting
 # Post URL: [https://www.reddit.com/r/GME/comments/mj76tr/all_dd_is_peer_reviewed_or_how_i_learned_to_stop/](https://www.reddit.com/r/GME/comments/mj76tr/all_dd_is_peer_reviewed_or_how_i_learned_to_stop/)
 

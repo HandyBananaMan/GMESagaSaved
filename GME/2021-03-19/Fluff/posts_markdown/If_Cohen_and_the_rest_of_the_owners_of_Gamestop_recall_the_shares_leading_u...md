@@ -1,6 +1,6 @@
-#Title: If Cohen and the rest of the owners of Gamestop recall the shares leading us to be wealthy, they should know the Gamestop will never go bankrupt. All of our tendies will make sure of that.
-#Author: tricky4444
-#Post URL: [https://www.reddit.com/r/GME/comments/m8wuzy/if_cohen_and_the_rest_of_the_owners_of_gamestop/](https://www.reddit.com/r/GME/comments/m8wuzy/if_cohen_and_the_rest_of_the_owners_of_gamestop/)
+# Title: If Cohen and the rest of the owners of Gamestop recall the shares leading us to be wealthy, they should know the Gamestop will never go bankrupt. All of our tendies will make sure of that.
+# Author: tricky4444
+# Post URL: [https://www.reddit.com/r/GME/comments/m8wuzy/if_cohen_and_the_rest_of_the_owners_of_gamestop/](https://www.reddit.com/r/GME/comments/m8wuzy/if_cohen_and_the_rest_of_the_owners_of_gamestop/)
 
 
 🚀🚀🚀

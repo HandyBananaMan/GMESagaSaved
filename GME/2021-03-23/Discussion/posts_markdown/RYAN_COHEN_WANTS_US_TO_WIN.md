@@ -1,6 +1,6 @@
-#Title: RYAN COHEN WANTS US TO WIN!
-#Author: dljmonkeyboiz
-#Post URL: [https://www.reddit.com/r/GME/comments/mbucab/ryan_cohen_wants_us_to_win/](https://www.reddit.com/r/GME/comments/mbucab/ryan_cohen_wants_us_to_win/)
+# Title: RYAN COHEN WANTS US TO WIN!
+# Author: dljmonkeyboiz
+# Post URL: [https://www.reddit.com/r/GME/comments/mbucab/ryan_cohen_wants_us_to_win/](https://www.reddit.com/r/GME/comments/mbucab/ryan_cohen_wants_us_to_win/)
 
 
 I have been reading more about Ryan Cohen’s customer centric management style. This guy is maniacal when it comes to customer service. The 24/7 support. Personally handling the one customer’s order that took forever to ship. This guy is down in every detail, nook and cranny of this company. Ryan Cohen wants us to win. 

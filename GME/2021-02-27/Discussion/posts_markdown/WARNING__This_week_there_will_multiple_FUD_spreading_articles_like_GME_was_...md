@@ -1,6 +1,6 @@
-#Title: ⛔ WARNING ⛔ This week there will multiple FUD spreading articles like GME was hyped by bots, GME won't reach high, 🤡 Jim Cramer's articles etc to try and change the sentiments. Yet NO BODY is investigating and writing who exactly naked shorted and how much did they naked short. I LIKE THE STOCK
-#Author: DavidNIO
-#Post URL: [https://www.reddit.com/r/GME/comments/ltzw1k/warning_this_week_there_will_multiple_fud/](https://www.reddit.com/r/GME/comments/ltzw1k/warning_this_week_there_will_multiple_fud/)
+# Title: ⛔ WARNING ⛔ This week there will multiple FUD spreading articles like GME was hyped by bots, GME won't reach high, 🤡 Jim Cramer's articles etc to try and change the sentiments. Yet NO BODY is investigating and writing who exactly naked shorted and how much did they naked short. I LIKE THE STOCK
+# Author: DavidNIO
+# Post URL: [https://www.reddit.com/r/GME/comments/ltzw1k/warning_this_week_there_will_multiple_fud/](https://www.reddit.com/r/GME/comments/ltzw1k/warning_this_week_there_will_multiple_fud/)
 
 
 Here is Jim Cramer explaining HOW HE ACTUALLY MANIPULATED THE MARKET & STILL HE HASN'T GONE TO JAIL. We are NOT even manipulating, We are buying the stock that We Like   what's their problem?  They are the ones who is manipulating the market by naked shorting.  

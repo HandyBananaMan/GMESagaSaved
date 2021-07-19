@@ -1,6 +1,6 @@
-#Title: Thesis: SI is Upwards of 2000%, GME is a $100 Trillion Bubble Waiting to Pop, and DTCC is Attempting to Crash the Entire Market to Socialize Losses. Change My Mind.
-#Author: Unowned-Instruction
-#Post URL: [https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/](https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/)
+# Title: Thesis: SI is Upwards of 2000%, GME is a $100 Trillion Bubble Waiting to Pop, and DTCC is Attempting to Crash the Entire Market to Socialize Losses. Change My Mind.
+# Author: Unowned-Instruction
+# Post URL: [https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/](https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/)
 
 
 # Thesis Statement / AKA TLDR

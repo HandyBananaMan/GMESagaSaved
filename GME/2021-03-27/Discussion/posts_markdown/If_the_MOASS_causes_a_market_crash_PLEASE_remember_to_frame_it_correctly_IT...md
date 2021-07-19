@@ -1,6 +1,6 @@
-#Title: If the MOASS causes a market crash PLEASE remember to frame it correctly. IT IS THE SHORTS FAULT. NOT GME OR REDDIT. They lost and chose to create systemic risk as a last ditch strategy, hoping the government bails them out. Start saying it now and take control of the narrative ahead of the MOASS.
-#Author: milkshakes_for_mitch
-#Post URL: [https://www.reddit.com/r/GME/comments/meivb7/if_the_moass_causes_a_market_crash_please/](https://www.reddit.com/r/GME/comments/meivb7/if_the_moass_causes_a_market_crash_please/)
+# Title: If the MOASS causes a market crash PLEASE remember to frame it correctly. IT IS THE SHORTS FAULT. NOT GME OR REDDIT. They lost and chose to create systemic risk as a last ditch strategy, hoping the government bails them out. Start saying it now and take control of the narrative ahead of the MOASS.
+# Author: milkshakes_for_mitch
+# Post URL: [https://www.reddit.com/r/GME/comments/meivb7/if_the_moass_causes_a_market_crash_please/](https://www.reddit.com/r/GME/comments/meivb7/if_the_moass_causes_a_market_crash_please/)
 
 
 Thanks for reading. I like the fucking stock. 🚀🚀🚀

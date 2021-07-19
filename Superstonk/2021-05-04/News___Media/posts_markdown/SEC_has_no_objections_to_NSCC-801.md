@@ -1,6 +1,6 @@
-#Title: SEC has no objections to NSCC-801!
-#Author: bavetta
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/](https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/)
+# Title: SEC has no objections to NSCC-801!
+# Author: bavetta
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/](https://www.reddit.com/r/Superstonk/comments/n51u5d/sec_has_no_objections_to_nscc801/)
 
 
 https://www.sec.gov/rules/sro/nscc-an.htm#SR-NSCC-2021-801

@@ -1,6 +1,6 @@
-#Title: THANKS TO GME I CONFIRMED THAT MY GIRLFRIEND WILL BE MY FUTURE WIFE DETAILS BELOW ❤❤❤💎💎💎💍💍💍
-#Author: zach7797
-#Post URL: [https://www.reddit.com/r/GME/comments/md504e/thanks_to_gme_i_confirmed_that_my_girlfriend_will/](https://www.reddit.com/r/GME/comments/md504e/thanks_to_gme_i_confirmed_that_my_girlfriend_will/)
+# Title: THANKS TO GME I CONFIRMED THAT MY GIRLFRIEND WILL BE MY FUTURE WIFE DETAILS BELOW ❤❤❤💎💎💎💍💍💍
+# Author: zach7797
+# Post URL: [https://www.reddit.com/r/GME/comments/md504e/thanks_to_gme_i_confirmed_that_my_girlfriend_will/](https://www.reddit.com/r/GME/comments/md504e/thanks_to_gme_i_confirmed_that_my_girlfriend_will/)
 
 
 I was talking to my girlfriend this morning about buying the beautiful cheesy dip of GME tendies this morning. My problem is that our anniversary is coming up next weekend and I want to do something extra special for her and us fancy dinner, jewelery, vacation, etc.

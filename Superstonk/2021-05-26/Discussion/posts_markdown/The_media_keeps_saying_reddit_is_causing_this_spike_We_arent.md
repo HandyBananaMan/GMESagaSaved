@@ -1,6 +1,6 @@
-#Title: The media keeps saying "reddit is causing this spike". We aren't.
-#Author: SharingAndCaring365
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlj8n2/the_media_keeps_saying_reddit_is_causing_this/](https://www.reddit.com/r/Superstonk/comments/nlj8n2/the_media_keeps_saying_reddit_is_causing_this/)
+# Title: The media keeps saying "reddit is causing this spike". We aren't.
+# Author: SharingAndCaring365
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlj8n2/the_media_keeps_saying_reddit_is_causing_this/](https://www.reddit.com/r/Superstonk/comments/nlj8n2/the_media_keeps_saying_reddit_is_causing_this/)
 
 
 “It looks like the Reddit Raiders are at it again,” says Michael Pachter, analyst at Wedbush Securities.  

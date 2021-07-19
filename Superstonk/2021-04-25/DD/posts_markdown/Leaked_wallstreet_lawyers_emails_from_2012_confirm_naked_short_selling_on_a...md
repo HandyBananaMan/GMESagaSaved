@@ -1,6 +1,6 @@
-#Title: Leaked wallstreet lawyers' emails from 2012 confirm naked short selling on another e-commerce company called Overstock - How they used lawsuits, blockchain, and crypto to fight back years ago pt. 2 And the Steve cohen connections pt 3.
-#Author: NotsoPG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mylo06/leaked_wallstreet_lawyers_emails_from_2012/](https://www.reddit.com/r/Superstonk/comments/mylo06/leaked_wallstreet_lawyers_emails_from_2012/)
+# Title: Leaked wallstreet lawyers' emails from 2012 confirm naked short selling on another e-commerce company called Overstock - How they used lawsuits, blockchain, and crypto to fight back years ago pt. 2 And the Steve cohen connections pt 3.
+# Author: NotsoPG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mylo06/leaked_wallstreet_lawyers_emails_from_2012/](https://www.reddit.com/r/Superstonk/comments/mylo06/leaked_wallstreet_lawyers_emails_from_2012/)
 
 
  [First post explaining the Panama and Paradise papers](https://www.reddit.com/r/Superstonk/comments/mx8chw/has_there_been_any_look_at_the_possible/)

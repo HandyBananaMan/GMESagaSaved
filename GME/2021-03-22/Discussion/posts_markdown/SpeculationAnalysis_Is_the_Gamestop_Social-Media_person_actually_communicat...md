@@ -1,6 +1,6 @@
-#Title: Speculation/Analysis: Is the Gamestop Social-Media person actually communicating with us?
-#Author: HeyItsPixeL
-#Post URL: [https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/](https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/)
+# Title: Speculation/Analysis: Is the Gamestop Social-Media person actually communicating with us?
+# Author: HeyItsPixeL
+# Post URL: [https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/](https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/)
 
 
 People talked a lot about the Facebook post stating "It's gonna be a monster of a week.". I talked about two previous posts, making it look like the Social-Media person is talking about the Stock.

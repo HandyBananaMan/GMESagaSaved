@@ -1,6 +1,6 @@
-#Title: Do NOT pressure the SEC to take action - a political excuse for trading to be halted is the LAST thing we need to give them right now
-#Author: Iconoclastices
-#Post URL: [https://www.reddit.com/r/GME/comments/mclrpy/do_not_pressure_the_sec_to_take_action_a/](https://www.reddit.com/r/GME/comments/mclrpy/do_not_pressure_the_sec_to_take_action_a/)
+# Title: Do NOT pressure the SEC to take action - a political excuse for trading to be halted is the LAST thing we need to give them right now
+# Author: Iconoclastices
+# Post URL: [https://www.reddit.com/r/GME/comments/mclrpy/do_not_pressure_the_sec_to_take_action_a/](https://www.reddit.com/r/GME/comments/mclrpy/do_not_pressure_the_sec_to_take_action_a/)
 
 
 I've seen an uptick in the number of posts calling for SEC involvement today on here and WSB, most calling for a share count or similar to take place.

@@ -1,6 +1,6 @@
-#Title: Spreading the word ‘time bomb = squeeze’
-#Author: SaltyRemz
-#Post URL: [https://www.reddit.com/r/GME/comments/mkaqxb/spreading_the_word_time_bomb_squeeze/](https://www.reddit.com/r/GME/comments/mkaqxb/spreading_the_word_time_bomb_squeeze/)
+# Title: Spreading the word ‘time bomb = squeeze’
+# Author: SaltyRemz
+# Post URL: [https://www.reddit.com/r/GME/comments/mkaqxb/spreading_the_word_time_bomb_squeeze/](https://www.reddit.com/r/GME/comments/mkaqxb/spreading_the_word_time_bomb_squeeze/)
 
 
 Credits : u/Long-Setting

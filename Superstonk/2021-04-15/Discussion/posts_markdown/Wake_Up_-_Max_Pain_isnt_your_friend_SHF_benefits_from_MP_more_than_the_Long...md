@@ -1,3 +1,4 @@
+# Title: Wake Up - Max Pain isn’t your friend. SHF benefits from MP more than the LongWhales at this point.
 # Author: jennysonson
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/mrosto/wake_up_max_pain_isnt_your_friend_shf_benefits/](https://www.reddit.com/r/Superstonk/comments/mrosto/wake_up_max_pain_isnt_your_friend_shf_benefits/)
 

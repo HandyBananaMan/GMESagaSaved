@@ -1,6 +1,6 @@
-#Title: This sub has undergone a powerful psychological transformation and I love it. Instead of feeling the necessity to defend DD or to articulate coincidental sets of data, the response is now then short it scrub
-#Author: BugsDrugsandScience
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaoib5/this_sub_has_undergone_a_powerful_psychological/](https://www.reddit.com/r/Superstonk/comments/oaoib5/this_sub_has_undergone_a_powerful_psychological/)
+# Title: This sub has undergone a powerful psychological transformation and I love it. Instead of feeling the necessity to defend DD or to articulate coincidental sets of data, the response is now then short it scrub
+# Author: BugsDrugsandScience
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaoib5/this_sub_has_undergone_a_powerful_psychological/](https://www.reddit.com/r/Superstonk/comments/oaoib5/this_sub_has_undergone_a_powerful_psychological/)
 
 
 Have we all realized that? You don’t have explain what folk could perceive as loosely related facts. The data is so profound that one can simply reply short it then, if you’re so confident I’m wrong. 

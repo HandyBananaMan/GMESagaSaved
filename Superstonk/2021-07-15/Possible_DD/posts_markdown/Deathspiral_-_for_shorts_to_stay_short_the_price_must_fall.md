@@ -1,6 +1,6 @@
-#Title: Deathspiral - for shorts to stay short, the price must fall
-#Author: PowerRaptor
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oktyvl/deathspiral_for_shorts_to_stay_short_the_price/](https://www.reddit.com/r/Superstonk/comments/oktyvl/deathspiral_for_shorts_to_stay_short_the_price/)
+# Title: Deathspiral - for shorts to stay short, the price must fall
+# Author: PowerRaptor
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oktyvl/deathspiral_for_shorts_to_stay_short_the_price/](https://www.reddit.com/r/Superstonk/comments/oktyvl/deathspiral_for_shorts_to_stay_short_the_price/)
 
 
 I had just gone to bed when something occured to me. I am typing this idea on my phone and would love some input.

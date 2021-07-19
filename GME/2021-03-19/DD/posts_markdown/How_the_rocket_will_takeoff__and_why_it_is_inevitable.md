@@ -1,6 +1,6 @@
-#Title: How the rocket will takeoff 🚀 and why it is inevitable
-#Author: GotSodium
-#Post URL: [https://www.reddit.com/r/GME/comments/m8w34p/how_the_rocket_will_takeoff_and_why_it_is/](https://www.reddit.com/r/GME/comments/m8w34p/how_the_rocket_will_takeoff_and_why_it_is/)
+# Title: How the rocket will takeoff 🚀 and why it is inevitable
+# Author: GotSodium
+# Post URL: [https://www.reddit.com/r/GME/comments/m8w34p/how_the_rocket_will_takeoff_and_why_it_is/](https://www.reddit.com/r/GME/comments/m8w34p/how_the_rocket_will_takeoff_and_why_it_is/)
 
 
 **DISCLAIMER: THIS IS NOT FINANCIAL ADVICE, THERE IS NO FINANCIAL ADVICE IN HERE. PLEASE MAKE YOUR OWN SMART DECISIONS.**

@@ -1,6 +1,6 @@
-#Title: Why the $300 wall
-#Author: ILikeChopin2
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o85ojc/why_the_300_wall/](https://www.reddit.com/r/DDintoGME/comments/o85ojc/why_the_300_wall/)
+# Title: Why the $300 wall
+# Author: ILikeChopin2
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o85ojc/why_the_300_wall/](https://www.reddit.com/r/DDintoGME/comments/o85ojc/why_the_300_wall/)
 
 
 I'm a simple ape, and can do simple math. 

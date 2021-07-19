@@ -1,6 +1,6 @@
-#Title: Accidentally Released – and Incredibly Embarrassing – Documents Show How Goldman et al Engaged in ‘Naked Short Selling’
-#Author: bobfern37
-#Post URL: [https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/)
+# Title: Accidentally Released – and Incredibly Embarrassing – Documents Show How Goldman et al Engaged in ‘Naked Short Selling’
+# Author: bobfern37
+# Post URL: [https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/)
 
 
 [The gem of all gem articles.](https://www.google.com/amp/s/www.rollingstone.com/politics/politics-news/accidentally-released-and-incredibly-embarrassing-documents-show-how-goldman-et-al-engaged-in-naked-short-selling-244035/amp/) 

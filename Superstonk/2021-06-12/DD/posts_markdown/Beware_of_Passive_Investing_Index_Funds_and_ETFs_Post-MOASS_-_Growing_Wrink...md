@@ -1,6 +1,6 @@
-#Title: Beware of Passive Investing (Index Funds and ETFs) Post-MOASS - Growing Wrinkles with Michael Burry, weekend of June 11th 2021
-#Author: Pop-Tart_Rabies_Monk
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/)
+# Title: Beware of Passive Investing (Index Funds and ETFs) Post-MOASS - Growing Wrinkles with Michael Burry, weekend of June 11th 2021
+# Author: Pop-Tart_Rabies_Monk
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/)
 
 
 APES. What a week it has been. We saw some gains. We had them taken away. [We felt woozy.](https://mobile.twitter.com/TheRoaringKitty/status/1403060736889344004) But we HODLd. And we dealt with some serious uncertainty with the shareholder meeting on Wednesday, and the flurry of new info from GameStop. I don't know about you, but it felt pretty shilly in here. Give the shills credit - they tried sooo hard! But we apes are strong together.

@@ -1,6 +1,6 @@
-#Title: Everything happening right now is just more evidence we're all on the right track.
-#Author: magnificentmemer
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/okm7uc/everything_happening_right_now_is_just_more/](https://www.reddit.com/r/Superstonk/comments/okm7uc/everything_happening_right_now_is_just_more/)
+# Title: Everything happening right now is just more evidence we're all on the right track.
+# Author: magnificentmemer
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/okm7uc/everything_happening_right_now_is_just_more/](https://www.reddit.com/r/Superstonk/comments/okm7uc/everything_happening_right_now_is_just_more/)
 
 
 Let's take a look at how goddamn interesting today and this week has been.

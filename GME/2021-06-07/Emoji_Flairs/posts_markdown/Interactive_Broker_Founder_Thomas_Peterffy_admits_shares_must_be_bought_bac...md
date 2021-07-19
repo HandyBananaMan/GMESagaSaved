@@ -1,6 +1,6 @@
-#Title: Interactive Broker Founder Thomas Peterffy admits "shares must be bought back... at ANY PRICE"!!! Who still has a floor???
-#Author: theOfCourseHorse
-#Post URL: [https://www.reddit.com/r/GME/comments/nu5m47/interactive_broker_founder_thomas_peterffy_admits/](https://www.reddit.com/r/GME/comments/nu5m47/interactive_broker_founder_thomas_peterffy_admits/)
+# Title: Interactive Broker Founder Thomas Peterffy admits "shares must be bought back... at ANY PRICE"!!! Who still has a floor???
+# Author: theOfCourseHorse
+# Post URL: [https://www.reddit.com/r/GME/comments/nu5m47/interactive_broker_founder_thomas_peterffy_admits/](https://www.reddit.com/r/GME/comments/nu5m47/interactive_broker_founder_thomas_peterffy_admits/)
 
 
 This is a link to the 10 min. version video... the last 6 seconds is what counts!

@@ -1,6 +1,6 @@
-#Title: Elliot Waves, GME, The S&P 500, Wen Market Peak and GME Boom?
-#Author: possibly6
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/](https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/)
+# Title: Elliot Waves, GME, The S&P 500, Wen Market Peak and GME Boom?
+# Author: possibly6
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/](https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/)
 
 
 Sup Apes

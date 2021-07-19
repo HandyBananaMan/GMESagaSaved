@@ -1,6 +1,6 @@
-#Title: The Federal Reserve is the final boss in this entire saga. "The Fed is Lighting the Fuse for a Liquidity Crisis" - what looks like a collateral crisis now (Reverse Repo) is soon going to turn into a full on liquidity crisis. 2008 NEVER ENDED.
-#Author: Son0fTheSun333
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/](https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/)
+# Title: The Federal Reserve is the final boss in this entire saga. "The Fed is Lighting the Fuse for a Liquidity Crisis" - what looks like a collateral crisis now (Reverse Repo) is soon going to turn into a full on liquidity crisis. 2008 NEVER ENDED.
+# Author: Son0fTheSun333
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/](https://www.reddit.com/r/Superstonk/comments/ob12y0/the_federal_reserve_is_the_final_boss_in_this/)
 
 
 Since joining this sub and reading all the wrinkly brain DD that's been going around the past ~6 months, I've finally started to gain a wrinkle myself. I'll start by saying that I haven't written any DD, I literally have 0 background in finance/stocks/anything else related ot this sector. I literally clean office buildings for a living and GME is my ticket to financial freedom - otherwise I'd prob have to slave my ass off the rest of my life to retire after I die. 

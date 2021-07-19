@@ -1,6 +1,6 @@
-#Title: "GaMeStOp iS jUsT bRiCk AnD mOrTar, iT cAn'T haVe a TrIlLiOn DoLlAr MaRkEt CaP." An introduction to market cap, why GME can have whatever market cap it wants, and debunking some shill myths about debt.
-#Author: Schwaggaccino
-#Post URL: [https://www.reddit.com/r/GME/comments/meiqkj/gamestop_is_just_brick_and_mortar_it_cant_have_a/](https://www.reddit.com/r/GME/comments/meiqkj/gamestop_is_just_brick_and_mortar_it_cant_have_a/)
+# Title: "GaMeStOp iS jUsT bRiCk AnD mOrTar, iT cAn'T haVe a TrIlLiOn DoLlAr MaRkEt CaP." An introduction to market cap, why GME can have whatever market cap it wants, and debunking some shill myths about debt.
+# Author: Schwaggaccino
+# Post URL: [https://www.reddit.com/r/GME/comments/meiqkj/gamestop_is_just_brick_and_mortar_it_cant_have_a/](https://www.reddit.com/r/GME/comments/meiqkj/gamestop_is_just_brick_and_mortar_it_cant_have_a/)
 
 
 #Who is worth what?

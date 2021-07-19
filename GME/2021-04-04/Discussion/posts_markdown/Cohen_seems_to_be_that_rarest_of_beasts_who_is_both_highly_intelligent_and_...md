@@ -1,6 +1,6 @@
-#Title: Cohen seems to be that rarest of beasts who is both highly intelligent and highly empathetic.
-#Author: Stonkinator3000
-#Post URL: [https://www.reddit.com/r/GME/comments/mk4kbg/cohen_seems_to_be_that_rarest_of_beasts_who_is/](https://www.reddit.com/r/GME/comments/mk4kbg/cohen_seems_to_be_that_rarest_of_beasts_who_is/)
+# Title: Cohen seems to be that rarest of beasts who is both highly intelligent and highly empathetic.
+# Author: Stonkinator3000
+# Post URL: [https://www.reddit.com/r/GME/comments/mk4kbg/cohen_seems_to_be_that_rarest_of_beasts_who_is/](https://www.reddit.com/r/GME/comments/mk4kbg/cohen_seems_to_be_that_rarest_of_beasts_who_is/)
 
 
 I’ve seen a lot of posts and articles saying Cohen wouldn’t do a share offering because he doesn’t want to dilute his own position.

@@ -1,6 +1,6 @@
-#Title: Why is the Chase bank glitch not a bigger deal?
-#Author: britonica
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/](https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/)
+# Title: Why is the Chase bank glitch not a bigger deal?
+# Author: britonica
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/](https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/)
 
 
 I feel like I'm taking crazy pills. 

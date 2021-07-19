@@ -1,6 +1,6 @@
-#Title: Probably the last DD you'll ever need to read... The OTC Conspiracy - Shining Some Light into the Dark Pool data
-#Author: nayboyer2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/](https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/)
+# Title: Probably the last DD you'll ever need to read... The OTC Conspiracy - Shining Some Light into the Dark Pool data
+# Author: nayboyer2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/](https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/)
 
 
 I know that collectively, we are anti-conspiracy right now, but as a simple ape, I just liked the way it rhymed.

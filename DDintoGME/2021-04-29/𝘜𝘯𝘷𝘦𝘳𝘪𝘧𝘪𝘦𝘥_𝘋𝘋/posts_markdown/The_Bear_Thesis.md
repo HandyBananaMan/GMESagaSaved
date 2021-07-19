@@ -1,6 +1,6 @@
-#Title: The Bear Thesis
-#Author: ayyyybro
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/](https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/)
+# Title: The Bear Thesis
+# Author: ayyyybro
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/](https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/)
 
 
 Sup Apes,

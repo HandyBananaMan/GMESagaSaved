@@ -1,6 +1,6 @@
-#Title: Satori was a failure and real superstonk users have not been able to post there for ages while shills and terrible memes took up all the space instead of DD and positive energy.
-#Author: MeditateItHelps
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/om18n5/satori_was_a_failure_and_real_superstonk_users/](https://www.reddit.com/r/GMEJungle/comments/om18n5/satori_was_a_failure_and_real_superstonk_users/)
+# Title: Satori was a failure and real superstonk users have not been able to post there for ages while shills and terrible memes took up all the space instead of DD and positive energy.
+# Author: MeditateItHelps
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/om18n5/satori_was_a_failure_and_real_superstonk_users/](https://www.reddit.com/r/GMEJungle/comments/om18n5/satori_was_a_failure_and_real_superstonk_users/)
 
 
 At first Satori was quite succesful and I was surprised by the complexity of the requirements 

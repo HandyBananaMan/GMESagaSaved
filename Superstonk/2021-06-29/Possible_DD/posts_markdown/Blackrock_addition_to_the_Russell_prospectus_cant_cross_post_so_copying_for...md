@@ -1,6 +1,6 @@
-#Title: Blackrock addition to the Russell prospectus… can’t cross post so copying for visibility. NEED AN ADULT HERE!
-#Author: SPAClivesmatter
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/](https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/)
+# Title: Blackrock addition to the Russell prospectus… can’t cross post so copying for visibility. NEED AN ADULT HERE!
+# Author: SPAClivesmatter
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/](https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/)
 
 
 Copied on my phone so I apologize for the formatting. Credit to u/hunting_snipes for the post. I think this is worth a look!

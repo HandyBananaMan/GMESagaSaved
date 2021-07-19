@@ -1,6 +1,6 @@
-#Title: HELP! Interactive Brokers just responded to my inquiry saying that my shares were lent out on the date of record - they set the option to lend shares ON themselves - IT WAS OFF I confirmed it multiple times in March/April! F**king criminals!
-#Author: the_Rei
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4wwni/help_interactive_brokers_just_responded_to_my/](https://www.reddit.com/r/Superstonk/comments/n4wwni/help_interactive_brokers_just_responded_to_my/)
+# Title: HELP! Interactive Brokers just responded to my inquiry saying that my shares were lent out on the date of record - they set the option to lend shares ON themselves - IT WAS OFF I confirmed it multiple times in March/April! F**king criminals!
+# Author: the_Rei
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4wwni/help_interactive_brokers_just_responded_to_my/](https://www.reddit.com/r/Superstonk/comments/n4wwni/help_interactive_brokers_just_responded_to_my/)
 
 
 PRE-NOTE: Tried as best as I could to unfuck formatting... plz give me a *break*. Took me a while to write this, I’m still too FUCKING upset while trying to calmly piece everything to figure out the best strategy. Sorry if it’s confusing. These criminals do this fuckery in their working hours, while the rest of us have to waste our free time dealing with these crimes. I really could use some help & guidance as to what legal steps to take now.

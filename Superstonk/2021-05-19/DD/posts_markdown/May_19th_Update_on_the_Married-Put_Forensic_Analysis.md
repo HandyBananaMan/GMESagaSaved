@@ -1,6 +1,6 @@
-#Title: May 19th Update on the Married-Put Forensic Analysis
-#Author: AlexanderHood
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/)
+# Title: May 19th Update on the Married-Put Forensic Analysis
+# Author: AlexanderHood
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/)
 
 
 If you're feeling blue cause of all the red, I have some confirmation for your bias right here. :)

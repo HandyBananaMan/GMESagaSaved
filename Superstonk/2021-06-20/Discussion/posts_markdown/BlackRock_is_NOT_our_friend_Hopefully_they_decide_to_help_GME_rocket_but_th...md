@@ -1,6 +1,6 @@
-#Title: BlackRock is NOT our friend. Hopefully they decide to help GME rocket but they definitely are not our friend and may be dangerous in long run
-#Author: BellaCaseyMR
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/](https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/)
+# Title: BlackRock is NOT our friend. Hopefully they decide to help GME rocket but they definitely are not our friend and may be dangerous in long run
+# Author: BellaCaseyMR
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/](https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/)
 
 
 BlackRock had over **$8.68 trillion** in assets under management \[[December 31, 2020 financial statement](https://www.blackrock.com/corporate/literature/annual-report/blackrock-2020-annual-report.pdf)\] in more than 100 countries across the globe. 

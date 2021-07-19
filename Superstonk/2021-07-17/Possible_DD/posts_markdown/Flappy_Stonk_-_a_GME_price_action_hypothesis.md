@@ -1,6 +1,6 @@
-#Title: Flappy Stonk - a GME price action hypothesis
-#Author: PowerRaptor
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/om4qpm/flappy_stonk_a_gme_price_action_hypothesis/](https://www.reddit.com/r/Superstonk/comments/om4qpm/flappy_stonk_a_gme_price_action_hypothesis/)
+# Title: Flappy Stonk - a GME price action hypothesis
+# Author: PowerRaptor
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/om4qpm/flappy_stonk_a_gme_price_action_hypothesis/](https://www.reddit.com/r/Superstonk/comments/om4qpm/flappy_stonk_a_gme_price_action_hypothesis/)
 
 
 Based on my previous thread:

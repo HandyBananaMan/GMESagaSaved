@@ -1,6 +1,6 @@
-#Title: Dr. Burry's 13F filings for the past 2.5 years and his letters to GME
-#Author: shala0
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/](https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/)
+# Title: Dr. Burry's 13F filings for the past 2.5 years and his letters to GME
+# Author: shala0
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/](https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/)
 
 
 so ive been looking in to Dr. Burry for a bit now and wanna share what ive found and what i think has been going on in the markets. also keep in mind \*\*this is not financial advice\*\* and that i am piecing all of this together just as much as the next.

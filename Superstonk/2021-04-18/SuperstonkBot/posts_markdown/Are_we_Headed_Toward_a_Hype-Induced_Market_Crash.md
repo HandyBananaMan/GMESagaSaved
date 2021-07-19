@@ -1,6 +1,6 @@
-#Title: Are we Headed Toward a Hype-Induced Market Crash?
-#Author: SuperstonkBot
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtistc/are_we_headed_toward_a_hypeinduced_market_crash/](https://www.reddit.com/r/Superstonk/comments/mtistc/are_we_headed_toward_a_hypeinduced_market_crash/)
+# Title: Are we Headed Toward a Hype-Induced Market Crash?
+# Author: SuperstonkBot
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtistc/are_we_headed_toward_a_hypeinduced_market_crash/](https://www.reddit.com/r/Superstonk/comments/mtistc/are_we_headed_toward_a_hypeinduced_market_crash/)
 
 
 # Are we Headed Toward a Hype-Induced Market Crash?

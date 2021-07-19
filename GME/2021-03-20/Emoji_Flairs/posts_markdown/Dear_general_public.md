@@ -1,6 +1,6 @@
-#Title: Dear general public
-#Author: PCP_rincipal
-#Post URL: [https://www.reddit.com/r/GME/comments/m9k5rp/dear_general_public/](https://www.reddit.com/r/GME/comments/m9k5rp/dear_general_public/)
+# Title: Dear general public
+# Author: PCP_rincipal
+# Post URL: [https://www.reddit.com/r/GME/comments/m9k5rp/dear_general_public/](https://www.reddit.com/r/GME/comments/m9k5rp/dear_general_public/)
 
 
 When this thing explodes, which it inevitably will, and you go looking for someone to blame, don’t look here. Don’t blame retail, Reddit, r/GME, apes or kitties. 

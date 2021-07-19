@@ -1,6 +1,6 @@
-#Title: It's Just a Bug, Bro Part 6 - Bug Spray Edition
-#Author: hell-mitc
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/](https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/)
+# Title: It's Just a Bug, Bro Part 6 - Bug Spray Edition
+# Author: hell-mitc
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/](https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/)
 
 
 Alright everyone, here we go again. I am going to try to spare us all a ton of detail because we have been reading a lot of it for the weeks now. Atobitt got deeper into the rehypothecation theory so we should understand that to a degree; but this will reiterate it and more, and I feel that we can do better with how the system works. 

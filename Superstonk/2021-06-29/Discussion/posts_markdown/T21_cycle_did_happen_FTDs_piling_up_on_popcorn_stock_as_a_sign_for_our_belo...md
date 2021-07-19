@@ -1,6 +1,6 @@
-#Title: T+21 cycle did happen?! FTDs piling up on popcorn stock as a sign for our beloved stock?! T+4 and T+6?! 🚀🍌?!
-#Author: psych_ing_invest
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa3sd8/t21_cycle_did_happen_ftds_piling_up_on_popcorn/](https://www.reddit.com/r/Superstonk/comments/oa3sd8/t21_cycle_did_happen_ftds_piling_up_on_popcorn/)
+# Title: T+21 cycle did happen?! FTDs piling up on popcorn stock as a sign for our beloved stock?! T+4 and T+6?! 🚀🍌?!
+# Author: psych_ing_invest
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa3sd8/t21_cycle_did_happen_ftds_piling_up_on_popcorn/](https://www.reddit.com/r/Superstonk/comments/oa3sd8/t21_cycle_did_happen_ftds_piling_up_on_popcorn/)
 
 
 Europoor here bored in the morning until pre-market opens. 

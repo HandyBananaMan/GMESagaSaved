@@ -1,6 +1,6 @@
-#Title: PSA: Do not buy a pet ape or monkey with MOASS earnings
-#Author: Shaddowork
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9gaku/psa_do_not_buy_a_pet_ape_or_monkey_with_moass/](https://www.reddit.com/r/Superstonk/comments/o9gaku/psa_do_not_buy_a_pet_ape_or_monkey_with_moass/)
+# Title: PSA: Do not buy a pet ape or monkey with MOASS earnings
+# Author: Shaddowork
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9gaku/psa_do_not_buy_a_pet_ape_or_monkey_with_moass/](https://www.reddit.com/r/Superstonk/comments/o9gaku/psa_do_not_buy_a_pet_ape_or_monkey_with_moass/)
 
 
 Hi there - keen ape here, and I also happen to be a Great Ape Behaviour expert. Over the years I’ve conducted behavioural research in Western Zoos and in Africa both in the wild and in primate sanctuaries. Apologies that this is slightly off topic here compared to usual DD but there’s a potential problem I foresee happening after the MOASS that would absolutely break my heart, so I hope the mods allow me to share a bit of my knowledge to stop it happening.

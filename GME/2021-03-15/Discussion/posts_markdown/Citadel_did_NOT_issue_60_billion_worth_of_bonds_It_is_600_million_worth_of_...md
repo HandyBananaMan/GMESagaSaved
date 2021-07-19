@@ -1,6 +1,6 @@
-#Title: Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds.
-#Author: International_Gold20
-#Post URL: [https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/)
+# Title: Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds.
+# Author: International_Gold20
+# Post URL: [https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/)
 
 
 So, I've seen multiple posts reference this $60 billion number, but it's not correct. I point this out because **I want every one of my fellow equity owners to make smart decisions based on objective truths and accurate information.**

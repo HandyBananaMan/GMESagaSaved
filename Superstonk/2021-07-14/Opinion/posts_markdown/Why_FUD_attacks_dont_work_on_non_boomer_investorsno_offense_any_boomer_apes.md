@@ -1,6 +1,6 @@
-#Title: Why FUD attacks don’t work on non boomer investors.(no offense any boomer apes)
-#Author: Takenforganite
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok8mf6/why_fud_attacks_dont_work_on_non_boomer/](https://www.reddit.com/r/Superstonk/comments/ok8mf6/why_fud_attacks_dont_work_on_non_boomer/)
+# Title: Why FUD attacks don’t work on non boomer investors.(no offense any boomer apes)
+# Author: Takenforganite
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok8mf6/why_fud_attacks_dont_work_on_non_boomer/](https://www.reddit.com/r/Superstonk/comments/ok8mf6/why_fud_attacks_dont_work_on_non_boomer/)
 
 
 Disclaimer: when I mention “we” or “our” I’m referring to younger generations not investment groups. Each person is an individual investor who makes their own decision.

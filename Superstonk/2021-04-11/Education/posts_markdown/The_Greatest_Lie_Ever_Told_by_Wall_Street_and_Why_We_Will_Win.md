@@ -1,6 +1,6 @@
-#Title: The Greatest Lie Ever Told by Wall Street and Why We Will Win.
-#Author: TheBigKingy
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/moqtwf/the_greatest_lie_ever_told_by_wall_street_and_why/](https://www.reddit.com/r/Superstonk/comments/moqtwf/the_greatest_lie_ever_told_by_wall_street_and_why/)
+# Title: The Greatest Lie Ever Told by Wall Street and Why We Will Win.
+# Author: TheBigKingy
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/moqtwf/the_greatest_lie_ever_told_by_wall_street_and_why/](https://www.reddit.com/r/Superstonk/comments/moqtwf/the_greatest_lie_ever_told_by_wall_street_and_why/)
 
 
 Something about no financial advice or whatever, I don’t know, I’m not from the US we don’t enable corporations to fuck us over for posting on a message board. Miss me with that shit.

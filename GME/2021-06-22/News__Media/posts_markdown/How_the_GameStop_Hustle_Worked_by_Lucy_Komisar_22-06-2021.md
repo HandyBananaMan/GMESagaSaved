@@ -1,6 +1,6 @@
-#Title: How the GameStop Hustle Worked by Lucy Komisar 22-06-2021
-#Author: TheDudeIsOutThere
-#Post URL: [https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/](https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/)
+# Title: How the GameStop Hustle Worked by Lucy Komisar 22-06-2021
+# Author: TheDudeIsOutThere
+# Post URL: [https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/](https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/)
 
 
  I just came across this good article by Lucy Komisar:

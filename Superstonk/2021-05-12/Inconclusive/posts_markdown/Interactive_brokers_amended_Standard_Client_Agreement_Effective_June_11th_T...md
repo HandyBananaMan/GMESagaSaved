@@ -1,6 +1,6 @@
-#Title: Interactive brokers amended Standard Client Agreement!!! Effective June 11th. They are removing their liability and imposing EXTREMELY scary terms. This is damage control and preparation of impending market volatility - NEEDS EYES AND WRINKLE🧠GLOIDS
-#Author: MrMoon1111
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/](https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/)
+# Title: Interactive brokers amended Standard Client Agreement!!! Effective June 11th. They are removing their liability and imposing EXTREMELY scary terms. This is damage control and preparation of impending market volatility - NEEDS EYES AND WRINKLE🧠GLOIDS
+# Author: MrMoon1111
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/](https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/)
 
 
 I saw a post by [u/scwizard](https://www.reddit.com/user/scwizard/) about this SCA not long ago and thought if this a fresh Amendment (which it seems to be) to the Standard Client Agreement it needs apes attention asap, especially apes using IB!

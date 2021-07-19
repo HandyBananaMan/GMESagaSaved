@@ -1,6 +1,6 @@
-#Title: I Was Missing a KEY Piece of the Puzzel. This is how HFTs are covering FTDs and Why the TD TOS "Bugs" are NOT What We Think They Are.
-#Author: jsmar18
-#Post URL: [https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/)
+# Title: I Was Missing a KEY Piece of the Puzzel. This is how HFTs are covering FTDs and Why the TD TOS "Bugs" are NOT What We Think They Are.
+# Author: jsmar18
+# Post URL: [https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/)
 
 
 **3/29 Edit:** Just want to say, almost everything on this subreddit is speculative. DD researchers do their best to bring new information to light, however the financial market is one of the most complex artificial ecosystems humans have created. You can't resonably expect everything to be right, it's okay to be wrong, as long as we acknowledge it and take it in our stride. We're bayesian thinkers by nature afterall (or at least i like to think so).

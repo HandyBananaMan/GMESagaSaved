@@ -1,6 +1,6 @@
-#Title: Food for thought: Hedgefunds are really scared of communities like this and this whole situation dragging out because it not only bonded apes around the world together, it essentially trained us to be like DFV
-#Author: Naytdoggo
-#Post URL: [https://www.reddit.com/r/GME/comments/nnka8r/food_for_thought_hedgefunds_are_really_scared_of/](https://www.reddit.com/r/GME/comments/nnka8r/food_for_thought_hedgefunds_are_really_scared_of/)
+# Title: Food for thought: Hedgefunds are really scared of communities like this and this whole situation dragging out because it not only bonded apes around the world together, it essentially trained us to be like DFV
+# Author: Naytdoggo
+# Post URL: [https://www.reddit.com/r/GME/comments/nnka8r/food_for_thought_hedgefunds_are_really_scared_of/](https://www.reddit.com/r/GME/comments/nnka8r/food_for_thought_hedgefunds_are_really_scared_of/)
 
 
 In Jan we looked to DFV our main man and still do. Our guy had diamond hands so great he got taken into a congressional hearing.

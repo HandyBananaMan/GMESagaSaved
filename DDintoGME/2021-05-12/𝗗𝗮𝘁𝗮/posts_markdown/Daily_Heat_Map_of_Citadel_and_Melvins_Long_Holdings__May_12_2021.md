@@ -1,6 +1,6 @@
-#Title: Daily Heat Map of Citadel and Melvin's Long Holdings — May 12 2021
-#Author: HODLTheLineMyFriend
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nb30rz/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/nb30rz/daily_heat_map_of_citadel_and_melvins_long/)
+# Title: Daily Heat Map of Citadel and Melvin's Long Holdings — May 12 2021
+# Author: HODLTheLineMyFriend
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nb30rz/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/nb30rz/daily_heat_map_of_citadel_and_melvins_long/)
 
 
 Hi all, sharing with you today's heat maps for Citadel and Melvin's long holdings (plus Susquehanna, last-minute addition!). These are based on their 13Fs from 12/31 and their 13D/G filings to present, with prices as of market close. As I noted yesterday, I've trimmed Melvin to remove V, MA and FB, as their market cap size means Melvin's sells wouldn't impact their price much. Equities with thinner liquidities are more vulnerable to dumping.

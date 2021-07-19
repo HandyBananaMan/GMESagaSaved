@@ -1,6 +1,6 @@
-#Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket. Part 2
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/)
+# Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket. Part 2
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/)
 
 
 &#x200B;

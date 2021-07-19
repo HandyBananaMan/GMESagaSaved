@@ -1,6 +1,6 @@
-#Title: KEN GRIFFIN EXPOSED
-#Author: BetOnThis21
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/](https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/)
+# Title: KEN GRIFFIN EXPOSED
+# Author: BetOnThis21
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/](https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/)
 
 
 **An overview of the deplorable Mr. Ken Griffin**

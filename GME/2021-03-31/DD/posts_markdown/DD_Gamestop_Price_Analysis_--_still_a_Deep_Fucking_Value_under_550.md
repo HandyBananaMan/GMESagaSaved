@@ -1,6 +1,6 @@
-#Title: DD: Gamestop Price Analysis -- still a Deep Fucking Value under $550
-#Author: JuxtaposeLife
-#Post URL: [https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/](https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/)
+# Title: DD: Gamestop Price Analysis -- still a Deep Fucking Value under $550
+# Author: JuxtaposeLife
+# Post URL: [https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/](https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/)
 
 
 **TLDR;** Gamestop is undervalued considering its online sales numbers and ecommerce focus - analysts haven’t caught up yet from Q4 Earning report; add on top of that all the hiring of Amazon execs and VPs and Gamestop Valuation is about to explode upward. On its current trajectory $550-750 a share is a reasonable (my worthless opinion) price point, with or without the squeeze. Not only is buying GME a play on the squeeze, but also a deep fucking value bet. 

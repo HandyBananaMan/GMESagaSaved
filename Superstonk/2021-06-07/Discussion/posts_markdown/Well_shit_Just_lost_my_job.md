@@ -1,6 +1,6 @@
-#Title: Well shit. Just lost my job
-#Author: trbofly
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nugd7z/well_shit_just_lost_my_job/](https://www.reddit.com/r/Superstonk/comments/nugd7z/well_shit_just_lost_my_job/)
+# Title: Well shit. Just lost my job
+# Author: trbofly
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nugd7z/well_shit_just_lost_my_job/](https://www.reddit.com/r/Superstonk/comments/nugd7z/well_shit_just_lost_my_job/)
 
 
 So, I am not a struggling ape, although I do work hard for a living.

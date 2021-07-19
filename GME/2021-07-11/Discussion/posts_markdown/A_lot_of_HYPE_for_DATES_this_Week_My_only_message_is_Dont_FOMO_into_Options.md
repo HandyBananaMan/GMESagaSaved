@@ -1,6 +1,6 @@
-#Title: A lot of HYPE for DATES this Week. My only message is Don't FOMO into Options.
-#Author: ultrasharpie
-#Post URL: [https://www.reddit.com/r/GME/comments/oi4a56/a_lot_of_hype_for_dates_this_week_my_only_message/](https://www.reddit.com/r/GME/comments/oi4a56/a_lot_of_hype_for_dates_this_week_my_only_message/)
+# Title: A lot of HYPE for DATES this Week. My only message is Don't FOMO into Options.
+# Author: ultrasharpie
+# Post URL: [https://www.reddit.com/r/GME/comments/oi4a56/a_lot_of_hype_for_dates_this_week_my_only_message/](https://www.reddit.com/r/GME/comments/oi4a56/a_lot_of_hype_for_dates_this_week_my_only_message/)
 
 
 Don't Buy Options, that's all i have to say. 

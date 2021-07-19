@@ -1,6 +1,6 @@
-#Title: The Fed is pinned into a corner from the 2008 can-kick utilizing QE, and the economic effects of COVID. They are stuck battling a collateral crisis AND a liquidity crisis. The Fed is currently fudging the numbers of treasuries to hide a collateral shortage and to try to prop the economy up.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/)
+# Title: The Fed is pinned into a corner from the 2008 can-kick utilizing QE, and the economic effects of COVID. They are stuck battling a collateral crisis AND a liquidity crisis. The Fed is currently fudging the numbers of treasuries to hide a collateral shortage and to try to prop the economy up.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/)
 
 
 &#x200B;

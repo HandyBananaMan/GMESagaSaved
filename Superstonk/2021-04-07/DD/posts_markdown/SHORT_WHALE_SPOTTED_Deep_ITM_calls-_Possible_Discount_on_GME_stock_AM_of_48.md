@@ -1,6 +1,6 @@
-#Title: SHORT WHALE SPOTTED! Deep ITM calls- Possible Discount on GME stock AM of 4/8!
-#Author: G_KG
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmk8gm/short_whale_spotted_deep_itm_calls_possible/](https://www.reddit.com/r/Superstonk/comments/mmk8gm/short_whale_spotted_deep_itm_calls_possible/)
+# Title: SHORT WHALE SPOTTED! Deep ITM calls- Possible Discount on GME stock AM of 4/8!
+# Author: G_KG
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmk8gm/short_whale_spotted_deep_itm_calls_possible/](https://www.reddit.com/r/Superstonk/comments/mmk8gm/short_whale_spotted_deep_itm_calls_possible/)
 
 
 Crayon-lovers unite!!  Another opportunity may present itself tomorrow for apes to do what apes do best- **BUY AND HODL!!!**  To be perfectly clear- **DO NOT DAY TRADE GME**\- this is just info for those of us who want to BUY MORE TASTY DIPS.  💎🙌🦧🦍

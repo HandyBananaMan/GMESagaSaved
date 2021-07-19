@@ -1,6 +1,6 @@
-#Title: T+21 FTD squeeze is happening????
-#Author: AStepp92
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvtpne/t21_ftd_squeeze_is_happening/](https://www.reddit.com/r/Superstonk/comments/mvtpne/t21_ftd_squeeze_is_happening/)
+# Title: T+21 FTD squeeze is happening????
+# Author: AStepp92
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvtpne/t21_ftd_squeeze_is_happening/](https://www.reddit.com/r/Superstonk/comments/mvtpne/t21_ftd_squeeze_is_happening/)
 
 
 *******Edit 3: last edit, my post you’ll see I added incorrectly with tomorrow’s date NOT being T+21, that would be Friday 4/23! My initial post I had the 3rd squeeze date as 3/24 by mistake, therefore my day prediction is 1 day off. 4/23 would be the next FTD squeeze! ****** I AM THINKING 4/23 WE SEE SOME GREEN DILDOS

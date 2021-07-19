@@ -1,6 +1,6 @@
-#Title: SECURE YOUR ACCOUNTS BEFORE MOASS
-#Author: spade883
-#Post URL: [https://www.reddit.com/r/GME/comments/no5hjg/secure_your_accounts_before_moass/](https://www.reddit.com/r/GME/comments/no5hjg/secure_your_accounts_before_moass/)
+# Title: SECURE YOUR ACCOUNTS BEFORE MOASS
+# Author: spade883
+# Post URL: [https://www.reddit.com/r/GME/comments/no5hjg/secure_your_accounts_before_moass/](https://www.reddit.com/r/GME/comments/no5hjg/secure_your_accounts_before_moass/)
 
 
 As the title says, it is very important to secure and 2FA all your banking/brokerage accounts and email addresses. I would also advise everyone to change their password to a STRONG password related to NOTHING else. 

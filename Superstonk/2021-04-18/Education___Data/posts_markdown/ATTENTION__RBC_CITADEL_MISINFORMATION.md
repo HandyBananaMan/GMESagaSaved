@@ -1,6 +1,6 @@
-#Title: ATTENTION 🐵: RBC, CITADEL, MISINFORMATION
-#Author: Rugby97
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/](https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/)
+# Title: ATTENTION 🐵: RBC, CITADEL, MISINFORMATION
+# Author: Rugby97
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/](https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/)
 
 
 Edit1: This has gotten more traction than I anticipated. Thanks for all the awards, I do this for the sub so that everybody can stay in line and not get carried away. I plan on doing an occasional "DD POLICE" Episode going forward, where I'll recap and face fuck any dd I can prove wrong or support ones I can further verify. Feel free to inbox me things you're sus about or want confirmed.

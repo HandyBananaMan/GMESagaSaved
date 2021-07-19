@@ -1,6 +1,6 @@
-#Title: It's happening, Papa Cohen to become CEO soon
-#Author: iJacobes
-#Post URL: [https://www.reddit.com/r/GME/comments/m0eugh/its_happening_papa_cohen_to_become_ceo_soon/](https://www.reddit.com/r/GME/comments/m0eugh/its_happening_papa_cohen_to_become_ceo_soon/)
+# Title: It's happening, Papa Cohen to become CEO soon
+# Author: iJacobes
+# Post URL: [https://www.reddit.com/r/GME/comments/m0eugh/its_happening_papa_cohen_to_become_ceo_soon/](https://www.reddit.com/r/GME/comments/m0eugh/its_happening_papa_cohen_to_become_ceo_soon/)
 
 
 (Reuters) - GameStop  Corp(GME) has tapped shareholder Ryan Cohen to  lead a shift towards e-commerce, Bloomberg reported on Monday,  sending the company's shares up 10.3% before the bell.  Cohen's RC Ventures activist firm reached a settlement with GameStop(GME) in January, giving  Cohen seats on the company's board.  (Reporting by Manas Mishra in Bengaluru; Editing by  Bernard Orr)

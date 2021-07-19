@@ -1,6 +1,6 @@
-#Title: King Kong: Magnum Opus DD (posted on behalf of Wuz)
-#Author: beowulf77
-#Post URL: [https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/)
+# Title: King Kong: Magnum Opus DD (posted on behalf of Wuz)
+# Author: beowulf77
+# Post URL: [https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/](https://www.reddit.com/r/GME/comments/md89wg/king_kong_magnum_opus_dd_posted_on_behalf_of_wuz/)
 
 
 **\*Posted on behalf of Wuz - his previous DD called the closing price for the next day by 20 cents -** [Previous DD](https://www.reddit.com/r/GME/comments/m8swj1/not_all_sells_are_enemies_victory_lap_edition/) **\***

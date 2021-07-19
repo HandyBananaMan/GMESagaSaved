@@ -1,4 +1,4 @@
-#Title: For those that are new, when the squeeze starts, you will see GME jump by $10s, then $100s of dollars a share at a time
+# Title: For those that are new, when the squeeze starts, you will see GME jump by $10s, then $100s of dollars a share at a time
 # Author: walk1355
 # Post URL: [https://www.reddit.com/r/GME/comments/md010t/for_those_that_are_new_when_the_squeeze_starts/](https://www.reddit.com/r/GME/comments/md010t/for_those_that_are_new_when_the_squeeze_starts/)
 

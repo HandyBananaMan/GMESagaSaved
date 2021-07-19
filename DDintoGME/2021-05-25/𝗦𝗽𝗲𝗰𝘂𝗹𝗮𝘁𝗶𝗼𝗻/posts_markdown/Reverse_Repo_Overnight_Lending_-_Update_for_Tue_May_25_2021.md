@@ -1,6 +1,6 @@
-#Title: Reverse Repo Overnight Lending - Update for Tue May 25 2021
-#Author: HODLTheLineMyFriend
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkvezs/reverse_repo_overnight_lending_update_for_tue_may/](https://www.reddit.com/r/DDintoGME/comments/nkvezs/reverse_repo_overnight_lending_update_for_tue_may/)
+# Title: Reverse Repo Overnight Lending - Update for Tue May 25 2021
+# Author: HODLTheLineMyFriend
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkvezs/reverse_repo_overnight_lending_update_for_tue_may/](https://www.reddit.com/r/DDintoGME/comments/nkvezs/reverse_repo_overnight_lending_update_for_tue_may/)
 
 
 NY Fed just released the latest number at 1:16pm ET: $432.9B. Shocked Pikachu, it's higher! It is almost exactly tracking the curve I plotted yesterday. I played with a few other function types and the closest match is still a polynomial, but now an order 2 with R-squared of 0.918, up from 0.885 yesterday.

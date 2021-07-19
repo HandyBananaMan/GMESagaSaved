@@ -1,6 +1,6 @@
-#Title: Head of DTCC just confirmed short positions did not get margin called in January
-#Author: gherkinit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6epps/head_of_dtcc_just_confirmed_short_positions_did/](https://www.reddit.com/r/Superstonk/comments/n6epps/head_of_dtcc_just_confirmed_short_positions_did/)
+# Title: Head of DTCC just confirmed short positions did not get margin called in January
+# Author: gherkinit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6epps/head_of_dtcc_just_confirmed_short_positions_did/](https://www.reddit.com/r/Superstonk/comments/n6epps/head_of_dtcc_just_confirmed_short_positions_did/)
 
 
 The Head of the DTCC just confirmed live in the HFSC meeting that the only margin issue in January was Robinhood. Meaning that Melvin and Citadel were in fact not margin called in the January squeeze. 

@@ -1,6 +1,6 @@
-#Title: It's painfully obvious that when GME has a ton of FTDS, they're immediately reversing them with their hedgefuckery.
-#Author: canhazreddit
-#Post URL: [https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/](https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/)
+# Title: It's painfully obvious that when GME has a ton of FTDS, they're immediately reversing them with their hedgefuckery.
+# Author: canhazreddit
+# Post URL: [https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/](https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/)
 
 
 tl;dr:

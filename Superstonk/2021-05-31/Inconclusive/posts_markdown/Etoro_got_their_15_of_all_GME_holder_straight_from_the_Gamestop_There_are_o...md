@@ -1,6 +1,6 @@
-#Title: Etoro got their 1.5% of all GME holder straight from the Gamestop There are over 89 Million Diamond handed Apes out there.
-#Author: TheSadBantha
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/](https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/)
+# Title: Etoro got their 1.5% of all GME holder straight from the Gamestop There are over 89 Million Diamond handed Apes out there.
+# Author: TheSadBantha
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/](https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/)
 
 
 I see I received the inconclusive flair, I guess that is fair because there are still a lot of questions unanswered. What I find a bit sad is that the mods didnt reached out to me for more information.

@@ -1,6 +1,6 @@
-#Title: I Compiled And Compared DTCC Member List Changes
-#Author: Kintsugi2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxh9v4/i_compiled_and_compared_dtcc_member_list_changes/](https://www.reddit.com/r/Superstonk/comments/nxh9v4/i_compiled_and_compared_dtcc_member_list_changes/)
+# Title: I Compiled And Compared DTCC Member List Changes
+# Author: Kintsugi2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxh9v4/i_compiled_and_compared_dtcc_member_list_changes/](https://www.reddit.com/r/Superstonk/comments/nxh9v4/i_compiled_and_compared_dtcc_member_list_changes/)
 
 
 It's unclear the April List (https://www.dtcc.com/client-center/dtc-directories) on their website reflects the changes from their announcement yesterday, but I went ahead and compared that with the 2020 end of year list. I actually think the changes announced yesterday are NOT in effect, but I'm doing this anyways to see what happened between December 2020 and April 2021.

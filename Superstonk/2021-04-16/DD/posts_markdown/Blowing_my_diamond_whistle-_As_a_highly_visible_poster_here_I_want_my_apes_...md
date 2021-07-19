@@ -1,6 +1,6 @@
-#Title: 🚨Blowing my diamond whistle- As a highly visible poster here, I want my apes to know. I have been offered money to post non-GME content in our stock subs. Beware everything you read until MOASS, no matter who is the OP!🚨
-#Author: pinkcatsonacid
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/)
+# Title: 🚨Blowing my diamond whistle- As a highly visible poster here, I want my apes to know. I have been offered money to post non-GME content in our stock subs. Beware everything you read until MOASS, no matter who is the OP!🚨
+# Author: pinkcatsonacid
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/)
 
 
 Labeling this DD because, aside from having to do with *an offer to be paid to post DD*, I actually performed due diligence on the ![offer](https://imgur.com/a/tziYjXQ).

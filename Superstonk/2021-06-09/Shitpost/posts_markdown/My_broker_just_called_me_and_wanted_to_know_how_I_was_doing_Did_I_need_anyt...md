@@ -1,6 +1,6 @@
-#Title: My broker just called me and wanted to know how I was doing? Did I need anything and thank me for being a customer. He admitted he looked at my account. I jokingly said, you are just checking in with me because you know I'm about to be rich. His mmhmm chuckle said it all, I'm bullish as fuck!
-#Author: anonfthehfs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/](https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/)
+# Title: My broker just called me and wanted to know how I was doing? Did I need anything and thank me for being a customer. He admitted he looked at my account. I jokingly said, you are just checking in with me because you know I'm about to be rich. His mmhmm chuckle said it all, I'm bullish as fuck!
+# Author: anonfthehfs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/](https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/)
 
 
 &#x200B;

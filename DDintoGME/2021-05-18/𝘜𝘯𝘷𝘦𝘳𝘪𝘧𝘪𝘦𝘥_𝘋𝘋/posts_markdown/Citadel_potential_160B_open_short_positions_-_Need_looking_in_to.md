@@ -1,6 +1,6 @@
-#Title: Citadel potential 160B open short positions - Need looking in to
-#Author: Ozziol
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nf718m/citadel_potential_160b_open_short_positions_need/](https://www.reddit.com/r/DDintoGME/comments/nf718m/citadel_potential_160b_open_short_positions_need/)
+# Title: Citadel potential 160B open short positions - Need looking in to
+# Author: Ozziol
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nf718m/citadel_potential_160b_open_short_positions_need/](https://www.reddit.com/r/DDintoGME/comments/nf718m/citadel_potential_160b_open_short_positions_need/)
 
 
 **Didn't really get any looking in to on /r/Superstonk - wondering if you guys had any ideas**

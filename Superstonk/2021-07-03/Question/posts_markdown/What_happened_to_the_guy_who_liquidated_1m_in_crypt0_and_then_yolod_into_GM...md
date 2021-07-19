@@ -1,6 +1,6 @@
-#Title: What happened to the guy who liquidated $1m in crypt0 and then yolod into GME on Robinghood and immediately transferred?
-#Author: Psychological-Ad1433
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/od3btc/what_happened_to_the_guy_who_liquidated_1m_in/](https://www.reddit.com/r/Superstonk/comments/od3btc/what_happened_to_the_guy_who_liquidated_1m_in/)
+# Title: What happened to the guy who liquidated $1m in crypt0 and then yolod into GME on Robinghood and immediately transferred?
+# Author: Psychological-Ad1433
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/od3btc/what_happened_to_the_guy_who_liquidated_1m_in/](https://www.reddit.com/r/Superstonk/comments/od3btc/what_happened_to_the_guy_who_liquidated_1m_in/)
 
 
 UPDATE: He has been summoned and has commented below. 

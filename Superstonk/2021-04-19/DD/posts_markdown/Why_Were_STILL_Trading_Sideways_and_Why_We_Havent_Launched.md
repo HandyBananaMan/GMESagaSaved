@@ -1,6 +1,6 @@
-#Title: Why We're STILL Trading Sideways and Why We Haven't Launched
-#Author: c-digs
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/)
+# Title: Why We're STILL Trading Sideways and Why We Haven't Launched
+# Author: c-digs
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/)
 
 
 **~~EDIT May 12, 2021~~**~~:~~ [~~SR-OCC-2021-004 Is Scheduled to Finalize This Week~~](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/) ~~^(Also, I have been banned from Superstonk...)~~

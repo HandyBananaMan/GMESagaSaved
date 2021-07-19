@@ -1,6 +1,6 @@
-#Title: OTM Puts (married puts) Disappearing???
-#Author: See_Reality
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/](https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/)
+# Title: OTM Puts (married puts) Disappearing???
+# Author: See_Reality
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/](https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/)
 
 
 Hi everybody

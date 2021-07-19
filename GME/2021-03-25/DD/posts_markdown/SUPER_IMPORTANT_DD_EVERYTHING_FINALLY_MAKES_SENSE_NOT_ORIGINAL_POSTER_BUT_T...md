@@ -1,6 +1,6 @@
-#Title: SUPER IMPORTANT DD. EVERYTHING FINALLY MAKES SENSE!!!! NOT ORIGINAL POSTER BUT THIS NEEDS TO BE SEEN BY EVERYONE!!!
-#Author: buggieboy
-#Post URL: [https://www.reddit.com/r/GME/comments/mctobw/super_important_dd_everything_finally_makes_sense/](https://www.reddit.com/r/GME/comments/mctobw/super_important_dd_everything_finally_makes_sense/)
+# Title: SUPER IMPORTANT DD. EVERYTHING FINALLY MAKES SENSE!!!! NOT ORIGINAL POSTER BUT THIS NEEDS TO BE SEEN BY EVERYONE!!!
+# Author: buggieboy
+# Post URL: [https://www.reddit.com/r/GME/comments/mctobw/super_important_dd_everything_finally_makes_sense/](https://www.reddit.com/r/GME/comments/mctobw/super_important_dd_everything_finally_makes_sense/)
 
 
 Originally posted by: u/HomoChef 

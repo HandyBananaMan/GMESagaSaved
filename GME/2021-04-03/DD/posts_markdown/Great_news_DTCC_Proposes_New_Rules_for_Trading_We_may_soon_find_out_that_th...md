@@ -1,6 +1,6 @@
-#Title: Great news! DTCC Proposes New Rules for Trading! We may soon find out that the REAL % of shorts. That means MOASS is more likely to happen sooner than expected!
-#Author: GinoF2020
-#Post URL: [https://www.reddit.com/r/GME/comments/mjp5ch/great_news_dtcc_proposes_new_rules_for_trading_we/](https://www.reddit.com/r/GME/comments/mjp5ch/great_news_dtcc_proposes_new_rules_for_trading_we/)
+# Title: Great news! DTCC Proposes New Rules for Trading! We may soon find out that the REAL % of shorts. That means MOASS is more likely to happen sooner than expected!
+# Author: GinoF2020
+# Post URL: [https://www.reddit.com/r/GME/comments/mjp5ch/great_news_dtcc_proposes_new_rules_for_trading_we/](https://www.reddit.com/r/GME/comments/mjp5ch/great_news_dtcc_proposes_new_rules_for_trading_we/)
 
 
 DTCC – [Depository Trust & Clearing Corporation](https://www.dtcc.com/) – is the integral cog in the stock trading infrastructure, as it keeps records of the balances of securities. DTCC serves as a clearinghouse – the settling of trades from the moment you enter a position on the market via [popular stock trading apps](https://tokenist.com/investing/best-stock-trading-apps/) to the moment you exit the market. DTC had filed a rule change to the SEC that would address the above-mentioned problems. It deals both with the **multiplication of shares/securities and leveraging securities as collateral – using 40% out of 140% for borrowing or selling from the GME example.**

@@ -1,6 +1,6 @@
-#Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
-#Author: Parsnip
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzfyh3/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/nzfyh3/diamantenhände_from_seattle_german_market_is_open/)
+# Title: Diamantenhände (from Seattle) 💎👐 German market is open 🇩🇪
+# Author: Parsnip
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzfyh3/diamantenhände_from_seattle_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/nzfyh3/diamantenhände_from_seattle_german_market_is_open/)
 
 
 Hello Apes of the world! 👋 Diamantenhände's inevitable return marks the end of the weekend. Now each refresh of a GME ticker is *significantly* more likely to reflect a change (I know some of you are going through withdrawal). Let us unite and watch low-frequency updates from a single German exchange as we prepare for the US pre-market to open!

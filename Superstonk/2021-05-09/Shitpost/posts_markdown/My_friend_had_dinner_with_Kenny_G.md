@@ -1,6 +1,6 @@
-#Title: My friend had dinner with Kenny G
-#Author: niandra__lades7
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8tvrx/my_friend_had_dinner_with_kenny_g/](https://www.reddit.com/r/Superstonk/comments/n8tvrx/my_friend_had_dinner_with_kenny_g/)
+# Title: My friend had dinner with Kenny G
+# Author: niandra__lades7
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8tvrx/my_friend_had_dinner_with_kenny_g/](https://www.reddit.com/r/Superstonk/comments/n8tvrx/my_friend_had_dinner_with_kenny_g/)
 
 
 The other day I showed my friend (26) some DD about GME. Eventually we got to the topic of Ken Griffin. My friend said that when he was a kid, his dad took him to a dinner in downtown Chicago (city where he was raised) and he met Kenny G at his penthouse. 

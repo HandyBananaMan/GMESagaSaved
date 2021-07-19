@@ -1,6 +1,6 @@
-#Title: January 22, February 19, March 5, April 16. The only options available in early 2020 and why tomorrow might be ignition.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/)
+# Title: January 22, February 19, March 5, April 16. The only options available in early 2020 and why tomorrow might be ignition.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/)
 
 
 Edit: RIParoni. I'm currently rethinking this. You will notice that bursts almost always happen on wednesdays. I still believe there is a pattern and we should be able to pin down a date for another gamma burst. 

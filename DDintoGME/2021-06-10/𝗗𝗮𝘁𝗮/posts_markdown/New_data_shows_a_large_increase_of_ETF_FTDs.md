@@ -1,6 +1,6 @@
-#Title: New data shows a large increase of ETF FTDs
-#Author: basketas87
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nx013v/new_data_shows_a_large_increase_of_etf_ftds/](https://www.reddit.com/r/DDintoGME/comments/nx013v/new_data_shows_a_large_increase_of_etf_ftds/)
+# Title: New data shows a large increase of ETF FTDs
+# Author: basketas87
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nx013v/new_data_shows_a_large_increase_of_etf_ftds/](https://www.reddit.com/r/DDintoGME/comments/nx013v/new_data_shows_a_large_increase_of_etf_ftds/)
 
 
 This post comes a bit late since the FTD data has been out for a while, but I hope it's still relevant, at least to offer some comfort after today's shenanigans.

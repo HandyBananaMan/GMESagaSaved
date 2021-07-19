@@ -1,6 +1,6 @@
-#Title: Short Term Collateral Loans have officially hit $1 Trillion
-#Author: leisure_rules
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2yinb/short_term_collateral_loans_have_officially_hit_1/](https://www.reddit.com/r/Superstonk/comments/o2yinb/short_term_collateral_loans_have_officially_hit_1/)
+# Title: Short Term Collateral Loans have officially hit $1 Trillion
+# Author: leisure_rules
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2yinb/short_term_collateral_loans_have_officially_hit_1/](https://www.reddit.com/r/Superstonk/comments/o2yinb/short_term_collateral_loans_have_officially_hit_1/)
 
 
 ON RRP @ $**747.121B**

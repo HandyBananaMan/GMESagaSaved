@@ -1,6 +1,6 @@
-#Title: ATTENTION: Implicit Volatility on 800 C's set to expire TOMORROW is rising .02/.03 a second
-#Author: inverseyourself
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/](https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/)
+# Title: ATTENTION: Implicit Volatility on 800 C's set to expire TOMORROW is rising .02/.03 a second
+# Author: inverseyourself
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/](https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/)
 
 
 **Edit 1: At the risk of exciting people for no reason, I certainly don't want to set expectations and crash them like how it is happened so many times. Please, instead, see this as evidence that there is something** ***very*** **wrong about GME.**

@@ -1,6 +1,6 @@
-#Title: GME Russell 1000 Rebalance Day and T+21 and T+35: One Of The Highest Volume Days Of The Year. Every time any of the indices add or delete a stock, the funds must also buy or sell the stock.
-#Author: vierzehnter
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/](https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/)
+# Title: GME Russell 1000 Rebalance Day and T+21 and T+35: One Of The Highest Volume Days Of The Year. Every time any of the indices add or delete a stock, the funds must also buy or sell the stock.
+# Author: vierzehnter
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/](https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/)
 
 
 *Edit 1: Coincidence or not, CNBC wants us to sell our shares in 2 weeks, a few days before rebalancing day:* [*If you’re thinking of riding the next meme stock mania, be sure to sell in about 2 weeks*](https://www.cnbc.com/2021/06/09/if-youre-thinking-of-riding-the-next-meme-stock-mania-be-sure-to-sell-in-about-2-weeks.html)

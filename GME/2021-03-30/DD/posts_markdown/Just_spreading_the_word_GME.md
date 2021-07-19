@@ -1,6 +1,6 @@
-#Title: Just spreading the word! GME🚀🚀🚀
-#Author: SaltyRemz
-#Post URL: [https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/](https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/)
+# Title: Just spreading the word! GME🚀🚀🚀
+# Author: SaltyRemz
+# Post URL: [https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/](https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/)
 
 
 Credits: u/AlternativeNo2917

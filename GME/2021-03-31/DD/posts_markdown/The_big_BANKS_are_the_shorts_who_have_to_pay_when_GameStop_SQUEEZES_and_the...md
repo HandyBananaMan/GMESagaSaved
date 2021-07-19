@@ -1,6 +1,6 @@
-#Title: The big BANKS are the shorts who have to pay when GameStop SQUEEZES and they are TRAPPED
-#Author: animasoul
-#Post URL: [https://www.reddit.com/r/GME/comments/mh6gfz/the_big_banks_are_the_shorts_who_have_to_pay_when/](https://www.reddit.com/r/GME/comments/mh6gfz/the_big_banks_are_the_shorts_who_have_to_pay_when/)
+# Title: The big BANKS are the shorts who have to pay when GameStop SQUEEZES and they are TRAPPED
+# Author: animasoul
+# Post URL: [https://www.reddit.com/r/GME/comments/mh6gfz/the_big_banks_are_the_shorts_who_have_to_pay_when/](https://www.reddit.com/r/GME/comments/mh6gfz/the_big_banks_are_the_shorts_who_have_to_pay_when/)
 
 
 Fingers crossed but I think we are going to SQUEEZE. Here is the reason: We were looking in the wrong place all this time. It is not the hedgies who are on the line, it is their **prime brokers**, who are the **big banks**. Kenny G truly knows how to take care of himself, how could we have doubted his self-love?

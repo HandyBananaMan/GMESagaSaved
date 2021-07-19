@@ -1,6 +1,6 @@
-#Title: Inflation Alert! St. Louis Fed Lead Economist in Supervision Willaim Emmons reported price-to-rent ratio is at its highest level since at least 1975. As of March, the nationwide house price index was about 30% higher than the estimate of fair value.
-#Author: Dismal-Jellyfish
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiglhm/inflation_alert_st_louis_fed_lead_economist_in/](https://www.reddit.com/r/Superstonk/comments/oiglhm/inflation_alert_st_louis_fed_lead_economist_in/)
+# Title: Inflation Alert! St. Louis Fed Lead Economist in Supervision Willaim Emmons reported price-to-rent ratio is at its highest level since at least 1975. As of March, the nationwide house price index was about 30% higher than the estimate of fair value.
+# Author: Dismal-Jellyfish
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiglhm/inflation_alert_st_louis_fed_lead_economist_in/](https://www.reddit.com/r/Superstonk/comments/oiglhm/inflation_alert_st_louis_fed_lead_economist_in/)
 
 
 [Source](https://www.stlouisfed.org/on-the-economy/2021/may/housing-prices-surpass-bubble-peak-measure-value) 5/24/21

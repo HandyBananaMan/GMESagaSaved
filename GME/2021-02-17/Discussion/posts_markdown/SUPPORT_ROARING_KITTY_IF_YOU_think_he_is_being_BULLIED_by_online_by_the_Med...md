@@ -1,6 +1,6 @@
-#Title: SUPPORT ROARING KITTY IF YOU think he is being BULLIED by online by the Media, sowing doubt in any public support before tomorrow
-#Author: ancient_wis
-#Post URL: [https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/](https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/)
+# Title: SUPPORT ROARING KITTY IF YOU think he is being BULLIED by online by the Media, sowing doubt in any public support before tomorrow
+# Author: ancient_wis
+# Post URL: [https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/](https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/)
 
 
 **TL;DR If you support Roaring Kitty lets get the right posts pinned and trending to explain to those visitors to this sub now and in the future what the accusations are and the truth about Roaring Kitty.**

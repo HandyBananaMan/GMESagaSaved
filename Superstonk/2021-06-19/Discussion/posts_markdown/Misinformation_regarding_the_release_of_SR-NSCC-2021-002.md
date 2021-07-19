@@ -1,6 +1,6 @@
-#Title: Misinformation regarding the release of SR-NSCC-2021-002
-#Author: Toni_KT
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/](https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/)
+# Title: Misinformation regarding the release of SR-NSCC-2021-002
+# Author: Toni_KT
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/](https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/)
 
 
 Im seeing quite a few comments today regarding the hopefully upcoming release of SR-NSCC-2021-002.Those comments state that **SR-NSCC-2021-002** will be active on Monday June 21 2021 which isn´t true.

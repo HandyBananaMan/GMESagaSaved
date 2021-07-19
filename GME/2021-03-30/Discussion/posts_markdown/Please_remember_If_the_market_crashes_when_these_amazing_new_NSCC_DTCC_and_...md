@@ -1,6 +1,6 @@
-#Title: Please remember, If the market crashes when these amazing new NSCC, DTCC, and FICC Rules go into effect, we are not CAUSING the problem. We are permanently PREVENTING it from ever happening again.
-#Author: Altruistic_Prior1932
-#Post URL: [https://www.reddit.com/r/GME/comments/mgaowr/please_remember_if_the_market_crashes_when_these/](https://www.reddit.com/r/GME/comments/mgaowr/please_remember_if_the_market_crashes_when_these/)
+# Title: Please remember, If the market crashes when these amazing new NSCC, DTCC, and FICC Rules go into effect, we are not CAUSING the problem. We are permanently PREVENTING it from ever happening again.
+# Author: Altruistic_Prior1932
+# Post URL: [https://www.reddit.com/r/GME/comments/mgaowr/please_remember_if_the_market_crashes_when_these/](https://www.reddit.com/r/GME/comments/mgaowr/please_remember_if_the_market_crashes_when_these/)
 
 
 TLDR: They are preparing to possibly run the DTCC, NSCC, and FICC on bare bones budget per new rule [004](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-004.pdf) after having to pay out the nose when the hedgies go bankrupt from new rule [003](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf) that requires them to reconcile their activity and positions daily or face margin calls and/or liquidation of the violators who default on their [Supplemental Liquidity Deposit](https://www.natlawreview.com/article/swiss-miss-fed-basel-iii-and-slr) (~3%) calculated daily and even in some cases intra-day per new rule [801](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/NSCC/SR-NSCC-2021-801.pdf)!!!

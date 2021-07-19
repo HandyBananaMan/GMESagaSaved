@@ -1,6 +1,6 @@
-#Title: "PAGE REDACTED IN ITS ENTIRETY"
-#Author: nottagoodidea
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/omby2n/page_redacted_in_its_entirety/](https://www.reddit.com/r/Superstonk/comments/omby2n/page_redacted_in_its_entirety/)
+# Title: "PAGE REDACTED IN ITS ENTIRETY"
+# Author: nottagoodidea
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/omby2n/page_redacted_in_its_entirety/](https://www.reddit.com/r/Superstonk/comments/omby2n/page_redacted_in_its_entirety/)
 
 
 Happy weekend all, I hope all are taking a break from the madness to enjoy yourselves after this crazy week. Yesterday was filled with major non-stock related news, so I was wondering if there was possibly some news/ info that was missed. 

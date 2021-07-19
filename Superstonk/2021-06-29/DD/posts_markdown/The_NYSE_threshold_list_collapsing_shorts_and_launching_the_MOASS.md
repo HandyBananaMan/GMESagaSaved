@@ -1,6 +1,6 @@
-#Title: The NYSE threshold list: collapsing shorts and launching the MOASS
-#Author: Bladeace
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oao9oo/the_nyse_threshold_list_collapsing_shorts_and/](https://www.reddit.com/r/Superstonk/comments/oao9oo/the_nyse_threshold_list_collapsing_shorts_and/)
+# Title: The NYSE threshold list: collapsing shorts and launching the MOASS
+# Author: Bladeace
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oao9oo/the_nyse_threshold_list_collapsing_shorts_and/](https://www.reddit.com/r/Superstonk/comments/oao9oo/the_nyse_threshold_list_collapsing_shorts_and/)
 
 
 **TA;DR:** threshold list killed small shorts in January. Big shorts took on their positions. Threshold list restrictions coming for big shorts too. Watch for GME being added to the threshold list.

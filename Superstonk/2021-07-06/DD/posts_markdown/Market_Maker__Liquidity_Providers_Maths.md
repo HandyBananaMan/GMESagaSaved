@@ -1,6 +1,6 @@
-#Title: Market Maker / Liquidity Providers Maths
-#Author: ammoprofit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/](https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/)
+# Title: Market Maker / Liquidity Providers Maths
+# Author: ammoprofit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/](https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/)
 
 
 Once again, I am [replying to a comment](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/h47asll/) and have exceeded the 1500 character limit, so you get a DD.

@@ -1,6 +1,6 @@
-#Title: 61727054 Says Ken is Next
-#Author: RatioAtBlessons
-#Post URL: [https://www.reddit.com/r/GME/comments/mg437h/61727054_says_ken_is_next/](https://www.reddit.com/r/GME/comments/mg437h/61727054_says_ken_is_next/)
+# Title: 61727054 Says Ken is Next
+# Author: RatioAtBlessons
+# Post URL: [https://www.reddit.com/r/GME/comments/mg437h/61727054_says_ken_is_next/](https://www.reddit.com/r/GME/comments/mg437h/61727054_says_ken_is_next/)
 
 
 I know that you know what that number relates to Ken. I know that you have a plaque in your NY office with that on it. Actually..It’s known that London, Chicago, New York all have 61727-054 cleverly placed and/or referred to. 

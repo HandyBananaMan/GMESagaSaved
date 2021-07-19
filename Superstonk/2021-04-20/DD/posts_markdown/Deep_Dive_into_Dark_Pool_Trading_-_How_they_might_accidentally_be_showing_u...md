@@ -1,6 +1,6 @@
-#Title: Deep Dive into Dark Pool Trading - How they might accidentally be showing us the number of synthetic shares
-#Author: Doom_Douche
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
+# Title: Deep Dive into Dark Pool Trading - How they might accidentally be showing us the number of synthetic shares
+# Author: Doom_Douche
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
 
 
 Hello Apes,

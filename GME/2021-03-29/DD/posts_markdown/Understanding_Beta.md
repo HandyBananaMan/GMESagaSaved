@@ -1,6 +1,6 @@
-#Title: 🚀📈 Understanding Beta 📈🚀
-#Author: korg64
-#Post URL: [https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/](https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/)
+# Title: 🚀📈 Understanding Beta 📈🚀
+# Author: korg64
+# Post URL: [https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/](https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/)
 
 
  Good Morning Everyone

@@ -1,6 +1,6 @@
-#Title: Signs the Financial System is panicking?
-#Author: shadydew
-#Post URL: [https://www.reddit.com/r/GMEJungle/comments/omz18r/signs_the_financial_system_is_panicking/](https://www.reddit.com/r/GMEJungle/comments/omz18r/signs_the_financial_system_is_panicking/)
+# Title: Signs the Financial System is panicking?
+# Author: shadydew
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/omz18r/signs_the_financial_system_is_panicking/](https://www.reddit.com/r/GMEJungle/comments/omz18r/signs_the_financial_system_is_panicking/)
 
 
 First off, not financial advise. Not even regular advise. Just a guy who likes doing his own research finally being able to get broader feedback now there are less karma requirements. Anyway here's a TLDR, I like the stock, I don't like the market. The market is running out of places to park money and the government has other issues on it's mind. Everyone blindly running into each other. GME positions will show massive returns when an overall market correction inevitably takes place.

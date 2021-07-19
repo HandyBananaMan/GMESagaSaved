@@ -1,6 +1,6 @@
-#Title: APES LISTEN HERE! The short squeeze is going to create ripples across the market
-#Author: R3iZoR
-#Post URL: [https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/](https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/)
+# Title: APES LISTEN HERE! The short squeeze is going to create ripples across the market
+# Author: R3iZoR
+# Post URL: [https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/](https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/)
 
 
 https://preview.redd.it/eq38ksc6izo61.png?width=916&format=png&auto=webp&s=13608dba6c737f30bb0020819de15d26487841a5

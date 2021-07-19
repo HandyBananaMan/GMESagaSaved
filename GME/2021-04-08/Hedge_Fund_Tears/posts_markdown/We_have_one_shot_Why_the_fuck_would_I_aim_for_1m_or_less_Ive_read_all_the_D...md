@@ -1,3 +1,4 @@
+# Title: We have one shot. Why the fuck would I aim for 1m or less? I’ve read all the DD. I would rather aim for 100m and get 10m+ than aim for 1m and watch all the my fellow apes I held with get 10m+ because I listened to some shill hiding his fud in a long post. Fuck that.
 # Author: fusionnnnnnnha
 # Post URL: [https://www.reddit.com/r/GME/comments/mn0w5s/we_have_one_shot_why_the_fuck_would_i_aim_for_1m/](https://www.reddit.com/r/GME/comments/mn0w5s/we_have_one_shot_why_the_fuck_would_i_aim_for_1m/)
 

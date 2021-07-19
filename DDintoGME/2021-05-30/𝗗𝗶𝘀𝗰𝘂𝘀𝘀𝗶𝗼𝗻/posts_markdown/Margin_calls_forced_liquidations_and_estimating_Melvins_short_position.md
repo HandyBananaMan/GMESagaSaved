@@ -1,6 +1,6 @@
-#Title: Margin calls, forced liquidations, and estimating Melvin's short position!
-#Author: yamayakuzaki
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nod4sg/margin_calls_forced_liquidations_and_estimating/](https://www.reddit.com/r/DDintoGME/comments/nod4sg/margin_calls_forced_liquidations_and_estimating/)
+# Title: Margin calls, forced liquidations, and estimating Melvin's short position!
+# Author: yamayakuzaki
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nod4sg/margin_calls_forced_liquidations_and_estimating/](https://www.reddit.com/r/DDintoGME/comments/nod4sg/margin_calls_forced_liquidations_and_estimating/)
 
 
  **EDIT 4- I apologize in advance if any apes have seen this on the other sub. I realized I cannot cross post, and was advised to create a new post, so here it is.** 

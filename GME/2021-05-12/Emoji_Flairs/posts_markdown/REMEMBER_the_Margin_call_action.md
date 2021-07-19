@@ -1,6 +1,6 @@
-#Title: REMEMBER the Margin call action!!
-#Author: Decent-Individual747
-#Post URL: [https://www.reddit.com/r/GME/comments/nazw63/remember_the_margin_call_action/](https://www.reddit.com/r/GME/comments/nazw63/remember_the_margin_call_action/)
+# Title: REMEMBER the Margin call action!!
+# Author: Decent-Individual747
+# Post URL: [https://www.reddit.com/r/GME/comments/nazw63/remember_the_margin_call_action/](https://www.reddit.com/r/GME/comments/nazw63/remember_the_margin_call_action/)
 
 
 Apes. I’ve seen so much confirmation bias over the last 48 hours, particularly from GameStop tweets. I see the VIX is now 27.59! CNBC talking margin calls by end of trading, and of course our very own time traveller DFV tweet. 

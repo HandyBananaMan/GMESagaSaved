@@ -1,6 +1,6 @@
-#Title: I Got What You Quant - 6/2/21 Trading Analysis and a Deeper Dive Into Today's Tape
-#Author: myplayprofile
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/)
+# Title: I Got What You Quant - 6/2/21 Trading Analysis and a Deeper Dive Into Today's Tape
+# Author: myplayprofile
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/)
 
 
 HOLY MOLY! GME has highest close since 1/29! If you haven't seen yesterday's [POST](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/?utm_source=share&utm_medium=web2x&context=3), I recommend taking a look before getting into today's action, because **BIG THINGS ARE HAPPENING!** Congrats to the 💎🖐🦍 that like movies, as without you, GME wouldn't be on the brink of launch. Prepare yourself, it's time for the tea. This is not financial advice, my 🧠 is smooth.

@@ -1,6 +1,6 @@
-#Title: MARGIN CALL VS. FORCED LIQUIDATION
-#Author: Dwellerofthecrags
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/](https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/)
+# Title: MARGIN CALL VS. FORCED LIQUIDATION
+# Author: Dwellerofthecrags
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/](https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/)
 
 
 Over the past several weeks I've noticed several posts or comments that lead me to believe there may be a bit of a misunderstanding about what a MARGIN CALL is. Because I love all of my fellow HODLers, I am not going to single out any of the posts or comments.

@@ -1,6 +1,6 @@
-#Title: SR-OCC-2021-003 approved - That one was needed for SR-OCC-2021-801
-#Author: C3ll3
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/](https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/)
+# Title: SR-OCC-2021-003 approved - That one was needed for SR-OCC-2021-801
+# Author: C3ll3
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/](https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/)
 
 
 First of all the link to the rulechange: [https://www.sec.gov/rules/sro/occ/2021/34-92038.pdf](https://www.sec.gov/rules/sro/occ/2021/34-92038.pdf)

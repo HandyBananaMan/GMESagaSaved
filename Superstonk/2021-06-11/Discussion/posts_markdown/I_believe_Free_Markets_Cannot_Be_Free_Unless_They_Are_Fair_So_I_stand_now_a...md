@@ -1,6 +1,6 @@
-#Title: I believe: Free Markets Cannot Be Free, Unless They Are Fair. So I stand now, and choose to fight. My name is Alexander Ross Cohen. I am an APE. I have been a Humanitarian, Teacher, Lawyer, Builder, Founder and Father. I have been a SuperStonk Mod since Day One. Today, I step back, to lean in.💎✊
-#Author: StonkU2
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxe8qd/i_believe_free_markets_cannot_be_free_unless_they/](https://www.reddit.com/r/Superstonk/comments/nxe8qd/i_believe_free_markets_cannot_be_free_unless_they/)
+# Title: I believe: Free Markets Cannot Be Free, Unless They Are Fair. So I stand now, and choose to fight. My name is Alexander Ross Cohen. I am an APE. I have been a Humanitarian, Teacher, Lawyer, Builder, Founder and Father. I have been a SuperStonk Mod since Day One. Today, I step back, to lean in.💎✊
+# Author: StonkU2
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxe8qd/i_believe_free_markets_cannot_be_free_unless_they/](https://www.reddit.com/r/Superstonk/comments/nxe8qd/i_believe_free_markets_cannot_be_free_unless_they/)
 
 
 # One Step Back

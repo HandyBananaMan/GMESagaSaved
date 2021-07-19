@@ -1,6 +1,6 @@
-#Title: BlackRock is about to delete Shitadel out of existence.
-#Author: alienashtray
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/mp7zbn/blackrock_is_about_to_delete_shitadel_out_of/](https://www.reddit.com/r/Superstonk/comments/mp7zbn/blackrock_is_about_to_delete_shitadel_out_of/)
+# Title: BlackRock is about to delete Shitadel out of existence.
+# Author: alienashtray
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/mp7zbn/blackrock_is_about_to_delete_shitadel_out_of/](https://www.reddit.com/r/Superstonk/comments/mp7zbn/blackrock_is_about_to_delete_shitadel_out_of/)
 
 
 Hello apes/retards. I'd like to propose a theory in regards to some of the data that's been floating around over the past few days. 

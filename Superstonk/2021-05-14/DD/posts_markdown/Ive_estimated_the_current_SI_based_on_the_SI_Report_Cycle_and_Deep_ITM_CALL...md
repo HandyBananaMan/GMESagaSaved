@@ -1,6 +1,6 @@
-#Title: I've estimated the current SI% based on the SI Report Cycle and Deep ITM CALL purchases.
-#Author: Criand
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/)
+# Title: I've estimated the current SI% based on the SI Report Cycle and Deep ITM CALL purchases.
+# Author: Criand
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/)
 
 
 # 0. Preface

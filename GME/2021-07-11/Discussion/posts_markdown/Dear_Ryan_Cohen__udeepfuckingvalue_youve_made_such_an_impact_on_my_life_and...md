@@ -1,6 +1,6 @@
-#Title: Dear Ryan Cohen & u/deepfuckingvalue, you’ve made such an impact on my life and so many others. If we MOASS before November, I’m naming my boy ‘Cohen Keith’ in honor of you both.
-#Author: TimTheToolManTayl0r
-#Post URL: [https://www.reddit.com/r/GME/comments/oih84f/dear_ryan_cohen_udeepfuckingvalue_youve_made_such/](https://www.reddit.com/r/GME/comments/oih84f/dear_ryan_cohen_udeepfuckingvalue_youve_made_such/)
+# Title: Dear Ryan Cohen & u/deepfuckingvalue, you’ve made such an impact on my life and so many others. If we MOASS before November, I’m naming my boy ‘Cohen Keith’ in honor of you both.
+# Author: TimTheToolManTayl0r
+# Post URL: [https://www.reddit.com/r/GME/comments/oih84f/dear_ryan_cohen_udeepfuckingvalue_youve_made_such/](https://www.reddit.com/r/GME/comments/oih84f/dear_ryan_cohen_udeepfuckingvalue_youve_made_such/)
 
 
 Dear Ryan Cohen & u/deepfuckingvalue,

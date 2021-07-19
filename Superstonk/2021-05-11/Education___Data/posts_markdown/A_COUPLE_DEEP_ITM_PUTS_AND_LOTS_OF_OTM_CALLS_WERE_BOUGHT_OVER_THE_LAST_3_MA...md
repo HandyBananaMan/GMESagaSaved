@@ -1,6 +1,6 @@
-#Title: A COUPLE DEEP ITM PUTS AND LOTS OF OTM CALLS WERE BOUGHT OVER THE LAST 3 MARKET DAYS (5/7-FRIDAY, 5/11-MONDAY, 5/12-TUESDAY)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/)
+# Title: A COUPLE DEEP ITM PUTS AND LOTS OF OTM CALLS WERE BOUGHT OVER THE LAST 3 MARKET DAYS (5/7-FRIDAY, 5/11-MONDAY, 5/12-TUESDAY)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/)
 
 
 Good evening Apes,

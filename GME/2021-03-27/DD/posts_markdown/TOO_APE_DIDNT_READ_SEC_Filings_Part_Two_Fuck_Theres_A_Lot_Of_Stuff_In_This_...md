@@ -1,6 +1,6 @@
-#Title: 🦍💬 [TOO APE DIDN’T READ] SEC Filings Part Two: Fuck There's A Lot Of Stuff In This One (guest appearance by the Federal Reserve)
-#Author: Antioch_Orontes
-#Post URL: [https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
+# Title: 🦍💬 [TOO APE DIDN’T READ] SEC Filings Part Two: Fuck There's A Lot Of Stuff In This One (guest appearance by the Federal Reserve)
+# Author: Antioch_Orontes
+# Post URL: [https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
 
 
 Hey everybody, holy moly what a week. By the time you read this it’ll probably be Saturday morning, because I’ve been working on this between work and bunkering down for tornadoes.

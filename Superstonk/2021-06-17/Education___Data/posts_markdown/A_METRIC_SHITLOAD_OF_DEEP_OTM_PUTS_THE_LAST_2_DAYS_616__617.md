@@ -1,6 +1,6 @@
-#Title: A METRIC SHITLOAD OF DEEP OTM PUTS THE LAST 2 DAYS (6/16 & 6/17)
-#Author: Dan_Bren
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/](https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/)
+# Title: A METRIC SHITLOAD OF DEEP OTM PUTS THE LAST 2 DAYS (6/16 & 6/17)
+# Author: Dan_Bren
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/](https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/)
 
 
 Good evening Apes,

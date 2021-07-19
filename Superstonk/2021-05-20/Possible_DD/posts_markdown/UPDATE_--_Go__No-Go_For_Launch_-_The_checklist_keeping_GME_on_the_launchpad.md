@@ -1,6 +1,6 @@
-#Title: UPDATE -- Go / No-Go For Launch - The checklist keeping GME on the launchpad.
-#Author: nothingbuttherainsir
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/)
+# Title: UPDATE -- Go / No-Go For Launch - The checklist keeping GME on the launchpad.
+# Author: nothingbuttherainsir
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/](https://www.reddit.com/r/Superstonk/comments/nhh0f1/update_go_nogo_for_launch_the_checklist_keeping/)
 
 
 ***TL;DR:***  

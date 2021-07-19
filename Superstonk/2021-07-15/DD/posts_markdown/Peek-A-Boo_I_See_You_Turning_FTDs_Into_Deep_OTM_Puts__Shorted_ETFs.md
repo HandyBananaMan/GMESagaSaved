@@ -1,6 +1,6 @@
-#Title: Peek-A-Boo! I See You Turning FTDs Into Deep OTM Puts & Shorted ETFs!
-#Author: WhatCanIMakeToday
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/ol1g5u/peekaboo_i_see_you_turning_ftds_into_deep_otm/](https://www.reddit.com/r/Superstonk/comments/ol1g5u/peekaboo_i_see_you_turning_ftds_into_deep_otm/)
+# Title: Peek-A-Boo! I See You Turning FTDs Into Deep OTM Puts & Shorted ETFs!
+# Author: WhatCanIMakeToday
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/ol1g5u/peekaboo_i_see_you_turning_ftds_into_deep_otm/](https://www.reddit.com/r/Superstonk/comments/ol1g5u/peekaboo_i_see_you_turning_ftds_into_deep_otm/)
 
 
 Thanks to some awesome work by u/Suspicious-Singer243 at looking at [SEC FTD data](https://www.reddit.com/r/Superstonk/comments/okvtid/june_2021_second_half_failuretodeliver_sec_data/) highlighting when FTDs were extremely high, I noticed those peak FTD dates line up mysteriously well with the dates when worthless \[\*1\] deep OTM Puts are opened.  It seems to me that this corroborates the theory that deep OTM Puts are used to hide FTDs.

@@ -1,6 +1,6 @@
-#Title: I think SR-FICC-2021-003 is Significant and Curious
-#Author: I_DO_ANIMAL_THINGS
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/](https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/)
+# Title: I think SR-FICC-2021-003 is Significant and Curious
+# Author: I_DO_ANIMAL_THINGS
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/](https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/)
 
 
 I posted this yesterday but it got lost in pictures of the last 10 minutes of trade. Reposting now for greater discussion.

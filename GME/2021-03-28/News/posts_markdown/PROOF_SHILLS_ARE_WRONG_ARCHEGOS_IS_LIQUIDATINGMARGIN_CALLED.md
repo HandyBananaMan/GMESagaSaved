@@ -1,6 +1,6 @@
-#Title: PROOF SHILLS ARE WRONG: ARCHEGOS IS LIQUIDATING/MARGIN CALLED
-#Author: Glittering-Lead-9228
-#Post URL: [https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/](https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/)
+# Title: PROOF SHILLS ARE WRONG: ARCHEGOS IS LIQUIDATING/MARGIN CALLED
+# Author: Glittering-Lead-9228
+# Post URL: [https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/](https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/)
 
 
 EDIT: LOL, getting so many downvotes. Call me bias, but every downvote is a confirmation downvote. Was at 357 upvotes 30 secs ago, now only 352... .

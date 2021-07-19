@@ -1,6 +1,6 @@
-#Title: Fourier Analysis: Power Spectral Density of GME price cycles
-#Author: positive_root
-#Post URL: [https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/)
+# Title: Fourier Analysis: Power Spectral Density of GME price cycles
+# Author: positive_root
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/)
 
 
 Hey everybody, I've been lurking for a while, thought I might have something to contribute to the hivemind. I'm submitting this late at night California time cause it took me a while, it turned out to be very long. Anyway, good morning Euro friends! Can't wait to visit you all again someday!

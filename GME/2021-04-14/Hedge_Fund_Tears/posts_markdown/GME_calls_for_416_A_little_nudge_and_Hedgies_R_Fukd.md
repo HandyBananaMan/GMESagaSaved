@@ -1,6 +1,6 @@
-#Title: GME calls for 4/16. A little nudge and Hedgies R Fukd.
-#Author: chiefoogabooga
-#Post URL: [https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/](https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/)
+# Title: GME calls for 4/16. A little nudge and Hedgies R Fukd.
+# Author: chiefoogabooga
+# Post URL: [https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/](https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/)
 
 
 **Important:  See edit 2 at the bottom of this post.**

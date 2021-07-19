@@ -1,6 +1,6 @@
-#Title: Remember when GME announced they paid off their Senior debt an eternity ago? That was their last corporate press release.
-#Author: Hit_the_reser_button
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nk538d/remember_when_gme_announced_they_paid_off_their/](https://www.reddit.com/r/Superstonk/comments/nk538d/remember_when_gme_announced_they_paid_off_their/)
+# Title: Remember when GME announced they paid off their Senior debt an eternity ago? That was their last corporate press release.
+# Author: Hit_the_reser_button
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nk538d/remember_when_gme_announced_they_paid_off_their/](https://www.reddit.com/r/Superstonk/comments/nk538d/remember_when_gme_announced_they_paid_off_their/)
 
 
 That was 21 days ago... since then

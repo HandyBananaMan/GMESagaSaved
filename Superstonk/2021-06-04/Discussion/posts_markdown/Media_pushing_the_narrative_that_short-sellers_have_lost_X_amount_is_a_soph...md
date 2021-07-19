@@ -1,6 +1,6 @@
-#Title: Media pushing the narrative that short-sellers have lost X$ amount is a sophisticated manipulation to let you think it's a lot of money.
-#Author: Aidlikeit
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nry08g/media_pushing_the_narrative_that_shortsellers/](https://www.reddit.com/r/Superstonk/comments/nry08g/media_pushing_the_narrative_that_shortsellers/)
+# Title: Media pushing the narrative that short-sellers have lost X$ amount is a sophisticated manipulation to let you think it's a lot of money.
+# Author: Aidlikeit
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nry08g/media_pushing_the_narrative_that_shortsellers/](https://www.reddit.com/r/Superstonk/comments/nry08g/media_pushing_the_narrative_that_shortsellers/)
 
 
 Just look at the facts. 

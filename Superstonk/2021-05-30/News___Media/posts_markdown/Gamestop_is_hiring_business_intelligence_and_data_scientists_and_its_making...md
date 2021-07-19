@@ -1,6 +1,6 @@
-#Title: Gamestop is hiring business intelligence and data scientists and its making me so bullish!
-#Author: somuchofnotenough
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nodmb4/gamestop_is_hiring_business_intelligence_and_data/](https://www.reddit.com/r/Superstonk/comments/nodmb4/gamestop_is_hiring_business_intelligence_and_data/)
+# Title: Gamestop is hiring business intelligence and data scientists and its making me so bullish!
+# Author: somuchofnotenough
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nodmb4/gamestop_is_hiring_business_intelligence_and_data/](https://www.reddit.com/r/Superstonk/comments/nodmb4/gamestop_is_hiring_business_intelligence_and_data/)
 
 
 So I saw this post, 

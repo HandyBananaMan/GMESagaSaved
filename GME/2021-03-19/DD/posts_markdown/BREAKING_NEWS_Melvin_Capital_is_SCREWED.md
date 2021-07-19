@@ -1,6 +1,6 @@
-#Title: BREAKING NEWS: Melvin Capital is SCREWED
-#Author: atobitt
-#Post URL: [https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/](https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/)
+# Title: BREAKING NEWS: Melvin Capital is SCREWED
+# Author: atobitt
+# Post URL: [https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/](https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/)
 
 
 *EDIT: Fixed the link, SORRY!*

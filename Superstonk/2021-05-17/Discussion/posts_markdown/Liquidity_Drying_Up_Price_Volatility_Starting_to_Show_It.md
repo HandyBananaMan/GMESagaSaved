@@ -1,6 +1,6 @@
-#Title: Liquidity Drying Up; Price Volatility Starting to Show It
-#Author: DJTanner213
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/nev8y5/liquidity_drying_up_price_volatility_starting_to/](https://www.reddit.com/r/Superstonk/comments/nev8y5/liquidity_drying_up_price_volatility_starting_to/)
+# Title: Liquidity Drying Up; Price Volatility Starting to Show It
+# Author: DJTanner213
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/nev8y5/liquidity_drying_up_price_volatility_starting_to/](https://www.reddit.com/r/Superstonk/comments/nev8y5/liquidity_drying_up_price_volatility_starting_to/)
 
 
 Did some number crunching while bored after work tonight.  Found something that is starting to show how the effects of evaporating liquidity are starting to show themselves.

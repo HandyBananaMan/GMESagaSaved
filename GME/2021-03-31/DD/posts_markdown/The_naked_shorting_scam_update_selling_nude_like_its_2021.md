@@ -1,6 +1,6 @@
-#Title: The naked shorting scam update: selling nude like its 2021
-#Author: broccaaa
-#Post URL: [https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/)
+# Title: The naked shorting scam update: selling nude like its 2021
+# Author: broccaaa
+# Post URL: [https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/)
 
 
 This post is an update to the one I posted yesterday on r/GME and r/Wallstreetbetsnew. I hope to address some of the minor criticisms that were raised and use updated references for interested apes to look into.

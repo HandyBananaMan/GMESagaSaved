@@ -1,6 +1,6 @@
-#Title: I would like submit to host a GME Ape Backyard BBQ yearly reunion
-#Author: jamiegirl21
-#Post URL: [https://www.reddit.com/r/GME/comments/me4bxv/i_would_like_submit_to_host_a_gme_ape_backyard/](https://www.reddit.com/r/GME/comments/me4bxv/i_would_like_submit_to_host_a_gme_ape_backyard/)
+# Title: I would like submit to host a GME Ape Backyard BBQ yearly reunion
+# Author: jamiegirl21
+# Post URL: [https://www.reddit.com/r/GME/comments/me4bxv/i_would_like_submit_to_host_a_gme_ape_backyard/](https://www.reddit.com/r/GME/comments/me4bxv/i_would_like_submit_to_host_a_gme_ape_backyard/)
 
 
 Me: east coast gal with the shiniest of diamond hands been holding gme since December 

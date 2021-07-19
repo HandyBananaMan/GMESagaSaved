@@ -1,6 +1,6 @@
-#Title: Squeeze Etiquette
-#Author: TowelFine6933
-#Post URL: [https://www.reddit.com/r/GME/comments/mco0gg/squeeze_etiquette/](https://www.reddit.com/r/GME/comments/mco0gg/squeeze_etiquette/)
+# Title: Squeeze Etiquette
+# Author: TowelFine6933
+# Post URL: [https://www.reddit.com/r/GME/comments/mco0gg/squeeze_etiquette/](https://www.reddit.com/r/GME/comments/mco0gg/squeeze_etiquette/)
 
 
 So, we all know the squeeze is coming. When? Dunno. I'm just HODLing until it does. And, when it does, please keep the following in mind.

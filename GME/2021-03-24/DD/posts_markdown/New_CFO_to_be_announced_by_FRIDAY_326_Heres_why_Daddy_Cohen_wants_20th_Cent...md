@@ -1,6 +1,6 @@
-#Title: New CFO to be announced by FRIDAY 3/26. Here's why Daddy Cohen wants "20th Century" CEO gone 🚀🚀🚀
-#Author: ihatedmyboss
-#Post URL: [https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/](https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/)
+# Title: New CFO to be announced by FRIDAY 3/26. Here's why Daddy Cohen wants "20th Century" CEO gone 🚀🚀🚀
+# Author: ihatedmyboss
+# Post URL: [https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/](https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/)
 
 
 Ladies and Gentleapes 🦍,

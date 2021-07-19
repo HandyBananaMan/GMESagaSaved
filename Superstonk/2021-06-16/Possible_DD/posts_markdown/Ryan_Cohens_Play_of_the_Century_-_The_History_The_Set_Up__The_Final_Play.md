@@ -1,6 +1,6 @@
-#Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
-#Author: AChipOnYourShoulder
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/)
+# Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
+# Author: AChipOnYourShoulder
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/)
 
 
 \*\*\*\*\*\*\*\*\*\* ALL CREDIT FOR THIS POST GOES TO u/Topster420 \*\*\*\*\*\*\*\*\*\*\*

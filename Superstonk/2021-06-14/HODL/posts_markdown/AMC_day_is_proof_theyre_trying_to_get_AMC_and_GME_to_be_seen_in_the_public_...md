@@ -1,6 +1,6 @@
-#Title: “AMC day” is proof they’re trying to get AMC and GME to be seen in the public eye as one in the same so they can do illegal actions such as coordinated buying to try to get everything shut down together. We do not support AMC here. There is only one MOASS.
-#Author: Ryantacular
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/o04xrt/amc_day_is_proof_theyre_trying_to_get_amc_and_gme/](https://www.reddit.com/r/Superstonk/comments/o04xrt/amc_day_is_proof_theyre_trying_to_get_amc_and_gme/)
+# Title: “AMC day” is proof they’re trying to get AMC and GME to be seen in the public eye as one in the same so they can do illegal actions such as coordinated buying to try to get everything shut down together. We do not support AMC here. There is only one MOASS.
+# Author: Ryantacular
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/o04xrt/amc_day_is_proof_theyre_trying_to_get_amc_and_gme/](https://www.reddit.com/r/Superstonk/comments/o04xrt/amc_day_is_proof_theyre_trying_to_get_amc_and_gme/)
 
 
 *Title edit*: it’s not proof - but by staying quiet and posting AMC friendly content, Superstonk is essentially allowing the mainstream media to group GME and AMC together - not just to unsuspecting investors - but to regulators as well. 

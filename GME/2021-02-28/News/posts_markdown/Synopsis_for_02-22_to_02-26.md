@@ -1,6 +1,6 @@
-#Title: Synopsis for 02-22 to 02-26
-#Author: rensole
-#Post URL: [https://www.reddit.com/r/GME/comments/lug0ft/synopsis_for_0222_to_0226/](https://www.reddit.com/r/GME/comments/lug0ft/synopsis_for_0222_to_0226/)
+# Title: Synopsis for 02-22 to 02-26
+# Author: rensole
+# Post URL: [https://www.reddit.com/r/GME/comments/lug0ft/synopsis_for_0222_to_0226/](https://www.reddit.com/r/GME/comments/lug0ft/synopsis_for_0222_to_0226/)
 
 
 Happy Sunday everyone,

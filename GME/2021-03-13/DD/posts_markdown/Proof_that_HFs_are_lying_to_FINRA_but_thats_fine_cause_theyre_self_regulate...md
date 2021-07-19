@@ -1,6 +1,6 @@
-#Title: Proof that HFs are lying to FINRA but that's fine cause they're "self regulated" + 900% GME SI update.
-#Author: moonski
-#Post URL: [https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/](https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/)
+# Title: Proof that HFs are lying to FINRA but that's fine cause they're "self regulated" + 900% GME SI update.
+# Author: moonski
+# Post URL: [https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/](https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/)
 
 
 Back again with my colleagues derived SI, after it generated so much discussion last week - Even good old Ihor mentioned it.. His replies to various feedback are below the data.
