@@ -1,5 +1,6 @@
-# Author: AvidTreesFan
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/](https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/)
+#Title: What Exactly Happened with Melvin Capital?
+#Author: AvidTreesFan
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/](https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/)
 
 
 Okay, I've been typing all day and sipping coffee all night, so strap in for my crayon drawings.
@@ -140,7 +141,7 @@ I will say though, the skeptic in me wonders if Citadel abused their MM privileg
 
 **HEDGIES R FUK.**
 
-Oh yeah and I'll just leave this here: [https://www.cbre.us/properties/properties-for-lease/office/details/US-SMPL-2338/535-madison-avenue-10022?view=isLetting](https://www.cbre.us/properties/properties-for-lease/office/details/US-SMPL-2338/535-madison-avenue-10022?view=isLetting) **That's Melvin's old building.** **Two floors underneath Melvin, S3 Capital/Spruce Capital is no longer occupying their office on the 19th floor (despite still listing it on their website).** ![**http://sprucecap.com/contact-us/**](http://sprucecap.com/contact-us/)
+Oh yeah and I'll just leave this here: [https://www.cbre.us/properties/properties-for-lease/office/details/US-SMPL-2338/535-madison-avenue-10022?view=isLetting](https://www.cbre.us/properties/properties-for-lease/office/details/US-SMPL-2338/535-madison-avenue-10022?view=isLetting) **That's Melvin's old building.** **Two floors underneath Melvin, S3 Capital/Spruce Capital is no longer occupying their office on the 19th floor (despite still listing it on their website).** [**http://sprucecap.com/contact-us/**](http://sprucecap.com/contact-us/)
 
 Edit 1: updated to correct my assertion that Melvin Capital's website is down. According to fellow redditor u/Show3n it has been like that for quite some time. Thank you for the correct info 🙌🙌
 

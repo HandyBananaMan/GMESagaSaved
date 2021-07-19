@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/)
+#Title: Things are shockingly similar to the February 24th and March 10th runup so far. Gamma squeeze indicators from the previous T+21/T+35 have returned. Their doom approaches.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/](https://www.reddit.com/r/Superstonk/comments/nqbera/things_are_shockingly_similar_to_the_february/)
 
 
 # 0. Preface
@@ -8,7 +9,7 @@ I am not a financial advisor, and I do not provide financial advice! Everything 
 
 TL;DR: Hedgies are close to meeting [their doom](https://www.youtube.com/watch?v=Nw_cdqQHGA8). DOOOM.
 
-[I've been labeled as \\"Doomsayer\\" by my friends.](https://preview.redd.it/umrwsell4r271.png?width=1277&format=png&auto=webp&s=43c58c358fa9130c22b5b6f5b81430992a9583fa)
+![I've been labeled as \\"Doomsayer\\" by my friends.](https://preview.redd.it/umrwsell4r271.png?width=1277&format=png&auto=webp&s=43c58c358fa9130c22b5b6f5b81430992a9583fa)
 
 **Actual TL;DR: June 1st has kicked off with the DTC, ICC, OCC auction and wind-down plans  officially being in place. This means it is OK to launch the rocket because those three entities are now protected. We're seeing very similar price movements and gamma squeeze signals compared to the previous T+35/T+21 runup that occurred from February 24th to March 10th. This means that we could very well see another gamma squeeze of similar or greater magnitude which would begin to go parabolic around June 9th.**
 
@@ -56,7 +57,7 @@ One similarity is the resurgence of gamma squeeze signals.
 
 The amazing ape /u/yelyah2, and I'm sure many others, have been [identifying signs that a gamma squeeze could be coming](https://www.reddit.com/r/Superstonk/comments/nlrtul/gamma_squeeze_could_be_coming_soon/):
 
-[Figure 1: Gamma Neutral Values; From \/u\/yelyah2](https://preview.redd.it/q69cchm7kq271.png?width=1128&format=png&auto=webp&s=811f48c1afbefe1b70605994fc49a5e9a8070b77)
+![Figure 1: Gamma Neutral Values; From \/u\/yelyah2](https://preview.redd.it/q69cchm7kq271.png?width=1128&format=png&auto=webp&s=811f48c1afbefe1b70605994fc49a5e9a8070b77)
 
 The most important data point to keep an eye on here is the yellow that spikes up/down. This is the "**Gamma Neutral**" value.
 
@@ -92,7 +93,7 @@ Moving forward, let's take a look at the price movements over the past few days.
 * The purple call-out boxes are pointing to T+21/T+35 cycles (Feb 24, May 25).
 * The red call-out boxes are pointing to purely T+21 cycles (March 25, April 26).
 
-[Figure 2:  GME Price Activity; Similarities Between Feb 24 T+21\/T+35 and May 25 T+21\/T+35](https://preview.redd.it/jfeq0m27vq271.png?width=1323&format=png&auto=webp&s=37a8d9f5925ed265cd3673714d95adc9b600140e)
+![Figure 2:  GME Price Activity; Similarities Between Feb 24 T+21\/T+35 and May 25 T+21\/T+35](https://preview.redd.it/jfeq0m27vq271.png?width=1323&format=png&auto=webp&s=37a8d9f5925ed265cd3673714d95adc9b600140e)
 
 Starting back at February 24th, all the way to the left of Figure 2, you'll see the purple callout box pointing to a purple box around the actual prices of GME. The lower bound of the box starts at the close price of February 24th, and the upper bound of the box ends at the close price of March 2nd, which is 4 trading days later. I used 4 trading days because, well, that's how many days we have seen since May 25th so far. I've applied this same method to all other T+21 dates and plotted their respective boxes. This is a visual to show you the behavior of the price following T+21 and T+21/T+35 cycles, and the differences between the two.
 
@@ -118,14 +119,14 @@ In my [previous post](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_es
 
 I'm grabbing this figure from /u/broccaaa's post [The Naked Shorting Scam](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) which compares Deep ITM CALL Volumes to FTDs:
 
-[Figure 3: Deep ITM CALL Volumes Vs FTDs; From \/u\/broccaaa](https://preview.redd.it/c490umhwqq271.png?width=1907&format=png&auto=webp&s=93f449a5150c398e9a88e857a937677e239fae70)
+![Figure 3: Deep ITM CALL Volumes Vs FTDs; From \/u\/broccaaa](https://preview.redd.it/c490umhwqq271.png?width=1907&format=png&auto=webp&s=93f449a5150c398e9a88e857a937677e239fae70)
 
 When FTDs skyrocket, Deep ITM CALLs are eaten up. You see this occur extensively in January due to the mini-squeeze that occurred from massive FOMO of retail around the world. And then a resurgence of these Deep ITM CALL anomalies in the February 24th to March 10th runup due to more FTDs appearing.
 
 Ever since March 10th, these Deep ITM CALL purchases have slowly decayed and died off. User /u/Dan_Bren had been posting about these anomalies for weeks, and weeks, until suddenly - the anomalies stopped. The only significant purchases that have been made since the Deep ITM CALLs died off have been for Deep OTM CALLs and Deep ITM PUTs.
 
 * [Deep OTM CALLs were purchased](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/). Possibly a big entity expecting the price to pop by July 16th.
-* Deep ITM PUTs were purchased as well (same link). ![We got a warning that they could be used to flash crash the price on May 28th](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/), and sure enough, it happened.
+* Deep ITM PUTs were purchased as well (same link). [We got a warning that they could be used to flash crash the price on May 28th](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/), and sure enough, it happened.
 
 So what does this mean? The give-up on Deep ITM CALLs could be many things.
 

@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/mlt7oz/once_again_no_inthemoney_calls_were_purchased/](https://www.reddit.com/r/GME/comments/mlt7oz/once_again_no_inthemoney_calls_were_purchased/)
+#Title: ONCE AGAIN NO IN-THE-MONEY CALLS WERE PURCHASED TODAY
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/mlt7oz/once_again_no_inthemoney_calls_were_purchased/](https://www.reddit.com/r/GME/comments/mlt7oz/once_again_no_inthemoney_calls_were_purchased/)
 
 
  Apes,

@@ -1,5 +1,6 @@
-# Author: Sar7814
-# Post URL: [https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/)
+#Title: NSCC Filing Today. THIS. IS. ACTUALLY. INSANE.
+#Author: Sar7814
+#Post URL: [https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/](https://www.reddit.com/r/GME/comments/mg4o2q/nscc_filing_today_this_is_actually_insane/)
 
 
 
@@ -28,7 +29,7 @@ First, the proposed rule change would revise the entries for “3. Obligation Wa
 
 GUYS, THIS IS ONLY UP TO PAGE 13. I COULD GO ON BUT HERE I WILL LINK THE PDF WITH JOY:
 
-![https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf)
+[https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf](https://www.sec.gov/rules/sro/nscc/2021/34-91428.pdf)
 
 &#x200B;
 

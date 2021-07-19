@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
+#Title: The Bigger Short. How 2008 is repeating, at a much greater magnitude, and COVID ignited the fuse. GME is not the reason for the market crash. GME was the fatal flaw of Wall Street in their infinite money cheat that they did not expect.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)
 
 
 &#x200B;
@@ -31,7 +32,7 @@ Seriously. **Go**. **Watch**. **Inside Job**. It is a documentary with interview
 
 &#x200B;
 
-[Inside Job \(2010\) Promotional](https://preview.redd.it/vvdd32qkei571.png?width=776&format=png&auto=webp&s=982445a99f17af054bd351990017e364b137cf02)
+![Inside Job \(2010\) Promotional](https://preview.redd.it/vvdd32qkei571.png?width=776&format=png&auto=webp&s=982445a99f17af054bd351990017e364b137cf02)
 
 &#x200B;
 
@@ -53,11 +54,11 @@ And of course, once the Derivatives Market was left unchecked, it was off to the
 
 The Derivative Market exploded in size once regulation was banned and de-regulation of the financial world continued. You can see as of 2000, the cumulative derivatives market was already out of control.
 
-[https:\/\/www.hilarispublisher.com\/open-access\/investment-banks-and-credit-institutions-the-ignored-and-unregulateddiversity-2151-6219-1000224.pdf](https://preview.redd.it/9igfmi69di571.png?width=578&format=png&auto=webp&s=27fefbf3443e8be528849221f2eadeb1a5c10833)
+![https:\/\/www.hilarispublisher.com\/open-access\/investment-banks-and-credit-institutions-the-ignored-and-unregulateddiversity-2151-6219-1000224.pdf](https://preview.redd.it/9igfmi69di571.png?width=578&format=png&auto=webp&s=27fefbf3443e8be528849221f2eadeb1a5c10833)
 
 The Derivatives Market is big. **Insanely big**. Look at how it compares to **Global Wealth**.
 
-[https:\/\/www.visualcapitalist.com\/all-of-the-worlds-money-and-markets-in-one-visualization-2020\/](https://preview.redd.it/s22atssgdi571.png?width=1029&format=png&auto=webp&s=086dcebf3e710052f78b7490150203d0f8376b89)
+![https:\/\/www.visualcapitalist.com\/all-of-the-worlds-money-and-markets-in-one-visualization-2020\/](https://preview.redd.it/s22atssgdi571.png?width=1029&format=png&auto=webp&s=086dcebf3e710052f78b7490150203d0f8376b89)
 
 At the bottom of the list are three derivatives entries, with "Market Value" and "Notional Value" called out.
 
@@ -85,9 +86,9 @@ But now, it's a chain.
 5. The Investment Banks then take these CDO's and sell them to investors, including retirement funds, because that was the rating required for retirement funds as they would only purchase highly rated securities.
 6. Now when the homeowner pays their mortgage, the money flows directly into the investors. The investors are the main ones who will be hurt if the CDO's containing the mortgages begin to fail.
 
-[Inside Job \(2010\) - Flow Of Money For Mortgage Payments](https://preview.redd.it/0xtaww3ydi571.png?width=1493&format=png&auto=webp&s=f448a113043b043243efd879f174493bd33423fe)
+![Inside Job \(2010\) - Flow Of Money For Mortgage Payments](https://preview.redd.it/0xtaww3ydi571.png?width=1493&format=png&auto=webp&s=f448a113043b043243efd879f174493bd33423fe)
 
-[https:\/\/www.investopedia.com\/ask\/answers\/09\/bond-rating.asp](https://preview.redd.it/uyk9ms4fei571.png?width=756&format=png&auto=webp&s=d61e9a0754b676e64a1f6c97277ba877e946fcb6)
+![https:\/\/www.investopedia.com\/ask\/answers\/09\/bond-rating.asp](https://preview.redd.it/uyk9ms4fei571.png?width=756&format=png&auto=webp&s=d61e9a0754b676e64a1f6c97277ba877e946fcb6)
 
 # 1.3 The Bubble of Subprime Loans Packed In CDOs
 
@@ -97,7 +98,7 @@ So they went wild and pumped out more and more loans, and more and more CDOs. Be
 
 In the early 2000s there was a huge increase in the riskiest loans - “Subprime Loans”. These are loans given to people who have low income, limited credit history, poor credit, etc. They are very at risk to not pay their mortgages. It was predatory lending, because it hunted for potential home buyers who would never be able to pay back their mortgages so that they could continue to pack these up into CDO's.
 
-[Inside Job \(2010\) - &#37; Of Subprime Loans](https://preview.redd.it/wsr30iorei571.png?width=1447&format=png&auto=webp&s=59cf72f6eb8209d69e0a13ccf2f0127e69a45142)
+![Inside Job \(2010\) - &#37; Of Subprime Loans](https://preview.redd.it/wsr30iorei571.png?width=1447&format=png&auto=webp&s=59cf72f6eb8209d69e0a13ccf2f0127e69a45142)
 
 In fact, the investment banks **preferred** subprime loans, because they carried higher interest rates and more profit for them.
 
@@ -109,7 +110,7 @@ Pretty much **anyone** could get a home now. Purchases of homes and housing pric
 
 In Wall Street, annual cash bonuses started to spike. Traders and CEOs became extremely wealthy in this bubble as they continued to pump more toxic CDO's into the market. Lehman Bros. was one of the top underwriters of subprime lending and their CEO alone took home over $485 million in bonuses.
 
-[Inside Job \(2010\) Wall Street Bonuses](https://preview.redd.it/io87r9vxei571.png?width=1494&format=png&auto=webp&s=944300df8faf8da35d75de6f10fb951a6d230154)
+![Inside Job \(2010\) Wall Street Bonuses](https://preview.redd.it/io87r9vxei571.png?width=1494&format=png&auto=webp&s=944300df8faf8da35d75de6f10fb951a6d230154)
 
 And it was all short-term gain, high risk, with no worries about the potential failure of your institution or the economy. When things collapsed, they would not need to pay back their bonuses and gains. They were literally risking the entire world economy for the sake of short-term profits.
 
@@ -119,7 +120,7 @@ During the bubble from 2000 to 2007, the investment banks were borrowing heavily
 
 In 2004, Henry Paulson, the CEO of Goldman Sachs, helped lobby the SEC to relax limits on leverage, allowing the banks to sharply increase their borrowing. Basically, the SEC allowed investment banks to gamble a lot more. **Investment banks would go up to about 33-to-1 leverage at the time of the 2008 crash**. Which means if a 3% decrease occurred in their asset base, it would leave them insolvent. **Henry Paulson would later become the Secretary Of The Treasury from 2006 to 2009**. He was just one of many Wall Street executives to eventually make it into Government positions. Including the infamous Gary Gensler, the current SEC chairman, who helped block derivative market regulations.
 
-[Inside Job \(2010\) Leverage Abuse of 2008](https://preview.redd.it/k87x53h7fi571.png?width=1619&format=png&auto=webp&s=b12004d6bb3e70643516ef0477303f4652ccd348)
+![Inside Job \(2010\) Leverage Abuse of 2008](https://preview.redd.it/k87x53h7fi571.png?width=1619&format=png&auto=webp&s=b12004d6bb3e70643516ef0477303f4652ccd348)
 
 The borrowing exploded, the profits exploded, and it was all at the risk of obliterating their institutions and possibly the global economy. Some of these banks knew that they were "too big to fail" and could push for bailouts at the expense of taxpayers. Especially when they began planting their own executives in positions of power.
 
@@ -131,7 +132,7 @@ For investors who owned CDO's, CDS's worked like an insurance policy. An investo
 
 But unlike regular insurance, where you can only insure your car once, **speculators could also purchase CDS's from AIG in order to bet against CDO's they didn't own**. You could suddenly have a sense of rehypothecation where fifty, one hundred entities might now have insurance against a CDO.
 
-[Inside Job \(2010\) Payment Flow of CDS's](https://preview.redd.it/7xoupx0ffi571.png?width=1258&format=png&auto=webp&s=869beb0d99b9fbb4108cd5af692d0a6332fd52dd)
+![Inside Job \(2010\) Payment Flow of CDS's](https://preview.redd.it/7xoupx0ffi571.png?width=1258&format=png&auto=webp&s=869beb0d99b9fbb4108cd5af692d0a6332fd52dd)
 
 If you've watched The Big Short (2015), you might remember the Credit Default Swaps, because those are what Michael Burry and others purchased to bet against the Subprime Mortgage CDO's.
 
@@ -147,7 +148,7 @@ By late 2006, Goldman Sachs took it one step further. It didn’t just sell toxi
 
 Goldman Sachs would purchase CDS's from AIG and bet against CDO's it didn’t own, and got paid when those CDO's failed. Goldman bought at least $22B in CDS's from AIG, and it was so much that Goldman realized AIG itself might go bankrupt (which later on it would and the Government had to bail them out). So Goldman spent $150M insuring themselves against AIG’s potential collapse. They purchased CDS's against AIG.
 
-[Inside Job \(2010\) Payment From AIG To Goldman Sachs If CDO's Failed](https://preview.redd.it/m54zv03yfi571.png?width=1411&format=png&auto=webp&s=f6cb605b4c9b36c22e60cd8205b80bd6ac770fac)
+![Inside Job \(2010\) Payment From AIG To Goldman Sachs If CDO's Failed](https://preview.redd.it/m54zv03yfi571.png?width=1411&format=png&auto=webp&s=f6cb605b4c9b36c22e60cd8205b80bd6ac770fac)
 
 Then in 2007, Goldman went even further. They started selling CDO's specifically designed so that the more money their customers lost, the more Goldman Sachs made.
 
@@ -155,15 +156,15 @@ Many other banks did the same. They created shitty CDO's, sold them, while simul
 
 The three rating agencies, Moody’s, S&P and Fitch, made billions of dollars giving high ratings to these risky securities. Moody’s, the largest ratings agency, quadrupled its profits between 2000 and 2007. The more AAA's they gave out, the higher their compensation and earnings were for the quarter. AAA ratings mushroomed from a handful in 2000 to thousands by 2006. Hundreds of billions of dollars worth of CDO's were being rated AAA per year. When it all collapsed and the ratings agencies were called before Congress, the rating agencies expressed that it was “their opinion” of the rating in order to weasel their way out of blame. Despite knowing that they were toxic and did not deserve anything above 'junk' rating.
 
-[Inside Job \(2010\) Ratings Agencies Profits](https://preview.redd.it/tto0v644gi571.png?width=1332&format=png&auto=webp&s=f4361dcc23801691d46ec88b241c7d5fa56e2aaf)
+![Inside Job \(2010\) Ratings Agencies Profits](https://preview.redd.it/tto0v644gi571.png?width=1332&format=png&auto=webp&s=f4361dcc23801691d46ec88b241c7d5fa56e2aaf)
 
-[Inside Job \(2010\) - Insane Increase of AAA Rated CDOs](https://preview.redd.it/91dpnu78gi571.png?width=1259&format=png&auto=webp&s=1f196573f47a757a8bcca8b9e712c537be84cbe2)
+![Inside Job \(2010\) - Insane Increase of AAA Rated CDOs](https://preview.redd.it/91dpnu78gi571.png?width=1259&format=png&auto=webp&s=1f196573f47a757a8bcca8b9e712c537be84cbe2)
 
 By 2008, home foreclosures were skyrocketing. Home buyers in the subprime loans were defaulting on their payments. Lenders could no longer sell their loans to the investment banks. And as the loans went bad, dozens of lenders failed. The market for CDO's collapsed, leaving the investment banks holding hundreds of billions of dollars in loans, CDO's, and real estate they couldn’t sell. Meanwhile, those who purchased up CDS's were knocking at the door to be paid.
 
 In March 2008, Bear Stearns ran out of cash and was acquired for $2 a share by JPMorgan Chase. The deal was backed by $30B in emergency guarantees by the Fed Reserve. This was just one instance of a bank getting consumed by a larger entity.
 
-[https:\/\/www.history.com\/this-day-in-history\/bear-stearns-sold-to-j-p-morgan-chase](https://preview.redd.it/gbgc30vlhi571.png?width=873&format=png&auto=webp&s=74def34d1783c5e3195492913370e6ae65670301)
+![https:\/\/www.history.com\/this-day-in-history\/bear-stearns-sold-to-j-p-morgan-chase](https://preview.redd.it/gbgc30vlhi571.png?width=873&format=png&auto=webp&s=74def34d1783c5e3195492913370e6ae65670301)
 
 AIG, Bear Stearns, Lehman Bros, Fannie Mae, and Freddie Mac, were all AA or above rating days before either collapsing or being bailed out. Meaning they were 'very secure', yet they failed.
 
@@ -221,7 +222,7 @@ The below chart shows the overstatements of the biggest problem-making banks. Th
 
 >Unintentional overstatement should have occurred at random times. Or if lenders were assiduous and the overstatement was unwitting, one might expect it to diminish over time as the lenders discovered their mistakes. **Instead, with almost every lender, the overstatement** ***increased*** **as time went on**. - [Source](https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/)
 
-[https:\/\/theintercept.com\/2021\/04\/20\/wall-street-cmbs-dollar-general-ladder-capital\/](https://preview.redd.it/5xmcu9hwhi571.png?width=846&format=png&auto=webp&s=66f636574bd66afd3512b9587981e4caaa381cf3)
+![https:\/\/theintercept.com\/2021\/04\/20\/wall-street-cmbs-dollar-general-ladder-capital\/](https://preview.redd.it/5xmcu9hwhi571.png?width=846&format=png&auto=webp&s=66f636574bd66afd3512b9587981e4caaa381cf3)
 
 So what does this mean? **It means they've once again been handing out subprime loans (predatory loans). But this time to businesses through Commercial Mortgage Backed Securities.**
 
@@ -239,7 +240,7 @@ When COVID hit, many people were left without jobs. Others had less pay from the
 
 Delinquency rates of Commercial Mortgages started to **skyrocket** when the COVID crisis hit. They even surpassed 2008 levels in March of 2020. Remember what happened in 2008 when this occurred? **When delinquency rates went up on mortgages in 2008, the CDO's of those mortgages began to fail. But, this time, they can-kicked it because COVID caught them all off guard.**
 
-[https:\/\/theintercept.com\/2021\/04\/20\/wall-street-cmbs-dollar-general-ladder-capital\/](https://preview.redd.it/cqbceix0ii571.png?width=848&format=png&auto=webp&s=da81781094a31ae1293b019c4e24f68dfdccc634)
+![https:\/\/theintercept.com\/2021\/04\/20\/wall-street-cmbs-dollar-general-ladder-capital\/](https://preview.redd.it/cqbceix0ii571.png?width=848&format=png&auto=webp&s=da81781094a31ae1293b019c4e24f68dfdccc634)
 
 # 2.3 Can-Kick Of COVID To Prevent CDO's From Defaulting Before Being Ready
 
@@ -253,7 +254,7 @@ And guess what? **Many people are still at risk of being delinquent**. [This art
 
 When everyone, including small business owners who were attacked with predatory loans, begin to default from these emergency plans expiring, it can lead to the CDO's themselves collapsing. **Which is exactly what triggered the 2008 recession**.
 
-[https:\/\/www.housingwire.com\/articles\/mortgage-forbearance-drops-as-expiration-date-nears\/](https://preview.redd.it/b68fsf5aii571.png?width=945&format=png&auto=webp&s=daa8c725185480d988802023a27291ee782b5c5f)
+![https:\/\/www.housingwire.com\/articles\/mortgage-forbearance-drops-as-expiration-date-nears\/](https://preview.redd.it/b68fsf5aii571.png?width=945&format=png&auto=webp&s=daa8c725185480d988802023a27291ee782b5c5f)
 
 # 2.4 SLR Requirement Exemption - Why The Reverse Repo Is Blowing Up
 
@@ -287,7 +288,7 @@ The SLR protection ended on March 31, 2021. Guess what started to happen just af
 
 T**he reverse repo market started to explode. This is VERY unusual behavior because it is not at a quarter-end where quarter-ends have significant strain on the economy. The build-up over time implies that there is significant strain on the market AS OF ENTERING Q2 (April 1st - June 30th).**
 
-[https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/ijp4wkxdii571.png?width=1455&format=png&auto=webp&s=46f67d7efcc98ee475ba27fa41850fbf5d894064)
+![https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/ijp4wkxdii571.png?width=1455&format=png&auto=webp&s=46f67d7efcc98ee475ba27fa41850fbf5d894064)
 
 **Speculation: SLR IS DEPENDENT ON THEIR DEPOSITS WITH THE FED ITSELF. THEY NEED TO EXTRACT TREASURIES OVER NIGHT TO KEEP THEM OFF THE FED'S BALANCE SHEETS TO PREVENT THEMSELVES FROM FAILING SLR REQUIREMENTS AND DEFAULTING DUE TO MASS OVERLEVERAGE. EACH BANK HAS AN ACCOUNT ON THE FED'S BALANCE SHEET, WHICH IS WHAT SLR IS CALCULATED AGAINST. THIS IS WHY IT IS EXPLODING. THEY ARE ALL STRUGGLING TO MEET SLR REQUIREMENTS.**
 
@@ -322,7 +323,7 @@ Seems boring at first. Right? That's why it flew under the radar?
 
 But now that you know the causes of the 2008 market crash and how toxic CDO's were packaged together, and then CDS's were used to bet against those CDO's, check out what ICC-014 is doing **as of June 1st**.
 
-[ICC-014 Proposed Discounts On Credit Default Index Swaptions](https://preview.redd.it/phrxcouvii571.png?width=731&format=png&auto=webp&s=469560cf06458b51b1b5439d84062e9f6e04bda4)
+![ICC-014 Proposed Discounts On Credit Default Index Swaptions](https://preview.redd.it/phrxcouvii571.png?width=731&format=png&auto=webp&s=469560cf06458b51b1b5439d84062e9f6e04bda4)
 
 **They are providing incentive programs to purchase Credit Default Swap Indexes. These are like standard CDS's, but packaged together like an index. Think of it like an index fund.**
 
@@ -330,7 +331,7 @@ But now that you know the causes of the 2008 market crash and how toxic CDO's we
 
 There's many more indicators that are pointing to a market collapse. But I will leave that to you to investigate more. Here is quite a scary compilation of charts relating the current market trends to the crashes of Black Monday, The Internet Bubble, The 2008 Housing Market Crash, and Today.
 
-[Summary of Recent Warnings Re Intermediate Trend In Equities](https://preview.redd.it/y4reiv86hi571.jpg?width=550&format=pjpg&auto=webp&s=8845b7b90adf28409772483c6eeeef1763bbaaaf)
+![Summary of Recent Warnings Re Intermediate Trend In Equities](https://preview.redd.it/y4reiv86hi571.jpg?width=550&format=pjpg&auto=webp&s=8845b7b90adf28409772483c6eeeef1763bbaaaf)
 
 &#x200B;
 

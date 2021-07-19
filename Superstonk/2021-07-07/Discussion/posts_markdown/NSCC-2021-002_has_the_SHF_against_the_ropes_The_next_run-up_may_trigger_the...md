@@ -1,5 +1,6 @@
-# Author: humanisthank
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/](https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/)
+#Title: NSCC-2021-002 has the SHF against the ropes. The next run-up may trigger the MOASS.
+#Author: humanisthank
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/](https://www.reddit.com/r/Superstonk/comments/ofiynb/nscc2021002_has_the_shf_against_the_ropes_the/)
 
 
 *Obligatory not financial advice disclaimer.*
@@ -22,7 +23,7 @@ Since that time, we've started to see lower highs and lower lows. Opening that d
 
 &#x200B;
 
-[https:\/\/www.nyse.com\/quote\/XNYS:GME](https://preview.redd.it/83mj8lexfs971.png?width=2592&format=png&auto=webp&s=3470659e635e54418e029b4b77022842b715a730)
+![https:\/\/www.nyse.com\/quote\/XNYS:GME](https://preview.redd.it/83mj8lexfs971.png?width=2592&format=png&auto=webp&s=3470659e635e54418e029b4b77022842b715a730)
 
 &#x200B;
 
@@ -34,7 +35,7 @@ I believe at this time, the cost to lower the price more than yesterday is less 
 
 Another aspect to this could be coordinated efforts to ensure smaller SHFs don't fail the margin call. We know $350 seems to be a big barrier and we always see a strong short attack when we get close. That may be the bigger SHFs (Shitadel, SUS, P72, etc) coordinating that. At this point, they may know the price that will fail smaller SHFs and work to ensure they don't fail their margin call. If they do, the price will rip due to closing out their position and put $350 in the rearview mirror, causing a domino effect. 
 
-We could see the price to continue to slowly trend slightly lower. This is also speculated by u/possibly6 in a recent post ![here](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/) (*What I want you to take away from the above visual is in the event that our reversal doesn't begin tomorrow from today's low, lower bound of the channel comes out to around 175*).
+We could see the price to continue to slowly trend slightly lower. This is also speculated by u/possibly6 in a recent post [here](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/) (*What I want you to take away from the above visual is in the event that our reversal doesn't begin tomorrow from today's low, lower bound of the channel comes out to around 175*).
 
 I expect we'll continue to have record low volume days. All until the apex converges or a catalyst causes the price to jump and the house of cards to come falling down. 
 

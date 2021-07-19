@@ -1,5 +1,6 @@
-# Author: Gigashock
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/](https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/)
+#Title: 🦍 Apes Under Attack - How hedge funds and banks are working with Citadel to stop or cripple retailers 😨
+#Author: Gigashock
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/](https://www.reddit.com/r/Superstonk/comments/nmnfby/apes_under_attack_how_hedge_funds_and_banks_are/)
 
 
 Excuse the click-baity title. I don't know how accurate my conclusion is, but the parts are all there, sourced and listed below. The title is not misleading, alarmist yes, but for good reason.
@@ -16,7 +17,7 @@ On May 12 this year, Centricus Acquisition Corp. ("Centricus") was [purchased](h
 
 About a week before that on May 6, Adam Aron [was announced](https://sec.report/Document/0001104659-21-063130/) to join as a director of Centricus, "appointed to serve on the audit committee, the nominating committee and the compensation committee." He was paid with [20,000 class B](https://sec.report/Document/0001104659-21-063134/) shares along with a promise of future pay through Centricus' future merger (slight restrictions though).
 
-[https:\/\/sec.report\/Document\/0001104659-21-064805\/](https://preview.redd.it/obrzp78ycq171.png?width=1465&format=png&auto=webp&s=1b3a552f88a51997d3172a009f5f4ae6f2eab0bf)
+![https:\/\/sec.report\/Document\/0001104659-21-064805\/](https://preview.redd.it/obrzp78ycq171.png?width=1465&format=png&auto=webp&s=1b3a552f88a51997d3172a009f5f4ae6f2eab0bf)
 
 Beyond just SEC filings, [Centricus' website](https://www.centricusacquisitioncorp.com/team/default.aspx) lists Adam Aron as a director, so everyone knows they aren't trying to hide the facts (at least not all of them).
 
@@ -32,11 +33,11 @@ There are a vast amount of differences between the two companies, but I'll try t
 
 RC has, since he first joined Gamestop, pushed to improve and revitalize the retailer. AA is scum.
 
-[Long-time Wall Street bro sucks Jim Cramer's dick on Twitter](https://preview.redd.it/nyll68pktq171.png?width=795&format=png&auto=webp&s=9454b54ec843148500baca02616f5cd929923d35)
+![Long-time Wall Street bro sucks Jim Cramer's dick on Twitter](https://preview.redd.it/nyll68pktq171.png?width=795&format=png&auto=webp&s=9454b54ec843148500baca02616f5cd929923d35)
 
 While AA has been using [his twitter](https://twitter.com/CEOAdam/with_replies) to promote his company and retweet/tweet apes, trying to build a rapport with us little retail investors, RC [has been](https://twitter.com/ryancohen/with_replies) very quiet, only occasionally gracing us with memes and pictures. You won't find on RC's Twitter things you would on AA's. A cursory Google search shows some differences between the two:
 
-[CNBC and Fox Business seem to like AA 🤔](https://preview.redd.it/q7bjshwsvq171.png?width=1096&format=png&auto=webp&s=65639e30a39c9ee6e14392c39edb2db9cf7e385f)
+![CNBC and Fox Business seem to like AA 🤔](https://preview.redd.it/q7bjshwsvq171.png?width=1096&format=png&auto=webp&s=65639e30a39c9ee6e14392c39edb2db9cf7e385f)
 
 But that's all pretty obvious right? RC is a great guy while AA is a Wall Street guy. It's been known for a long while especially on Superstonk where I frequent.
 
@@ -68,7 +69,7 @@ How long does "time to time" mean? And that last sentence, can they just redeem/
 
 And one more thing in the [same filing](https://sec.report/Document/0001104659-21-055680/#tSEL) as last:
 
-[Hmm, I guess AMC doesn't mind their stock getting further shorted?](https://preview.redd.it/vwz3lso1cr171.png?width=1487&format=png&auto=webp&s=13fae3e7bac3757780fe5b1e0c2b7a1df85f14b1)
+![Hmm, I guess AMC doesn't mind their stock getting further shorted?](https://preview.redd.it/vwz3lso1cr171.png?width=1487&format=png&auto=webp&s=13fae3e7bac3757780fe5b1e0c2b7a1df85f14b1)
 
 The formatting was balls so used a screenshot but these lines irk me the most:
 
@@ -106,7 +107,7 @@ Even if I'm connecting dots and drawing conclusions and tinfoil etc, I'm not ass
 
 To top it all off, I believe that either word was put out or slipped out of what was going to happen (AMC pump and dump). I don't have clear-cut evidence of this, but there's a pattern you can see right off [fintel](https://fintel.io/so/us/amc):
 
-[Lotta green](https://preview.redd.it/de26ydj5jr171.png?width=1442&format=png&auto=webp&s=bba76071d6c133aea20ed03b1a51437a25147d47)
+![Lotta green](https://preview.redd.it/de26ydj5jr171.png?width=1442&format=png&auto=webp&s=bba76071d6c133aea20ed03b1a51437a25147d47)
 
 Starting May 17, hedgies and banks stopped selling AMC (for the most part). Instead they started buying, by a lot. But before that...
 

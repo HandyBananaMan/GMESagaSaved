@@ -1,5 +1,6 @@
-# Author: AlaskaPeteMeat
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oje98k/daily_reminder_gme_is_a_worldwide_phenomenon/](https://www.reddit.com/r/Superstonk/comments/oje98k/daily_reminder_gme_is_a_worldwide_phenomenon/)
+#Title: Daily Reminder: GME is a WORLDWIDE phenomenon.
+#Author: AlaskaPeteMeat
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oje98k/daily_reminder_gme_is_a_worldwide_phenomenon/](https://www.reddit.com/r/Superstonk/comments/oje98k/daily_reminder_gme_is_a_worldwide_phenomenon/)
 
 
 This is a WORLDWIDE phenomenon.

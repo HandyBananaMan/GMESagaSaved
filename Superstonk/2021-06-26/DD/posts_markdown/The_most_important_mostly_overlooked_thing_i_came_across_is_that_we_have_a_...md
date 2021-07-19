@@ -1,5 +1,6 @@
-# Author: trashboy_69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/](https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/)
+#Title: The most important, mostly overlooked thing i came across is that we have a way of calculating shares owned by retail. No, not guessing, pretty precisely, with official, unbiased data.
+#Author: trashboy_69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/](https://www.reddit.com/r/Superstonk/comments/o8kz85/the_most_important_mostly_overlooked_thing_i_came/)
 
 
  #EDIT/MODS!
@@ -40,7 +41,7 @@ For Example, the *Americans (31) hold mostly all of the available shares*, a **w
 
 &amp;amp;amp;amp;#x200B;
 
-[Bloomberg: Ownership amount by Country expressed in Percent \(&amp;amp;amp;amp;#37;\). Data from 28 May 2021.](https://preview.redd.it/3ftwdczkeo771.png?width=939&amp;amp;amp;amp;format=png&amp;amp;amp;amp;auto=webp&amp;amp;amp;amp;s=4e2371410e448d33dba601f85cb338650cac7b91)
+![Bloomberg: Ownership amount by Country expressed in Percent \(&amp;amp;amp;amp;#37;\). Data from 28 May 2021.](https://preview.redd.it/3ftwdczkeo771.png?width=939&amp;amp;amp;amp;format=png&amp;amp;amp;amp;auto=webp&amp;amp;amp;amp;s=4e2371410e448d33dba601f85cb338650cac7b91)
 
 &amp;amp;amp;amp;#x200B;
 
@@ -54,7 +55,7 @@ Our beloved dutch holders (36) *only* *amount to* *0.32% of presently held GME s
 
 [Download AFM Market Watch 3 (PDF)](https://www.afm.nl/~/profmedia/files/onderwerpen/afm-market-watch/afm-market-watch-3-eng.pdf?la=en) 
 
-(Alternatively you can maneuvre there by following ![this](https://www.afm.nl/en/professionals/onderwerpen/afm-market-watch), its almost at the top of the page under 'Edition 3 - Investing and social media in light of GameStop' and can be downloaded on the right hand side.
+(Alternatively you can maneuvre there by following [this](https://www.afm.nl/en/professionals/onderwerpen/afm-market-watch), its almost at the top of the page under 'Edition 3 - Investing and social media in light of GameStop' and can be downloaded on the right hand side.
 
 Here comes my math\* i'm gonna round up numbers slightly:
 

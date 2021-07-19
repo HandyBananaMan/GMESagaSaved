@@ -1,5 +1,6 @@
-# Author: R3iZoR
-# Post URL: [https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/](https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/)
+#Title: APES LISTEN HERE! The short squeeze is going to create ripples across the market
+#Author: R3iZoR
+#Post URL: [https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/](https://www.reddit.com/r/GME/comments/mc26ld/apes_listen_here_the_short_squeeze_is_going_to/)
 
 
 https://preview.redd.it/eq38ksc6izo61.png?width=916&format=png&auto=webp&s=13608dba6c737f30bb0020819de15d26487841a5
@@ -24,7 +25,7 @@ Edit 2: 96% upvoted??? SHILLS THOSE ARE ROOKIE NUMBERS! what happened did you qu
 
 Edit 3: 98% Upvoted, do you smell it? I sure smell something and its not my fart
 
-[smelly things are smelly](https://i.redd.it/hfiz4fjoeyo61.gif)
+![smelly things are smelly](https://i.redd.it/hfiz4fjoeyo61.gif)
 
 Edit 4: More than 100 upvotes for my first time here in the r/GME, You guys are BREATHTAKING!
 
@@ -46,7 +47,7 @@ Edit 6: How you feel when the edits are better than the post itself
 
 &#x200B;
 
-[Me proud](https://preview.redd.it/qryitmewvyo61.jpg?width=266&format=pjpg&auto=webp&s=8b2b1683ebeb2ac900819dbb4a7a692b70c56de4)
+![Me proud](https://preview.redd.it/qryitmewvyo61.jpg?width=266&format=pjpg&auto=webp&s=8b2b1683ebeb2ac900819dbb4a7a692b70c56de4)
 
 &#x200B;
 
@@ -64,7 +65,7 @@ Edit 69: When the price ~~drops~~ gets such a nice discount its your job to help
 
 &#x200B;
 
-[paperhand bitches](https://i.redd.it/xochbp3rdzo61.gif)
+![paperhand bitches](https://i.redd.it/xochbp3rdzo61.gif)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: Ren3666
-# Post URL: [https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/](https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/)
+#Title: Explanation - Low Borrowing Fee put into Perspective (Once in a life-time chance)
+#Author: Ren3666
+#Post URL: [https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/](https://www.reddit.com/r/GME/comments/mh9she/explanation_low_borrowing_fee_put_into/)
 
 
 There is some confusion currently going on why the borrowing fee for GME is so low, even though GME is a hard to borrow stock.
@@ -91,7 +92,7 @@ You probably thought I would talk about Hedge Funds and while this may be true, 
 
 &#x200B;
 
-[\*\*\*](https://i.redd.it/zmw8lr554eq61.gif)
+![\*\*\*](https://i.redd.it/zmw8lr554eq61.gif)
 
 [https://www.reddit.com/r/GME/comments/m8golp/order\_book\_lvl\_2\_vs\_lvl\_3\_vs\_lvl\_4\_vs\_lvl\_5/](https://www.reddit.com/r/GME/comments/m8golp/order_book_lvl_2_vs_lvl_3_vs_lvl_4_vs_lvl_5/)
 
@@ -157,7 +158,7 @@ And it´s more than likely **Financial Authorities.** Regulators, who usually jo
 
 And  I don´t mean Secretary of the Treasury Janet Yellen, she is still a  crook. She would poledance for Kenny, if her age would still allow it.
 
-![https://www.reddit.com/r/GME/comments/lutpdt/financial\_authorities\_and\_gme\_01032021/](https://www.reddit.com/r/GME/comments/lutpdt/financial_authorities_and_gme_01032021/)
+[https://www.reddit.com/r/GME/comments/lutpdt/financial\_authorities\_and\_gme\_01032021/](https://www.reddit.com/r/GME/comments/lutpdt/financial_authorities_and_gme_01032021/)
 
 It  is politicians, who cannot allow themselves to end their career just  yet, since the proportions of this case ended up so big, that America  would suffer serious international repercussion and a loss of their  market integrity, if investors were openly stolen from.
 

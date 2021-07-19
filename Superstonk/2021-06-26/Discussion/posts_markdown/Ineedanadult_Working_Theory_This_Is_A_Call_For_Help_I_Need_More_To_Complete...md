@@ -1,12 +1,13 @@
-# Author: bloodhound1144
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/](https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/)
+#Title: !Ineedanadult! Working Theory. This Is A Call For Help. I Need More To Complete What I Have Here. Please Add What You Can.
+#Author: bloodhound1144
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/](https://www.reddit.com/r/Superstonk/comments/o8k1jr/ineedanadult_working_theory_this_is_a_call_for/)
 
 
 I keep an eye on XLF and most of the stocks that are in it. I like to keep a broad view of the market so I can see what's coming from different angles.
 
 &#x200B;
 
-[What's in the XLF + weight. Website at bottom.](https://preview.redd.it/n91plaw4bo771.png?width=360&format=png&auto=webp&s=e1debae886a14eec520a3371a1f0d6efc5b2b61c)
+![What's in the XLF + weight. Website at bottom.](https://preview.redd.it/n91plaw4bo771.png?width=360&format=png&auto=webp&s=e1debae886a14eec520a3371a1f0d6efc5b2b61c)
 
 With that, the new rules that went into place yesterday show me that some major $hit is about to go down.
 
@@ -48,7 +49,7 @@ Especially when they were also approved on the same day. September 15, 2020.
 
 &#x200B;
 
-[I put them in the same picture to save space. DTC004\/NSCC007\/FICC011](https://preview.redd.it/acpwbwp6jo771.png?width=804&format=png&auto=webp&s=bade8db08aca9071352a8c250be1f582ba35518f)
+![I put them in the same picture to save space. DTC004\/NSCC007\/FICC011](https://preview.redd.it/acpwbwp6jo771.png?width=804&format=png&auto=webp&s=bade8db08aca9071352a8c250be1f582ba35518f)
 
 &#x200B;
 
@@ -60,7 +61,7 @@ Well, the shorts on the RUT (Russell 2000 ETF) don't have the same affects as th
 
 &#x200B;
 
-[Nothing like a $4 spike!](https://preview.redd.it/l81axezybo771.png?width=1192&format=png&auto=webp&s=5ae33a63125ffb7b858d6c03d95a6f4a33e60ce2)
+![Nothing like a $4 spike!](https://preview.redd.it/l81axezybo771.png?width=1192&format=png&auto=webp&s=5ae33a63125ffb7b858d6c03d95a6f4a33e60ce2)
 
 What caused the spike?
 
@@ -70,13 +71,13 @@ After a few days of selling pressure as our new friendly whales prepared to add 
 
 &#x200B;
 
-[A $10 rise on a Friday! YEAH BABY!!!](https://preview.redd.it/3m4ft6tqeo771.png?width=1186&format=png&auto=webp&s=9d4b608d0f8cc8b119f663ad025e273b8f502ad3)
+![A $10 rise on a Friday! YEAH BABY!!!](https://preview.redd.it/3m4ft6tqeo771.png?width=1186&format=png&auto=webp&s=9d4b608d0f8cc8b119f663ad025e273b8f502ad3)
 
 How about what happened at 4:01.
 
 &#x200B;
 
-[$840,000,000 worth of GME @ $210. Somebody likes the stock!](https://preview.redd.it/zotlhb9yeo771.png?width=328&format=png&auto=webp&s=deb70d445b15c139db4522afaa134c07c122baf4)
+![$840,000,000 worth of GME @ $210. Somebody likes the stock!](https://preview.redd.it/zotlhb9yeo771.png?width=328&format=png&auto=webp&s=deb70d445b15c139db4522afaa134c07c122baf4)
 
 Who do I think got the call?
 
@@ -86,11 +87,11 @@ I think Mayo still has some fight left in him. I don't think he would be the fir
 
 &#x200B;
 
-[It happened after hours of course. $8 is a pretty big candle.](https://preview.redd.it/dhu9dtbjbo771.png?width=1188&format=png&auto=webp&s=de0c8147e588c2268f85a9b3ba57300d5ca4b9c7)
+![It happened after hours of course. $8 is a pretty big candle.](https://preview.redd.it/dhu9dtbjbo771.png?width=1188&format=png&auto=webp&s=de0c8147e588c2268f85a9b3ba57300d5ca4b9c7)
 
 &#x200B;
 
-[That's a lot of volume!](https://preview.redd.it/7xliqd6nbo771.png?width=1200&format=png&auto=webp&s=5935ed72b392f1e49de18433b93bffb0669359d4)
+![That's a lot of volume!](https://preview.redd.it/7xliqd6nbo771.png?width=1200&format=png&auto=webp&s=5935ed72b392f1e49de18433b93bffb0669359d4)
 
 I looked at some other banks stocks along with some other XLF associated stocks and didn't see anything out of the ordinary for any of them. WFC was the only one. When one bank stock moves, they typically all move in unison.
 
@@ -100,11 +101,11 @@ A quick look at the Dark Pool Data before I sign off:
 
 &#x200B;
 
-[This is from Friday June 25](https://preview.redd.it/f3njgm3vko771.png?width=1316&format=png&auto=webp&s=6e7994f838929ccca6d4e65b7beceafe17de3820)
+![This is from Friday June 25](https://preview.redd.it/f3njgm3vko771.png?width=1316&format=png&auto=webp&s=6e7994f838929ccca6d4e65b7beceafe17de3820)
 
 &#x200B;
 
-[Past two weeks. ](https://preview.redd.it/hb7murj0lo771.png?width=1300&format=png&auto=webp&s=24d7f622be8b43ad789bb72bd5c39f928188bead)
+![Past two weeks. ](https://preview.redd.it/hb7murj0lo771.png?width=1300&format=png&auto=webp&s=24d7f622be8b43ad789bb72bd5c39f928188bead)
 
 Somebody wants GME down in a bad way. 60% of the volume from Friday went through dark pools. Public trading showed  8.99M on Google at 4pm. That 4M at 4:01pm is not included.
 
@@ -116,7 +117,7 @@ Adding some WFC dark pool data to show a massive sudden short position.
 
 &#x200B;
 
-[$107,797,230 short position out of nowhere. Puts on Wells Fargo!](https://preview.redd.it/m4tj97gzto771.png?width=1284&format=png&auto=webp&s=8c7ab1a7f5c5cd2dc6384be856213d5a3b2c0adc)
+![$107,797,230 short position out of nowhere. Puts on Wells Fargo!](https://preview.redd.it/m4tj97gzto771.png?width=1284&format=png&auto=webp&s=8c7ab1a7f5c5cd2dc6384be856213d5a3b2c0adc)
 
 Edit/ addition 2:
 
@@ -138,7 +139,7 @@ Figured I should check the top 10 companies in the QQQ and compare them to the t
 
 &#x200B;
 
-[That's expensive Mayo.](https://preview.redd.it/o04t9rmfdp771.png?width=1274&format=png&auto=webp&s=aeadbfdf7c510d5ce645138203c7f2d1cb6da498)
+![That's expensive Mayo.](https://preview.redd.it/o04t9rmfdp771.png?width=1274&format=png&auto=webp&s=aeadbfdf7c510d5ce645138203c7f2d1cb6da498)
 
 Fun little rabbit hole for the kids. The Gamestop power symbol looks like a Q if you turn it the right way. Wasn't there a guy editing them into videos lately? Turned and such?
 
@@ -146,6 +147,6 @@ Final edit for this part:
 
 Part 2 is now here:
 
-![https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult\_working\_theory\_this\_is\_a\_call\_for/](https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult_working_theory_this_is_a_call_for/)
+[https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult\_working\_theory\_this\_is\_a\_call\_for/](https://www.reddit.com/r/Superstonk/comments/o93aoy/ineedanadult_working_theory_this_is_a_call_for/)
 
 &#x200B;

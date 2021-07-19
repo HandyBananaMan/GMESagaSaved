@@ -1,12 +1,13 @@
-# Author: swede_child_of_mine
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/](https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/)
+#Title: Counterpoint: our DD system is fine. Here's why.
+#Author: swede_child_of_mine
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/](https://www.reddit.com/r/Superstonk/comments/oink7s/counterpoint_our_dd_system_is_fine_heres_why/)
 
 
 In counterpoint to u/PWNWTFBBQ ‘s post on the state of DD in this sub.  
  
 ##Acknowledge
  
-* First, let’s acknowledge their accurate point that putting “DD” or “possible DD” on posts is totally open.  Anyone can do it.  I did it for this post.  Is it DD?  [**No.**](https://i.kym-cdn.com/photos/images/facebook/001/483/348/bdd.jpg)  
+* First, let’s acknowledge their accurate point that putting “DD” or “possible DD” on posts is totally open.  Anyone can do it.  I did it for this post.  Is it DD?  ![**No.**](https://i.kym-cdn.com/photos/images/facebook/001/483/348/bdd.jpg)  
 
 * Second, this sub is known to have bad actors in it.  Shills.  Posts of comments.  Re-posts.  Is there a possibility of diluting the quality of the DD?  Maybe.  (I’ll go more into this in a minute.)  But is there a real threat of low quality DD being posted for ulterior motives?  Absolutely.
 

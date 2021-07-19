@@ -1,5 +1,6 @@
-# Author: finalfarter
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/](https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/)
+#Title: New report: massive margin debt increase
+#Author: finalfarter
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/](https://www.reddit.com/r/Superstonk/comments/muod6y/new_report_massive_margin_debt_increase/)
 
 
 Seems like our dear investors have some debt.
@@ -21,4 +22,4 @@ Graph 8 in the report linked above was mistaken for S&P500 by some. Here's S&P50
 
 https://preview.redd.it/369z0agbrbu61.png?width=1464&format=png&auto=webp&s=3aa0f34b931132ad18a5654f95aae608b614ec14
 
-![Source](https://www.advisorperspectives.com/dshort/updates/2021/04/19/margin-debt-and-the-market-up-another-1-1-in-march-continues-record-trend)
+[Source](https://www.advisorperspectives.com/dshort/updates/2021/04/19/margin-debt-and-the-market-up-another-1-1-in-march-continues-record-trend)

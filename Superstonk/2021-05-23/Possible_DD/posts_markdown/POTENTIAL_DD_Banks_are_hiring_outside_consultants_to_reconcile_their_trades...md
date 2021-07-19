@@ -1,5 +1,6 @@
-# Author: FlavDingo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/njp4pq/potential_dd_banks_are_hiring_outside_consultants/](https://www.reddit.com/r/Superstonk/comments/njp4pq/potential_dd_banks_are_hiring_outside_consultants/)
+#Title: POTENTIAL DD: Banks are hiring outside consultants to reconcile their trades. I got a job description today from a recruiter to "Track and resolve all open fails" on behalf of their Prime Brokerage clients (i.e. hedgies and institutions) More inside...
+#Author: FlavDingo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/njp4pq/potential_dd_banks_are_hiring_outside_consultants/](https://www.reddit.com/r/Superstonk/comments/njp4pq/potential_dd_banks_are_hiring_outside_consultants/)
 
 
 So I just got an email from a recruiter with the following job description:
@@ -71,7 +72,7 @@ What do APE think?
 
 I googled the above and found a few other postings on linkedin so they must be working with multiple consultancy firms. Here is one of them:
 
-![https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080](https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080)
+[https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080](https://www.linkedin.com/jobs/view/operations-analyst-at-software-guidance-assistance-inc-sga-inc-2540015080)
 
 &#x200B;
 

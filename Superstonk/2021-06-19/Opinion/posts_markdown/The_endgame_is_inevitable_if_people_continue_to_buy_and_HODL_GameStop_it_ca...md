@@ -1,5 +1,6 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3ejbo/the_endgame_is_inevitable_if_people_continue_to/](https://www.reddit.com/r/Superstonk/comments/o3ejbo/the_endgame_is_inevitable_if_people_continue_to/)
+#Title: The endgame is inevitable, if people continue to buy and HODL GameStop, it can't be stopped. Every institutional investor could sell their stocks and GME would just be bought up by Apes over time. They will continue raising money through ATM's and have billions to acquire profitable companies.
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3ejbo/the_endgame_is_inevitable_if_people_continue_to/](https://www.reddit.com/r/Superstonk/comments/o3ejbo/the_endgame_is_inevitable_if_people_continue_to/)
 
 
 # 

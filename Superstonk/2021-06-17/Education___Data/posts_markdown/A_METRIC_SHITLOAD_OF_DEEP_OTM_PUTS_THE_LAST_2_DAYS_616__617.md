@@ -1,12 +1,13 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/](https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/)
+#Title: A METRIC SHITLOAD OF DEEP OTM PUTS THE LAST 2 DAYS (6/16 & 6/17)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/](https://www.reddit.com/r/Superstonk/comments/o2ckhq/a_metric_shitload_of_deep_otm_puts_the_last_2/)
 
 
 Good evening Apes,
 
 We've got some interesting things to discuss. I have saved all of the data since my last post (about 3 weeks worth.) I'm happy to share that data with anyone that is interested to see it or perhaps I'll do some sort of recap on it in the future but it was relatively mild in comparison to the last two days. Lets get right into it:
 
-[GME Biggest Options Trades 6-16-21](https://preview.redd.it/vs4q8zeq6x571.png?width=1136&format=png&auto=webp&s=e4de78eb81ea9c0ba664d47458cf332011b63877)
+![GME Biggest Options Trades 6-16-21](https://preview.redd.it/vs4q8zeq6x571.png?width=1136&format=png&auto=webp&s=e4de78eb81ea9c0ba664d47458cf332011b63877)
 
 ![GME Biggest Options Trades 6-17-21](https://preview.redd.it/czt860fq6x571.png?width=1132&format=png&auto=webp&s=fe0dbae53040a774766bae06dfbcd2fc5431f717)
 

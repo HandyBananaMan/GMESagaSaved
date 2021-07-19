@@ -1,5 +1,6 @@
-# Author: creakfast
-# Post URL: [https://www.reddit.com/r/GME/comments/ofndn2/for_newcomers_joe_rogan_fanboys_confused_people/](https://www.reddit.com/r/GME/comments/ofndn2/for_newcomers_joe_rogan_fanboys_confused_people/)
+#Title: For newcomers, Joe Rogan fanboys, confused people from r/all, and anyone who is interested in GameStop stock and the overarching economy as a whole
+#Author: creakfast
+#Post URL: [https://www.reddit.com/r/GME/comments/ofndn2/for_newcomers_joe_rogan_fanboys_confused_people/](https://www.reddit.com/r/GME/comments/ofndn2/for_newcomers_joe_rogan_fanboys_confused_people/)
 
 
 After seeing this [post](https://www.reddit.com/r/GME/comments/offc1p/mods_you_guys_need_a_dd_sticky_right_now/), I am creating this post to help clarify what's going on with the stock.
@@ -52,4 +53,4 @@ Thanks.
 
 &#x200B;
 
-Edit: Big shoutout to u/Meticulous-, for this very helpful ![website](https://github.com/verymeticulous/wikAPEdia) containing a ton of information.
+Edit: Big shoutout to u/Meticulous-, for this very helpful [website](https://github.com/verymeticulous/wikAPEdia) containing a ton of information.

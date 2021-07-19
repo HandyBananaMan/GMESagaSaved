@@ -1,5 +1,6 @@
-# Author: leisure_rules
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/](https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/)
+#Title: Extended Summary CFTC Risk Meeting and Proposals
+#Author: leisure_rules
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/](https://www.reddit.com/r/Superstonk/comments/ojmur0/extended_summary_cftc_risk_meeting_and_proposals/)
 
 
 For those who saw [this post](https://www.reddit.com/r/Superstonk/comments/ojgmav/for_anyone_interested_there_is_currently_a_risk/?utm_source=share&utm_medium=web2x&context=3) and are looking for a summary, here ya go:
@@ -85,6 +86,6 @@ Wow, so much for this thing being a TL;DR for the other post.... I guess the ove
 
 EDIT: for those asking how this ties to GME... besides the fact that futures and derivatives are utilized to manipulate the share-price, u/[Useful\_Tomato\_409](https://www.reddit.com/user/Useful_Tomato_409/) pointed out that **the former head of the CFTC (the commission about which this post was written) is now the chief legal officer for Citadel**
 
-![**https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3**](https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3)
+[**https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3**](https://www.reuters.com/article/us-heath-tarbert-citadel-securities-idUSKBN2BO6X3)
 
 &#x200B;

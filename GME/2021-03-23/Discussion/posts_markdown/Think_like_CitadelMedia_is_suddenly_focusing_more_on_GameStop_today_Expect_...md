@@ -1,5 +1,6 @@
-# Author: eatmyshortsmelvin
-# Post URL: [https://www.reddit.com/r/GME/comments/mbjwfe/think_like_citadelmedia_is_suddenly_focusing_more/](https://www.reddit.com/r/GME/comments/mbjwfe/think_like_citadelmedia_is_suddenly_focusing_more/)
+#Title: Think like Citadel....Media is suddenly focusing more on GameStop today. Expect a negative spin on earnings tonight AND a "I TOLD YOU SO" by media after earnings AND a subsequent tanking of GME via NAKED SHORTS. BUY THE DIP. /opinion
+#Author: eatmyshortsmelvin
+#Post URL: [https://www.reddit.com/r/GME/comments/mbjwfe/think_like_citadelmedia_is_suddenly_focusing_more/](https://www.reddit.com/r/GME/comments/mbjwfe/think_like_citadelmedia_is_suddenly_focusing_more/)
 
 
 If you were Citadel, what would you do if you knew everyone was watching GME on the BIG DAY?  Put the spotlight on GME the day you drive the company stock into the ground.

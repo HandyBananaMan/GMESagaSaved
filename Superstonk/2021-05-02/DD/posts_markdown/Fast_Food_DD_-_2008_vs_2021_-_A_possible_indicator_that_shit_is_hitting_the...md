@@ -1,5 +1,6 @@
-# Author: grogosaur83
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/](https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/)
+#Title: Fast Food DD - 2008 vs 2021 - A possible indicator that shit is hitting the fan//Confirmation Bias//I saw an ape suggest watching "Inside Job" and I saw something!
+#Author: grogosaur83
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/](https://www.reddit.com/r/Superstonk/comments/n395pq/fast_food_dd_2008_vs_2021_a_possible_indicator/)
 
 
 Dear Apes
@@ -36,7 +37,7 @@ Now, lets look back as this is just year to date.
 
 &#x200B;
 
-[Moody Blues, Red is SPGI](https://preview.redd.it/8mshl6d99qw61.png?width=1919&format=png&auto=webp&s=bcb73a4e1e979793b1506c4c9686f9fa07d01792)
+![Moody Blues, Red is SPGI](https://preview.redd.it/8mshl6d99qw61.png?width=1919&format=png&auto=webp&s=bcb73a4e1e979793b1506c4c9686f9fa07d01792)
 
 Something is up.
 
@@ -108,7 +109,7 @@ It's pretty simple... If Bank of America, is only allowed to have a limit of X..
 
 Bank of America made Net $17b in 2020. Raising $15b is like doubling their net revenue for 2020.
 
-![https://d1io3yog0oux5.cloudfront.net/\_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy\_statement/BAC\_2021\_ProxyStatement.pdf](https://d1io3yog0oux5.cloudfront.net/_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy_statement/BAC_2021_ProxyStatement.pdf)
+[https://d1io3yog0oux5.cloudfront.net/\_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy\_statement/BAC\_2021\_ProxyStatement.pdf](https://d1io3yog0oux5.cloudfront.net/_193a0c09ad0bfe7020b2c883716216c5/bankofamerica/db/867/9129/proxy_statement/BAC_2021_ProxyStatement.pdf)
 
 So on the surface... $15 billion doesn't sound like a lot for Bank of America. Big bank raising liquidity. Yup. They're raising it, to allow themselves to borrow more money. Why would they need to borrow more money? **MOASS**
 

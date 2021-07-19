@@ -1,5 +1,6 @@
-# Author: Csmbird
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/](https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/)
+#Title: 🐱‍🏍🐱‍🏍Behavior Girl? Reporting for Duty. We've heard of Mortgage Backed Securities and Commercial Mortgage Backed Securities....But get this. These turds are utilizing Aviation Backed Securities and hiding money through "blind"/dark pools within the aviation world....And fucking warehouses!!!!
+#Author: Csmbird
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/](https://www.reddit.com/r/Superstonk/comments/o6tseo/behavior_girl_reporting_for_duty_weve_heard_of/)
 
 
 # 
@@ -14,7 +15,7 @@ This got me thinking and I went on this lovely rabbit hole venture and found all
 
 &#x200B;
 
-[Yah, thas me hiding behind the mushroom of truth I just devoured the last 24 hours](https://preview.redd.it/c0g0touh05771.png?width=500&format=png&auto=webp&s=bfb21cf22f2698d7f76632083805c5acdee76ccf)
+![Yah, thas me hiding behind the mushroom of truth I just devoured the last 24 hours](https://preview.redd.it/c0g0touh05771.png?width=500&format=png&auto=webp&s=bfb21cf22f2698d7f76632083805c5acdee76ccf)
 
 # [IF YOU HAVEN’T READ THIS YET PLEASE READ THIS FIRST. ](https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/)
 
@@ -52,7 +53,7 @@ Lookie [here](https://opencorporates.com/companies?q=kp+aviation&utf8=%E2%9C%93)
 
 &#x200B;
 
-[Slick fuckers](https://preview.redd.it/29auj4b815771.png?width=1916&format=png&auto=webp&s=80974e777ffa7d6439abb618d17540d4c7b40693)
+![Slick fuckers](https://preview.redd.it/29auj4b815771.png?width=1916&format=png&auto=webp&s=80974e777ffa7d6439abb618d17540d4c7b40693)
 
 Soooo many KP Holdings..not saying they’re all the same….but interesting how little information each of them have and low and behold the one Ken as a member on says the only business is anything not illegal. WHat the fack.  Guess what's really crazy? If you dig into many of them....guess who is the primary place of business? Shitttttadel. [ ](https://www.inc.com/profile/kp-aviation-holdings)
 
@@ -66,7 +67,7 @@ There was a photo of Ken Griffin and I noticed in the background that there was 
 
 &#x200B;
 
-[just behind his arm](https://preview.redd.it/2m6i891f55771.png?width=1920&format=png&auto=webp&s=1198aac4cff4704d9656f66458eb8c220733e3cb)
+![just behind his arm](https://preview.redd.it/2m6i891f55771.png?width=1920&format=png&auto=webp&s=1198aac4cff4704d9656f66458eb8c220733e3cb)
 
 Now when I looked at the photo I thought it said something like 2009. Interestingly enough look who is the Risk lifetime achievement award winner for this year? 2021 Goes to [Ken Griffin](https://www.riskawards.com/winners).Lol risky business for SUUUUUURE! Looking through previous years that are listed on the site it looks as though Shitadel always gets some kind of award.
 
@@ -112,7 +113,7 @@ Wilbur Ross is on the [Capital Committee of Markets Regulation](https://littlesi
 
 &#x200B;
 
-[Why dis blur out uc? fucking is an ok word. If after reading this your head didn't get huge and hands get tiny you need to read again. ](https://preview.redd.it/2wmo61w935771.png?width=474&format=png&auto=webp&s=f5e3708a81f59ea5392ae6c371410dd2a1b58b69)
+![Why dis blur out uc? fucking is an ok word. If after reading this your head didn't get huge and hands get tiny you need to read again. ](https://preview.redd.it/2wmo61w935771.png?width=474&format=png&auto=webp&s=f5e3708a81f59ea5392ae6c371410dd2a1b58b69)
 
 Now….yesterday in my post scouring for dots being connected I found that weird warehouse article right?
 

@@ -1,5 +1,6 @@
-# Author: creakfast
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nvwnan/dtc2021008_passed_dtc2021009_new_rule_proposed_a/](https://www.reddit.com/r/DDintoGME/comments/nvwnan/dtc2021008_passed_dtc2021009_new_rule_proposed_a/)
+#Title: DTC-2021-008 Passed, DTC-2021-009 NEW rule proposed! A closer look at 009.
+#Author: creakfast
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nvwnan/dtc2021008_passed_dtc2021009_new_rule_proposed_a/](https://www.reddit.com/r/DDintoGME/comments/nvwnan/dtc2021008_passed_dtc2021009_new_rule_proposed_a/)
 
 
 Yesterday, 008 was passed, and another one has been proposed by the DTC, the 009.

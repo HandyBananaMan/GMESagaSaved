@@ -1,5 +1,6 @@
-# Author: swede_child_of_mine
-# Post URL: [https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/](https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/)
+#Title: Theory: ALL THE PIECES, pt. 1 – The Anatomy of the Crime of Citadel
+#Author: swede_child_of_mine
+#Post URL: [https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/](https://www.reddit.com/r/GME/comments/mn29jb/theory_all_the_pieces_pt_1_the_anatomy_of_the/)
 
 
 *“Behind every great fortune there is a crime” – Balzac*
@@ -80,7 +81,7 @@ The current price of GameStop stock is artificial.  In simpler terms, the price 
 
 1. The cost of resetting the FTD timetable – “kicking it down the road” – is twofold:
 * First, there is a daily interest paid on every shorted share Citadel has.  The interest rate is decided by the lending organization, and is related to the price and availability of the share to be borrowed.
-* Second, for every short Citadel left open, the debt of that share remains on their books.  As they short more shares and as the price of the shares went up, their overall debt increases.  If the debt gets too large, they would potentially be “margin called” – their debtors would force Citadel to pay up. [courtesy: u/atobitt - [Image of Citadel's 2020 "securities sold but not yet purchased"](https://preview.redd.it/83uepbgudqm61.png?width=829&format=png&auto=webp&s=7c8b1f1475be0cf61d55f87e29fd282c45833b3c)]
+* Second, for every short Citadel left open, the debt of that share remains on their books.  As they short more shares and as the price of the shares went up, their overall debt increases.  If the debt gets too large, they would potentially be “margin called” – their debtors would force Citadel to pay up. ![courtesy: u/atobitt - [Image of Citadel's 2020 "securities sold but not yet purchased"](https://preview.redd.it/83uepbgudqm61.png?width=829&format=png&auto=webp&s=7c8b1f1475be0cf61d55f87e29fd282c45833b3c)]
 * It is unknown when or how large their debt must be before Citadel is margin called.[]
 * Additionally, due to Citadel’s activities it is difficult to know what a *legitimate* short term debt is on their books, from their legitimate activities, or what a fraudulent debt is from their counterfeiting activities.
 * But by using a legitimate function to hide their scheme, they can achieve the illegal results – selling shares which they don’t have and never intend to deliver.
@@ -103,5 +104,5 @@ Final note: here is an excerpt on Bernie Madoff from the [Madoff Investment Scan
 >*... one of the masters of the off-exchange "third market" and the bane of the New York Stock Exchange. He has built a highly profitable securities firm, Bernard L. Madoff Investment Securities, which siphons a huge volume of stock trades away from the Big Board. The $740 million average daily volume of trades executed electronically by the Madoff firm off the exchange equals 9% of the New York exchange's. Mr. Madoff's firm can execute trades so quickly and cheaply that it actually pays other brokerage firms a penny a share to execute their customers' orders,
     — Randall Smith, Wall Street Journal*
 
-And here is an excerpt from ![Citadel's wiki](https://en.wikipedia.org/wiki/Citadel_LLC#Citadel_Securities):
+And here is an excerpt from [Citadel's wiki](https://en.wikipedia.org/wiki/Citadel_LLC#Citadel_Securities):
 >Citadel Securities automation has resulted in more reliable trading at lower costs and with tighter spreads. [...] Citadel Securities is the largest market maker in options in the U.S., executing about 25 percent of U.S.-listed equity options volume. According to the Wall Street Journal, about one-third of stock orders from individual investors is completed through Citadel, which accounts for about 10% of the firm's revenue. Citadel Securities also executes about 13 percent of U.S. consolidated volume in equities and 28 percent of U.S. retail equities volume.

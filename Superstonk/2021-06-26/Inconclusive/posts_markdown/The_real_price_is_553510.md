@@ -1,5 +1,6 @@
-# Author: happy_dick_punch
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8li5r/the_real_price_is_553510/](https://www.reddit.com/r/Superstonk/comments/o8li5r/the_real_price_is_553510/)
+#Title: The real price is $5,535.10
+#Author: happy_dick_punch
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8li5r/the_real_price_is_553510/](https://www.reddit.com/r/Superstonk/comments/o8li5r/the_real_price_is_553510/)
 
 
 Not financial advice. Pure opinion and speculation.

@@ -1,5 +1,6 @@
-# Author: anongmeholder
-# Post URL: [https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/](https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/)
+#Title: THE FINISHING BLOW: THE END OF THE SHORTS
+#Author: anongmeholder
+#Post URL: [https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/](https://www.reddit.com/r/GME/comments/mf6brv/the_finishing_blow_the_end_of_the_shorts/)
 
 
 # The Introduction:
@@ -44,7 +45,7 @@ So here is where things start to get interesting, and this is where I start to k
 
 This phenomenon can be further added to if we look at the following amazing DD:
 
-![https://www.reddit.com/r/GME/comments/m4c0p4/citadel\_has\_no\_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
+[https://www.reddit.com/r/GME/comments/m4c0p4/citadel\_has\_no\_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
 
 Through this DD We can come to the conclusion that we are playing against an absolute degenerate of a cheater in this game. So even though he has lost the game despite disgustingly cheating the system, he will continue to perform illegal practices and tactics to further tame and manipulate the stock, being very careful for it not to break tipping points where it could explode beyond control... aka buying himself time... aka kicking the can down the road... aka denying the inevitable... aka remember yourself when you were beyond angry in a video game because you were losing so badly you just wanted to fuck shit up before you were out.
 

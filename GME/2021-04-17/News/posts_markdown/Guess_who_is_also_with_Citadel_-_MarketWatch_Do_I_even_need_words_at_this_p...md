@@ -1,5 +1,6 @@
-# Author: Ren3666
-# Post URL: [https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/](https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/)
+#Title: Guess who is also with Citadel - MarketWatch (Do I even need words at this point?)
+#Author: Ren3666
+#Post URL: [https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/](https://www.reddit.com/r/GME/comments/msuj3g/guess_who_is_also_with_citadel_marketwatch_do_i/)
 
 
 &#x200B;
@@ -58,7 +59,7 @@ And with this I conclude my Post and hand my Baton over to the next Ape, who may
 
 Comment Section is lit today:
 
-[Thanks to u\/bananatr333 https:\/\/www.reddit.com\/r\/GME\/comments\/msuj3g\/guess\_who\_is\_also\_with\_citadel\_marketwatch\_do\_i\/guwpcbi?utm\_source=share&utm\_medium=web2x&context=3](https://preview.redd.it/egse2rwz8tt61.png?width=889&format=png&auto=webp&s=8fb986ba96c1d1cf3656b4b3559f774eea995760)
+![Thanks to u\/bananatr333 https:\/\/www.reddit.com\/r\/GME\/comments\/msuj3g\/guess\_who\_is\_also\_with\_citadel\_marketwatch\_do\_i\/guwpcbi?utm\_source=share&utm\_medium=web2x&context=3](https://preview.redd.it/egse2rwz8tt61.png?width=889&format=png&auto=webp&s=8fb986ba96c1d1cf3656b4b3559f774eea995760)
 
 &#x200B;
 

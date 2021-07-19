@@ -1,5 +1,6 @@
-# Author: SexyYear
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mxl0co/move_over_bloomberg_terminal_here_comes_gamestonk/](https://www.reddit.com/r/DDintoGME/comments/mxl0co/move_over_bloomberg_terminal_here_comes_gamestonk/)
+#Title: Move over Bloomberg Terminal, here comes Gamestonk Terminal
+#Author: SexyYear
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mxl0co/move_over_bloomberg_terminal_here_comes_gamestonk/](https://www.reddit.com/r/DDintoGME/comments/mxl0co/move_over_bloomberg_terminal_here_comes_gamestonk/)
 
 
 [https://github.com/DidierRLopes/GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
@@ -34,4 +35,4 @@ Let’s try to reduce the gap between the amount of information that the Hedge F
 
 Bloomberg Terminal, we’re coming for you.
 
-Feel free to join our discord at ![https://discord.gg/Up2QGbMKHY](https://discord.gg/Up2QGbMKHY).
+Feel free to join our discord at [https://discord.gg/Up2QGbMKHY](https://discord.gg/Up2QGbMKHY).

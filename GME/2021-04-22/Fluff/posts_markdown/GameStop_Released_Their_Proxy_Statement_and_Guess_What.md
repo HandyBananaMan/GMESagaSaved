@@ -1,5 +1,6 @@
-# Author: Cody15243
-# Post URL: [https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/](https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/)
+#Title: GameStop Released Their Proxy Statement and Guess What?
+#Author: Cody15243
+#Post URL: [https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/](https://www.reddit.com/r/GME/comments/mwh2pt/gamestop_released_their_proxy_statement_and_guess/)
 
 
 [GameStop (GME) Definitive Proxy Statement](https://gamestop.gcs-web.com/static-files/b8fcb1ce-dfcf-42fd-89a8-dfaed2084dcc)
@@ -38,6 +39,6 @@ Edit 3: Well, as I typed this from my desk at my shitty job that I just can't wa
 
 Edit 4: If you are here to comment about the average that I calculated, please see the above comment.
 
-Edit 5: Lolz ![https://www.reddit.com/r/Superstonk/comments/mzuodo/final\_update\_superstonk\_users\_alone\_hold\_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
+Edit 5: Lolz [https://www.reddit.com/r/Superstonk/comments/mzuodo/final\_update\_superstonk\_users\_alone\_hold\_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
 
 "131.75 ShArEs Is A rIdIcUlOuS eStImAtE oF tHe AvErAgE."

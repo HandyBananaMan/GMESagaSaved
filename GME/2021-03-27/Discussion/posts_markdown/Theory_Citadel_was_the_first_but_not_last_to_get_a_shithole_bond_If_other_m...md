@@ -1,5 +1,6 @@
-# Author: somename_05
-# Post URL: [https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/](https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/)
+#Title: **Theory** Citadel was the first, but not last to get a shithole bond. If other major players with a short position pursue these BBB-rated bonds it could break open the US corporate debt bond bubble. GME goes to moon no matter what but this could be how GME triggers the collapse of US economy/market
+#Author: somename_05
+#Post URL: [https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/](https://www.reddit.com/r/GME/comments/mefli1/theory_citadel_was_the_first_but_not_last_to_get/)
 
 
 \*\*\*Disclaimer - this is purely speculative. Just a theory. I am a smooth brained ape. I am not a financial advisor and this is not financial advice. This is not DD. I do not endorse any specific type of trading in anyway shape or form. I repeat NOT FINANCIAL ADVICE.\*\*\*
@@ -98,7 +99,7 @@ Interestingly they even refer to finite gain and “infinite loss” in the Mark
 
 If you do some searching on CLOs and citadel you will find several connections. Here is even an article that refers to a CLO purchase by MS:
 
-![https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo](https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo)
+[https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo](https://www.globalcapital.com/article/k6bqlh982368/morgan-stanley-arranges-citadel-clo)
 
 Would be great for someone with more wrinkles to dive into this part of the whole story. Just feels like an onion with many layers. It also reminds me of the scene from the Big Short where they are in the casino and people bet on the bet of someone’s bet.
 

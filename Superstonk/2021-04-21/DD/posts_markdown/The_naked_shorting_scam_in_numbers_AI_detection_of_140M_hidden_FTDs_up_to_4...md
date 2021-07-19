@@ -1,5 +1,6 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)
+#Title: The naked shorting scam in numbers: AI detection of 140M hidden FTDs, up to 400M naked shorts in married puts and massive dark pool activity by Shitadel and the shorts
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)
 
 
 Edit: I made [a new post describing how I trained the binary classifier (AI) used in this post](https://www.reddit.com/r/Superstonk/comments/mwrycd/how_to_train_a_binary_classifier_ai_to_detect/).
@@ -23,7 +24,7 @@ In this post I build an AI to detect suspicious Deep ITM Calls volumes used to h
 
 The post will be broken down into the following sections:
 
-1. An AI to [detect Deep ITM calls](https://preview.redd.it/4g8izd9godu61.png?width=4500&format=png&auto=webp&s=be0dc2f3937cb050458b23c7f46b79ffd10f0f3a) used to hide FTDs
+1. An AI to ![detect Deep ITM calls](https://preview.redd.it/4g8izd9godu61.png?width=4500&format=png&auto=webp&s=be0dc2f3937cb050458b23c7f46b79ffd10f0f3a) used to hide FTDs
 2. A recap of the major short funds and their recent positions
 3. A recap of naked short selling and the married put
 4. Options fuckery consistent with naked shorting and the married put
@@ -62,7 +63,7 @@ THE AI FOUND EVIDENCE FOR MORE THEN 140 MILLION FTDs BEING HIDDEN SINCE JANUARY!
 
 &#x200B;
 
-[AI detection of option volumes used to hide FTDs and FTD values since January.](https://preview.redd.it/4g8izd9godu61.png?width=4500&format=png&auto=webp&s=be0dc2f3937cb050458b23c7f46b79ffd10f0f3a)
+![AI detection of option volumes used to hide FTDs and FTD values since January.](https://preview.redd.it/4g8izd9godu61.png?width=4500&format=png&auto=webp&s=be0dc2f3937cb050458b23c7f46b79ffd10f0f3a)
 
 The above figure shows all the suspicious Deep ITM call volumes since January as coloured bars. The colour scheme shows the different strike prices that were used for the trade. FTDs as % of float are drawn on top in the blue line.
 
@@ -72,15 +73,15 @@ On Jan 27th 25 MILLION shares were magically acquired using this trick. 140 MILL
 
 &#x200B;
 
-[Running total of suspicious call volumes since Jan 1st. 140 million as of April 6th.](https://preview.redd.it/30b6h4qopdu61.png?width=1800&format=png&auto=webp&s=ccafaf7bca99b134b09931bd5a60f11428c190ec)
+![Running total of suspicious call volumes since Jan 1st. 140 million as of April 6th.](https://preview.redd.it/30b6h4qopdu61.png?width=1800&format=png&auto=webp&s=ccafaf7bca99b134b09931bd5a60f11428c190ec)
 
 &#x200B;
 
-[AI detection of option volumes used to hide FTDs and GME price since January.](https://preview.redd.it/m0pd5pwwpdu61.png?width=4500&format=png&auto=webp&s=1cefe0ef8b62b0ca853322c3e4c8b57205e5b641)
+![AI detection of option volumes used to hide FTDs and GME price since January.](https://preview.redd.it/m0pd5pwwpdu61.png?width=4500&format=png&auto=webp&s=1cefe0ef8b62b0ca853322c3e4c8b57205e5b641)
 
 Here we see that suspicious Deep ITM call volumes often precede big price increases. This suggests that this illegal trick is used as a last resort. It's so easy to see even by eye when looking at the options chains. When shorts get desperate they go to the deep calls.
 
-[AI detection of option volumes used to hide FTDs and Short Interest \(SI&#37;\) since January.](https://preview.redd.it/3tk1ye2jqdu61.png?width=4500&format=png&auto=webp&s=d77b931096e9f42d111565bf550c5639070b6bca)
+![AI detection of option volumes used to hide FTDs and Short Interest \(SI&#37;\) since January.](https://preview.redd.it/3tk1ye2jqdu61.png?width=4500&format=png&auto=webp&s=d77b931096e9f42d111565bf550c5639070b6bca)
 
 We see that Short Interest (SI%) decreased massively after all of the suspicious call option activity in late Jan. As well as getting the FTDs under control the suspicious Deep ITM call volumes might have been used to close legitimately borrowed shares to hide the true SI%.
 
@@ -88,7 +89,7 @@ With all the hype and attention the shorts knew they were completely fucked if t
 
 &#x200B;
 
-[AI detection of option volumes used to hide FTDs and Short Interest \(SI&#37;\) since April 2020.](https://preview.redd.it/8mfwrbx6tdu61.png?width=4500&format=png&auto=webp&s=ebd2e26293f59af8d438169bead8b5f46a426d51)
+![AI detection of option volumes used to hide FTDs and Short Interest \(SI&#37;\) since April 2020.](https://preview.redd.it/8mfwrbx6tdu61.png?width=4500&format=png&auto=webp&s=ebd2e26293f59af8d438169bead8b5f46a426d51)
 
 Finally, if we look back over the past year very few suspicious Deep ITM call volumes were occurring. This changed in January 2021 as the FTDs started to get out of control and a huge amount of hype followed the price rises. This again makes me believe that the suspicious Deep ITM call volumes are a sign of desperation from the shorts.
 
@@ -115,15 +116,15 @@ So what does a massive short GME position look like in 13F filings?
 
 &#x200B;
 
-[GME positions from 13F filings for the biggest known losers in GME shorting](https://preview.redd.it/cv9fzhxq6eu61.png?width=1810&format=png&auto=webp&s=833bc3e0760af8047ed58f5375aaaadac19951a0)
+![GME positions from 13F filings for the biggest known losers in GME shorting](https://preview.redd.it/cv9fzhxq6eu61.png?width=1810&format=png&auto=webp&s=833bc3e0760af8047ed58f5375aaaadac19951a0)
 
 That's a lot of puts without any GME shares or calls! *Melvin had 6 million shares in puts* and *Maplelane close to 2 million*. Depending on where you look on whalewisdom Maplelane either has no calls or about 500k shares in calls but never any real shares. For now let's assume Maplelane is all in on puts.
 
 &#x200B;
 
-[Melvin hasn't held any GME shares since 2015.](https://preview.redd.it/rkj5le8t7eu61.png?width=1856&format=png&auto=webp&s=9b4fc0fcdc4c95204e5394846bef3eeedfa71b81)
+![Melvin hasn't held any GME shares since 2015.](https://preview.redd.it/rkj5le8t7eu61.png?width=1856&format=png&auto=webp&s=9b4fc0fcdc4c95204e5394846bef3eeedfa71b81)
 
-[Maplelane hasn't held any GME shares since 2014.](https://preview.redd.it/q71rz0hx7eu61.png?width=1845&format=png&auto=webp&s=75007fcc44dc48023aab5c5b4cd86c0301dda672)
+![Maplelane hasn't held any GME shares since 2014.](https://preview.redd.it/q71rz0hx7eu61.png?width=1845&format=png&auto=webp&s=75007fcc44dc48023aab5c5b4cd86c0301dda672)
 
 So big short losers have:
 
@@ -134,7 +135,7 @@ What do other funds report for their GME positions?
 
 &#x200B;
 
-[All funds with at least 300k in either shares, calls or puts. Short positions are on the left and long positions on the right chart.](https://preview.redd.it/506p312y8eu61.png?width=5350&format=png&auto=webp&s=98c7bad44cb276a92b8d9c87d7765e0327b72806)
+![All funds with at least 300k in either shares, calls or puts. Short positions are on the left and long positions on the right chart.](https://preview.redd.it/506p312y8eu61.png?width=5350&format=png&auto=webp&s=98c7bad44cb276a92b8d9c87d7765e0327b72806)
 
 Here we see many of the known offenders. A bunch of short funds with majority puts and sometimes a smaller number of call options. Melvin takes the biggest idiot prize with 6 million shares in puts and nothing else. Here are the main offenders based on their end of 2020 filings:
 
@@ -193,13 +194,13 @@ So, if massive naked short selling via the married put trade has been used to co
 
 &#x200B;
 
-[Total open interest for puts & calls as well as FTDs & SI&#37; since Jan 2020.](https://preview.redd.it/is3e6vn3heu61.png?width=4500&format=png&auto=webp&s=3ced765a93d48245b0a8b9a6d2394280b42289e5)
+![Total open interest for puts & calls as well as FTDs & SI&#37; since Jan 2020.](https://preview.redd.it/is3e6vn3heu61.png?width=4500&format=png&auto=webp&s=3ced765a93d48245b0a8b9a6d2394280b42289e5)
 
 HOLY FUCK THATS A MASSIVE JUMP IN OPEN PUT INTEREST!! And it's been sustained since the end of Jan. for the last year open interest in puts and calls remained very similar. At the end of Jan put open interest increased by more than 300% and completely disconnected from call interest. Immediately after this change FTDs and SI% dropped massively.
 
 &#x200B;
 
-[Cumulative open interest for puts & calls since Jan 2020.](https://preview.redd.it/cdh81j9yheu61.png?width=3808&format=png&auto=webp&s=dc589f91495376dc303dbbff8cdec756fa62f712)
+![Cumulative open interest for puts & calls since Jan 2020.](https://preview.redd.it/cdh81j9yheu61.png?width=3808&format=png&auto=webp&s=dc589f91495376dc303dbbff8cdec756fa62f712)
 
 If we look at the cumulative open interest over time we see the number of newly opened put contracts has remained steady throughout Feb and into early April. The rate at which these contracts are being bought is far greater than anything seen in 2020.
 
@@ -213,7 +214,7 @@ Getting this data was a pain in the ass but I now have all Dark Pool volume data
 
 &#x200B;
 
-[Dark Pool trade data for OTC and ATS trade pool.](https://preview.redd.it/ulkgw6e0qhu61.png?width=3076&format=png&auto=webp&s=6447fbe7e5e730f9d90d0525d7db539fff3f4b97)
+![Dark Pool trade data for OTC and ATS trade pool.](https://preview.redd.it/ulkgw6e0qhu61.png?width=3076&format=png&auto=webp&s=6447fbe7e5e730f9d90d0525d7db539fff3f4b97)
 
 Dark Pool activity ramped up massively at the start of Jan, particularly in the OTC pool. Towards the end of Jan as prices spiked during the mini-squeeze the total number of trades more than quadrupled and the average trade size dropped to around 50 shares per trade, remaining there ever since.
 
@@ -223,7 +224,7 @@ If OTC trading was being used to suppress retail buy pressure we'd probably expe
 
 &#x200B;
 
-[Total shares trades by firm for OTC and ATS pools since Jan. Note: using Log10 scale for comparison. Citadel actually traded 400M shares OTC!!!](https://preview.redd.it/83iw1c15rhu61.png?width=3600&format=png&auto=webp&s=d7db9804c36d863a17be7d7bc8d0ce9f6a1c1586)
+![Total shares trades by firm for OTC and ATS pools since Jan. Note: using Log10 scale for comparison. Citadel actually traded 400M shares OTC!!!](https://preview.redd.it/83iw1c15rhu61.png?width=3600&format=png&auto=webp&s=d7db9804c36d863a17be7d7bc8d0ce9f6a1c1586)
 
 Well what a surprise. Citadel trading 400M dark pool shares. Robinhood trading 2 million shares on OTC. The average trade size was ≈1 share which is fucking weird. Interactive Brokers only traded 9559 shares OTC but they made 9559 trades. Exactly 1 share per trade. Fucking weird.
 
@@ -271,7 +272,7 @@ https://i.redd.it/zz5eu179biu61.gif
 * Dark Pool OTC volumes went through the roof and Deep ITM call volumes were used to create naked shares ahead of the end of Jan price spike
 * When prices really started to move from Jan 25th - 29th more than 100 million shares were created with Deep ITM call and married-put naked shorting and used to hammer down price and hide SI%
 * A coordinated blocking of buy orders on key retail brokers and media induced FUD helped the shorts knock down the price and scare off some of the FOMO paper hand gang.
-* ![Something happened to the short share borrow fees](https://www.reddit.com/r/Superstonk/comments/mma7eh/analysis_deep_dive_looking_at_historical_si_ftd/) that completely disconnect from normal pricing.
+* [Something happened to the short share borrow fees](https://www.reddit.com/r/Superstonk/comments/mma7eh/analysis_deep_dive_looking_at_historical_si_ftd/) that completely disconnect from normal pricing.
 * From Feb onwards average trade size on OTC decreased to around 50 shares per trade. That's a 70%+ drop in trade size. Retail orders were funnelled through Dark Pools to control buying pressure and 'short ladder attacks' used to control price.
 * ETFs were used to hide more and more FTDs from the apes. I have data on ETFs but its such a pain to analyse (70+ funds, all different GME allocations, rebalancing over time etc..).
 * DFV doubled down. RC tweeted an ice-cream cone. Deep ITM calls increased. FTDs remerged and on Feb 25th prices started flying again.

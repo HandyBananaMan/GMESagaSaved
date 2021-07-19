@@ -1,5 +1,6 @@
-# Author: HandshakeInMyPants
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odqa38/a_warning_regarding_741_and_gda_there_are_bad/](https://www.reddit.com/r/Superstonk/comments/odqa38/a_warning_regarding_741_and_gda_there_are_bad/)
+#Title: A warning regarding 7:41 and GDA; there are bad actors out there unrelated to GME that will absolutely pander to Ape theories, and confirmation bias. We don't dance for ANYBODY except the direct unencrypted communication from Ryan Cohen.
+#Author: HandshakeInMyPants
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odqa38/a_warning_regarding_741_and_gda_there_are_bad/](https://www.reddit.com/r/Superstonk/comments/odqa38/a_warning_regarding_741_and_gda_there_are_bad/)
 
 
 I'm concerned about the speculation around 7:41. Sure this has lead to us learning about some interesting rules on the books re: liquidation, and we've found an interesting NFT company- that is *now claiming* that they aim to serve esports. 

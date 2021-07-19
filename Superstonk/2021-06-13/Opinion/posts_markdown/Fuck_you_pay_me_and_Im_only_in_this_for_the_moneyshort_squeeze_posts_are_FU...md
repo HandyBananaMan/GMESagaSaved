@@ -1,5 +1,6 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyzwh8/fuck_you_pay_me_and_im_only_in_this_for_the/](https://www.reddit.com/r/Superstonk/comments/nyzwh8/fuck_you_pay_me_and_im_only_in_this_for_the/)
+#Title: "Fuck you, pay me" and "I'm only in this for the money/short squeeze" posts are FUD. Let me explain why and stop fucking upvoting them!!
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyzwh8/fuck_you_pay_me_and_im_only_in_this_for_the/](https://www.reddit.com/r/Superstonk/comments/nyzwh8/fuck_you_pay_me_and_im_only_in_this_for_the/)
 
 
 Dear Apes,

@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/)
+#Title: Theory on the FTD Loop Missing Link - a T+35 surge followed by an infinite T+21 loop surrounding specific option dates. Support for April 16th options T+21 theory pointing to a possible surge tomorrow, or T+35 surge on May 24th
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/)
 
 
 # Edit: Please take a look at Net Capital theory in which I provide Counter DD to this post:
@@ -28,7 +29,7 @@ Shoutout to the big brain apes lately who started to bring traction to the FTDs 
 
 Let's DRAGON BALL FUSION this!
 
-[Idea courtesy of \/u\/435f43f534](https://preview.redd.it/ch9tiqqwwsz61.png?width=1442&format=png&auto=webp&s=51e2817ea22f633f88092b6a5d2d04653c3712e0)
+![Idea courtesy of \/u\/435f43f534](https://preview.redd.it/ch9tiqqwwsz61.png?width=1442&format=png&auto=webp&s=51e2817ea22f633f88092b6a5d2d04653c3712e0)
 
 # 1. How to Determine T+35 and T+21
 
@@ -152,7 +153,7 @@ Ew. I don't like text. I like visuals. And I'm sure you guys do, too. It just he
 
 Take a look at this chart of GME. Purple boxes are indicating T+35. Green boxes are indicating T+21. I'd love if someone had data to back up February 5th, or if that's just a red herring. Still, T+35 and then T+21 loop lines up perfectly with February 5th options date when you take into account holidays.
 
-[Figure 1: GME T+21 and T+35 Cycles](https://preview.redd.it/fnj6sd2srsz61.png?width=1427&format=png&auto=webp&s=a7731b7e3aaacee2dcdaff9e46bdc767c0a90f9f)
+![Figure 1: GME T+21 and T+35 Cycles](https://preview.redd.it/fnj6sd2srsz61.png?width=1427&format=png&auto=webp&s=a7731b7e3aaacee2dcdaff9e46bdc767c0a90f9f)
 
 Huh? March 15th didn't have a surge! Yes, you are correct. It had a biiiig surge down though. Now take a look at our friend AMC. I've plotted **THE SAME EXACT T+35 AND T+21 CYCLES**. Notice how similar AMC is? How its following the same spikes? Notice anything different about March 15 for AMC? AMC went up! I bet you they wasted a lot of ammo on March 15th to avoid GME surging up because it was in the $280s at the time. Danger Zone!!
 

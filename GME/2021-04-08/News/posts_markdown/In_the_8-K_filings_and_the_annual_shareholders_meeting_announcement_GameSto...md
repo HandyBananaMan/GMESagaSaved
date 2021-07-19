@@ -1,5 +1,6 @@
-# Author: jsimpy
-# Post URL: [https://www.reddit.com/r/GME/comments/mmrevd/in_the_8k_filings_and_the_annual_shareholders/](https://www.reddit.com/r/GME/comments/mmrevd/in_the_8k_filings_and_the_annual_shareholders/)
+#Title: In the 8-K filings and the annual shareholders meeting announcement, GameStop put a specific phrase IN ALL CAPS!
+#Author: jsimpy
+#Post URL: [https://www.reddit.com/r/GME/comments/mmrevd/in_the_8k_filings_and_the_annual_shareholders/](https://www.reddit.com/r/GME/comments/mmrevd/in_the_8k_filings_and_the_annual_shareholders/)
 
 
 Apes. RC and friends want us to get knee deep in info before the meeting. Here’s the statement:

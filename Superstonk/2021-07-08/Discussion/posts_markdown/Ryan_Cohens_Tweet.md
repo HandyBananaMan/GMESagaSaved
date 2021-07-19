@@ -1,5 +1,6 @@
-# Author: _Badtothebone_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/](https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/)
+#Title: 🚀Ryan Cohens Tweet🚀
+#Author: _Badtothebone_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/](https://www.reddit.com/r/Superstonk/comments/ogfq3j/ryan_cohens_tweet/)
 
 
 Ryan Cohen posted this tweet saying he loved it!!!!
@@ -16,7 +17,7 @@ So clicking the link and taking a look at the first/cover photo we can see clear
 
 &#x200B;
 
-[GameStop and ape on the moon](https://preview.redd.it/1grr5qgss1a71.jpg?width=828&format=pjpg&auto=webp&s=3081d2803ff4da7efcb2ed1c6944778f7b232961)
+![GameStop and ape on the moon](https://preview.redd.it/1grr5qgss1a71.jpg?width=828&format=pjpg&auto=webp&s=3081d2803ff4da7efcb2ed1c6944778f7b232961)
 
 Now is where things get REAL interesting........ Looking at the second photo it appears to be the backside of the building. In this photo you can see a man drawing the GME chart with a green marker!!!! and it appears to be in an apeish pattern aka a SQUEEZE only going up. It looks like GME may be getting another leg up before the infinity squeeze and GME goes parabolic. Now the lego man is a very familiar face..... ill let you decide what logo they are basing it off of. There is also an ape looking at the drawing. Look at the exit sign.... crossed out (NO EXIT STRATEGY). This is class A confirmation bias to me...
 

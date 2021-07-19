@@ -1,5 +1,6 @@
-# Author: yelyah2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/](https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/)
+#Title: Delta Neutral Update: Any meaningful underlying price increase today will significantly increase our chances at a squeeze in the near future.
+#Author: yelyah2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/](https://www.reddit.com/r/Superstonk/comments/o9qb4n/delta_neutral_update_any_meaningful_underlying/)
 
 
 **TLDR: any meaningful increase today (>2%) will significantly increase the chances of a squeeze in our near future.**
@@ -20,7 +21,7 @@ My work is built on the idea that the market is largely unpredictable, but one p
 
 &#x200B;
 
-[Hedgie doing its Hedgin'](https://preview.redd.it/ck93r8xvg1871.png?width=168&format=png&auto=webp&s=ab98f88b94e4fa0198174029e71061abe2891686)
+![Hedgie doing its Hedgin'](https://preview.redd.it/ck93r8xvg1871.png?width=168&format=png&auto=webp&s=ab98f88b94e4fa0198174029e71061abe2891686)
 
 There is a new methodology/assumptions section at the bottom that gives my method in full detail. This section gives a high-level of the key pieces of the analysis described in this post.
 
@@ -30,7 +31,7 @@ The Delta of an option represents the expected change to an option's price based
 
 &#x200B;
 
-[Call versus Put Delta by Strike Price for an Underlying @ $100](https://preview.redd.it/ugpgf1wjg1871.png?width=987&format=png&auto=webp&s=8ecf759c7f1119d70b9f5765674590f866168fb5)
+![Call versus Put Delta by Strike Price for an Underlying @ $100](https://preview.redd.it/ugpgf1wjg1871.png?width=987&format=png&auto=webp&s=8ecf759c7f1119d70b9f5765674590f866168fb5)
 
 Delta hedging is a trading strategy employed by market makers (MM's) to minimalize the directional risk associated with price movements in the underlying security. Traditionally, you can think of a MM buying 20 (0.2 x 100) stocks of the underlying security if the price increases by $1 (using the example above). However, it's important to note that hedge funds often use other derivatives to hedge, not just buying/selling stocks  because it requires less capital to do so. However, these indicators can be used as a directional proxy for some of the MM behavior as the underlying price increases/decreases.
 
@@ -81,7 +82,7 @@ Here's the graph you're used to seeing, and it includes the Close Price (green),
 
 &#x200B;
 
-[GME 1\/4\/2021 - 6\/25\/2021 ](https://preview.redd.it/3w8in2bxn1871.png?width=910&format=png&auto=webp&s=8ee0e0f575df7fcc96a93eef105b6107024dc69a)
+![GME 1\/4\/2021 - 6\/25\/2021 ](https://preview.redd.it/3w8in2bxn1871.png?width=910&format=png&auto=webp&s=8ee0e0f575df7fcc96a93eef105b6107024dc69a)
 
 A few things that happened the last two weeks:
 
@@ -96,7 +97,7 @@ The graph below summaries the total market delta share equivalents (dark blue) v
 
 &#x200B;
 
-[GME Total Market Delta Share Equivalent versus Underlying Close](https://preview.redd.it/valw8po1s1871.png?width=909&format=png&auto=webp&s=5241a6231a0d442eb3cfa268e37ea5957827fbf5)
+![GME Total Market Delta Share Equivalent versus Underlying Close](https://preview.redd.it/valw8po1s1871.png?width=909&format=png&auto=webp&s=5241a6231a0d442eb3cfa268e37ea5957827fbf5)
 
 You will notice above that the total market delta increased significantly BEFORE  the January and February/March squeezes. This helped to contribute to the buying pressure to push GME upwards.
 
@@ -104,7 +105,7 @@ The graph below provides a sensitivity test for the total market delta share equ
 
 &#x200B;
 
-[+\/- 5&#37; Underlying Price Sensitivity Test](https://preview.redd.it/g01npebyr1871.png?width=909&format=png&auto=webp&s=3720955ff7a40a4e03937176115c34e9f736301c)
+![+\/- 5&#37; Underlying Price Sensitivity Test](https://preview.redd.it/g01npebyr1871.png?width=909&format=png&auto=webp&s=3720955ff7a40a4e03937176115c34e9f736301c)
 
 Now you can see that the impact to the total market delta increases significantly BEFORE large changes to the total market delta share equivalent, which happens BEFORE large changes to the underlying price.
 
@@ -142,7 +143,7 @@ I write my own algorithms to produce the results above. The following lists some
       * Fill in any missing relativities with the nearest relativity, within its own ticker/trade date/expiration date. This mostly just applies to far OTM strikes.
       * Smooth the relativities using rloess, which is a local regression using weighted linear least squares and a 2nd degree polynomial model. This method assigns zero weight to data outside six mean absolute deviations.
       * Apply the smoothed call/put mid-price relativities to the smoothed orats IV estimates to get the final call/put IV estimates.
-* Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: ![https://www.macroption.com/option-greeks-excel](https://www.macroption.com/option-greeks-excel/#gamma-in-excel)
+* Using the final call/put IV estimates described above, I calculate my own Greeks. I like this source if you're interested in the formulas: [https://www.macroption.com/option-greeks-excel](https://www.macroption.com/option-greeks-excel/#gamma-in-excel)
 * For the total market delta and total market gamma, I rely on the OI x delta and OI x gamma for each strike price.
    * Note that the delta of a call is usually equal to (1 - put delta), so not adjustment is needed to the delta signs when calculating the total market delta.
    * However, the call/put gammas are both positive based on the B-S calculation. If you're calculating the total gamma for a portfolio, or the total market, you have to add the call gamma and subtract the put gamma.

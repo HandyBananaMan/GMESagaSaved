@@ -1,5 +1,6 @@
-# Author: BearBiPolar
-# Post URL: [https://www.reddit.com/r/GME/comments/mnuvlz/bearbipolars_statement/](https://www.reddit.com/r/GME/comments/mnuvlz/bearbipolars_statement/)
+#Title: BearBiPolar's Statement
+#Author: BearBiPolar
+#Post URL: [https://www.reddit.com/r/GME/comments/mnuvlz/bearbipolars_statement/](https://www.reddit.com/r/GME/comments/mnuvlz/bearbipolars_statement/)
 
 
 Hello.

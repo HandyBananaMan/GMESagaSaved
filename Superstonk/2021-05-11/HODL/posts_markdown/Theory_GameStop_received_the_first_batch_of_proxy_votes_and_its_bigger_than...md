@@ -1,5 +1,6 @@
-# Author: millsaid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/na47on/theory_gamestop_received_the_first_batch_of_proxy/](https://www.reddit.com/r/Superstonk/comments/na47on/theory_gamestop_received_the_first_batch_of_proxy/)
+#Title: Theory: GameStop received the first batch of proxy votes and its bigger than anyone thought
+#Author: millsaid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/na47on/theory_gamestop_received_the_first_batch_of_proxy/](https://www.reddit.com/r/Superstonk/comments/na47on/theory_gamestop_received_the_first_batch_of_proxy/)
 
 
 We all saw the post from GameStop today on their Instagram and Twitter page. (Also Facebook?)

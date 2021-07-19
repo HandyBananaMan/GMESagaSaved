@@ -1,5 +1,6 @@
-# Author: txtrdr456
-# Post URL: [https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/](https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/)
+#Title: Gamma Squeeze? No guarantee, but THE CALL VOLUME INDICATES IT IS A DISTINCT POSSIBILITY. This will get downvoted but I don't care. LET'S FUCKING GO!!!!!!!!!!!!!!!!!!!
+#Author: txtrdr456
+#Post URL: [https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/](https://www.reddit.com/r/GME/comments/md53li/gamma_squeeze_no_guarantee_but_the_call_volume/)
 
 
 \*\*\*EDIT 16\*\*\* Lots of comments and DMs.  I'll try to get to everyone.  I am no expert.  I just guessed right (so far).  But as we know in this ongoing GME saga, anything could happen tomorrow.  So far, the momentum has carried into AH.  We'll know a lot more pre-market.
@@ -64,7 +65,7 @@ There are also tons of videos online from people that know what they are doing. 
 
 \*\*\*EDIT 15\*\*\* My data is based on the call volume (per trade-ideas, which is a stock screening platform I use).  I don't know what portion of the call volume is people (like me) who bought and are holding call options, or people who flipped them as the price went up.  Thanks to u/87CSD, here is some data on the actual option contract activity.
 
-According to this page: ![https://gme.crazyawesomecompany.com/](https://gme.crazyawesomecompany.com/)
+According to this page: [https://gme.crazyawesomecompany.com/](https://gme.crazyawesomecompany.com/)
 
 March 26:
 

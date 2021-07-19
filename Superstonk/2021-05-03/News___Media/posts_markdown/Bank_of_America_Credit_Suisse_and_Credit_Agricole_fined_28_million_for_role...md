@@ -1,5 +1,6 @@
-# Author: KFC_just
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/](https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/)
+#Title: Bank of America, Credit Suisse and Credit Agricole fined €28 million for role in bond trading cartel
+#Author: KFC_just
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/](https://www.reddit.com/r/Superstonk/comments/n4em75/bank_of_america_credit_suisse_and_credit_agricole/)
 
 
 # [Bank of America, Credit Suisse and Credit Agricole fined €28 million for role in bond trading cartel](https://www.thetradenews.com/bank-of-america-credit-suisse-and-credit-agricole-fined-e28-million-for-role-in-bond-trading-cartel/)
@@ -23,4 +24,4 @@
 >  
 >Of the €28 million penalty, Bank of America Merrill Lynch received the most severe fine of €12, 642,000, followed by Credit Suisse who received a fine of €11,859,000, and Crédit Agricole who received a fine of €3,993,000.  
 >  
->The fine marks the latest crackdown on cartel activity within large investment banks by the Commission. In 2019, Barclays, RBS, Citi, JP Morgan and MUFG paid a ![combined €1.07 billion in penalties](https://www.thetradenews.com/major-banks-fined-e1-billion-role-fx-trading-cartel/) for their involvement in a cartel that rigged FX spot prices for 11 currencies.
+>The fine marks the latest crackdown on cartel activity within large investment banks by the Commission. In 2019, Barclays, RBS, Citi, JP Morgan and MUFG paid a [combined €1.07 billion in penalties](https://www.thetradenews.com/major-banks-fined-e1-billion-role-fx-trading-cartel/) for their involvement in a cartel that rigged FX spot prices for 11 currencies.

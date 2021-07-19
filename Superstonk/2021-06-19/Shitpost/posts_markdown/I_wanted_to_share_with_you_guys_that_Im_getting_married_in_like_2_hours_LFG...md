@@ -1,5 +1,6 @@
-# Author: bvttfvcker
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3kpkv/i_wanted_to_share_with_you_guys_that_im_getting/](https://www.reddit.com/r/Superstonk/comments/o3kpkv/i_wanted_to_share_with_you_guys_that_im_getting/)
+#Title: I wanted to share with you guys that I'm getting married in like 2 hours. LFG gang!
+#Author: bvttfvcker
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3kpkv/i_wanted_to_share_with_you_guys_that_im_getting/](https://www.reddit.com/r/Superstonk/comments/o3kpkv/i_wanted_to_share_with_you_guys_that_im_getting/)
 
 
 My fiance and I have been together for about 2 years, and engaged for about a year now. 

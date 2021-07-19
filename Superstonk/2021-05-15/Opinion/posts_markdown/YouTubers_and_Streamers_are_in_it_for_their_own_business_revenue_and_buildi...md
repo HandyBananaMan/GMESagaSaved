@@ -1,5 +1,6 @@
-# Author: royal_dump
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nczsf3/youtubers_and_streamers_are_in_it_for_their_own/](https://www.reddit.com/r/Superstonk/comments/nczsf3/youtubers_and_streamers_are_in_it_for_their_own/)
+#Title: YouTubers and Streamers are in it for their own business revenue and building an audience. They always will follow what gets views. Don't put your trust in them.
+#Author: royal_dump
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nczsf3/youtubers_and_streamers_are_in_it_for_their_own/](https://www.reddit.com/r/Superstonk/comments/nczsf3/youtubers_and_streamers_are_in_it_for_their_own/)
 
 
 YouTube is a business. Think of all the financial gurus on there that tell you a bunch of crap and only a few of them are honest about YouTube being their main source of income. 

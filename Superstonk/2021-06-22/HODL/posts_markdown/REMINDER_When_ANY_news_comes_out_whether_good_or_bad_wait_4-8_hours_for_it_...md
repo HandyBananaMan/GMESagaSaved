@@ -1,5 +1,6 @@
-# Author: Insolopia
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5hmbr/reminder_when_any_news_comes_out_whether_good_or/](https://www.reddit.com/r/Superstonk/comments/o5hmbr/reminder_when_any_news_comes_out_whether_good_or/)
+#Title: 🚨🚨 REMINDER: When ANY news comes out, whether good or bad, wait 4-8 hours for it to be dissected by wrinkled brain apes 🚨🚨
+#Author: Insolopia
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5hmbr/reminder_when_any_news_comes_out_whether_good_or/](https://www.reddit.com/r/Superstonk/comments/o5hmbr/reminder_when_any_news_comes_out_whether_good_or/)
 
 
 Just a reminder to all to not hype on good news, not panic on bad news, until wrinkled apes have gone over it with a fine tooth comb.

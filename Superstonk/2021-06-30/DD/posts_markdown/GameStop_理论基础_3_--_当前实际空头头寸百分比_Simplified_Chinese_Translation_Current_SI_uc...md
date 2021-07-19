@@ -1,5 +1,6 @@
-# Author: zhishy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/)
+#Title: GameStop 理论基础 #3 -- 当前实际空头头寸百分比 [Simplified Chinese Translation: Current SI%, u/criand]
+#Author: zhishy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oayc9b/gamestop_理论基础_3_当前实际空头头寸百分比_simplified_chinese/)
 
 
 原文标题：I've estimated the current SI% based on the SI Report Cycle and Deep ITM CALL purchases, u/criand
@@ -36,7 +37,7 @@ PDF 版本：[https://drive.google.com/drive/folders/1fY7UXelAvvqdWvpGhuZ4zZ\_9G
 
 顺带一提，我股市的知识都是从《小猪佩奇》那里学来的。好东西不藏私，有兴趣可以看看：
 
-[\[图 1\]](https://preview.redd.it/hzkyx4zkte871.png?width=549&format=png&auto=webp&s=8d51deb6bd68ed05782e61388799918e8223a065)
+![\[图 1\]](https://preview.redd.it/hzkyx4zkte871.png?width=549&format=png&auto=webp&s=8d51deb6bd68ed05782e61388799918e8223a065)
 
 这里，我将会再次参考 u/broccaaa 哥 \[1\]《[裸空骗局 (The Naked Shorting Scam)](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)》\[2\] 一文中的图表。强烈推荐你阅读该文。
 
@@ -64,11 +65,11 @@ PDF 版本：[https://drive.google.com/drive/folders/1fY7UXelAvvqdWvpGhuZ4zZ\_9G
 
 总的来说：**华尔街 TM 屎定了**
 
-[\[图 2：未平仓看跌期权对比空头头寸百分比\]](https://preview.redd.it/ffuwkv7nte871.png?width=1848&format=png&auto=webp&s=ef14703ffd9ef117f98c800ad22bcc200b3aa753)
+![\[图 2：未平仓看跌期权对比空头头寸百分比\]](https://preview.redd.it/ffuwkv7nte871.png?width=1848&format=png&auto=webp&s=ef14703ffd9ef117f98c800ad22bcc200b3aa753)
 
-[\[图 3：未平仓看跌期权，3 月 9 日至 3 月 11 日\]](https://preview.redd.it/w5sq8ktote871.png?width=792&format=png&auto=webp&s=487f0565b871f4af7e3942a44d26018a0ed19490)
+![\[图 3：未平仓看跌期权，3 月 9 日至 3 月 11 日\]](https://preview.redd.it/w5sq8ktote871.png?width=792&format=png&auto=webp&s=487f0565b871f4af7e3942a44d26018a0ed19490)
 
-[\[图 4：深价内看涨期权对比未能交割量\]](https://preview.redd.it/97sf9j9qte871.png?width=1894&format=png&auto=webp&s=9e79ae8f0e8992d164faa51f25e83dc432867a13)
+![\[图 4：深价内看涨期权对比未能交割量\]](https://preview.redd.it/97sf9j9qte871.png?width=1894&format=png&auto=webp&s=9e79ae8f0e8992d164faa51f25e83dc432867a13)
 
 **3. 市场上已无真实股票。所有购得股票都是合成股票**
 
@@ -100,7 +101,7 @@ https://preview.redd.it/fepfmsf0ue871.png?width=398&format=png&auto=webp&s=8791a
 
 而在每个循环之间又发生了什么事呢？在继续之前，让我再次拿出我的万能图表。我在下图加上了结算日期和高波动时刻。你会看到，**这些日期之间\*总会\*有大幅的上升和下降**。
 
-[\[图 5：空头头寸报告循环与价格波动\]](https://preview.redd.it/triunct1ue871.png?width=1423&format=png&auto=webp&s=e8a534af0eb30d633c6ecd12cd639706f9ad8b63)
+![\[图 5：空头头寸报告循环与价格波动\]](https://preview.redd.it/triunct1ue871.png?width=1423&format=png&auto=webp&s=e8a534af0eb30d633c6ecd12cd639706f9ad8b63)
 
 我认为发生了以下的事情：
 
@@ -130,7 +131,7 @@ https://preview.redd.it/fepfmsf0ue871.png?width=398&format=png&auto=webp&s=8791a
 
 在另一个帖子中，[有 5,960 深价内看涨期权于 4 月 1 日被购买](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/) \[8\]。同理，这意味着**当天产生了 5,960 \* 100 = 596,000 只合成股票**。
 
-[\[图 6：累积深价内看涨期权量，3 月 1 日至 3 月 11 日\]](https://preview.redd.it/btcw02h3ue871.png?width=1890&format=png&auto=webp&s=9aa51a55d1b4e8fe2e5b002e52964170c9ee3f3a)
+![\[图 6：累积深价内看涨期权量，3 月 1 日至 3 月 11 日\]](https://preview.redd.it/btcw02h3ue871.png?width=1890&format=png&auto=webp&s=9aa51a55d1b4e8fe2e5b002e52964170c9ee3f3a)
 
 请看看 3 月 1 日至 3 月 11 日之间的期权量... 卧槽，这规模和 1 月至 2 月间的期权量飙升相比起来简直是小巫见大巫。
 
@@ -170,4 +171,4 @@ https://preview.redd.it/9k19tqmvue871.png?width=321&format=png&auto=webp&s=1480e
 
 **5. 资源**
 
-\[1\] [https://www.reddit.com/u/broccaaa/](https://www.reddit.com/u/broccaaa/)\[2\] [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the\_naked\_shorting\_scam\_in\_numbers\_ai\_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)\[3\] [https://www.reddit.com/r/Superstonk/comments/nafcuh/a\_couple\_deep\_itm\_puts\_and\_lots\_of\_otm\_calls\_were/](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/)\[4\] [https://www.reddit.com/r/Superstonk/comments/n792mf/all\_shorts\_must\_cover\_theyre\_entering\_the\_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)\[5\] [https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest)\[6\] [https://www.reddit.com/u/Dan\_Bren/](https://www.reddit.com/u/Dan_Bren/)\[7\] [https://www.reddit.com/r/GME/comments/m31f8b/2day\_update\_168\_million\_on\_6650\_deep\_itm\_calls/](https://www.reddit.com/r/GME/comments/m31f8b/2day_update_168_million_on_6650_deep_itm_calls/)\![8\] [https://www.reddit.com/r/GME/comments/mk6e2q/106m\_of\_deep\_itm\_calls\_were\_purchased\_on\_thursday/](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/)
+\[1\] [https://www.reddit.com/u/broccaaa/](https://www.reddit.com/u/broccaaa/)\[2\] [https://www.reddit.com/r/Superstonk/comments/mvdgf5/the\_naked\_shorting\_scam\_in\_numbers\_ai\_detection/](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/)\[3\] [https://www.reddit.com/r/Superstonk/comments/nafcuh/a\_couple\_deep\_itm\_puts\_and\_lots\_of\_otm\_calls\_were/](https://www.reddit.com/r/Superstonk/comments/nafcuh/a_couple_deep_itm_puts_and_lots_of_otm_calls_were/)\[4\] [https://www.reddit.com/r/Superstonk/comments/n792mf/all\_shorts\_must\_cover\_theyre\_entering\_the\_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)\[5\] [https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest)\[6\] [https://www.reddit.com/u/Dan\_Bren/](https://www.reddit.com/u/Dan_Bren/)\[7\] [https://www.reddit.com/r/GME/comments/m31f8b/2day\_update\_168\_million\_on\_6650\_deep\_itm\_calls/](https://www.reddit.com/r/GME/comments/m31f8b/2day_update_168_million_on_6650_deep_itm_calls/)\[8\] [https://www.reddit.com/r/GME/comments/mk6e2q/106m\_of\_deep\_itm\_calls\_were\_purchased\_on\_thursday/](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/)

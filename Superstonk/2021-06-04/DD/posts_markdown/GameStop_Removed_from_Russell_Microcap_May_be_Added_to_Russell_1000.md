@@ -1,5 +1,6 @@
-# Author: DrGigaChad_MD
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsmgy0/gamestop_removed_from_russell_microcap_may_be/](https://www.reddit.com/r/Superstonk/comments/nsmgy0/gamestop_removed_from_russell_microcap_may_be/)
+#Title: GameStop Removed from Russell Microcap, May be Added to Russell 1000
+#Author: DrGigaChad_MD
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsmgy0/gamestop_removed_from_russell_microcap_may_be/](https://www.reddit.com/r/Superstonk/comments/nsmgy0/gamestop_removed_from_russell_microcap_may_be/)
 
 
 What’s up
@@ -18,7 +19,7 @@ However, our pal GameStop has been putting in work recently. Using the medians f
 
 The Russell 1000 is a big deal as far as index funds go, much harder to short a whole index of Wall Street favorites compared to the 2000. **Apple, for instance, is one of the top holdings in the Russell 1000.** There is also the question of what happens to previously shorted ETFs containing GameStop.
 
-Now, this is just speculation, albeit heavily supported speculation. **FTSE Russell hasn’t released the official index changes for the 1000, 500, and Midcap just yet.** They should announce the changes in one of the updates on the 11th, 18th, or 25th. **But they did announce changes for the microcap today, and ![GameStop is being removed](https://www.ftserussell.com/files/support-document/russell-microcap-deletions-2021), thus confirming the theory.**
+Now, this is just speculation, albeit heavily supported speculation. **FTSE Russell hasn’t released the official index changes for the 1000, 500, and Midcap just yet.** They should announce the changes in one of the updates on the 11th, 18th, or 25th. **But they did announce changes for the microcap today, and [GameStop is being removed](https://www.ftserussell.com/files/support-document/russell-microcap-deletions-2021), thus confirming the theory.**
 
 Shoutout /u/WisePhantom for the links
 

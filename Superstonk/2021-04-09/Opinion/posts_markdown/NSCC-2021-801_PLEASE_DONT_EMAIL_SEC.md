@@ -1,5 +1,6 @@
-# Author: Apprehensive-Salt-42
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnhfq7/nscc2021801_please_dont_email_sec/](https://www.reddit.com/r/Superstonk/comments/mnhfq7/nscc2021801_please_dont_email_sec/)
+#Title: NSCC-2021-801 PLEASE DON'T EMAIL SEC
+#Author: Apprehensive-Salt-42
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnhfq7/nscc2021801_please_dont_email_sec/](https://www.reddit.com/r/Superstonk/comments/mnhfq7/nscc2021801_please_dont_email_sec/)
 
 
 PLEASE DON'T DO THIS.

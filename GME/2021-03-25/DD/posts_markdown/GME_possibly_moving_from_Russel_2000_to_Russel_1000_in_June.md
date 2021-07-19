@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)
+#Title: GME possibly moving from Russel 2000 to Russel 1000 in June.
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)
 
 
 Due to GME's current market cap / stock price, GME is very likely to be eligible to join the Russel 1000 in June.
@@ -8,7 +9,7 @@ This Index/ETF is the bigger brother of the Russel 2000 and GME joining it will 
 
 &#x200B;
 
-[Hodl on gorillers and gorilettes. Be unshakeable. Ignore the trolls. Be strong. GME will make you into Spartans.](https://preview.redd.it/ao7gta5n89p61.jpg?width=640&format=pjpg&auto=webp&s=d10a72b7542e7867afb34ddf5a3c3c2f9ddf1ced)
+![Hodl on gorillers and gorilettes. Be unshakeable. Ignore the trolls. Be strong. GME will make you into Spartans.](https://preview.redd.it/ao7gta5n89p61.jpg?width=640&format=pjpg&auto=webp&s=d10a72b7542e7867afb34ddf5a3c3c2f9ddf1ced)
 
 &#x200B;
 
@@ -33,7 +34,7 @@ Because if you're part of an index like the SPY, you can't be volatile like that
 
 &#x200B;
 
-[TSLA SPY JOINING SPY... get it... please i need help...](https://preview.redd.it/r1bxya3j59p61.png?width=640&format=png&auto=webp&s=3b636621197255b65f4eb6b81244c49f637d8fce)
+![TSLA SPY JOINING SPY... get it... please i need help...](https://preview.redd.it/r1bxya3j59p61.png?width=640&format=png&auto=webp&s=3b636621197255b65f4eb6b81244c49f637d8fce)
 
 &#x200B;
 

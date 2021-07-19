@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mumdnt/synopsis_for_04202021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mumdnt/synopsis_for_04202021_what_we_need_to_know_before/)
+#Title: Synopsis for 04-20-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mumdnt/synopsis_for_04202021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mumdnt/synopsis_for_04202021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -66,7 +67,7 @@ good thread about MacD
 
 &#x200B;
 
-[Not sure if the correlation is caustation](https://preview.redd.it/pkf3emfliau61.png?width=828&format=png&auto=webp&s=bf929a22cad13a01a95537f3c0dc3f79c9536117)
+![Not sure if the correlation is caustation](https://preview.redd.it/pkf3emfliau61.png?width=828&format=png&auto=webp&s=bf929a22cad13a01a95537f3c0dc3f79c9536117)
 
 # 60% of the time time it works a 100% of the time
 
@@ -282,6 +283,6 @@ backups:
 
 [https://twitter.com/warden\_elite](https://twitter.com/warden_elite)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 And I'll be posting updates as they happen here:

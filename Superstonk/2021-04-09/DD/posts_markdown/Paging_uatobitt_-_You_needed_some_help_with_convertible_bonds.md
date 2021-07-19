@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/](https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/)
+#Title: Paging u/atobitt - You needed some help with convertible bonds?...
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/](https://www.reddit.com/r/Superstonk/comments/mnizvo/paging_uatobitt_you_needed_some_help_with/)
 
 
 &#x200B;
@@ -122,7 +123,7 @@ He waited until the spread between the two normalized (narrowed) and reversed po
 
 &#x200B;
 
-In many “stock market crashes” the principle reason for the dramatic decline is liquidity. An otherwise relatively normal down day becomes a disaster as more and more people decide to sell and less people want to buy, driving prices down rapidly and encouraging the cycle to continue. [Image](http://image.minyanville.com/assets/FCK_Jan2013/images/Josh/buysell.jpg)
+In many “stock market crashes” the principle reason for the dramatic decline is liquidity. An otherwise relatively normal down day becomes a disaster as more and more people decide to sell and less people want to buy, driving prices down rapidly and encouraging the cycle to continue. ![Image](http://image.minyanville.com/assets/FCK_Jan2013/images/Josh/buysell.jpg)
 
 &#x200B;
 
@@ -138,7 +139,7 @@ Ironically, he would have been short vol due to this and only ended up with a pr
 
 WRINKLESSSS
 
-![link to the above](https://www.quora.com/Why-was-Ken-Griffin-so-successful-with-his-convertible-bond-arbitrage-strategy-in-1987)
+[link to the above](https://www.quora.com/Why-was-Ken-Griffin-so-successful-with-his-convertible-bond-arbitrage-strategy-in-1987)
 
 &#x200B;
 

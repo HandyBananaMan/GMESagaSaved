@@ -1,5 +1,6 @@
-# Author: hell-mitc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/](https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/)
+#Title: Data. Or is it Data? Someone Has Tied-Up the Entire Float in Derivatives in Less Than 3 Weeks.
+#Author: hell-mitc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/](https://www.reddit.com/r/Superstonk/comments/o7c9n9/data_or_is_it_data_someone_has_tiedup_the_entire/)
 
 
 **GME GO BRRR**
@@ -32,13 +33,13 @@ So I took all the data and compared it day over day. And it gave me the constant
 
 I have also noticed a huge change in OTM contracts. This means one of two things. Either someone is buying to close their position ever so slowly to not raise suspicion, or someone is exercising DEEP OTM options to gain SOME shares and hopefully hedge their current fucked up position. 
 
-[Written\/Opened](https://preview.redd.it/pyvuidytta771.png?width=193&format=png&auto=webp&s=afbe9ecf0c1b1b45314a7929d802f0b57c7de2a9)
+![Written\/Opened](https://preview.redd.it/pyvuidytta771.png?width=193&format=png&auto=webp&s=afbe9ecf0c1b1b45314a7929d802f0b57c7de2a9)
 
-[Written\/Opened](https://preview.redd.it/v9mua9jota771.png?width=480&format=png&auto=webp&s=f3d4300f441717b24e6e73b9f41c5476a90c556e)
+![Written\/Opened](https://preview.redd.it/v9mua9jota771.png?width=480&format=png&auto=webp&s=f3d4300f441717b24e6e73b9f41c5476a90c556e)
 
-[Exercised\/Closed](https://preview.redd.it/1txrrypzta771.png?width=229&format=png&auto=webp&s=7795d01b78caa99f376d11777d6b965e3e5b691d)
+![Exercised\/Closed](https://preview.redd.it/1txrrypzta771.png?width=229&format=png&auto=webp&s=7795d01b78caa99f376d11777d6b965e3e5b691d)
 
-[Exercised\/Closed](https://preview.redd.it/l4mwd1e9ua771.png?width=480&format=png&auto=webp&s=e1bd3656fe628f800adf8ed3d8d66f2fb00af154)
+![Exercised\/Closed](https://preview.redd.it/l4mwd1e9ua771.png?width=480&format=png&auto=webp&s=e1bd3656fe628f800adf8ed3d8d66f2fb00af154)
 
 Which leads to my next point. Someone besides Citadel, Sus, and Melvin are closing positions slowly to throttle the rocket. THIS HAS TO BE THE BANKS. THERE ARE NO OTHER ENTITIES WITH HUGE, HIDDEN, PROPRIETARY TRADING POSTIONS.
 
@@ -46,15 +47,15 @@ This is why there are late night meetings. Figure heads like Gensler, Powell, Ye
 
 &#x200B;
 
-[OTM Exercised\/Closed](https://preview.redd.it/vo071qlvua771.png?width=210&format=png&auto=webp&s=dcf458a216d0c0859ed86ee0c3b3380432d2170d)
+![OTM Exercised\/Closed](https://preview.redd.it/vo071qlvua771.png?width=210&format=png&auto=webp&s=dcf458a216d0c0859ed86ee0c3b3380432d2170d)
 
-[OTM Closed\/Exercised](https://preview.redd.it/wchhoch9va771.png?width=480&format=png&auto=webp&s=5ad87617f03aa60117ff1a68ce9ea9881665b42a)
+![OTM Closed\/Exercised](https://preview.redd.it/wchhoch9va771.png?width=480&format=png&auto=webp&s=5ad87617f03aa60117ff1a68ce9ea9881665b42a)
 
 Want to see something else fucked up? The total amount of contracts OPENED in the last three weeks, represents almost the entire free float. Lol. Even the closed positions is no where near the equivalent of these shares. So, how do you write a bunch of new strikes to change your positions? NAKED OF COURSE! Because we own the float (obviously, bankie retard), and you guys are trying to hide your junk. And failing. We found you. 
 
 &#x200B;
 
-[Total shares in \<3 weeks tied up in derivatives](https://preview.redd.it/bn44yiw0xa771.png?width=666&format=png&auto=webp&s=9bd91a48b9fa37062eef68df5b7e3b07abad4f5e)
+![Total shares in \<3 weeks tied up in derivatives](https://preview.redd.it/bn44yiw0xa771.png?width=666&format=png&auto=webp&s=9bd91a48b9fa37062eef68df5b7e3b07abad4f5e)
 
 **IN SHORT**
 
@@ -76,6 +77,6 @@ References
 
 [https://oic.ivolatility.com/](https://oic.ivolatility.com/)
 
-![https://www.theocc.com/](https://www.theocc.com/)
+[https://www.theocc.com/](https://www.theocc.com/)
 
 Edit 1. Sorry to all the gen x people who've lived with this for longer. I got you.

@@ -1,5 +1,6 @@
-# Author: animasoul
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/](https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/)
+#Title: Benford’s Law test shows high likelihood of fraudulent manipulation of GameStop prices
+#Author: animasoul
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/](https://www.reddit.com/r/Superstonk/comments/nnvmtj/benfords_law_test_shows_high_likelihood_of/)
 
 
 **Update:** Following responses to criticism and kind advice, this version - except for the **Counter to the Counter DD** \- is now invalid and replaced by the **"Jumbo Compilation"** over at DDintoGME subreddit.
@@ -28,11 +29,11 @@ If you’re wondering why numbers don’t appear randomly, it is basically becau
 
 &#x200B;
 
-[Go to YT - no links](https://preview.redd.it/a0b1ym9f94271.png?width=822&format=png&auto=webp&s=20095aec0e0f2d97ad23ad53e0e2845b0d6951e6)
+![Go to YT - no links](https://preview.redd.it/a0b1ym9f94271.png?width=822&format=png&auto=webp&s=20095aec0e0f2d97ad23ad53e0e2845b0d6951e6)
 
 Here’s a table of the distribution for reference. I’m just going to look at the **first digit** distribution in this post.
 
-[Benford's Law frequency table](https://preview.redd.it/zk6nzvmj94271.png?width=467&format=png&auto=webp&s=e6c22e10759d620e3d9cf53090db6cb49a978eeb)
+![Benford's Law frequency table](https://preview.redd.it/zk6nzvmj94271.png?width=467&format=png&auto=webp&s=e6c22e10759d620e3d9cf53090db6cb49a978eeb)
 
 # Benford’s Law and some famous Ponzi schemes and fraud
 
@@ -40,17 +41,17 @@ Here’s an example of normal and manipulated hedge fund data. You can see that 
 
 &#x200B;
 
-[Source: Frunza \(2016\), Introduction to the Theories and Varieties of Modern Crime in Financial Markets](https://preview.redd.it/wx6ah28u94271.png?width=414&format=png&auto=webp&s=c5b1104004ee86b6c5c1aa79984fd40fb3d0cff7)
+![Source: Frunza \(2016\), Introduction to the Theories and Varieties of Modern Crime in Financial Markets](https://preview.redd.it/wx6ah28u94271.png?width=414&format=png&auto=webp&s=c5b1104004ee86b6c5c1aa79984fd40fb3d0cff7)
 
 Here’s another comparison – this time one is a normal bank and one is a failed bank suspected of fraud.
 
 &#x200B;
 
-[Source: John P. O’Keefe et al. \(2017\) Offsite Detection of Insider Abuse and Bank Fraud among U.S. Failed Banks 1989-2015, Federal Deposit Insurance Corporation](https://preview.redd.it/pn9h8as7a4271.png?width=692&format=png&auto=webp&s=2f65c600cee22446bdacfc17247d689847f5f547)
+![Source: John P. O’Keefe et al. \(2017\) Offsite Detection of Insider Abuse and Bank Fraud among U.S. Failed Banks 1989-2015, Federal Deposit Insurance Corporation](https://preview.redd.it/pn9h8as7a4271.png?width=692&format=png&auto=webp&s=2f65c600cee22446bdacfc17247d689847f5f547)
 
 &#x200B;
 
-[Source: John P. O’Keefe et al. \(2017\) Offsite Detection of Insider Abuse and Bank Fraud among U.S. Failed Banks 1989-2015, Federal Deposit Insurance Corporation](https://preview.redd.it/a6oh0m79a4271.png?width=691&format=png&auto=webp&s=f0b06db340124ecbf40b62d3b528958b2a5da47d)
+![Source: John P. O’Keefe et al. \(2017\) Offsite Detection of Insider Abuse and Bank Fraud among U.S. Failed Banks 1989-2015, Federal Deposit Insurance Corporation](https://preview.redd.it/a6oh0m79a4271.png?width=691&format=png&auto=webp&s=f0b06db340124ecbf40b62d3b528958b2a5da47d)
 
 &#x200B;
 
@@ -58,7 +59,7 @@ For kicks, here's **Enron** too.
 
 &#x200B;
 
-[Source: towardsdatascience DOT com](https://preview.redd.it/c854xtpxa4271.png?width=708&format=png&auto=webp&s=2e9babcf4232a5d242afb8a337942c1eb843bd0d)
+![Source: towardsdatascience DOT com](https://preview.redd.it/c854xtpxa4271.png?width=708&format=png&auto=webp&s=2e9babcf4232a5d242afb8a337942c1eb843bd0d)
 
 # Here are the GameStop charts
 
@@ -68,21 +69,21 @@ I pulled the historical daily closing prices of GME from Yahoo Finance and gener
 
 &#x200B;
 
-[Max historical data](https://preview.redd.it/6kgcbzn8b4271.png?width=3372&format=png&auto=webp&s=a1594d672dc1e2331f6d7302f7b2922cf925fe51)
+![Max historical data](https://preview.redd.it/6kgcbzn8b4271.png?width=3372&format=png&auto=webp&s=a1594d672dc1e2331f6d7302f7b2922cf925fe51)
 
 &#x200B;
 
-[5 years](https://preview.redd.it/4j756b3bb4271.png?width=3349&format=png&auto=webp&s=7efe121a05fa6219bceb93aa27e260dede5a98b2)
+![5 years](https://preview.redd.it/4j756b3bb4271.png?width=3349&format=png&auto=webp&s=7efe121a05fa6219bceb93aa27e260dede5a98b2)
 
 &#x200B;
 
-[15 months](https://preview.redd.it/gr4qek0db4271.png?width=3671&format=png&auto=webp&s=95ac44a262c25e4eace7daf216c64fc17e00e6c2)
+![15 months](https://preview.redd.it/gr4qek0db4271.png?width=3671&format=png&auto=webp&s=95ac44a262c25e4eace7daf216c64fc17e00e6c2)
 
 I can’t be bothered to share my Excel file right now but here is a screenshot and if doubting apes really want the file with all the numbers and to look at the formulas, let me know and I can do this.
 
 &#x200B;
 
-[Raw data in Excel](https://preview.redd.it/fmwsxznib4271.png?width=991&format=png&auto=webp&s=2c1f1844dd39078d62c752992aabf9b876043d28)
+![Raw data in Excel](https://preview.redd.it/fmwsxznib4271.png?width=991&format=png&auto=webp&s=2c1f1844dd39078d62c752992aabf9b876043d28)
 
 # TLDR
 
@@ -108,7 +109,7 @@ I am adding this because it is coming up in comments - i.e. it is disputed that 
 
 OK in response to comments here is a quick and dirty chart of **Google** all time closing prices. It's not perfect but generally follows the shape better than GME, especially the more recent charts. It even starts and ends perfectly. Intuitively, you would expect that it is harder to manipulate Google over its entire lifetime, although I wouldn't exclude manipulation in any stock when you take into account the context that manipulation of financial markets is probably the norm rather than the exception:
 
-[Google blue\/Benford orange - couldn't be bothered to make it the same as my other prettier charts](https://preview.redd.it/jjt3ogu7v4271.png?width=1653&format=png&auto=webp&s=17c88133990305bddc6b96c01988f7769a03f1f3)
+![Google blue\/Benford orange - couldn't be bothered to make it the same as my other prettier charts](https://preview.redd.it/jjt3ogu7v4271.png?width=1653&format=png&auto=webp&s=17c88133990305bddc6b96c01988f7769a03f1f3)
 
 # Last edit?
 
@@ -128,7 +129,7 @@ Am adding this on behalf of u/RogueMaven who doesn’t have enough karma to post
 
 See *Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection*, 2012 by Mark J. Nigrini and Joseph T. Wells
 
-[Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells, page 12](https://preview.redd.it/f9abus3ajb271.png?width=740&format=png&auto=webp&s=610fb11e97a2cbc534678a335e5e1d3d3058b019)
+![Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells, page 12](https://preview.redd.it/f9abus3ajb271.png?width=740&format=png&auto=webp&s=610fb11e97a2cbc534678a335e5e1d3d3058b019)
 
 This is a book entirely dedicated to Benford's Law as a method.
 
@@ -146,11 +147,11 @@ Elsewhere in Nigrini's book, he uses the first-digit test on a small data set of
 
 &#x200B;
 
-[Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells](https://preview.redd.it/oc2bkrkpob271.png?width=756&format=png&auto=webp&s=2cdd20689d08cdfa230e5bca6184192930fce348)
+![Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells](https://preview.redd.it/oc2bkrkpob271.png?width=756&format=png&auto=webp&s=2cdd20689d08cdfa230e5bca6184192930fce348)
 
 &#x200B;
 
-[Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells, p. 191](https://preview.redd.it/i8b8ydtnpb271.png?width=749&format=png&auto=webp&s=7c5af0b1369dfc587ca595f2c05cce8d94179f5f)
+![Benford's Law : Applications for Forensic Accounting, Auditing, and Fraud Detection, 2012 by Mark J. Nigrini and Joseph T. Wells, p. 191](https://preview.redd.it/i8b8ydtnpb271.png?width=749&format=png&auto=webp&s=7c5af0b1369dfc587ca595f2c05cce8d94179f5f)
 
 &#x200B;
 

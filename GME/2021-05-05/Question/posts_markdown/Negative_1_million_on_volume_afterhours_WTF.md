@@ -1,5 +1,6 @@
-# Author: SpeedReactor
-# Post URL: [https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/](https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/)
+#Title: Negative 1 million on volume afterhours?? WTF
+#Author: SpeedReactor
+#Post URL: [https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/](https://www.reddit.com/r/GME/comments/n5pj2q/negative_1_million_on_volume_afterhours_wtf/)
 
 
 Ok I have no idea what this is but need share it. I will do some digging to see what this "glitch" is. But it totally messed my charts for the day and at first glance should not be possible?? Unless we are deleting shares now?
@@ -16,7 +17,7 @@ Edit3(Final): Ok so I found something! Looks like their was issues reported earl
 
 The Consolidated Tape Association (CTA) oversees the dissemination of real-time trade and quote information in New York Stock Exchange LLC (Network A) and Bats, NYSE Arca, NYSE American and other regional exchange (Network B) listed securities. Since the late 1970s, all SEC-registered exchanges and market centers that trade Network A or Network B securities send their trades and quotes to a central consolidator where the Consolidated Tape System (CTS) and Consolidated Quote System (CQS) data streams are produced and distributed worldwide. . 
 
-Alert issued - ![https://www.ctaplan.com/alerts#110000353886](https://www.ctaplan.com/alerts#110000353886) 
+Alert issued - [https://www.ctaplan.com/alerts#110000353886](https://www.ctaplan.com/alerts#110000353886) 
 
 &#x200B;
 

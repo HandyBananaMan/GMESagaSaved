@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/](https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/)
+#Title: Joseph Saveri Law Firm Appointed Co-Lead Counsel In January 2021 Short Squeeze Trading Litigation
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/](https://www.reddit.com/r/DDintoGME/comments/nh5j74/joseph_saveri_law_firm_appointed_colead_counsel/)
 
 
 \--- Start of article (link to it posted at the end; Defendants, 35 of them, also listed) ---
@@ -32,7 +33,7 @@ The Firm's first complaint was entitled *Cheng v. Ally Financial Inc.,* case num
 
 Link to above article: [https://www.prnewswire.com/news-releases/joseph-saveri-law-firm-appointed-co-lead-counsel-in-january-2021-short-squeeze-trading-litigation-301295017.html](https://www.prnewswire.com/news-releases/joseph-saveri-law-firm-appointed-co-lead-counsel-in-january-2021-short-squeeze-trading-litigation-301295017.html)
 
-Link to the *Cheng v. Ally Financial Inc.,* case number 21-cv-00781: ![https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf](https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf)
+Link to the *Cheng v. Ally Financial Inc.,* case number 21-cv-00781: [https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf](https://f.hubspotusercontent30.net/hubfs/6398037/0001%20-%202021-02-01%20Complaint.pdf)
 
 &#x200B;
 

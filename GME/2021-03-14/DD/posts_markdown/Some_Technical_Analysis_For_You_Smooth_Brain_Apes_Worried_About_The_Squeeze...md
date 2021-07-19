@@ -1,5 +1,6 @@
-# Author: Spicy__Sriracha
-# Post URL: [https://www.reddit.com/r/GME/comments/m4pfnh/some_technical_analysis_for_you_smooth_brain_apes/](https://www.reddit.com/r/GME/comments/m4pfnh/some_technical_analysis_for_you_smooth_brain_apes/)
+#Title: Some Technical Analysis For You Smooth Brain Apes Worried About The Squeeze Not Squozing
+#Author: Spicy__Sriracha
+#Post URL: [https://www.reddit.com/r/GME/comments/m4pfnh/some_technical_analysis_for_you_smooth_brain_apes/](https://www.reddit.com/r/GME/comments/m4pfnh/some_technical_analysis_for_you_smooth_brain_apes/)
 
 
 # This is not financial advice, do your own DD. There is no date when the squeeze will squoze as long as we HODL the shorts will never win regardless of what the price is.
@@ -34,4 +35,4 @@ But what do I know, I'm a dumb ape.
 
 &#x200B;
 
-Edit: Heres a ![link](https://docs.google.com/document/d/1SXYt5tNVMFA6n7uel6ZONBnwM8CmIPnkZlIPTjrODlo/edit?usp=sharing) to my google doc if you want to read it
+Edit: Heres a [link](https://docs.google.com/document/d/1SXYt5tNVMFA6n7uel6ZONBnwM8CmIPnkZlIPTjrODlo/edit?usp=sharing) to my google doc if you want to read it

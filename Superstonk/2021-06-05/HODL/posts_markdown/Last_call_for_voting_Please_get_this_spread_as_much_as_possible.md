@@ -1,5 +1,6 @@
-# Author: pinhero100
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nspuxa/last_call_for_voting_please_get_this_spread_as/](https://www.reddit.com/r/Superstonk/comments/nspuxa/last_call_for_voting_please_get_this_spread_as/)
+#Title: Last call for voting. Please get this spread as much as possible.
+#Author: pinhero100
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nspuxa/last_call_for_voting_please_get_this_spread_as/](https://www.reddit.com/r/Superstonk/comments/nspuxa/last_call_for_voting_please_get_this_spread_as/)
 
 
 Last call for voting is within the next couple of days. 

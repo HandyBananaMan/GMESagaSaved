@@ -1,10 +1,11 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ckta/change_my_mind_the_fact_that_on_any_given_day_you/](https://www.reddit.com/r/Superstonk/comments/o6ckta/change_my_mind_the_fact_that_on_any_given_day_you/)
+#Title: ****Change my mind: The fact that on any given day you can erase retail's/smaller firms buying/selling power through OTC's and Dark Pools means that the big guys can manipulate any stock/market at any time. The entire market system needs to be reviewed for loopholes and fixed. ***
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ckta/change_my_mind_the_fact_that_on_any_given_day_you/](https://www.reddit.com/r/Superstonk/comments/o6ckta/change_my_mind_the_fact_that_on_any_given_day_you/)
 
 
 &#x200B;
 
-[Dark Pools...](https://preview.redd.it/a6mhlqepi0771.jpg?width=570&format=pjpg&auto=webp&s=ebb1bf94d1ea8b9375b7d19ad25c219c6a9d1c1f)
+![Dark Pools...](https://preview.redd.it/a6mhlqepi0771.jpg?width=570&format=pjpg&auto=webp&s=ebb1bf94d1ea8b9375b7d19ad25c219c6a9d1c1f)
 
 &#x200B;
 

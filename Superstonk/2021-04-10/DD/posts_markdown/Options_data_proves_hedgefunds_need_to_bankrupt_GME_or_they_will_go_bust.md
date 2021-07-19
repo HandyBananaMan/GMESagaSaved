@@ -1,5 +1,6 @@
-# Author: AlternativeNo2917
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/](https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/)
+#Title: Options data proves hedgefunds need to bankrupt GME or they will go bust.
+#Author: AlternativeNo2917
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/](https://www.reddit.com/r/Superstonk/comments/mo7t8c/options_data_proves_hedgefunds_need_to_bankrupt/)
 
 
 TLDR - Options data show that the hedgefunds are still fucked and the original plan for bankrupting GME hasn't changed. Since I've become more active on reddit either making posts, commenting more or responding to DMs I've started getting threatening messages and "insulting" comments, these do not bother me and the tone of my posts will now include a lot more sarcasm and mocking in response, please enjoy. 
@@ -18,7 +19,7 @@ I've gone through all the option data on yahoo finance for this coming week whic
 For all you apes that don't click links don't worry I've got screenshots, I'm used to you lazy fucks now.   
 
 
-[$0.5 - $10 strike price with OI of 228,077 ](https://preview.redd.it/cfeto1o95ds61.png?width=1104&format=png&auto=webp&s=9b6e575a3a400d6e5c57128873f63637edd5eb0a)
+![$0.5 - $10 strike price with OI of 228,077 ](https://preview.redd.it/cfeto1o95ds61.png?width=1104&format=png&auto=webp&s=9b6e575a3a400d6e5c57128873f63637edd5eb0a)
 
 It's likely these options were placed a long time ago so the premium that would've been paid on these puts is likely in the millions of bananas. Hedgefunds go ouch. 
 
@@ -26,7 +27,7 @@ This quite simply is why we keep seeing GME attacked in the news, why Mevlin lie
 
 &#x200B;
 
-[$11 - $30 strike price with OI of 72,842](https://preview.redd.it/8xwjxs3s7ds61.png?width=1076&format=png&auto=webp&s=61624af6a0fed3eb36694ba9872a2631b0b23fbf)
+![$11 - $30 strike price with OI of 72,842](https://preview.redd.it/8xwjxs3s7ds61.png?width=1076&format=png&auto=webp&s=61624af6a0fed3eb36694ba9872a2631b0b23fbf)
 
 So lets quickly total that up... 300,919 puts with OI for $30 or less... let me just quickly check the price again... $158.36
 
@@ -40,13 +41,13 @@ I just hope for their sake that they don't have many more of these positions oth
 
 &#x200B;
 
-[$31 - $50 strike price with OI of 48,542](https://preview.redd.it/mszn8fj09ds61.png?width=1076&format=png&auto=webp&s=12d240d06bbe2399c79e9ad73b57127411810624)
+![$31 - $50 strike price with OI of 48,542](https://preview.redd.it/mszn8fj09ds61.png?width=1076&format=png&auto=webp&s=12d240d06bbe2399c79e9ad73b57127411810624)
 
 You think this will go below $50 per share!?!? With Captain Cohen in charge???
 
 &#x200B;
 
-[Mad millionaires calling up Gabe and Kenny G ](https://preview.redd.it/c1wfkqq9ads61.png?width=1136&format=png&auto=webp&s=4e42e8a3526fe9b546ee0e7a73fcba7755ba0f18)
+![Mad millionaires calling up Gabe and Kenny G ](https://preview.redd.it/c1wfkqq9ads61.png?width=1136&format=png&auto=webp&s=4e42e8a3526fe9b546ee0e7a73fcba7755ba0f18)
 
 I keep seeing news reports about reddit being bad for the market users say stupid things like "We like the stock" "Apes together strong" and Citadel spend billions on order flow to know exactly what everyone here is doing so that they can counter it and profit. Yet here we are... shills reading this please ask Kenny, Gabe and any other dumb dumb who keeps betting against GME 
 
@@ -58,13 +59,13 @@ Anyway enough sass (for now) back to the data.
 
 &#x200B;
 
-[$55 - $145 strike price with OI 46,769](https://preview.redd.it/yqdk0ljfbds61.png?width=1066&format=png&auto=webp&s=7391a378409cc41b03ba6b02514dc02edb1c7f97)
+![$55 - $145 strike price with OI 46,769](https://preview.redd.it/yqdk0ljfbds61.png?width=1066&format=png&auto=webp&s=7391a378409cc41b03ba6b02514dc02edb1c7f97)
 
 Ok so we are at 396,230 puts now and none of them are in the money currently moving into next week....
 
 &#x200B;
 
-[Pls shills, ask the dumb dumbs. ](https://preview.redd.it/7u5u2qoicds61.jpg?width=600&format=pjpg&auto=webp&s=aa56a7ee6adc1609d6d273d200c5aa4a72f2a9e3)
+![Pls shills, ask the dumb dumbs. ](https://preview.redd.it/7u5u2qoicds61.jpg?width=600&format=pjpg&auto=webp&s=aa56a7ee6adc1609d6d273d200c5aa4a72f2a9e3)
 
 Now to add up all the puts that expire this week on April 16th, there are **422,649** with a large majority of them currently being out of the money. So expect more fuckery and the price to be driven down further but remember that the play is BANKRUPT GME. That was the goal at the start for these hedgefunds and just looking at the insane amount of puts just this week we can see that hasn't changed. 
 
@@ -75,7 +76,7 @@ For the moon boys there are 33,300 calls on GME being $800 or higher by Friday 1
 In summary, there really isn't a need for more DD... Hedgefunds put the house, the yacht, the instagram model wives all on GME going bankrupt and it just isn't going to happen. GME recently reported that preliminary sales are up 11% from the same time last year.   
 
 
-![https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html](https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html)
+[https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html](https://finance.yahoo.com/news/gamestop-announces-preliminary-sales-results-100000741.html)
 
 Remember that they have also massively reduced costs by moving to ecommerce and closing underpreforming stores, they could very well be on pace to have a more profitable start to the year in 2021 than they did in 2019 precovid and this is just the beginning for the Cohen era for GME. 
 

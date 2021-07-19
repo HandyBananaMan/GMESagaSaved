@@ -1,5 +1,6 @@
-# Author: dunnrp
-# Post URL: [https://www.reddit.com/r/GME/comments/m96s1i/i_hope_ryan_cohen_understands_that_no_matter_what/](https://www.reddit.com/r/GME/comments/m96s1i/i_hope_ryan_cohen_understands_that_no_matter_what/)
+#Title: I hope Ryan Cohen understands that no matter what happens, long term, we will be invested with GameStop.
+#Author: dunnrp
+#Post URL: [https://www.reddit.com/r/GME/comments/m96s1i/i_hope_ryan_cohen_understands_that_no_matter_what/](https://www.reddit.com/r/GME/comments/m96s1i/i_hope_ryan_cohen_understands_that_no_matter_what/)
 
 
 Edit: for the insane amount of shills down voting this, it's still staying above zero. 

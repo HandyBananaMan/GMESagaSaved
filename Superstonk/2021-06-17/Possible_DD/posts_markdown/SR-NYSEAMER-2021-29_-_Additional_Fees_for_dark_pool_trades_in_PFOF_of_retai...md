@@ -1,5 +1,6 @@
-# Author: Soulsauce042689
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1qlgl/srnyseamer202129_additional_fees_for_dark_pool/](https://www.reddit.com/r/Superstonk/comments/o1qlgl/srnyseamer202129_additional_fees_for_dark_pool/)
+#Title: SR-NYSEAMER-2021-29 - Additional Fees for dark pool trades in PFOF of retail orders.
+#Author: Soulsauce042689
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1qlgl/srnyseamer202129_additional_fees_for_dark_pool/](https://www.reddit.com/r/Superstonk/comments/o1qlgl/srnyseamer202129_additional_fees_for_dark_pool/)
 
 
 https://www.sec.gov/rules/sro/nyseamer/2021/34-92153.pdf

@@ -1,5 +1,6 @@
-# Author: ChiefNorske
-# Post URL: [https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/](https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/)
+#Title: No Coincidences.
+#Author: ChiefNorske
+#Post URL: [https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/](https://www.reddit.com/r/GME/comments/o5hejo/no_coincidences/)
 
 
 I would just like to preface this post by saying that none of this is financial advice. What you may read below could potentially make you lose braincells, and that there are No Coincidences.
@@ -36,7 +37,7 @@ I don't want to give hype for the next 2 weeks, but there are certain things tha
 
 # 3. Macro Economics and RRP go boom
 
-Recently on this sub there has been an amazing influx of Macro-Economic oriented DD. In this part of my post I am going to be referencing the most recent post from criand. ![Link Here](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/).
+Recently on this sub there has been an amazing influx of Macro-Economic oriented DD. In this part of my post I am going to be referencing the most recent post from criand. [Link Here](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/).
 
 Long story short, the fed is in a very tough scenario. They're in the process of having a collateral crisis where things can get very very tricky come the Quarter End.. When is that you ask? (June 30th). Next Wednesday. Referring to the Criand post, at quarter end, RRP usually reach all time highs, and hit levels 2x-4x of what the "normal" is pre quarter end. Criand also references the time when there was so much demand and so little supply for RRP that there was a NEGATIVE interest rate. The collateral was so valuable and they needed it so bad on their balance sheets that they would pay for it. Nuts Buts. If you're connecting the dots in the chronological order as I'm writing it, good for you, you deserve an extra cookie, but if you aren't, don't fear for I will connect them all  in the end. :)
 

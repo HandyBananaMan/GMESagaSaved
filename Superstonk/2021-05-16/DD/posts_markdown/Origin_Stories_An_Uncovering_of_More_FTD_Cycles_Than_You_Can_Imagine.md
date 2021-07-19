@@ -1,5 +1,6 @@
-# Author: Suspicious-Singer243
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/)
+#Title: Origin Stories: An Uncovering of More FTD Cycles Than You Can Imagine
+#Author: Suspicious-Singer243
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/](https://www.reddit.com/r/Superstonk/comments/ndzxdh/origin_stories_an_uncovering_of_more_ftd_cycles/)
 
 
 It been well proven that GameStop price action experiences the effects of a 21-day Failure to Deliver (FTD) cycle. To catch some up to speed, here’s Hank:
@@ -10,7 +11,7 @@ It been well proven that GameStop price action experiences the effects of a 21-d
 
 The result of this action, as showcased by the wonderfully created visual by [u/1mag1n3\_cgh](https://www.reddit.com/user/1mag1n3_cgh/), is a significant price increase on the 21st day.
 
-[Massive increases each 21st day](https://preview.redd.it/afzyc5ht3kz61.png?width=624&format=png&auto=webp&s=182a6d488aa855434746841106e93e255f410220)
+![Massive increases each 21st day](https://preview.redd.it/afzyc5ht3kz61.png?width=624&format=png&auto=webp&s=182a6d488aa855434746841106e93e255f410220)
 
 **But… what if I were to tell you that this is only a fraction of the story?** This DD serves to demonstrate that the prior articulation of a 21 day cycle is only slightly correct. In the truest sense of the phrase, but wait… there’s more.
 
@@ -38,7 +39,7 @@ Here is my laughable crayon drawing identifying each of the potential 21-day FTD
 
 &#x200B;
 
-[Yeah, I'm big timin' with the 64 color set](https://preview.redd.it/ckhm8a9k8kz61.png?width=1920&format=png&auto=webp&s=3723f0020d990d771f5c623f58260daa3759a70f)
+![Yeah, I'm big timin' with the 64 color set](https://preview.redd.it/ckhm8a9k8kz61.png?width=1920&format=png&auto=webp&s=3723f0020d990d771f5c623f58260daa3759a70f)
 
 Want just the cycles? A'ight. I got you. (Edit: changed ~~dates~~ to cycles)
 

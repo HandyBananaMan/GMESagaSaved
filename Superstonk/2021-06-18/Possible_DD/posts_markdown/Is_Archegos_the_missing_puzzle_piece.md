@@ -1,5 +1,6 @@
-# Author: taimpeng
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/](https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/)
+#Title: Is Archegos the missing puzzle piece?
+#Author: taimpeng
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/](https://www.reddit.com/r/Superstonk/comments/o2i69k/is_archegos_the_missing_puzzle_piece/)
 
 
 I've had a burning question in my mind planted a few days ago when I stumbled upon [a comment I made](https://old.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/h1vxwji/) that was [screen-shotted, submitted, and earned more karma](https://old.reddit.com/r/Superstonk/comments/o0qbuq/this_comment_needs_more_exposure_may_be_why_005/h1wpar5/) and awards than my account had accumulated over the last 7 years of casual Redditing.
@@ -12,7 +13,7 @@ I think Archegos was actually effectively short $GME, died on January 27th (poss
 
 I'll cut to the chase because it's late. I have two pieces of primary evidence in support of this:
 
-1) All the news reports list two stocks Archegos had exposure to ('exposure' as a description could go either way, short or long) via total return swaps. Pull up the YTD charts for these stocks and check out what they've done since January: [VIAC](https://www.google.com/search?q=%24viac), ![DISCA](https://www.google.com/search?q=DISCA+price). Also, looking at March against the YTD graphs look a hell of a lot more like a short squeeze that *ended* on March 26th than anything else... and with those blips on January 27th-29th for both? Sure, lots of stocks had blips back then as the Superstonk Quants will tell you... but *these blips were price increases, like GME and AMC saw, not decreases like SPY and most of the market saw.*
+1) All the news reports list two stocks Archegos had exposure to ('exposure' as a description could go either way, short or long) via total return swaps. Pull up the YTD charts for these stocks and check out what they've done since January: [VIAC](https://www.google.com/search?q=%24viac), [DISCA](https://www.google.com/search?q=DISCA+price). Also, looking at March against the YTD graphs look a hell of a lot more like a short squeeze that *ended* on March 26th than anything else... and with those blips on January 27th-29th for both? Sure, lots of stocks had blips back then as the Superstonk Quants will tell you... but *these blips were price increases, like GME and AMC saw, not decreases like SPY and most of the market saw.*
 
 Other stocks Archegos reportedly had exposure to include mostly ones I think they were actually long on, like [Farfetch](https://www.google.com/search?q=farfetch+stock) and [Vishop](https://www.google.com/search?&amp;amp;q=Vipshop+stock). Those charts look much more like what I'd naively expect from a bagholder dumping long positions around or up to the date of March 26th.
 
@@ -26,7 +27,7 @@ Links for [Superstonk Thread](https://old.reddit.com/r/Superstonk/comments/nwklb
 
 So, reporting mentions Archegos was under investigation, opened May 26th... Supertstonk [notices and some discussion happens, but we didn't care much because it's not directly GME related.](https://old.reddit.com/r/Superstonk/comments/nlu4jn/justice_department_opens_probe_into_archegos/). Either those are two ends of the same investigation, or it's a pretty fucking big coincidence, especially when you factor in the January 27th bump. I feel like the Superstonk Quants should probably take a look at some of this? To extend the speculation, it's also possible a portion of the late Feb / early March $GME run-up was thus due to Archegos closing positions, and at this point I'm actually starting to think history books will actually cite January 27th as the start of the MOASS, and that we're still currently feeling the reverberations throughout the market in $GME's price (and beyond). If I'm right on that, allow me to be the first to say: "Welcome to the MOASS and I'm sorry it's a lot slower moving than we'd all hoped...", but I'm pretty sure it's still unstoppable.
 
-Anyway, I've got to go get some sleep... I just wanted to dump off some of my preliminary DD results here and report back to everyone: I still don't know what it sounds like when a hedge fund or other financial institution dies in this market, [but I have a hunch that I know what it sounds like when it lies.](https://i.imgur.com/rUUDVM6.png)
+Anyway, I've got to go get some sleep... I just wanted to dump off some of my preliminary DD results here and report back to everyone: I still don't know what it sounds like when a hedge fund or other financial institution dies in this market, ![but I have a hunch that I know what it sounds like when it lies.](https://i.imgur.com/rUUDVM6.png)
 
 **Edit 1:**
 
@@ -54,7 +55,7 @@ I'm pretty convinced even without seeing statistical correlations at this point.
 
 **EDIT 5:** I also wanted to encourage 🦍s to consider buying and holding $GME directly instead of risking anything with dates and CALL options. I've heard reports of 🦍s being paid to *hype GME dates*, and have gotten messages trying to encourage me to look into specific *future* dates. I won't be looking into them, as I'm only interested in past dates and holding real $GME shares. I'm an 🦍 investor, not a speculator. Also, selling 🦍s calls is one way [Options Market Makers can generate phantom shares to keep the game going.](https://old.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/h23ktb8/)
 
-**EDIT 6:** My estimation of them dumping some short positions over ~45 days before the announcement is just casual speculation regarding why announce when they did. The fact that [VIAC](https://www.google.com/search?q=%24viac) and ![DISCA](https://www.google.com/search?q=DISCA+price) prices spiked up and returned to normal right before they pronounced Archegos dead makes me think those were the last positions they exited. I don't think their bag-holders have shed their $GME exposure... but it's all just wild speculation. The only thing I'm pretty sure of is that Archegos died long before March 26th, and I strongly suspect the investigations are related. 
+**EDIT 6:** My estimation of them dumping some short positions over ~45 days before the announcement is just casual speculation regarding why announce when they did. The fact that [VIAC](https://www.google.com/search?q=%24viac) and [DISCA](https://www.google.com/search?q=DISCA+price) prices spiked up and returned to normal right before they pronounced Archegos dead makes me think those were the last positions they exited. I don't think their bag-holders have shed their $GME exposure... but it's all just wild speculation. The only thing I'm pretty sure of is that Archegos died long before March 26th, and I strongly suspect the investigations are related. 
 
 The Quants will hopefully be able to answer the kinds of questions people have about how it relates (or doesn't) to specific stocks.
 

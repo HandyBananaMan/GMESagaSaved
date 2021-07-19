@@ -1,5 +1,6 @@
-# Author: AndyLee168
-# Post URL: [https://www.reddit.com/r/GME/comments/mfj0rc/gme_2021_annual_shareholder_meeting_agm_recalling/](https://www.reddit.com/r/GME/comments/mfj0rc/gme_2021_annual_shareholder_meeting_agm_recalling/)
+#Title: GME 2021 Annual Shareholder Meeting (AGM) + Recalling the shares / IMPORTANT INFO: MUST call ur broker to recall the shares prior to meeting to vote. So... if total ownership of GME shares exceeds number of shares existing, BORROWER OF GME SHARES MUST RETURN SHARES before the registery deadline!
+#Author: AndyLee168
+#Post URL: [https://www.reddit.com/r/GME/comments/mfj0rc/gme_2021_annual_shareholder_meeting_agm_recalling/](https://www.reddit.com/r/GME/comments/mfj0rc/gme_2021_annual_shareholder_meeting_agm_recalling/)
 
 
 https://youtu.be/MhAjmM9CED0

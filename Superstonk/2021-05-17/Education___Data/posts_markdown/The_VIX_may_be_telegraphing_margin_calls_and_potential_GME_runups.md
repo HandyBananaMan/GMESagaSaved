@@ -1,5 +1,6 @@
-# Author: vaseline_sandwich
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/](https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/)
+#Title: The VIX may be telegraphing margin calls and potential GME runups
+#Author: vaseline_sandwich
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/](https://www.reddit.com/r/Superstonk/comments/ned4cd/the_vix_may_be_telegraphing_margin_calls_and/)
 
 
 *First off, this post is not to persuade anyone to invest in anything other than GME.  The VIX is a tool to gauge risk, fear, or stress in the market.  I wouldn't recommend anyone invest in it even under extraordinary circumstances.  And honestly, GME is the perfect hedge against market instability, last time I saw a Bloomberg terminal raw beta was like negative 35.*
@@ -38,7 +39,7 @@ Edit: u/Lanedustin : "I wanted to note that the DTCC may have been saying they d
 
 The second big pop up on the VIX happens on Feb 25th, however the runup on GME doesn't hit hard till March 8th.  I'm unsure why Archegos Capital Management defaulted.  I see a lot of unverified sources saying it was because the Feb runup of GME, but there is no evidence that I have seen, but it makes complete sense to me.  Liquidating positions end of Feb and cover beginning of March.  I would also like to point out the "M" Archegos Capital may have made on the VIX as well.  We may see another spike on the VIX in the next day or so if this is a pattern.
 
-[SOURCE???? WHERE SOURCE? And wen lambo dammit!?](https://preview.redd.it/qcfra2mo0pz61.jpg?width=1037&format=pjpg&auto=webp&s=7f9326f2dc426a88782f4573423df726f4c5ccf9)
+![SOURCE???? WHERE SOURCE? And wen lambo dammit!?](https://preview.redd.it/qcfra2mo0pz61.jpg?width=1037&format=pjpg&auto=webp&s=7f9326f2dc426a88782f4573423df726f4c5ccf9)
 
 Ok, so runup on VIX may potentially be linked to GME. Yeah?
 
@@ -46,7 +47,7 @@ And we just had post from a European Financial News talking about all the margin
 
 Post:  [https://www.reddit.com/r/Superstonk/comments/nb9pon/european\_financial\_news\_is\_reporting\_major\_margin/](https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/)The link:  [https://www.money.it/Fed-repo-miliardi-Wall-Street](https://www.money.it/Fed-repo-miliardi-Wall-Street)  If you can read European :O
 
-Counter DD (updated as of 5/16 and debunked): ![https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter\_dd\_ny\_fed\_400\_bln\_reverse\_repos\_is\_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
+Counter DD (updated as of 5/16 and debunked): [https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter\_dd\_ny\_fed\_400\_bln\_reverse\_repos\_is\_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
 
 Lets take a look at the options expiring Wednesday, 5/19/21:
 

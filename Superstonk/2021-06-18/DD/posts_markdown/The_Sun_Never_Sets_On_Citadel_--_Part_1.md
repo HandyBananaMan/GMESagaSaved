@@ -1,8 +1,9 @@
-# Author: swede_child_of_mine
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/](https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/)
+#Title: The Sun Never Sets On Citadel -- Part 1
+#Author: swede_child_of_mine
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/](https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/)
 
 
-[Hello Superstonk](https://i.redd.it/y39nj0kvo2671.gif)
+![Hello Superstonk](https://i.redd.it/y39nj0kvo2671.gif)
 
 #Preface
 
@@ -50,7 +51,7 @@ Buckle up :)
 
 Take a moment to marvel at how Citadel has installed themselves in [so many markets around the world](https://www.fi-desk.com/market-structure-meet-the-new-market-makers/). **They are Market Makers and/or liquidity providers in nearly every major exchange on earth:** (*Note: my undersrtanding of a liquidity provider is that it’s a bit like a less-powerful MM*)
 
-[Citadel Securities own splash page](https://i.redd.it/tolp2scxfw571.png)
+![Citadel Securities own splash page](https://i.redd.it/tolp2scxfw571.png)
 
 * US/North America: NYSE, NASDAQ, CBOE (not even going to bother with links here, you know they’re there), [Toronto](https://www.tsx.com/trading/toronto-stock-exchange/order-types-and-features/market-maker-program/market-makers-list?id=5)
 * Europe: [London/Ireland](https://www.financemagnates.com/forex/brokers/citadels-technology-arm-posts-30-decline-in-2019-revenue/), Amsterdam[], Frankfurt[]
@@ -71,7 +72,7 @@ So WHY has Citadel strived to achieve such a large footprint across the globe?
 * It’s an essential service so exchanges empower MMs with exclusive powers and responsibilities.
 
 Take a look at the exclusive powers the NYSE gives its DMMs (like a “Super” Market Maker):
-[From the NYSE DMM page](https://i.redd.it/n16pu83yiw571.png)
+![From the NYSE DMM page](https://i.redd.it/n16pu83yiw571.png)
 
 * MMs have *Superpowers* and wield immense control over securities.  
 * Exchanges rely on incentives for winning bids (coupons) as a way of creating competition and fair prices at the exchange.
@@ -85,7 +86,7 @@ Take a look at the exclusive powers the NYSE gives its DMMs (like a “Super” 
 
 * And there are advantages for MMs who perform better and capture more volume – they can leverage the volume to achieve better prices and capture even *more* transactions.
 * You’ve probably seen this chart, but it shows the size that MMs have become:
-[Citadel is almost as big as the CBOE – the main options exchange for the US](https://i.redd.it/idkn9cchpn571.png)
+![Citadel is almost as big as the CBOE – the main options exchange for the US](https://i.redd.it/idkn9cchpn571.png)
  * (Citadel, Virtu, and G1 are all MMs.)
 * The important part about that graphic is the NYSE, NASDAQ, and CBOE volumes *include the transactions with Citadel and Virtu*.
 
@@ -157,15 +158,15 @@ If you STILL believe that being a Market Maker IS competitive and that exchanges
 
 *Why is that a big deal? Who opened the exchange?*  [*Let’s check the MEMX website...*](https://memx.com/)
   
-* [Oh.](https://i.redd.it/ujeiloi5dw571.png)
+* ![Oh.](https://i.redd.it/ujeiloi5dw571.png)
   
 * **Citadel and Virtu** (and some other players you might recognize) *OPENED THEIR OWN EXCHANGE.*
   
-* [Yeah.](https://i.redd.it/0kxh46xwcw571.jpg)
+* ![Yeah.](https://i.redd.it/0kxh46xwcw571.jpg)
   
 “*But, but – they wouldn’t open their own exchange to profit at the expense of the market, would they?*”
   
-* [*On the MEMX own splash page*](https://i.redd.it/gff2fr1edw571.png)
+* ![*On the MEMX own splash page*](https://i.redd.it/gff2fr1edw571.png)
   
 * “*MEMX will represent the interests of its founders*” - MEMX.com
   
@@ -173,7 +174,7 @@ If you STILL believe that being a Market Maker IS competitive and that exchanges
   
 “*But, but – maybe it’s just a small side thing and it’s not really going anywhere?*”
 
-* [Right. Yeah. Sure.](https://i.redd.it/owqyk8kxdw571.png)
+* ![Right. Yeah. Sure.](https://i.redd.it/owqyk8kxdw571.png)
 
 “*But, but – wouldn’t that piss off the other exchanges?  They would want to attack the MEMX founders in some way, right?*”
 

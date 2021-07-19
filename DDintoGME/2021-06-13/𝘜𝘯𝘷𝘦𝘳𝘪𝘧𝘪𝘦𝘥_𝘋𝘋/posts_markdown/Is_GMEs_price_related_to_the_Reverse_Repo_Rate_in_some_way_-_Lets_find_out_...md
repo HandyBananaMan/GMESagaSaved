@@ -1,5 +1,6 @@
-# Author: orangecatmasterrace
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/](https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/)
+#Title: Is GME's price related to the Reverse Repo Rate in some way? - Lets find out! - Brought to you by the Superstonk Quants 🦍👨‍💻🧐🚀
+#Author: orangecatmasterrace
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/](https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/)
 
 
 Hi everyone! I'm u/orangecatmasterrace \- a longtime reddit lurker, but I've been involved in GME since January. I'm posting here as I don't yet have enough karma to post directly to r/Superstonk. I wanted to share an analysis that I, along with the incredibly talented apes at [Superstonk Quants](https://www.superstonkquant.org/) pulled together over the past couple days. We're the group that initially banded together to aid u/HomeDepotHank69 in his [quest for data-driven DD](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/?utm_source=share&utm_medium=web2x&context=3).
@@ -26,7 +27,7 @@ First, I loaded up the GME OHLC and Reverse Repo data from 1/1/2020 through 6/10
 
 I plotted the GME Open price against the Reverse Repo Daily Totals, and arrived at a very similar looking dinosaur(?)-shaped plot. 
 
-[🦕 says rawr](https://preview.redd.it/9qy00vbdry471.png?width=763&format=png&auto=webp&s=ed89a492727673f4634b9084ce464fbde8fce805)
+![🦕 says rawr](https://preview.redd.it/9qy00vbdry471.png?width=763&format=png&auto=webp&s=ed89a492727673f4634b9084ce464fbde8fce805)
 
 Ok, so now that we know we're looking at the same thing, lets start to use the methodology that u/braaaaiiinnnsss shared in his post to determine if a relationship exists here. 
 
@@ -34,7 +35,7 @@ Ok, so now that we know we're looking at the same thing, lets start to use the m
 
  After running the CCF, here's what we get: 
 
-[The lines Mason! What do they mean?!](https://preview.redd.it/7ndp686try471.png?width=735&format=png&auto=webp&s=b719c9feb750cc2ecf8fa9fb8c12a6e109bde73a)
+![The lines Mason! What do they mean?!](https://preview.redd.it/7ndp686try471.png?width=735&format=png&auto=webp&s=b719c9feb750cc2ecf8fa9fb8c12a6e109bde73a)
 
 These might look like a whole bunch of useless lines, but these lines tell us...*things!* What we're looking at here is how strong of a relationship the changes in GME's price has with the Reverse Repo Daily Totals, at various daily offsets (lags), both forward and backward. 
 
@@ -78,7 +79,7 @@ Since the points are between 0.5 and -0.5, mostly along the center line at 0, we
 
 If a correlation actually existed there, we'd see those black dots much closer to either of the red lines, and it might look something like.... oh, I don't know.... the comparison between GME and AMC? 😏
 
-[.98 is a VERY strong correlation during that window 😤](https://preview.redd.it/qefqa015uy471.png?width=1198&format=png&auto=webp&s=a43a2b3dbf2e9ba8bec872c43416246b671005fa)
+![.98 is a VERY strong correlation during that window 😤](https://preview.redd.it/qefqa015uy471.png?width=1198&format=png&auto=webp&s=a43a2b3dbf2e9ba8bec872c43416246b671005fa)
 
 ...but that's the subject of my next DD for another day 😏🚀
 
@@ -108,7 +109,7 @@ The exciting part about these analyses is that they've been a catalyst for the S
 
 In the meantime, if you'd like to check out the code along with a brief summary of the analysis, we've hosted the R markdown on the Superstonk Quants website [here](https://rrpgme.superstonkquant.org/)!
 
-Additionally, the full R code is available on our ![Github repo](https://github.com/SuperstonkQuants/reddit_RRPGME_corr)!
+Additionally, the full R code is available on our [Github repo](https://github.com/SuperstonkQuants/reddit_RRPGME_corr)!
 
 If there's one thing that I've taken away from doing this work so far, its that:
 

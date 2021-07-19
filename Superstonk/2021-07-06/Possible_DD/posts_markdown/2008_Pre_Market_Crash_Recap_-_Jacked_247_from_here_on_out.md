@@ -1,5 +1,6 @@
-# Author: GMEstockboy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/)
+#Title: 2008 Pre Market Crash Recap - Jacked 24/7 from here on out!
+#Author: GMEstockboy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/)
 
 
 Was looking at 2008 pre market crash news and saw something that happened then and  (i think) we just experiened June 23rd 2021 when Fannie Mae / Freddie Mac securities lost their value. Keep in mind I am a true retard and I know the situations were way different and possibly this has no value.
@@ -14,7 +15,7 @@ Was looking at 2008 pre market crash news and saw something that happened then a
 
 &#x200B;
 
-[September 2008 Finance / News Headlines - Source above.](https://preview.redd.it/c7hpfh5inp971.jpg?width=876&format=pjpg&auto=webp&s=7931e8eba530e96f723c3a981dc5c2e97ffb3fa7)
+![September 2008 Finance / News Headlines - Source above.](https://preview.redd.it/c7hpfh5inp971.jpg?width=876&format=pjpg&auto=webp&s=7931e8eba530e96f723c3a981dc5c2e97ffb3fa7)
 
 # Fast forward to 6/23/2021:
 
@@ -28,7 +29,7 @@ u/radzak10 **posted Exactly 3 weeks later is 7/14/21 WHHHHHHHHHHHHHAT!!**
 
 **TDLR: 3 weeks before 2008 crash fannie mae/freddie mac securities lost their value and plummeted. This just happened again on 6/23/21. 3 weeks after is 7/14/21. The situations were completely different so it may be pointless information.**
 
-**Between 9/7/08 & 9/29/08 its exactly 3 weeks! (Off by 1 day), and as noted by** u/radzak10 ![**here**](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/h4bft0j?utm_source=share&utm_medium=web2x&context=3)**, 3 weeks from 6/23/21 is exactly 7/14!**
+**Between 9/7/08 & 9/29/08 its exactly 3 weeks! (Off by 1 day), and as noted by** u/radzak10 [**here**](https://www.reddit.com/r/Superstonk/comments/ofazyn/2008_pre_market_crash_recap_jacked_247_from_here/h4bft0j?utm_source=share&utm_medium=web2x&context=3)**, 3 weeks from 6/23/21 is exactly 7/14!**
 
 # These coincidences may or may not mean nothing. In my whole 6 months of stocker experience I have never seen this and i dont know about you but im personally stayin
 

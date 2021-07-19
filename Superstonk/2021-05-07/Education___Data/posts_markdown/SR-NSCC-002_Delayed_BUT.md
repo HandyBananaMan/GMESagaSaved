@@ -1,5 +1,6 @@
-# Author: iDrumm
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n70jx0/srnscc002_delayed_but/](https://www.reddit.com/r/Superstonk/comments/n70jx0/srnscc002_delayed_but/)
+#Title: SR-NSCC-002 Delayed BUT
+#Author: iDrumm
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n70jx0/srnscc002_delayed_but/](https://www.reddit.com/r/Superstonk/comments/n70jx0/srnscc002_delayed_but/)
 
 
 Yes this rule did get delayed until June 21st (https://www.sec.gov/rules/sro/nscc.htm#SR-NSCC-2021-002) BUT this does not mean that the MOASS will not happen until then.

@@ -1,5 +1,6 @@
-# Author: StringentCurry
-# Post URL: [https://www.reddit.com/r/GME/comments/mhs96a/if_we_get_hit_by_a_fake_short_squeeze_today_or/](https://www.reddit.com/r/GME/comments/mhs96a/if_we_get_hit_by_a_fake_short_squeeze_today_or/)
+#Title: If we get hit by a fake short squeeze today or any day, DO NOT SELL so that you can buy more at the dip. That's exactly what the hedgies want. Just buy and hold 💎🙌 no matter what, and we're all going to be fucking rich. 🚀🚀🚀 This is not financial advice.
+#Author: StringentCurry
+#Post URL: [https://www.reddit.com/r/GME/comments/mhs96a/if_we_get_hit_by_a_fake_short_squeeze_today_or/](https://www.reddit.com/r/GME/comments/mhs96a/if_we_get_hit_by_a_fake_short_squeeze_today_or/)
 
 
 Can you sense it? Can you Feel that electricity in the air; smell that blood in the water; hear those 🚀 rocket engines 🚀 rumbling? I know I can.

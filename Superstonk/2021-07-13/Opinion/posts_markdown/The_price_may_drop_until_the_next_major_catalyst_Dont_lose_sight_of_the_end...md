@@ -1,5 +1,6 @@
-# Author: boskle
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrpjy/the_price_may_drop_until_the_next_major_catalyst/](https://www.reddit.com/r/Superstonk/comments/ojrpjy/the_price_may_drop_until_the_next_major_catalyst/)
+#Title: The price may drop until the next major catalyst. Don't lose sight of the end game. Apes are close. IF YOU ARE FEELING DISAPPOINTED AT THE RECENT PRICE ACTION, READ THIS.
+#Author: boskle
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrpjy/the_price_may_drop_until_the_next_major_catalyst/](https://www.reddit.com/r/Superstonk/comments/ojrpjy/the_price_may_drop_until_the_next_major_catalyst/)
 
 
 Here's what I think is happening. 

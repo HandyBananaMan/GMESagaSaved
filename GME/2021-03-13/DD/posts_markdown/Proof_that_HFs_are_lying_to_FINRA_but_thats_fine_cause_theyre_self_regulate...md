@@ -1,5 +1,6 @@
-# Author: moonski
-# Post URL: [https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/](https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/)
+#Title: Proof that HFs are lying to FINRA but that's fine cause they're "self regulated" + 900% GME SI update.
+#Author: moonski
+#Post URL: [https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/](https://www.reddit.com/r/GME/comments/m4c3ki/proof_that_hfs_are_lying_to_finra_but_thats_fine/)
 
 
 Back again with my colleagues derived SI, after it generated so much discussion last week - Even good old Ihor mentioned it.. His replies to various feedback are below the data.
@@ -88,6 +89,6 @@ Thus I am still totally convinced that SI is >100%, and this data shows that the
 
 I am also certain GME has a significant issue with synthetic shares due to the volume of trading being a significant % of the total free float size of 50m (more like 24m in reality). AMC, a popular meme stock trades at 30% float, and most non meme popular stocks trade far, far, far lower than this in terms of volume / float.
 
-Interestingly I did come across this - SI was at **132% on Feb 8th**, according to S&Pglobal (you know, the guys whos name is in the S&P500) in an article posted on Feb 18 - ![https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/short-interest-in-us-stocks-declines-in-aftermath-of-gamestop-saga-data-shows-62699063](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/short-interest-in-us-stocks-declines-in-aftermath-of-gamestop-saga-data-shows-62699063). They later claimed on March 2nd that SI had dropped to 24% "in mid february" which makes absolutely no sense given price action - 132% to 24% as the stock hoves around $40. Ok then.
+Interestingly I did come across this - SI was at **132% on Feb 8th**, according to S&Pglobal (you know, the guys whos name is in the S&P500) in an article posted on Feb 18 - [https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/short-interest-in-us-stocks-declines-in-aftermath-of-gamestop-saga-data-shows-62699063](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/short-interest-in-us-stocks-declines-in-aftermath-of-gamestop-saga-data-shows-62699063). They later claimed on March 2nd that SI had dropped to 24% "in mid february" which makes absolutely no sense given price action - 132% to 24% as the stock hoves around $40. Ok then.
 
 So yeah, enjoy your saturday evening paper since theres to ticker for us to stare at.

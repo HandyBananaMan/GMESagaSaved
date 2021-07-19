@@ -1,8 +1,9 @@
-# Author: suNN361
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxru5g/lawsuit_against_apex_clearing_many_brokers_were/](https://www.reddit.com/r/Superstonk/comments/nxru5g/lawsuit_against_apex_clearing_many_brokers_were/)
+#Title: Lawsuit against Apex Clearing - many brokers were probably forced to stop buy orders from customers on 28th of Jan (for GME and other highly shorted stocks) though they had sufficient resources to meet collateral requirements by the NSCC
+#Author: suNN361
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxru5g/lawsuit_against_apex_clearing_many_brokers_were/](https://www.reddit.com/r/Superstonk/comments/nxru5g/lawsuit_against_apex_clearing_many_brokers_were/)
 
 
-1. All credit goes to [Tom Nash](https://www.youtube.com/channel/UCJwKCyEIFHwUOPQQ-4kC1Zw) promoting this in his ![video](https://www.youtube.com/watch?v=dvqRKVTjbHc).
+1. All credit goes to [Tom Nash](https://www.youtube.com/channel/UCJwKCyEIFHwUOPQQ-4kC1Zw) promoting this in his [video](https://www.youtube.com/watch?v=dvqRKVTjbHc).
 2. If this has been covert before I'm sorry - I was trying to find if anyone has posted this before, but  I simply couldn't find it.
 
 Hey everyone,

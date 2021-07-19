@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/](https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/)
+#Title: The Jungle Beat- Thursday 07-01-2021- Important Sub Wellness, Knights of New, & Security Updates! 🩺🦍💪
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/](https://www.reddit.com/r/Superstonk/comments/obu8p4/the_jungle_beat_thursday_07012021_important_sub/)
 
 
 &#x200B;
@@ -52,7 +53,7 @@ The apes of [r/Superstonk](https://www.reddit.com/r/Superstonk/) sincerely appre
 
 &#x200B;
 
-[Brent Rambo doesn't click random links. Be like Brent Rambo.](https://preview.redd.it/onjaw1iuhm871.jpg?width=799&format=pjpg&auto=webp&s=ee38ad0883932b9135d63846c759af174e8e8791)
+![Brent Rambo doesn't click random links. Be like Brent Rambo.](https://preview.redd.it/onjaw1iuhm871.jpg?width=799&format=pjpg&auto=webp&s=ee38ad0883932b9135d63846c759af174e8e8791)
 
 Being a savvy ape means staying 10 steps ahead of anyone that may be coming at you to undermine you. We mods try to stay ahead of the curve on upcoming FUD trends and while it is exhausting to keep up with the ever-changing tactics, we have managed to curb the FUD as it rushes in. But there's a new phishy tactic in town that has me on high alert. 
 
@@ -103,7 +104,7 @@ Congratulations, Superstonk!!!
 
 ^(to celebrate, you have been delisted from the subreddit directory lmayo)
 
-[started from the bottom now we here](https://preview.redd.it/nh6xrsg0xm871.jpg?width=1080&format=pjpg&auto=webp&s=3363bf54890a18a5e3f46bfda025dbd4f756c52e)
+![started from the bottom now we here](https://preview.redd.it/nh6xrsg0xm871.jpg?width=1080&format=pjpg&auto=webp&s=3363bf54890a18a5e3f46bfda025dbd4f756c52e)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -117,7 +118,7 @@ Congratulations, Superstonk!!!
 
 &#x200B;
 
-[From baby apes to grown baby apes.](https://preview.redd.it/eigjldofom871.png?width=1200&format=png&auto=webp&s=c4b8191477125039ea5c6718c8eceb412c38ee02)
+![From baby apes to grown baby apes.](https://preview.redd.it/eigjldofom871.png?width=1200&format=png&auto=webp&s=c4b8191477125039ea5c6718c8eceb412c38ee02)
 
 With this natural and impressive growth, the mod team has been putting together plans for expansion. We have modified our structure of mod hierarchy, and organized our team in a way that truly is comforting to all of us. We no longer fret over the psychological issues of compromised mods or bad actors, and honestly I must say this is the best team I have ever been a part of. I see nothing but great things in our future.
 
@@ -133,7 +134,7 @@ We are planning to add 2-3 mods on a regular basis to ensure proper management o
 
 &#x200B;
 
-[Get into the mod team, you damn dirty apes!](https://preview.redd.it/vua7qkfjom871.png?width=726&format=png&auto=webp&s=f554e58ecf54ccf327cc2d4253425ac8c53abd9c)
+![Get into the mod team, you damn dirty apes!](https://preview.redd.it/vua7qkfjom871.png?width=726&format=png&auto=webp&s=f554e58ecf54ccf327cc2d4253425ac8c53abd9c)
 
 This week, we are adding FOUR new moderators. They are already in the mod chat and meshing well with the whole team. Please give them all a warm welcome:
 
@@ -168,7 +169,7 @@ So, please do your best to behave, to be civil, to be polite, and to be conscien
 
 &#x200B;
 
-[Is this ape? Or shill in ape suit?](https://preview.redd.it/o3c7p2eoom871.png?width=1000&format=png&auto=webp&s=656548ffb8981604fdfbbeb76792d63c04df0640)
+![Is this ape? Or shill in ape suit?](https://preview.redd.it/o3c7p2eoom871.png?width=1000&format=png&auto=webp&s=656548ffb8981604fdfbbeb76792d63c04df0640)
 
 This group has popped up over the past month or so, and aims to "police" the New sorted [r/Superstonk](https://www.reddit.com/r/Superstonk/) feed, and intentionally downvotes posts that violate our sub's rules and general content quality, and upvotes those that they deem to be quality content. While at first, this idea seemed fun and a good idea, as apes voting for good content and downvoting bad content has always been a staple of the success of the sub, we now are seeing some aspects that are problematic.
 
@@ -200,7 +201,7 @@ Onward, and Upward 🚀
 
 &#x200B;
 
-[Moass Effect: Legendary Edition](https://preview.redd.it/dt2eo2d3pm871.png?width=728&format=png&auto=webp&s=16ca282866e208fc2115937afc6e5c086ca9ac2a)
+![Moass Effect: Legendary Edition](https://preview.redd.it/dt2eo2d3pm871.png?width=728&format=png&auto=webp&s=16ca282866e208fc2115937afc6e5c086ca9ac2a)
 
 &#x200B;
 
@@ -235,7 +236,7 @@ State Attorney General, SEC, And the US Dept. of Justice have seized his cell ph
 
  **Goldman Sachs, June 30 2021, 10:30PM** 
 
-[ credit u\/Sock\_floaties](https://preview.redd.it/09vvrqi65m871.png?width=640&format=png&auto=webp&s=54f48e60db81c3af23ddb872e6e17948a797595d)
+![ credit u\/Sock\_floaties](https://preview.redd.it/09vvrqi65m871.png?width=640&format=png&auto=webp&s=54f48e60db81c3af23ddb872e6e17948a797595d)
 
 &#x200B;
 
@@ -261,7 +262,7 @@ All I know is, that's a lot of lights, and presumably a lot of employees working
 
 &#x200B;
 
-[New York Post article from 06-30-2021](https://preview.redd.it/7sip637evm871.jpg?width=270&format=pjpg&auto=webp&s=244de6c00322d595105dd2e5aa9ca0daa39f90c3)
+![New York Post article from 06-30-2021](https://preview.redd.it/7sip637evm871.jpg?width=270&format=pjpg&auto=webp&s=244de6c00322d595105dd2e5aa9ca0daa39f90c3)
 
 Now, the big story here, to me, isn't exactly the executive order, although that could be dope af and could possibly toast the hedgies into oblivion. Who knows, I haven't looked into it.
 
@@ -330,7 +331,7 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 **IF THERE IS SOMETHING BIG GOING ON WHILE THE OUTAGE IS HAPPENING WE MAY ALSO UTILIZE THE "EMERGENCY BROADCAST SYSTEM" TO RELAY INFO:**
 
-![SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -1,10 +1,11 @@
+<h1>Title: A High-Frequency Trading Guidebook to Manipulating GME</h1>
 <h1>Author: jsmar18</h1>
 <h1>Post URL: <a href="https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/">https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/</a></h1>
 <p>Your resident Analytical Ape here to not rain on a parade, for once.</p>
 <p>NYSE Order Types are out again for the month of April! Is fuckery afoot? What’s so special about April? It’s the first month where we did not see any insane price action like in January, February and March. This can be observed below through some 1-month candles, consolidation has been much more pronounced over the past two months.</p>
 <p>The title was low-key clickbait, you'll find out why - but we go through A LOT of methods that are applicable to HFT and how it is and can be used.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/oitl8n65vn271.png?width=1072&amp;format=png&amp;auto=webp&amp;s=747f9800b84345cf535541840ce92d51f43b75db">GME Monthly Candle Chart</a></p>
+<p><img alt="GME Monthly Candle Chart" src="https://preview.redd.it/oitl8n65vn271.png?width=1072&amp;format=png&amp;auto=webp&amp;s=747f9800b84345cf535541840ce92d51f43b75db" /></p>
 <p>I’m trying out a new format, given market structure gets complicated. For complicated sections there will be a 🍌🦧 <strong>Monke Speke</strong> section and a 📈🧠 <strong>Technical Speke</strong> section. So for those that want the nitty gritty, stick around for the technical speke.</p>
 <p>What’ll we go through?</p>
 <ul>
@@ -58,7 +59,7 @@
 <h1>STOP SCROLLING HERE</h1>
 <h1>NYSE Order Type Data</h1>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/frriegpevn271.png?width=1081&amp;format=png&amp;auto=webp&amp;s=75bb3cf585fd2f3b13cc2dcbb3b4c1090755e729">NYSE Chicago Order Type Data</a></p>
+<p><img alt="NYSE Chicago Order Type Data" src="https://preview.redd.it/frriegpevn271.png?width=1081&amp;format=png&amp;auto=webp&amp;s=75bb3cf585fd2f3b13cc2dcbb3b4c1090755e729" /></p>
 <p><strong>Assumption:</strong> As usual, this is the NYSE Chicago exchange, I focus on this exchange as it has the least volume and it’s easier to see how order type behaviors move. I also hypothesise that it’s one of Citadel’s and others stomping grounds for GME as well given we saw an adverse change in October which is when Retail interest really started to lift dramatically.</p>
 <p>____________________________________________________________________________________________________________</p>
 <h1>April ALO Orders</h1>
@@ -69,24 +70,24 @@
 <h1>April ISO Orders</h1>
 <p>I have not historically given IOC ISOs much love, given they represent 40% of order types on NYSE Chicago, kinda unfair!</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/ypmc8c6kvn271.png?width=1098&amp;format=png&amp;auto=webp&amp;s=0314e6ffdec6a6dd6c56918a1d72114fd15d801c">NYSE Chicago Order Type Data</a></p>
+<p><img alt="NYSE Chicago Order Type Data" src="https://preview.redd.it/ypmc8c6kvn271.png?width=1098&amp;format=png&amp;auto=webp&amp;s=0314e6ffdec6a6dd6c56918a1d72114fd15d801c" /></p>
 <p>These orders have had their fare of flack, causing stock prices to crash previously due to the <a href="https://www.wsj.com/articles/BL-MB-21819">imbalance they cause</a>. Possibly a correlation with <a href="https://sci-hub.se/https://www.researchgate.net/publication/306222250_Clean_sweep_Informed_trading_through_intermarket_sweep_orders">higher information share</a> than non ISOs which results in them being preferenced.</p>
 <p>To start to unwrap this, the first thing we need to understand is that there are exemptions to <a href="https://www.sec.gov/spotlight/emsac/memo-rule-611-regulation-nms.pdf">rule 611</a>. ISO orders in particular are exempt from Reg NMS in regards to protecting the NBBO. Hold on a sec while I explain an example.</p>
 <p><strong>Normal NMS Scenario:</strong> I want to buy stock at $180.01, but I can’t until displayed liquidity is exhausted at $180.00.</p>
 <p><strong>ISO NMS Scenario:</strong> I want to buy stock at $180.01, I place the ISO order and it this tells the exchange that I've already checked availability on other exchanges for $180.00 - woo! Order filled!</p>
 <p>So what this implies is and from the huge increase above on NYSE Chicago (for reference compare it to the \~20% of NYSE Arca), a HFT would have decided which way a market is going, and then get in line first.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/pwuz981nvn271.png?width=946&amp;format=png&amp;auto=webp&amp;s=1e5ee275df5470b09a9f7b19040c1ac7fe774573">NYSE Arca Order Type Data</a></p>
+<p><img alt="NYSE Arca Order Type Data" src="https://preview.redd.it/pwuz981nvn271.png?width=946&amp;format=png&amp;auto=webp&amp;s=1e5ee275df5470b09a9f7b19040c1ac7fe774573" /></p>
 <p><strong>Conclusion:</strong> Given NYSE Chicago sits at 20% above Arca and there was also a 20% shift upwards from Sep-20 to Oct-20, when GME started to gain retail attention - i’m going to sit on the side of the fence, which is HFTs are using IOC ISOs for more nefarious purposes.</p>
 <p>____________________________________________________________________________________________________________</p>
 <h1>Hidden Rate</h1>
 <p>Switching over to another data source, <a href="https://www.sec.gov/marketstructure/market-structure-analytics">SEC Market Structure Data</a>. Before we get into data, consume this cool graphic. Since it’s much more fun than a written explanation.</p>
-<p><a href="https://preview.redd.it/v5uhhzavvn271.png?width=637&amp;format=png&amp;auto=webp&amp;s=b5a23010a1caad91550fc6382cd78063d52cba53">Sorry, can't find the source, from a news site back in the days</a></p>
+<p><img alt="Sorry, can't find the source, from a news site back in the days" src="https://preview.redd.it/v5uhhzavvn271.png?width=637&amp;format=png&amp;auto=webp&amp;s=b5a23010a1caad91550fc6382cd78063d52cba53" /></p>
 <p>And here is a written version</p>
 <p>HFTs can effectively jump the line by posting <a href="https://docs.google.com/document/d/1QmoFpdq9HeGJ-cdPP7y808uWxVufJNr2b69J0GY_-SQ/edit?usp=sharing">“hide not slide”</a> orders instead of visible orders. This is because a hidden order will not be slidden, resetting the timestamp. So if I placed an order at $120.01 for GME, they then place a hidden order for $120.01 as well from another exchange, I get my timestamp reset due to the market now being locked, but the hidden order does not get their timestamp reset therefore essentially skipping the fucking line. Slightly different wording to the above as I’m introducing timestamps, which is the actual function and how it works.</p>
 <p>Now for some data. What we’re looking at is the hidden rate across all exchanges on a daily grain for four different stocks.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/b6e21nb1wn271.png?width=1063&amp;format=png&amp;auto=webp&amp;s=c417fb78a68e1eb5086283405f7f06dd76b5fb9e">SEC Hidden Rate Data</a></p>
+<p><img alt="SEC Hidden Rate Data" src="https://preview.redd.it/b6e21nb1wn271.png?width=1063&amp;format=png&amp;auto=webp&amp;s=c417fb78a68e1eb5086283405f7f06dd76b5fb9e" /></p>
 <p>Given the knowledge of hidden orders, it’s a clear indicator of non-retail trading taking place, namely by HFTs. Let’s put some commentary to each, shall we?</p>
 <p><strong>TSLA:</strong> Truly an OG meme stock in my opinion, retail interest is wide-reaching and has resulted in it’s rally, so there’s no surprise that HFTs are active in this stock to take advantage of that fact.</p>
 <p><strong>AMC:</strong> Sensitive topic, judge it for yourself.</p>
@@ -101,12 +102,12 @@
 <p>This means that the ratio of cancellations to lit trades is always going to be at least one. Factor in that this happens across many many exchanges, say there are 10 exchanges, 10 sells and 10 buys are placed. If someone buys at $180.01 on <strong>one</strong> exchange, the MM raises all the buys and sells on each of the exchanges and cancels the rest.</p>
 <p>As you can imagine, it’s not odd to have a cancel to trade ratio of &gt;10.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/y96mehp6wn271.png?width=1077&amp;format=png&amp;auto=webp&amp;s=17f8c65ba7a23267f1dfdd4249d4a89b41a82b55">SEC Cancel to Trade Data</a></p>
+<p><img alt="SEC Cancel to Trade Data" src="https://preview.redd.it/y96mehp6wn271.png?width=1077&amp;format=png&amp;auto=webp&amp;s=17f8c65ba7a23267f1dfdd4249d4a89b41a82b55" /></p>
 <p>This is visualised above, through four tickers, all ratios are well above 1 and often sit above a cancel to trade ratio of 10.</p>
 <p>The odd bunch of the pack is GME. AMC and GME dipped low during the late January retail hype, however GME has remained low ever since in comparison to AMC (draw your own conclusions on that point, i don’t really follow AMC).</p>
 <p><strong>Why the low cancel to trade ratio?</strong></p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/8b30waw9wn271.png?width=1084&amp;format=png&amp;auto=webp&amp;s=2c3e491a083f761d3028a684d86b8a08d5f0cf6e">&#37; of Total Lit Volume by Exchange (exchanges greyed ou</a></p>
+<p><img alt="&#37; of Total Lit Volume by Exchange (exchanges greyed ou" src="https://preview.redd.it/8b30waw9wn271.png?width=1084&amp;format=png&amp;auto=webp&amp;s=2c3e491a083f761d3028a684d86b8a08d5f0cf6e" /></p>
 <p>The chart above is looking at the exchange's % share when it comes to GMEs weekly lit volume. The main trend we can see is that Edge-X has been increasing since retail hype sparked in September-2020. Thanking u/dlauer here, as he put forward reasoning that suggests orders are being routed through Edge-X due to the rebates given on that particular exchange. MMs not only make money off the spread, they also look to make money through rebates.</p>
 <p>So this suggests that retail interest is obviously still high and MMs are taking advantage of it through getting some dough back on rebates.</p>
 <p>What does this have to do with the cancel ratio though?</p>
@@ -124,11 +125,11 @@
 <p>At this point you should be asking yourself, when did I last place a trade that reached 100 shares?</p>
 <p>If you’re like me, not once - Auspoor here after all. What I'm alluding to is that investors/brokers using the SIP won’t actually know there are us fishies swimming around at slightly better prices in the market due to the majority of our orders being odd lots as we as retail traders have far less capacity to order huge quantities of GME to qualify as even lots (100 shares) (I wish I kept on hand the chart that showed low average trades, if you got it PM me).</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/9z6co24oxn271.png?width=1051&amp;format=png&amp;auto=webp&amp;s=6b453abd61c15b01cd27b58daea7db442f9e9a1e">NASDAQ Response to Reg NMS II</a></p>
+<p><img alt="NASDAQ Response to Reg NMS II" src="https://preview.redd.it/9z6co24oxn271.png?width=1051&amp;format=png&amp;auto=webp&amp;s=6b453abd61c15b01cd27b58daea7db442f9e9a1e" /></p>
 <p>For reference, take this picture above, it’s an example that shows investors can be protected at the NBBO thanks to even lots, but odd lots can exist at better prices.</p>
 <p>The SEC adopted a new rule to change how this is applied to the NBBO and PBBO, but it’s only applicable to securities with a price greater than $250. They did however mandate that the exchanges must publish all odd lot prices to the SIP, as long as they are better than the NBBO. This is highlighted below.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/qoudtqlrxn271.png?width=683&amp;format=png&amp;auto=webp&amp;s=48d60f9df9b831bd0eb5f4e153d4642287827cea">https:\/\/www.sec.gov\/news\/press-release\/2020-311</a></p>
+<p><img alt="https:\/\/www.sec.gov\/news\/press-release\/2020-311" src="https://preview.redd.it/qoudtqlrxn271.png?width=683&amp;format=png&amp;auto=webp&amp;s=48d60f9df9b831bd0eb5f4e153d4642287827cea" /></p>
 <p><strong>What does this mean?</strong></p>
 <p>I interpret it as better price discovery as a result of the odd lot inclusions into the SIP specifically.</p>
 <p><strong>What does this mean for retail?</strong></p>

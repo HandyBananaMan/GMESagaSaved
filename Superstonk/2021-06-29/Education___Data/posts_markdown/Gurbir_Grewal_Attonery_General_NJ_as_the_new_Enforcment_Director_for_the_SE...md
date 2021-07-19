@@ -1,5 +1,6 @@
-# Author: love_butter69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/](https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/)
+#Title: Gurbir Grewal, Attonery General (N.J) as the new Enforcment Director for the SEC
+#Author: love_butter69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/](https://www.reddit.com/r/Superstonk/comments/oaip1a/gurbir_grewal_attonery_general_nj_as_the_new/)
 
 
 Gurbir Grewal, Attonery General (N.J) will be the new Enforcment Director for the SEC. 
@@ -10,7 +11,7 @@ Hadn't heard of this chap before so I did a little digging. This is not a DD, ju
 
 &#x200B;
 
-[Gurbir Grewal and his steely gaze.](https://preview.redd.it/vzep8hkbu9871.jpg?width=1540&format=pjpg&auto=webp&s=2ee35565b9ce2ce27fc9b157081411cefabd575f)
+![Gurbir Grewal and his steely gaze.](https://preview.redd.it/vzep8hkbu9871.jpg?width=1540&format=pjpg&auto=webp&s=2ee35565b9ce2ce27fc9b157081411cefabd575f)
 
 # Grewals C.V. and some past exploits
 
@@ -50,4 +51,4 @@ Sauce's
 
 [https://nj.gov/oag/oag/ag\_bio.htm](https://nj.gov/oag/oag/ag_bio.htm)
 
-![https://www.sec.gov/news/press-release/2021-114](https://www.sec.gov/news/press-release/2021-114)
+[https://www.sec.gov/news/press-release/2021-114](https://www.sec.gov/news/press-release/2021-114)

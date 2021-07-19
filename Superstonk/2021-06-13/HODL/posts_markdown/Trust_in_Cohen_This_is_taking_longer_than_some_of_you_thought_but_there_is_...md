@@ -1,5 +1,6 @@
-# Author: RothIRAGambler
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzdoai/trust_in_cohen_this_is_taking_longer_than_some_of/](https://www.reddit.com/r/Superstonk/comments/nzdoai/trust_in_cohen_this_is_taking_longer_than_some_of/)
+#Title: Trust in Cohen. This is taking longer than some of you thought, but there is a reason.
+#Author: RothIRAGambler
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzdoai/trust_in_cohen_this_is_taking_longer_than_some_of/](https://www.reddit.com/r/Superstonk/comments/nzdoai/trust_in_cohen_this_is_taking_longer_than_some_of/)
 
 
 Remember that tweet Cohen sent from a Gamestop right by SEC headquarters? I think it was a hint. Cohen was letting us know that he's doing this the right way.  

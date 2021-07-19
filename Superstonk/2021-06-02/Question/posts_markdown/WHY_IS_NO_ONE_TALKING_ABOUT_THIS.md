@@ -1,5 +1,6 @@
-# Author: wiseoldmeme
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqu45p/why_is_no_one_talking_about_this/](https://www.reddit.com/r/Superstonk/comments/nqu45p/why_is_no_one_talking_about_this/)
+#Title: WHY IS NO ONE TALKING ABOUT THIS
+#Author: wiseoldmeme
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqu45p/why_is_no_one_talking_about_this/](https://www.reddit.com/r/Superstonk/comments/nqu45p/why_is_no_one_talking_about_this/)
 
 
 Every "meme" stock is on a rocket right now. Every single one. They are reaching heights not seen since January and all at the same time. ALL AT THE SAME TIME. 

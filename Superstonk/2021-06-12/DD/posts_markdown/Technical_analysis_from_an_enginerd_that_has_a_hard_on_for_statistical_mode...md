@@ -1,5 +1,6 @@
-# Author: PWNWTFBBQ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/)
+#Title: Technical analysis from an enginerd that has a hard on for statistical modeling and multivariate regression analysis.
+#Author: PWNWTFBBQ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/](https://www.reddit.com/r/Superstonk/comments/ny68t6/technical_analysis_from_an_enginerd_that_has_a/)
 
 
 # Debunked: Incorrect Assumptions
@@ -25,7 +26,7 @@ For a given data set that has a normal distribution, 68% of the data will fall w
 
 &#x200B;
 
-[I'm so pretty, I model.... statistical model.](https://preview.redd.it/i00678hl0u471.png?width=500&format=png&auto=webp&s=e3209c34f950dd5685c044a2220bcc13ab078d5f)
+![I'm so pretty, I model.... statistical model.](https://preview.redd.it/i00678hl0u471.png?width=500&format=png&auto=webp&s=e3209c34f950dd5685c044a2220bcc13ab078d5f)
 
 So, if you know the distribution of a data set, you’ll know what percentile a single data point will fall into in comparison to the rest of the data. Percentiles are great because they can also act as probabilities. Here is an ape level example to show how:
 
@@ -33,7 +34,7 @@ Let’s say we have a group of 100 crayons all with different lengths. For this 
 
 &#x200B;
 
-[MMM crayons](https://preview.redd.it/eyllc4ipcu471.png?width=1792&format=png&auto=webp&s=5f5d8bfe8283a8ad024a4f6c312f67537bf62dee)
+![MMM crayons](https://preview.redd.it/eyllc4ipcu471.png?width=1792&format=png&auto=webp&s=5f5d8bfe8283a8ad024a4f6c312f67537bf62dee)
 
 Here is where the probability part comes in:
 
@@ -53,7 +54,7 @@ Let’s now look at log ape’s graph:
 
 &#x200B;
 
-[That's some pretty fucking solid eyeballing.](https://preview.redd.it/pbtv657s5u471.png?width=1600&format=png&auto=webp&s=164a9db39188d1f6d2aa413a6f478bd8720a0f83)
+![That's some pretty fucking solid eyeballing.](https://preview.redd.it/pbtv657s5u471.png?width=1600&format=png&auto=webp&s=164a9db39188d1f6d2aa413a6f478bd8720a0f83)
 
 From this graph there are only 2 values out of a total of 175 data points that would be considered “outliers.” I use outliers to mean values that do not fit the trend which is above the equation. 2 / 175 points is a mere 1.1% of the population. This amount is within reason for any regression type modeling.
 
@@ -63,19 +64,19 @@ Note: this is extremely over simplification and a lot of things have been aped d
 
 I’ve been looking into log ape’s data and noticed that his variable “d” accounts for all days to include the weekend. 6/7 is day 250 and 6/4 is day 247.
 
-[6\/7: d = 250](https://preview.redd.it/p03b5h9z5u471.png?width=1431&format=png&auto=webp&s=d312f4a748086d6d2faa8a54fd309fb5135f945f)
+![6\/7: d = 250](https://preview.redd.it/p03b5h9z5u471.png?width=1431&format=png&auto=webp&s=d312f4a748086d6d2faa8a54fd309fb5135f945f)
 
-[6\/4: d = 247](https://preview.redd.it/elsgsgy36u471.png?width=1414&format=png&auto=webp&s=a58d87829011beda2cbb9b6d36655de92e9b6c5c)
+![6\/4: d = 247](https://preview.redd.it/elsgsgy36u471.png?width=1414&format=png&auto=webp&s=a58d87829011beda2cbb9b6d36655de92e9b6c5c)
 
 If you were to only do business days, the dates would have a different associated d value. So, let’s try to redo log ape’s equation to only do trading days. The above graph would shift to look like this:
 
 &#x200B;
 
-[Well, fuck. There are lot more dips below the log equation.](https://preview.redd.it/gafj8u3b6u471.png?width=1600&format=png&auto=webp&s=0c80d45ccedd75e99d0f95ad88382c9ae31d1541)
+![Well, fuck. There are lot more dips below the log equation.](https://preview.redd.it/gafj8u3b6u471.png?width=1600&format=png&auto=webp&s=0c80d45ccedd75e99d0f95ad88382c9ae31d1541)
 
 Since log ape’s graph included the weekend, this compounded value would cause an influence on the resulting equation and would get more and more off due to more and more added weekends. Let’s see what those intersections were that are essentially a bias causing a large deviation between the lowest share value and the log ape’s equation:
 
-[This graph has more dates than I do. #4EvaAlone](https://preview.redd.it/coksvisatu471.png?width=2591&format=png&auto=webp&s=d3804613538928b42aa059540c112b28b0d6528f)
+![This graph has more dates than I do. #4EvaAlone](https://preview.redd.it/coksvisatu471.png?width=2591&format=png&auto=webp&s=d3804613538928b42aa059540c112b28b0d6528f)
 
 Interesting… So from the graph, the most common cause for the lowest share price values to drop below the log ape’s equation is when a new GME board member is announced. Followed by legislation, shares filing, and the holy FTD settlement theory.
 
@@ -107,7 +108,7 @@ Edit 6: Updated crayon bell curve for better visual explanation.
 
 Edit 7:  u/WhatCanIMakeToday suggested I replace guy with ape. I took his advice.
 
-Edit 8: I figured I would make a ![tweet](https://twitter.com/pwnwtfbbq/status/1403717359899090946) about this to share.
+Edit 8: I figured I would make a [tweet](https://twitter.com/pwnwtfbbq/status/1403717359899090946) about this to share.
 
 Edit 9: Edited event graph to add all dates.
 

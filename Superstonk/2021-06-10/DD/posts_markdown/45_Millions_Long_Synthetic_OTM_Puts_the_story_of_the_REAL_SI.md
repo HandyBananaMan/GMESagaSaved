@@ -1,5 +1,6 @@
-# Author: luxowoman
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/](https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/)
+#Title: 45 Millions Long Synthetic OTM Puts, the story of the REAL SI %
+#Author: luxowoman
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/](https://www.reddit.com/r/Superstonk/comments/nwte0h/45_millions_long_synthetic_otm_puts_the_story_of/)
 
 
 Alright boring day, so perfect timing to write something !
@@ -12,7 +13,7 @@ First pic:
 
 &#x200B;
 
-[Total Open Interest Puts at every date](https://preview.redd.it/8p7mwyxo2h471.png?width=776&format=png&auto=webp&s=9f9e55243802ed4eb79be34f495bc8255207e206)
+![Total Open Interest Puts at every date](https://preview.redd.it/8p7mwyxo2h471.png?width=776&format=png&auto=webp&s=9f9e55243802ed4eb79be34f495bc8255207e206)
 
 *Here you have the Total Open interested for every dates  available in Deep OTM Puts. As you can see I just stopped counting at 5$ strike and we have already 45M Shares under contract with the biggest day July 16 and Januray 21 on those two days we have 29M shares just at 0,5$ strike!! We have other strike going untill the current price so you can add dozens of millions, but i just wanted for this purpose to focus on the deepest so useless ones.*
 
@@ -71,7 +72,7 @@ Below is a section of the SEC memo (from page 8) that gets to the heart of it:
 
 \*\*
 
-In short (no pun intended) these tricks **“help hedge funds maintain short positions** that, legally speaking, they weren’t supposed to have because the shares were never properly located”. Which triggers alarm bells when we consider the extraordinarily **high amount of FTIDs/Failed to Deliver** Shares ([Where are the Shares?](https://wherearetheshares.com/)) and **Michael Burry’s** (now deleted tweet viewable here ![Cassandra](https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en)) about how when he called back shares he lent out, brokers took weeks to actually find them with the implication they could not be located.
+In short (no pun intended) these tricks **“help hedge funds maintain short positions** that, legally speaking, they weren’t supposed to have because the shares were never properly located”. Which triggers alarm bells when we consider the extraordinarily **high amount of FTIDs/Failed to Deliver** Shares ([Where are the Shares?](https://wherearetheshares.com/)) and **Michael Burry’s** (now deleted tweet viewable here [Cassandra](https://web.archive.org/web/20210130030954/https://twitter.com/michaeljburry?lang=en)) about how when he called back shares he lent out, brokers took weeks to actually find them with the implication they could not be located.
 
 &#x200B;
 

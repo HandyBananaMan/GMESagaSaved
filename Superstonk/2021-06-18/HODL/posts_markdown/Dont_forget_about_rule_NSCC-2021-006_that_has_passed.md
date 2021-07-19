@@ -1,5 +1,6 @@
-# Author: Datprayincajun_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o35etx/dont_forget_about_rule_nscc2021006_that_has_passed/](https://www.reddit.com/r/Superstonk/comments/o35etx/dont_forget_about_rule_nscc2021006_that_has_passed/)
+#Title: Don’t forget about rule NSCC-2021-006 that has passed.
+#Author: Datprayincajun_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o35etx/dont_forget_about_rule_nscc2021006_that_has_passed/](https://www.reddit.com/r/Superstonk/comments/o35etx/dont_forget_about_rule_nscc2021006_that_has_passed/)
 
 
 IF 002 is approved Monday, it will have been approved by the SEC and the DTCC then it can be implemented IMMEDIATELY and not have the 10 day implementation period after being approved because that is what 006 does..it allows a rule to be implemented immediately!

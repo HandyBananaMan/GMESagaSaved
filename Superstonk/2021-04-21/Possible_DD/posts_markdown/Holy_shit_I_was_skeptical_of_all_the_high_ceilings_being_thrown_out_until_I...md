@@ -1,5 +1,6 @@
-# Author: missing_the_point_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/](https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/)
+#Title: Holy shit. I was skeptical of all the high ceilings being thrown out until I put the pieces together. I honestly think GME is priceless, and the most valuable stock you will ever buy. Here's the full picture, as I understand it...
+#Author: missing_the_point_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/](https://www.reddit.com/r/Superstonk/comments/mvcqpi/holy_shit_i_was_skeptical_of_all_the_high/)
 
 
 First of all, I’d like to start off by stating this post is completely nonpartisan. GME is not a political debate, it’s a class war.
@@ -14,7 +15,7 @@ It was not to protect your retirement accounts. They claimed there was not enoug
 
 Not only was $3 trillion pumped into the market, but the Federal Reserve also lent an additional $1 trillion a day to large banks for 14-days. None of that was taxpayer money, by the way. The FED was just printing money. They loaned TRILLIONS OF DOLLARS to big banks, while the U.S. Government told the American people they didn’t even deserve a $600 check of their own, taxpayer money.
 
-The banks, investment firms, and hedge funds got too greedy and pumped too much into the market ([Here’s what the s&amp;amp;amp;p currently looks like if you haven't seen this image](https://imgur.com/AV3OIrs)), and the SEC and the DTCC were complicit. Now, there’s too much liquidity. There is more borrowed money than real cash in the market and it has no real value. It’s a house of cards, ready to fall at any moment. The wheels are in motion. It is happening. Correction is imminent.
+The banks, investment firms, and hedge funds got too greedy and pumped too much into the market (![Here’s what the s&amp;amp;amp;p currently looks like if you haven't seen this image](https://imgur.com/AV3OIrs)), and the SEC and the DTCC were complicit. Now, there’s too much liquidity. There is more borrowed money than real cash in the market and it has no real value. It’s a house of cards, ready to fall at any moment. The wheels are in motion. It is happening. Correction is imminent.
 
 The SEC realized the market bubble at least 6 months ago. You may have heard that big banks recently had huge record-setting sales last week on bonds and were taking advantage of a recent dip in Treasury yields. That was a lie. The SEC told brokers that as of April 22nd, they must have the capital to cover every share they borrowed from investors and lent out to hedge funds. So, banks needed billions of extra capital on hand by April 22nd or they would have had to recall shares.
 
@@ -65,7 +66,7 @@ This really is a revolution. As Scaramucci Tweeted, this is like the modern-day 
 
 This is the way.
 
-![Trust me. Everything is going to be fine.](https://www.youtube.com/watch?v=jbWHZwD5rGQ&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ab_channel=FlashReborn)
+[Trust me. Everything is going to be fine.](https://www.youtube.com/watch?v=jbWHZwD5rGQ&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ab_channel=FlashReborn)
 
 Edit: Since this hit r/all, I thought I would mention that I am a female because WSBs has gotten a lot of criticism about it being a "boys' club". It isn't.
 

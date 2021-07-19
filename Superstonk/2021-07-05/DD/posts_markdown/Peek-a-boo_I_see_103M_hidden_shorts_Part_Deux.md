@@ -1,5 +1,6 @@
-# Author: WhatCanIMakeToday
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/](https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/)
+#Title: Peek-a-boo! I see 103M hidden shorts! (Part Deux)
+#Author: WhatCanIMakeToday
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/](https://www.reddit.com/r/Superstonk/comments/oenvoh/peekaboo_i_see_103m_hidden_shorts_part_deux/)
 
 
 Part Uno (you might want to read it first for background): [https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo\_i\_see\_you\_79m\_hidden\_shorts/](https://www.reddit.com/r/Superstonk/comments/odsded/peekaboo_i_see_you_79m_hidden_shorts/)
@@ -17,7 +18,7 @@ Using the same GME Options Data set I bought for about $21 from [https://www.his
 1. Filtered the data set down to get two snapshots in time: Jan 19th, 2021 and Feb 1st, 2021.  This is effectively bracketing the week before and week of the huge GME Jan spike.  Whatever happens in here *should* 100% be tied to that crazy spike.  (I just realized I'm undercounting a bit because the spike, T, was Jan 28th and Feb 1 is only T+2.  I'm too lazy to rerun the process right now to expand out and you'll get the picture.)
 2. Filtered out only for Puts (duh) because we're looking for Married Puts.
 3. (NEW for Part Deux!) Filtered by *delta* which is an option greek that represents how much the option value changes per $1 change in the underlying stock price.  I filtered for *delta* < 0.01 which means if the stock price moves by $1, the price of these options moves by a penny ($0.01) or less.  These options are *literally* **worthless**.  
-Grow wrinkles about option greeks here: ![https://www.investopedia.com/terms/g/greeks.asp](https://www.investopedia.com/terms/g/greeks.asp)
+Grow wrinkles about option greeks here: [https://www.investopedia.com/terms/g/greeks.asp](https://www.investopedia.com/terms/g/greeks.asp)
 4. Summed up the total Open Interest for all remaining Puts.
 
 Total Open Interest for Puts with delta <= 0.01:

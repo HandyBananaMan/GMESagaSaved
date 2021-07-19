@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/](https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/)
+#Title: Scooby-Doo And The Deep ITM Calls of April 16. Is The Rocket Lifting Off Soon?
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/](https://www.reddit.com/r/Superstonk/comments/n2dkw2/scoobydoo_and_the_deep_itm_calls_of_april_16_is/)
 
 
 Hello apes. Not a financial advisor, hopefully you know that.
@@ -24,13 +25,13 @@ Over the weekend of the 27th we were told that SI% had dropped from over 100% to
 
 Take a look at the following chart and think about if the put OI (orange) looks normal to you.
 
-[Source: \/u\/broccaaa \\"The Naked Shorting Scam\\"](https://preview.redd.it/djhl8mfp0gw61.png?width=1873&format=png&auto=webp&s=30665f72b556f7c766aca898704e2efed684272d)
+![Source: \/u\/broccaaa \\"The Naked Shorting Scam\\"](https://preview.redd.it/djhl8mfp0gw61.png?width=1873&format=png&auto=webp&s=30665f72b556f7c766aca898704e2efed684272d)
 
 Sure as hell does not look normal. It looks like shorters must have created a bunch of married PUTs **in order to hide their true SI%**. This surge happened in the January runup and is still well away from where it should be - it's sitting around 1,300,000 OI when it should be roughly 300,000 OI to align with CALL OI. Scooby Doo (/u/broccaaa) - I think you deserve a Scooby Snack for this data.
 
 Let's take a look at deep ITM call purchases:
 
-[Source: \/u\/broccaaa \\"The Naked Shorting Scam\\"](https://preview.redd.it/j0fq1ach3gw61.png?width=1937&format=png&auto=webp&s=31818cbfc8946d80eca1d149bd157126a73b0217)
+![Source: \/u\/broccaaa \\"The Naked Shorting Scam\\"](https://preview.redd.it/j0fq1ach3gw61.png?width=1937&format=png&auto=webp&s=31818cbfc8946d80eca1d149bd157126a73b0217)
 
 Oh boy look at that. We get anomalies of deep ITM call purchases around the time the total PUT OI skyrockets. Not only that, I'd like you to notice the following dates at which these anomalies occurred:
 
@@ -57,7 +58,7 @@ Green = Major option expiry dates to look at. It is very likely that these optio
 
 Red = OI changes to consider
 
-[Source: \/u\/yelyeh2 Options Data](https://preview.redd.it/vu31m3o65gw61.png?width=901&format=png&auto=webp&s=d0fe2896848485c003317248d6881fcd58503396)
+![Source: \/u\/yelyeh2 Options Data](https://preview.redd.it/vu31m3o65gw61.png?width=901&format=png&auto=webp&s=d0fe2896848485c003317248d6881fcd58503396)
 
 I'd like you to take a notice of the three sequential red highlighted rows from 3/9/2021 to 3/11/2021. What in the **hell** happened to OI for 7/16/2021 PUT OI? It is very likely that FTDs were spilling out due to **T+13 FTD delivery** from 2/19/2021, causing that massive run-up in price to about $350. They utilized their ammo in 7/16/2021 PUTs to smash the price down. They did not have this trick up their sleeve back in January - shutting down buys was their only chance back then. On March 10, exercising options all at once would allow them to put massive sell pressure at whatever strike price they wanted. This was potentially expensive, but worth it to shut things down.
 
@@ -67,15 +68,15 @@ So, it looks like SI% has been hidden in those major option expirations through 
 
 &#x200B;
 
-[Deep ITM Call Purchases, March 1st](https://preview.redd.it/iepm3qufbgw61.png?width=145&format=png&auto=webp&s=3837a4da20305942f2a8b740a8bd3731ac552753)
+![Deep ITM Call Purchases, March 1st](https://preview.redd.it/iepm3qufbgw61.png?width=145&format=png&auto=webp&s=3837a4da20305942f2a8b740a8bd3731ac552753)
 
 Ok ok, April 16. Interesting. What's the next purchase on March 3rd?:
 
-[Deep ITM Call Purchases, March 3rd](https://preview.redd.it/ilkqzw9nbgw61.png?width=141&format=png&auto=webp&s=90e8db32728c11229452e046cfc3336f8325ccdb)
+![Deep ITM Call Purchases, March 3rd](https://preview.redd.it/ilkqzw9nbgw61.png?width=141&format=png&auto=webp&s=90e8db32728c11229452e046cfc3336f8325ccdb)
 
 Same date, alright. What purchases were made on March 4th?:
 
-[Deep ITM Call Purchases, March 4th](https://preview.redd.it/kvq3s50wbgw61.png?width=145&format=png&auto=webp&s=9204b40f7e8976435bc8af4b0b18c7c4d8216757)
+![Deep ITM Call Purchases, March 4th](https://preview.redd.it/kvq3s50wbgw61.png?width=145&format=png&auto=webp&s=9204b40f7e8976435bc8af4b0b18c7c4d8216757)
 
 Damn you hedgies, what you doing? 
 
@@ -112,7 +113,7 @@ February 5 -> February 24
 
 February 19 -> March 10
 
-[Now take a look at this data from another wonderful DD](https://preview.redd.it/hqeiaec69kq61.png?width=960&format=png&auto=webp&s=142b6106a5b8824006906f3604af2d779e551165). Shout-out to /u/beyond-mythos for bringing this to my attention.
+![Now take a look at this data from another wonderful DD](https://preview.redd.it/hqeiaec69kq61.png?width=960&format=png&auto=webp&s=142b6106a5b8824006906f3604af2d779e551165). Shout-out to /u/beyond-mythos for bringing this to my attention.
 
 Source: https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/
 
@@ -137,7 +138,7 @@ Yeah, it's a date. I like dates, bitch. I'll leave you with a few supporting not
 
 * Lots of TA is pointing to an apex next week. 
 * US Treasury is issuing 0% bonds on May 4th which mature June 1st. 
-* [Distribution Days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/) have been noticed by ![u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) signaling a potential imminent market crash. Big players must be slowly exiting their positions at the peak of the market.
+* [Distribution Days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/) have been noticed by [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) signaling a potential imminent market crash. Big players must be slowly exiting their positions at the peak of the market.
 * The initial comment period for rule 002/801 will be up next week, so its possible it will go into effect. 
 
 **Oh boy.** Are your tits jacked? Mine are.

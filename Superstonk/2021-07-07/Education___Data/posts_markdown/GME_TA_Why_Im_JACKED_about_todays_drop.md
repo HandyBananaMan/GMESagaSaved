@@ -1,5 +1,6 @@
-# Author: RocketTraveler
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/](https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/)
+#Title: GME TA: Why I'm JACKED about today's drop!
+#Author: RocketTraveler
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/](https://www.reddit.com/r/Superstonk/comments/oftiz8/gme_ta_why_im_jacked_about_todays_drop/)
 
 
 Happy Wednesday Everyone!
@@ -10,7 +11,7 @@ I don't know about you, but today's drop to $177 and subsequent rebound has me *
 
 Some of you may have seen my post last week referencing Rocky Outcrop's custom Directional Movement Index (DMI) indicator and how it was showing we are due for a **HUGE** uptick in volatility after these past four weeks of sideways trading.  If you haven't seen it yet, check it out here for more background:
 
-![https://www.reddit.com/r/Superstonk/comments/obteg7/gme\_the\_powder\_keg\_ready\_to\_explode/](https://www.reddit.com/r/Superstonk/comments/obteg7/gme_the_powder_keg_ready_to_explode/)
+[https://www.reddit.com/r/Superstonk/comments/obteg7/gme\_the\_powder\_keg\_ready\_to\_explode/](https://www.reddit.com/r/Superstonk/comments/obteg7/gme_the_powder_keg_ready_to_explode/)
 
 Guess what?  The DMI indicator switched off today which means we are officially ramping up in volatility for the near future.  ***This has lined up perfectly with numerous other TA indicators that show we may have officially hit our bottom at $177 and are turning around on higher volume***
 

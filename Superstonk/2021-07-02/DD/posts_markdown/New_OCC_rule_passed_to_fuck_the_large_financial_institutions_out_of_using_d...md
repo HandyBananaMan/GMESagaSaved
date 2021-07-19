@@ -1,5 +1,6 @@
-# Author: laflammaster
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/](https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/)
+#Title: New OCC rule passed to fuck the large financial institutions out of using derivatives to pass their tests.
+#Author: laflammaster
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/](https://www.reddit.com/r/Superstonk/comments/ocotk9/new_occ_rule_passed_to_fuck_the_large_financial/)
 
 
 u/leisure_rules has pointed me to the OCC - something that I should have been taking a look at since the beginning of my journey into the workings of the Fed. 
@@ -10,7 +11,7 @@ So I decided to look deeper. OP: [https://www.reddit.com/r/Superstonk/comments/o
 
 After the recent test, it looks like the Fed shat themselves. A new rule was rushed to be introduced by the self-regulating fucks for the banks and split NFSR into 4 categories of application. Despite the rule having been in plan since 2016 and kind of in play, but has a ton of mentions of ‘08 crash.
 
-[the Fed looking back at the '08 crash - I'll fucking do it again!](https://preview.redd.it/gpshz8d4mw871.png?width=808&format=png&auto=webp&s=5217e1c67fed03fb4076ac08fdc6b6661210b8d3)
+![the Fed looking back at the '08 crash - I'll fucking do it again!](https://preview.redd.it/gpshz8d4mw871.png?width=808&format=png&auto=webp&s=5217e1c67fed03fb4076ac08fdc6b6661210b8d3)
 
 Only the Category II of the banks have submitted a comment that the fucks in Category II will have a **fire sale** with such strict requirements. Rule passed for more stringent reporting just after the Fed passed the stress test for the banks, allowing them to buy back shares ($12Bn worth, likely the $12Bn that they got from gouging their customers on overdraft fees - no joke ($11Bn in 2019)). 
 
@@ -20,7 +21,7 @@ Now these agencies are no longer going to count derivatives towards a positive A
 
 Look at the equation (sauce to u/leisure_rules) : 
 
-[NSFR Ratio calculation](https://preview.redd.it/06e8x7immw871.png?width=350&format=png&auto=webp&s=02ab003204ff3a22949659661339635e9a41fbdf)
+![NSFR Ratio calculation](https://preview.redd.it/06e8x7immw871.png?width=350&format=png&auto=webp&s=02ab003204ff3a22949659661339635e9a41fbdf)
 
 **What is ASF:**
 
@@ -71,7 +72,7 @@ Along with the “poorly done” Dodd-Frank Act, the board (Fed) decided to adop
 
 Here’s where the margin debt comes in - being 2x that of ‘00 and ‘08 crashes. Coupled with u/Criand DD - means the OCC is realizing how big of a shitshow it has become, and was never dealt with until Retail started making money and exposing their shit. 
 
-[Margin Debt w\/ S&P500](https://preview.redd.it/h6z4tnfdnw871.png?width=1238&format=png&auto=webp&s=2379718666e122b78046c5be4ee487a7df8ec057)
+![Margin Debt w\/ S&P500](https://preview.redd.it/h6z4tnfdnw871.png?width=1238&format=png&auto=webp&s=2379718666e122b78046c5be4ee487a7df8ec057)
 
 **Overview of the Proposed Rule and Proposed Scope of Application**
 
@@ -107,4 +108,4 @@ The agencies have decided to break down the application/companies into 4 categor
 3. Category III: 85%
 4. Category IV: 70%
 
-**Short Sales** \- I SUGGEST YOU READ THE WHOLE SECTION (IT IS GOLD) (![https://www.federalregister.gov/d/2020-26546/p-810](https://www.federalregister.gov/d/2020-26546/p-810))
+**Short Sales** \- I SUGGEST YOU READ THE WHOLE SECTION (IT IS GOLD) ([https://www.federalregister.gov/d/2020-26546/p-810](https://www.federalregister.gov/d/2020-26546/p-810))

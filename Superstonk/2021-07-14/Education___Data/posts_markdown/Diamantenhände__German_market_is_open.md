@@ -1,5 +1,6 @@
-# Author: Parsnip
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojy1iz/diamantenhände_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/ojy1iz/diamantenhände_german_market_is_open/)
+#Title: Diamantenhände 💎👐 German market is open 🇩🇪
+#Author: Parsnip
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojy1iz/diamantenhände_german_market_is_open/](https://www.reddit.com/r/Superstonk/comments/ojy1iz/diamantenhände_german_market_is_open/)
 
 
 Guten Morgen to all of you Great Apes across the world! 👋🦍
@@ -43,7 +44,7 @@ Today is Wednesday, July 14th and you know what that means! GMErican Apes are (o
 
 
 ***
-FAQ: I'm capturing current price and volume data from a single German exchange and converting to USD. Today's euro -> USD conversion ratio is 1.18395457. There are occasionally small differences in price that are below the rounding error to two decimal places, which can lead to colorful boxes without obvious price change. I wrote and maintain a C# application that assists me in fetching this data and updating the post. If you'd like to check current prices directly, you can check [Lang & Schwarz](https://www.ls-tc.de/de/aktie/gamestop-aktie) or ![TradeGate](https://www.tradegate.de/orderbuch.php?isin=US36467W1099)
+FAQ: I'm capturing current price and volume data from a single German exchange and converting to USD. Today's euro -> USD conversion ratio is 1.18395457. There are occasionally small differences in price that are below the rounding error to two decimal places, which can lead to colorful boxes without obvious price change. I wrote and maintain a C# application that assists me in fetching this data and updating the post. If you'd like to check current prices directly, you can check [Lang & Schwarz](https://www.ls-tc.de/de/aktie/gamestop-aktie) or [TradeGate](https://www.tradegate.de/orderbuch.php?isin=US36467W1099)
 
 Many among the Diamantenhände community are concerned about the well-being of the originator of the series, u/DerGurkenraspler. I also am worried, as I have tried to make contact many times and haven't received a direct response. Two weeks ago, DerGurkenraspler deleted their Reddit account. While this gives me hope that they are alive and well, it seems to be a certainty that they will not be resuming their role as the originator of the series. I've been serving as guest-host since their unexpected absence began and I intend to continue to post updates, but dearly hope that DerGurkenraspler is well and sincerely thank them for the effort they put into building the worldwide community that lives on.
 

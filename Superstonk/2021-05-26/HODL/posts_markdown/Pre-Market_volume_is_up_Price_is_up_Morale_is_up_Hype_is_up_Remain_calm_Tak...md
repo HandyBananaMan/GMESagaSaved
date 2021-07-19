@@ -1,5 +1,6 @@
-# Author: bruiserb1172
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlfly0/premarket_volume_is_up_price_is_up_morale_is_up/](https://www.reddit.com/r/Superstonk/comments/nlfly0/premarket_volume_is_up_price_is_up_morale_is_up/)
+#Title: Pre-Market volume is up. Price is up. Morale is up. Hype is up... Remain calm. Take a breath. Remember your training 🙌🏻💎
+#Author: bruiserb1172
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlfly0/premarket_volume_is_up_price_is_up_morale_is_up/](https://www.reddit.com/r/Superstonk/comments/nlfly0/premarket_volume_is_up_price_is_up_morale_is_up/)
 
 
 January Ape here...

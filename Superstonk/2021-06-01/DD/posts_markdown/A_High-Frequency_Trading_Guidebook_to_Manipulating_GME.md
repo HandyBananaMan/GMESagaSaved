@@ -1,5 +1,6 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/](https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/)
+#Title: A High-Frequency Trading Guidebook to Manipulating GME
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/](https://www.reddit.com/r/Superstonk/comments/npv6wy/a_highfrequency_trading_guidebook_to_manipulating/)
 
 
 Your resident Analytical Ape here to not rain on a parade, for once.
@@ -10,7 +11,7 @@ The title was low-key clickbait, you'll find out why - but we go through A LOT o
 
 &#x200B;
 
-[GME Monthly Candle Chart](https://preview.redd.it/oitl8n65vn271.png?width=1072&format=png&auto=webp&s=747f9800b84345cf535541840ce92d51f43b75db)
+![GME Monthly Candle Chart](https://preview.redd.it/oitl8n65vn271.png?width=1072&format=png&auto=webp&s=747f9800b84345cf535541840ce92d51f43b75db)
 
 I’m trying out a new format, given market structure gets complicated. For complicated sections there will be a 🍌🦧 **Monke Speke** section and a 📈🧠 **Technical Speke** section. So for those that want the nitty gritty, stick around for the technical speke.
 
@@ -103,7 +104,7 @@ Funnily enough, the NYSE has tried to [amend how ALO orders work](https://www.fe
 
 &#x200B;
 
-[NYSE Chicago Order Type Data](https://preview.redd.it/frriegpevn271.png?width=1081&format=png&auto=webp&s=75bb3cf585fd2f3b13cc2dcbb3b4c1090755e729)
+![NYSE Chicago Order Type Data](https://preview.redd.it/frriegpevn271.png?width=1081&format=png&auto=webp&s=75bb3cf585fd2f3b13cc2dcbb3b4c1090755e729)
 
 **Assumption:** As usual, this is the NYSE Chicago exchange, I focus on this exchange as it has the least volume and it’s easier to see how order type behaviors move. I also hypothesise that it’s one of Citadel’s and others stomping grounds for GME as well given we saw an adverse change in October which is when Retail interest really started to lift dramatically.
 
@@ -125,7 +126,7 @@ I have not historically given IOC ISOs much love, given they represent 40% of or
 
 &#x200B;
 
-[NYSE Chicago Order Type Data](https://preview.redd.it/ypmc8c6kvn271.png?width=1098&format=png&auto=webp&s=0314e6ffdec6a6dd6c56918a1d72114fd15d801c)
+![NYSE Chicago Order Type Data](https://preview.redd.it/ypmc8c6kvn271.png?width=1098&format=png&auto=webp&s=0314e6ffdec6a6dd6c56918a1d72114fd15d801c)
 
 These orders have had their fare of flack, causing stock prices to crash previously due to the [imbalance they cause](https://www.wsj.com/articles/BL-MB-21819). Possibly a correlation with [higher information share](https://sci-hub.se/https://www.researchgate.net/publication/306222250_Clean_sweep_Informed_trading_through_intermarket_sweep_orders) than non ISOs which results in them being preferenced.
 
@@ -139,7 +140,7 @@ So what this implies is and from the huge increase above on NYSE Chicago (for re
 
 &#x200B;
 
-[NYSE Arca Order Type Data](https://preview.redd.it/pwuz981nvn271.png?width=946&format=png&auto=webp&s=1e5ee275df5470b09a9f7b19040c1ac7fe774573)
+![NYSE Arca Order Type Data](https://preview.redd.it/pwuz981nvn271.png?width=946&format=png&auto=webp&s=1e5ee275df5470b09a9f7b19040c1ac7fe774573)
 
 **Conclusion:** Given NYSE Chicago sits at 20% above Arca and there was also a 20% shift upwards from Sep-20 to Oct-20, when GME started to gain retail attention - i’m going to sit on the side of the fence, which is HFTs are using IOC ISOs for more nefarious purposes.
 
@@ -149,7 +150,7 @@ So what this implies is and from the huge increase above on NYSE Chicago (for re
 
 Switching over to another data source, [SEC Market Structure Data](https://www.sec.gov/marketstructure/market-structure-analytics). Before we get into data, consume this cool graphic. Since it’s much more fun than a written explanation.
 
-[Sorry, can't find the source, from a news site back in the days](https://preview.redd.it/v5uhhzavvn271.png?width=637&format=png&auto=webp&s=b5a23010a1caad91550fc6382cd78063d52cba53)
+![Sorry, can't find the source, from a news site back in the days](https://preview.redd.it/v5uhhzavvn271.png?width=637&format=png&auto=webp&s=b5a23010a1caad91550fc6382cd78063d52cba53)
 
 And here is a written version
 
@@ -159,7 +160,7 @@ Now for some data. What we’re looking at is the hidden rate across all exchang
 
 &#x200B;
 
-[SEC Hidden Rate Data](https://preview.redd.it/b6e21nb1wn271.png?width=1063&format=png&auto=webp&s=c417fb78a68e1eb5086283405f7f06dd76b5fb9e)
+![SEC Hidden Rate Data](https://preview.redd.it/b6e21nb1wn271.png?width=1063&format=png&auto=webp&s=c417fb78a68e1eb5086283405f7f06dd76b5fb9e)
 
 Given the knowledge of hidden orders, it’s a clear indicator of non-retail trading taking place, namely by HFTs. Let’s put some commentary to each, shall we?
 
@@ -189,7 +190,7 @@ As you can imagine, it’s not odd to have a cancel to trade ratio of >10.
 
 &#x200B;
 
-[SEC Cancel to Trade Data](https://preview.redd.it/y96mehp6wn271.png?width=1077&format=png&auto=webp&s=17f8c65ba7a23267f1dfdd4249d4a89b41a82b55)
+![SEC Cancel to Trade Data](https://preview.redd.it/y96mehp6wn271.png?width=1077&format=png&auto=webp&s=17f8c65ba7a23267f1dfdd4249d4a89b41a82b55)
 
 This is visualised above, through four tickers, all ratios are well above 1 and often sit above a cancel to trade ratio of 10.
 
@@ -199,7 +200,7 @@ The odd bunch of the pack is GME. AMC and GME dipped low during the late January
 
 &#x200B;
 
-[&#37; of Total Lit Volume by Exchange \(exchanges greyed ou](https://preview.redd.it/8b30waw9wn271.png?width=1084&format=png&auto=webp&s=2c3e491a083f761d3028a684d86b8a08d5f0cf6e)
+![&#37; of Total Lit Volume by Exchange \(exchanges greyed ou](https://preview.redd.it/8b30waw9wn271.png?width=1084&format=png&auto=webp&s=2c3e491a083f761d3028a684d86b8a08d5f0cf6e)
 
 The chart above is looking at the exchange's % share when it comes to GMEs weekly lit volume. The main trend we can see is that Edge-X has been increasing since retail hype sparked in September-2020. Thanking u/dlauer here, as he put forward reasoning that suggests orders are being routed through Edge-X due to the rebates given on that particular exchange. MMs not only make money off the spread, they also look to make money through rebates.
 
@@ -235,7 +236,7 @@ If you’re like me, not once - Auspoor here after all. What I'm alluding to is 
 
 &#x200B;
 
-[NASDAQ Response to Reg NMS II](https://preview.redd.it/9z6co24oxn271.png?width=1051&format=png&auto=webp&s=6b453abd61c15b01cd27b58daea7db442f9e9a1e)
+![NASDAQ Response to Reg NMS II](https://preview.redd.it/9z6co24oxn271.png?width=1051&format=png&auto=webp&s=6b453abd61c15b01cd27b58daea7db442f9e9a1e)
 
 For reference, take this picture above, it’s an example that shows investors can be protected at the NBBO thanks to even lots, but odd lots can exist at better prices.
 
@@ -243,7 +244,7 @@ The SEC adopted a new rule to change how this is applied to the NBBO and PBBO, b
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/news\/press-release\/2020-311](https://preview.redd.it/qoudtqlrxn271.png?width=683&format=png&auto=webp&s=48d60f9df9b831bd0eb5f4e153d4642287827cea)
+![https:\/\/www.sec.gov\/news\/press-release\/2020-311](https://preview.redd.it/qoudtqlrxn271.png?width=683&format=png&auto=webp&s=48d60f9df9b831bd0eb5f4e153d4642287827cea)
 
 **What does this mean?**
 

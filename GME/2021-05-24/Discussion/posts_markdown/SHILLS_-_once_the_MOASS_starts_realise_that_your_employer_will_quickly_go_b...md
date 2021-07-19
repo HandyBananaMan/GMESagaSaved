@@ -1,5 +1,6 @@
-# Author: TotalBeginnerLol
-# Post URL: [https://www.reddit.com/r/GME/comments/nk31nc/shills_once_the_moass_starts_realise_that_your/](https://www.reddit.com/r/GME/comments/nk31nc/shills_once_the_moass_starts_realise_that_your/)
+#Title: SHILLS - once the MOASS starts, realise that your employer will quickly go bankrupt and wont pay you, so you can stop shilling immediately.
+#Author: TotalBeginnerLol
+#Post URL: [https://www.reddit.com/r/GME/comments/nk31nc/shills_once_the_moass_starts_realise_that_your/](https://www.reddit.com/r/GME/comments/nk31nc/shills_once_the_moass_starts_realise_that_your/)
 
 
 When it happens, stop shilling completely as there's not reason at all to continue. And buy at least 1 GME if you’re stupid enough not to be already holding anyway. Ask yourself "why would someone need to hire me to shill for them if the company really wasn't about to explode and take them down?" The answer is pretty obvious.

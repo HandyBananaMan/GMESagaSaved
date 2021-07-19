@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)
+#Title: All Shorts Must Cover. They're Entering The Danger Zone. The SI Report Loop Consistently Brings Us Ever Closer To The Squeeze.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/](https://www.reddit.com/r/Superstonk/comments/n792mf/all_shorts_must_cover_theyre_entering_the_danger/)
 
 
 # 0. Preface
@@ -24,7 +25,7 @@ So it's probably safe to assume that somewhere in the range of **$160** and **$3
 
 It's literally just a war of attrition while the apes have infinite supply of time as we approach and enter what I like to call the **DANGER ZONE**. Kenny G and his friends are on that highway right now and have been ever since January.
 
-[Source: Ryan Cohen in Top Gun \(1986\)](https://preview.redd.it/gbu7ar5tjsx61.png?width=1124&format=png&auto=webp&s=8e2738b89eddcb55aab7f9d9360a3ce887652c86)
+![Source: Ryan Cohen in Top Gun \(1986\)](https://preview.redd.it/gbu7ar5tjsx61.png?width=1124&format=png&auto=webp&s=8e2738b89eddcb55aab7f9d9360a3ce887652c86)
 
 You'll start to notice something wonderful when you look at the charts starting from January and **ignore the trend downward** but rather **look at the trend upward**. Your doubts should erase from your mind when you notice it.
 
@@ -36,7 +37,7 @@ Hm. I'd feel completely different. Give me that sweet sweet hopium hit. It would
 
 I only needed to bust out one crayon 🖍️ from my mega 96-crayon pack for this chart. **The price floor (blue line) is continuing to rise. Not only this, we're just now entering the DANGER ZONE!! (purple box)**. While it appears we are on a downtrend from looking at the decay in price from $220 to $160, GME is in fact going  to higher and higher floors on these smaller and smaller bursts up. (FTD loop theory is right boys and girls, but I don't think it's been ironed out yet).
 
-[GME Price Floor Rising Into The Danger Zone](https://preview.redd.it/o8ucx63yjsx61.png?width=978&format=png&auto=webp&s=0ea68935473a0d36925d0a973a1a3260af0e5d1e)
+![GME Price Floor Rising Into The Danger Zone](https://preview.redd.it/o8ucx63yjsx61.png?width=978&format=png&auto=webp&s=0ea68935473a0d36925d0a973a1a3260af0e5d1e)
 
 Well well well. The price floor continues to rise in this dampening effect of price peaks and troughs. It's not going down! It's already going into the **GODDAMN DANGER ZONE!** They are growing weak at trying to suppress the price. Their efforts can't contain it forever.
 
@@ -56,7 +57,7 @@ The longer this drags out, the higher the price floor becomes, until it kicks of
 
 # 2. Hello FTD Loop - Or Should I Say SI Report Loop
 
-This isn't T+21 or T+35 or anything. But I think it might finally paint the picture of why we have theories ranging from T+13 to T+21 to T+35, and everything in between. We definitely have  a loopthat is occurring. And  it's most likely due to something called ![Short Interest Reporting](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest) from FINRA.
+This isn't T+21 or T+35 or anything. But I think it might finally paint the picture of why we have theories ranging from T+13 to T+21 to T+35, and everything in between. We definitely have  a loopthat is occurring. And  it's most likely due to something called [Short Interest Reporting](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest) from FINRA.
 
 Short interest?! That's two words we're all very familiar with. What exactly is this?
 

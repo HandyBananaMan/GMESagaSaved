@@ -1,8 +1,9 @@
-# Author: MrInvolute
-# Post URL: [https://www.reddit.com/r/GME/comments/mhnsf0/huge_ass_confirmation_bias_response_from/](https://www.reddit.com/r/GME/comments/mhnsf0/huge_ass_confirmation_bias_response_from/)
+#Title: HUGE ASS CONFIRMATION BIAS: Response from Gurufocus about short interest data validity
+#Author: MrInvolute
+#Post URL: [https://www.reddit.com/r/GME/comments/mhnsf0/huge_ass_confirmation_bias_response_from/](https://www.reddit.com/r/GME/comments/mhnsf0/huge_ass_confirmation_bias_response_from/)
 
 
-I recently commented on ![this post](https://www.reddit.com/r/GME/comments/me7ziy/as_of_today_gurufocuscom_is_reporting_gamestops/) about the short interest data listed on Gurufocus' website being 292.53% and how the data is different from their vender, Morningstar. I decided to contact them about it and this is what they said.
+I recently commented on [this post](https://www.reddit.com/r/GME/comments/me7ziy/as_of_today_gurufocuscom_is_reporting_gamestops/) about the short interest data listed on Gurufocus' website being 292.53% and how the data is different from their vender, Morningstar. I decided to contact them about it and this is what they said.
 
 Gurufocus: "My apologies for the wait. Our lead data team member is out today, but we believe the information listed may be outdated as we were having licensing issues with our data vendor. Please submit a support ticket at the following link so that our data team can follow up with you on the issue."
 

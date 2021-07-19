@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/)
+#Title: Jerkin' it With Gherkinit : Forward looking Technical Analysis for the week of 5/10/21-5/14/21
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/n8qlbh/jerkin_it_with_gherkinit_forward_looking/)
 
 
 Hello, fellow apes!
@@ -18,7 +19,7 @@ Edit 1\* Tomorrow before 6pm Eastern.\*
 
 First thing first the one everyone is always asking about the previous descending wedge/bull pennant indicator that we have been looking at for 2 weeks now. This formation was adjusted after the week of 5/3-5/7 as I believed there was a false breakout due to GME's market valuation being fundamentally changed by the sale of 3.5M shares at $157. This week the price broke out and appears to be using the upper resistance of the wedge as support. Here is where it is currently on the 4-Hour chart.
 
-[Breakout on the 4hr Linear Chart](https://preview.redd.it/fv2tuf8378y61.png?width=1177&format=png&auto=webp&s=0fb36f206e4c9a6f0f602a5240890350e0bc93ba)
+![Breakout on the 4hr Linear Chart](https://preview.redd.it/fv2tuf8378y61.png?width=1177&format=png&auto=webp&s=0fb36f206e4c9a6f0f602a5240890350e0bc93ba)
 
 The floor of 157 proved mostly true this week as we only went below it briefly on the intraday Tuesday and Thursday. We did not stay below for long. I continue to see 157 as being a very strong support trend moving forward as I believe the buy side is actively looking to purchase under that price point.
 
@@ -30,11 +31,11 @@ If you want to know more about log vs. linear, check out [this](https://www.inve
 
 So here is the same pennant, drawn at the same angle on a log chart.
 
-[4hr Pennant on log chart](https://preview.redd.it/3ie9ymt678y61.png?width=1045&format=png&auto=webp&s=4d3e9e18228813286764ffdffe41759084e5f966)
+![4hr Pennant on log chart](https://preview.redd.it/3ie9ymt678y61.png?width=1045&format=png&auto=webp&s=4d3e9e18228813286764ffdffe41759084e5f966)
 
 This ever so slightly adjusts the end point showing the peak at 5:30pm Wednesday. **This is the absolute last time this is going to be changed/adjusted**. I truly think this is the most accurate representation of this pennant I can create. So where do we breakout?  Let's look
 
-[Upper channel will peak between 2-6pm EST on Monday 5\/10, the Lower channel will peak between 1:30-5:30pm EST on Wednesday 5\/12.](https://preview.redd.it/5t1mj9c978y61.png?width=1265&format=png&auto=webp&s=bdbc940e27f08205b2b066f70e8f233c329e138b)
+![Upper channel will peak between 2-6pm EST on Monday 5\/10, the Lower channel will peak between 1:30-5:30pm EST on Wednesday 5\/12.](https://preview.redd.it/5t1mj9c978y61.png?width=1265&format=png&auto=webp&s=bdbc940e27f08205b2b066f70e8f233c329e138b)
 
 So we have upper and lower channel breakout points upper will occur if we trade above 162.50 and the lower below $162.50 but above $157. I believe after this breakout point that short sale value will have dried up and the cost to borrow will become greater than the value of shorting, this could be the catalyst.
 
@@ -44,21 +45,21 @@ I'll go deeper into this later for now more indicators....
 
 This is the current state of MACD, everyone's favorite trend-following momentum indicator. It looks like we are teetering on either crossing over on increased volume to the upside, or continuing a downtrend as the signal line and MACD diverge.
 
-[1D timescale MACD](https://preview.redd.it/05d64smb78y61.png?width=1422&format=png&auto=webp&s=8a8524a85b00f7cd7e67d964b58719a110305bdd)
+![1D timescale MACD](https://preview.redd.it/05d64smb78y61.png?width=1422&format=png&auto=webp&s=8a8524a85b00f7cd7e67d964b58719a110305bdd)
 
 We could get one more red day, then see a crossover on Tuesday to the upside. Mirroring the previous green pattern.
 
-[Possible upside move on Monday or Tuesday](https://preview.redd.it/y792cele78y61.png?width=1229&format=png&auto=webp&s=9eeaec97cc1cfc518b1246386c7740c478a85ef5)
+![Possible upside move on Monday or Tuesday](https://preview.redd.it/y792cele78y61.png?width=1229&format=png&auto=webp&s=9eeaec97cc1cfc518b1246386c7740c478a85ef5)
 
 **Section C: TTM Squeeze**
 
 TTM Squeeze is a volume and volatility indicator. We are looking for 5 or more fire signals on the daily to indicate a possible upside move in the near future. We Have 7 this is a pretty good sign that we can expect a decent amount of upwards momentum this week.
 
-[7 fire signals on TTM Squeeze 1D timescale](https://preview.redd.it/yp393ejg78y61.png?width=1123&format=png&auto=webp&s=67fb16e218d3436a4f7be34257f6cf257f145151)
+![7 fire signals on TTM Squeeze 1D timescale](https://preview.redd.it/yp393ejg78y61.png?width=1123&format=png&auto=webp&s=67fb16e218d3436a4f7be34257f6cf257f145151)
 
 Also the upper Bollinger band has crossed into the Keltner channel here
 
-[Upper Bollinger Band crossed into the Keltner channel on 5\/3\/21](https://preview.redd.it/affxf6ii78y61.png?width=1024&format=png&auto=webp&s=c38092c5ab5b7f5700a66987b45c8a8822ba153d)
+![Upper Bollinger Band crossed into the Keltner channel on 5\/3\/21](https://preview.redd.it/affxf6ii78y61.png?width=1024&format=png&auto=webp&s=c38092c5ab5b7f5700a66987b45c8a8822ba153d)
 
 This lends more credence to the TTM squeeze signals. More info [here](https://trendspider.com/blog/how-to-trade-ttm-squeeze-indicator/).
 
@@ -88,11 +89,11 @@ I believe much like in my dollar value example, they have simply counterfeited t
 
 I think warden's post earlier this week confirms my theory as OBV is becoming unaffected by what the data shows to be ever increasing short pressure. So previously they were able to tank the price and now they are selling 59%+ of our daily volume short and the price is staying the same
 
-[http:\/\/shortvolumes.com\/?t=GME](https://preview.redd.it/7kl674rk78y61.png?width=826&format=png&auto=webp&s=c6ccf0fa28dcf12100c7ec1667bb3f0eff5bd5c7)
+![http:\/\/shortvolumes.com\/?t=GME](https://preview.redd.it/7kl674rk78y61.png?width=826&format=png&auto=webp&s=c6ccf0fa28dcf12100c7ec1667bb3f0eff5bd5c7)
 
 Here is the effective price change from all that shorting
 
-[https:\/\/www.investing.com\/equities\/gamestop-corp-historical-data](https://preview.redd.it/m9dr06xm78y61.png?width=671&format=png&auto=webp&s=9a15e141d73eb6f600496261e04aeb12083b874a)
+![https:\/\/www.investing.com\/equities\/gamestop-corp-historical-data](https://preview.redd.it/m9dr06xm78y61.png?width=671&format=png&auto=webp&s=9a15e141d73eb6f600496261e04aeb12083b874a)
 
 We are up 6.57%...
 
@@ -144,7 +145,7 @@ This led me to the thought
 
 It could be if the lenders can make it lucrative for the SHFs to short why would they stop so I started building a scenario in my head what if the deal looks something like this.
 
-[Incentivized borrowing agreement](https://preview.redd.it/i5b4ttep78y61.png?width=1300&format=png&auto=webp&s=479429fb722f3c3caebb08adafc7e09f71911622)
+![Incentivized borrowing agreement](https://preview.redd.it/i5b4ttep78y61.png?width=1300&format=png&auto=webp&s=479429fb722f3c3caebb08adafc7e09f71911622)
 
 So the lender lays out a deal where simply by posting the cash collateral the SHF is able to short the stock at no fee while earning the interest or profits off the cash held in collateral. This incentivizes the SHF to continue shorting the stock as the are making profits while accumulating larger and larger short positions. While the Lender accrues more and more collateral.
 
@@ -176,7 +177,7 @@ But starting this DD this week I accidentally looked at something that I hadn't 
 
 **We didn't realize how fuk the shorts were because we weren't looking at the big picture.**
 
-[The short positions were created back in 2015](https://preview.redd.it/4wfb7l9s78y61.png?width=1417&format=png&auto=webp&s=3079fdda383f2b641deba521af75ede57f92a499)
+![The short positions were created back in 2015](https://preview.redd.it/4wfb7l9s78y61.png?width=1417&format=png&auto=webp&s=3079fdda383f2b641deba521af75ede57f92a499)
 
 By the looks of the OBV (thanks! u/WardenElite) they had a pretty successful run of shorting from October 2015 to July of 2020 and then the stock started to climb slowly. They definitely continued to short during the period from July -Dec 2020 reaching the short interest they did in January of 143% short. I think that the slow creep from $3 in July to $20 in December locked in their positions that they had been building for **five years** and the run up in January cemented it.
 

@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/](https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/)
+#Title: Elliott Waves and The Top Of The Market, Is This THE TOP?
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/](https://www.reddit.com/r/Superstonk/comments/obn6rx/elliott_waves_and_the_top_of_the_market_is_this/)
 
 
 Sup Apes
@@ -16,7 +17,7 @@ In that post, I believe I gave a target of around high 429, though there are mul
 
 Outlined for your convenience: 
 
-[1hr](https://preview.redd.it/jhtm62381m871.png?width=2780&format=png&auto=webp&s=b0ccbc59d4550218f31d0ada2c8d8761200d336f)
+![1hr](https://preview.redd.it/jhtm62381m871.png?width=2780&format=png&auto=webp&s=b0ccbc59d4550218f31d0ada2c8d8761200d336f)
 
 I'm gonna zoom out so you can see the super cycle 5 target, as I believe this to be the most valid/important level. I got this target by measure waves 1-3 and bringing the extension down to the low of 4 (covid flash crash).   
 
@@ -25,7 +26,7 @@ First level is the .618 level, next target being the .786.
 
 The .618 level was passed long ago, narrowing our top end super cycle target at 432.08 (blue line):
 
-[super cycle from end of 08](https://preview.redd.it/4o3ox7l42m871.png?width=2764&format=png&auto=webp&s=573f48c86294ac2066831fcda390b8e890b2893b)
+![super cycle from end of 08](https://preview.redd.it/4o3ox7l42m871.png?width=2764&format=png&auto=webp&s=573f48c86294ac2066831fcda390b8e890b2893b)
 
 clearly, even though i have a shit ton of borderline aneurism inducing levels, it looks like we are running out of steam.
 
@@ -33,7 +34,7 @@ Just for fun, I went and analyzed the grand super cycle of SPX, as the grand sup
 
 super briefly, just look and take from the image what you will.
 
-[monthly](https://preview.redd.it/ewer0klg2m871.png?width=2788&format=png&auto=webp&s=0a3a3ed9d875ef9392951f7c990e7c448e877105)
+![monthly](https://preview.redd.it/ewer0klg2m871.png?width=2788&format=png&auto=webp&s=0a3a3ed9d875ef9392951f7c990e7c448e877105)
 
 IDK about you, but me thinks the music is about to stop.
 

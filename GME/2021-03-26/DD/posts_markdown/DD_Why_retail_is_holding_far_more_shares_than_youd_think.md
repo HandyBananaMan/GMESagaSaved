@@ -1,5 +1,6 @@
-# Author: thedav1d
-# Post URL: [https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/](https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/)
+#Title: DD: Why retail is holding far more shares than you'd think
+#Author: thedav1d
+#Post URL: [https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/](https://www.reddit.com/r/GME/comments/mduj5t/dd_why_retail_is_holding_far_more_shares_than/)
 
 
 *Disclaimer: I am in no way an expert or a financial advisor, this is not financial advice, this is only my understanding of the current situation based on what I have read. I entered the stock market about 8 months ago, so please correct me in the comments if I'm wrong, and I'll edit the post.*
@@ -89,7 +90,7 @@ Back to our example, after shorts cover (by buying 200 of the 300 longs out ther
 
 HOWEVER, since they need to buy back a very large number of shares, the supply won't be able to keep up with the demand, so the price will shoot up until they can find longs willing to sell their shares. Let's say that ***Long1*** decides to sell his 100 shares. The price will stop going up, and might even dip slightly, since supply just increased. But once the order is filled, the shorts still need 100 shares more, so the price will keep going up until either ***Long2*** or ***Long3*** are willing to sell.
 
-[Long whales selling would only be a dip during the squeeze](https://preview.redd.it/3phegvwyzep61.png?width=1225&format=png&auto=webp&s=eb5c4c567d24db8ac0699a699b27fd2f9071f7d9)
+![Long whales selling would only be a dip during the squeeze](https://preview.redd.it/3phegvwyzep61.png?width=1225&format=png&auto=webp&s=eb5c4c567d24db8ac0699a699b27fd2f9071f7d9)
 
 1. ***Short1*** need to cover their 100 shares short, so they put in buy orders, supply cannot keep up, price goes up.
 2. ***Long1*** sells their 100 shares, the buy orders get filled, price stalls.
@@ -147,7 +148,7 @@ There are likely millions more from all the other ETFs and mutual funds that did
 
 **So in total, it would mean that at least 54 million of the 70 million outstanding shares are actually locked away and will not be sold during the squeeze.**
 
-*Side note: it might look like I counted RC's 9 million shares twice, since I said he was an insider by the SEC's standard, however when looking at the* ![*insider transaction history*](https://finance.yahoo.com/quote/GME/insider-transactions?p=GME)*, we can see that RC's 9-million-share purchase is not listed, therefore he isn't part of the % held by insiders.*
+*Side note: it might look like I counted RC's 9 million shares twice, since I said he was an insider by the SEC's standard, however when looking at the* [*insider transaction history*](https://finance.yahoo.com/quote/GME/insider-transactions?p=GME)*, we can see that RC's 9-million-share purchase is not listed, therefore he isn't part of the % held by insiders.*
 
 &#x200B;
 

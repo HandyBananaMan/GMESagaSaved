@@ -1,5 +1,6 @@
-# Author: npham54
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/](https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/)
+#Title: SR-DTCC-2021-005 was APPROVED last night!
+#Author: npham54
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/](https://www.reddit.com/r/Superstonk/comments/o7jyho/srdtcc2021005_was_approved_last_night/)
 
 
 They snuck this in under everyone's noses!!!  IT'S APPROVED!
@@ -8,7 +9,7 @@ Just waiting for confirmation for pubication in the Federal Register for passing
 
  [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings) 
 
- ![https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf) 
+ [https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-005-Approval-Notice.pdf) 
 
 &#x200B;
 

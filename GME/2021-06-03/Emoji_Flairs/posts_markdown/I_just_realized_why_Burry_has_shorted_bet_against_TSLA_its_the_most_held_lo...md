@@ -1,5 +1,6 @@
-# Author: Frotselke
-# Post URL: [https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/](https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/)
+#Title: I just realized why Burry has shorted (bet against) TSLA... its the most held long stock of Hedgefunds. And guess what HF need to sell to be able to pay for GME... Slowpoke just gained a wrinkle 🚀💎🙌
+#Author: Frotselke
+#Post URL: [https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/](https://www.reddit.com/r/GME/comments/nr7xsp/i_just_realized_why_burry_has_shorted_bet_against/)
 
 
 
@@ -10,7 +11,7 @@ Edit 2: Oh wow so many people share the thought! Thank you for the upvotes! For 
 
 So I saw this post:
 
-![https://www.reddit.com/r/stocks/comments/nr1dkn/beware\_of\_what\_amc\_shorts\_are\_holding/](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/)
+[https://www.reddit.com/r/stocks/comments/nr1dkn/beware\_of\_what\_amc\_shorts\_are\_holding/](https://www.reddit.com/r/stocks/comments/nr1dkn/beware_of_what_amc_shorts_are_holding/)
 
 And I realized why Dr. Burry bet against TSLA.. It's the most held long stock of the HF. And what happens to it when they need to sell it to pay for GME?
 

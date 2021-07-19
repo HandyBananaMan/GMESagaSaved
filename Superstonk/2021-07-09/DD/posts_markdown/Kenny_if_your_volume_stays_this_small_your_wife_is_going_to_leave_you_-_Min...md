@@ -1,5 +1,6 @@
-# Author: taliskergunn
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/](https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/)
+#Title: Kenny, if your volume stays this small, your wife is going to leave you - Minute by Minute guy 9/7 update, and inaugural week by week comparison
+#Author: taliskergunn
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/](https://www.reddit.com/r/Superstonk/comments/oh6byg/kenny_if_your_volume_stays_this_small_your_wife/)
 
 
 HELLO EVERYONE!
@@ -23,7 +24,7 @@ I'll do a quick explanation on what I am doing for new people, for those who alr
 
 &#x200B;
 
-[Fairly simple](https://preview.redd.it/xoq9aoci19a71.png?width=683&format=png&auto=webp&s=26e60f34864a2317519050fd863b7aa4c0942064)
+![Fairly simple](https://preview.redd.it/xoq9aoci19a71.png?width=683&format=png&auto=webp&s=26e60f34864a2317519050fd863b7aa4c0942064)
 
 **Okay, so what happened today?**
 
@@ -89,7 +90,7 @@ Oh yeah, today's opening candle actually contained more than 5% of the entire da
 
 &#x200B;
 
-[I was noticing a distinct lack of pretty pictures, my bad](https://preview.redd.it/q6cvxgybb9a71.jpg?width=1920&format=pjpg&auto=webp&s=a714858b85a5a723a6ba02c7f250c793847f3280)
+![I was noticing a distinct lack of pretty pictures, my bad](https://preview.redd.it/q6cvxgybb9a71.jpg?width=1920&format=pjpg&auto=webp&s=a714858b85a5a723a6ba02c7f250c793847f3280)
 
 Alright now we've got a pretty picture to remind us why we're all holding and what we're gonna get from this, let's compare **this week to last week.**
 

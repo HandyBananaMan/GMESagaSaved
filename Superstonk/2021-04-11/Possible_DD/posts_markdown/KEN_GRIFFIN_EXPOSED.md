@@ -1,5 +1,6 @@
-# Author: BetOnThis21
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/](https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/)
+#Title: KEN GRIFFIN EXPOSED
+#Author: BetOnThis21
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/](https://www.reddit.com/r/Superstonk/comments/mou8ww/ken_griffin_exposed/)
 
 
 **An overview of the deplorable Mr. Ken Griffin**
@@ -168,7 +169,7 @@ Citadel accepts these fines as they aren't high enough to be a deterrent (no sha
 
 Just watch this, he doesn't blink and ABSOLUTELY believes everything he says:
 
-![https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
+[https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
 
 &#x200B;
 

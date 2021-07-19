@@ -1,5 +1,6 @@
-# Author: Digitlnoize
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohhwkk/a_basket_of_shorts_why_so_many_meme_stocks_move/](https://www.reddit.com/r/Superstonk/comments/ohhwkk/a_basket_of_shorts_why_so_many_meme_stocks_move/)
+#Title: A Basket of Shorts: Why so many “meme” stocks move together. Hint: it’s not retail.
+#Author: Digitlnoize
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohhwkk/a_basket_of_shorts_why_so_many_meme_stocks_move/](https://www.reddit.com/r/Superstonk/comments/ohhwkk/a_basket_of_shorts_why_so_many_meme_stocks_move/)
 
 
 I’ve been wondering for a while why so many stocks follow the same pattern as our favorite stock. Pretty much everyone is aware of movie stock, but there are literally dozens of other stocks that all spiked n late Jan with GME, and again in early March, and again in late May. All following the exact same patterns. 

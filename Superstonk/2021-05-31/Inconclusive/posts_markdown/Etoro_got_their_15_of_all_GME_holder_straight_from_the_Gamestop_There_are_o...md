@@ -1,5 +1,6 @@
-# Author: TheSadBantha
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/](https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/)
+#Title: Etoro got their 1.5% of all GME holder straight from the Gamestop There are over 89 Million Diamond handed Apes out there.
+#Author: TheSadBantha
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/](https://www.reddit.com/r/Superstonk/comments/np4wwu/etoro_got_their_15_of_all_gme_holder_straight/)
 
 
 I see I received the inconclusive flair, I guess that is fair because there are still a lot of questions unanswered. What I find a bit sad is that the mods didnt reached out to me for more information.
@@ -16,15 +17,15 @@ According to the screenshot below (not mine, please ape come forward so you can 
 
 Got the screenshot from the [GME Timeline](https://gmetimeline.com/) If you dont know the site, please check it out. its an incredible summary by date of all things related GME, I use it to keep me up to date with this new information and DD around.
 
-[First conversation regarding the 1.5% number](https://preview.redd.it/n0e50pukvg271.png?width=501&format=png&auto=webp&s=3890044abf807dd727de85d95b8d0495649e4dee)
+![First conversation regarding the 1.5% number](https://preview.redd.it/n0e50pukvg271.png?width=501&format=png&auto=webp&s=3890044abf807dd727de85d95b8d0495649e4dee)
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 
 *Edit 5: Alright have been in contact with the original poster of the screens (*u/jd94jd*)*
 
-*He can Confirm the following, He had this chat-convo with etoro last Friday (****28th of May, 2021****)He is speaking with Etoro as you are reading this to confirm that Etoro indeed has 20 Million customers/clients (*[*20M clients are on Etoro*](https://imgur.com/a/s5QJoie)*)*
+*He can Confirm the following, He had this chat-convo with etoro last Friday (****28th of May, 2021****)He is speaking with Etoro as you are reading this to confirm that Etoro indeed has 20 Million customers/clients (*![*20M clients are on Etoro*](https://imgur.com/a/s5QJoie)*)*
 
-*Also to Clarify this once and for all. the 1.5% is the amount of* ***SHAREHOLDERS***. *that Means 1.5% of the total count of all GME* ***INVESTORS***\*, Etoro does clarify this in their conversation with\* u/jd94jd *as can be seen here* [*https://imgur.com/a/X2S6NMt*](https://imgur.com/a/X2S6NMt)
+*Also to Clarify this once and for all. the 1.5% is the amount of* ***SHAREHOLDERS***. *that Means 1.5% of the total count of all GME* ***INVESTORS***\*, Etoro does clarify this in their conversation with\* u/jd94jd *as can be seen here* ![*https://imgur.com/a/X2S6NMt*](https://imgur.com/a/X2S6NMt)
 
 *Also the question on how the calculated the 6.71% has been asked to verify and clarify this.* u/jd94jd *is awaiting their answer on this matter. The request has been escalated and he is waiting for the response by mail, The moment it comes in we will share this with you.*
 
@@ -34,7 +35,7 @@ Got the screenshot from the [GME Timeline](https://gmetimeline.com/) If you dont
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 
-Edit10: Me and u/Silver-Reserve-3764 have been in contact with u/jd94jd and he provided us with the [following conversation](https://imgur.com/a/77rsmZy) he has with eToro, about TSLA and how they come up with number of owners of TSLA on their platform, and what that number represents.you look at this and form your own conclusions... but it seems to me that if they say that this works for TSLA then it works the same for GME
+Edit10: Me and u/Silver-Reserve-3764 have been in contact with u/jd94jd and he provided us with the ![following conversation](https://imgur.com/a/77rsmZy) he has with eToro, about TSLA and how they come up with number of owners of TSLA on their platform, and what that number represents.you look at this and form your own conclusions... but it seems to me that if they say that this works for TSLA then it works the same for GME
 
 So if you follow the linke you will see the following:
 
@@ -56,7 +57,7 @@ Along with the knowledge that 6.71% of Etoros userbase has GME.
 
 &#x200B;
 
-[https://preview.redd.it/ksbd4yfkwg271.png?width=283&format=png&auto=webp&s=de99df2f930e57711e0c04e685a08364ddd19bb3](https://preview.redd.it/ksbd4yfkwg271.png?width=283&format=png&auto=webp&s=de99df2f930e57711e0c04e685a08364ddd19bb3)
+![https://preview.redd.it/ksbd4yfkwg271.png?width=283&format=png&auto=webp&s=de99df2f930e57711e0c04e685a08364ddd19bb3](https://preview.redd.it/ksbd4yfkwg271.png?width=283&format=png&auto=webp&s=de99df2f930e57711e0c04e685a08364ddd19bb3)
 
 Maff time
 
@@ -94,7 +95,7 @@ Edit13: according to the following [article](https://www.tradingsitereviews.com/
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 
-*EDIT: if we take our 89M Gme holders and apply the average of 14.5 Shares per holder (provided from* ![*Nordnet data*](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)*) we have a minimum of 1.29B shares. this is pure assumption. if we take an absolute conservative number of 2 we still have 178M shares, which is also batshit insane.*
+*EDIT: if we take our 89M Gme holders and apply the average of 14.5 Shares per holder (provided from* [*Nordnet data*](https://www.reddit.com/r/Superstonk/comments/nnngl6/update_dd_i_did_the_math_latest_nordnet_and/)*) we have a minimum of 1.29B shares. this is pure assumption. if we take an absolute conservative number of 2 we still have 178M shares, which is also batshit insane.*
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 

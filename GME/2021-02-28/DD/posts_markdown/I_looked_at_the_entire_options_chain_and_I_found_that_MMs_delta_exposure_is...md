@@ -1,5 +1,6 @@
-# Author: Fage138
-# Post URL: [https://www.reddit.com/r/GME/comments/lusstx/i_looked_at_the_entire_options_chain_and_i_found/](https://www.reddit.com/r/GME/comments/lusstx/i_looked_at_the_entire_options_chain_and_i_found/)
+#Title: I looked at the entire options chain, and I found that MM's delta exposure is over 25m shares, and how it will accelerate the short squeeze to legendary levels.
+#Author: Fage138
+#Post URL: [https://www.reddit.com/r/GME/comments/lusstx/i_looked_at_the_entire_options_chain_and_i_found/](https://www.reddit.com/r/GME/comments/lusstx/i_looked_at_the_entire_options_chain_and_i_found/)
 
 
 Yesterday I published my findings of how many shares MMs need to own in order to be delta neutral. However, I only went to march 19th as I naively assumed that there was not enough open interest to significantly affect their exposure.
@@ -21,4 +22,4 @@ I personally only see two outcomes, one as the stock rises it will become more a
 
 Calculations: 
 
-![**https://docs.google.com/spreadsheets/d/1\_vi\_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl\_zQ/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1_vi_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl_zQ/edit?usp=sharing)
+[**https://docs.google.com/spreadsheets/d/1\_vi\_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl\_zQ/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1_vi_Ve2zucGoS7sngokSWTgqQQiAqe9QRzBdyTDl_zQ/edit?usp=sharing)

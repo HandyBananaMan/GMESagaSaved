@@ -1,5 +1,6 @@
-# Author: aLeakyAbstraction
-# Post URL: [https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/](https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/)
+#Title: Reverse Engineering the Hedge Fund Agenda via Social Media
+#Author: aLeakyAbstraction
+#Post URL: [https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/](https://www.reddit.com/r/GME/comments/lvjsrl/reverse_engineering_the_hedge_fund_agenda_via/)
 
 
 **TLDR:** Shills (hedge funds or institutions) are very likely responsible for pushing not only the silv\*r and we\*d buys, but very likely AMC as well. They’re also still heavily trying to push GME FUD and encourage stockholders to sell.
@@ -28,7 +29,7 @@ For reference, in Social Media, it’s very rare for new users to constantly pos
 
 What about GME\_Meltd\*wn? Well, let’s take a look at one of the flaired “top shitposters” [https://www.reddit.com/user/bananacakesjoy/posts/](https://www.reddit.com/user/bananacakesjoy/posts/). Here we have an account that posts nothing for 4 years (comments or posts) and then suddenly posts almost 6+ anti-gme memes/comments per day. Now keep in mind, just because there may be a human behind the account replying to you, it doesn’t mean they aren’t a shill. PR has teams of people paid to manage these sorts of things. Think of it as customer support, but out in the public.
 
-How about WSB? Well, I actually believe the mods have been solid (even during the short uncertain time when zjz wasn’t there). I was looking at Opinion\_Is\_Unpopular and could see the rationale for why he would block some posts (he shared publicly) which showed me he was being impartial. That said, when it comes to users on the subreddit, the shill accounts are definitely coming after WSB. Take a look at this GME FUD from a new-ish account that suddenly knows what’s best, is worried about everyone, and is brave enough to share (WSB): ![https://www.reddit.com/r/wallstreetbets/comments/lut0gi/why\_the\_squeeze\_youre\_all\_dreaming\_for\_wont\_happen/](https://www.reddit.com/r/wallstreetbets/comments/lut0gi/why_the_squeeze_youre_all_dreaming_for_wont_happen/)
+How about WSB? Well, I actually believe the mods have been solid (even during the short uncertain time when zjz wasn’t there). I was looking at Opinion\_Is\_Unpopular and could see the rationale for why he would block some posts (he shared publicly) which showed me he was being impartial. That said, when it comes to users on the subreddit, the shill accounts are definitely coming after WSB. Take a look at this GME FUD from a new-ish account that suddenly knows what’s best, is worried about everyone, and is brave enough to share (WSB): [https://www.reddit.com/r/wallstreetbets/comments/lut0gi/why\_the\_squeeze\_youre\_all\_dreaming\_for\_wont\_happen/](https://www.reddit.com/r/wallstreetbets/comments/lut0gi/why_the_squeeze_youre_all_dreaming_for_wont_happen/)
 
 Okay, so what about weed? Well, I believe the explosion of interest overnight (and immediate dump afterward) was manufactured but a lot of real people likely got caught up in it. The people I saw posting memes about it seemed to come from more real accounts. You can certainly write this off as speculation, but the timing of the weed surge was certainly odd.
 

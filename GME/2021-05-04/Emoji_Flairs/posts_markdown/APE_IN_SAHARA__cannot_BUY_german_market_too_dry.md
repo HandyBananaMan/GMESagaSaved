@@ -1,5 +1,6 @@
-# Author: Hikind-Alone
-# Post URL: [https://www.reddit.com/r/GME/comments/n4krkm/ape_in_sahara_cannot_buy_german_market_too_dry/](https://www.reddit.com/r/GME/comments/n4krkm/ape_in_sahara_cannot_buy_german_market_too_dry/)
+#Title: APE IN SAHARA : cannot BUY, german market too dry!
+#Author: Hikind-Alone
+#Post URL: [https://www.reddit.com/r/GME/comments/n4krkm/ape_in_sahara_cannot_buy_german_market_too_dry/](https://www.reddit.com/r/GME/comments/n4krkm/ape_in_sahara_cannot_buy_german_market_too_dry/)
 
 
 Hi retards,

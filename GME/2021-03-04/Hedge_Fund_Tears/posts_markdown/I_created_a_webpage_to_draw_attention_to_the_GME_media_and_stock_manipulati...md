@@ -1,5 +1,6 @@
-# Author: infj-t
-# Post URL: [https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/](https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/)
+#Title: I created a webpage to draw attention to the GME media and stock manipulation and I can see DDOS attempts in the site's error logs 🚀🚀
+#Author: infj-t
+#Post URL: [https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/](https://www.reddit.com/r/GME/comments/lxu6nf/i_created_a_webpage_to_draw_attention_to_the_gme/)
 
 
 **Last Updated: 15:00PM (GMT), 10:00AM (EST), 07:00AM (PST)**
@@ -35,7 +36,7 @@ Thanks for all the comments and feedback, I have made some changes to the site t
 \- Added links relating to the supposed 20% gains for Melvin Capital;  
 \- Added MarketWatch / Barron's to the list of biased media outlets;  
 \- Adjusted the margin on desktop for easier reading;  
-\- Added a 404 for any confused apes ![https://gmetruth.com/404](https://gmetruth.com/404);
+\- Added a 404 for any confused apes [https://gmetruth.com/404](https://gmetruth.com/404);
 
 Further changes are coming, including a full timeline of events - future requests are welcome too.
 

@@ -1,5 +1,6 @@
-# Author: myplayprofile
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nroyh0/i_know_you_quant_it_63_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nroyh0/i_know_you_quant_it_63_trading_analysis_and_a/)
+#Title: I Know You Quant It - 6/3 Trading Analysis and a Deeper Dive into the Tape
+#Author: myplayprofile
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nroyh0/i_know_you_quant_it_63_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nroyh0/i_know_you_quant_it_63_trading_analysis_and_a/)
 
 
 I'm thrilled so many of you were able to read yesterday's [POST](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/?utm_source=share&utm_medium=web2x&context=3), I really like some of the conversations it's started among 🦍, and especially between 🎮🦍 and 🦍that like movies. Thanks for all the awards, and for everyone that's sent me messages, please be patient, I'll try and respond when I get a chance. If you haven't read the 6/2 analysis post, I advise doing so now. Before today's tea, I wanted to address newer and young 🦍ling's - The action today, especially in the movies, highlights how critical it is to **REMOVE ALL STOP LOSS ORDERS**! Set pricing alerts if you're concerned, reassess things at that time, and if your investment doesn't make sense to you anymore or a narrative has changed make changes as you see best fit, but having stop losses in place plays directly into Citadel's HFT algos that hunt for stop losses and cause paper hands. Don't invest anything into any stonks you can't afford to lose. Understand, the 💎🖐 shown from more seasoned 🦍 that like movies, that were on full display today when the stonk lost half it's value from premarket highs, have been forged through the trials and tribulations on 2021. If you still like the movies, don't be ashamed or regret if you 🧻🖐, learn from it, and understand you are up against incredibly sophisticated HFs & MMs that earn $BILLIONS upon $BILLIONS every year trading. If this seems overwhelming or too difficult, that's normal. Determine your own risk tolerance, and if being involved in this saga seems too high, nothing wrong with sitting on the sidelines and watching the show. This is not financial advice, and please don't be offended if I ignore the questions or messages that I feel like should directed to a financial adviser. THIS IS A MOVEMENT.
@@ -10,7 +11,7 @@ Tea Time! New day, more data, thesis from 6/2 remains unchanged. The linear rela
 
 &#x200B;
 
-[6\/3 Update - Plot of AMC and GME closing prices - LOG R\(sq\) = 0.72; Linear R\(sq\)=0.42](https://preview.redd.it/3dc7uceqz3371.png?width=726&format=png&auto=webp&s=97a8d545e659e8a19f2f9255d0d27981abc54273)
+![6\/3 Update - Plot of AMC and GME closing prices - LOG R\(sq\) = 0.72; Linear R\(sq\)=0.42](https://preview.redd.it/3dc7uceqz3371.png?width=726&format=png&auto=webp&s=97a8d545e659e8a19f2f9255d0d27981abc54273)
 
 &#x200B;
 
@@ -20,9 +21,9 @@ Before giving my thoughts on today's trading, I'm going to try and clarify some 
 
 * Some 🦍 with statistically savvy wrinkle 🧠's had some good input on R^(2), but there still seems to be some confusion on the point I was making. Using statistics for financial risk analysis is very different than the textbook "hypothesis" testing used to analyze data to determine dependency -  i.e. do the numbers in data set "A" influence data set "B" in a significantly important way. In financial risk, this doesn't matter, because VaR is not trying to prove anything, rather VaR recognizes relationships exist, and correlations with low R^(2) are weighed less heavily than higher R^(2) in the linear algebra/matrix multiplication that gives a single value for a large set of data. I'm going to try and put something together soon that looks into all meme stonks, but until then, I recommend learning more about matrix multiplication and linear algebra if you're into that sort of thing and want a deeper understanding. As a preview, here's a snapshot of example of the matrices my VaR model generates from my pre-pandemic portfolio -
 
-[Correlation Matrix](https://preview.redd.it/u03ae68j54371.png?width=785&format=png&auto=webp&s=95aa2f34d589b96003a20964d6820888b7d1710d)
+![Correlation Matrix](https://preview.redd.it/u03ae68j54371.png?width=785&format=png&auto=webp&s=95aa2f34d589b96003a20964d6820888b7d1710d)
 
-[Covariance Matrix](https://preview.redd.it/54xnaokp54371.png?width=770&format=png&auto=webp&s=81fb0676e9824b2c57e92a6eda60b9de34060f2f)
+![Covariance Matrix](https://preview.redd.it/54xnaokp54371.png?width=770&format=png&auto=webp&s=81fb0676e9824b2c57e92a6eda60b9de34060f2f)
 
 * There was also some talk about removing "outliers" from the underlying data to improve the linear R^(2). **This is a MAJOR NO in risk analysis**. When your data sets suddenly present outliers, that means it's time for a closer look into the data and some critical thinking, because sudden outliers signify trend changes and potential tectonic shifts that can quickly blow out your VaR if not closely monitored. This usually leads to portfolio rebalancing to get your risk back down to the desired level.
 * I saw lots of comments calling for a $100 AMC ceiling/price target. I want to reiterate, if AMC gets to that level, it does not mean AMC immediately gets dumped, and could even mean the complete opposite. The importance of $100 AMC is that is the point of parity between GME and AMC for hedging, and past that level, any hedge an AMC long position gave to a GME short position begins to quickly deteriorate. Mathematically, this is explained through calculus, i.e. if f(x) = ln(x), then f'(x) = 1/x and the mathematical principle 1/ ♾ = 0.
@@ -46,7 +47,7 @@ Now, did he say verbatim that 🔔a💩 is manipulating the the stock higher due
 
 Time for another pretty picture -
 
-[Today's Clues - Note Pink and Yellow Circles](https://preview.redd.it/jssbkzde74371.png?width=1668&format=png&auto=webp&s=11522658acb3a50fa7f301443581ebb6029bf34d)
+![Today's Clues - Note Pink and Yellow Circles](https://preview.redd.it/jssbkzde74371.png?width=1668&format=png&auto=webp&s=11522658acb3a50fa7f301443581ebb6029bf34d)
 
 &#x200B;
 
@@ -89,7 +90,7 @@ So given the facts, IMHO, I think any SHF that wanted or needed to cover their s
 
 &#x200B;
 
-This edit ended up being a mini post, but my final thoughts and disclaimer. I was a movie 🦍 until I looked more into 💩a🔔 13F, and 2 weeks ago sold and moved those 🍗🍗 over to GME. Wrote a post stating it ![HERE](https://www.reddit.com/r/GME/comments/nh6iz0/the_investment_opportunity_got_me_involved_but/?utm_source=share&utm_medium=web2x&context=3). I do own AMC puts to hedge my GME shares based off the DD's I've shared. Unlike GME, I am not as well versed in how deep SHF are short AMC, AMC FTD's, or the estimates for movie liking🦍's ownership of the float. I fully support movie liking🦍's, and if they continue to like the stonk and 💎🖐, AMC likely goes higher. AA now has fresh capital and new shareholder engagement that undoubtedly adds fundamental value to the stonk. I simply like GME, RC, and exciting potential of NFT integration more than the movies. **The $100 AMC price I've mentioned is not a ceiling, price target, or price level destined to result in an immediate share dump, rather, I think it's the price GME and AMC go their separate ways and begin to write independent stories.** There are still many AMC shares sold short, and covering those shares has and still will impact the price, but **I believe since 6/2, short covering has not been the PRIMARY driver of AMC share price**. GL and Goodnight to all you 🦍s.
+This edit ended up being a mini post, but my final thoughts and disclaimer. I was a movie 🦍 until I looked more into 💩a🔔 13F, and 2 weeks ago sold and moved those 🍗🍗 over to GME. Wrote a post stating it [HERE](https://www.reddit.com/r/GME/comments/nh6iz0/the_investment_opportunity_got_me_involved_but/?utm_source=share&utm_medium=web2x&context=3). I do own AMC puts to hedge my GME shares based off the DD's I've shared. Unlike GME, I am not as well versed in how deep SHF are short AMC, AMC FTD's, or the estimates for movie liking🦍's ownership of the float. I fully support movie liking🦍's, and if they continue to like the stonk and 💎🖐, AMC likely goes higher. AA now has fresh capital and new shareholder engagement that undoubtedly adds fundamental value to the stonk. I simply like GME, RC, and exciting potential of NFT integration more than the movies. **The $100 AMC price I've mentioned is not a ceiling, price target, or price level destined to result in an immediate share dump, rather, I think it's the price GME and AMC go their separate ways and begin to write independent stories.** There are still many AMC shares sold short, and covering those shares has and still will impact the price, but **I believe since 6/2, short covering has not been the PRIMARY driver of AMC share price**. GL and Goodnight to all you 🦍s.
 
 &#x200B;
 

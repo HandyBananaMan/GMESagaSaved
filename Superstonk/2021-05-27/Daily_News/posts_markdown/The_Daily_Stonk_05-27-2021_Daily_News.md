@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nm3v69/the_daily_stonk_05272021_daily_news/](https://www.reddit.com/r/Superstonk/comments/nm3v69/the_daily_stonk_05272021_daily_news/)
+#Title: The Daily Stonk 05-27-2021 Daily News 🦍💎🙌🚀
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nm3v69/the_daily_stonk_05272021_daily_news/](https://www.reddit.com/r/Superstonk/comments/nm3v69/the_daily_stonk_05272021_daily_news/)
 
 
 &#x200B;
@@ -227,4 +228,4 @@ Edit 4
 
 House financial committee hearing, 27th noon
 
-![https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407756](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407756)
+[https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407756](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407756)

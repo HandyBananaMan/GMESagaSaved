@@ -1,5 +1,6 @@
-# Author: SilkKringle
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/](https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/)
+#Title: Over 7,000 resumes including the words "hedge fund" are listed on Indeed, with many being updated within the last month. We can gain valuable insight into hedgies corporate climate, as well as forecasting potential sweeping changes. We can possibly see hedge funds collapsing before it is announced.
+#Author: SilkKringle
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/](https://www.reddit.com/r/Superstonk/comments/o88ejp/over_7000_resumes_including_the_words_hedge_fund/)
 
 
 Hey ya'll, congrats on hodling through another week. You are stronger than you know, and we will all come out of this mess blessed.
@@ -32,7 +33,7 @@ What we are looking for next is the "recently updated" text in orange. Go back a
 
 &#x200B;
 
-[Resume Data Sample 06\/26\/21](https://preview.redd.it/nldvu1808l771.png?width=960&format=png&auto=webp&s=d101d6ba8d5a3558c0a8177a7bd8de017b4de21a)
+![Resume Data Sample 06\/26\/21](https://preview.redd.it/nldvu1808l771.png?width=960&format=png&auto=webp&s=d101d6ba8d5a3558c0a8177a7bd8de017b4de21a)
 
 &#x200B;
 
@@ -60,7 +61,7 @@ I like cats.
 
 Speaking of relational analysis,  can someone please link that post about the Food Delivery Guy in the comments? If I remember correctly, his post was the one that started the wheels turning on this DD. Unique and fun bit to read if you get a chance!
 
-**EDIT 2:** Here is the food post, another unique way of  looking at relational Data. Thank you kind apes for the quick response! ![https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel\_office\_activity\_from\_the\_ground/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/?utm_medium=android_app&utm_source=share)
+**EDIT 2:** Here is the food post, another unique way of  looking at relational Data. Thank you kind apes for the quick response! [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel\_office\_activity\_from\_the\_ground/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/?utm_medium=android_app&utm_source=share)
 
 **Secret Edit:**
 

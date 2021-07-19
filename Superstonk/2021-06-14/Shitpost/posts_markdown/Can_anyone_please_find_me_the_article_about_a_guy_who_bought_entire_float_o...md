@@ -1,5 +1,6 @@
-# Author: Kaoticni_Jastog
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzince/can_anyone_please_find_me_the_article_about_a_guy/](https://www.reddit.com/r/Superstonk/comments/nzince/can_anyone_please_find_me_the_article_about_a_guy/)
+#Title: Can anyone please find me the article about a guy who bought entire float of a company and the next day saw 40 million shares exchange hands? Ive spent hours and cant find it
+#Author: Kaoticni_Jastog
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzince/can_anyone_please_find_me_the_article_about_a_guy/](https://www.reddit.com/r/Superstonk/comments/nzince/can_anyone_please_find_me_the_article_about_a_guy/)
 
 
 Edit 2: what I was looking for https://www.euromoney.com/article/b1320xkhl0443w/naked-shorting-the-curious-incident-of-the-shares-that-didnt-exist

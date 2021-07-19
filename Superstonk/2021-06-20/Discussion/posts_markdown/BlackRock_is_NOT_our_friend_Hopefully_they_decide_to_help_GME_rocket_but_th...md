@@ -1,5 +1,6 @@
-# Author: BellaCaseyMR
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/](https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/)
+#Title: BlackRock is NOT our friend. Hopefully they decide to help GME rocket but they definitely are not our friend and may be dangerous in long run
+#Author: BellaCaseyMR
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/](https://www.reddit.com/r/Superstonk/comments/o4ie63/blackrock_is_not_our_friend_hopefully_they_decide/)
 
 
 BlackRock had over **$8.68 trillion** in assets under management \[[December 31, 2020 financial statement](https://www.blackrock.com/corporate/literature/annual-report/blackrock-2020-annual-report.pdf)\] in more than 100 countries across the globe. 
@@ -10,7 +11,7 @@ The Chairman of the BlackRock Investment Institute is **Tom Donilon.** A former 
 
 * Tom Donilon’s brother, **Mike Donilon** is also A Senior Advisor to our President {[link](https://nypost.com/2020/11/20/joe-biden-names-white-house-personnel-legislative-chiefs/)} providing guidance on what policies should be implemented within the administration.  Mike Donilon guides the focus of spending, budgets, regulation and white house policy.
 * Tom Donilon’s wife, **Catherine Russell**, is the White House Personnel Director {[link](https://nypost.com/2020/11/20/joe-biden-names-white-house-personnel-legislative-chiefs/)}.  In that position Donilon’s wife controls every hire in the Office of the Presidency.
-* Tom Donilon’s daughter, **Sarah Donilon**, who graduated college in 2019, now works on the White House National Security Council {![link](https://www.dailymail.co.uk/news/article-9702887/Obamas-ethics-chief-criticizes-Biden-string-family-related-hires.html?ito=social-twitter_dailymailus)}. Out of college for 1 1/2 years and she is on the NATIONAL SECURITY COUNCIL.
+* Tom Donilon’s daughter, **Sarah Donilon**, who graduated college in 2019, now works on the White House National Security Council {[link](https://www.dailymail.co.uk/news/article-9702887/Obamas-ethics-chief-criticizes-Biden-string-family-related-hires.html?ito=social-twitter_dailymailus)}. Out of college for 1 1/2 years and she is on the NATIONAL SECURITY COUNCIL.
 
 So BlackRock's Tom Donilon’s job description is to: “*leverage the firm’s expertise and generate proprietary research to provide insights on the global economy, markets, geopolitics and long-term asset allocation,*” and he is a Presidential Advisor, his wife is in charge of White House personnel, his brother is Senior Advisor to the President, and his daughter is on the National Security Council. 
 

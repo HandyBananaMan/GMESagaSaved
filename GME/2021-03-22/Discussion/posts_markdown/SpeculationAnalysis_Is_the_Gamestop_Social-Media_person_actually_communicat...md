@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/](https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/)
+#Title: Speculation/Analysis: Is the Gamestop Social-Media person actually communicating with us?
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/](https://www.reddit.com/r/GME/comments/majasm/speculationanalysis_is_the_gamestop_socialmedia/)
 
 
 People talked a lot about the Facebook post stating "It's gonna be a monster of a week.". I talked about two previous posts, making it look like the Social-Media person is talking about the Stock.
@@ -96,7 +97,7 @@ Edit2: Addition from u/VanWarbux
 
 https://preview.redd.it/utf9nt680ko61.png?width=595&format=png&auto=webp&s=0e6b1c357938519335d3207b903a367f344b9ade
 
-This was posted 2 min after market closing, when the stock was ate 265. What does "eating stocks" mean? [https://investinganswers.com/dictionary/e/eating-stock](https://investinganswers.com/dictionary/e/eating-stock) \- Quote:  **Eating stock** occurs when a broker/dealer or market maker has to purchase stock because there are not enough buyers. There actually was a reddit post about that Tweet as well (![https://www.reddit.com/r/GME/comments/m3uge2/meaning\_behind\_gamestop\_tweet/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m3uge2/meaning_behind_gamestop_tweet/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))
+This was posted 2 min after market closing, when the stock was ate 265. What does "eating stocks" mean? [https://investinganswers.com/dictionary/e/eating-stock](https://investinganswers.com/dictionary/e/eating-stock) \- Quote:  **Eating stock** occurs when a broker/dealer or market maker has to purchase stock because there are not enough buyers. There actually was a reddit post about that Tweet as well ([https://www.reddit.com/r/GME/comments/m3uge2/meaning\_behind\_gamestop\_tweet/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m3uge2/meaning_behind_gamestop_tweet/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))
 
 &#x200B;
 

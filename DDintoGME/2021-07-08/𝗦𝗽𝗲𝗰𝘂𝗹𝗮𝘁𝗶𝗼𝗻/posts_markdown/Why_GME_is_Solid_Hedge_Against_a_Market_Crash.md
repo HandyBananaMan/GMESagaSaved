@@ -1,5 +1,6 @@
-# Author: GroeneWalvis
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/og404v/why_gme_is_solid_hedge_against_a_market_crash/](https://www.reddit.com/r/DDintoGME/comments/og404v/why_gme_is_solid_hedge_against_a_market_crash/)
+#Title: Why GME is Solid Hedge Against a Market Crash
+#Author: GroeneWalvis
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/og404v/why_gme_is_solid_hedge_against_a_market_crash/](https://www.reddit.com/r/DDintoGME/comments/og404v/why_gme_is_solid_hedge_against_a_market_crash/)
 
 
 First of all, I am no expert. I have some background in economics and finance, but nothing crazy, I just know the basics. I had a thought while doing some research that might be insightfull to some people. This all pretty basic stuff and nothing new, but I have never thought of it this way.

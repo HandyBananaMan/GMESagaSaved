@@ -1,12 +1,13 @@
-# Author: ChemicalFist
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/](https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/)
+#Title: PSA / Counter-Theory: Shitadel controls the #NakedShorts narrative.
+#Author: ChemicalFist
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/](https://www.reddit.com/r/Superstonk/comments/nsxsdu/psa_countertheory_shitadel_controls_the/)
 
 
 Hello fam, we need to have a talk.
 
 This is getting a lot of apes excited right now:
 
-[Expect to see this hashtag a lot over the weekend and in the coming week.](https://preview.redd.it/rpvhdnonfg371.jpg?width=1171&format=pjpg&auto=webp&s=2b0590765452bacafba3dd4a06d233cc3358654b)
+![Expect to see this hashtag a lot over the weekend and in the coming week.](https://preview.redd.it/rpvhdnonfg371.jpg?width=1171&format=pjpg&auto=webp&s=2b0590765452bacafba3dd4a06d233cc3358654b)
 
 Tits are jacked, apes are excited and for a good reason - **the cat is out of the bag**. But before you go all Jacques Tit, let me tell you a story that may or may not be proven true come next week.
 
@@ -16,13 +17,13 @@ Imagine, if you will, that a meeting much like this one happened at Shitadel dur
 
 &#x200B;
 
-[Coming - This Summer! \(yes, that was the entire punchline\)](https://preview.redd.it/199bvhijhg371.jpg?width=1200&format=pjpg&auto=webp&s=9ef4ccfbad86aaa658bb0cd30c6398f3585c9a78)
+![Coming - This Summer! \(yes, that was the entire punchline\)](https://preview.redd.it/199bvhijhg371.jpg?width=1200&format=pjpg&auto=webp&s=9ef4ccfbad86aaa658bb0cd30c6398f3585c9a78)
 
 **Citadel Lead 2** : "We also have to deal with the GameStop annual meeting somehow: they have no reason ***not*** to disclose the vote count, so we have to assume that *naked shorts* will become a heated topic in the public eye over the next few months."
 
 **Ken**: "We will do... what we always do: we take the bull by the horns and *fight* until the fight is over."
 
-[A gamer never underestimates his opponent.](https://preview.redd.it/90464sqkgg371.jpg?width=1200&format=pjpg&auto=webp&s=704454a5179c38046c62c26a8b80dc46e29f2ea0)
+![A gamer never underestimates his opponent.](https://preview.redd.it/90464sqkgg371.jpg?width=1200&format=pjpg&auto=webp&s=704454a5179c38046c62c26a8b80dc46e29f2ea0)
 
 **Ken:** "\[Lead 1\] - What's our position in AMC?"
 
@@ -34,7 +35,7 @@ Imagine, if you will, that a meeting much like this one happened at Shitadel dur
 
 Let's say this conversation took place and certain things were put into motion. After a while, on one lovely Friday, this happens.
 
-[Melissa, show us your worst \\"Oh no...\\" -face. Yeah, just like that when the Studio 2 mike was still open and Belinda went... That's it - perfect! We'll use that. Look okay? Good.](https://preview.redd.it/xiel5f91ig371.jpg?width=1200&format=pjpg&auto=webp&s=8cea93fbe9bcdc44e8f4d1fce698e911163d6b7b)
+![Melissa, show us your worst \\"Oh no...\\" -face. Yeah, just like that when the Studio 2 mike was still open and Belinda went... That's it - perfect! We'll use that. Look okay? Good.](https://preview.redd.it/xiel5f91ig371.jpg?width=1200&format=pjpg&auto=webp&s=8cea93fbe9bcdc44e8f4d1fce698e911163d6b7b)
 
 Now, an operation like the CNBC that is run by Big Money *can* and absolutely *will* make mistakes from time to time, but I doubt that this was the case here with Melissa. We've seen segments snipped from Congressional Hearings, for example, so we know live is not *live* per se - there's a delay. This give them a window to operate within if someone blunders or says a key word on the air that raises a flag.
 
@@ -50,7 +51,7 @@ I like Melissa, by the way - show some tact in your memes, fam. I think it's onl
 
 &#x200B;
 
-[But why, Holmes?](https://preview.redd.it/s2ls30vhjg371.jpg?width=1200&format=pjpg&auto=webp&s=98b2ea2d02b8b4baef80e0527e244e02052af6db)
+![But why, Holmes?](https://preview.redd.it/s2ls30vhjg371.jpg?width=1200&format=pjpg&auto=webp&s=98b2ea2d02b8b4baef80e0527e244e02052af6db)
 
 Good question. I'm going to say: The Movie Stock. Yes, AMC. Sorry, folks - I said it.
 
@@ -64,7 +65,7 @@ If this is the narrative Shitadel *wants* out there, what is going to happen? Pr
 
 &#x200B;
 
-[No dates. I prefer plums anyway.](https://preview.redd.it/ndzaxsizjg371.jpg?width=1200&format=pjpg&auto=webp&s=c619f8411c163ca268aa6628beb168d4be596d2a)
+![No dates. I prefer plums anyway.](https://preview.redd.it/ndzaxsizjg371.jpg?width=1200&format=pjpg&auto=webp&s=c619f8411c163ca268aa6628beb168d4be596d2a)
 
 Melissa drops the "mistake" on Friday. Both the paid and organic Twitter army gets the relevant hashtag trending, and on Saturday it will already be all over the place, spreading the AMC gospel. Come Sunday, most of the world that is any way into any form of social media will have seen the hashtag. Citadel has now released the narrative out there in a controlled fashion, and are now ahead of the *naked short story.*
 
@@ -92,11 +93,11 @@ Except for the apes. On the moon, planning the next phase of taking back and res
 
 &#x200B;
 
-[When the retail begins THEIR race...](https://preview.redd.it/1qrmywanlg371.jpg?width=1200&format=pjpg&auto=webp&s=e1683763ff31bbe7145cfd72b721cf77b2b54262)
+![When the retail begins THEIR race...](https://preview.redd.it/1qrmywanlg371.jpg?width=1200&format=pjpg&auto=webp&s=e1683763ff31bbe7145cfd72b721cf77b2b54262)
 
 &#x200B;
 
-[...HOLD your position. Apes know REVERSE will hit the true, noclip tendie lane.](https://preview.redd.it/logc8jbqlg371.jpg?width=1200&format=pjpg&auto=webp&s=3d8ae68f7d4af0b3c01f3747361916236c396f89)
+![...HOLD your position. Apes know REVERSE will hit the true, noclip tendie lane.](https://preview.redd.it/logc8jbqlg371.jpg?width=1200&format=pjpg&auto=webp&s=3d8ae68f7d4af0b3c01f3747361916236c396f89)
 
 **TL;DR**: Buy, hold and vote. I believe Ken is using CNBC's **Melissa ((Lee)** Harvey Oswald) as a patsy. AMC will squeeze as a Citadel pump and dump: both to make money for Shitadel and to control the Naked Shorts -narrative, drawing attention away from the GameStop Annual meeting and the (most likely humongous), actual SI%. If you want to be Jacques Tit about the Melissa 'blunder', please be civil and know that you may very well be propagating Citadel's own narrative.
 
@@ -112,7 +113,7 @@ Obligatory: not financial advice and I could very well be wrong too.
 
 **A)** (the more likely one) is that AMC will never squeeze - the short positions may have already been covered and the price will just be run up by Shitadel and Co. to a moderate amount, during which the MSM will be hyping it as THE squeeze. A glorified pump and dump - no more - making money for Shitadel to keep fighting GME.
 
-A number of you also directed me to ![this post by u/myplayprofile](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/?utm_source=share&utm_medium=web2x&context=3) (great read, thanks!), which would also tie in quite nicely, I think. Shitadel would have 'wiggle room' in AMC to raise the price up to around $100, which would be the 'max' setting in the cooling system of the nuclear reactor that is GME. Any controlled AMC run-up would literally act as a pressure valve and a way to raise funds to keep fighting GME.
+A number of you also directed me to [this post by u/myplayprofile](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/?utm_source=share&utm_medium=web2x&context=3) (great read, thanks!), which would also tie in quite nicely, I think. Shitadel would have 'wiggle room' in AMC to raise the price up to around $100, which would be the 'max' setting in the cooling system of the nuclear reactor that is GME. Any controlled AMC run-up would literally act as a pressure valve and a way to raise funds to keep fighting GME.
 
 **B**) Letting AMC squeeze for realzies is a very, very risky play (and honestly, I doubt that the potential is really there anymore), but I believe it's also a *possibility* as well. The idea here is, that once AMC squeezes - undeniably so - then some paper-handed retailers *will* sell their GME to hop on the AMC rocket.
 

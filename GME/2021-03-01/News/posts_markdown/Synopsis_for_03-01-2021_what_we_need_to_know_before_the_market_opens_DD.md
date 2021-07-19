@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lv6eo5/synopsis_for_03012021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lv6eo5/synopsis_for_03012021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-01-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lv6eo5/synopsis_for_03012021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lv6eo5/synopsis_for_03012021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -101,7 +102,7 @@ so this leads me to personally believe that it can be happening around the 19th 
 
 &#x200B;
 
-[DFV's positions](https://preview.redd.it/8if9hvky8ek61.png?width=2856&format=png&auto=webp&s=8df3cce34d83cb96357f13e5f3296a1b75ca73cc)
+![DFV's positions](https://preview.redd.it/8if9hvky8ek61.png?width=2856&format=png&auto=webp&s=8df3cce34d83cb96357f13e5f3296a1b75ca73cc)
 
 Just felt like this warranted another post, He's still in I'm still in.
 
@@ -151,7 +152,7 @@ And don't ask "When moon", because here is his big brother.
 
 &#x200B;
 
-[Soon Moon](https://preview.redd.it/jficq7trcek61.jpg?width=600&format=pjpg&auto=webp&s=67dfef0ba31c5dbe17389ae6fbbb35aeb9b1f084)
+![Soon Moon](https://preview.redd.it/jficq7trcek61.jpg?width=600&format=pjpg&auto=webp&s=67dfef0ba31c5dbe17389ae6fbbb35aeb9b1f084)
 
 And Soon Moon is ready for all the fuckery people will throw at him. Because just like us, he can endure.
 
@@ -197,7 +198,7 @@ Edit 1:
 
 Edit 2:   
 DFV tweeted!   
-![https://twitter.com/TheRoaringKitty/status/1366430996690841600](https://twitter.com/TheRoaringKitty/status/1366430996690841600)  
+[https://twitter.com/TheRoaringKitty/status/1366430996690841600](https://twitter.com/TheRoaringKitty/status/1366430996690841600)  
 
 
 Omar is coming ya'll

@@ -1,5 +1,6 @@
-# Author: idontdislikeoranges
-# Post URL: [https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/](https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/)
+#Title: Short interest minimum 85.28%
+#Author: idontdislikeoranges
+#Post URL: [https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/](https://www.reddit.com/r/GME/comments/lylqs4/short_interest_minimum_8528/)
 
 
 Ok guys, short interest (SI) has always been such a moving target. The FINRA data is published twice a month and it's already 2 weeks old by the time that comes out. We get ''Predictive analytic's'' from companies who's customers are the HFs and Wall Street, not retail. We see press releases saying they have covered and yet we suffered 80% loss as they supposedly bought millions and millions of shares and yet the price went down.  We don't know the formulas they use so we can't verify there numbers.
@@ -22,7 +23,7 @@ Now if they covered 50% of these new positions we would have **166.47% SI** and 
 
 Below are my workings :
 
-[SI up to 266&#37;](https://preview.redd.it/esfkjkr1w9l61.png?width=736&format=png&auto=webp&s=abfb88bcc0849e589e11f4f7472ff98a0e9f87bc)
+![SI up to 266&#37;](https://preview.redd.it/esfkjkr1w9l61.png?width=736&format=png&auto=webp&s=abfb88bcc0849e589e11f4f7472ff98a0e9f87bc)
 
 And link to my sheet so you can play with the numbers [https://docs.google.com/spreadsheets/d/1GIKNzBoVexkcZEd-3LmdT8bI3S5NXdhJeJX3Pw-yBfk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GIKNzBoVexkcZEd-3LmdT8bI3S5NXdhJeJX3Pw-yBfk/edit?usp=sharing)
 
@@ -44,4 +45,4 @@ This is not advice. To the moon!\\
 
 &#x200B;
 
-Edit: Few questions about the source of the data. ![https://www.shortvolumes.com/](https://www.shortvolumes.com/)
+Edit: Few questions about the source of the data. [https://www.shortvolumes.com/](https://www.shortvolumes.com/)

@@ -1,5 +1,6 @@
-# Author: myplayprofile
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/)
+#Title: I Got What You Quant - 6/2/21 Trading Analysis and a Deeper Dive Into Today's Tape
+#Author: myplayprofile
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/)
 
 
 HOLY MOLY! GME has highest close since 1/29! If you haven't seen yesterday's [POST](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/?utm_source=share&utm_medium=web2x&context=3), I recommend taking a look before getting into today's action, because **BIG THINGS ARE HAPPENING!** Congrats to the 💎🖐🦍 that like movies, as without you, GME wouldn't be on the brink of launch. Prepare yourself, it's time for the tea. This is not financial advice, my 🧠 is smooth.
@@ -8,19 +9,19 @@ HOLY MOLY! GME has highest close since 1/29! If you haven't seen yesterday's [PO
 
 Up until 5/27, GME price movements were strongly correlated to AMC, making the year to date R^(2) value between the two 76%. In 🦍 speak, statistically a price change in GME was 76% dependent on a similar change in AMC, and vice versa. After today's trading, that R^(2) value has decreased by 40% to 0.45! MASSIVE DECOUPLING!
 
-[1. 6\/2 Update - Plot of AMC and GME closing prices - R\(square\) = 0.45](https://preview.redd.it/b7atero9ww271.png?width=726&format=png&auto=webp&s=dfa293c3bf7f75e671a8bf24d8ef0d7a968ad380)
+![1. 6\/2 Update - Plot of AMC and GME closing prices - R\(square\) = 0.45](https://preview.redd.it/b7atero9ww271.png?width=726&format=png&auto=webp&s=dfa293c3bf7f75e671a8bf24d8ef0d7a968ad380)
 
 From a risk management perspective, especially ones based on linear analysis, this means a long AMC position can no longer effectively hedge a short GME position based on this correlation breakdown. Some entities use more dynamic analysis for certain pair trades, especially volatile ones, and instead of relying solely on linear regression, can adaptively use a "BEST FIT" model. I now present you the logarithmic regression -
 
 &#x200B;
 
-[2. 6\/2 Update - Plot of AMC and GME closing prices - LOG R\(square\) = 0.72](https://preview.redd.it/48522e20yw271.png?width=726&format=png&auto=webp&s=ddfc4ace1a0731029b7cc73a43b81cf8849fa05c)
+![2. 6\/2 Update - Plot of AMC and GME closing prices - LOG R\(square\) = 0.72](https://preview.redd.it/48522e20yw271.png?width=726&format=png&auto=webp&s=ddfc4ace1a0731029b7cc73a43b81cf8849fa05c)
 
 Well, after the last four trading days, on a logarithmic scale going long AMC can still hedge a GME short as \~72% GME price movements are dependent on AMC price changes. But this comes with SIGNIFICANT risk management implications! I'll explain -
 
 &#x200B;
 
-[3. GME-AMC prices 1\/4 - 5\/26\/2021](https://preview.redd.it/phb7cvdvdx271.png?width=729&format=png&auto=webp&s=a6fec96b401f5ed16b0b8beeac442fd772816c97)
+![3. GME-AMC prices 1\/4 - 5\/26\/2021](https://preview.redd.it/phb7cvdvdx271.png?width=729&format=png&auto=webp&s=a6fec96b401f5ed16b0b8beeac442fd772816c97)
 
 As of 5/26, the price of GME can be modeled by the price of AMC with the equation **GME(price) = 16.8\*AMC(price) - 12.36**. To hedge a GME short, a HF looks at the *derivative* of the off setting long, and in the case of a linear model, a standard hedge would be to buy \~16.8 shares of AMC for every share of GME that is short. This will reduce the VaR (Value at Risk) of the short GME position. I don't want to get into the full details of how to calculate VaR, but the key thing to understand is VaR models take historical prices to determine the daily price variance of a holding, as well as the covariance between holdings, to give a 95% confidence measure of the max drawdown of a portfolio from one day to the next. Some examples below, please scroll past if the math makes your head spin -
 
@@ -28,7 +29,7 @@ As of 5/26, the price of GME can be modeled by the price of AMC with the equatio
 
 &#x200B;
 
-[What a 95&#37; Confidence looks like for single tail normal distribution](https://preview.redd.it/h5kzdaxp7x271.png?width=455&format=png&auto=webp&s=60e0f6f337bb696a9bbe5e6a28a5fed8b6839a1a)
+![What a 95&#37; Confidence looks like for single tail normal distribution](https://preview.redd.it/h5kzdaxp7x271.png?width=455&format=png&auto=webp&s=60e0f6f337bb696a9bbe5e6a28a5fed8b6839a1a)
 
 &#x200B;
 
@@ -40,7 +41,7 @@ As of 5/26, the price of GME can be modeled by the price of AMC with the equatio
 
 * Now, AMC's volatility must also be taken into account, along with AMC's correlation to GME. The variance of AMC on 5/26 was 11.9%, the volatility was 34.5%, and the correlation between the two stocks was 0.81. The math gets a bit more complicated here, but involves linear algebra and matrix multiplication, but by offsetting a 100 share short GME position by going long 1,680 shares of AMC, the overall portfolio VaR is reduced to $9,476 based on my model.
 
-[Model Snapshot - I'm not just pulling numbers out of the sky](https://preview.redd.it/6ku2hp6kex271.png?width=1315&format=png&auto=webp&s=9704496e364bd89f5ed7280043738c9189094d11)
+![Model Snapshot - I'm not just pulling numbers out of the sky](https://preview.redd.it/6ku2hp6kex271.png?width=1315&format=png&auto=webp&s=9704496e364bd89f5ed7280043738c9189094d11)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

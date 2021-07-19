@@ -1,5 +1,6 @@
-# Author: boogie-time123
-# Post URL: [https://www.reddit.com/r/GME/comments/lxi229/domo_capital_appeals_to_congress_to_investigate/](https://www.reddit.com/r/GME/comments/lxi229/domo_capital_appeals_to_congress_to_investigate/)
+#Title: DOMO Capital appeals to Congress to INVESTIGATE media fud and Plotkins claims under oath that shorts were closed. (Hint. They were not)
+#Author: boogie-time123
+#Post URL: [https://www.reddit.com/r/GME/comments/lxi229/domo_capital_appeals_to_congress_to_investigate/](https://www.reddit.com/r/GME/comments/lxi229/domo_capital_appeals_to_congress_to_investigate/)
 
 
 &#x200B;
@@ -16,4 +17,4 @@ Did nobody teach Gabe Plotkin that lies were the root of all evil?
 
 References to shorts:
 
-![https://www.reddit.com/r/GME/comments/lq0cqh/serious\_researchers\_needed\_now\_update\_6\_fake/](https://www.reddit.com/r/GME/comments/lq0cqh/serious_researchers_needed_now_update_6_fake/)
+[https://www.reddit.com/r/GME/comments/lq0cqh/serious\_researchers\_needed\_now\_update\_6\_fake/](https://www.reddit.com/r/GME/comments/lq0cqh/serious_researchers_needed_now_update_6_fake/)

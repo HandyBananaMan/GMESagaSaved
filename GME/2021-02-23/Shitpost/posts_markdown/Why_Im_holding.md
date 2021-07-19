@@ -1,5 +1,6 @@
-# Author: Awit1992
-# Post URL: [https://www.reddit.com/r/GME/comments/lqptd2/why_im_holding/](https://www.reddit.com/r/GME/comments/lqptd2/why_im_holding/)
+#Title: Why I’m holding
+#Author: Awit1992
+#Post URL: [https://www.reddit.com/r/GME/comments/lqptd2/why_im_holding/](https://www.reddit.com/r/GME/comments/lqptd2/why_im_holding/)
 
 
 This is a once in a lifetime opportunity I know. Let me tell you what this could do for me. 

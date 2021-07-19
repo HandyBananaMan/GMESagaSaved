@@ -1,5 +1,6 @@
-# Author: catsinbranches
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/](https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/)
+#Title: HOLY SHIT. I think I found something REALLY IMPORTANT about the votes, but I need some wrinkle brain support to put all the pieces together.
+#Author: catsinbranches
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/](https://www.reddit.com/r/Superstonk/comments/nxm1ju/holy_shit_i_think_i_found_something_really/)
 
 
 Last night, I posted about my theory on the vote count total and how it has nothing to do with the float count. Some comments pointed out that my theory had a fundamental flaw, and they were absolutely right, and that's cool I can admit when I'm wrong, but the core of the issue remained.
@@ -50,13 +51,13 @@ Alright, and so what? I decided to compare that to some recent screenshots from 
 
 &#x200B;
 
-[This is a screenshot from June 2nd 2021. Why is Susquehanna's File Date still from 12\/31\/20?](https://preview.redd.it/mius6y0mrn471.png?width=2854&format=png&auto=webp&s=efb26b67e40598b3a848ef1ceb2fb58e1116a6eb)
+![This is a screenshot from June 2nd 2021. Why is Susquehanna's File Date still from 12\/31\/20?](https://preview.redd.it/mius6y0mrn471.png?width=2854&format=png&auto=webp&s=efb26b67e40598b3a848ef1ceb2fb58e1116a6eb)
 
 A couple of things jump out here. Why aren't Senvest, Maverick, or Dimensional on this Bloomberg list? Why is Susquehanna's filing date still showing Q4 data, and why is it a different "branch" of Susquehanna? The terminal seems to indicate that Susquehanna International Group LLP hasn't filed their Q1'21 info, but fintel has their Q1'21 13F filings listed ([source](https://fintel.io/i13f/susquehanna-international-group-llp/2021-03-31-0)) and this is what it shows for GME:
 
 &#x200B;
 
-[As of 03\/31\/21, Sus International only has 146K shares](https://preview.redd.it/otrj7tc99o471.png?width=1762&format=png&auto=webp&s=6685d5e74cb09c9232c9fbaac18c176a7641563d)
+![As of 03\/31\/21, Sus International only has 146K shares](https://preview.redd.it/otrj7tc99o471.png?width=1762&format=png&auto=webp&s=6685d5e74cb09c9232c9fbaac18c176a7641563d)
 
 &#x200B;
 
@@ -64,7 +65,7 @@ Bloomberg had Sus International at 4.4M shares at the end of Q4'20, but their mo
 
 &#x200B;
 
-[Nada. Zip. Nothing. Zero shares of GME held by Sus Fundamental as of 03\/31\/21. They sold all of their previously held 79,701 shares of GME.](https://preview.redd.it/tlv91vyt9o471.png?width=1764&format=png&auto=webp&s=96187a40677073da646c55b93b922b7db0d4ae87)
+![Nada. Zip. Nothing. Zero shares of GME held by Sus Fundamental as of 03\/31\/21. They sold all of their previously held 79,701 shares of GME.](https://preview.redd.it/tlv91vyt9o471.png?width=1764&format=png&auto=webp&s=96187a40677073da646c55b93b922b7db0d4ae87)
 
 &#x200B;
 
@@ -78,7 +79,7 @@ Let's move on to those who were missing from the Bloomberg list but GameStop rep
 
 We'll start with Senvest Management, LLC. Their Q1'21 13F ([source](https://fintel.io/i13f/senvest-management-llc/2021-03-31-0)) shows
 
-[As of 03\/31\/21, Senvest Management, LLC owned 0 shares. In Q4'20 they had owned the same number of shares as what they are reported by GameStop to have owned on 04\/15\/21.](https://preview.redd.it/20991fo6ao471.png?width=1760&format=png&auto=webp&s=91696e88bc3cdd64bacbe3f2871158e49dae7830)
+![As of 03\/31\/21, Senvest Management, LLC owned 0 shares. In Q4'20 they had owned the same number of shares as what they are reported by GameStop to have owned on 04\/15\/21.](https://preview.redd.it/20991fo6ao471.png?width=1760&format=png&auto=webp&s=91696e88bc3cdd64bacbe3f2871158e49dae7830)
 
 &#x200B;
 
@@ -88,13 +89,13 @@ Alright... Them too??? What the fuck. **WHAT THE ACTUAL FUCK.**
 
 Maverick Capital, Ltd. 13F for Q1'21 ([source](https://fintel.io/i13f/maverick-capital/2021-03-31-0)):
 
-[Same shit. As of 03\/31\/21 they had zero shares of GME.](https://preview.redd.it/iw5gykcpao471.png?width=1762&format=png&auto=webp&s=da0d9084724b59b64e1dacb7e34d3b40992aa38d)
+![Same shit. As of 03\/31\/21 they had zero shares of GME.](https://preview.redd.it/iw5gykcpao471.png?width=1762&format=png&auto=webp&s=da0d9084724b59b64e1dacb7e34d3b40992aa38d)
 
 &#x200B;
 
 Dimensional Fund Advisors LP 13F for Q1'21 ([source](https://fintel.io/i13f/dimensional-fund-advisors-lp/2021-03-31-0)):
 
-[As of 03\/31\/21, Dimensional retained only a very small portion of its previously held shares.](https://preview.redd.it/lp0mdfi0bo471.png?width=1762&format=png&auto=webp&s=be2dc26e1d243f9e2e4cb74e29b04072b4e7edea)
+![As of 03\/31\/21, Dimensional retained only a very small portion of its previously held shares.](https://preview.redd.it/lp0mdfi0bo471.png?width=1762&format=png&auto=webp&s=be2dc26e1d243f9e2e4cb74e29b04072b4e7edea)
 
 &#x200B;
 
@@ -108,7 +109,7 @@ But now, some important questions that I don't have enough wrinkles to answer. I
 
 As a comparison, here's BlackRock, Inc's Q1'21 13F details ([source](https://fintel.io/i13f/blackrock/2021-03-31-0)) for GME:
 
-[BlackRock has a very minor change in GME ownership from Q4'20 to Q1'21](https://preview.redd.it/xqdazd9zbo471.png?width=1762&format=png&auto=webp&s=60c9d94a87cb17c7bc0cf1381e02935d3644dcfc)
+![BlackRock has a very minor change in GME ownership from Q4'20 to Q1'21](https://preview.redd.it/xqdazd9zbo471.png?width=1762&format=png&auto=webp&s=60c9d94a87cb17c7bc0cf1381e02935d3644dcfc)
 
 &#x200B;
 
@@ -126,7 +127,7 @@ Also, great top-up from u/greysweatseveryday :
 
 Edit 2: u/Bit-corn pointed out that:
 
->![The SEC](https://www.sec.gov/divisions/investment/13ffaq.htm) states that filers of Form 13-F should report securities that they own and have loaned to a third party.  
+>[The SEC](https://www.sec.gov/divisions/investment/13ffaq.htm) states that filers of Form 13-F should report securities that they own and have loaned to a third party.  
 >  
 >Question #42 in the link above  
 >  

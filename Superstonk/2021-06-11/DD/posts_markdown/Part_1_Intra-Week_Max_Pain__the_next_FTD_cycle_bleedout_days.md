@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxbonw/part_1_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nxbonw/part_1_intraweek_max_pain_the_next_ftd_cycle/)
+#Title: Part 1: Intra-Week Max Pain & the next FTD cycle bleedout days.
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxbonw/part_1_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nxbonw/part_1_intraweek_max_pain_the_next_ftd_cycle/)
 
 
 Hi ya'll,
@@ -20,7 +21,7 @@ This thread:
 
 Onto the market madness now shall we?
 
-[Related, it's Max Pain downvoting shills after a fud attack day.](https://preview.redd.it/lydgwg3inl471.jpg?width=1300&format=pjpg&auto=webp&s=546181c5d465ad926214d11737eb0ca62562105b)
+![Related, it's Max Pain downvoting shills after a fud attack day.](https://preview.redd.it/lydgwg3inl471.jpg?width=1300&format=pjpg&auto=webp&s=546181c5d465ad926214d11737eb0ca62562105b)
 
 &#x200B;
 
@@ -80,7 +81,7 @@ Wow. Massive drop from one day to the next in Max Pain.
 
 Intra-Day Max Pain and options happened **( ͡° ͜ʖ ͡°)**
 
-[\( ͡° ͜ʖ ͡°\)](https://preview.redd.it/lcg5z32rol471.png?width=1143&format=png&auto=webp&s=e4fe589adb794d5a7b04040a4e39df36343415a3)
+![\( ͡° ͜ʖ ͡°\)](https://preview.redd.it/lcg5z32rol471.png?width=1143&format=png&auto=webp&s=e4fe589adb794d5a7b04040a4e39df36343415a3)
 
 Since you might be too smoothbrained to understand this, i'll do my best to explain it to you like you're an ape. ( ͡° ͜ʖ ͡°)
 
@@ -105,7 +106,7 @@ Here's a cool caveat. The hedgie/MM that did these orders did the following.
 2. Proceeds do a massive multi-leg order at 12:35 ish on both sides (hedge) for 3000 put contracts and another 3000 call contracts at the same time. I smell a hedge or **married puts** ( ͡ʘ ͜ʖ ͡ʘ) look at the timestamps ( ͡ʘ ͜ʖ ͡ʘ) ( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)
 3. Does another 3000 put and 3000 call multi-leg purchase at 12:45 ish again. Again, hedge or **married puts**? ( ͡ʘ ͜ʖ ͡ʘ) ( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)( ͡ʘ ͜ʖ ͡ʘ)
 
-My Jacks are titted. ![https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+My Jacks are titted. [https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 &#x200B;
 
@@ -127,9 +128,9 @@ The hedges just took the bait yesterday. They. Are. Fucked. The SEC now has a pe
 
 &#x200B;
 
-[Related, it's all the crybabies that are about to pop up in the comments to complain about the \\"quality\\" of this DD not being peer reviewed in triplicate by multiple quantative anal-yst mathbois \(or girls\) who like  Δx\/Δt formulaic things and how this is all fud whilst also at the same time ignoring the actual factual informations based on real marked data because they're not actual apes but shills who are shitting their pants that someone figured this shit out \( ͡ಥ ͜ʖ ͡ಥ\). Imagine holding GME, seeing this and instead of going \\"Wow\\" you go complain about the quality of the DD \( ͡ಥ ͜ʖ ͡ಥ\). It's pizza Friday ya'll.](https://preview.redd.it/0nc4i1gmsl471.jpg?width=518&format=pjpg&auto=webp&s=a071ada71f7a3943135621020fdd9a1a7f1c5ac1)
+![Related, it's all the crybabies that are about to pop up in the comments to complain about the \\"quality\\" of this DD not being peer reviewed in triplicate by multiple quantative anal-yst mathbois \(or girls\) who like  Δx\/Δt formulaic things and how this is all fud whilst also at the same time ignoring the actual factual informations based on real marked data because they're not actual apes but shills who are shitting their pants that someone figured this shit out \( ͡ಥ ͜ʖ ͡ಥ\). Imagine holding GME, seeing this and instead of going \\"Wow\\" you go complain about the quality of the DD \( ͡ಥ ͜ʖ ͡ಥ\). It's pizza Friday ya'll.](https://preview.redd.it/0nc4i1gmsl471.jpg?width=518&format=pjpg&auto=webp&s=a071ada71f7a3943135621020fdd9a1a7f1c5ac1)
 
-![https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+[https://en.wikipedia.org/wiki/Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 u/buttfarm69 for posterity.
 

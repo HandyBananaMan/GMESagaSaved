@@ -1,5 +1,6 @@
-# Author: Leaglese
-# Post URL: [https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/](https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/)
+#Title: NSCC Clearing Fund DD - Why the long whales are acting to protect themselves and not retail
+#Author: Leaglese
+#Post URL: [https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/](https://www.reddit.com/r/GME/comments/ma5did/nscc_clearing_fund_dd_why_the_long_whales_are/)
 
 
 Given the TLDR at the top has proven popular elsewhere, here's mine:
@@ -24,7 +25,7 @@ As always, this is neither financial or legal advice and you should always do yo
 
 Let's dig in. Buckle up apes, this explanation and speculation may get a little long and may require my customary tinfoil hat. Let's start with the rule.
 
-The NSCC rules I refer to can be found ![here](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.dtcc.com/~/media/Files/Downloads/legal/rules/nscc_rules.pdf&ved=2ahUKEwjH48uhncLvAhW0SxUIHSQpDuQQFjAAegQIBBAC&usg=AOvVaw0avQW3P4BRlgzpomtYOld0) and specifically, I'm referring to Rule 4 (page start 48 of the doc); the dreaded Clearing Fund 
+The NSCC rules I refer to can be found [here](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.dtcc.com/~/media/Files/Downloads/legal/rules/nscc_rules.pdf&ved=2ahUKEwjH48uhncLvAhW0SxUIHSQpDuQQFjAAegQIBBAC&usg=AOvVaw0avQW3P4BRlgzpomtYOld0) and specifically, I'm referring to Rule 4 (page start 48 of the doc); the dreaded Clearing Fund 
 
 **cue dramatic music**
 

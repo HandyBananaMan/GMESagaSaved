@@ -1,5 +1,6 @@
-# Author: GrokTheShape
-# Post URL: [https://www.reddit.com/r/GME/comments/lyc9pn/instead_of_gain_porn_we_need_to_see_nothing_but/](https://www.reddit.com/r/GME/comments/lyc9pn/instead_of_gain_porn_we_need_to_see_nothing_but/)
+#Title: Instead of gain porn, we need to see nothing but charity posts after the squeeze.
+#Author: GrokTheShape
+#Post URL: [https://www.reddit.com/r/GME/comments/lyc9pn/instead_of_gain_porn_we_need_to_see_nothing_but/](https://www.reddit.com/r/GME/comments/lyc9pn/instead_of_gain_porn_we_need_to_see_nothing_but/)
 
 
 If this gets anywhere near 100k (hell, even 1k) I see myself donating ~20%. And continuously donating after I've reinvested my gains. 

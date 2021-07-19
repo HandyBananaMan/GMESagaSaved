@@ -1,5 +1,6 @@
-# Author: icantstoppeeing
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwfb91/gamestop_got_a_new_ceocfo_earnings_were_better/](https://www.reddit.com/r/Superstonk/comments/nwfb91/gamestop_got_a_new_ceocfo_earnings_were_better/)
+#Title: Gamestop got a new CEO/CFO, earnings were better then expected, the vote count matched the float in April and Ryan Cohen is officially the chairman. This is the best news day that you can ask for.
+#Author: icantstoppeeing
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwfb91/gamestop_got_a_new_ceocfo_earnings_were_better/](https://www.reddit.com/r/Superstonk/comments/nwfb91/gamestop_got_a_new_ceocfo_earnings_were_better/)
 
 
 Who cares if our mods are awkward and do not have the social awareness to mitigate problems with their live streams. Who gives a flying fuck that we did not recieve the actual vote total and we may never know the actual amount voted.

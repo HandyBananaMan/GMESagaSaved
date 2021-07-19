@@ -1,5 +1,6 @@
-# Author: PWNWTFBBQ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/](https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/)
+#Title: Simple linear regression using real world data from an enginerd that has a hard on for statistical modeling and analysis.
+#Author: PWNWTFBBQ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/](https://www.reddit.com/r/Superstonk/comments/nzcg0j/simple_linear_regression_using_real_world_data/)
 
 
 # Debunked: Incorrect Assumptions
@@ -90,7 +91,7 @@ https://preview.redd.it/ilddcxbe55571.png?width=782&format=png&auto=webp&s=fad4d
 
 For a better view of the error, I zoomed into Days 4 -7. The blue line is our regression. The blue dots are the number of apes we counted. The green dots are the theoretical number of apes given our regression line. The orange is the error of the actual and the theoretical.
 
-[ ](https://preview.redd.it/upi1u45h55571.png?width=784&format=png&auto=webp&s=c5d785ce7c91f047065d69df5d94f2f7316e4e39)
+![ ](https://preview.redd.it/upi1u45h55571.png?width=784&format=png&auto=webp&s=c5d785ce7c91f047065d69df5d94f2f7316e4e39)
 
 # Time to Fuck Around with Real Share Price Data
 
@@ -134,7 +135,7 @@ We now have our theoretical predicting equation based on real world data. Our R\
 
 &#x200B;
 
-[  ](https://preview.redd.it/u5ygjiu165571.png?width=793&format=png&auto=webp&s=54bc96cfd3b5bff4d7e2cc858414d178f92eda99)
+![  ](https://preview.redd.it/u5ygjiu165571.png?width=793&format=png&auto=webp&s=54bc96cfd3b5bff4d7e2cc858414d178f92eda99)
 
 The areas I find of most interest are where the blue share price data is parallel to the regression line. This is great because there are multiple areas throughout a long history. We now have the equation:
 
@@ -144,7 +145,7 @@ And get this graph:
 
 &#x200B;
 
-[  ](https://preview.redd.it/cga2l8w465571.png?width=790&format=png&auto=webp&s=93e47fe4bcd6335de4679764bbdb34ebd15a90d0)
+![  ](https://preview.redd.it/cga2l8w465571.png?width=790&format=png&auto=webp&s=93e47fe4bcd6335de4679764bbdb34ebd15a90d0)
 
 There you go, folks. A simple linear regression of the share price using a regression line that was derived from real world data.
 
@@ -154,7 +155,7 @@ The lowest share price value has been following a solid trend and we are still h
 
 Edit 1: [Stock Price Data](https://finance.yahoo.com/quote/GME/history?p=GME)
 
-Edit 2: ![tweet](https://twitter.com/pwnwtfbbq/status/1404267817562644484) and added to TLDR.
+Edit 2: [tweet](https://twitter.com/pwnwtfbbq/status/1404267817562644484) and added to TLDR.
 
 Edit 3: Added some more to the introductory.
 

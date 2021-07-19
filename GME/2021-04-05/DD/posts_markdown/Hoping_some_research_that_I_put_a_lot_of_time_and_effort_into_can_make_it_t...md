@@ -1,5 +1,6 @@
-# Author: pdwp90
-# Post URL: [https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/](https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/)
+#Title: Hoping some research that I put a lot of time and effort into can make it through the drama. I've spent the past couple weeks collecting and analyzing data on off-exchange short volume, and wanted to share a write-up on my findings.
+#Author: pdwp90
+#Post URL: [https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/](https://www.reddit.com/r/GME/comments/mkq470/hoping_some_research_that_i_put_a_lot_of_time_and/)
 
 
 This write-up relies heavily upon data used in [this dashboard](https://www.quiverquant.com/offexchange/gme) I've been building that visualizes daily data from this FINRA, and tracks cumulative off-exchange short sales over the last 5 years. If you're more of a crayon learner than a word learner, I'd start there.
@@ -10,7 +11,7 @@ In the wake of the Financial Crisis in the late 2000s, many financial regulation
 
 Motivated by this, I'm going to explain why the data is misunderstood, and how to accurately interpret the data to help guide investment decisions.
 
-[Off-Exchange Short Volume Activity - 04\/01\/2021](https://preview.redd.it/efvand30wdr61.png?width=1401&format=png&auto=webp&s=d8b8fd41f4618e5fcbf3babfc1af396e3e018614)
+![Off-Exchange Short Volume Activity - 04\/01\/2021](https://preview.redd.it/efvand30wdr61.png?width=1401&format=png&auto=webp&s=d8b8fd41f4618e5fcbf3babfc1af396e3e018614)
 
 # Daily Short Volume Vs. Bi-Monthly Short Interest
 
@@ -46,13 +47,13 @@ To answer this question, I gathered 400,000+ data points pertaining to 5,041 sto
 
 For the initial analysis, I segmented the 5,041 stocks into 3: The S&P500 to account for DPI effect on large-cap stocks, the top trending stocks on WallStreetBets in 2021 to gauge the forums relationship with DPI, and lastly the remaining stocks on the NYSE excluding companies in the two aforementioned groups. Subsequently, I divided them further based on the DPI ratio being less or >.50, to determine if there is a correlation between the DPI ratio and performance, with the results accounted below:
 
-[DPI vs. Next-Week Return](https://preview.redd.it/knlkunc24er61.png?width=678&format=png&auto=webp&s=edf7e6987ca5afcef4ac5e90c167cb6f022e89e2)
+![DPI vs. Next-Week Return](https://preview.redd.it/knlkunc24er61.png?width=678&format=png&auto=webp&s=edf7e6987ca5afcef4ac5e90c167cb6f022e89e2)
 
 **The initial findings suggest that DPI ratio has a correlation with stock performance the following week,** as the stocks with a higher DPI achieved superior performance on average than their lower DPI peers.
 
 The histogram graph below depicts columns based on DPI divided into hundredths, whereas color highlights the number of instances that occurred, giving us a clearer picture of average performance in different DPI cohorts: 
 
-[DPI vs. Return: NYSE](https://preview.redd.it/n03wp432xdr61.png?width=700&format=png&auto=webp&s=862830ce43f63e5b8c191ea24d5eb02a6291ac51)
+![DPI vs. Return: NYSE](https://preview.redd.it/n03wp432xdr61.png?width=700&format=png&auto=webp&s=862830ce43f63e5b8c191ea24d5eb02a6291ac51)
 
 Overall, stocks with a DPI of **0.4-0.5 returned an average of 1.08% the following week,** whereas the most favorable DPI cohort was **0.5-0.6, averaging 1.41%.**
 
@@ -60,12 +61,12 @@ These findings are supported by Squeeze Metrics, [Short is Long](https://i2.t.hu
 
 In addition to showing DPI on my new dashboard, I also provide information on the cumulative number of OTC shares sold short for different tickers going back as far as 2010. This will allow investors to see how stocks' off-exchange short interest has accumulated and deteriorated over time, as shown with $GME in the example below:
 
-[Cumulative OTC short vs. $GME](https://preview.redd.it/ykgrw58dxdr61.png?width=1530&format=png&auto=webp&s=79b3984a5faf562e33ed1900b41810f55bf6fe80)
+![Cumulative OTC short vs. $GME](https://preview.redd.it/ykgrw58dxdr61.png?width=1530&format=png&auto=webp&s=79b3984a5faf562e33ed1900b41810f55bf6fe80)
 
 While the Daily Report data sourced by FINRA is publicly available and holds tangible value, it still remains opaque and convoluted compared to what it could potentially be. This is likely intentional, as a 2014 report by the SEC claimed that **"more precise and timely information about short interest could... discourage liquidity supply, fundamental analysis vital to price efficiency, and hedging"**and that **"short sellers are often in the best position to report their own transactions"** (SEC DERA, Short Sale Position and Transaction Reporting, 2014).
 
 # Conclusion
 
-My newly introduced ![**Off-Exchange Dashboard**](https://i2.t.hubspotemail.net/e2t/tc/VVPKbm4vwXt-N3m0wnGrFLB3W1RGk9h4q1lGqN3ypqF13lGmwV1-WJV7CgLNYW8Qy2xS8SdZFbW6vyYMF5Qlbn6VZ1LYg3F3Bj_W46nHPF68g33DW25w3wf9f5qFpW2yTqLR4mlglyW1gF2z-1SgMMmW2BxK4v5P4_5MW6g_Zxw7vdTM3W8RxJVB1ZFHnWW8nSH-k4SZdzLW7P3HWZ7tB6LtV3qZdp8CMxbXW1nnHwW3WjV4kN5tpTdN79bPZMSks1mhbjzdW88pBhh5rgP5SW9kTjsn90L5KBW4wmz9M8BFbt8W6WX1m03JXppw3dv_1) allows users to view the prior trading days off-exchange market activity, with the ability to filter by ticker, the total number of shares short, total numbers of shares traded, and DPI ratio.
+My newly introduced [**Off-Exchange Dashboard**](https://i2.t.hubspotemail.net/e2t/tc/VVPKbm4vwXt-N3m0wnGrFLB3W1RGk9h4q1lGqN3ypqF13lGmwV1-WJV7CgLNYW8Qy2xS8SdZFbW6vyYMF5Qlbn6VZ1LYg3F3Bj_W46nHPF68g33DW25w3wf9f5qFpW2yTqLR4mlglyW1gF2z-1SgMMmW2BxK4v5P4_5MW6g_Zxw7vdTM3W8RxJVB1ZFHnWW8nSH-k4SZdzLW7P3HWZ7tB6LtV3qZdp8CMxbXW1nnHwW3WjV4kN5tpTdN79bPZMSks1mhbjzdW88pBhh5rgP5SW9kTjsn90L5KBW4wmz9M8BFbt8W6WX1m03JXppw3dv_1) allows users to view the prior trading days off-exchange market activity, with the ability to filter by ticker, the total number of shares short, total numbers of shares traded, and DPI ratio.
 
 I believe that this data can be a valuable tool for tracking market movements, and that the ratio of off-exchange short interest to total volume holds some predictive power for future price movements.

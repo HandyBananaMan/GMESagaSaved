@@ -1,5 +1,6 @@
-# Author: BullishOnMeat
-# Post URL: [https://www.reddit.com/r/GME/comments/mggr68/i_messed_up_i_apologize_no_fud_i_sold_my_options/](https://www.reddit.com/r/GME/comments/mggr68/i_messed_up_i_apologize_no_fud_i_sold_my_options/)
+#Title: I messed up! I apologize. No FUD. I sold my options to buy shares. BUY SHARES OF GME do not buy options so we can lift off.
+#Author: BullishOnMeat
+#Post URL: [https://www.reddit.com/r/GME/comments/mggr68/i_messed_up_i_apologize_no_fud_i_sold_my_options/](https://www.reddit.com/r/GME/comments/mggr68/i_messed_up_i_apologize_no_fud_i_sold_my_options/)
 
 
 It came to my attention that my recent post might spread FUD due to the title. Not my intention at all and I apologize.

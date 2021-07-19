@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/](https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/)
+#Title: BREAKING NEWS: Melvin Capital is SCREWED
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/](https://www.reddit.com/r/GME/comments/m8w9sr/breaking_news_melvin_capital_is_screwed/)
 
 
 *EDIT: Fixed the link, SORRY!*
@@ -49,7 +50,7 @@ If you search just the first lawsuit mentioned, UNITED STATES DISTRICT COURT EAS
 
 ALLY FINANCIAL INC., ALPACA SECURITIES LLC, CASH APP INVESTING LLC, SQUARE INC., MORGAN STANLEY SMITH BARNEY LLC, E*TRADE SECURITIES LLC, E*TRADE FINANCIAL CORPORATION, E\*TRADE FINANCIAL HOLDINGS, LLC, ETORO USA SECURITIES, INC., FREETRADE, LTD., INTERACTIVE BROKERS LLC, M1 FINANCE, LLC, OPEN TO THE PUBLIC INVESTING, INC., ROBINHOOD FINANCIAL, LLC, ROBINHOOD MARKETS, INC., ROBINHOOD SECURITIES, LLC, IG GROUP HOLDINGS PLC, TASTYWORKS, INC., TD AMERITRADE, INC., THE CHARLES SCHWAB CORPORATION, CHARLES SCHWAB & CO. INC., FF TRADE REPUBLIC GROWTH, LLC, TRADING 212 LTD., TRADING 212 UK LTD., WEBULL FINANCIAL LLC, FUMI HOLDINGS, INC., STASH FINANCIAL, INC., BARCLAYS BANK PLC, CITADEL ENTERPRISE AMERICAS, LLC, CITADEL SECURITIES LLC, MELVIN CAPITAL MANAGEMENT LP, SEQUOIA CAPITAL OPERATIONS LLC, APEX CLEARING CORPORATION, THE DEPOSITORY TRUST & CLEARING CORPORATION
 
-![https://classactionsreporter.com/wp-content/uploads/Stock-Sellers-Conspiracy-to-Shield-Themselves-from-Losses-Compl.pdf](https://classactionsreporter.com/wp-content/uploads/Stock-Sellers-Conspiracy-to-Shield-Themselves-from-Losses-Compl.pdf)
+[https://classactionsreporter.com/wp-content/uploads/Stock-Sellers-Conspiracy-to-Shield-Themselves-from-Losses-Compl.pdf](https://classactionsreporter.com/wp-content/uploads/Stock-Sellers-Conspiracy-to-Shield-Themselves-from-Losses-Compl.pdf)
 
 Check page 17 of that PDF:
 

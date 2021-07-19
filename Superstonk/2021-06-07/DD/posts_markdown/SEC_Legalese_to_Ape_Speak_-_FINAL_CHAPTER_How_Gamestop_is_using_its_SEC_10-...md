@@ -1,10 +1,11 @@
-# Author: luridess
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/](https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/)
+#Title: SEC Legalese to Ape Speak - FINAL CHAPTER: How Gamestop is using its SEC 10-K Filings to fight back against targeted naked short selling (aka My Magnum Opus)
+#Author: luridess
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/](https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/)
 
 
 &#x200B;
 
-[u\/luridess on her way to 🦍, 🦍, & 🍌 LLP ](https://preview.redd.it/airs5qb0wv371.jpg?width=889&format=pjpg&auto=webp&s=62d262f18d48d781c20449ebc8a5c35ce5de3479)
+![u\/luridess on her way to 🦍, 🦍, & 🍌 LLP ](https://preview.redd.it/airs5qb0wv371.jpg?width=889&format=pjpg&auto=webp&s=62d262f18d48d781c20449ebc8a5c35ce5de3479)
 
 ***\[Update: Thank you all for the kind words and comments. I've responded to some of you at the bottom of my post in order to keep the conversation going so that everyone can see it\]***
 
@@ -42,7 +43,7 @@ It was only when u/HomeDepotHank69 posted [his DD today](https://www.reddit.com/
 
 &#x200B;
 
-[ \[Credit to u\/orangecatmasterrace\]](https://preview.redd.it/yoe6mfl90w371.png?width=1750&format=png&auto=webp&s=62be2900f0d15efec9fbe031a1b894adaadb2cfa)
+![ \[Credit to u\/orangecatmasterrace\]](https://preview.redd.it/yoe6mfl90w371.png?width=1750&format=png&auto=webp&s=62be2900f0d15efec9fbe031a1b894adaadb2cfa)
 
 &#x200B;
 
@@ -68,17 +69,17 @@ Gamestop's SEC 10-K Filings: A side-by-side comparison of 2018-2021
 
 &#x200B;
 
-[\[Image 1\]](https://preview.redd.it/u1l4hi38wv371.png?width=1420&format=png&auto=webp&s=0f5c1dc3c00a28c17a6bf582673c2a915ca20af0)
+![\[Image 1\]](https://preview.redd.it/u1l4hi38wv371.png?width=1420&format=png&auto=webp&s=0f5c1dc3c00a28c17a6bf582673c2a915ca20af0)
 
-[\[Image 2\]](https://preview.redd.it/olcusor9wv371.png?width=1419&format=png&auto=webp&s=a666f16759761c3bfc26a07bac1ef964393e72e6)
+![\[Image 2\]](https://preview.redd.it/olcusor9wv371.png?width=1419&format=png&auto=webp&s=a666f16759761c3bfc26a07bac1ef964393e72e6)
 
-[\[Image 3\]](https://preview.redd.it/k3po9omawv371.png?width=1422&format=png&auto=webp&s=66435b37c88084945872f1008d9cb80c965fa17b)
+![\[Image 3\]](https://preview.redd.it/k3po9omawv371.png?width=1422&format=png&auto=webp&s=66435b37c88084945872f1008d9cb80c965fa17b)
 
-[\[Image 4\]](https://preview.redd.it/urteavebwv371.png?width=1420&format=png&auto=webp&s=aa942f29dd6dc7b9685369ba3cf5f8721583ae84)
+![\[Image 4\]](https://preview.redd.it/urteavebwv371.png?width=1420&format=png&auto=webp&s=aa942f29dd6dc7b9685369ba3cf5f8721583ae84)
 
-[\[Image 5\]](https://preview.redd.it/ugzz9b6cwv371.png?width=1418&format=png&auto=webp&s=bfa903dd8a1377fe34a70c2c73246f6ce456da05)
+![\[Image 5\]](https://preview.redd.it/ugzz9b6cwv371.png?width=1418&format=png&auto=webp&s=bfa903dd8a1377fe34a70c2c73246f6ce456da05)
 
-[\[Image 6\]](https://preview.redd.it/8m6ruoycwv371.png?width=1419&format=png&auto=webp&s=0f8a2223d01ec1bb2da38ccac959b80c0ddb2dcc)
+![\[Image 6\]](https://preview.redd.it/8m6ruoycwv371.png?width=1419&format=png&auto=webp&s=0f8a2223d01ec1bb2da38ccac959b80c0ddb2dcc)
 
 What does the side-by-side comparison tell us?
 
@@ -145,7 +146,7 @@ Shorts must cover.
 
 💎🙌🚀🌕
 
-[u\/luridess out!](https://preview.redd.it/6nhgafsh7w371.png?width=300&format=png&auto=webp&s=93f0e5b7258d41665e8d3990e5aeeae77c61bedf)
+![u\/luridess out!](https://preview.redd.it/6nhgafsh7w371.png?width=300&format=png&auto=webp&s=93f0e5b7258d41665e8d3990e5aeeae77c61bedf)
 
 &#x200B;
 
@@ -167,7 +168,7 @@ Shorts must cover.
    3. Here's the relevant wording used last year:"On June 12, 2020, the Company held its annual meeting of stockholders (the “Annual Meeting”). At the Annual Meeting, the stockholders voted on: (1) the election of directors; (2) an advisory non-binding resolution regarding the compensation of the Company’s named executive officers; and (3) the ratification of the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the fiscal year ending January 30, 2021.**First Coast Results, Inc., the independent inspector of the elections (the "Inspector") for the Annual Meeting, delivered its final vote tabulation on June 17, 2020 that certified the voting results for each of the matters that were submitted to a vote at the Annual Meeting. According to the Inspector's final tabulation of voting, stockholders representing 42,886,817 shares, or 66.4% of the Company's common stock outstanding as of the record date for the Annual Meeting, were present in person or were represented by proxy at the Annual Meeting."**
 6. **In response to** u/eastrod's [comment](https://www.reddit.com/r/Superstonk/comments/nuksk8/sec_legalese_to_ape_speak_final_chapter_how/h0yxuh4?utm_source=share&utm_medium=web2x&context=3): I COMPLETELY FORGOT ABOUT THAT! You're right. Although I didn't know what was going on at the time, I did spot Gamestop slowly trickling shares into the market back on April 15 but no one listened to me 😥
    1. **EASTER EGG UPDATE:** Another forgotten Easter Egg that I noticed in Gamestop's April 15 SEC filing but didn't know what was happening (because I completely forgot about this until u/eastrod mentioned it in a comment below)
-   2. I ![posted this](https://www.reddit.com/r/Superstonk/comments/mwup95/i_figured_out_why_uratioatblessons_mentioned_me/) a month ago in response to some of the conspiracy theories out there about me. It didn't gain a lot of traction and so not many people saw what I spotted: **That Gamestop's total share count was higher on April 15 than it had been when it filed its 10-K in March.**
+   2. I [posted this](https://www.reddit.com/r/Superstonk/comments/mwup95/i_figured_out_why_uratioatblessons_mentioned_me/) a month ago in response to some of the conspiracy theories out there about me. It didn't gain a lot of traction and so not many people saw what I spotted: **That Gamestop's total share count was higher on April 15 than it had been when it filed its 10-K in March.**
    3. In that post, I basically said:  
 *"If you 🦍s do want to spend some time and energy chasing something, maybe you should try to figure out how Gamestop suddenly has 835,950 MORE shares as of April 15, than it did when it filed its 2021 SEC filing.*  
 *Could be nothing, could be something. I don't have enough wrinkles to figure that out. I'm just good at spotting differences."*

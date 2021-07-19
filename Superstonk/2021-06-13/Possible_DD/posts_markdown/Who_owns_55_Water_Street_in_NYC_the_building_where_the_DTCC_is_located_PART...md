@@ -1,5 +1,6 @@
-# Author: throwawaylurker012
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/](https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/)
+#Title: Who owns 55 Water Street in NYC, the building where the DTCC is located? PART 2 (or "What's in your wallet, Alabama?")
+#Author: throwawaylurker012
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/](https://www.reddit.com/r/Superstonk/comments/nz5wt0/who_owns_55_water_street_in_nyc_the_building/)
 
 
  
@@ -53,7 +54,7 @@ For some more background, that article opens with the following:
 
 &#x200B;
 
-[David Bronner of RSA](https://preview.redd.it/hrv3qmg5j3571.png?width=275&format=png&auto=webp&s=9d7d9eccf3fc320edd7325d6e7c4c7e58acd1d50)
+![David Bronner of RSA](https://preview.redd.it/hrv3qmg5j3571.png?width=275&format=png&auto=webp&s=9d7d9eccf3fc320edd7325d6e7c4c7e58acd1d50)
 
 Good to neutral things that David Bronner & RSA has done:
 
@@ -67,7 +68,7 @@ RSA, however, is known for its great investing acumen from what we see. Pension 
 
 &#x200B;
 
-[RSA Building in Alabama](https://preview.redd.it/ih6mg2y7j3571.png?width=275&format=png&auto=webp&s=7e7ad791bb04e7c13cd9f86d3c1e0bb0573a6666)
+![RSA Building in Alabama](https://preview.redd.it/ih6mg2y7j3571.png?width=275&format=png&auto=webp&s=7e7ad791bb04e7c13cd9f86d3c1e0bb0573a6666)
 
 Saying of the CEO of the then- $30.9 billion fund, “\[Bronner\] — who has been long involved in developing the state’s tourism industry through plush golf courses and luxury hotels — said when the last of the eight hotels opens early next year, the fund will have invested more than $550 million.” Even Bronner himself admitted the push for investment in real estate, particularly hotels and golf courses, was not usual:
 
@@ -75,7 +76,7 @@ Saying of the CEO of the then- $30.9 billion fund, “\[Bronner\] — who has be
 
 &#x200B;
 
-[Robert Jones Trail, RSA holding in Alabama](https://preview.redd.it/3xkx7gtaj3571.png?width=1000&format=png&auto=webp&s=76f6be76a72a4df9f3d4143ab8cd250899fb7e8a)
+![Robert Jones Trail, RSA holding in Alabama](https://preview.redd.it/3xkx7gtaj3571.png?width=1000&format=png&auto=webp&s=76f6be76a72a4df9f3d4143ab8cd250899fb7e8a)
 
 &#x200B;
 
@@ -105,7 +106,7 @@ Remember again, this was 1993, around the time Trimbath (Queen Kong! OOK OOK!) w
 
 &#x200B;
 
-[Queen Kong!!!](https://preview.redd.it/mnqqe7rgj3571.png?width=480&format=png&auto=webp&s=ccd0c7061a58fba2960e9be084a2c0f3db0ede6c)
+![Queen Kong!!!](https://preview.redd.it/mnqqe7rgj3571.png?width=480&format=png&auto=webp&s=ccd0c7061a58fba2960e9be084a2c0f3db0ede6c)
 
 >The vacancy rate climbed as high as 40 percent -- about 1.5 million square feet in 1993 -- with move-outs by big investment firms. Olympia & York, no longer in a position to get the financing to carry out the asbestos removal and other major improvement work necessary to attract or hold major tenants, relinquished the ownership to its bondholder-creditors. **The largest one, the Retirement Systems of Alabama, bought out the other bondholders.**  
 >  
@@ -129,7 +130,7 @@ According to the NYT, around that year of 1993, brokerage reports showed “seve
 
 &#x200B;
 
-[55 Water post-renovations in more modern times](https://preview.redd.it/66naemrqj3571.png?width=1530&format=png&auto=webp&s=9fe282e726d7864c40ce202c13f3cae0a7ebacc0)
+![55 Water post-renovations in more modern times](https://preview.redd.it/66naemrqj3571.png?width=1530&format=png&auto=webp&s=9fe282e726d7864c40ce202c13f3cae0a7ebacc0)
 
 RSA, as discussed in my 1st post on 55 Water, had done a great deal of restoration for the building. The Decatur Daily reported that the building had a plaza built next to it in 1985, but that RSA helped to fundraise in 1999 and renovate the plaza in 2001. It served in part to honor Vietnam Veterans from NYC there. They also honored RSA and Bronner for this:
 
@@ -179,7 +180,7 @@ More on this article, since I think Cason covered a lot of great info. He really
 
 &#x200B;
 
-[RSA logo](https://preview.redd.it/hnrqo1lzj3571.png?width=200&format=png&auto=webp&s=481e4bc64b785a661d771fa19bb0ef01157a7a94)
+![RSA logo](https://preview.redd.it/hnrqo1lzj3571.png?width=200&format=png&auto=webp&s=481e4bc64b785a661d771fa19bb0ef01157a7a94)
 
 To reiterate some of the biggest parts, **we have some questions about Bruce Hodges, a long-time associate of Bronner, receiving commission for insurance sold to New Water Street Corp., which is affiliated with Bronner and RSA. A wave of resignations came out after this information was disclosed to the public. Not only that, but Bronner is pushing for big “go fuck yourself” energy on an independent board to review RSA’s holdings and conflicts of interest.**
 
@@ -217,7 +218,7 @@ It proceeds with a very unflattering tone on Bronner and RSA. I can’t do most 
 
 &#x200B;
 
-[Per Yellowhammer the type of private jet that RSA\/Bronner uses](https://preview.redd.it/b0ab1d56k3571.png?width=820&format=png&auto=webp&s=26b51ccecc643df5df946da561e6c9468cb24354)
+![Per Yellowhammer the type of private jet that RSA\/Bronner uses](https://preview.redd.it/b0ab1d56k3571.png?width=820&format=png&auto=webp&s=26b51ccecc643df5df946da561e6c9468cb24354)
 
 Of note, Sims and/or Yellowhammer has asked RSA General Counsel Leura Canary for flight logs on the jets.
 
@@ -227,7 +228,7 @@ Y**ellowhammer replied by pointing out that if traveling on the plane is the sam
 
 &#x200B;
 
-[Interior](https://preview.redd.it/p4c0gc39k3571.png?width=820&format=png&auto=webp&s=06b37897e34aca3f91d40e52bae28823789e52d5)
+![Interior](https://preview.redd.it/p4c0gc39k3571.png?width=820&format=png&auto=webp&s=06b37897e34aca3f91d40e52bae28823789e52d5)
 
 “Additionally, why not fly commercial — even if it’s business class?” Yellowhammer asked. “The cost per variable hour on those planes as $2,639.41. That makes a trip to NYC (approximately) $15,000 or a flight to Palm Beach $8,000. Meanwhile, the rest of us could fly to NYC for $400.”
 
@@ -289,7 +290,7 @@ The admittedly fun title? “When the RSA bought a skyscraper, smashed the mob, 
 
 &#x200B;
 
-[Pictured: not asbestos](https://preview.redd.it/db0ksacgk3571.png?width=1280&format=png&auto=webp&s=a6c079afdbff79f02515336bb328e4845da73ce7)
+![Pictured: not asbestos](https://preview.redd.it/db0ksacgk3571.png?width=1280&format=png&auto=webp&s=a6c079afdbff79f02515336bb328e4845da73ce7)
 
 Asbestos? No no no dear ape. The secret ingredient isn’t asbestos; in 1993, it really was crime.
 

@@ -1,12 +1,13 @@
-# Author: JessasaurusJames
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/](https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/)
+#Title: GODS OF THE SUN, part 1.1 - Manipulating the meme stock narrative, RC’s “Sears” tweet, Vulture Funds, Apollo Global Management, who Adam Aron really is, Epstein, Goldman Sachs, and the TOTAL ECLIPSE of the SUN. (Wow, eh?)
+#Author: JessasaurusJames
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/](https://www.reddit.com/r/Superstonk/comments/nud0so/gods_of_the_sun_part_11_manipulating_the_meme/)
 
 
 GOTS, part 1.1
 
 [GOTS, part 1.2](https://www.reddit.com/r/Superstonk/comments/nuud15/gods_of_the_sun_part_12_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
 
-![GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
+[GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
 
 Hey apes. 
 
@@ -254,4 +255,4 @@ GOTS, part 1.1
 
 [GOTS, part 1.2](https://www.reddit.com/r/Superstonk/comments/nuud15/gods_of_the_sun_part_12_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
 
-![GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)
+[GOTS, part 1.3](https://www.reddit.com/r/Superstonk/comments/nv333e/gods_of_the_sun_part_13_manipulating_the_meme/?utm_medium=android_app&utm_source=share)

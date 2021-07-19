@@ -1,5 +1,6 @@
-# Author: Region-Formal
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv3n42/sp_500_index_inclusion_followup_to_my_russell/](https://www.reddit.com/r/Superstonk/comments/nv3n42/sp_500_index_inclusion_followup_to_my_russell/)
+#Title: S&P 500 index inclusion (follow-up to my Russell 1000 DD yesterday): A potential CATALYST that is surprisingly *very* close...and which SHFs are powerless to prevent!
+#Author: Region-Formal
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv3n42/sp_500_index_inclusion_followup_to_my_russell/](https://www.reddit.com/r/Superstonk/comments/nv3n42/sp_500_index_inclusion_followup_to_my_russell/)
 
 
 **EDIT AFTER THE Q1 EARNINGS ANNOUNCEMENT:** I am sorry to report, Apes, that we missed criteria (6) below. It was a good fight, but the additional buying pressure by Apes couldn't quite make up for the fact that Q1 always tends to be the most sluggish quarter for retailers. But, we march on and creeping that profitability up - let's see how the Q2 results go in three months!

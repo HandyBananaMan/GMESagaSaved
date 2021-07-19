@@ -1,10 +1,11 @@
-# Author: I_DO_ANIMAL_THINGS
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/](https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/)
+#Title: I think SR-FICC-2021-003 is Significant and Curious
+#Author: I_DO_ANIMAL_THINGS
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/](https://www.reddit.com/r/Superstonk/comments/o8hvpo/i_think_srficc2021003_is_significant_and_curious/)
 
 
 I posted this yesterday but it got lost in pictures of the last 10 minutes of trade. Reposting now for greater discussion.
 
-[Dear Journal, I smell smoke.](https://preview.redd.it/w1f3vcdb3n771.png?width=832&format=png&auto=webp&s=424877430b361c5060c248c2507d1f2b0606ef7f)
+![Dear Journal, I smell smoke.](https://preview.redd.it/w1f3vcdb3n771.png?width=832&format=png&auto=webp&s=424877430b361c5060c248c2507d1f2b0606ef7f)
 
 Good afternoon Apes,
 
@@ -27,7 +28,7 @@ The [Fixed Income Clearing Corporation](https://www.investopedia.com/terms/f/fic
 2. **add language** to Rule 3A to allow FICC to recognize, for Capped Contingency Liquidity Facility® (“CCLF”) calculation purposes, any offsetting settlement obligations as between a Sponsoring Member's netting account and its Sponsoring Member Omnibus Account to ensure that a Sponsoring Member's CCLF obligation is calculated in a manner that more closely aligns with the liquidity risk associated with Sponsored Member Trades
 3. **remove the requirement** from Section 2 of Rule 3A that a Sponsoring Member provide a **quarterly representation to FICC** **that each of its Sponsored Members is a “qualified institutional buyer”** as defined in Rule 144A of the Securities Act of 1933, as amended (“Rule 144A”), or is a legal entity that, although not organized as an entity specifically listed in paragraph (a)(1)(i) of Rule 144A, satisfies the financial requirements necessary to be a “qualified institutional buyer” as specified in that paragraph
 
-[We all have wants and needs.](https://preview.redd.it/f1ew9w973n771.png?width=610&format=png&auto=webp&s=bf1521cff5bcce32efee8ba19b125c15ca910c4a)
+![We all have wants and needs.](https://preview.redd.it/f1ew9w973n771.png?width=610&format=png&auto=webp&s=bf1521cff5bcce32efee8ba19b125c15ca910c4a)
 
 # What do? I'm not sure but here's what I've gathered:
 
@@ -35,11 +36,11 @@ The [Fixed Income Clearing Corporation](https://www.investopedia.com/terms/f/fic
 
 It sounds like the FICC intends to add a sort of members only netting/repo/reserve account to it's GSD.  I really don't understand all of this right now but it seems like a private club for repo. As an alternative and/or buffer for the FED.
 
-[Plz help, \<3 FICC](https://preview.redd.it/svk3vlelkn771.png?width=605&format=png&auto=webp&s=32f968bd28569dcb282b1846b698700c053921d9)
+![Plz help, \<3 FICC](https://preview.redd.it/svk3vlelkn771.png?width=605&format=png&auto=webp&s=32f968bd28569dcb282b1846b698700c053921d9)
 
 **This new service seems to be extremely important to protect the liquidity of the FICC.**
 
-[The FICC seems hell bent on making sure they have a layer of protection against their Member defaulting. ](https://preview.redd.it/9uidg4m0nn771.png?width=605&format=png&auto=webp&s=2a9a0566d5f501f7ee7caea826c6f4fbaa1e48d5)
+![The FICC seems hell bent on making sure they have a layer of protection against their Member defaulting. ](https://preview.redd.it/9uidg4m0nn771.png?width=605&format=png&auto=webp&s=2a9a0566d5f501f7ee7caea826c6f4fbaa1e48d5)
 
 This new service seems critical. I don't know how liquidity works for the FICC but they are responsible for settling Mortgage Backed Securities and Treasury Bonds.The FICC wants to create and entirely new holding service for entities that may or may not meet the standards of  Rule 144A of the Securities Act of 1933 and they're all going to watch themselves. (We'll get to that in a moment)
 
@@ -49,7 +50,7 @@ This new service seems critical. I don't know how liquidity works for the FICC b
 
 This is another rule change designed to protect the FICC as much as possible behind a shield of Sponsored Members, who can hide behind a shield of  “qualified institutional buyers.”
 
-[  liquidity risk to FICC is only increased to the extent the Sponsoring Member enters into a Repo Transaction with a third-party Netting Member that is novated to FICC. Such a Repo Transaction creates liquidity risk to FICC because, in the event of the Sponsoring Member's default, FICC is required to settle with such third-party Netting Member. ](https://preview.redd.it/p5knr8i2pn771.png?width=626&format=png&auto=webp&s=b104e6988720ad1e800f2b43307d3ff002572823)
+![  liquidity risk to FICC is only increased to the extent the Sponsoring Member enters into a Repo Transaction with a third-party Netting Member that is novated to FICC. Such a Repo Transaction creates liquidity risk to FICC because, in the event of the Sponsoring Member's default, FICC is required to settle with such third-party Netting Member. ](https://preview.redd.it/p5knr8i2pn771.png?width=626&format=png&auto=webp&s=b104e6988720ad1e800f2b43307d3ff002572823)
 
 It goes on to explain the obligations of it's Members and Sponsors when the house of cards begins to fall. I'll leave it to someone else to explain any of that.
 
@@ -61,7 +62,7 @@ This one I like.
 
 They argue to remove the quarterly reporting requirement because it's too much work:
 
-[  Section 3\(d\) of Rule 3A separately requires a Sponsoring Member to notify FICC if its Sponsored Member is no longer either a “qualified institutional buyer ](https://preview.redd.it/iieqc90den771.png?width=611&format=png&auto=webp&s=b34a19bb8a8efc3b2482936c7f00c7ebcc7a7e64)
+![  Section 3\(d\) of Rule 3A separately requires a Sponsoring Member to notify FICC if its Sponsored Member is no longer either a “qualified institutional buyer ](https://preview.redd.it/iieqc90den771.png?width=611&format=png&auto=webp&s=b34a19bb8a8efc3b2482936c7f00c7ebcc7a7e64)
 
 &#x200B;
 
@@ -79,7 +80,7 @@ If redundancy is the argument and they could chose to report before/after, why w
 
 Themselves of course!
 
-[You kids play safe, dad's gonna get a pack of smokes. I'll come check on you from time to time. Foods in the fridge, you know the drill.](https://preview.redd.it/0p636gu7zn771.png?width=647&format=png&auto=webp&s=6baad04d790031f38d9e84290d868e5c5c033e2b)
+![You kids play safe, dad's gonna get a pack of smokes. I'll come check on you from time to time. Foods in the fridge, you know the drill.](https://preview.redd.it/0p636gu7zn771.png?width=647&format=png&auto=webp&s=6baad04d790031f38d9e84290d868e5c5c033e2b)
 
 Honestly, this does seem like they're going to be on top of it. Hourly, (or more frequent) is strict.
 

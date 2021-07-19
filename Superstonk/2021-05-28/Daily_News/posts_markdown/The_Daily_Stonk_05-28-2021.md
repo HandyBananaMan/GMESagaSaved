@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/](https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/)
+#Title: The Daily Stonk 05-28-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/](https://www.reddit.com/r/Superstonk/comments/nmsqhr/the_daily_stonk_05282021/)
 
 
 https://preview.redd.it/p3yfpss97t171.png?width=1600&format=png&auto=webp&s=825ffd179bc212c737f844969d365702c1f58530
@@ -93,7 +94,7 @@ So just don't engage, if a person is "fighting" with you verbally and you just d
 
 Just remember MSM has never been on our side this entire time, we have not trusted them for the longest time because they inaccurately reported everything, don't start trusting their bs now, even if it feeds your confirmation Bias. (this includes Jimmy Cramer suddenly saying "YeAh Im On YoUr Side NoW" piss off Jimmy
 
-[be like water, and chill](https://preview.redd.it/z15owkhset171.jpg?width=960&format=pjpg&auto=webp&s=c6530f6415af48014682b556c506dfdece83009d)
+![be like water, and chill](https://preview.redd.it/z15owkhset171.jpg?width=960&format=pjpg&auto=webp&s=c6530f6415af48014682b556c506dfdece83009d)
 
 # Reverse repo now reaches $485 Billion
 
@@ -183,7 +184,7 @@ backups:
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 &#x200B;
 

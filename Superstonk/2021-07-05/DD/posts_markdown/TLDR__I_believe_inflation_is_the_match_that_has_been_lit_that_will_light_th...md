@@ -1,10 +1,11 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/)
+#Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket. Part 2
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/oe6i3l/tldr_i_believe_inflation_is_the_match_that_has/)
 
 
 &#x200B;
 
-[ Good morning r\/Superstonk, neighborhood jellyfish here!  ](https://i.redd.it/ehs02c6dwd971.gif)
+![ Good morning r\/Superstonk, neighborhood jellyfish here!  ](https://i.redd.it/ehs02c6dwd971.gif)
 
 I would like to revisit some more data recently released and posted and continue trying to tie this all together as the situation continues to evolve.
 
@@ -12,9 +13,9 @@ Posts being referenced: [1st Inflation Post](https://www.reddit.com/r/Superstonk
 
 I want to start by revisiting the Fed’s balance sheet. The last time we talked about it (6/17), it stood at a then RECORD $8.064 trillion. Let’s write this one out: $8,064,000,000,000.As of July 1st, that number stands at a **NEW RECORD $8,078,544,000,000**—an increase of $14,544,000,000.
 
-[ $8,078,544,000,000](https://preview.redd.it/z8dnwn5swd971.png?width=1827&format=png&auto=webp&s=6c72023ffe5b27cd93dfceb0df11fbf263ec6d5b)
+![ $8,078,544,000,000](https://preview.redd.it/z8dnwn5swd971.png?width=1827&format=png&auto=webp&s=6c72023ffe5b27cd93dfceb0df11fbf263ec6d5b)
 
-[Look at that triangle that has started at $7 trillion! ](https://preview.redd.it/jwxf3k0uwd971.png?width=1465&format=png&auto=webp&s=ceb3523e78313f82c4376e1fb65ec775e1b9cc16)
+![Look at that triangle that has started at $7 trillion! ](https://preview.redd.it/jwxf3k0uwd971.png?width=1465&format=png&auto=webp&s=ceb3523e78313f82c4376e1fb65ec775e1b9cc16)
 
 # 
 
@@ -54,7 +55,7 @@ The current supply is steadying with current inventory not moving at the current
 
 **With the conditions of the housing market above, I believe we are entering ‘textbook’ bubble territory.**
 
-[ Source: https:\/\/www.investopedia.com\/terms\/h\/housing\_bubble.asp ](https://preview.redd.it/bcoa3frsxd971.png?width=794&format=png&auto=webp&s=3d348043be4dd619112aad871705fd00ba02f737)
+![ Source: https:\/\/www.investopedia.com\/terms\/h\/housing\_bubble.asp ](https://preview.redd.it/bcoa3frsxd971.png?width=794&format=png&auto=webp&s=3d348043be4dd619112aad871705fd00ba02f737)
 
 Ok, as we covered above, demand had been through the roof, but the supply is back on the rise and current stock is taking longer to move. At the same time, demand for new mortgages is decreasing as the supply continues to hold and increase—but prices continue to go up!
 
@@ -62,7 +63,7 @@ https://preview.redd.it/e8ge1yn0yd971.png?width=884&format=png&auto=webp&s=adbea
 
 But what about delinquency rates? This can be a source to the supply...
 
-[ https:\/\/www.mba.org\/2021-press-releases\/may\/mortgage-delinquencies-decrease-in-the-first-quarter-of-2021 ](https://preview.redd.it/e2jq2nc3yd971.png?width=1111&format=png&auto=webp&s=20b980c2faf5d470a30dc34a8f3106acdfc79fc3)
+![ https:\/\/www.mba.org\/2021-press-releases\/may\/mortgage-delinquencies-decrease-in-the-first-quarter-of-2021 ](https://preview.redd.it/e2jq2nc3yd971.png?width=1111&format=png&auto=webp&s=20b980c2faf5d470a30dc34a8f3106acdfc79fc3)
 
 &#x200B;
 
@@ -104,9 +105,9 @@ Annualizing the Personal Consumption Expenditures, excluding food and energy (PC
 
 Looking at the bonds again, adjusted for inflation, things are worse!
 
-[ ICE BofA Single-B US High Yield Index Effective Yield @ 4.44&#37; -1.93&#37; adjusted for PCE inflation \(Highly Speculative\) ](https://preview.redd.it/2zrpzjetyd971.png?width=1468&format=png&auto=webp&s=9afed52a1cd40a63a9fb923cf8953c2559a15d48)
+![ ICE BofA Single-B US High Yield Index Effective Yield @ 4.44&#37; -1.93&#37; adjusted for PCE inflation \(Highly Speculative\) ](https://preview.redd.it/2zrpzjetyd971.png?width=1468&format=png&auto=webp&s=9afed52a1cd40a63a9fb923cf8953c2559a15d48)
 
-[ ICE BofA CCC & Lower US High Yield Index Effective Yield @ 6.60&#37; .2&#37; adjusted for inflation \(“extremely speculative” to “default is imminent with little prospect for recovery”\) ](https://preview.redd.it/m0nc740uyd971.png?width=1463&format=png&auto=webp&s=4ef8591e2dc1146b2e6d241184a0178f6299e362)
+![ ICE BofA CCC & Lower US High Yield Index Effective Yield @ 6.60&#37; .2&#37; adjusted for inflation \(“extremely speculative” to “default is imminent with little prospect for recovery”\) ](https://preview.redd.it/m0nc740uyd971.png?width=1463&format=png&auto=webp&s=4ef8591e2dc1146b2e6d241184a0178f6299e362)
 
 Can we let that sink in again for a moment? To get any sort of positive yield an investor must expose themselves to bonds rated **“extremely speculative” to “default is imminent with little prospect for recovery”.** If they invest in the Single-B ‘**Highly Speculative’** they lose principal capital to inflation!
 
@@ -114,7 +115,7 @@ Remember, they can’t just sit on this cash as the dollar is losing buying powe
 
 Before we go any further, let’s do some quick level setting on bonds and their risk descriptions:
 
-[ How the Credit Rating Agencies Classify Corporate Bonds and Loans by Credit Risk or the Risk of Default.](https://preview.redd.it/5pbdgumczd971.png?width=839&format=png&auto=webp&s=032247d092bcbcc01e6b348857e2c16839955c33)
+![ How the Credit Rating Agencies Classify Corporate Bonds and Loans by Credit Risk or the Risk of Default.](https://preview.redd.it/5pbdgumczd971.png?width=839&format=png&auto=webp&s=032247d092bcbcc01e6b348857e2c16839955c33)
 
 [Any excuse to use this clip again makes my day... ](https://reddit.com/link/oe6i3l/video/gt4rvt8gzd971/player)
 
@@ -156,7 +157,7 @@ On top of this list is the Kia Telluride, it would sell for $44,166 as new vehic
 
 **Rather than haggle till they get the price down, or just not buy as they had done for a couple of years of the Great Recession, consumers are buying are paying whatever it takes to get a new or used vehicle or new or used home as their whole mindset about inflation has changed!**
 
-[The brakes on inflation have been cut! This beast is going to keep running! ](https://preview.redd.it/75z9o0bf0e971.png?width=600&format=png&auto=webp&s=be0146e852127aa6467848a5b4a3d31189834415)
+![The brakes on inflation have been cut! This beast is going to keep running! ](https://preview.redd.it/75z9o0bf0e971.png?width=600&format=png&auto=webp&s=be0146e852127aa6467848a5b4a3d31189834415)
 
 OK, so to try and wrap this up again:
 
@@ -206,7 +207,7 @@ So b I t c o in issuance halves every 4 years right? (this is what makes the sto
 
 EDIT 1: Many in the comments are viewing the crypto turn to fight inflation as me turning to shilling crypto. My response to that is:
 
-[Again, I understand that RC and company are going to be deploying a lot of that war chest but how do we best protect the cash war chest in the interim?!?! ](https://preview.redd.it/53wm6muddf971.png?width=826&format=png&auto=webp&s=68e07ffe18433ea474db230136b470bf1c3fbb70)
+![Again, I understand that RC and company are going to be deploying a lot of that war chest but how do we best protect the cash war chest in the interim?!?! ](https://preview.redd.it/53wm6muddf971.png?width=826&format=png&auto=webp&s=68e07ffe18433ea474db230136b470bf1c3fbb70)
 
 ![Elon has done it and seen this technique make his company more money than they have by actually selling cars? RC and GameStop bring the metaverse fire! ](https://preview.redd.it/8kfhlvl4tf971.jpg?width=375&format=pjpg&auto=webp&s=5df969267ceae2f21223f6e19cbb4bed2222c4d5)
 

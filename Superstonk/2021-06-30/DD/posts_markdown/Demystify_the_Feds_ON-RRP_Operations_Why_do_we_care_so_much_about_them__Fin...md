@@ -1,5 +1,6 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/)
+#Title: Demystify the Feds ON-RRP Operations, Why do we care so much about them? | Finally figured out what Michael Burrry IS trying to tell the world
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/](https://www.reddit.com/r/Superstonk/comments/oaw2ls/demystify_the_feds_onrrp_operations_why_do_we/)
 
 
 Two things that have led me here 1. Trying to figure out WTF Michael Burrry was trying to reference and getting it wrong several times 2. Why the fuck do we care so much about the Feds ON-RRP operation?
@@ -218,7 +219,7 @@ It essentially comes down to this logic in the past year since COVID happened, w
 
 **Counter DD**
 
-The first part of the DD tends to go against the grain of ![https://www.reddit.com/r/Superstonk/comments/o9aanm/black\_monday\_events\_are\_mondays\_which\_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/) which is u/Criand’s post about RRP in some areas. To note, i agree on most points about the spikes re EOM dates.
+The first part of the DD tends to go against the grain of [https://www.reddit.com/r/Superstonk/comments/o9aanm/black\_monday\_events\_are\_mondays\_which\_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/) which is u/Criand’s post about RRP in some areas. To note, i agree on most points about the spikes re EOM dates.
 
 The thing i have the largest disagreeance with is that the Feds ON-RRP operations are something to worry about. As soon as rates go up to a certain level, MMFs will start moving their cash elsewhere and ON-RRP volume will shrink again (and treasury balance for the Fed increases as a result). My prediction is that we’ll enter a similar cycle before 2020 where rate increases become more abundant (we’re seeing hints of this already with recent 5bps increase).
 

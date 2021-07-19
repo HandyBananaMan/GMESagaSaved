@@ -1,5 +1,6 @@
-# Author: HawkFrequent9676
-# Post URL: [https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/](https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/)
+#Title: Citadel paid over $128 Million USD for PFOF in Q4 of 2020 - Retail traders are the product, not the customer. [OC]
+#Author: HawkFrequent9676
+#Post URL: [https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/](https://www.reddit.com/r/GME/comments/midcwe/citadel_paid_over_128_million_usd_for_pfof_in_q4/)
 
 
 # Overview
@@ -26,31 +27,31 @@ I simply took all of the Rule 606 disclosures from various broker websites and p
 
 &#x200B;
 
-[Citadel PFOF](https://preview.redd.it/3d7a8zigloq61.png?width=1106&format=png&auto=webp&s=fba4cb0e2a0b153f32264f610dc3340f507ad5f4)
+![Citadel PFOF](https://preview.redd.it/3d7a8zigloq61.png?width=1106&format=png&auto=webp&s=fba4cb0e2a0b153f32264f610dc3340f507ad5f4)
 
 &#x200B;
 
-[description](https://preview.redd.it/l71gunzlloq61.png?width=1100&format=png&auto=webp&s=98523c25802a011b090b06375bc2ed985fd22b25)
+![description](https://preview.redd.it/l71gunzlloq61.png?width=1100&format=png&auto=webp&s=98523c25802a011b090b06375bc2ed985fd22b25)
 
 &#x200B;
 
-[shares](https://preview.redd.it/9g28u5brloq61.png?width=742&format=png&auto=webp&s=706db34b33d17e8bc55ef4aea2a0a15138f1b1a4)
+![shares](https://preview.redd.it/9g28u5brloq61.png?width=742&format=png&auto=webp&s=706db34b33d17e8bc55ef4aea2a0a15138f1b1a4)
 
 &#x200B;
 
-[shares, pie](https://preview.redd.it/vi7y035xloq61.png?width=730&format=png&auto=webp&s=c51da4b49f0256907c1b0a4c716804ef2441cfef)
+![shares, pie](https://preview.redd.it/vi7y035xloq61.png?width=730&format=png&auto=webp&s=c51da4b49f0256907c1b0a4c716804ef2441cfef)
 
 &#x200B;
 
-[Net Payments](https://preview.redd.it/pqvmfvw0moq61.png?width=741&format=png&auto=webp&s=2ad8d78a2c51f8291fd47065d8457aa78e03ca85)
+![Net Payments](https://preview.redd.it/pqvmfvw0moq61.png?width=741&format=png&auto=webp&s=2ad8d78a2c51f8291fd47065d8457aa78e03ca85)
 
 &#x200B;
 
-[Net Payment, pie](https://preview.redd.it/1lnzmb47moq61.png?width=738&format=png&auto=webp&s=77ac5f825ab617ab33dd99b70d3c7404a70863ab)
+![Net Payment, pie](https://preview.redd.it/1lnzmb47moq61.png?width=738&format=png&auto=webp&s=77ac5f825ab617ab33dd99b70d3c7404a70863ab)
 
 &#x200B;
 
-[$\/Volume](https://preview.redd.it/88mtg5bemoq61.png?width=735&format=png&auto=webp&s=2e3f6c562b78ed40099b8e07a1840d2601a404a2)
+![$\/Volume](https://preview.redd.it/88mtg5bemoq61.png?width=735&format=png&auto=webp&s=2e3f6c562b78ed40099b8e07a1840d2601a404a2)
 
 &#x200B;
 
@@ -158,4 +159,4 @@ does business with Citadel, Virtu, Jane Street Capital, Two Sigma, and perhaps o
 
 I could not find a US SEC Rule 606 disclosure for order routing. I'm not sure if EU allows PFOF. However, according to wikipedia DEGIRO has been in hot water at least once..."The process of internalization of customer's orders against DeGiro's own [hedge fund](https://en.wikipedia.org/wiki/Hedge_fund) HiQ Market Neutral fund was subject of investigative press."
 
-![Amsterdamtrader.com](http://www.amsterdamtrader.com/2015/10/how-degiro-screws-clients.html), How DeGiro Screws Clients, 20 October 2015  
+[Amsterdamtrader.com](http://www.amsterdamtrader.com/2015/10/how-degiro-screws-clients.html), How DeGiro Screws Clients, 20 October 2015  

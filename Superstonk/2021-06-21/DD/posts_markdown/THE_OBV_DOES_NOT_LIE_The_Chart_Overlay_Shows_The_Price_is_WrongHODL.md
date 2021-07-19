@@ -1,12 +1,13 @@
-# Author: _Badtothebone_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/](https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/)
+#Title: THE OBV DOES NOT LIE. The Chart Overlay Shows📈. The Price is Wrong.💎🙌HODL!🚀
+#Author: _Badtothebone_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/](https://www.reddit.com/r/Superstonk/comments/o4slo3/the_obv_does_not_lie_the_chart_overlay_shows_the/)
 
 
 Yo Yo Yo waddup Apes!, Boner here...again, Coming at you with yet another OBV update post. Lets dive right into it shall we?🚀
 
 &#x200B;
 
-[HODL THE LINE](https://preview.redd.it/we26nphx9h671.jpg?width=828&format=pjpg&auto=webp&s=d562f5b6c646597d7a94a0174ac13a610a273da1)
+![HODL THE LINE](https://preview.redd.it/we26nphx9h671.jpg?width=828&format=pjpg&auto=webp&s=d562f5b6c646597d7a94a0174ac13a610a273da1)
 
 So after many many requests I have made the post everyones been asking to see... 
 
@@ -16,7 +17,7 @@ Let's take a gander at it and talk about what we're seeing!
 
 &#x200B;
 
-[180 day chart for GME\/ 180 day OBV overlay](https://preview.redd.it/yutnkl2bah671.jpg?width=828&format=pjpg&auto=webp&s=25ef9bebbc2952ea3f2321a3ec1f3b7124cbc623)
+![180 day chart for GME\/ 180 day OBV overlay](https://preview.redd.it/yutnkl2bah671.jpg?width=828&format=pjpg&auto=webp&s=25ef9bebbc2952ea3f2321a3ec1f3b7124cbc623)
 
 What you have laid your eyes on is the 180 day chart for GME,  The purple line you're looking at is the 180 day OBV (On balance volume) line. Now as you can see here the price of GME has fluctuated up and down drastically... or has it? Well from what the OBV tells me is that the price in theory should not have gone down at all.... according to the OBV the price has only gone up because of positive buying volume and or stayed stagnant sideways due to Diamond Hands. This tells us no one is selling and the Apes are HODLing their shares with there rock solid diamond hands. The hedge funds are manipulating the price to break lower on our chart; (more on this later). On the hedge funds charts the price of GME could be exponentially higher than what we see. Obviously this is speculation but something fishy is going on here.... 
 
@@ -26,7 +27,7 @@ What you have laid your eyes on is the 180 day chart for GME,  The purple line y
 
 &#x200B;
 
-[Vlad the stock impaler](https://preview.redd.it/52ig8y1nbh671.jpg?width=828&format=pjpg&auto=webp&s=700db55a05898ee4e8d69ca1f0d253481e7d0a3d)
+![Vlad the stock impaler](https://preview.redd.it/52ig8y1nbh671.jpg?width=828&format=pjpg&auto=webp&s=700db55a05898ee4e8d69ca1f0d253481e7d0a3d)
 
 As I have said in my previous post...
 

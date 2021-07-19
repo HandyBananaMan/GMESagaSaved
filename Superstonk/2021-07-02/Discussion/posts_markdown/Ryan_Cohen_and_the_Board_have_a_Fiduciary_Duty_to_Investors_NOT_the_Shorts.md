@@ -1,5 +1,6 @@
-# Author: tendieful
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oc98ue/ryan_cohen_and_the_board_have_a_fiduciary_duty_to/](https://www.reddit.com/r/Superstonk/comments/oc98ue/ryan_cohen_and_the_board_have_a_fiduciary_duty_to/)
+#Title: Ryan Cohen and the Board have a Fiduciary Duty to Investors, NOT the Shorts.
+#Author: tendieful
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oc98ue/ryan_cohen_and_the_board_have_a_fiduciary_duty_to/](https://www.reddit.com/r/Superstonk/comments/oc98ue/ryan_cohen_and_the_board_have_a_fiduciary_duty_to/)
 
 
 I keep seeing this idea posted that Ryan Cohen issued new shares of GameStop so, get this, shorts have a chance to cover so that GameStop could say that they offered the shorts a way to prevent a market collapse due to MOASS. 

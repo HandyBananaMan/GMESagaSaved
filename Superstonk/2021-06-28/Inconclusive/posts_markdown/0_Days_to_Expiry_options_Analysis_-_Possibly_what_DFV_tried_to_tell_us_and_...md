@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/](https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/)
+#Title: 0 Days to Expiry options Analysis - Possibly what DFV tried to tell us and we missed it - The actual T+21 - T+35 GME Main Cycle
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/](https://www.reddit.com/r/Superstonk/comments/o9heac/0_days_to_expiry_options_analysis_possibly_what/)
 
 
 Hi all,
@@ -47,7 +48,7 @@ I've integrated my new 0DTE findings into my existing prediction model as they f
 
 **May 5 - June 25**
 
-[List of all 0DTE option trades since May 5.](https://preview.redd.it/i46qnakb1z771.png?width=1656&format=png&auto=webp&s=53a9522e9c2784e00c704c8264bfd82137ca5cae)
+![List of all 0DTE option trades since May 5.](https://preview.redd.it/i46qnakb1z771.png?width=1656&format=png&auto=webp&s=53a9522e9c2784e00c704c8264bfd82137ca5cae)
 
 Whilst looking at this chart containing all option 0DTE data from May 5 - June 25, i noticed what you've already probably noticed, a spike in the premium paid for $300 strike puts.
 

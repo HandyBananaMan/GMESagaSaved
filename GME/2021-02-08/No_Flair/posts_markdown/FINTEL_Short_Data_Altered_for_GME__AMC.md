@@ -1,5 +1,6 @@
-# Author: TowelFine6933
-# Post URL: [https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/](https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/)
+#Title: FINTEL Short Data Altered for GME & AMC
+#Author: TowelFine6933
+#Post URL: [https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/](https://www.reddit.com/r/GME/comments/lfqqiz/fintel_short_data_altered_for_gme_amc/)
 
 
 UPDATED ON FEB 16, 2021
@@ -14,17 +15,17 @@ I sent an email to FINTEL asking why the Short data had been altered by 50% for 
 
 This was the response:
 
-[Response #1](https://preview.redd.it/5o5ek0bopcg61.jpg?width=1262&format=pjpg&auto=webp&s=8dd26504acbe7b12be1556908f237f23266fc419)
+![Response #1](https://preview.redd.it/5o5ek0bopcg61.jpg?width=1262&format=pjpg&auto=webp&s=8dd26504acbe7b12be1556908f237f23266fc419)
 
 &#x200B;
 
 I then sent a followup email:
 
-[E-Mail #2](https://preview.redd.it/9mdgo102ocg61.jpg?width=1264&format=pjpg&auto=webp&s=92e3637f6c4c6ab6ec57aa272c951298e60a05df)
+![E-Mail #2](https://preview.redd.it/9mdgo102ocg61.jpg?width=1264&format=pjpg&auto=webp&s=92e3637f6c4c6ab6ec57aa272c951298e60a05df)
 
 This is the response:
 
-[Response #2](https://preview.redd.it/xl1a2gsbocg61.jpg?width=1264&format=pjpg&auto=webp&s=be6e72e78b04c8c1f84b0310751904b0dc2791b7)
+![Response #2](https://preview.redd.it/xl1a2gsbocg61.jpg?width=1264&format=pjpg&auto=webp&s=be6e72e78b04c8c1f84b0310751904b0dc2791b7)
 
 Seriously?!? The reporting agency for the largest financial trading system in the world made a boo-boo which goes back an entire fucking year!?!? (2020 really was shit, wasn't it?)
 
@@ -48,15 +49,15 @@ EDIT: 2/16/2021 03:12 EST
 
 In response to the above, I sent this email on Feb 9:
 
-[E-mail #3](https://preview.redd.it/eo6ww5gxssh61.jpg?width=1268&format=pjpg&auto=webp&s=f59f8221c638e3b867a053410559d256f1b15378)
+![E-mail #3](https://preview.redd.it/eo6ww5gxssh61.jpg?width=1268&format=pjpg&auto=webp&s=f59f8221c638e3b867a053410559d256f1b15378)
 
 Finally, even though I received my other responses within a matter of hours, this is the response I received on Feb 15:
 
-[Response #3](https://preview.redd.it/warsdrfttsh61.jpg?width=1271&format=pjpg&auto=webp&s=5c5cd1effb216197cc9bc2731e5d1140bfe2d97f)
+![Response #3](https://preview.redd.it/warsdrfttsh61.jpg?width=1271&format=pjpg&auto=webp&s=5c5cd1effb216197cc9bc2731e5d1140bfe2d97f)
 
 As you can see, none of the questions were addressed. The response was completely blank. They had simply changed the status of my inquiry to "Resolved". I clicked on the "View Request" link and, through the FINTEL site, asked them to respond to the questions. I received the following at 10:39 pm on Feb 15:
 
-[Response #4](https://preview.redd.it/dgimv36atsh61.jpg?width=1266&format=pjpg&auto=webp&s=f1c7d1db61dba4308f65685509d52d0f3e22f248)
+![Response #4](https://preview.redd.it/dgimv36atsh61.jpg?width=1266&format=pjpg&auto=webp&s=f1c7d1db61dba4308f65685509d52d0f3e22f248)
 
 There are several things about this response that I find interesting:
 
@@ -70,4 +71,4 @@ There are several things about this response that I find interesting:
 
 I plan to resubmit my questions and point out that I still do need help with "actual use of \[their\] site". After all they claim to offer "Institutional Grade Research Tools" to help you "Dominate the Financial Markets" with "more accurate data" for "better decisions". Yet, I am still not sure what numbers I can rely on. They discovered a "programming error". What if there are other errors in the data that have yet to be discovered? I probably won't get a response since they seem to be circling the wagons, but I can try.
 
-Any ideas for additional questions are welcome. Or, please feel free to send them questions of your own. They can be reached at ![support@fintelio.atlassian.net](mailto:support@fintelio.atlassian.net). 
+Any ideas for additional questions are welcome. Or, please feel free to send them questions of your own. They can be reached at [support@fintelio.atlassian.net](mailto:support@fintelio.atlassian.net). 

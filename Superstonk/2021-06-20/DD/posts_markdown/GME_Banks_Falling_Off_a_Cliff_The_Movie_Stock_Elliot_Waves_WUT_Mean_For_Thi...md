@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/)
+#Title: GME, Banks Falling Off a Cliff, The Movie Stock, Elliot Waves, WUT Mean For This Week? 🚀
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/](https://www.reddit.com/r/Superstonk/comments/o4jxb3/gme_banks_falling_off_a_cliff_the_movie_stock/)
 
 
 Sup Apes
@@ -18,17 +19,17 @@ First off, I'm sure you all have seen the posts regarding bank stocks following 
 
 Let's take a look at the banks last week:
 
-[OOOOF](https://preview.redd.it/vqt6zzy8ji671.png?width=2802&format=png&auto=webp&s=0e482ac603a8601e6d2988e8ac7e1475473c5140)
+![OOOOF](https://preview.redd.it/vqt6zzy8ji671.png?width=2802&format=png&auto=webp&s=0e482ac603a8601e6d2988e8ac7e1475473c5140)
 
 This might be one of my favorite screenshots of all time. Let's take a look at the banks back in the middle of january and see if that had any correlation to GME goin bananas at the end of January.
 
-[death to big banks](https://preview.redd.it/eb9h44rgji671.png?width=2806&format=png&auto=webp&s=d45dcd5616c6db3ab3d85698ad1f65b9c31dc424)
+![death to big banks](https://preview.redd.it/eb9h44rgji671.png?width=2806&format=png&auto=webp&s=d45dcd5616c6db3ab3d85698ad1f65b9c31dc424)
 
 Given that GME's run peaked in the end of January, the conclusions that I draw from that are the banks hit a low around GME's peak. Granted, there were many outside factors at play back then, so this is all speculative. However, Let's look at GME in january now, pay close attention to the dates on the bottom and compare those to the banks above:
 
 &#x200B;
 
-[squeeze for ants](https://preview.redd.it/jg73y59tji671.png?width=2770&format=png&auto=webp&s=0af347858b726f3fe3104a2339cd794cc2412543)
+![squeeze for ants](https://preview.redd.it/jg73y59tji671.png?width=2770&format=png&auto=webp&s=0af347858b726f3fe3104a2339cd794cc2412543)
 
 &#x200B;
 
@@ -46,11 +47,11 @@ Alright, so we can *seemingly* use the falling stock price of banks as a predict
 
 Speaking of comparing candle charts, something super interesting was brought to my attention in a group discussion, big shoutout to u/roman_axt for the hard work you ultra wrinkly brained primate. Below are images of GME and the movie company, courtesy of u/roman_axt as the arrows are drawn so the smoothest of brains can interpret what tf is going on. Do note, these are from about a week ago, so not all candles are up to date (if it even matters)
 
-[movie company](https://preview.redd.it/k6na9x1ali671.png?width=1642&format=png&auto=webp&s=b76c79799b8653e2f7a1abd4519511f3ec4de0d9)
+![movie company](https://preview.redd.it/k6na9x1ali671.png?width=1642&format=png&auto=webp&s=b76c79799b8653e2f7a1abd4519511f3ec4de0d9)
 
 &#x200B;
 
-[GME](https://preview.redd.it/vsbpkxlqli671.png?width=1652&format=png&auto=webp&s=968f2fdef4407b30ca589c9c7b6ad887dec9fc4e)
+![GME](https://preview.redd.it/vsbpkxlqli671.png?width=1652&format=png&auto=webp&s=968f2fdef4407b30ca589c9c7b6ad887dec9fc4e)
 
 The reason I bring this up is because some of my friends in the trading world (that only trade off price action mind you, they don't really understand the whole GME saga) noticed this as well. It APPEARS that the movie company and GME not only move in a somewhat similar/predictable pattern, but GME seems to be lagging behind by about 2 or so weeks. Do note, this is just an approximation from eyeballing, please take this all with a grain of salt and remember I am retarded.
 
@@ -58,11 +59,11 @@ Here is a view sent to me by one of my good friends who noticed the same fishine
 
 &#x200B;
 
-[moveee stonk](https://preview.redd.it/uq7aosflmi671.png?width=457&format=png&auto=webp&s=a068716cd483c2b6793e4d54d98ed2e1f852c613)
+![moveee stonk](https://preview.redd.it/uq7aosflmi671.png?width=457&format=png&auto=webp&s=a068716cd483c2b6793e4d54d98ed2e1f852c613)
 
 &#x200B;
 
-[gAmEsToNk](https://preview.redd.it/1xw8lktmmi671.png?width=457&format=png&auto=webp&s=ad27d18e0a9739aa32ec178e69b29a6a39f9dc4f)
+![gAmEsToNk](https://preview.redd.it/1xw8lktmmi671.png?width=457&format=png&auto=webp&s=ad27d18e0a9739aa32ec178e69b29a6a39f9dc4f)
 
 now what REALLY has me jacked is the pattern lines up from a few weeks ago, when the movie stock was trading for sub $16/share. It then ran to upwards of 70+. I was able to predict the movie stock's relative high's and low's using EW as well, which I've gotta say is actually super exciting. I own none, BUT it worked on a seemingly "impossible" to time stock. Idk about you, but I don't believe in coincidences.
 
@@ -70,7 +71,7 @@ Disclaimer, I hodl ZERO of the movie stock, I have always believed it was a dist
 
 Now let's tie this assumption into my GME elliot waves analysis, try not to get too jacked:
 
-[4hr](https://preview.redd.it/04006jafni671.png?width=2812&format=png&auto=webp&s=eb668952f63ba29226abd0855cbecd476b479466)
+![4hr](https://preview.redd.it/04006jafni671.png?width=2812&format=png&auto=webp&s=eb668952f63ba29226abd0855cbecd476b479466)
 
 As stated time and time again, we are in a 3 within a 3 within a 3, which is quite literally an elliot wave trader's wet dream. This setup is valid down to about 113, so I wouldn't worry about "is the structure still valid?" yes. yes it is.
 
@@ -82,7 +83,7 @@ I'm not saying we will break into the 400+ range this week by any means, but  ma
 
 Lastly, let's take a look at SPY and the VIX, as we can use each as  a tool to gauge not only sentiment, but potential fuckery before it happens. In my post regarding the SP500 and GME, I brought up how In the January squeeze, SPY took a fucking HIT as GME broke into the hundreds for the first time ever. Here's my view of SPY:
 
-[4hr](https://preview.redd.it/tg53oi4ioi671.png?width=2830&format=png&auto=webp&s=fb523f927bed85a65d2e1a43b2b000295e84d8bf)
+![4hr](https://preview.redd.it/tg53oi4ioi671.png?width=2830&format=png&auto=webp&s=fb523f927bed85a65d2e1a43b2b000295e84d8bf)
 
 NGL, SPY is kind of in no man's land right now. I'll have to see how we open to have a better idea of where it's going. By all means this COULD be the beginning of our long awaited bear market, but it could very well form an impulsive wave 1 to the upside to make for a final push to around 430 before shit hits the fan
 

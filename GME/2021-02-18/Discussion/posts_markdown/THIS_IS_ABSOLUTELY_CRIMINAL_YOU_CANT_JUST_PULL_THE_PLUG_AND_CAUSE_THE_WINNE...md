@@ -1,5 +1,6 @@
-# Author: TheGreatHodl
-# Post URL: [https://www.reddit.com/r/GME/comments/lmnr4b/this_is_absolutely_criminal_you_cant_just_pull/](https://www.reddit.com/r/GME/comments/lmnr4b/this_is_absolutely_criminal_you_cant_just_pull/)
+#Title: THIS IS ABSOLUTELY CRIMINAL. YOU CANT JUST PULL THE PLUG AND CAUSE THE WINNERS TO TAKE NEARLY 100% LOSSES AND THINK OH WELL. THEY LITERALLY STOPPED THE GREATEST TRANSFER OF WEALTH BECAUSE GREEDY HEDGIES OVERLEVERAGED AND LOST. EVERYONE SHOULD BUY GME TO STAND UP AGAINST THIS CRIMINAL ACT.
+#Author: TheGreatHodl
+#Post URL: [https://www.reddit.com/r/GME/comments/lmnr4b/this_is_absolutely_criminal_you_cant_just_pull/](https://www.reddit.com/r/GME/comments/lmnr4b/this_is_absolutely_criminal_you_cant_just_pull/)
 
 
 We should not have to hold the bags. The corrupt criminals literally think okay yea we loss but the system was about to crash so we needed a way out. Im diamond handing on principle alone now.

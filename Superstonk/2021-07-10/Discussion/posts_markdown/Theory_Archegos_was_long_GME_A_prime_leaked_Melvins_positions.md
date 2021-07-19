@@ -1,5 +1,6 @@
-# Author: Herastrau90
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/](https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/)
+#Title: Theory Archegos was long GME, A prime leaked Melvin's positions.
+#Author: Herastrau90
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/](https://www.reddit.com/r/Superstonk/comments/ohwtjd/theory_archegos_was_long_gme_a_prime_leaked/)
 
 
 The biggest secret Wall Street did not want you to know: Archegos was in fact the long GME whale.
@@ -16,25 +17,25 @@ The reason Archegos was able to take such a big leverage from all these banks is
 
 Now, we know that Archegos main positions were in Discovery, GSX and ViacomCBS. However another one of their positions not talked about was in AMCX.
 
-[GSX Chart](https://i.imgur.com/0Fa3Og1.png) \- Keep in mind the Jan 27 spike.
+![GSX Chart](https://i.imgur.com/0Fa3Og1.png) \- Keep in mind the Jan 27 spike.
 
-[ViacomCBS Chart](https://i.imgur.com/ss9cUEg.png)
+![ViacomCBS Chart](https://i.imgur.com/ss9cUEg.png)
 
-[Discovery Chart](https://i.imgur.com/uz4wwZh.png)
+![Discovery Chart](https://i.imgur.com/uz4wwZh.png)
 
-[AMCX Chart](https://i.imgur.com/xycKm5Z.png)
+![AMCX Chart](https://i.imgur.com/xycKm5Z.png)
 
-[All 4 charts combined](https://i.imgur.com/hGCwM6Y.png)
+![All 4 charts combined](https://i.imgur.com/hGCwM6Y.png)
 
 Now why would they all of a sudden start pumping all these stocks in January for no reason? Because Melvin Capital was shorting them all. Archegos was squeezing Melvin Capital out of all of them.
 
 How do we know this?
 
-[Melvin Capital - 3,260,000 shares in puts on ViacomCBS.](https://i.imgur.com/Hm8c4w9.png) \+ Likely a short position.
+![Melvin Capital - 3,260,000 shares in puts on ViacomCBS.](https://i.imgur.com/Hm8c4w9.png) \+ Likely a short position.
 
-[Melvin Capital - 600,000 shares in puts on AMCX](https://i.imgur.com/vJlw0wg.png). + Likely a short position.
+![Melvin Capital - 600,000 shares in puts on AMCX](https://i.imgur.com/vJlw0wg.png). + Likely a short position.
 
-[Melvin Capital - 750,000 shares in puts on GSX.](https://i.imgur.com/4eq1YDg.png) \+ Likely a short position.
+![Melvin Capital - 750,000 shares in puts on GSX.](https://i.imgur.com/4eq1YDg.png) \+ Likely a short position.
 
 No public position on Discovery. Most likely only shorted with no puts.
 
@@ -46,33 +47,33 @@ Now let's look at the Archegos leverage/portfolio:
 
 [https://www.ft.com/content/c319839d-d185-4e8a-bbc7-659bebe58031](https://www.ft.com/content/c319839d-d185-4e8a-bbc7-659bebe58031)
 
-[https://i.imgur.com/HhElIl0.png](https://i.imgur.com/HhElIl0.png)
+![https://i.imgur.com/HhElIl0.png](https://i.imgur.com/HhElIl0.png)
 
 Now let's look at that spike and runup on January 27th which also conveniently lines up with the biggest GME's closing day at 347.
 
 Here's more of Melvin Capital's public put positions:
 
-[https://i.imgur.com/HmdrPrb.png](https://i.imgur.com/HmdrPrb.png)
+![https://i.imgur.com/HmdrPrb.png](https://i.imgur.com/HmdrPrb.png)
 
-[https://i.imgur.com/6i2ejwg.png](https://i.imgur.com/6i2ejwg.png)
+![https://i.imgur.com/6i2ejwg.png](https://i.imgur.com/6i2ejwg.png)
 
 What happened to them?
 
-[They.](https://i.imgur.com/A2b5wNo.png)
+![They.](https://i.imgur.com/A2b5wNo.png)
 
-[All.](https://i.imgur.com/XvgynCI.png)
+![All.](https://i.imgur.com/XvgynCI.png)
 
-[Spike.](https://i.imgur.com/SuqfOXm.png)
+![Spike.](https://i.imgur.com/SuqfOXm.png)
 
-[On.](https://i.imgur.com/XPOGyir.png)
+![On.](https://i.imgur.com/XPOGyir.png)
 
-[January 27.](https://i.imgur.com/RqXL5G8.png)
+![January 27.](https://i.imgur.com/RqXL5G8.png)
 
 And this was while the rest of the market was taking a huge hit.
 
-[GME Jan 27th.](https://i.imgur.com/Hd0lxTJ.png)
+![GME Jan 27th.](https://i.imgur.com/Hd0lxTJ.png)
 
-[Archegos portfolio compared to the spike](https://i.imgur.com/fZTitpx.png) iRobot has 500k volume on average so we can easily see when a stock is being moved by a certain group.
+![Archegos portfolio compared to the spike](https://i.imgur.com/fZTitpx.png) iRobot has 500k volume on average so we can easily see when a stock is being moved by a certain group.
 
 **Archegos was squeezing out Melvin down to their last cents so they could not meet the margin call for their short positions, especially GME. January 27th was some of the biggest money injection ever done by a single group.**
 
@@ -80,9 +81,9 @@ And this was while the rest of the market was taking a huge hit.
 
 Now let's look at the GME's On Balance Volume and Archegos leverage/portfolio:
 
-[https://i.imgur.com/hQgH1Ze.png](https://i.imgur.com/hQgH1Ze.png)
+!![https://i.imgur.com/hQgH1Ze.png](https://i.imgur.com/hQgH1Ze.png)
 
-[https://imgur.com/ZV7zXXJ](https://imgur.com/ZV7zXXJ) (Ignore debt as it's their portfolio not debt).
+![https://imgur.com/ZV7zXXJ](https://imgur.com/ZV7zXXJ) (Ignore debt as it's their portfolio not debt).
 
 Credits to this person who made the thread here:
 
@@ -94,7 +95,7 @@ Now how and why did this happen? It's likely that Melvin's and Citadel's short p
 
 After the January run up and the broker shutdown, the Archegos fund went dark until their leverage/portfolio started picking up again at the end of Feburary:
 
-[https://i.imgur.com/hQgH1Ze.png](https://i.imgur.com/hQgH1Ze.png)
+!![https://i.imgur.com/hQgH1Ze.png](https://i.imgur.com/hQgH1Ze.png)
 
 Now we know that GME and other 'meme stocks'/shorted stocks spiked again on Feb 24th and onwards and then dropped after the Archegos losses/banks selling off their portfolio.
 
@@ -102,11 +103,11 @@ Now we know that GME and other 'meme stocks'/shorted stocks spiked again on Feb 
 
 Here's the GME March 23 earnings crash compared to GSX and Discovery which luckily also lined up with the Archegos portfolio being sold off:
 
-[https://i.imgur.com/CcoaTUm.png](https://i.imgur.com/CcoaTUm.png)
+![https://i.imgur.com/CcoaTUm.png](https://i.imgur.com/CcoaTUm.png)
 
 Here's another image of GSX and GME lining up perfectly on Jan 27 and March drop, credits to the mod of the subreddit:
 
-[https://i.redd.it/g8t4c3rche671.jpg](https://i.redd.it/g8t4c3rche671.jpg)
+![https://i.redd.it/g8t4c3rche671.jpg](https://i.redd.it/g8t4c3rche671.jpg)
 
 &amp;#x200B;
 
@@ -136,9 +137,9 @@ Quote:
 
 Now who are the other Tiger Cubs potentially involved with Archegos?
 
-Maverick Capital, a Tiger Cub hedgefund who [publicly held 4,658,607 shares of GameStop](https://i.imgur.com/aApjus5.png) as of end of 2020. A near 2 million increase since the first half of the year.
+Maverick Capital, a Tiger Cub hedgefund who ![publicly held 4,658,607 shares of GameStop](https://i.imgur.com/aApjus5.png) as of end of 2020. A near 2 million increase since the first half of the year.
 
-They also held small positions in [AMCX](https://i.imgur.com/ifoEJCd.png), [EXPR](https://i.imgur.com/KoHvi0f.png) and [Blackberry](https://i.imgur.com/7I1NUgS.png).
+They also held small positions in ![AMCX](https://i.imgur.com/ifoEJCd.png), ![EXPR](https://i.imgur.com/KoHvi0f.png) and ![Blackberry](https://i.imgur.com/7I1NUgS.png).
 
 Now, these 3 are very small positions and they did not exist in the first half of 2020, only in the second, apart from AMCX which was an even smaller position. With GME's beginning to rise in December, was Maverick Capital made aware that Archegos was going after these? Or they did help them squeeze out all the meme/shorted stocks? Hard to tell.
 
@@ -146,7 +147,7 @@ What are their positions now?
 
 In their latest 13F the positions on all these stocks are now gone. They either sold them for profit, or hid them away from the public eye by requesting confidentiality on their SEC filing:
 
-[https://i.imgur.com/1SK4r5s.png](https://i.imgur.com/1SK4r5s.png)
+![https://i.imgur.com/1SK4r5s.png](https://i.imgur.com/1SK4r5s.png)
 
 &amp;#x200B;
 
@@ -156,7 +157,7 @@ Is Archegos still going at it after their bank meltdown, perhaps with new capita
 
 Why aren't Viacom and Discovery and GSX back on the rise?
 
-Potentially there was too many eyes on these stocks and if they started rising again it would be suspicious. AMCX is the only one rising after the drop, but it was not mentioned in the public. There's also a possibility that Melvin closed their puts/shorts on these positions. BUT, if you look at this [chart](https://i.imgur.com/hGCwM6Y.png) again, we can see Discovery and Viacom are starting to slowly get back on track with AMCX.
+Potentially there was too many eyes on these stocks and if they started rising again it would be suspicious. AMCX is the only one rising after the drop, but it was not mentioned in the public. There's also a possibility that Melvin closed their puts/shorts on these positions. BUT, if you look at this ![chart](https://i.imgur.com/hGCwM6Y.png) again, we can see Discovery and Viacom are starting to slowly get back on track with AMCX.
 
 How are other 'meme stocks' involved?
 
@@ -164,13 +165,13 @@ Well, Citadel has:
 
 [5.7 million shares in puts on movie stock) https://i.imgur.com/AS9pK9C.jpg)
 
-[290k shares in puts on EXPR](https://i.imgur.com/fKpyivi.jpg)
+![290k shares in puts on EXPR](https://i.imgur.com/fKpyivi.jpg)
 
-[1.1 million shares in puts on BBBY](https://i.imgur.com/elOlRLX.jpg) and also [Melvin's puts](https://i.imgur.com/WCIo9Dn.png)
+![1.1 million shares in puts on BBBY](https://i.imgur.com/elOlRLX.jpg) and also ![Melvin's puts](https://i.imgur.com/WCIo9Dn.png)
 
-[3 million shares in puts on Blackberry](https://i.imgur.com/DbgxusL.jpg)
+![3 million shares in puts on Blackberry](https://i.imgur.com/DbgxusL.jpg)
 
-[7.4 million shares in puts on Nokia](https://i.imgur.com/N1uvRFq.png)
+![7.4 million shares in puts on Nokia](https://i.imgur.com/N1uvRFq.png)
 
 These likely come with some short positions. Do they all still exist today? Are they actually profitting from any of them with their hedged calls/shares? Hard to tell.
 
@@ -240,7 +241,7 @@ Some more tweets:
 
 Fun fact: Bill Hwang's Tiger Asia was long on VW during 2008 and lost out on the short squeeze.
 
-Check out this video to learn more about the Archegos fund and Bill Hwang's risky bets: ![https://youtu.be/NtP3xT53dkU](https://youtu.be/NtP3xT53dkU)
+Check out this video to learn more about the Archegos fund and Bill Hwang's risky bets: [https://youtu.be/NtP3xT53dkU](https://youtu.be/NtP3xT53dkU)
 
 Also Viacom issued shares diluting the stock and the Archegos position causing Bill to be margin called. 
 

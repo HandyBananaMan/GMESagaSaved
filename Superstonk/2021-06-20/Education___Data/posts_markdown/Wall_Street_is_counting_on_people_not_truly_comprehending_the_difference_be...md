@@ -1,5 +1,6 @@
-# Author: m0m
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4glqb/wall_street_is_counting_on_people_not_truly/](https://www.reddit.com/r/Superstonk/comments/o4glqb/wall_street_is_counting_on_people_not_truly/)
+#Title: Wall Street is counting on people not truly comprehending the difference between million, billion, and trillion.
+#Author: m0m
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4glqb/wall_street_is_counting_on_people_not_truly/](https://www.reddit.com/r/Superstonk/comments/o4glqb/wall_street_is_counting_on_people_not_truly/)
 
 
 I know for the wonderful quant apes and number apes this is basic crayon 101.So, while I am in no way a number ape, I want to share with other non-number apes a practical sense of how extremely far apart million, billion, and trillion are from each other.

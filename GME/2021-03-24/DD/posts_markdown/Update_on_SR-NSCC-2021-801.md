@@ -1,5 +1,6 @@
-# Author: ravijenkie
-# Post URL: [https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/)
+#Title: Update on SR-NSCC-2021-801
+#Author: ravijenkie
+#Post URL: [https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc1yh7/update_on_srnscc2021801/)
 
 
 Hi fellow apes, (PLS UPVOTE SO EVERYONE IS CORRECTLY INFORMED)
@@ -22,7 +23,7 @@ Hopefully, you guys understand that the squeeze is still on its way just stay ca
 
 Not financial advice of course just ape talk.
 
-EDIT: KEEP UPDATED ON THIS WEBSITE TO SEE WHEN THE RULES COME INTO EFFECT : ![https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
+EDIT: KEEP UPDATED ON THIS WEBSITE TO SEE WHEN THE RULES COME INTO EFFECT : [https://www.dtcc.com/legal/sec-rule-filings](https://www.dtcc.com/legal/sec-rule-filings)
 
 EDIT 2: Apparently people/shills are downvoting this no idea why, just trying to keep the community well INFORMED
 

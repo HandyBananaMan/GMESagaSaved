@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/](https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/)
+#Title: Superstonk Daily DD- Tuesday 05-11-2021
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/](https://www.reddit.com/r/Superstonk/comments/n9twvd/superstonk_daily_dd_tuesday_05112021/)
 
 
 &#x200B;
 
-[Banner submission by u\/Tian1913](https://preview.redd.it/bmwsox5fbey61.png?width=1920&format=png&auto=webp&s=63724fd72993e3c5f969d5013107cd611f9db325)
+![Banner submission by u\/Tian1913](https://preview.redd.it/bmwsox5fbey61.png?width=1920&format=png&auto=webp&s=63724fd72993e3c5f969d5013107cd611f9db325)
 
 # Good Morning Superstonk!!!
 
@@ -28,7 +29,7 @@ Well... This doesn't effect anything in the market in real time, it is merely a 
 
 # Massive Sell of in DOW, NASDAQ, S&P 500, and C0ins
 
-[Maybe margin came calling and they're getting ready to cover? 🤷‍♀️](https://preview.redd.it/hqo0mkmmeey61.jpg?width=1071&format=pjpg&auto=webp&s=1512457d5cba4ea6fcedbd17de8042b7342b4651)
+![Maybe margin came calling and they're getting ready to cover? 🤷‍♀️](https://preview.redd.it/hqo0mkmmeey61.jpg?width=1071&format=pjpg&auto=webp&s=1512457d5cba4ea6fcedbd17de8042b7342b4651)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -70,7 +71,7 @@ So unfortunately I don't think this is saying what you think it's saying. Now to
 
 # Doritos for the Class (spicy)
 
-[Will she go up or down?](https://preview.redd.it/vhovvgnpfey61.png?width=1242&format=png&auto=webp&s=87c0da4d2ef0612562729e8ca3b8bd2430296b0c)
+![Will she go up or down?](https://preview.redd.it/vhovvgnpfey61.png?width=1242&format=png&auto=webp&s=87c0da4d2ef0612562729e8ca3b8bd2430296b0c)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -92,7 +93,7 @@ flair to the mod-only flair lineup. Please note, we will still remove posts that
 
 &#x200B;
 
-[Stupid is as stupid does](https://preview.redd.it/8irtwr9maey61.jpg?width=758&format=pjpg&auto=webp&s=afe80c1078d68010371c01ddcc5e6e92bca5f4e8)
+![Stupid is as stupid does](https://preview.redd.it/8irtwr9maey61.jpg?width=758&format=pjpg&auto=webp&s=afe80c1078d68010371c01ddcc5e6e92bca5f4e8)
 
 On that note, I made an error in yesterday's post, [which I corrected as soon as I saw dave lauer's explanation on the matter](https://www.reddit.com/r/Superstonk/comments/n9326x/sro_filings/?utm_source=share&utm_medium=web2x&context=3). We are all human and we all make mistakes. I want to stress the fact that if OP gets marked with the inconclusive flair and they bring verifiable data to back it up, the flair can be changed by mods. And note that while not exclusive to DD and education posts, that's the majority of what we had in mind when creating these flairs.
 
@@ -114,7 +115,7 @@ I know we don't talk dates or catalysts around here. But I need apes to understa
 
 # THIS IS HOW WE EXPOSE THE MARKET FUCKERY IN A WAY THEY CAN'T DENY!!
 
-[Don't forget to drop !apevote! in the comments for your voted flair!](https://preview.redd.it/xdt4dutcaey61.png?width=660&format=png&auto=webp&s=25d39e794030c22804f1bce3fdab6032e18e43e8)
+![Don't forget to drop !apevote! in the comments for your voted flair!](https://preview.redd.it/xdt4dutcaey61.png?width=660&format=png&auto=webp&s=25d39e794030c22804f1bce3fdab6032e18e43e8)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -122,7 +123,7 @@ I know we don't talk dates or catalysts around here. But I need apes to understa
 
 3 lucky apes outside the USA will receive a Gamestop Limited Edition Bananya Cat, complete with red headband!
 
-[YOU CAN HAZ CAT](https://preview.redd.it/zct0m3zeaey61.png?width=1300&format=png&auto=webp&s=2a36138eaf109061f75e4c31c09c43591a0044c2)
+![YOU CAN HAZ CAT](https://preview.redd.it/zct0m3zeaey61.png?width=1300&format=png&auto=webp&s=2a36138eaf109061f75e4c31c09c43591a0044c2)
 
 # 💎🙌🚀SHOW ME THE MEMES!! 👀
 
@@ -174,7 +175,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[BTFD](https://preview.redd.it/1lyjcl48cey61.jpg?width=914&format=pjpg&auto=webp&s=5e7017955c0c7e138dfdd11a20d1008bc9a4b183)
+![BTFD](https://preview.redd.it/1lyjcl48cey61.jpg?width=914&format=pjpg&auto=webp&s=5e7017955c0c7e138dfdd11a20d1008bc9a4b183)
 
 **Reddit down, wot do?**
 
@@ -192,4 +193,4 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 &#x200B;
 
-![Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
+[Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)

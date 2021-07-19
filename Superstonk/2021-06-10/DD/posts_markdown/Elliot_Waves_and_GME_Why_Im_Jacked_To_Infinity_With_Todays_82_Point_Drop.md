@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/](https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/)
+#Title: Elliot Waves and GME, Why I'm Jacked To Infinity With Today's 82 Point Drop 🚀
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/](https://www.reddit.com/r/Superstonk/comments/nwyj77/elliot_waves_and_gme_why_im_jacked_to_infinity/)
 
 
 Sup apes, (refer to edit 8 for updated downside target, i looked at my levels wrong, and want you to have accurate information)
@@ -16,7 +17,7 @@ I'm not gonna lie, the drop caught me off guard a bit, but its because I wasn't 
 
 &amp;#x200B;
 
-[previous wave cycle deemed invalid](https://preview.redd.it/nu57b3620i471.png?width=2130&amp;format=png&amp;auto=webp&amp;s=b2d4faafbe982b59a78faca5802787a3dfc3abe9)
+![previous wave cycle deemed invalid](https://preview.redd.it/nu57b3620i471.png?width=2130&amp;format=png&amp;auto=webp&amp;s=b2d4faafbe982b59a78faca5802787a3dfc3abe9)
 
 So why am I excited?   Originally I was looking at the previous movements as cycle movements, where  i thought the move from our low on 3/24 (last earnings) was a 5 wave CYCLE, but todays price action showed be that that whole move to 344 was actually just a wave 1 within that cycle, and today was wave 2..... completed...
 
@@ -26,7 +27,7 @@ So how do we verify all of this? First of all, really quick, here are basic EW r
 
 &amp;#x200B;
 
-[RULES](https://preview.redd.it/yxm65lyh0i471.png?width=2222&amp;format=png&amp;auto=webp&amp;s=884987dc185e8d149c5a10e5af5cccff290c7b8d)
+![RULES](https://preview.redd.it/yxm65lyh0i471.png?width=2222&amp;format=png&amp;auto=webp&amp;s=884987dc185e8d149c5a10e5af5cccff290c7b8d)
 
 I want you to look at wave 4 specifically, as this is why I am redrawing. notice how 4 can't retrace into the territory of 1? Well the top of my previous 1 was at 218.93, which is why I said it should theoretically be impossible to break below this. HOWEVER, since we did indeed break below (hit a low of 211), this invalidates that wave structure, forcing me to tHiNk OuTsIdE tHe bOx here...
 
@@ -43,13 +44,13 @@ Try not to get too jacked, this is just the 3rd cycle wave illustrated, just tak
 
 &amp;#x200B;
 
-[you done fucked up kenny g](https://preview.redd.it/79c7helw0i471.png?width=2790&amp;format=png&amp;auto=webp&amp;s=c45f3505b373416fd1992e055b4997f8bfcab086)
+![you done fucked up kenny g](https://preview.redd.it/79c7helw0i471.png?width=2790&amp;format=png&amp;auto=webp&amp;s=c45f3505b373416fd1992e055b4997f8bfcab086)
 
 I believe that Gamestop did indeed start their 5m share offering today, or at least some of it, but im not gonna speculate on that, I'm just the waves guy. So how can we confirm that today was a cycle 2? Let's take a look... 
 
 Remember how wave 2 targets 61.8% of the entire wave 1 right? Here are the fib targets from the bottom to the top of my newly drawn cycle 1:
 
-[for reference, the 61.8 level here is 213.24](https://preview.redd.it/417c93wi2i471.png?width=2794&amp;format=png&amp;auto=webp&amp;s=48a2bb785c13520bf97359d8dd7684b8f97d7d33)
+![for reference, the 61.8 level here is 213.24](https://preview.redd.it/417c93wi2i471.png?width=2794&amp;format=png&amp;auto=webp&amp;s=48a2bb785c13520bf97359d8dd7684b8f97d7d33)
 
 BAM!!! WAVE 2 CONFIRMED! Now refer back to EW rules, or if you're a good ape and did your homework, you already know that wave 3 can't be the shortest wave, and often is the longest and most powerful of the 5 wave impulse... 
 
@@ -61,13 +62,13 @@ It has to hit, at the minimum 1:1 of wave 1. If it doesn't reach this target, th
 
 &amp;#x200B;
 
-[100, 123.6, and 161.8 are initial targets, could go even higher depending on wtf happens](https://preview.redd.it/t86shmnn6i471.png?width=654&amp;format=png&amp;auto=webp&amp;s=13ad3017df11e41b39a1ad5084140e4e8766f0a1)
+![100, 123.6, and 161.8 are initial targets, could go even higher depending on wtf happens](https://preview.redd.it/t86shmnn6i471.png?width=654&amp;format=png&amp;auto=webp&amp;s=13ad3017df11e41b39a1ad5084140e4e8766f0a1)
 
 Do note though, these are CYCLE targets, I am in no way saying that we will see 442 or 586 tomorrow, BUT these are the bigger targets to watch for as of now. To give more precise targets for the waves within this cycle (intermediate, minor etc) I will need for at least an intermediate "1" to complete, so likely by tomorrow I'll be able to pinpoint more precise intraday/daily/weekly targets for your viewing (and buying) pleasure.
 
 disregarding EW, another reason why I'm excited about today's drop is a GAP UP from 6/1. If you've been following me for a while, I always point out gaps, and their significance. You can visualize the gap below by the green box.
 
-[GAP](https://preview.redd.it/bb0kpyqw3i471.png?width=2794&amp;format=png&amp;auto=webp&amp;s=b7367e92992e4f1dbad19092a6f1fe92de6ddd77)
+![GAP](https://preview.redd.it/bb0kpyqw3i471.png?width=2794&amp;format=png&amp;auto=webp&amp;s=b7367e92992e4f1dbad19092a6f1fe92de6ddd77)
 
 If you've been following me since march, this is how I was able to predict the 350 to 180 drop, but that was before I knew EW theory. now that this gap is filled (we have one on the daily chart as well that was also filled today, doesn't matter as much as that "gap" only appears on the daily, meaning the price action filled the areas in the after hours/pre market. We can determine this by looking on a 4hr chart. You can compare the daily and the 4hr below:
 
@@ -75,9 +76,9 @@ If you've been following me since march, this is how I was able to predict the 3
 
 &amp;#x200B;
 
-[daily](https://preview.redd.it/q2bt447d4i471.png?width=2752&amp;format=png&amp;auto=webp&amp;s=805569daf92319355a1190fba0504fe6cda49a3a)
+![daily](https://preview.redd.it/q2bt447d4i471.png?width=2752&amp;format=png&amp;auto=webp&amp;s=805569daf92319355a1190fba0504fe6cda49a3a)
 
-[4hr](https://preview.redd.it/dwdne3qe4i471.png?width=2800&amp;format=png&amp;auto=webp&amp;s=5eda9a0e497aba537505f5decc7df9d34cba5bba)
+![4hr](https://preview.redd.it/dwdne3qe4i471.png?width=2800&amp;format=png&amp;auto=webp&amp;s=5eda9a0e497aba537505f5decc7df9d34cba5bba)
 
 See the difference? 
 
@@ -91,7 +92,7 @@ for reference, my super cycle is visualized by the yellow lines. Given that this
 
 &amp;#x200B;
 
-[jacked to da max](https://preview.redd.it/9xbm9nb35i471.png?width=2674&amp;format=png&amp;auto=webp&amp;s=a07e92c36d8cd41568a81da81df48613946ee1b7)
+![jacked to da max](https://preview.redd.it/9xbm9nb35i471.png?width=2674&amp;format=png&amp;auto=webp&amp;s=a07e92c36d8cd41568a81da81df48613946ee1b7)
 
 I dont even really trade technical patterns anymore, but I couldn't ignore this beautiful cup and handle forming... 
 

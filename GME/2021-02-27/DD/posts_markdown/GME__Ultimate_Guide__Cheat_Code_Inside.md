@@ -1,5 +1,6 @@
-# Author: hello-world-foo-bar2
-# Post URL: [https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/](https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/)
+#Title: GME | Ultimate Guide | Cheat Code Inside
+#Author: hello-world-foo-bar2
+#Post URL: [https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/](https://www.reddit.com/r/GME/comments/ltnhij/gme_ultimate_guide_cheat_code_inside/)
 
 
 *Disclaimer: I am not a financial advisor. This entire post represents my personal views and opinions, and should not be taken as financial advice (or advice of any kind whatsoever). I encourage you to do your own research, take anything I write with a grain of salt. I love the stock.*
@@ -150,4 +151,4 @@ The cheat code is just to HOLD and buy the dip with shares or fractional shares.
 
 \[1\] [https://markets.businessinsider.com/news/stocks/gamestop-short-sellers-billions-losses-reddit-traders-wallstreetbets-rally-gme-2021-2-1030125873](https://markets.businessinsider.com/news/stocks/gamestop-short-sellers-billions-losses-reddit-traders-wallstreetbets-rally-gme-2021-2-1030125873)
 
-\![2\] [https://www.reddit.com/r/GME/comments/lp37ll/short\_selling\_etfs\_what\_it\_does\_how\_it\_affects/](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)
+\[2\] [https://www.reddit.com/r/GME/comments/lp37ll/short\_selling\_etfs\_what\_it\_does\_how\_it\_affects/](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)

@@ -1,5 +1,6 @@
-# Author: derpy667
-# Post URL: [https://www.reddit.com/r/GME/comments/mfk5qu/be_cautious_apes_this_is_a_lot_of_good_news_all/](https://www.reddit.com/r/GME/comments/mfk5qu/be_cautious_apes_this_is_a_lot_of_good_news_all/)
+#Title: BE CAUTIOUS APES!!! THIS IS A LOT OF GOOD NEWS ALL AT ONCE! SOMETHING'S FUCKY!
+#Author: derpy667
+#Post URL: [https://www.reddit.com/r/GME/comments/mfk5qu/be_cautious_apes_this_is_a_lot_of_good_news_all/](https://www.reddit.com/r/GME/comments/mfk5qu/be_cautious_apes_this_is_a_lot_of_good_news_all/)
 
 
 PSA to all apes!   

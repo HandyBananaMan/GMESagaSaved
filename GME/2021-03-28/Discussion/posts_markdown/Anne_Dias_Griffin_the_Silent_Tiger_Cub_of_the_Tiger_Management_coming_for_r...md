@@ -1,5 +1,6 @@
-# Author: Thelonepotatoes
-# Post URL: [https://www.reddit.com/r/GME/comments/mewopn/anne_dias_griffin_the_silent_tiger_cub_of_the/](https://www.reddit.com/r/GME/comments/mewopn/anne_dias_griffin_the_silent_tiger_cub_of_the/)
+#Title: Anne Dias Griffin the Silent Tiger Cub of the Tiger Management coming for revenge (Tin Foil Hat of Fun)
+#Author: Thelonepotatoes
+#Post URL: [https://www.reddit.com/r/GME/comments/mewopn/anne_dias_griffin_the_silent_tiger_cub_of_the/](https://www.reddit.com/r/GME/comments/mewopn/anne_dias_griffin_the_silent_tiger_cub_of_the/)
 
 
 Edit: if anyone is reading this join S U P E R S T O N K

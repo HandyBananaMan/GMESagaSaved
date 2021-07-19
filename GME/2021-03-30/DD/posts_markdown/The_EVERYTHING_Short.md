@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
+#Title: The EVERYTHING Short
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
 
 
 4/4/2021 EDIT: Just got done watching [this review](https://www.youtube.com/watch?v=6pnK7W4b0Ro) (2:09:37) from George Gammon and Meet Kevin. As pointed out by George, the link I posted below talking about the submitted repo amount was ONLY showing the NY Fed's total for that day. According to his own research, he suspects that $4 TRILLION is pumped through this market, EACH DAY.
@@ -67,7 +68,7 @@ The reason for the spike was once again due to a lack of liquidity. The [federal
 
 It became apparent that ANOTHER infusion of cash was necessary to prevent the whole damn system from collapsing. *The reason being: institutions did NOT have enough excess liquidity on hand*. Financial institutions needed a fast replacement for the MBS, and J-POW had just the right thing.. $FED go BRRRRRRRRRRRRRRRRR
 
-[\\"but don't say it's QE..\\"](https://preview.redd.it/7mmmhqf9g9q61.png?width=1200&format=png&auto=webp&s=790466a2979a194facb57919d762cacca815a384)
+![\\"but don't say it's QE..\\"](https://preview.redd.it/7mmmhqf9g9q61.png?width=1200&format=png&auto=webp&s=790466a2979a194facb57919d762cacca815a384)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -101,7 +102,7 @@ Who else is in this cesspool?!
 
 https://preview.redd.it/ah5775qdg9q61.png?width=360&format=png&auto=webp&s=ad4ab23bdee3739d06f4443e97da4c6172199590
 
-[I made this using the financial statement listed above, showing all beneficiaries of the GFIL](https://preview.redd.it/hhkco0ueg9q61.png?width=900&format=png&auto=webp&s=7bdb80678d270dd17990312d5024542e61a6db4a)
+![I made this using the financial statement listed above, showing all beneficiaries of the GFIL](https://preview.redd.it/hhkco0ueg9q61.png?width=900&format=png&auto=webp&s=7bdb80678d270dd17990312d5024542e61a6db4a)
 
 Everything rolls into the [Citadel Global Fixed Income Master Fund](https://aum13f.com/firm/citadel-advisors-llc?view_all=fund)... This controls **$123,218,147,399** (THAT'S BILLION) in assets under management... I know offshore accounts are technically legal for hedge funds.... but when you look at the itemized holdings of these funds on Citadel's most recent [form ADV](https://reports.adviserinfo.sec.gov/reports/ADV/148826/PDF/148826.pdf), it gives me chills..
 
@@ -133,7 +134,7 @@ I've been writing this post for a week, so reading it all at one time is probabl
 
 Ok, remember how I explained that the repo rate started to rise in '08 because **the collateral was no longer attractive compared to cash? That means there wasn't enough liquidity in the system.** Well this time the OPPOSITE effect is happening. Ever since March 2020, the short-term lending rate (repo rate) has nearly dropped to ***0.0%....***
 
-[https:\/\/www.newyorkfed.org\/markets\/treasury-repo-reference-rates](https://preview.redd.it/ui9welgkg9q61.png?width=330&format=png&auto=webp&s=fbd5b9501f7bbc386fa62e152ca2b090173692a2)
+![https:\/\/www.newyorkfed.org\/markets\/treasury-repo-reference-rates](https://preview.redd.it/ui9welgkg9q61.png?width=330&format=png&auto=webp&s=fbd5b9501f7bbc386fa62e152ca2b090173692a2)
 
 So the fed is printing free money, the repo market is lending free money, and there's basically NO difference between the collateral that's being lent and the cash that's being received.. With all this free money going around, it's no wonder why the price of the 10 year treasury has been declining.
 
@@ -157,17 +158,17 @@ Still not convinced?
 
 At the end of 2020, Palafox Trading listed **$31,257,102,000 (BILLION)** in GROSS repo agreements. **$30,576,918,000** (BILLION) were directly related to repurchasing treasury bonds....
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/m3lg8nzog9q61.png?width=726&format=png&auto=webp&s=747e1f671323227be9c0220aec18f8ec245d3cf1)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/m3lg8nzog9q61.png?width=726&format=png&auto=webp&s=747e1f671323227be9c0220aec18f8ec245d3cf1)
 
 But what about their Reverse Repurchase agreements? Don't they have assets to BUY treasury bonds?SURE.. Take a look..
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/wt8fbrlrg9q61.png?width=371&format=png&auto=webp&s=72f939a98e0dc34a08b8a58e89ef68045a8e78a7)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/wt8fbrlrg9q61.png?width=371&format=png&auto=webp&s=72f939a98e0dc34a08b8a58e89ef68045a8e78a7)
 
 SeE tHeRe? I tOlD yOu ThEy HaD iT cOvErEd..
 
 Yeaaaah... now read the fine print.
 
-[I know the totals are slightly different than the balance above, but they're both from 2020. It's just how they are presented. Check for yourself. \(https:\/\/sec.report\/CIK\/0001284170\)](https://preview.redd.it/5enfigytg9q61.png?width=354&format=png&auto=webp&s=ab613f3bf46064c674bce68766a90e2b2613a2ec)
+![I know the totals are slightly different than the balance above, but they're both from 2020. It's just how they are presented. Check for yourself. \(https:\/\/sec.report\/CIK\/0001284170\)](https://preview.redd.it/5enfigytg9q61.png?width=354&format=png&auto=webp&s=ab613f3bf46064c674bce68766a90e2b2613a2ec)
 
 So no, they don't have it covered. Why? Because our POS financial system allows for rehypothecation, that's why. It's a big fancy word for using amounts owed to you as collateral for another transaction. In the event that the party defaults, **SO DO YOU**.
 
@@ -179,11 +180,11 @@ OH, and by the way, the problem is getting WORSE.
 
 Here's Palafox's financial statements in **2018:**
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/lrtryfivg9q61.png?width=720&format=png&auto=webp&s=d850854f0fbcf0a5d701374ed5634d6eaf036919)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/lrtryfivg9q61.png?width=720&format=png&auto=webp&s=d850854f0fbcf0a5d701374ed5634d6eaf036919)
 
 **And 2019:**
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/zjxda0swg9q61.png?width=721&format=png&auto=webp&s=4c124bfd8b4f4a9162b2a2b65ade4b690b4dfadd)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/zjxda0swg9q61.png?width=721&format=png&auto=webp&s=4c124bfd8b4f4a9162b2a2b65ade4b690b4dfadd)
 
 The amount in **2020** is STILL +100% greater than 2019, AFTER netting (which is even more bullsh\*t).
 

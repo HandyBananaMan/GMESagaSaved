@@ -1,5 +1,6 @@
-# Author: Doom_Douche
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
+#Title: Deep Dive into Dark Pool Trading - How they might accidentally be showing us the number of synthetic shares
+#Author: Doom_Douche
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/)
 
 
 Hello Apes,
@@ -32,7 +33,7 @@ Ok, that makes sense. We wouldn't want to cause artificial price drops just beca
 
 WTF? So what is the current average size for a Dark Pool block order?
 
-According to smartasset : ![**L**](https://smartasset.com/investing/dark-pool#:~:text=The%20average%20size%20of%20a,in%20advance%20of%20market%20knowledge)**INK REMOVED**
+According to smartasset : [**L**](https://smartasset.com/investing/dark-pool#:~:text=The%20average%20size%20of%20a,in%20advance%20of%20market%20knowledge)**INK REMOVED**
 
 *"The average size of a dark pool transaction has dropped to little more than 180 to 200 shares per transaction. This is a far cry from the original intent of ATS. Nevertheless, dark pool exchanges are built for institutional investors looking to act in advance of market knowledge."*
 

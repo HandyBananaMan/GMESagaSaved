@@ -1,12 +1,13 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/](https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/)
+#Title: Hedge funds rethink tactics after $12bn hit from meme stock army
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/](https://www.reddit.com/r/Superstonk/comments/o7ogcb/hedge_funds_rethink_tactics_after_12bn_hit_from/)
 
 
 &#x200B;
 
 https://preview.redd.it/thvoalfm4f771.png?width=2075&format=png&auto=webp&s=2c8e9ae355e8e050a2ff2977b4bfcd9d1bec6500
 
-Link to the original article[:](https://preview.redd.it/thvoalfm4f771.png?width=2075&format=png&auto=webp&s=2c8e9ae355e8e050a2ff2977b4bfcd9d1bec6500) [https://www.ft.com/content/dcd86860-09ed-420e-a5cc-d6d281863c03](https://www.ft.com/content/dcd86860-09ed-420e-a5cc-d6d281863c03)
+Link to the original article![:](https://preview.redd.it/thvoalfm4f771.png?width=2075&format=png&auto=webp&s=2c8e9ae355e8e050a2ff2977b4bfcd9d1bec6500) [https://www.ft.com/content/dcd86860-09ed-420e-a5cc-d6d281863c03](https://www.ft.com/content/dcd86860-09ed-420e-a5cc-d6d281863c03)
 
 Text from the article without paywall:
 
@@ -94,6 +95,6 @@ https://preview.redd.it/wzozk2aw5f771.png?width=1400&format=png&auto=webp&s=c73b
 
 >Additional reporting by Miles Kruppa  
 >  
->[laurence.fletcher@ft.com](mailto:laurence.fletcher@ft.com), ![madison.darbyshire@ft.com](mailto:madison.darbyshire@ft.com)
+>[laurence.fletcher@ft.com](mailto:laurence.fletcher@ft.com), [madison.darbyshire@ft.com](mailto:madison.darbyshire@ft.com)
 
 Edit: changed paragraph spacing to make it more mobile friendly

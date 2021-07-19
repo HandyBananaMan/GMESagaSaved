@@ -1,10 +1,11 @@
-# Author: StrifeLover
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/](https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/)
+#Title: The European Bank Issues Financial Stability Warning
+#Author: StrifeLover
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/](https://www.reddit.com/r/Superstonk/comments/nh913m/the_european_bank_issues_financial_stability/)
 
 
 Hello everyone. It’s me again. This time I’m not telling you about Sluggs or Snakes. I want to talk about something that was just released by The European Bank yesterday, May 19th and is flying under the radar EVERYWHERE for some reason. I’m not a financial advisor. I manage a warehouse for a construction company and I’m really stupid but the following information, I feel, is very important to review. If I’m wrong or stupid ANYWHERE. Let’s discuss! Let’s get brain juices flowing!
 
-The European Bank, of which 19 countries are members, just issued a Financial Stability Review - [Financial Stability Review, May 2021 (europa.eu)](https://www.ecb.europa.eu/pub/financial-stability/fsr/html/ecb.fsr202105~757f727fe4.en.html) \- which I only caught because of this very minor article on Barrons - ![European Central Bank Warns on Heightened Risks to Financial Stability | Barron's (barrons.com)](https://www.barrons.com/articles/european-central-bank-warns-on-heightened-risks-to-financial-stability-51621439308) The Barrons Article is a great TLDR – Basically everything fucked. HODL. (Edit: This article has now been paywalled)
+The European Bank, of which 19 countries are members, just issued a Financial Stability Review - [Financial Stability Review, May 2021 (europa.eu)](https://www.ecb.europa.eu/pub/financial-stability/fsr/html/ecb.fsr202105~757f727fe4.en.html) \- which I only caught because of this very minor article on Barrons - [European Central Bank Warns on Heightened Risks to Financial Stability | Barron's (barrons.com)](https://www.barrons.com/articles/european-central-bank-warns-on-heightened-risks-to-financial-stability-51621439308) The Barrons Article is a great TLDR – Basically everything fucked. HODL. (Edit: This article has now been paywalled)
 
 But let us dive a tad further PAST that into the actual report released by The EB. I’m just going to write my general thoughts, I’m not smart enough to do an extreme breakdown but I encourage EVERYONE to read the article and grow a few wrinkles. 
 

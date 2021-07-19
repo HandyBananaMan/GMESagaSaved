@@ -1,5 +1,6 @@
-# Author: wowsuchcookie
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/](https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/)
+#Title: "less than 300 share volume in Germany" is misleading and wrong
+#Author: wowsuchcookie
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/](https://www.reddit.com/r/Superstonk/comments/oefq1r/less_than_300_share_volume_in_germany_is/)
 
 
 u/CallMeMo2 posted [this image](https://www.reddit.com/r/Superstonk/comments/oe8dyz/when_shitadel_is_closed_with_less_than_300_share/?utm_source=share&utm_medium=web2x&context=3) some 5 hours ago and a lot of people upvoted and it even got an award because the message is what people look for in their confirmation bias and an overall silent day with no trading.
@@ -23,7 +24,7 @@ What you are looking at is GS2C.F (GS2C:FF or GS2C:FRA) which has a volume of 31
 
 Here is a breakdown:
 
-[Gettex works under Munich SE, Tradegate in Berlin and Quotrix is ​​a system of the Düsseldorf Stock Exchange. ](https://preview.redd.it/s5q4wzx2eg971.jpg?width=999&format=pjpg&auto=webp&s=5b34f11d01fc915312e8fd6bbf7f49d218d86f45)
+![Gettex works under Munich SE, Tradegate in Berlin and Quotrix is ​​a system of the Düsseldorf Stock Exchange. ](https://preview.redd.it/s5q4wzx2eg971.jpg?width=999&format=pjpg&auto=webp&s=5b34f11d01fc915312e8fd6bbf7f49d218d86f45)
 
 Today GME also traded on the following markets:
 
@@ -32,11 +33,11 @@ Today GME also traded on the following markets:
 
 There are also some stocks traded OTC today:
 
-[ Baader Bank AG is an investment bank located in Unterschleißheim, Germany. Lang & Schwarz \(Long & Black\) is an OTC board under the Frankfurt Stock Exchange.](https://preview.redd.it/0bgoen71eg971.jpg?width=1009&format=pjpg&auto=webp&s=b18226f9d1cf8740cb8ba978cd24d5fdc1de4c7b)
+![ Baader Bank AG is an investment bank located in Unterschleißheim, Germany. Lang & Schwarz \(Long & Black\) is an OTC board under the Frankfurt Stock Exchange.](https://preview.redd.it/0bgoen71eg971.jpg?width=1009&format=pjpg&auto=webp&s=b18226f9d1cf8740cb8ba978cd24d5fdc1de4c7b)
 
 Apparently even in London 75 stocks exchanged hands probably OTC:
 
-[Someone familiar to London markets probably could tell us what usually trades on SETSqx.](https://preview.redd.it/mcyh6d6weg971.jpg?width=1011&format=pjpg&auto=webp&s=c5ceb2e86da7e75662e66695d2165278e5b06f1e)
+![Someone familiar to London markets probably could tell us what usually trades on SETSqx.](https://preview.redd.it/mcyh6d6weg971.jpg?width=1011&format=pjpg&auto=webp&s=c5ceb2e86da7e75662e66695d2165278e5b06f1e)
 
 To have a look at what this means here are a few conclusions:
 
@@ -67,6 +68,6 @@ Sources:
 
 Edit 1: There is an inconsistency reported by FT for Stuttgart (988) and [Finanzen.net](https://Finanzen.net) (313). I cannot explain the difference.
 
-Edit 2: u/MaterialLake1138 suggested this for German markets ![https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099](https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099) and I think it covers all the exchanges in Germany in one place including OTC.
+Edit 2: u/MaterialLake1138 suggested this for German markets [https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099](https://www.onvista.de/aktien/handelsplaetze/GAMESTOP-CORP-Aktie-US36467W1099) and I think it covers all the exchanges in Germany in one place including OTC.
 
 Edit 3: Some of you mentioned the overall volume on Monday is not relevant given the insignificant amount of shares traded. It is true and it is not the purpose of this post. 

@@ -1,5 +1,6 @@
-# Author: c-digs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/](https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/)
+#Title: This week might be it; the brakes are possibly ready to come off (SR-OCC-2021-004 and MORE)
+#Author: c-digs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/](https://www.reddit.com/r/Superstonk/comments/nfagu1/this_week_might_be_it_the_brakes_are_possibly/)
 
 
 **EDIT: May 20** \- [So good, Tim Fries at the Tokenist shamelessly lifted this DD](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/) 🤣
@@ -26,7 +27,7 @@ I emphasize "***might***".  See below and judge for yourself.
 
 [SR-OCC-2021-004](https://www.sec.gov/rules/sro/occ/2021/34-91445.pdf) ("OCC-004") was filed on **March 31, 2021** and entered into the Federal Register on **April 6, 2021:**
 
-[Filing date for SR-OCC-2021-004 in the Federal Register](https://preview.redd.it/msfmn9jcmvz61.png?width=982&format=png&auto=webp&s=bf334ee67fd8f4501ad2085a072bfbbd1b667147)
+![Filing date for SR-OCC-2021-004 in the Federal Register](https://preview.redd.it/msfmn9jcmvz61.png?width=982&format=png&auto=webp&s=bf334ee67fd8f4501ad2085a072bfbbd1b667147)
 
 With a date of effectiveness **45 calendar days** after the entry into the Federal Register.
 
@@ -48,7 +49,7 @@ I don't want to plaster dates, but this week seems to be a convergence of many i
 
 [On April 5, 2021, I wrote the following](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/):
 
-[My conclusion on April 5 after pondering why we had been in a \\"sideways\\" trading pattern for two weeks at that time.](https://preview.redd.it/6q6dc6wgmvz61.png?width=696&format=png&auto=webp&s=2b650e8e98e5b6f276e786c8eb09be73f329fd34)
+![My conclusion on April 5 after pondering why we had been in a \\"sideways\\" trading pattern for two weeks at that time.](https://preview.redd.it/6q6dc6wgmvz61.png?width=696&format=png&auto=webp&s=2b650e8e98e5b6f276e786c8eb09be73f329fd34)
 
 For those that have not followed my posts in the past, the OCC is the **Options Clearing Corporation** which functions similarly to the DTCC except its for options.  My thought is that **OCC-004 is a critical piece of the puzzle** to prepare for the first major margin calls that will initiate the squeeze as it opens up the asset auction qualifications and procedures once an OCC member defaults as a result.
 
@@ -86,29 +87,29 @@ In other words, what to do with customer accounts when a clearing organization -
 
 I believe that this is one of the reasons why we have been trading sideways with virtually no volume since March 16th:
 
-[The two distinct bands we've been trading in since March 16th.  The 3.5m share offering is plainly visible in hindsight.](https://preview.redd.it/sab93cu0nvz61.png?width=1634&format=png&auto=webp&s=16e2e1925cdd7785c35d4a60a5c370abfdb12988)
+![The two distinct bands we've been trading in since March 16th.  The 3.5m share offering is plainly visible in hindsight.](https://preview.redd.it/sab93cu0nvz61.png?width=1634&format=png&auto=webp&s=16e2e1925cdd7785c35d4a60a5c370abfdb12988)
 
 It is also likely one of the reasons why many big players like [Berkshire](https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-sells-stocks-reduces-buybacks-q1-earnings-2021-5-1030373389) and BlackRock are moving into cash heavy positions.
 
 When an OCC member -- ***like Citadel*** \-- fails, the member's assets are used as collateral to obtain **immediate liquidity** to keep the markets and OCC functioning.  These assets are then auctioned off to recover the funds used to inject that liquidity.  The thinking is that the more bidders at auction, the more likely it is that the assets will be sold closer to market value and prevent a market-wide collapse of asset prices (this is kind of already happening these past two weeks...).
 
-[Key lines on page 7](https://preview.redd.it/43a8pyp8nvz61.png?width=584&format=png&auto=webp&s=a44179d9026335c599e142dae37b8ac10186f038)
+![Key lines on page 7](https://preview.redd.it/43a8pyp8nvz61.png?width=584&format=png&auto=webp&s=a44179d9026335c599e142dae37b8ac10186f038)
 
 It also minimizes OCC members' exposure to that default if they can recover more cash through the auction process.  **Remember, OCC members include: Bank of America, Charles Schwab, Citadel, Credit Suisse, Deutsche Bank, Goldman Sachs, Interactive Brokers, JP Morgan, Robinhood, TD Ameritrade, UBS, Vanguard, and many others** who don't want to pay for the mistakes of a few of their members.
 
 Additionally, the changes in OCC-004 result in ***non-OCC members*** having an easier path to bidding at auction (remember: firms like Fidelity, Berkshire, and BlackRock are **NOT** OCC members) as part of this process to qualify more bidders.
 
-[Pages 4 and 5](https://preview.redd.it/yse9eoodnvz61.png?width=604&format=png&auto=webp&s=7f324f98c83d2862a0a6bc2de155b0a1fc242c35)
+![Pages 4 and 5](https://preview.redd.it/yse9eoodnvz61.png?width=604&format=png&auto=webp&s=7f324f98c83d2862a0a6bc2de155b0a1fc242c35)
 
 My conjecture is that all of DTCC, OCC, and SEC ^(those "postponed" closed-door meetings?) have been buying time to prepare for the fallout of the squeeze so what we see with the price manipulation around GME is not solely due to the action of the shorts, but all of the key market players as a whole to contain this fallout from potentially multiple members of DTCC and OCC failing.  [The next closed door meeting?  It's scheduled for this Thursday, May 20](https://www.sec.gov/news/closedmeetings/2021/ssamtg052021.htm).
 
-[The next closed door meeting at the SEC is this Thursday, May 20](https://preview.redd.it/v1crl6k4nvz61.png?width=998&format=png&auto=webp&s=c4ce557a1fd4d1262f525fea1bce626403a191d0)
+![The next closed door meeting at the SEC is this Thursday, May 20](https://preview.redd.it/v1crl6k4nvz61.png?width=998&format=png&auto=webp&s=c4ce557a1fd4d1262f525fea1bce626403a191d0)
 
 Furthermore, user u/aSphericalCow sent me [something really interesting this morning](https://infomemo.theocc.com/infomemos?number=48718):
 
-[\\"The temporary increase would result in an increase OF $588,378,155 TO the Clearing Fund\\"](https://preview.redd.it/08ghduu0ovz61.png?width=643&format=png&auto=webp&s=8211ee85254d22fde62d9bdc27be32e0d6dbdf84)
+![\\"The temporary increase would result in an increase OF $588,378,155 TO the Clearing Fund\\"](https://preview.redd.it/08ghduu0ovz61.png?width=643&format=png&auto=webp&s=8211ee85254d22fde62d9bdc27be32e0d6dbdf84)
 
-[An ominous note at the end of that document that the Clearing Fund will increase nearly $600m by tomorrow, 9 AM US Central Time.](https://preview.redd.it/cw9isiijrvz61.png?width=876&format=png&auto=webp&s=415caf9fc54e2ce010d00b5898f037541e46556a)
+![An ominous note at the end of that document that the Clearing Fund will increase nearly $600m by tomorrow, 9 AM US Central Time.](https://preview.redd.it/cw9isiijrvz61.png?width=876&format=png&auto=webp&s=415caf9fc54e2ce010d00b5898f037541e46556a)
 
 u/aSphericalCow's finding is a big piece of this puzzle that I was missing last week because I think this shows a sense of urgency on behalf of OCC to get this additional $588m into their Clearing Fund.  *If members do not post their share, OCC will take it by force*.  The memo also gives us a hint at the outcome of the stress test and I think we can conclude that it wasn't pretty if they are seeking over half a billion dollars.
 
@@ -135,7 +136,7 @@ This is also likely one of the reasons why the margin requirements for AMC and G
 
 The whole point of preparing that liquidity is in anticipation of having to continue to fulfill buy/sell transactions.  Without that liquidity, the market seizes up.  You will get paid; DTCC and OCC will use those loans to pay obligations and then dip into their own funds.
 
-I also submit the following quote from SEC chairman Gary Gensler ![from one of his lectures at MIT](https://youtu.be/l0vD_FBWk0g?t=4580) (timestamped YouTube link):
+I also submit the following quote from SEC chairman Gary Gensler [from one of his lectures at MIT](https://youtu.be/l0vD_FBWk0g?t=4580) (timestamped YouTube link):
 
 >As we're not sharing the economic well-being broadly in the economy.  Middle income America, middle income Europe in particular is not sharing as much.  I think that hurts us in two ways.  One is that is if we have the downturn, there's not as much uh…all economies these days are led by consumption.  There's not as much ability to respond with consumption.  And two I think it also tears at our social fabric.
 

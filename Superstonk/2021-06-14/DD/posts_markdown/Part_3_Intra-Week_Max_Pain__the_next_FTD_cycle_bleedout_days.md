@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nznccu/part_3_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nznccu/part_3_intraweek_max_pain_the_next_ftd_cycle/)
+#Title: Part 3: Intra-Week Max Pain & the next FTD cycle bleedout days
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nznccu/part_3_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nznccu/part_3_intraweek_max_pain_the_next_ftd_cycle/)
 
 
 Hi ya'll,
@@ -10,7 +11,7 @@ Some nice pre-read DD's as shitposts if you'd like to read em.
 * [Part 2: Intra-Week Max Pain & the next FTD cycle bleedout days](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/)
 * [Part 3: Intra-Week Max Pain & the next FTD cycle bleedout days](https://www.reddit.com/r/Superstonk/comments/nznccu/part_3_intraweek_max_pain_the_next_ftd_cycle/)
 
-[Related, it's supposed to be me. ༼  ͡° ͜ʖ ͡° ༽](https://preview.redd.it/li7opvawd8571.jpg?width=236&format=pjpg&auto=webp&s=30e07327508d359154f7a520682267cb049b9adb)
+![Related, it's supposed to be me. ༼  ͡° ͜ʖ ͡° ༽](https://preview.redd.it/li7opvawd8571.jpg?width=236&format=pjpg&auto=webp&s=30e07327508d359154f7a520682267cb049b9adb)
 
 &#x200B;
 
@@ -20,7 +21,7 @@ This is the bullshit i have to work with to figure out which days are going to b
 
 (╯ ͠° ͟ʖ ͡°)╯┻━┻
 
-[I'm supposed to look at this and shit out dates on which some guy sitting in shitadel's offices is going to press a button and do shittery.](https://preview.redd.it/ivcxegn7e8571.png?width=2443&format=png&auto=webp&s=86b141c5f3229be8e2095938815ec591bfd47909)
+![I'm supposed to look at this and shit out dates on which some guy sitting in shitadel's offices is going to press a button and do shittery.](https://preview.redd.it/ivcxegn7e8571.png?width=2443&format=png&auto=webp&s=86b141c5f3229be8e2095938815ec591bfd47909)
 
 &#x200B;
 
@@ -55,11 +56,11 @@ This should be a juicy cycle. They have to deliver, bleed, reset or re-short a h
 
 Because of the large amount they need to decide on what to do, their strategy is likely to deviate from normal cycle reset, bleed or re-short parameters hence why it's a difficult to decipher cycle. There's a person on the other side thinking how to deal with this and i'm here trying to think like them.
 
-[The FTD Reset or Bleed cluster for the dates of June 28 - July 2](https://preview.redd.it/4kv4py5xg8571.png?width=2457&format=png&auto=webp&s=1e8da9113763a70811d877ae06396dd691fcfb78)
+![The FTD Reset or Bleed cluster for the dates of June 28 - July 2](https://preview.redd.it/4kv4py5xg8571.png?width=2457&format=png&auto=webp&s=1e8da9113763a70811d877ae06396dd691fcfb78)
 
 &#x200B;
 
-[The whole map so you can see that these FTD reset or bleed days are based on days they shorted GME big time. It means the effect of those FTD Resets or Bleeds will be decently big this time around. \(Insert can kicking gone wrong\).](https://preview.redd.it/nacre8qih8571.png?width=2445&format=png&auto=webp&s=fff6398599965d480d23c676da82b33754f9d29a)
+![The whole map so you can see that these FTD reset or bleed days are based on days they shorted GME big time. It means the effect of those FTD Resets or Bleeds will be decently big this time around. \(Insert can kicking gone wrong\).](https://preview.redd.it/nacre8qih8571.png?width=2445&format=png&auto=webp&s=fff6398599965d480d23c676da82b33754f9d29a)
 
 I'm going to wing this one and say this is going to be a heavy week of 3 whole days where they have to deal with delivering a boatload of GME shares. Due to the volume of shit they need to deal with, i think we're going to see some pre-work e.g them dropping the price before and during these reset-days.
 
@@ -112,7 +113,7 @@ EDIT: Here's my full map but more basic so people can follow it.
 
 Have you seen SR-DTC-2021-005? Please contact the FBI if you have.
 
-[WHERES MY SR-DTC-2021-005 FINRA\/SEC\/FBI\/CABAL????????????????????????????????????  \(╯ ͠° ͟ʖ ͡°\)╯┻━┻](https://preview.redd.it/teai2akyk8571.jpg?width=640&format=pjpg&auto=webp&s=7d14f7a86d2640d6dfdce92ccf978d4812e30c36)
+![WHERES MY SR-DTC-2021-005 FINRA\/SEC\/FBI\/CABAL????????????????????????????????????  \(╯ ͠° ͟ʖ ͡°\)╯┻━┻](https://preview.redd.it/teai2akyk8571.jpg?width=640&format=pjpg&auto=webp&s=7d14f7a86d2640d6dfdce92ccf978d4812e30c36)
 
 &#x200B;
 

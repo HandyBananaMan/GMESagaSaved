@@ -1,5 +1,6 @@
-# Author: positive_root
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/)
+#Title: Fourier Analysis: Power Spectral Density of GME price cycles
+#Author: positive_root
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/Superstonk/comments/njuunj/fourier_analysis_power_spectral_density_of_gme/)
 
 
 I'm trying a cross-post here, hope I'm doing this right, I made some slight improvements after some review on the DD sub.
@@ -34,7 +35,7 @@ Now, a short primer on how to interpret the types of figures I'm about to show y
 
 https://preview.redd.it/mpl2q82gp1171.jpg?width=2813&format=pjpg&auto=webp&s=36c9dcc0c48e81da13a3606f46971fbfcb024304
 
-What we see for the Before Times and the Short Period is a "spectrally flat" slope, consistent with statistical noise. There is no particular cycle with a peak that stands above the crowd, if you will. The power spectral densities (PSDs) plotted in blue and green above seem like they have a lot of noise for periods of a few days, and then become big loopy waves out at the long time scales of 100-day periods and beyond. The messiest part is over-sampled, but those long cycles are significant fractions of the total signal length, and power associated with a potential cycle at those long ranges can "alias" themselves out (under-sampled). So don't read too much into the far right side, but do consider the left side and the middle. We discussed this before when thinking about looking for a 30-day pattern with only a 60 day stretch, but here we have 400 and 800 day stretches of days. Note that 10\^0 = 1 day. I note this looks to me like ![pink noise](https://en.wikipedia.org/wiki/Pink_noise), I have no idea what to make of that but I find it very interesting.
+What we see for the Before Times and the Short Period is a "spectrally flat" slope, consistent with statistical noise. There is no particular cycle with a peak that stands above the crowd, if you will. The power spectral densities (PSDs) plotted in blue and green above seem like they have a lot of noise for periods of a few days, and then become big loopy waves out at the long time scales of 100-day periods and beyond. The messiest part is over-sampled, but those long cycles are significant fractions of the total signal length, and power associated with a potential cycle at those long ranges can "alias" themselves out (under-sampled). So don't read too much into the far right side, but do consider the left side and the middle. We discussed this before when thinking about looking for a 30-day pattern with only a 60 day stretch, but here we have 400 and 800 day stretches of days. Note that 10\^0 = 1 day. I note this looks to me like [pink noise](https://en.wikipedia.org/wiki/Pink_noise), I have no idea what to make of that but I find it very interesting.
 
 The y-axis shows the power per cycle associated with any cycle, and the x-axis shows the period of that cycle. The fact that the units on the y-axis are decibels per cycle per day is supposed to clue you in that dB is a type of log-scale. The x-axis is log scale too. What we see for both the Before Times and the Short Period is a generally constant slope of higher power at longer and longer timescales. Note that this doesn't tell us anything about the trend of price, whether generally up or down, Fourier analysis does not care about that. It only tells us the power associated with cycles of variable periods unrelated to background rising or falling trends. Before August 2020 there were no predictable cycles.
 
@@ -58,4 +59,4 @@ But the number one thing  I was surprised to see with this analysis is the wonky
 
 &#x200B;
 
-TL;DR:  I basically turned GME's price into a sound, and during the before times, it was all ![pink noise](https://en.wikipedia.org/wiki/Pink_noise)... and then sometime around the end of 2020, it starts to beat, at a rate curiously similar to the FTD cycle... power at 2.5 days, 20ish days, 30ish days, the beat is there
+TL;DR:  I basically turned GME's price into a sound, and during the before times, it was all [pink noise](https://en.wikipedia.org/wiki/Pink_noise)... and then sometime around the end of 2020, it starts to beat, at a rate curiously similar to the FTD cycle... power at 2.5 days, 20ish days, 30ish days, the beat is there

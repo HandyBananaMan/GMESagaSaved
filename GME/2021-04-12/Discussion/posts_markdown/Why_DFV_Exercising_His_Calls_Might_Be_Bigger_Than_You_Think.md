@@ -1,5 +1,6 @@
-# Author: chiefoogabooga
-# Post URL: [https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/](https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/)
+#Title: Why DFV Exercising His Calls Might Be Bigger Than You Think
+#Author: chiefoogabooga
+#Post URL: [https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/](https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/)
 
 
 Disclaimer: I am very smooth brained ape, but I do like looking under rocks to find snakes. This is all speculation on my part.

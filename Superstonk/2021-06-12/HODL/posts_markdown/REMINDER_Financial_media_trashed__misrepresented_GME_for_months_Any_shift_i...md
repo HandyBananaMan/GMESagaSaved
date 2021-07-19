@@ -1,5 +1,6 @@
-# Author: Doggoonewild
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny81s0/reminder_financial_media_trashed_misrepresented/](https://www.reddit.com/r/Superstonk/comments/ny81s0/reminder_financial_media_trashed_misrepresented/)
+#Title: REMINDER: Financial media trashed & misrepresented GME for months. Any shift in tone is for clicks/views/etc. YOU DON’T NEED THEIR APPROVAL 💎🙌🚀
+#Author: Doggoonewild
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny81s0/reminder_financial_media_trashed_misrepresented/](https://www.reddit.com/r/Superstonk/comments/ny81s0/reminder_financial_media_trashed_misrepresented/)
 
 
 Seeing several posts about various outlets who have time and time again shown their hand in what they represent (or don’t represent) in financial media coverage, specifically with GME. While one could argue the attention is good, remember how they have been self serving first and foremost. It is not a sudden shift in sentiment towards GME that comes without reason. Expect sentiment rug pulling, price anchoring, anything… in other words expect fuckery (same as it ever was). 

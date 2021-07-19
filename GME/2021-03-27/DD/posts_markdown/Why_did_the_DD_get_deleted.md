@@ -1,5 +1,6 @@
-# Author: idontdislikeoranges
-# Post URL: [https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/](https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/)
+#Title: Why did the DD get deleted?
+#Author: idontdislikeoranges
+#Post URL: [https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/](https://www.reddit.com/r/GME/comments/mebjlr/why_did_the_dd_get_deleted/)
 
 
 Thought this was solid, why did it get deleted?
@@ -106,7 +107,7 @@ Thought this was solid, why did it get deleted?
 ># SIG Has just entered the chat
 >
 >Here's a screengrab of some of the current institutional investors in GME;
->[GME Investors](https://i.imgur.com/nh8yW8A.png)
+>![GME Investors](https://i.imgur.com/nh8yW8A.png)
 >
 >So, SIG is Susquehanna International Group. 
 >
@@ -225,4 +226,4 @@ And apparently I missed a part
 >
 >\-------------
 >
->Edit: I think this DD is good to be read with another one: ![https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
+>Edit: I think this DD is good to be read with another one: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)

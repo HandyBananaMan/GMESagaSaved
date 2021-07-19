@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/](https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/)
+#Title: Danger Zone Part 2 - Shorts are terrified of a $310+ close. Projected price movement for the next few months based on T+21, ever-increasing, and poking harder at the first domino just waiting for it to fall.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/](https://www.reddit.com/r/Superstonk/comments/nwgzw7/danger_zone_part_2_shorts_are_terrified_of_a_310/)
 
 
 # 0. Preface
@@ -10,7 +11,7 @@ I'm not a financial advisor - I don't provide financial advice. Also, you must b
 
 I made a post before about the price entering the DANGER ZONE and thought it was above $160. Well, let's revisit that topic because of the interesting price movement we have been getting.
 
-[Somebody. PLEASE call Kenny. Marge? You there?](https://preview.redd.it/9qtq30dyyc471.png?width=1556&format=png&auto=webp&s=0b90f2fc1155023373ec3c79ab08a03cba9d1c01)
+![Somebody. PLEASE call Kenny. Marge? You there?](https://preview.redd.it/9qtq30dyyc471.png?width=1556&format=png&auto=webp&s=0b90f2fc1155023373ec3c79ab08a03cba9d1c01)
 
 **TLDR: Danger Zone part 2**
 
@@ -42,7 +43,7 @@ On another note, [there is speculation that T+21 is not actually a thing](https:
 
 Without further ado, here you go! Projection of price movements with T+21 dates labeled for the next few months.
 
-[Price Projection Based On Rising Floor Every T+21 Days And Major Option Expirations](https://preview.redd.it/qjk1wao6tc471.png?width=1435&format=png&auto=webp&s=e0b15daee115b3bfa3bacce059dd64612aac6dc8)
+![Price Projection Based On Rising Floor Every T+21 Days And Major Option Expirations](https://preview.redd.it/qjk1wao6tc471.png?width=1435&format=png&auto=webp&s=e0b15daee115b3bfa3bacce059dd64612aac6dc8)
 
 It's a bit of a wild chart, so I'm sorry if it's cluttered. I've plotted with curvy lines the parabolic momentum that we see, and the crabby moves we get dependent on the different factors at play that cycle:
 
@@ -80,31 +81,31 @@ After September 8 I don't think we'll see another parabolic move for a while, si
 
 I want to bring your attention to another matter that has popped up a lot, and there's a lot of celebration around it. The articles about short sellers "losing" billions of dollars in short positions on meme stocks. Horray!!! Shorts are bleeding money! Right? I don't think so. They're bleeding, but not for this reason.
 
-[https:\/\/www.cnbc.com\/video\/2021\/06\/03\/short-sellers-lose-almost-5-billion-in-one-day-on-meme-stocks.html#:\~:text=CNBC's&#37;20Kristina&#37;20Partsinevelos&#37;20reports&#37;20on,investors&#37;20push&#37;20the&#37;20names&#37;20higher.](https://preview.redd.it/kofqhc17vc471.png?width=1214&format=png&auto=webp&s=f33807074f7ea49bb10549e9cc4172ea0c12a02e)
+![https:\/\/www.cnbc.com\/video\/2021\/06\/03\/short-sellers-lose-almost-5-billion-in-one-day-on-meme-stocks.html#:\~:text=CNBC's&#37;20Kristina&#37;20Partsinevelos&#37;20reports&#37;20on,investors&#37;20push&#37;20the&#37;20names&#37;20higher.](https://preview.redd.it/kofqhc17vc471.png?width=1214&format=png&auto=webp&s=f33807074f7ea49bb10549e9cc4172ea0c12a02e)
 
 I've always thought these articles being posted were interesting.... almost as if they wanted to convey that the shorters "covered". (A few small shorters, like new retail shorters, might have covered. But not the big ones).
 
 Hint hint. They haven't covered. They do not plan to cover. The margin call Thanos snap when they get liquidated will finally make them cover.
 
-[https:\/\/www.reddit.com\/r\/wallstreetbets\/comments\/lawubt\/hey\_everyone\_its\_mark\_cuban\_jumping\_on\_to\_do\_an\/](https://preview.redd.it/zykwvr337d471.png?width=866&format=png&auto=webp&s=6dbc94d107f4d096bface007717ca9fbb9fd4860)
+![https:\/\/www.reddit.com\/r\/wallstreetbets\/comments\/lawubt\/hey\_everyone\_its\_mark\_cuban\_jumping\_on\_to\_do\_an\/](https://preview.redd.it/zykwvr337d471.png?width=866&format=png&auto=webp&s=6dbc94d107f4d096bface007717ca9fbb9fd4860)
 
 I always look back at the total PUT OI going on an absolute tear in January when they hid SI% and think to myself, "Damn. That's totally ~~not~~ normal."
 
 Take a look at this. PUT OI spikes to 2e6 OI = **200m shares worth in PUTs.** These PUTs were spread far and wide to many options expiring from February 5 all the way to January 2023. What in the hell? Totally normal hedge move, yup. Totally normal.
 
-[CALL and PUT OI Comparison; Data from \/u\/yelyah2 ](https://preview.redd.it/zc7xcrch7d471.png?width=399&format=png&auto=webp&s=6c28ec2b8a9f72f0b987c917a05784f1e68b9e5c)
+![CALL and PUT OI Comparison; Data from \/u\/yelyah2 ](https://preview.redd.it/zc7xcrch7d471.png?width=399&format=png&auto=webp&s=6c28ec2b8a9f72f0b987c917a05784f1e68b9e5c)
 
 They're not covering. They're hiding their shorts and trying everything they can to scare you off.
 
 So in my eyes these articles are all bull. Especially this one from the start of March:
 
-[https:\/\/www.cnbc.com\/2021\/03\/03\/melvin-capital-posts-return-of-more-than-20percent-in-february-sources-say.html](https://preview.redd.it/cpp93z94vc471.png?width=1124&format=png&auto=webp&s=369820614b757f66a48575a2b8cabdb233d9b410)
+![https:\/\/www.cnbc.com\/2021\/03\/03\/melvin-capital-posts-return-of-more-than-20percent-in-february-sources-say.html](https://preview.redd.it/cpp93z94vc471.png?width=1124&format=png&auto=webp&s=369820614b757f66a48575a2b8cabdb233d9b410)
 
 I remember getting pinged about this article and being told that Melvin won, shorters exited, blah blah blah, that was the FUD back then.
 
 How could they possibly gain 20% in February after getting obliterated in January? Well... they, and other shorters, must have averaged up their short position price. Anyone who took advantage of the GME peak price in January was able to have a fun time with gains.
 
-[Short Position Unrealized Gains \/ Losses Based On Opening New Shorts](https://preview.redd.it/jg8yflcpwc471.png?width=1435&format=png&auto=webp&s=ab99e5fe95799b7f65f76293d72366fee57e4591)
+![Short Position Unrealized Gains \/ Losses Based On Opening New Shorts](https://preview.redd.it/jg8yflcpwc471.png?width=1435&format=png&auto=webp&s=ab99e5fe95799b7f65f76293d72366fee57e4591)
 
 Their overall short position price went up, so they could post that they had returns/gains on that massive downward momentum in February. But these gains are all unrealized. They aren't covering, they're just digging a deeper hole because that's all they can do.
 
@@ -116,7 +117,7 @@ Last week I was noticing [how similar this run was to February](https://www.redd
 
 That was a big, "Wait. What?" moment for me because it implied this gamma was ready to take off much sooner than the previous gamma run of February 24 - March 10. I should have noticed earlier at how much stronger this run was compared to the previous two gammas. Check out this comparison of the price hammers for January, March, and June gamma runs. Big shout out to /u/sharp717 for identifying [the similarities to the January run as well](https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/).
 
-[Price Momentum Being Contained. January, March, and June Gamma Squeezes](https://preview.redd.it/eyb1v0rldd471.png?width=1434&format=png&auto=webp&s=6a3342786074385bc694fcae316d116af4160946)
+![Price Momentum Being Contained. January, March, and June Gamma Squeezes](https://preview.redd.it/eyb1v0rldd471.png?width=1434&format=png&auto=webp&s=6a3342786074385bc694fcae316d116af4160946)
 
 There's huuuuge momentum that they have been trying to contain ever since May 25th. The price has been swinging up and down massively each day in this parabolic cycle🚀.
 
@@ -128,7 +129,7 @@ Did I say margin call territory? I mean - the DANGER ZONE. Marge, call Kenny. Pl
 
 Some big brain apes discussed this Webull chart and the implications of it relating to their "Danger Zone price". It truly is a goldmine. With how popular Webull is it's probably safe to use this as a baseline for retail (and indirectly a baseline for shorters).
 
-[Webull GME Statistics. Average share cost of $156.57](https://preview.redd.it/tyfsbj2cuc471.png?width=947&format=png&auto=webp&s=a8414ca7d6e6866e8d5ba420f79114065e6cc1e3)
+![Webull GME Statistics. Average share cost of $156.57](https://preview.redd.it/tyfsbj2cuc471.png?width=947&format=png&auto=webp&s=a8414ca7d6e6866e8d5ba420f79114065e6cc1e3)
 
 What is this telling us?
 
@@ -170,7 +171,7 @@ The new and improved danger zone is based on the average short price of $156.57 
 
 **\[Note: Speculative based on Webull data. This could very well be $350 or higher, but the battle at $300 signals that this is a very rough place for the shorters to be\].**
 
-[Danger Zone Visualization](https://preview.redd.it/cquh2loutc471.png?width=1437&format=png&auto=webp&s=cefd9b0a8fd5e4287498468ad3388c1a845bcd4d)
+![Danger Zone Visualization](https://preview.redd.it/cquh2loutc471.png?width=1437&format=png&auto=webp&s=cefd9b0a8fd5e4287498468ad3388c1a845bcd4d)
 
 Is this why there's such a huge battle around $300 right now? And why the price is SEVERELY smacked down when it tries to reach above $350? It's probably because this danger zone is when small HedgeFunds / shorters begin to fall, and it's getting so close to closing in the zone.
 

@@ -1,8 +1,9 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/](https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/)
+#Title: A crypto dive with the Jellyfish - 10 things about crypto that could be useful to know going into the 7/14 reveal.
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/](https://www.reddit.com/r/Superstonk/comments/ofndb0/a_crypto_dive_with_the_jellyfish_10_things_about/)
 
 
-[Good afternoon r\/Superstonk, Jellyfish here to try and discuss crypto \(ducks!\)  ](https://preview.redd.it/7du1kjnfot971.jpg?width=320&format=pjpg&auto=webp&s=59591863e05125f8bd644d116f2b5d85aabac612)
+![Good afternoon r\/Superstonk, Jellyfish here to try and discuss crypto \(ducks!\)  ](https://preview.redd.it/7du1kjnfot971.jpg?width=320&format=pjpg&auto=webp&s=59591863e05125f8bd644d116f2b5d85aabac612)
 
 **1. NFTs**
 
@@ -26,9 +27,9 @@ https://preview.redd.it/8cdhs7zqot971.jpg?width=1600&format=pjpg&auto=webp&s=e66
 
 DeFi: has exploded but in GameStop’s case, I think it might be leveraged for flexibility and its non-custodial nature. With DeFi, GameStop can become its own bank and cut out costly middlemen. This is also why [I think GameStop should participate in this FDIC sprint](https://www.reddit.com/r/Superstonk/comments/oevr9p/guys_the_fdic_might_not_realize_it_yet_but_they/)
 
-[How it is today](https://i.redd.it/t9wyuo4sot971.gif)
+![How it is today](https://i.redd.it/t9wyuo4sot971.gif)
 
-[How it could be](https://preview.redd.it/dcbrp34uot971.png?width=729&format=png&auto=webp&s=5917e265b8dabec0ddd9e2f18eadf40f79015303)
+![How it could be](https://preview.redd.it/dcbrp34uot971.png?width=729&format=png&auto=webp&s=5917e265b8dabec0ddd9e2f18eadf40f79015303)
 
 &#x200B;
 
@@ -72,7 +73,7 @@ There are a lot of projects working on layer two scaling solutions in an effort 
 
 L2 solutions (where GameStop will live) focus on highly complex topics ZK-rollups for example (great to have Matthew Finestone!) as they have the ability to bring E t h e r e u m to 2,000 TPS
 
-[GameStop's head of blockchain comes by way of Loopring](https://preview.redd.it/fzc9kfvapt971.png?width=744&format=png&auto=webp&s=2ddf370809298a5b6d8e468d0cab18aea924e470)
+![GameStop's head of blockchain comes by way of Loopring](https://preview.redd.it/fzc9kfvapt971.png?width=744&format=png&auto=webp&s=2ddf370809298a5b6d8e468d0cab18aea924e470)
 
 **9. EIP-1559**
 
@@ -112,7 +113,7 @@ $D A I: $5B
 
 They are very popular for use in DeFi, but I think will be relevant to GameStop as VISA will soon accept transaction settlement in U S D C.
 
-[I hope this one makes it through Automod! ](https://i.redd.it/3v18fr8ppt971.gif)
+![I hope this one makes it through Automod! ](https://i.redd.it/3v18fr8ppt971.gif)
 
 Additional posts you may enjoy:
 
@@ -122,4 +123,4 @@ Additional posts you may enjoy:
 
 [https://www.reddit.com/r/Superstonk/comments/o9mk4q/does\_anyone\_else\_think\_comic\_books\_would\_make\_a/](https://www.reddit.com/r/Superstonk/comments/o9mk4q/does_anyone_else_think_comic_books_would_make_a/)
 
-![https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish\_putting\_on\_his\_tinfoil\_hat\_for\_a/](https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish_putting_on_his_tinfoil_hat_for_a/)
+[https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish\_putting\_on\_his\_tinfoil\_hat\_for\_a/](https://www.reddit.com/r/Superstonk/comments/ob8mzm/jellyfish_putting_on_his_tinfoil_hat_for_a/)

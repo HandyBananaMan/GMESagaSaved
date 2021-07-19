@@ -1,5 +1,6 @@
-# Author: thabat
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/](https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/)
+#Title: DTCC and Citadel intimately connected to a firm called Price Waterhouse Coopers which profited 322M from Lehman's collapse.
+#Author: thabat
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/](https://www.reddit.com/r/Superstonk/comments/n5yxpd/dtcc_and_citadel_intimately_connected_to_a_firm/)
 
 
 I had this idea.. What if Citadel has dirt on the DTCC and that's why they're letting this shit go on?
@@ -64,7 +65,7 @@ Prior to joining DTCC in 1999, she served as a Senior Vice President at Lehman B
 
 Side note: This popped up in the middle of my researching... lmao
 
-[Coincidence? Maybe lmao](https://preview.redd.it/hby96j5jzex61.jpg?width=625&format=pjpg&auto=webp&s=18fedac97d4dc4e7d8a0a972e74a702b7cec9278)
+![Coincidence? Maybe lmao](https://preview.redd.it/hby96j5jzex61.jpg?width=625&format=pjpg&auto=webp&s=18fedac97d4dc4e7d8a0a972e74a702b7cec9278)
 
 &#x200B;
 
@@ -82,7 +83,7 @@ Found this:
 
 &#x200B;
 
-[Price Waterhouse Coopers profited 322 million Euros off the collapse of Lehman Brother's. INTERESTING!](https://preview.redd.it/f642crekwex61.jpg?width=1261&format=pjpg&auto=webp&s=7037bf86950a947d207d8fe97e183d3b33a2b673)
+![Price Waterhouse Coopers profited 322 million Euros off the collapse of Lehman Brother's. INTERESTING!](https://preview.redd.it/f642crekwex61.jpg?width=1261&format=pjpg&auto=webp&s=7037bf86950a947d207d8fe97e183d3b33a2b673)
 
 So wait wait wait WAIIIT.
 
@@ -394,7 +395,7 @@ Like for example..
 
 &#x200B;
 
-[Did ya'll even read anything? I bet you didn't. I bet you just approved their financials and ignored all their naked shorting over the years because Cindy gave you a BJ at a frat party in 89'.](https://preview.redd.it/xnicek7l6fx61.jpg?width=1398&format=pjpg&auto=webp&s=fafdb5516b9e0beec00a8b789311157b2ab245f0)
+![Did ya'll even read anything? I bet you didn't. I bet you just approved their financials and ignored all their naked shorting over the years because Cindy gave you a BJ at a frat party in 89'.](https://preview.redd.it/xnicek7l6fx61.jpg?width=1398&format=pjpg&auto=webp&s=fafdb5516b9e0beec00a8b789311157b2ab245f0)
 
 &#x200B;
 
@@ -402,7 +403,7 @@ I started this trying to find a connection between Kenny and Michael but found m
 
 &#x200B;
 
-[lmao last time I posted something like this, I got death threats. This one might be legit.. Pray for me guyz.](https://preview.redd.it/0t8g7tswcfx61.jpg?width=1223&format=pjpg&auto=webp&s=d46227fa9df5dd28a41b4e02f8e8e875b0fe879d)
+![lmao last time I posted something like this, I got death threats. This one might be legit.. Pray for me guyz.](https://preview.redd.it/0t8g7tswcfx61.jpg?width=1223&format=pjpg&auto=webp&s=d46227fa9df5dd28a41b4e02f8e8e875b0fe879d)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: w1ndylion
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/](https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/)
+#Title: How the SEC neutered Overstock's 2019 Crypto Dividend (and why Gamestop is different)
+#Author: w1ndylion
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/](https://www.reddit.com/r/Superstonk/comments/od2liw/how_the_sec_neutered_overstocks_2019_crypto/)
 
 
 **Edit:** So it would appear there's more to the story! Hooo baby. I'll leave it to u/Minuteman_Capital to explain fully [in their recent post,](https://www.reddit.com/r/Superstonk/comments/o6si8c/how_overstocks_squeeze_was_a_twopart_squiz_court/) but to summarize:
@@ -20,9 +21,9 @@ On September 13, 2019, two days prior to the September 15th Overstock crypto div
 
 &#x200B;
 
-[SEC Cock Block](https://preview.redd.it/l8rxew10i0971.png?width=1965&format=png&auto=webp&s=c5abf943c6dc1d6879e1e0da6a845faa4529c183)
+![SEC Cock Block](https://preview.redd.it/l8rxew10i0971.png?width=1965&format=png&auto=webp&s=c5abf943c6dc1d6879e1e0da6a845faa4529c183)
 
-Patrick Byrne, the former CEO of Overstock, elaborates on these events in his [September 18, 2019 blog post.](https://www.deepcapture.com/2019/09/the-deep-state-cries-bazoomba/) A NY Post article published on September 17, 2019 serves as the other principle source for the information in this post. Available ![here.](https://nypost.com/2019/09/17/ex-overstock-ceo-planned-crypto-dividend-to-thwart-short-sellers/)
+Patrick Byrne, the former CEO of Overstock, elaborates on these events in his [September 18, 2019 blog post.](https://www.deepcapture.com/2019/09/the-deep-state-cries-bazoomba/) A NY Post article published on September 17, 2019 serves as the other principle source for the information in this post. Available [here.](https://nypost.com/2019/09/17/ex-overstock-ceo-planned-crypto-dividend-to-thwart-short-sellers/)
 
 If I have taken away some of your hopium, here are two reasons you should have a little of it back regarding a possible crypto dividend:
 

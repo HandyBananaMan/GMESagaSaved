@@ -1,10 +1,11 @@
-# Author: ultrasharpie
-# Post URL: [https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/](https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/)
+#Title: TL;DR imho DONT BUY OPTIONS. Period. And why we will never go below $100 again.
+#Author: ultrasharpie
+#Post URL: [https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/](https://www.reddit.com/r/GME/comments/mrdq66/tldr_imho_dont_buy_options_period_and_why_we_will/)
 
 
 Edit: imho= In My Honest Opinion
 
-Edit: please see link posted below by ![u/diskodik](https://www.reddit.com/user/diskodik/)
+Edit: please see link posted below by [u/diskodik](https://www.reddit.com/user/diskodik/)
 
 Edit: This was my first Real post, and what I learned is that 1 set of people understand what im saying and have learned through their own experience and appreciate it; and the 2nd set of people told me that i dont know what im talking about while I also respectfully do Not believe they know what they are talking about.
 

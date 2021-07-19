@@ -1,5 +1,6 @@
-# Author: BuzzMonkey
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/](https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/)
+#Title: Daily trade tape analysis - showing how an increase in stock purchase price (trade A) is frequently followed by a purchase (trade B) which negates the increase, resulting in the last trade amount returning to the value just prior to trade A. Confused yet? I wouldn't blame you. Let's dive in.
+#Author: BuzzMonkey
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/](https://www.reddit.com/r/Superstonk/comments/ogirpi/daily_trade_tape_analysis_showing_how_an_increase/)
 
 
 I am not in any way an expert on anything I am about to discuss here. I enjoy looking for patterns and shifting behaviors where others may not see them. In this particular instance, I thought I would look at the daily trade tapes (order books) of six stocks.  If a wrinkly brained ape ~~can~~ has a counter opinion to what I believe is happening, I would love to hear it. That's one major point of sharing data like this. My goal is to share with and possibly educate apes but also to be educated by those that may know more or interpret the data differently.
@@ -18,11 +19,11 @@ Ok, ok. You got it.
 
 The first images will show you plots of daily trade tape data, with each point being the % increase or decrease compared to the trade **immediately preceding** it. **WAIT!** I know, I was talking in dollars earlier and now I am talking in percentages. I used percentages because it was easier for you all to see how each stock behaves while keeping them on a manageable scale. **This does not change the fact that the trades occur as I outlined above**. It just makes for a bit of a tighter view of the issue. Now to the pics...
 
-[&#37; Change from one trade to the next for July 1st, 2021](https://preview.redd.it/n9sxqjj3d2a71.jpg?width=1996&format=pjpg&auto=webp&s=73f8094558fdb71bdfe6a2af10553b54d4e17903)
+![&#37; Change from one trade to the next for July 1st, 2021](https://preview.redd.it/n9sxqjj3d2a71.jpg?width=1996&format=pjpg&auto=webp&s=73f8094558fdb71bdfe6a2af10553b54d4e17903)
 
 &#x200B;
 
-[&#37; Change from one trade to the next for July 2nd, 2021](https://preview.redd.it/cmhet2o9d2a71.jpg?width=1996&format=pjpg&auto=webp&s=8fa3ffaed4b3ceff5ca65b00bb914c8d25ef0387)
+![&#37; Change from one trade to the next for July 2nd, 2021](https://preview.redd.it/cmhet2o9d2a71.jpg?width=1996&format=pjpg&auto=webp&s=8fa3ffaed4b3ceff5ca65b00bb914c8d25ef0387)
 
 *I have 2 more days of this but I don't want to overload the main body of the post with more images of the same. I can share them in comments.*
 
@@ -34,13 +35,13 @@ How about we zoom in and **take a closer look at a subset of trades for GME** an
 
 &#x200B;
 
-[Zoomed in view of GME daily trade tape](https://preview.redd.it/79bajevte2a71.jpg?width=1484&format=pjpg&auto=webp&s=af7ea55f5ffb3d0b487afe6fb4ccfc2044351136)
+![Zoomed in view of GME daily trade tape](https://preview.redd.it/79bajevte2a71.jpg?width=1484&format=pjpg&auto=webp&s=af7ea55f5ffb3d0b487afe6fb4ccfc2044351136)
 
 Here you start to get a better look at the **mirror trades** I have been talking about. It's important to note that **not all trades** follow this mirror pattern but there are **MANY** which do. Also keep in mind that some of the negative sides of the mirror **use 2 trades** to make up for the **1 trade** on the positive side. In those cases, it won't be as obvious just by looking at the dots.
 
 Here are examples of the trade tape data which is represented in the scatter plot above.  You will notice that **not every example I provide shows an exact mirror**. I am including those because I don't claim this to be an infallible review of the data but also to show that **I think algorithms attempt to negate trades but sometimes get it a bit wrong** due to the speed at which trades are being processed.
 
-[Trade tape data](https://preview.redd.it/zqz6mjjmw3a71.jpg?width=1004&format=pjpg&auto=webp&s=7328d108db39b7efd679b5b44ad392156c328c76)
+![Trade tape data](https://preview.redd.it/zqz6mjjmw3a71.jpg?width=1004&format=pjpg&auto=webp&s=7328d108db39b7efd679b5b44ad392156c328c76)
 
 This is a tiny fraction of the daily trade volume and within this small subset, you can already see how many **mirror trades** appear to be taking place. I have looked at the trade tapes of other days and this pattern is present in every single one. Is this the natural flow of things or is this more evidence of **algorithmic manipulation** of stock prices? My hunch is the latter. You can decide for yourself. Oh, but maybe you need a bit more data to chew on.
 
@@ -48,11 +49,11 @@ Do you recall that I mentioned **price bands** earlier in this post before I sho
 
 &#x200B;
 
-[Zoomed in on fruit stock to show price change bands](https://preview.redd.it/ensdgvvrg2a71.jpg?width=2000&format=pjpg&auto=webp&s=92d8e803e7d253273a4eda5901604c2b8ca3ea0b)
+![Zoomed in on fruit stock to show price change bands](https://preview.redd.it/ensdgvvrg2a71.jpg?width=2000&format=pjpg&auto=webp&s=92d8e803e7d253273a4eda5901604c2b8ca3ea0b)
 
 &#x200B;
 
-[Zoomed in on bulldozer stock to show price change bands](https://preview.redd.it/u5r9y57vg2a71.jpg?width=2000&format=pjpg&auto=webp&s=4ff3ec0c0b71c87e0e70bbf2d52db38a0f8ba8c0)
+![Zoomed in on bulldozer stock to show price change bands](https://preview.redd.it/u5r9y57vg2a71.jpg?width=2000&format=pjpg&auto=webp&s=4ff3ec0c0b71c87e0e70bbf2d52db38a0f8ba8c0)
 
 How do you like them apples? Now, one last thing to consider before I let my ape brain rest for a bit. Both the fruit and bulldozer stocks show price change bands but I'm pretty sure you apes can see just how much **more defined the bands are for the fruit stock vs the bulldozer**. Also note that the bulldozer ones are not nearly as consistent as the fruit ones are. There is some consistency there, but nearly the same as the fruit.
 
@@ -64,17 +65,17 @@ In the end what does this tell us? Well, it doesn't help the price go up, that's
 
 \*\*Edited to add links to additional data that I didn't originally post
 
-[July 6th Scatter Plots](https://i.imgur.com/abSU44k.jpg)
+![July 6th Scatter Plots](https://i.imgur.com/abSU44k.jpg)
 
-[July 7th Scatter Plots](https://i.imgur.com/QcMmvRr.jpg)
+![July 7th Scatter Plots](https://i.imgur.com/QcMmvRr.jpg)
 
 More zoomed in scatter plots.
 
-[Movie stock price bands](https://imgur.com/M2KFinM.jpg)
+![Movie stock price bands](https://imgur.com/M2KFinM.jpg)
 
-[Hamburger stock price bands](https://imgur.com/5NhH68g.jpg)
+![Hamburger stock price bands](https://imgur.com/5NhH68g.jpg)
 
-[Adhesive stock price bands](https://imgur.com/JeYMRJP.jpg)
+![Adhesive stock price bands](https://imgur.com/JeYMRJP.jpg)
 
 In the next image, I wasn't intending to zoom in on movie stock this much but I'm glad I did it accidentally. Look how the mirror trade bands shift perfectly in sync with one another, particularly around the .020% range. At first I thought I was an idiot and just mirrored the data sets but if you look at the other scatter points, you can see that they don't all follow a mirror trade pattern. But those positive and negative bands... holy cow are they the spitting image of each other.
 

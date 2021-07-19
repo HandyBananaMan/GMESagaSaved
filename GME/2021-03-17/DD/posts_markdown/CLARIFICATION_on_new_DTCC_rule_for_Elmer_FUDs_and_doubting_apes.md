@@ -1,5 +1,6 @@
-# Author: SurpriseNinja
-# Post URL: [https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/](https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/)
+#Title: 🛑CLARIFICATION🛑 on new DTCC rule for Elmer FUDs and doubting apes.
+#Author: SurpriseNinja
+#Post URL: [https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/](https://www.reddit.com/r/GME/comments/m7bcza/clarification_on_new_dtcc_rule_for_elmer_fuds_and/)
 
 
 While browsing the comments on /u/heyitspixel's latest post regarding [the new DTCC rule being effective immediately](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/?sort=top), I saw some fear and FUD around some of the verbiage in the document. I'd like to provide some clarity on the particular issue of DTC reducing their liability.
@@ -32,7 +33,7 @@ DTCC can now essentially audit its members at anytime, and they have to respond 
 
 &nbsp;
 
-If you got any value out of this post, ![please check out this one](https://www.reddit.com/r/GME/comments/m6zzku/crucial_stimmie_info_a_critical_rundown_on_price/) that I've been trying to get eyes on. It is an important message for anyone planning to buy GME and it is great to know for trading in general.
+If you got any value out of this post, [please check out this one](https://www.reddit.com/r/GME/comments/m6zzku/crucial_stimmie_info_a_critical_rundown_on_price/) that I've been trying to get eyes on. It is an important message for anyone planning to buy GME and it is great to know for trading in general.
 
 &nbsp;
 

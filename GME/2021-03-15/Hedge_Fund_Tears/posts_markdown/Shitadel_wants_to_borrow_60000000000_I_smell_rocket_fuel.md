@@ -1,5 +1,6 @@
-# Author: W0t4N
-# Post URL: [https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/](https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/)
+#Title: Shitadel wants to borrow 600.000.000,00$ I smell rocket fuel
+#Author: W0t4N
+#Post URL: [https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/](https://www.reddit.com/r/GME/comments/m5ja3t/shitadel_wants_to_borrow_60000000000_i_smell/)
 
 
 Listen up:   
@@ -15,7 +16,7 @@ If you are a good ape and do your own research you find, but for those that need
 
 &#x200B;
 
-![https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441)
+[https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/hg-bonds-citadel-finance-places-600m-of-notes-in-bond-market-debut-terms-62989441)
 
 &#x200B;
 

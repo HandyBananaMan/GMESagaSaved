@@ -1,5 +1,6 @@
-# Author: hyperion_1923
-# Post URL: [https://www.reddit.com/r/GME/comments/mqc11x/totally_normal_price_movement_inspired_by/](https://www.reddit.com/r/GME/comments/mqc11x/totally_normal_price_movement_inspired_by/)
+#Title: Totally normal price movement, inspired by Cohen=Chairman, GME paying off debt early, etc.
+#Author: hyperion_1923
+#Post URL: [https://www.reddit.com/r/GME/comments/mqc11x/totally_normal_price_movement_inspired_by/](https://www.reddit.com/r/GME/comments/mqc11x/totally_normal_price_movement_inspired_by/)
 
 
 https://i.redd.it/tmby2zhzd0t61.jpg

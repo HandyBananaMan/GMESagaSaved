@@ -1,5 +1,6 @@
-# Author: greenrubberninja
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oetl7h/request_develop_a_bot_that_automatically_posts/](https://www.reddit.com/r/Superstonk/comments/oetl7h/request_develop_a_bot_that_automatically_posts/)
+#Title: Request | Develop a bot that automatically posts GameStop’s new press releases and pins them to the top of the sub.
+#Author: greenrubberninja
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oetl7h/request_develop_a_bot_that_automatically_posts/](https://www.reddit.com/r/Superstonk/comments/oetl7h/request_develop_a_bot_that_automatically_posts/)
 
 
 Boom. No more need for 378 smooth brains to post the same bit of information!

@@ -1,5 +1,6 @@
-# Author: 3for100Specials
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/](https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/)
+#Title: A DD drop from last weekend which predicted and described in depth BOTH the usage of ETFs and Married-Put action that occurred this week. Why is no one talking about this???
+#Author: 3for100Specials
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/](https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/)
 
 
 This DD post was dropped over the last weekend by a Reddit user who has since deleted his account, shortly after dropping this thermonuclear of analysis on HOW the shares have been suppressed and WHERE they are most likely located.
@@ -28,11 +29,11 @@ Here it is,
 
 &#x200B;
 
-[https:\/\/nft.gamestop.com\/](https://preview.redd.it/gpad0nakxq471.jpg?width=852&format=pjpg&auto=webp&s=ac84dfb9f05dea98633bea1083429c2355a503e8)
+![https:\/\/nft.gamestop.com\/](https://preview.redd.it/gpad0nakxq471.jpg?width=852&format=pjpg&auto=webp&s=ac84dfb9f05dea98633bea1083429c2355a503e8)
 
 &#x200B;
 
-[https:\/\/etherscan.io\/address\/0x13374200c29C757FDCc72F15Da98fb94f286d71e#code](https://preview.redd.it/9pk4m8nrxq471.jpg?width=912&format=pjpg&auto=webp&s=3a81154224da79fc74091644e403b5c204247982)
+![https:\/\/etherscan.io\/address\/0x13374200c29C757FDCc72F15Da98fb94f286d71e#code](https://preview.redd.it/9pk4m8nrxq471.jpg?width=912&format=pjpg&auto=webp&s=3a81154224da79fc74091644e403b5c204247982)
 
 My tits have left the building. u/m40air You are the smoothest damn wrinkle I've had the pleasure of speaking to in a LONG time. Well fkn done lad!
 
@@ -44,7 +45,7 @@ https://preview.redd.it/vvluk4mx5r471.jpg?width=832&format=pjpg&auto=webp&s=19ac
 
 &#x200B;
 
-[https:\/\/nft.gamestop.com\/](https://preview.redd.it/846wo2na6r471.jpg?width=786&format=pjpg&auto=webp&s=7201e3c0dd352949ed4c920c9c81d9d1938c810c)
+![https:\/\/nft.gamestop.com\/](https://preview.redd.it/846wo2na6r471.jpg?width=786&format=pjpg&auto=webp&s=7201e3c0dd352949ed4c920c9c81d9d1938c810c)
 
 I'm just going to leave these here..I do not believe in coincidences, BUT I will also not make immediate assumptions as to the connection these pics hold. Nonethefknless.....this is certainly hard to ignore. Come to your own conclusions, comment your insight onto the matter, and decide for yourself, what the above could possibly mean.  u/sanchonumerouno thank you for your insight fellow ape.
 
@@ -58,21 +59,21 @@ https://preview.redd.it/bi74z93ear471.jpg?width=838&format=pjpg&auto=webp&s=868c
 
 u/Relatable_Yak Well done lad, well done indeed.
 
-[https:\/\/twitter.com\/accel\_capital\/status\/1379930517613682690](https://preview.redd.it/c7a843qjlr471.png?width=752&format=png&auto=webp&s=f0702cd2e8f08e3ab21873f559e15825d5825930)
+![https:\/\/twitter.com\/accel\_capital\/status\/1379930517613682690](https://preview.redd.it/c7a843qjlr471.png?width=752&format=png&auto=webp&s=f0702cd2e8f08e3ab21873f559e15825d5825930)
 
 The second link provided by the ape above directs you to this page.....
 
-[https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/gnn5puuamr471.png?width=672&format=png&auto=webp&s=641829639c4c17ab9b8c5935d31ba2e488f5d0d5)
+![https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/gnn5puuamr471.png?width=672&format=png&auto=webp&s=641829639c4c17ab9b8c5935d31ba2e488f5d0d5)
 
 Here's a further breakdown of **what you're looking at....**
 
-[https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/0danmh5fmr471.png?width=1500&format=png&auto=webp&s=e23c25841b5422fa6032715edd24a72324772e83)
+![https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/0danmh5fmr471.png?width=1500&format=png&auto=webp&s=e23c25841b5422fa6032715edd24a72324772e83)
 
 and now, the last part which seriously caught my attention\*\*, understands that you are entering the\*\* \*\*\*smooth-brain speculation zone. I am making some of these connections as I go, relative to what I have seen and read about in the past. This info is still NOVEL and should be considered as such..\*\*\*here it is,
 
 &#x200B;
 
-[https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/aeaihoplnr471.png?width=508&format=png&auto=webp&s=2cb02274c34635bae4847b14b5ddcb63c3c330b4)
+![https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/aeaihoplnr471.png?width=508&format=png&auto=webp&s=2cb02274c34635bae4847b14b5ddcb63c3c330b4)
 
 Now I highlighted the 4th bullet point here b/c the first thing I recalled upon seeing that statement, was the issuing of ***another company's first coin, which was done in the not too distant past...***
 
@@ -96,7 +97,7 @@ u/Relatable_Yak coming through once again, this time possibly from an unbeknowns
 
 Before providing the next piece of insight into all of this, shoutout to the OP of the link posted located by our fellow smooth brain above. [u/fraxybobo](https://www.reddit.com/user/fraxybobo/), I think you were onto something **big...welcome to the smooth-brain convention👩‍🦽🚀**
 
-[https:\/\/www.reddit.com\/r\/Superstonk\/comments\/noytar\/tinfoil\_hat\_why\_the\_game\_on\_anon\/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://preview.redd.it/dqngl13wsr471.png?width=842&format=png&auto=webp&s=b42eacf17240b4d54fa41ca9e248eeaf4d985645)
+![https:\/\/www.reddit.com\/r\/Superstonk\/comments\/noytar\/tinfoil\_hat\_why\_the\_game\_on\_anon\/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://preview.redd.it/dqngl13wsr471.png?width=842&format=png&auto=webp&s=b42eacf17240b4d54fa41ca9e248eeaf4d985645)
 
 And here are my findings from continuing down this trail........\*\*this next part is fkn mind-boggling.....\*\*I looked up the game on steam and read its description to see what u/fraxybobo's post was referring to in regard to the game called \*\*Leave Me Anon.....\*\*see for yourself..
 

@@ -1,5 +1,6 @@
-# Author: Worried-Yogurt-4204
-# Post URL: [https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/](https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/)
+#Title: Citadel Headed toward Hiring Freeze - Deep Dive into Linkedin Data
+#Author: Worried-Yogurt-4204
+#Post URL: [https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/](https://www.reddit.com/r/GME/comments/meoqgw/citadel_headed_toward_hiring_freeze_deep_dive/)
 
 
 Hey everyone! I love the saying "actions speak louder than words", and today I am going to show you how Citadel's changes in employment prove that they are a shit company and know they are FUCKED.
@@ -44,7 +45,7 @@ https://preview.redd.it/x6oq4x2qgnp61.png?width=800&format=png&auto=webp&s=e35f9
 
 Additionally, I looked at every single Citadel job listing on Indeed and every single one had been posted more than 30 days ago. THEY ARE NOT HIRING! 
 
-![https://www.indeed.com/cmp/Citadel/jobs](https://www.indeed.com/cmp/Citadel/jobs)
+[https://www.indeed.com/cmp/Citadel/jobs](https://www.indeed.com/cmp/Citadel/jobs)
 
 If they had truly covered their short position and everything was "business ass usual" then we would expect to see continued workforce increases and regular new job postings. 
 

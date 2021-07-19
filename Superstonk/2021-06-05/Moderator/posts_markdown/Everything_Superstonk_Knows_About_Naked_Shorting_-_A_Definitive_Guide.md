@@ -1,5 +1,6 @@
-# Author: sharkbaitlol
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/)
+#Title: Everything Superstonk Knows About Naked Shorting - A Definitive Guide
+#Author: sharkbaitlol
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nt0ojl/everything_superstonk_knows_about_naked_shorting/)
 
 
 Hi apes; **sharkbaitlol** here again chomping away at MSM this time. This is a quick post surrounding a particular news station confirming the concept of naked short selling (for anyone [out of the loop](https://www.reddit.com/r/Superstonk/comments/nspmql/naked_shorts_yeah/)); while this is hilarious, it's something the apes here at **Superstonk** know all too well as we've been researching this for a while now!
@@ -10,13 +11,13 @@ With that being said this serves as a great time for us to showcase all the rese
 
 &#x200B;
 
-[the world is taking notice](https://preview.redd.it/o0nbqlzlfh371.png?width=1091&format=png&auto=webp&s=e9e7cb830ed3490fd11adf58b87db6079c3469ef)
+![the world is taking notice](https://preview.redd.it/o0nbqlzlfh371.png?width=1091&format=png&auto=webp&s=e9e7cb830ed3490fd11adf58b87db6079c3469ef)
 
 Lets start off with a text book definition of naked short selling:
 
 &#x200B;
 
-[https:\/\/www.investopedia.com\/terms\/n\/nakedshorting.asp](https://preview.redd.it/yecxm5507h371.png?width=611&format=png&auto=webp&s=59d8c9f2e09a1cd46ed532814ccc7ced06ae2a67)
+![https:\/\/www.investopedia.com\/terms\/n\/nakedshorting.asp](https://preview.redd.it/yecxm5507h371.png?width=611&format=png&auto=webp&s=59d8c9f2e09a1cd46ed532814ccc7ced06ae2a67)
 
 Essentially it is the practice of shorting a stock (which is totally legal), but without the shares on hand (this is what's illegal). This is equivalent to spending shares you do not have; this becomes a slippery slope to create scenarios like what we see with GME where we saw hundreds of percent over the float was rehypothecated. **On GameStop specifically if you navigate to** [FINRA](https://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=126%3A0P000002CH&sdkVersion=2.59.1) **we can confirm it was over a WHOPPING 250% SI back in early January.** **This can be put on the same level of severity as printing out currency. Remember this is simply all that they're willing to admit. The reality is that misrepresenting this information is a slap on the write in fines.**
 
@@ -134,4 +135,4 @@ With that being said, stay excellent to each other and stay hungry.
 
 &#x200B;
 
-Please feel free to retweet my post to get superstonk's voice out there! ![https://twitter.com/u\_sharkbaitlol/status/1401233432060076032](https://twitter.com/u_sharkbaitlol/status/1401233432060076032)
+Please feel free to retweet my post to get superstonk's voice out there! [https://twitter.com/u\_sharkbaitlol/status/1401233432060076032](https://twitter.com/u_sharkbaitlol/status/1401233432060076032)

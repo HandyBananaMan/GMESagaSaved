@@ -1,5 +1,6 @@
-# Author: squirrel_of_fortune
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/](https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/)
+#Title: When squeeze? When crash? No dates, but it is possible that this data science technique might give an early warning...
+#Author: squirrel_of_fortune
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/](https://www.reddit.com/r/Superstonk/comments/ntou9t/when_squeeze_when_crash_no_dates_but_it_is/)
 
 
 **TL/DR:**
@@ -32,15 +33,15 @@ I think at this point, it's best that you look at the pictures. Pay attention to
 
 **GME data**
 
-[Landscape distance based data for GME](https://preview.redd.it/1b4yyh12tn371.png?width=1775&format=png&auto=webp&s=d15eb4e562ec051f2a0a04b2056e17558866173a)
+![Landscape distance based data for GME](https://preview.redd.it/1b4yyh12tn371.png?width=1775&format=png&auto=webp&s=d15eb4e562ec051f2a0a04b2056e17558866173a)
 
-[Betti distance based data for GME](https://preview.redd.it/ep6rcjp2tn371.png?width=1775&format=png&auto=webp&s=1bbf06423cbeef7b629b4bcba805000131ddb906)
+![Betti distance based data for GME](https://preview.redd.it/ep6rcjp2tn371.png?width=1775&format=png&auto=webp&s=1bbf06423cbeef7b629b4bcba805000131ddb906)
 
 **AMC data**
 
-[Landscape data for AMC](https://preview.redd.it/3s3dpgwbsn371.png?width=1775&format=png&auto=webp&s=c99374505b01f12fe3013551b264ec27edffb802)
+![Landscape data for AMC](https://preview.redd.it/3s3dpgwbsn371.png?width=1775&format=png&auto=webp&s=c99374505b01f12fe3013551b264ec27edffb802)
 
-[Betti based data for AMC](https://preview.redd.it/m8utugvcsn371.png?width=1775&format=png&auto=webp&s=50f843c3f8c6710170b10ccda56816402abb5c22)
+![Betti based data for AMC](https://preview.redd.it/m8utugvcsn371.png?width=1775&format=png&auto=webp&s=50f843c3f8c6710170b10ccda56816402abb5c22)
 
 **Things to note:**
 
@@ -59,11 +60,11 @@ Anyway, lets look at the VW/Porche squeeze.
 
 **VW during the squeeze**
 
-[VW landscape distance based data](https://preview.redd.it/ef3yvx7esn371.png?width=1764&format=png&auto=webp&s=a0c2eb0a4276bd503d87225dd62f6bcbd41b4cd3)
+![VW landscape distance based data](https://preview.redd.it/ef3yvx7esn371.png?width=1764&format=png&auto=webp&s=a0c2eb0a4276bd503d87225dd62f6bcbd41b4cd3)
 
 &#x200B;
 
-[VW Betti distance data](https://preview.redd.it/92i9s38usn371.png?width=1776&format=png&auto=webp&s=71c56921322ab7b186541192bd8fb3bb4ff880de)
+![VW Betti distance data](https://preview.redd.it/92i9s38usn371.png?width=1776&format=png&auto=webp&s=71c56921322ab7b186541192bd8fb3bb4ff880de)
 
 Look, in early 2008 there was a prediction in both graphs of a crash, the stock went up. The Betti distance predicts a crash in May-September that didn't happen. But the three data points just before the squeeze are all predicting a crash, then we get a squeeze.
 
@@ -73,9 +74,9 @@ Now, lets have a little look at some non-squeezing boomer stocks, and this is wh
 
 **IBM**
 
-[IBM landscape based data](https://preview.redd.it/daqtq49gsn371.png?width=1775&format=png&auto=webp&s=17702f5dbcc5b92bc3d15805afcc7d8c49bd7522)
+![IBM landscape based data](https://preview.redd.it/daqtq49gsn371.png?width=1775&format=png&auto=webp&s=17702f5dbcc5b92bc3d15805afcc7d8c49bd7522)
 
-[IBM Betti distance data](https://preview.redd.it/be1lqe7hsn371.png?width=1775&format=png&auto=webp&s=e066861c58baba002af5380215b28fca41b208b2)
+![IBM Betti distance data](https://preview.redd.it/be1lqe7hsn371.png?width=1775&format=png&auto=webp&s=e066861c58baba002af5380215b28fca41b208b2)
 
 The landscape distance measure says that Big Blue has nothing to worry about, the Betti distance data is hyperventaliting that a crash in coming. (Of course, I think we all believe that a general stock market crash is incoming).
 
@@ -83,9 +84,9 @@ Hmmmm, so I picked a smaller stock, our favorite restaurant.
 
 **Wendy's**
 
-[Wendy's landscape distance data](https://preview.redd.it/garliqwisn371.png?width=1775&format=png&auto=webp&s=5d766a9cb76b486661c6615d0f3456b04a271c78)
+![Wendy's landscape distance data](https://preview.redd.it/garliqwisn371.png?width=1775&format=png&auto=webp&s=5d766a9cb76b486661c6615d0f3456b04a271c78)
 
-[Wendy's Betti distance data](https://preview.redd.it/04sduf2ksn371.png?width=1787&format=png&auto=webp&s=cb914c9e5ddc07836496898a01c07f844aa2b5bb)
+![Wendy's Betti distance data](https://preview.redd.it/04sduf2ksn371.png?width=1787&format=png&auto=webp&s=cb914c9e5ddc07836496898a01c07f844aa2b5bb)
 
 Yeah, Wendy's is safe. And as a smaller bricks'n'mortar company, is a better comparison for GME and AMC. So this could show that the GME and AMC behavior is odd. I should probably repeat all this with different windows (the data is smoothed), finer grained data and more stock comparisons.
 
@@ -109,4 +110,4 @@ I have a feeling I might end up writing an actual academic paper on this shit.
 
 [https://arxiv.org/pdf/2004.02551.pdf](https://arxiv.org/pdf/2004.02551.pdf)
 
-behind a paywall ![https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa\_token=DfG\_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O\_4w](https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa_token=DfG_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O_4w)
+behind a paywall [https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa\_token=DfG\_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O\_4w](https://www.sciencedirect.com/science/article/pii/S0378437117309202?casa_token=DfG_j6zdAQ0AAAAA:91hHDLuhIGqABmnkZXyiVNgFVETL-hmDYOZJwYLVYneWrm0Vap1LAvAg6XwvSVC0mTnWi2O_4w)

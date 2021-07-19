@@ -1,5 +1,6 @@
-# Author: Jufloz
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/](https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/)
+#Title: JPmorgan closing accounts with DTC
+#Author: Jufloz
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/](https://www.reddit.com/r/Superstonk/comments/o1jkts/jpmorgan_closing_accounts_with_dtc/)
 
 
 Updated: I think I understand what it means.
@@ -12,7 +13,7 @@ This was filed today, I'm not sure how big of an impact this is but....
 
  FICC will publish the final termination notice once all obligations of J.P. Morgan Securities LLC‘s JSBA, JSGU, JSCG, JSCT & JSCW Clearing accounts have been satisfied. 
 
-![https://www.dtcc.com/-/media/Files/pdf/2021/6/16/MBS991-21.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/16/MBS991-21.pdf)
+[https://www.dtcc.com/-/media/Files/pdf/2021/6/16/MBS991-21.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/16/MBS991-21.pdf)
 
 &#x200B;
 

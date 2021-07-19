@@ -1,5 +1,6 @@
-# Author: oaf_king
-# Post URL: [https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/](https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/)
+#Title: Statistical Analysis: March 5 update - you love to see it
+#Author: oaf_king
+#Post URL: [https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/](https://www.reddit.com/r/GME/comments/lyndkf/statistical_analysis_march_5_update_you_love_to/)
 
 
 Hi all,
@@ -19,9 +20,9 @@ https://preview.redd.it/8d07z71w0al61.png?width=1037&format=png&auto=webp&s=7463
 
 In graph form:
 
-[As in the last two days, the price increase strengthens the correlation between the two run-ups.](https://preview.redd.it/36hzilbt1al61.png?width=884&format=png&auto=webp&s=a00947502b13312d127f67aab2c9209ef656c865)
+![As in the last two days, the price increase strengthens the correlation between the two run-ups.](https://preview.redd.it/36hzilbt1al61.png?width=884&format=png&auto=webp&s=a00947502b13312d127f67aab2c9209ef656c865)
 
-[On the other hand, we saw a continued trend in relatively low volume, thus reducing the correlation in volume activity between the two run-ups.](https://preview.redd.it/0u64bi692al61.png?width=1099&format=png&auto=webp&s=1463b0456a597525d53daf1baa2d00372dbdc497)
+![On the other hand, we saw a continued trend in relatively low volume, thus reducing the correlation in volume activity between the two run-ups.](https://preview.redd.it/0u64bi692al61.png?width=1099&format=png&auto=webp&s=1463b0456a597525d53daf1baa2d00372dbdc497)
 
 # Analysis
 
@@ -65,7 +66,7 @@ and
 
 Members of this community can make sense of their tweets, but unless/until there is a trigger for high-volume buying (pick any of the popular catalysts), I think this run-up will get stretched out. That's cool though, because it just means a more explosive squeeze if/when it occurs.
 
-I recommend reading [this post](https://www.reddit.com/r/GME/comments/lxyjdh/tomorrow_gme_is_mooning_the_ttm_squeeze_explained/) and ![its follow-up](https://www.reddit.com/r/GME/comments/lyh8cm/gme_squeeze_indicator_update/) by u/possibly6 if you haven't already. My statistics are reaching their limit (because the cut-off to the previous run-up was on January 28), but the technical aspects continue to stand. I'm still learning MACD, but u/Bootheskies attests that the indicator is still on track in imitating January's pattern.
+I recommend reading [this post](https://www.reddit.com/r/GME/comments/lxyjdh/tomorrow_gme_is_mooning_the_ttm_squeeze_explained/) and [its follow-up](https://www.reddit.com/r/GME/comments/lyh8cm/gme_squeeze_indicator_update/) by u/possibly6 if you haven't already. My statistics are reaching their limit (because the cut-off to the previous run-up was on January 28), but the technical aspects continue to stand. I'm still learning MACD, but u/Bootheskies attests that the indicator is still on track in imitating January's pattern.
 
 **TLDR** (for u/MrPinkFloyd)
 

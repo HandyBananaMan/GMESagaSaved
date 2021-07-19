@@ -1,5 +1,6 @@
-# Author: AndiCat
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/](https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/)
+#Title: The House of Fraud - The Biggest Corruption Scandal on History
+#Author: AndiCat
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/](https://www.reddit.com/r/Superstonk/comments/nbpboy/the_house_of_fraud_the_biggest_corruption_scandal/)
 
 
 Hello, I want to share with you my research this months and why this is the biggest fraud on history.
@@ -10,7 +11,7 @@ I also hope congress people inform themselves a little. all the congressional he
 
 &#x200B;
 
-[Nobody seems to see the elephant on the room](https://preview.redd.it/yr9tw1fsrxy61.jpg?width=1080&format=pjpg&auto=webp&s=6680d3cb11fb85b89ce207e04439ce1ae94eac8c)
+![Nobody seems to see the elephant on the room](https://preview.redd.it/yr9tw1fsrxy61.jpg?width=1080&format=pjpg&auto=webp&s=6680d3cb11fb85b89ce207e04439ce1ae94eac8c)
 
 How the economy has been carried by financial terrorist or the gravity of the actions that have been committed by predatory hedge funds and MM for years benefiting just themselves at the expenses of hard-working people which later are the ones paying the consequences for their gambling.
 
@@ -94,7 +95,7 @@ https://preview.redd.it/qpzzhtqsvxy61.png?width=606&format=png&auto=webp&s=c7590
 
 &#x200B;
 
-[this is just a few, there are dozens of data rolling on the sub](https://preview.redd.it/1mp0ccylwxy61.png?width=750&format=png&auto=webp&s=8b485fe9bc4a85e9736be7d97553a3e86a0dbbc3)
+![this is just a few, there are dozens of data rolling on the sub](https://preview.redd.it/1mp0ccylwxy61.png?width=750&format=png&auto=webp&s=8b485fe9bc4a85e9736be7d97553a3e86a0dbbc3)
 
 &#x200B;
 
@@ -228,7 +229,7 @@ The SEC and "regulators" has failed to provide a fair market and protect the lit
 
 &#x200B;
 
-[let's gamble with the economy, get a bailout with the working class money and finally we'll laugh at them](https://preview.redd.it/4jckzcv2vxy61.png?width=653&format=png&auto=webp&s=120f5fac110a9037906851168e2a9a8f6d6db897)
+![let's gamble with the economy, get a bailout with the working class money and finally we'll laugh at them](https://preview.redd.it/4jckzcv2vxy61.png?width=653&format=png&auto=webp&s=120f5fac110a9037906851168e2a9a8f6d6db897)
 
 &#x200B;
 
@@ -278,7 +279,7 @@ There were heroes who were fighting against corruption and fraud alone, others t
 
 &#x200B;
 
-[Alex Kearns](https://preview.redd.it/ngt9bftjvxy61.jpg?width=1908&format=pjpg&auto=webp&s=fb3d78b48dab0b96ada4d2241237e2c9cf428cf8)
+![Alex Kearns](https://preview.redd.it/ngt9bftjvxy61.jpg?width=1908&format=pjpg&auto=webp&s=fb3d78b48dab0b96ada4d2241237e2c9cf428cf8)
 
 &#x200B;
 

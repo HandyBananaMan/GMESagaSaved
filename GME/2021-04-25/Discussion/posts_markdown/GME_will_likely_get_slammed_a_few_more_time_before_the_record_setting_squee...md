@@ -1,5 +1,6 @@
-# Author: AndyLee168
-# Post URL: [https://www.reddit.com/r/GME/comments/myai39/gme_will_likely_get_slammed_a_few_more_time/](https://www.reddit.com/r/GME/comments/myai39/gme_will_likely_get_slammed_a_few_more_time/)
+#Title: GME will likely get slammed a few more time before the record setting squeeze. This is to scare away the paper hands into selling because of disappointment!
+#Author: AndyLee168
+#Post URL: [https://www.reddit.com/r/GME/comments/myai39/gme_will_likely_get_slammed_a_few_more_time/](https://www.reddit.com/r/GME/comments/myai39/gme_will_likely_get_slammed_a_few_more_time/)
 
 
 This is a repost from Yahoo Finance Cecile post:

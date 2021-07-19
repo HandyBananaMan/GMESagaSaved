@@ -1,5 +1,6 @@
-# Author: mapin1
-# Post URL: [https://www.reddit.com/r/GME/comments/neib1b/i_wish_i_could_resist_food_booze_and_porn_as_well/](https://www.reddit.com/r/GME/comments/neib1b/i_wish_i_could_resist_food_booze_and_porn_as_well/)
+#Title: I wish I could resist food, booze and porn as well as GME is resisting $170+
+#Author: mapin1
+#Post URL: [https://www.reddit.com/r/GME/comments/neib1b/i_wish_i_could_resist_food_booze_and_porn_as_well/](https://www.reddit.com/r/GME/comments/neib1b/i_wish_i_could_resist_food_booze_and_porn_as_well/)
 
 
 Kenny, I want to retire. Just pack it in already.

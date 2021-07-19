@@ -1,5 +1,6 @@
-# Author: elias-el
-# Post URL: [https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/](https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/)
+#Title: BLOOMBERG TERMINAL DATA ON EARNINGS ESTIMATES FOR TOMORROW
+#Author: elias-el
+#Post URL: [https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/](https://www.reddit.com/r/GME/comments/mawtg9/bloomberg_terminal_data_on_earnings_estimates_for/)
 
 
 Guten Tag my dear apes,
@@ -12,7 +13,7 @@ I had a quick look into the Bloomberg terminal to glance over current and histor
 
 &#x200B;
 
-[Earnings & Estimates \(EE\)](https://preview.redd.it/sdg1ss7o7mo61.png?width=1920&format=png&auto=webp&s=7802af682c85dfeebf9eb51a0e6eb57334484aad)
+![Earnings & Estimates \(EE\)](https://preview.redd.it/sdg1ss7o7mo61.png?width=1920&format=png&auto=webp&s=7802af682c85dfeebf9eb51a0e6eb57334484aad)
 
 I used the EE (Earnings & Estimates) function to pull up an overview of earnings history, consensus overview, and earnings trends. I am going to point out the most relevant figures:
 
@@ -36,7 +37,7 @@ Another interesting figure is the **Avg/Implied 1 Day Move of 13.28% / 14.08%.**
 
 &#x200B;
 
-[EPS estimate in detail](https://preview.redd.it/obx4ovzfamo61.png?width=1295&format=png&auto=webp&s=847fbb6bdfcab249b3657d1eb02e9a4c3a073d04)
+![EPS estimate in detail](https://preview.redd.it/obx4ovzfamo61.png?width=1295&format=png&auto=webp&s=847fbb6bdfcab249b3657d1eb02e9a4c3a073d04)
 
 If we look closer into the **Earnings-per-share estimate** we see that the current consensus is built on 6 analyst estimates with a standard deviation of **0.366**. The highest EPS estimate is **1.830**, this would translate into a **YoY growth of +44%** and the lowest estimate is **0.840**, this would translate into a **YoY growth of** **-34%**.
 
@@ -44,7 +45,7 @@ If we look closer into the **Earnings-per-share estimate** we see that the curre
 
 &#x200B;
 
-[Revenue estimate in detail](https://preview.redd.it/e8w4jtchomo61.png?width=1295&format=png&auto=webp&s=afe199c781f6d0b35e1348e10f8aacff5ad81ba1)
+![Revenue estimate in detail](https://preview.redd.it/e8w4jtchomo61.png?width=1295&format=png&auto=webp&s=afe199c781f6d0b35e1348e10f8aacff5ad81ba1)
 
 If we look closer into the **Revenue estimate** we see that the current consensus is built on 7 estimates with a standard deviation of 91.671 Million $. The highest Revenue estimate is **2.349 Billion $**, this would translate into a **YoY growth of +7%** and the lowest estimate is **2.085 Billion $**, this would translate into a **YoY growth of** **-5%**.
 
@@ -52,7 +53,7 @@ If we look closer into the **Revenue estimate** we see that the current consensu
 
 &#x200B;
 
-[Net income estimate in detail](https://preview.redd.it/mv54pfbdrmo61.png?width=1295&format=png&auto=webp&s=2230b3167c476bc723329975decfe430e3307e65)
+![Net income estimate in detail](https://preview.redd.it/mv54pfbdrmo61.png?width=1295&format=png&auto=webp&s=2230b3167c476bc723329975decfe430e3307e65)
 
 If we look closer into the **Net Income estimate** we see that the current consensus is built on 5 estimates with a standard deviation of 16.192 Million $. The highest Revenue estimate is **119 Million $**, this would translate into a **YoY growth of +42%** and the lowest estimate is **79.5 Million $**, this would translate into a **YoY growth of** **-5,5%**.
 

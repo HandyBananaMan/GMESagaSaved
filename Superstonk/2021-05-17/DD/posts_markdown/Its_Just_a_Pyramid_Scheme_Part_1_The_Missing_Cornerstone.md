@@ -1,5 +1,6 @@
-# Author: hell-mitc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/](https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/)
+#Title: It's Just a Pyramid Scheme Part 1: The Missing Cornerstone
+#Author: hell-mitc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/](https://www.reddit.com/r/Superstonk/comments/nexfv4/its_just_a_pyramid_scheme_part_1_the_missing/)
 
 
 Hey Everyone! 
@@ -116,5 +117,5 @@ References:
 2. [https://www.theocc.com/](https://www.theocc.com/)
 3. [https://www.theocc.com/Company-Information/Board-of-Directors](https://www.theocc.com/Company-Information/Board-of-Directors)
 4. [https://oic.ivolatility.com/oic\_adv\_options.j;jsessionid=a-dh\_HwzV6lh](https://oic.ivolatility.com/oic_adv_options.j;jsessionid=a-dh_HwzV6lh)
-5. ![https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows](https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows)
+5. [https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows](https://www.barchart.com/stocks/quotes/GME/options?moneyness=allRows)
 6. Oh and the fucking terminal drops.

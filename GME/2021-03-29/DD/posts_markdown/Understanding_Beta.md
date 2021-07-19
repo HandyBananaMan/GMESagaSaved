@@ -1,5 +1,6 @@
-# Author: korg64
-# Post URL: [https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/](https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/)
+#Title: 🚀📈 Understanding Beta 📈🚀
+#Author: korg64
+#Post URL: [https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/](https://www.reddit.com/r/GME/comments/mfjlt5/understanding_beta/)
 
 
  Good Morning Everyone
@@ -71,4 +72,4 @@ A beta of "0.00" on Yahoo! Finance means that the stock is either a [new issue](
 
 The biggest drawback to using beta to make an investment decision is  that beta is a historical measure of a stock's volatility. It can show  you the pattern so far but it can't tell you what's going to happen in  the future. 
 
-The second caveat for using beta is that it is a measure of [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp), which is the risk that the market faces as a whole. The ![market index](https://www.investopedia.com/terms/m/marketindex.asp)  to which a stock is being compared is affected by market-wide risks.  So, beta can only take into account the effects of market-wide risks on  the stock. The other risks the company faces are specific to the  company.
+The second caveat for using beta is that it is a measure of [systematic risk](https://www.investopedia.com/terms/s/systematicrisk.asp), which is the risk that the market faces as a whole. The [market index](https://www.investopedia.com/terms/m/marketindex.asp)  to which a stock is being compared is affected by market-wide risks.  So, beta can only take into account the effects of market-wide risks on  the stock. The other risks the company faces are specific to the  company.

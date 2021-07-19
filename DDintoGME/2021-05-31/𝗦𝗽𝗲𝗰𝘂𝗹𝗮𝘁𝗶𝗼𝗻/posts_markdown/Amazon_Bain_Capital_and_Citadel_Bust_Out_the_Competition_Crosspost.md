@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/)
+#Title: Amazon, Bain Capital and Citadel Bust Out the Competition (Crosspost)
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/DDintoGME/comments/npgg4n/amazon_bain_capital_and_citadel_bust_out_the/)
 
 
 All credit to [u/jumpster81](https://www.reddit.com/user/jumpster81/). Text follows, pics are omitted.  To see them, go to original post: [https://www.reddit.com/r/Superstonk/duplicates/np33hr/amazon\_bain\_capital\_and\_citadel\_bust\_out\_the/](https://www.reddit.com/r/Superstonk/duplicates/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)
@@ -106,7 +107,7 @@ Debt made the company, with $11.2B in sales, less nimble and able to navigate th
 
 ^((image of FAO Shwarz))
 
-While Bain Capital controlled Toys R Us, TRU acquired FAO Schwarz in 2006. TRU also bought Amazon’s main competition in the toys ecommerce sector etoys.com and [toys.com](https://toys.com/), along with a few other websites babyuniverse.com and the resource site ePregnancy.com in 2009. ![https://en.wikipedia.org/wiki/Toys\_%22R%22\_Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
+While Bain Capital controlled Toys R Us, TRU acquired FAO Schwarz in 2006. TRU also bought Amazon’s main competition in the toys ecommerce sector etoys.com and [toys.com](https://toys.com/), along with a few other websites babyuniverse.com and the resource site ePregnancy.com in 2009. [https://en.wikipedia.org/wiki/Toys\_%22R%22\_Us](https://en.wikipedia.org/wiki/Toys_%22R%22_Us)
 
 When TRU was fully busted out and tapped out for cash and usefulness it was liquidated and its parts sold off. It was the end of the massive toy retailer in the US and UK, and the demise of all major toy specific retailers both in brick and mortar and online.
 

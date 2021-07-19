@@ -1,5 +1,6 @@
-# Author: Brindle_Bum
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnl4jw/us_government_selling_370_billion_in_treasury/](https://www.reddit.com/r/Superstonk/comments/mnl4jw/us_government_selling_370_billion_in_treasury/)
+#Title: U.S. government selling $370 billion in treasury bonds
+#Author: Brindle_Bum
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnl4jw/us_government_selling_370_billion_in_treasury/](https://www.reddit.com/r/Superstonk/comments/mnl4jw/us_government_selling_370_billion_in_treasury/)
 
 
 April 9, 2021 2:26 pm by Colby Smith in New York

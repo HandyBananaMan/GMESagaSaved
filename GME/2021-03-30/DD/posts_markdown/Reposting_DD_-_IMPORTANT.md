@@ -1,5 +1,6 @@
-# Author: idontdislikeoranges
-# Post URL: [https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/](https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/)
+#Title: Reposting DD - IMPORTANT
+#Author: idontdislikeoranges
+#Post URL: [https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/](https://www.reddit.com/r/GME/comments/mgqe0h/reposting_dd_important/)
 
 
 **MODS PLESE NOTE I HAVE REMOVED LINKS.**
@@ -66,7 +67,7 @@ Although only MMs should have the ability to sell stock naked it is possible to
 
 &#x200B;
 
-[Example of a married put for Overstock sharesExample of a married put for Overstock shares](https://preview.redd.it/f960gzdpi8q61.png?width=896&format=png&auto=webp&s=14144b6961e2144ad62a586837cd86ebc19c6978)
+![Example of a married put for Overstock sharesExample of a married put for Overstock shares](https://preview.redd.it/f960gzdpi8q61.png?width=896&format=png&auto=webp&s=14144b6961e2144ad62a586837cd86ebc19c6978)
 
 This could be, and almost certainly is, being done with GME shares to hide SI and avoid massive borrowing fees.
 
@@ -114,7 +115,7 @@ Every week we end around max pain we inflict more damage on the shorts: [https:
 
 Potentially the vast majority of options (both puts and calls) in GME could have been created as part of a naked shorting privilege scam. Therefore the longer we inflict max pain on the GME options, and the more patiently we HODL the more chance we have to ensure these fraudulent fucks are left with nothing.
 
-All the recent DTCC filings suggest that they are covering their ass and looking into this bullshit before it explodes in their faces. Recent filings also mention that their aware of and ready to deal with option trading shenanigans by the MMs: ![https://www.reddit.com/r/GME/comments/mecfwi/too\_ape\_didnt\_read\_sec\_filings\_part\_two\_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
+All the recent DTCC filings suggest that they are covering their ass and looking into this bullshit before it explodes in their faces. Recent filings also mention that their aware of and ready to deal with option trading shenanigans by the MMs: [https://www.reddit.com/r/GME/comments/mecfwi/too\_ape\_didnt\_read\_sec\_filings\_part\_two\_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
 
 **Conclusion**
 

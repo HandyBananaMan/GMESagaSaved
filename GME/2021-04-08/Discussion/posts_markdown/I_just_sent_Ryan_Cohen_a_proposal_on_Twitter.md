@@ -1,5 +1,6 @@
-# Author: econkle
-# Post URL: [https://www.reddit.com/r/GME/comments/mmyc2y/i_just_sent_ryan_cohen_a_proposal_on_twitter/](https://www.reddit.com/r/GME/comments/mmyc2y/i_just_sent_ryan_cohen_a_proposal_on_twitter/)
+#Title: I just sent Ryan Cohen a proposal on Twitter.
+#Author: econkle
+#Post URL: [https://www.reddit.com/r/GME/comments/mmyc2y/i_just_sent_ryan_cohen_a_proposal_on_twitter/](https://www.reddit.com/r/GME/comments/mmyc2y/i_just_sent_ryan_cohen_a_proposal_on_twitter/)
 
 
 TLDR: Democratize the used game trade.

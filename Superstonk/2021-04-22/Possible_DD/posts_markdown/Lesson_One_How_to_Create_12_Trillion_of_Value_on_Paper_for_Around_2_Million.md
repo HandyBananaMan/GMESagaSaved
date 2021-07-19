@@ -1,5 +1,6 @@
-# Author: greysweatseveryday
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/](https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/)
+#Title: Lesson One: How to Create $1.2 Trillion of Value on Paper for Around $2 Million
+#Author: greysweatseveryday
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/](https://www.reddit.com/r/Superstonk/comments/mwg1z9/lesson_one_how_to_create_12_trillion_of_value_on/)
 
 
 *EDIT 1: I added a follow up DD using data and SEC rules to discuss whether this is even possible to pull off:* [*https://www.reddit.com/r/Superstonk/comments/mwyeef/lesson\_two\_why\_hedgies\_using\_cxc\_is\_unlikely\_but/*](https://www.reddit.com/r/Superstonk/comments/mwyeef/lesson_two_why_hedgies_using_cxc_is_unlikely_but/)*. I think it would be extremely unlikely for this to actually have happened, but theoretically it is possible.* 
@@ -22,7 +23,7 @@ He begins to describe his plan.
 
 THE PLAN
 
-We’ll use crypto. There have been hundreds of pump and dump schemes, but the greatest thing here is that we don’t even need to worry about it dumping. We’ll use an obscure coin traded on a couple unknown exchanges with no volume (say CXC ![https://coinmarketcap.com/currencies/capital-x-cell/](https://coinmarketcap.com/currencies/capital-x-cell/)).
+We’ll use crypto. There have been hundreds of pump and dump schemes, but the greatest thing here is that we don’t even need to worry about it dumping. We’ll use an obscure coin traded on a couple unknown exchanges with no volume (say CXC [https://coinmarketcap.com/currencies/capital-x-cell/](https://coinmarketcap.com/currencies/capital-x-cell/)).
 
 We’ll buy up the coins, there’s no liquidity so we will determine the price. I’m going to need a couple million dollars.
 

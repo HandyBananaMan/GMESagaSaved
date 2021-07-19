@@ -1,5 +1,6 @@
-# Author: ancient_wis
-# Post URL: [https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/](https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/)
+#Title: SUPPORT ROARING KITTY IF YOU think he is being BULLIED by online by the Media, sowing doubt in any public support before tomorrow
+#Author: ancient_wis
+#Post URL: [https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/](https://www.reddit.com/r/GME/comments/lm3ozu/support_roaring_kitty_if_you_think_he_is_being/)
 
 
 **TL;DR If you support Roaring Kitty lets get the right posts pinned and trending to explain to those visitors to this sub now and in the future what the accusations are and the truth about Roaring Kitty.**
@@ -142,6 +143,6 @@ I think any reasonable person watching him will come to the same conclusion, he 
 
 **Keith Gill is a lone retail investor struggling like many of us trying to earn an honest living and do our best** without the perks of bloomberg terminals, idea dinners, CEOs on speed-dial and cosy relationships with research analysts, newsrooms and journalists.  **link to his own words below**
 
-written **TESTIMONY OF KEITH PATRICK GILL BEFORE THE U.S. HOUSE COMMITTEE ON FINANCIAL SERVICES** ![**https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf**](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf)
+written **TESTIMONY OF KEITH PATRICK GILL BEFORE THE U.S. HOUSE COMMITTEE ON FINANCIAL SERVICES** [**https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf**](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-GillK-20210218.pdf)
 
 **I LIKE THE STOCK.**

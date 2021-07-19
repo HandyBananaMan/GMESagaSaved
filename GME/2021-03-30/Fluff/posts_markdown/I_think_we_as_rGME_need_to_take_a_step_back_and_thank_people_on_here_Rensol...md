@@ -1,5 +1,6 @@
-# Author: khashi1
-# Post URL: [https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/](https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/)
+#Title: I think we as r/GME need to take a step back and thank people on here. Rensole, WardenElite, Pixel, Corno4825, and all the Mods. Stop calling them Shills!! They are just regular people who are putting a lot of time/effort in this and might have different opinions differing from yours.
+#Author: khashi1
+#Post URL: [https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/](https://www.reddit.com/r/GME/comments/mggyke/i_think_we_as_rgme_need_to_take_a_step_back_and/)
 
 
 ![Stop the Ape on Ape violence, fucking now!](https://preview.redd.it/xxjd77sxa6q61.png?width=2100&format=png&auto=webp&s=8a5a2ac6d6f776da158ec52d8e449aa22fcbe574)

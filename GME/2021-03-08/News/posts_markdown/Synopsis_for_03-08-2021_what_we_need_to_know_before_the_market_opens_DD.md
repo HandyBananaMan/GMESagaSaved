@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m0cxjl/synopsis_for_03082021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m0cxjl/synopsis_for_03082021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-08-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m0cxjl/synopsis_for_03082021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m0cxjl/synopsis_for_03082021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -284,7 +285,7 @@ The other side is finally getting it as well, Fundamentally speaking GME is not 
 
 &#x200B;
 
-[ Former PM at a Goldman Sachs founded $1.2 Bn hedge fund](https://preview.redd.it/n7qwsc3k4sl61.png?width=640&format=png&auto=webp&s=9678cfa42c940db80b29253e48109d2fce2db690)
+![ Former PM at a Goldman Sachs founded $1.2 Bn hedge fund](https://preview.redd.it/n7qwsc3k4sl61.png?width=640&format=png&auto=webp&s=9678cfa42c940db80b29253e48109d2fce2db690)
 
 Remember, it's not just us who believes in GME anymore, at this point GME has been discussed by so many people that it has reached people higher up, and they started doing their own DD.
 
@@ -304,7 +305,7 @@ be sure to check out his thread !
 
 &#x200B;
 
-[thx for the stimmy daddy](https://preview.redd.it/tn5xh42p5sl61.jpg?width=960&format=pjpg&auto=webp&s=d2f5c0d32e218bcc25855db9e7d42c685c87d3e3)
+![thx for the stimmy daddy](https://preview.redd.it/tn5xh42p5sl61.jpg?width=960&format=pjpg&auto=webp&s=d2f5c0d32e218bcc25855db9e7d42c685c87d3e3)
 
 &#x200B;
 
@@ -378,4 +379,4 @@ Edit 4:
 
 But it seems pixel may have found out, his take on this does make sense to me!
 
-![https://www.reddit.com/r/GME/comments/m0j6bz/is\_dfv\_congratulating\_ryan\_cohen\_on\_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)
+[https://www.reddit.com/r/GME/comments/m0j6bz/is\_dfv\_congratulating\_ryan\_cohen\_on\_probably/](https://www.reddit.com/r/GME/comments/m0j6bz/is_dfv_congratulating_ryan_cohen_on_probably/)

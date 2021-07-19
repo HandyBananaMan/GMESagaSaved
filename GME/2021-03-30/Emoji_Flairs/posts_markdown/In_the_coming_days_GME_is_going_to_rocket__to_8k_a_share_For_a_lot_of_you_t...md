@@ -1,5 +1,6 @@
-# Author: A_world_in_need
-# Post URL: [https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/](https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/)
+#Title: In the coming days $GME is going to rocket 🚀 to $8k+ a share. For a lot of you, the temptation to sell will be great. Resist. IF YOU COMMIT TO $1,000,000/ share and you will receive it. It’s that simple.
+#Author: A_world_in_need
+#Post URL: [https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/](https://www.reddit.com/r/GME/comments/mghg41/in_the_coming_days_gme_is_going_to_rocket_to_8k_a/)
 
 
 Not financial advice. 
@@ -22,6 +23,6 @@ I trust the DD. I’ve been obsessed since Jan. I’m in. I’m confident that a
 
 Apes we are going to blow right past large sums of money that a lot you have never experienced. It will be tempting when the rocket ignites. Be strong.  Trust in each other. This isn’t finiciacal advice. Hell I can’t even spell financial without spellcheck. I am 100% holding until this mother moons at $1,000,000 a share. Period. I will sell if it hits $10,000,000 for sure. But not I’m not selling until it hits a million and comes down. Diamond hands. We’re going close on these clowns.  It’s going to be amazing 
 
-Oh shit $25 ![The simulation has been confirmed. ](https://www.reddit.com/r/GME/comments/mgryec/true_value_of_a_gme_share_update_25m_per_share/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+Oh shit $25 [The simulation has been confirmed. ](https://www.reddit.com/r/GME/comments/mgryec/true_value_of_a_gme_share_update_25m_per_share/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
 
 💎👋👋🦍🦍🦍🦍🚀🚀🚀🚀

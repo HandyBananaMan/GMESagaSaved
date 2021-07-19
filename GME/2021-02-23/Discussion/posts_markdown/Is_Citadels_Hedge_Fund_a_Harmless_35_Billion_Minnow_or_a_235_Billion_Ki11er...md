@@ -1,5 +1,6 @@
-# Author: jabulanijonny
-# Post URL: [https://www.reddit.com/r/GME/comments/lqxhxb/is_citadels_hedge_fund_a_harmless_35_billion/](https://www.reddit.com/r/GME/comments/lqxhxb/is_citadels_hedge_fund_a_harmless_35_billion/)
+#Title: Is Citadel’s Hedge Fund a Harmless $35 Billion Minnow or a $235 Billion Ki11er Shark?
+#Author: jabulanijonny
+#Post URL: [https://www.reddit.com/r/GME/comments/lqxhxb/is_citadels_hedge_fund_a_harmless_35_billion/](https://www.reddit.com/r/GME/comments/lqxhxb/is_citadels_hedge_fund_a_harmless_35_billion/)
 
 
 Literally my 2nd post, cause I’m a lurker. Forgive if I didn’t do it right.  Seriously, it blocked on the word “ki11”?  

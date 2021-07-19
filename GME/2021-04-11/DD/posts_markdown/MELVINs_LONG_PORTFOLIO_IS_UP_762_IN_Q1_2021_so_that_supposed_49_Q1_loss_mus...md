@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/](https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/)
+#Title: MELVIN's LONG PORTFOLIO IS UP 7.62% IN Q1 2021, so that supposed 49% Q1 loss must be REAL bad. Was someone naked shorting stocks for the big boys to try and impress them so he's finally let in on the big boy conversations? [SEC 13-F filings and stock price data analysis] [Evidence-backed DD]
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/](https://www.reddit.com/r/GME/comments/moydln/melvins_long_portfolio_is_up_762_in_q1_2021_so/)
 
 
 Hey guys,
@@ -18,9 +19,9 @@ For the period ending 31 DEC, he reported to the SEC a **Portfolio Value of $22,
 
 **In this report for 31 DEC 2020, Mr. Melvin reports holding $19,787,325,000 LONG in the following stocks:**
 
-[ Great bet on AVIS, Mr Melvin! I will spend it wisely. ](https://preview.redd.it/hr7vlwnjqls61.png?width=1237&format=png&auto=webp&s=9d11ea5b064f6069168c48e1867b6dbd4237f88a)
+![ Great bet on AVIS, Mr Melvin! I will spend it wisely. ](https://preview.redd.it/hr7vlwnjqls61.png?width=1237&format=png&auto=webp&s=9d11ea5b064f6069168c48e1867b6dbd4237f88a)
 
-[ ANF sure turned out to be a shrewd pick, huh?! Good going Gabe! ](https://preview.redd.it/bpqj8hmkqls61.png?width=1123&format=png&auto=webp&s=c2d6405f9d8e2972112627d2ec3ef7e27846fb6d)
+![ ANF sure turned out to be a shrewd pick, huh?! Good going Gabe! ](https://preview.redd.it/bpqj8hmkqls61.png?width=1123&format=png&auto=webp&s=c2d6405f9d8e2972112627d2ec3ef7e27846fb6d)
 
 ![ Gabe with the X-ray vision on XRAY! ](https://preview.redd.it/gz9g0mglqls61.png?width=1122&format=png&auto=webp&s=99162f28d1fb13527e5cea35954999970acfafa2)
 

@@ -1,5 +1,6 @@
-# Author: CuriousCatNYC777
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/](https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/)
+#Title: European Financial News is Reporting Major MARGIN CALLS are Already Happening on Wall Street... and the Feds Have Quietly Issued Billions in Emergency Bail Out Loans to Financial Institutions Over the Past Two Days
+#Author: CuriousCatNYC777
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/](https://www.reddit.com/r/Superstonk/comments/nb9pon/european_financial_news_is_reporting_major_margin/)
 
 
 &#x200B;
@@ -30,7 +31,7 @@ Today, **the US CPI figure made an impression, the highest since 1981 with its +
 
 &#x200B;
 
-[Source: Pearkes](https://preview.redd.it/hwnu7vmrtty61.png?width=528&format=png&auto=webp&s=38b2ca1b3f751e0f2e1ea8815e113f0c30c1ebbc)
+![Source: Pearkes](https://preview.redd.it/hwnu7vmrtty61.png?width=528&format=png&auto=webp&s=38b2ca1b3f751e0f2e1ea8815e113f0c30c1ebbc)
 
 from which it is clear that the greatest contribution to that leap comes substantially from the used car sector. **In fact, a critical multiplier within the real economy.** On the one hand, in fact, it acts as a proxy for the production difficulties in the "new" branch due to the shortage of semiconductors, on the other it shows the nefarious and immediate effects of the deluge of liquidity that rained down on the current accounts of millions of Americans with the federal check Biden pandemic support plan.
 

@@ -1,5 +1,6 @@
-# Author: bbbhavane
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqu4ty/what_i_think_their_plan_was_and_why_i_think_they/](https://www.reddit.com/r/Superstonk/comments/nqu4ty/what_i_think_their_plan_was_and_why_i_think_they/)
+#Title: What I think their plan was and Why I think they failed
+#Author: bbbhavane
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqu4ty/what_i_think_their_plan_was_and_why_i_think_they/](https://www.reddit.com/r/Superstonk/comments/nqu4ty/what_i_think_their_plan_was_and_why_i_think_they/)
 
 
 We've seen that the movie stock increased in price in the last week or so, and I believe this is the result of a well thought plan by the HF. Let me put it this way, but don't quote me on this, I'm just a dumb ape who happened to THINK?! for a second:

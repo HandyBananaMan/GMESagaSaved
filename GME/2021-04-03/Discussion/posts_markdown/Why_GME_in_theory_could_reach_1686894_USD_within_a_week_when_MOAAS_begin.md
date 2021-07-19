@@ -1,5 +1,6 @@
-# Author: isnisse
-# Post URL: [https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/](https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/)
+#Title: Why GME in theory could reach 1.686.894 USD within a week when MOAAS begin
+#Author: isnisse
+#Post URL: [https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/](https://www.reddit.com/r/GME/comments/mjhirw/why_gme_in_theory_could_reach_1686894_usd_within/)
 
 
 Hello my dear apes, I got an interesting idea to bring to you guys. I have finally gained not 1, not 2, but 3 wrinkles on my pinky brain.
@@ -41,7 +42,7 @@ Formula:
 
 &#x200B;
 
-[The formula  i'm using is this one:](https://preview.redd.it/54sbuqn8y0r61.png?width=110&format=png&auto=webp&s=8191defc5e8a50ba255c2a240566cc0303dacca9)
+![The formula  i'm using is this one:](https://preview.redd.it/54sbuqn8y0r61.png?width=110&format=png&auto=webp&s=8191defc5e8a50ba255c2a240566cc0303dacca9)
 
 **A** is the current price of GME, let's say right now it's 200 USD.
 

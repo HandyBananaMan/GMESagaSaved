@@ -1,5 +1,6 @@
-# Author: harryblakk
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/muoals/uatobitt_told_me_hes_a_few_hours_out_with_his_new/](https://www.reddit.com/r/Superstonk/comments/muoals/uatobitt_told_me_hes_a_few_hours_out_with_his_new/)
+#Title: u/atobitt told me he’s a few hours out with his new DD and that “You’re gonna shit.”
+#Author: harryblakk
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/muoals/uatobitt_told_me_hes_a_few_hours_out_with_his_new/](https://www.reddit.com/r/Superstonk/comments/muoals/uatobitt_told_me_hes_a_few_hours_out_with_his_new/)
 
 
 I’m jacked to the fuxking TITS. 

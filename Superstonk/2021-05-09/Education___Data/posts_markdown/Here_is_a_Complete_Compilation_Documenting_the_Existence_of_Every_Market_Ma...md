@@ -1,5 +1,6 @@
-# Author: Golden_D9
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
+#Title: Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga
+#Author: Golden_D9
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
 
 
 **TL;DR** To all the shills screaming "SuPeRsToNk iS lItErAlLy QaNoN", here is a complete list of market manipulation tactics used by Hedgies so far as documented by PhDs, professors, CEOs, and people that are generally in all accounts way smarter than you. Enjoy. **💎🙌 🚀**
@@ -159,12 +160,12 @@ Now, ok. A list of forum manipulation tactics isn't really actual evidence. Do w
 * **LADIES AND GENTLEMEN, WE GOT EM**
    * [https://www.reddit.com/r/GME/comments/ly07ap/ladies\_and\_gentlemen\_we\_got\_em/](https://www.reddit.com/r/GME/comments/ly07ap/ladies_and_gentlemen_we_got_em/)
 * **Ass and Twitty**
-   * [https://imgur.com/gallery/q4GECmh](https://imgur.com/gallery/q4GECmh)
+   * ![https://imgur.com/gallery/q4GECmh](https://imgur.com/gallery/q4GECmh)
 
 Last but not least, for those who would like to "know thy enemy" so to say, here is a speech by Ken Griffin uploaded in 2013.
 
 * **Ken Griffin Speech - Economic Club of Chicago (ECC) - May 2013**
-   * ![https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
+   * [https://www.youtube.com/watch?v=9cwf-JrrE9g](https://www.youtube.com/watch?v=9cwf-JrrE9g)
 
 \-------------------
 

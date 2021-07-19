@@ -1,5 +1,6 @@
-# Author: Antioch_Orontes
-# Post URL: [https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/)
+#Title: 🦍💬 [TOO APE DIDN'T READ] — Summary of SR-NSCC-2021-801: Amendment of Supplemental Liquidity Deposit Requirements for the functionally illiterate
+#Author: Antioch_Orontes
+#Post URL: [https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/](https://www.reddit.com/r/GME/comments/mc0zfn/too_ape_didnt_read_summary_of_srnscc2021801/)
 
 
 # 🦍💬 What the fuck are you talking about?
@@ -59,7 +60,7 @@ Here are possible outcomes:
 The SEC invites interested persons to submit views, data, and arguments for or against NSCC-801. You can submit it by either:
 
 * Using the form at [http://www.sec.gov/rules/sro.shtml](http://www.sec.gov/rules/sro.shtml)
-* Emailing them at ![rule-comments@sec.gov](mailto:rule-comments@sec.gov) with File Number SR-NSCC-2021-801 in the subject line.
+* Emailing them at [rule-comments@sec.gov](mailto:rule-comments@sec.gov) with File Number SR-NSCC-2021-801 in the subject line.
 
 Please don’t fill their mailbox with apespeak and emojis, but making your opinion on NSCC-801 heard is never a bad thing. You are a participant in the market, one who may be affected by this rule if it passes, so your voice matters, and this is an opportunity for the SEC to hear from retail investors, who historically don’t speak up much on these things.
 

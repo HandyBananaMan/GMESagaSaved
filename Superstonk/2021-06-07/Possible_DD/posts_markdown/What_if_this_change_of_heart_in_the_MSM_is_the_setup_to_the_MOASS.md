@@ -1,5 +1,6 @@
-# Author: FakeAsian
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nupmvx/what_if_this_change_of_heart_in_the_msm_is_the/](https://www.reddit.com/r/Superstonk/comments/nupmvx/what_if_this_change_of_heart_in_the_msm_is_the/)
+#Title: What if this change of heart in the MSM is the setup to the MOASS?
+#Author: FakeAsian
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nupmvx/what_if_this_change_of_heart_in_the_msm_is_the/](https://www.reddit.com/r/Superstonk/comments/nupmvx/what_if_this_change_of_heart_in_the_msm_is_the/)
 
 
 Alright so put on your tinfoil hats and prepare those titties my ape friends because I have a theory I would like to discuss with you all. Before I start, I need to mention that this is in no way financial advice. I am just an ape who has dabbled in investing for the last few years but got balls deep into the GME saga just as you all did back in January. With that being said, I am going to reference some points that have been mentioned, discussed, and fact-checked many times here in the last few months, so if you're questioning any of the assumptions made here, there is plenty of DD to back up why I came to different conclusions. Now, to the juicy stuff you all came here for!
@@ -16,9 +17,9 @@ But I saw a post earlier either here or in the movie stock sub, talking about ho
 
 &#x200B;
 
-[Ownership of News Corp. according to FINTEL](https://preview.redd.it/nqhhify44x371.png?width=1252&format=png&auto=webp&s=79a7eb09dd6c93df76a0184513a0298e52bf5279)
+![Ownership of News Corp. according to FINTEL](https://preview.redd.it/nqhhify44x371.png?width=1252&format=png&auto=webp&s=79a7eb09dd6c93df76a0184513a0298e52bf5279)
 
-![https://fintel.io/so/us/nws](https://fintel.io/so/us/nws)
+[https://fintel.io/so/us/nws](https://fintel.io/so/us/nws)
 
 Well well, look who we've got up top... our frenemies, **Vanguard and Blackrock**. Now, Citadel also owns a portion of News Corp, even increasing their position from 5 mill shares in Jan 2021 to 6.5 mill shares in March 2021, but combined, Vanguard and Blackrock own **more than 10x what Citadel does.**
 

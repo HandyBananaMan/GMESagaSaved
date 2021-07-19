@@ -1,5 +1,6 @@
-# Author: young_peepee
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocvqzc/i_dont_want_a_lambo/](https://www.reddit.com/r/Superstonk/comments/ocvqzc/i_dont_want_a_lambo/)
+#Title: I don't want a lambo
+#Author: young_peepee
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocvqzc/i_dont_want_a_lambo/](https://www.reddit.com/r/Superstonk/comments/ocvqzc/i_dont_want_a_lambo/)
 
 
 I will buy a normal car, a normal house and I will get a job I enjoy doing.

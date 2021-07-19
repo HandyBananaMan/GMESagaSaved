@@ -1,5 +1,6 @@
-# Author: Eastern_Ad_4441
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxcraq/gme_officially_announced_moving_out_of_russell/](https://www.reddit.com/r/Superstonk/comments/nxcraq/gme_officially_announced_moving_out_of_russell/)
+#Title: GME Officially Announced moving out of Russell MicroCap last Friday. Should have announcement about Russle 2000 today
+#Author: Eastern_Ad_4441
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxcraq/gme_officially_announced_moving_out_of_russell/](https://www.reddit.com/r/Superstonk/comments/nxcraq/gme_officially_announced_moving_out_of_russell/)
 
 
 https://content.ftserussell.com/sites/default/files/russell_microcap_deletions_-_2021.pdf

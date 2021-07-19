@@ -1,5 +1,6 @@
-# Author: animasoul
-# Post URL: [https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/](https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/)
+#Title: Mystery of the negative beta SOLVED: HFs are levered to the tits + my market watch 25Mar21: where we are now & what we can expect for the future
+#Author: animasoul
+#Post URL: [https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/](https://www.reddit.com/r/GME/comments/mcwu5m/mystery_of_the_negative_beta_solved_hfs_are/)
 
 
 **Disclaimer:** I am not a financial advisor. I am just an ape with half a master’s degree in finance and financial law (EDIT: am still writing the dissertation) and some imagination. No crayons were harmed in the making of this post.
@@ -8,7 +9,7 @@ Remember that beta reflects the **market risk**, or **systematic risk**. That me
 
 **GME’s beta is currently -4.6** taking the Dow Jones as the benchmark, according to **Macroaxis**. I like Macroaxis because it looks like the content is written by an AI bot with some light human editing, so they are probably just letting the beta bots do their thing without much incentive to skew numbers because they are not a media outlet. [https://www.macroaxis.com/volatility/GME/GameStop](https://www.macroaxis.com/volatility/GME/GameStop)
 
-[GME beta -4.6](https://preview.redd.it/29m8vzacy5p61.png?width=213&format=png&auto=webp&s=e40035d7aa31878769c5b41209452fb69ab45d0c)
+![GME beta -4.6](https://preview.redd.it/29m8vzacy5p61.png?width=213&format=png&auto=webp&s=e40035d7aa31878769c5b41209452fb69ab45d0c)
 
 I demonstrated in my Beta Part 2 post here:
 
@@ -38,11 +39,11 @@ I recommend watching **The Truman Show** and the BBC television series **McMafia
 
 &#x200B;
 
-[Truman as a normie in the normie world](https://preview.redd.it/3rtn3dgwy5p61.jpg?width=312&format=pjpg&auto=webp&s=b3423e14a1e1a7a7db57d2ea4f99664423ec8624)
+![Truman as a normie in the normie world](https://preview.redd.it/3rtn3dgwy5p61.jpg?width=312&format=pjpg&auto=webp&s=b3423e14a1e1a7a7db57d2ea4f99664423ec8624)
 
 &#x200B;
 
-[The real world. Can you handle it? This ape could.](https://preview.redd.it/beiuy0kbz5p61.jpg?width=410&format=pjpg&auto=webp&s=94a529aeaaa585c1d5bfb031223dea885b9bc72c)
+![The real world. Can you handle it? This ape could.](https://preview.redd.it/beiuy0kbz5p61.jpg?width=410&format=pjpg&auto=webp&s=94a529aeaaa585c1d5bfb031223dea885b9bc72c)
 
 That is the territory we are in now apes. The SEC is the sheriff in town but they are only the sheriff for the normies who are still living in The Truman Show with their ETFs and a pension that might never pay out when they hit 65, or whatever the pay-out age is now. The nice lady on the mainstream media news keeps them sedated so they can sleep at night. If apes are going to go into mafia territory – *we are talking criminal manipulation of systemic risks across the global markets* – the sheriff’s hands are tied. The professionals already know all of this, that’s why they tell normies to stay out of the markets except insofar as their savings can be milked for a small compensation. That’s why they say the apes are stupid. *That’s why apes have to get professional and be aware of what staying in this game means*. If you can lose the money and you want to play, then stay in the game for the long haul until the very end and keep your eyes open. If you can’t afford to lose your investment, then consider how much risk you are willing to expose yourself to going forward. ***GME is not what it was when DFV started all of this. The beta has flipped and so has the game.***
 
@@ -54,17 +55,17 @@ The game got a lot bigger. Now it’s about the whole market, not just GME. I th
 
 &#x200B;
 
-[Persona 5: Alternate worlds](https://preview.redd.it/va9qfuonz5p61.jpg?width=580&format=pjpg&auto=webp&s=0c0844ce073976adbf4245ec1c7868701977302b)
+![Persona 5: Alternate worlds](https://preview.redd.it/va9qfuonz5p61.jpg?width=580&format=pjpg&auto=webp&s=0c0844ce073976adbf4245ec1c7868701977302b)
 
 In Persona 4, the portal to the other world manifests as a glitch in the normal world – a weird TV set in a mall. The weird beta is the equivalent of the weird TV set.
 
 &#x200B;
 
-[Glitch in the normie world\/Portal to alternate world](https://preview.redd.it/ufv3akusz5p61.jpg?width=581&format=pjpg&auto=webp&s=91bfff7cc9aa19071168297dbbe04ecbcf1e40bd)
+![Glitch in the normie world\/Portal to alternate world](https://preview.redd.it/ufv3akusz5p61.jpg?width=581&format=pjpg&auto=webp&s=91bfff7cc9aa19071168297dbbe04ecbcf1e40bd)
 
 Remember the chart that was kindly shared by the Chief US Economist on Twitter [https://twitter.com/GregDaco/status/1369844561862856706](https://twitter.com/GregDaco/status/1369844561862856706)
 
-[The players](https://preview.redd.it/46tksb6yz5p61.png?width=584&format=png&auto=webp&s=05ec080aa49345eb1b2a06e59a1c986927882607)
+![The players](https://preview.redd.it/46tksb6yz5p61.png?width=584&format=png&auto=webp&s=05ec080aa49345eb1b2a06e59a1c986927882607)
 
 Market-wide, who’s the biggest in the room? The market makers by far. Who’s second-biggest? Retail. Bigger than all hedge funds and mutual funds combined.
 

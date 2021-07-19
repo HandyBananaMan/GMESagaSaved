@@ -1,5 +1,6 @@
-# Author: SurVVhyNot
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oc2w7v/nft_dividend_do_you_really_want_to_know_the/](https://www.reddit.com/r/Superstonk/comments/oc2w7v/nft_dividend_do_you_really_want_to_know_the/)
+#Title: NFT Dividend - Do you really want to know the purpose? Here it goes...
+#Author: SurVVhyNot
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oc2w7v/nft_dividend_do_you_really_want_to_know_the/](https://www.reddit.com/r/Superstonk/comments/oc2w7v/nft_dividend_do_you_really_want_to_know_the/)
 
 
 **Non-Fungible Token Dividend**  

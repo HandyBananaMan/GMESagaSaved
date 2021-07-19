@@ -1,5 +1,6 @@
-# Author: JuxtaposeLife
-# Post URL: [https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/](https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/)
+#Title: Our Whale is Suppressing Volatility to Bleed HFs -- Max Pain Explained
+#Author: JuxtaposeLife
+#Post URL: [https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/](https://www.reddit.com/r/GME/comments/mi1a5r/our_whale_is_suppressing_volatility_to_bleed_hfs/)
 
 
 I'll keep this brief, I used up the last of my Adderall on that DD yesterday.
@@ -16,7 +17,7 @@ Warning... only one picture ahead and a wall of text, arguably some fractional s
 
 This, is not normal... that's volume minute by minute
 
-[12:20ish 4\/1 trading GME](https://preview.redd.it/2hrqqsv4rlq61.png?width=1495&format=png&auto=webp&s=afd396ca8d4e45cef312bb385d83bf8eb4ee8a8e)
+![12:20ish 4\/1 trading GME](https://preview.redd.it/2hrqqsv4rlq61.png?width=1495&format=png&auto=webp&s=afd396ca8d4e45cef312bb385d83bf8eb4ee8a8e)
 
 that large movement of $2 in price in low volume, then sudden brakes applied to the movement with high volume to bring it back.... it's not isolated either. This has been happening since last Thursday, after we corrected from those Media shenanigans after the Q4 Earnings Report (down to $115, and right back up to $180).
 

@@ -1,5 +1,6 @@
-# Author: righttoplay
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7dnhf/ryan_cohens_tweet_the_actual_meaning_from_south/](https://www.reddit.com/r/Superstonk/comments/o7dnhf/ryan_cohens_tweet_the_actual_meaning_from_south/)
+#Title: 🔴 Ryan Cohen's tweet THE ACTUAL MEANING from South Park! TITS JACKED 🔴 🚀🚀🚀
+#Author: righttoplay
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7dnhf/ryan_cohens_tweet_the_actual_meaning_from_south/](https://www.reddit.com/r/Superstonk/comments/o7dnhf/ryan_cohens_tweet_the_actual_meaning_from_south/)
 
 
 u/prsmike has correctly pointed out that the above scene from the tweet is different.  [https://twitter.com/GMEdd/status/1407901613424054276?s=09](https://twitter.com/GMEdd/status/1407901613424054276?s=09)
@@ -38,6 +39,6 @@ Edit 2: u/SanchoUSA has pointed out the clip is exactly 4:20!!
 
 Edit 3: Tits literally at 3:20
 
-Edit 4: Buckle Up Buckeroo  ![Buckle Up Buckaroo - YouTube](https://www.youtube.com/watch?v=GL-kcDm6uzs) 
+Edit 4: Buckle Up Buckeroo  [Buckle Up Buckaroo - YouTube](https://www.youtube.com/watch?v=GL-kcDm6uzs) 
 
 &#x200B;

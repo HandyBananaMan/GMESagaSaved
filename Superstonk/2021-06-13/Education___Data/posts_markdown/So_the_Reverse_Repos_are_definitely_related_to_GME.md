@@ -1,5 +1,6 @@
-# Author: jaybaumyo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/](https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/)
+#Title: So the Reverse Repo's are definitely related to GME
+#Author: jaybaumyo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/](https://www.reddit.com/r/Superstonk/comments/nyqnqh/so_the_reverse_repos_are_definitely_related_to_gme/)
 
 
 Credit to u/criand for pointing this out in a comment.
@@ -16,35 +17,35 @@ Here is some GME green lines to refresh everyone's memory:
 
 &#x200B;
 
-[January price action](https://preview.redd.it/9vszopnl8z471.png?width=427&format=png&auto=webp&s=3bc5900aa156a301ae0a29b3cbd1bbcf46f8491c)
+![January price action](https://preview.redd.it/9vszopnl8z471.png?width=427&format=png&auto=webp&s=3bc5900aa156a301ae0a29b3cbd1bbcf46f8491c)
 
 &#x200B;
 
-[February cute little spike there](https://preview.redd.it/ksdxq8fz8z471.png?width=705&format=png&auto=webp&s=724d90063ae75c13d27301cc13081ca274e69503)
+![February cute little spike there](https://preview.redd.it/ksdxq8fz8z471.png?width=705&format=png&auto=webp&s=724d90063ae75c13d27301cc13081ca274e69503)
 
 And here is the corresponding Reverse Repo graph:
 
 &#x200B;
 
-[Reverse Repo for Jan and Feb](https://preview.redd.it/qyeyuplr8z471.png?width=1167&format=png&auto=webp&s=c0286977bcb7086884c091f88eb4edcac830b3e8)
+![Reverse Repo for Jan and Feb](https://preview.redd.it/qyeyuplr8z471.png?width=1167&format=png&auto=webp&s=c0286977bcb7086884c091f88eb4edcac830b3e8)
 
 Well look at that!  It appears there is a build up in repo starting on the 28th, which spikes up on the 29th, same day as the second GME peak and following drop (likely some type of short attack with synthetics or something).  Then again on the 24th and 25th of Feb, we see a large increase in price in GME and a much larger increases in repos on the 26th and 27th.  Hmm...
 
 &#x200B;
 
-[Here's that really gorgeous peak in March 10th.  Got me some shares on the way up to that one.  Absolute beauts.  They look fantastic in my collection of positions.](https://preview.redd.it/4rkmdbcm9z471.png?width=565&format=png&auto=webp&s=8a7741d46ece6dc6dcca89c986b80f487fd2db9c)
+![Here's that really gorgeous peak in March 10th.  Got me some shares on the way up to that one.  Absolute beauts.  They look fantastic in my collection of positions.](https://preview.redd.it/4rkmdbcm9z471.png?width=565&format=png&auto=webp&s=8a7741d46ece6dc6dcca89c986b80f487fd2db9c)
 
 &#x200B;
 
 &#x200B;
 
-[Here's the rest of the graph there, it important for the next picture...](https://preview.redd.it/a6gbf37taz471.png?width=453&format=png&auto=webp&s=bc55b1cad5cc82a08f66291cdb80aedcbaf84b13)
+![Here's the rest of the graph there, it important for the next picture...](https://preview.redd.it/a6gbf37taz471.png?width=453&format=png&auto=webp&s=bc55b1cad5cc82a08f66291cdb80aedcbaf84b13)
 
 &#x200B;
 
 &#x200B;
 
-[Here's the repos for a similar period](https://preview.redd.it/6a0scca5bz471.png?width=1154&format=png&auto=webp&s=98b19d10b2c0ca570db29e969db827f9836ae747)
+![Here's the repos for a similar period](https://preview.redd.it/6a0scca5bz471.png?width=1154&format=png&auto=webp&s=98b19d10b2c0ca570db29e969db827f9836ae747)
 
 So here we have another nice little 11 billion spike around march 10.  But what I really love about this graph, is that GME didn't really tank again.  It stayed fairly strong.  And what do you know?  The repo rates are no longer flatlining ever.  They just start going up and up.
 

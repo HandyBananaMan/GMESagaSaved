@@ -1,5 +1,6 @@
-# Author: sadak66
-# Post URL: [https://www.reddit.com/r/GME/comments/ndq3q0/made_456_dollars_driving_for_uber_this_week_guess/](https://www.reddit.com/r/GME/comments/ndq3q0/made_456_dollars_driving_for_uber_this_week_guess/)
+#Title: Made $456 dollars driving for Uber this week. Guess what I did with it........
+#Author: sadak66
+#Post URL: [https://www.reddit.com/r/GME/comments/ndq3q0/made_456_dollars_driving_for_uber_this_week_guess/](https://www.reddit.com/r/GME/comments/ndq3q0/made_456_dollars_driving_for_uber_this_week_guess/)
 
 
 I did not buy a Lambo with it.  

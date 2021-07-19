@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/](https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/)
+#Title: Infinity War: The Final Exit DD Compilation
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/](https://www.reddit.com/r/Superstonk/comments/nogxnr/infinity_war_the_final_exit_dd_compilation/)
 
 
 Hello Superstonk!
@@ -18,7 +19,7 @@ Well, I guess I'll begin by going over some things about me I am generally a day
 
 Normally if I hit 10% profit on a regular trade I'm out unless I have some previous reason to believe It will run further.
 
-[Usual Day Trade \(Buy low, sell high\)](https://preview.redd.it/yiqblcr56a271.png?width=766&format=png&auto=webp&s=896261c0c5baf1b77f87bad783f4ab197d967a80)
+![Usual Day Trade \(Buy low, sell high\)](https://preview.redd.it/yiqblcr56a271.png?width=766&format=png&auto=webp&s=896261c0c5baf1b77f87bad783f4ab197d967a80)
 
 **GME WILL RUN FURTHER, MUCH FURTHER**
 
@@ -51,7 +52,7 @@ I asked these two questions a lot and most of my answers fell short. I do believ
 
 First thing all this will be defined at the 1-min timescale on the charts. I believe this timing will be most relevant in defining peaks. I will break this into sections and address each one.
 
-[3 Pillars of the Squeeze](https://preview.redd.it/gh565p6q6a271.png?width=1679&format=png&auto=webp&s=b4b6f33e3fe83fb3a0fbb40868f26771a70844c0)
+![3 Pillars of the Squeeze](https://preview.redd.it/gh565p6q6a271.png?width=1679&format=png&auto=webp&s=b4b6f33e3fe83fb3a0fbb40868f26771a70844c0)
 
 **PART A: THE ASCENT**
 
@@ -59,45 +60,45 @@ Part I: Upwards Price Movement (We are here)
 
 This period will be marked by increasing upwards price movement, channel to channel, then periods of consolidation. This is normal price movement not necessarily volatile but it can be at times. This will be the movement as GME ascend upwards in the early stages.
 
-[Resistance-Test-Break-Repeat](https://preview.redd.it/lrb6i86y6a271.png?width=1809&format=png&auto=webp&s=27985a3f32fc17ddfcff65935bc3b7f374e545a2)
+![Resistance-Test-Break-Repeat](https://preview.redd.it/lrb6i86y6a271.png?width=1809&format=png&auto=webp&s=27985a3f32fc17ddfcff65935bc3b7f374e545a2)
 
 This period can take weeks, months, or minutes. We have seen in the past the price can jump very rapidly in some cases. The end of this stage will most likely be marked by faster and faster moves through these resistance levels. Bringing us to our next step in the ascent.
 
-[Current GME Chat on the 4HR Timescale](https://preview.redd.it/2mwjel3p7a271.png?width=1597&format=png&auto=webp&s=7403c701339d4096495725073733dd6fc9d8f839)
+![Current GME Chat on the 4HR Timescale](https://preview.redd.it/2mwjel3p7a271.png?width=1597&format=png&auto=webp&s=7403c701339d4096495725073733dd6fc9d8f839)
 
 Part II: FOMO (Buckle up T - 10, 9, 8...)
 
 The faster and faster breaks in upper resistance levels are going to ignite interest in the stock, as large and small buyers rush in to capitalize on the squeeze. This is where **fear** begins to take affect as the price start moving quickly upwards some will be afraid of becoming a bag holder. **Don't worry this is just the beginning**. This Period will be marked by exponentially larger candles as volume rushes in and more price movement occurs in shorter and shorter time frames. There will be halts, there will be dips after those halts, as paper-hands, day-traders, and institutions cannibalize each other for small profits. **Breath here, stay CALM.** This period will mark the wildest price swings as volatility picks up. This will be the first pressure test of those Diamond Hands you've been bragging about.
 
-[Price rises into a Halt, then dips, quickly recovering to the upside](https://preview.redd.it/27u2kfm98a271.png?width=969&format=png&auto=webp&s=8bde03271d695e981eab49d0514eac2e9792c423)
+![Price rises into a Halt, then dips, quickly recovering to the upside](https://preview.redd.it/27u2kfm98a271.png?width=969&format=png&auto=webp&s=8bde03271d695e981eab49d0514eac2e9792c423)
 
 Part III: The Margin Calls (Lift Off)
 
 This is the moment everyone has been waiting the flight path to the moon! At some point we will hit a price, nobody knows what that price is, I estimate somewhere between 250 and 600, but may begin on some positions at a lower price. Whatever the price is, here is the moment that shorts must concede their position. The Margin Call will be marked by a significant number of halts and large green candles. The volume and range of these candles will increase dramatically from the previous stage. There will be many more halts, possibly on each candlestick, as the open market orders go un-filled the bid will continue to increase. So expect a pattern, of **unhalt -rapid rise- halt**. We will probably have more time halted than actual trading as the price explodes. Additionally, there should be very little red after the halts as upward pressure would be to great. Psychologically, this part will be easier as there is nothing to do but watch the brief periods of active trading closely. I expect this to go on for awhile, possibly days.
 
-[Expect many halts during this period these are absolutely normal and expected](https://preview.redd.it/9jw35sjt8a271.png?width=709&format=png&auto=webp&s=e2536c50b76016c9f8fc669a4d50cc55e805c893)
+![Expect many halts during this period these are absolutely normal and expected](https://preview.redd.it/9jw35sjt8a271.png?width=709&format=png&auto=webp&s=e2536c50b76016c9f8fc669a4d50cc55e805c893)
 
 **PART B: THE PEAK**
 
 &#x200B;
 
-[The Peaks](https://preview.redd.it/yvrwq5e89a271.png?width=700&format=png&auto=webp&s=dbbea10be2906bab5ef3c022fcc3e26def3cc9c0)
+![The Peaks](https://preview.redd.it/yvrwq5e89a271.png?width=700&format=png&auto=webp&s=dbbea10be2906bab5ef3c022fcc3e26def3cc9c0)
 
 As all good things, even the Margin Call must come to an end at some point. So, how can this be identified? The first thing we will see is fewer halts and decreasing volume as we approach the peak. Some selling should be seen in here as holders attempt to time the peak. Large upwards movement, some selling, another upwards movement. After looking at VW (2008) and GME's small squeeze in January, I feel the breaking of the peak will be marked by a series of descending [dogi's](https://www.investopedia.com/terms/d/doji.asp). Think of this as little booster rockets easing our descent onto the moon. decreasing in volume as apes finally begin their moon landing. Then patterns of large sells and smaller ascending candles. Lower highs, and lower lows.
 
 **This is when an exit can start to be planned**.
 
-[ A period marked by decreasing volume, lower highs and lower lows. You will have time to confirm this, This is not the time to be impatient. ](https://preview.redd.it/f8cjje82ba271.png?width=1397&format=png&auto=webp&s=d36dae731e15fda1a0392e317eee53d8117f6fe8)
+![ A period marked by decreasing volume, lower highs and lower lows. You will have time to confirm this, This is not the time to be impatient. ](https://preview.redd.it/f8cjje82ba271.png?width=1397&format=png&auto=webp&s=d36dae731e15fda1a0392e317eee53d8117f6fe8)
 
 Given new information that has come to light since I wrote the original DD. I do believe that this stage will begin after the SI% has dropped to near 100%. So at this point I think that SHFs or their Insurers(DTCC, FED, etc...) will have covered via institutions and other holders all but the remaining retail positions. This entire stage is defined by apes negotiating power as we should be able to choose the price from here on out. This is where the all that hodl'ing pays off. Furthermore the length of time we stay in these peaks should be defined by the retail ownership, the longer we hodl the longer it lasts.
 
-[Apes are the Porsche\/Government in the GME squeeze except we own more of the float and the SI is way, way higher...read this twice](https://preview.redd.it/mvqme7apca271.png?width=1004&format=png&auto=webp&s=2d56045090d485d6b0114c844ebf0bd495570be1)
+![Apes are the Porsche\/Government in the GME squeeze except we own more of the float and the SI is way, way higher...read this twice](https://preview.redd.it/mvqme7apca271.png?width=1004&format=png&auto=webp&s=2d56045090d485d6b0114c844ebf0bd495570be1)
 
-[ This is the first verifiable exit point at the apex of this wedge confirming a downtrend on the next candlestick. This is only the first of these patterns to play out. ](https://preview.redd.it/q828at2hba271.png?width=1694&format=png&auto=webp&s=1da50bb698c84cf8b6966642fb7dcfcd48723564)
+![ This is the first verifiable exit point at the apex of this wedge confirming a downtrend on the next candlestick. This is only the first of these patterns to play out. ](https://preview.redd.it/q828at2hba271.png?width=1694&format=png&auto=webp&s=1da50bb698c84cf8b6966642fb7dcfcd48723564)
 
 Several of these patterns should form as we remain in the peaks **BE VERY CAREFUL HERE** as selling all of a position at the first sign of a wedge forming can reduce potential profits. Why? Well because this wedge that formed above **could break up**.
 
-[ Notice how after Exit 1 the price broke upwards. This is why it is less profitable to exit an entire position all at once. It's much more beneficial to slowly back out of a position at several points so as to maximize profit. ](https://preview.redd.it/3ky8899uba271.png?width=1391&format=png&auto=webp&s=52c14c867b8897fc35fed8d1fe09263ad22b67da)
+![ Notice how after Exit 1 the price broke upwards. This is why it is less profitable to exit an entire position all at once. It's much more beneficial to slowly back out of a position at several points so as to maximize profit. ](https://preview.redd.it/3ky8899uba271.png?width=1391&format=png&auto=webp&s=52c14c867b8897fc35fed8d1fe09263ad22b67da)
 
 As this pattern continues eventually we will see larger and larger price decreases as each wedge breaks down and shorts are covered. This action will mark the beginning of the next phase.
 
@@ -105,7 +106,7 @@ As this pattern continues eventually we will see larger and larger price decreas
 
 &#x200B;
 
-[This stage will be easily verifiable as massive decreases in price will occur between halts very similar to the Margin Call stage but in reverse this is the last opportunity to exit remaining positions at high amounts. ](https://preview.redd.it/dkvu5n4rda271.png?width=735&format=png&auto=webp&s=1c80448e1f69c5d8f68aa4352ded83f17418113a)
+![This stage will be easily verifiable as massive decreases in price will occur between halts very similar to the Margin Call stage but in reverse this is the last opportunity to exit remaining positions at high amounts. ](https://preview.redd.it/dkvu5n4rda271.png?width=735&format=png&auto=webp&s=1c80448e1f69c5d8f68aa4352ded83f17418113a)
 
 As the larger and larger price drops pick up steam, there will be more halts. Once these large sell offs are confirmed this is the point at which you hope all your positions are closed (I will be holding 10% forever so the x and xx apes can maximize returns, and morbid curiosity). We are returning to earth so we can spend all the tendies we picked-up on that moon landing. The price will begin it's descent back to levels previously traded at and possibly lower. This could be the last dip-buy in GME's history. If you are long GME as I am, this will present an opportunity to get back in on a company that I believe has a bright and profitable future.
 
@@ -141,7 +142,7 @@ So here are the order types and their pros and cons.
 
 I suggest that everyone read these links this is important information to understand. Also [this one](https://www.investopedia.com/articles/active-trading/091813/which-order-use-stoploss-or-stoplimit-orders.asp).
 
-[ Pros and Cons of Each Order type. This does not reflect best use during MOASS. ](https://preview.redd.it/3veoviqcga271.png?width=2053&format=png&auto=webp&s=5106929f7a670a68180f5d7948b1c4e7192a6404)
+![ Pros and Cons of Each Order type. This does not reflect best use during MOASS. ](https://preview.redd.it/3veoviqcga271.png?width=2053&format=png&auto=webp&s=5106929f7a670a68180f5d7948b1c4e7192a6404)
 
 This is simply to illuminate a confusing topic. Hoping that the knowledge of the order types will best prepare people for using them appropriately.
 
@@ -157,7 +158,7 @@ You want to maximize your number of available exits above your personal floor.
 
 *So here is an example an ape. The ape has 11 shares and a personal floor of $12M*
 
-[The best breakdown is highlighted as it creates the highest possible number of exit points, This same strategy applies no matter the size of your position. You can break it down by whole numbers percentages whatever you want. ](https://preview.redd.it/39hm8d6koa271.png?width=2056&format=png&auto=webp&s=2e20f5e9ec3235c654c0b738328ef02e098e12dd)
+![The best breakdown is highlighted as it creates the highest possible number of exit points, This same strategy applies no matter the size of your position. You can break it down by whole numbers percentages whatever you want. ](https://preview.redd.it/39hm8d6koa271.png?width=2056&format=png&auto=webp&s=2e20f5e9ec3235c654c0b738328ef02e098e12dd)
 
 Everyone should practice breaking down their own positions. Take some time to figure out how to break down your own position most effectively.
 
@@ -191,4 +192,4 @@ As always thank you for the support
 
 \**This is not Financial advice. The ideas and opinions expressed here are for educational and entertainment purposes only.*
 
-*No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* ![*Learn more*](https://suicidepreventionlifeline.org/)
+*No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* [*Learn more*](https://suicidepreventionlifeline.org/)

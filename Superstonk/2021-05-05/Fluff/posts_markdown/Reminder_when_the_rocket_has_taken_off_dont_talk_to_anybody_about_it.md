@@ -1,5 +1,6 @@
-# Author: Limesity
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cen4/reminder_when_the_rocket_has_taken_off_dont_talk/](https://www.reddit.com/r/Superstonk/comments/n5cen4/reminder_when_the_rocket_has_taken_off_dont_talk/)
+#Title: Reminder, when the rocket has taken off, don't talk to anybody about it.
+#Author: Limesity
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cen4/reminder_when_the_rocket_has_taken_off_dont_talk/](https://www.reddit.com/r/Superstonk/comments/n5cen4/reminder_when_the_rocket_has_taken_off_dont_talk/)
 
 
 This rocket is primed for an explosion, we all know it, because we have done the work, and read the DD done by the wrinkly brains on here. 

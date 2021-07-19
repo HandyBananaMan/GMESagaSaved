@@ -1,5 +1,6 @@
-# Author: Region-Formal
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/](https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/)
+#Title: CNBC to Citadel: What (or who...) is the link?
+#Author: Region-Formal
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/](https://www.reddit.com/r/Superstonk/comments/nj7n6m/cnbc_to_citadel_what_or_who_is_the_link/)
 
 
 Apes, some of you may recall a DD I put out about a month ago, showing the vested interest that may be leading to **The Motley Fool** advancing **Shitadel's** cause:
@@ -12,7 +13,7 @@ Apes, some of you may recall a DD I put out about a month ago, showing the veste
 
 &#x200B;
 
-[ShillNBC](https://preview.redd.it/rnuw04s81y071.png?width=1436&format=png&auto=webp&s=c8ae734e2dc35459168cfb547f5e3f2eb0c991ce)
+![ShillNBC](https://preview.redd.it/rnuw04s81y071.png?width=1436&format=png&auto=webp&s=c8ae734e2dc35459168cfb547f5e3f2eb0c991ce)
 
 &#x200B;
 
@@ -60,11 +61,11 @@ Basically Prime Brokers and Custodian Banks make money by providing services to 
 
 &#x200B;
 
-[ADV](https://preview.redd.it/b80gs82g1y071.png?width=2391&format=png&auto=webp&s=017ae0b82b5c29d09fc707aac5991027604d9e6e)
+![ADV](https://preview.redd.it/b80gs82g1y071.png?width=2391&format=png&auto=webp&s=017ae0b82b5c29d09fc707aac5991027604d9e6e)
 
-[ADV](https://preview.redd.it/80jo3v4g1y071.png?width=2391&format=png&auto=webp&s=5041626cb34105977e21155691eb93ac8a610a4c)
+![ADV](https://preview.redd.it/80jo3v4g1y071.png?width=2391&format=png&auto=webp&s=5041626cb34105977e21155691eb93ac8a610a4c)
 
-[FINRA](https://preview.redd.it/u11bjq4g1y071.png?width=2300&format=png&auto=webp&s=640d722b3e01e588a0837f36d7449ea5b59a9404)
+![FINRA](https://preview.redd.it/u11bjq4g1y071.png?width=2300&format=png&auto=webp&s=640d722b3e01e588a0837f36d7449ea5b59a9404)
 
 &#x200B;
 
@@ -78,7 +79,7 @@ Are brokerage services an important part of JP Morgan's business? According to t
 
 &#x200B;
 
-[JP Morgan's Financial Report](https://preview.redd.it/ge8vsor12y071.png?width=1439&format=png&auto=webp&s=e1ffd18f440195733a2413a6f1e0dca7e6b4bbd5)
+![JP Morgan's Financial Report](https://preview.redd.it/ge8vsor12y071.png?width=1439&format=png&auto=webp&s=e1ffd18f440195733a2413a6f1e0dca7e6b4bbd5)
 
 &#x200B;
 
@@ -86,7 +87,7 @@ Now I should point out that pretty much every large Prime Broker, Custodian Bank
 
 &#x200B;
 
-[Hmm...](https://preview.redd.it/okgtn5692y071.png?width=1343&format=png&auto=webp&s=dbef169194734b9d51911fc31083d752f2680646)
+![Hmm...](https://preview.redd.it/okgtn5692y071.png?width=1343&format=png&auto=webp&s=dbef169194734b9d51911fc31083d752f2680646)
 
 [https://www.nbcuniversal.com/leadership/steve-burke](https://www.nbcuniversal.com/leadership/steve-burke)
 
@@ -116,9 +117,9 @@ Is it a surprise, therefore, that the organisation he leads spouts out stories t
 
 &#x200B;
 
-[Lies](https://preview.redd.it/rqhwu8yg2y071.png?width=1419&format=png&auto=webp&s=b11feea4f502f5aee53e546eb59c682119558f8a)
+![Lies](https://preview.redd.it/rqhwu8yg2y071.png?width=1419&format=png&auto=webp&s=b11feea4f502f5aee53e546eb59c682119558f8a)
 
-[FUD](https://preview.redd.it/38ymn8yg2y071.png?width=1439&format=png&auto=webp&s=7c9577327042c1c77c9cc0d76561e9ccc7490dad)
+![FUD](https://preview.redd.it/38ymn8yg2y071.png?width=1439&format=png&auto=webp&s=7c9577327042c1c77c9cc0d76561e9ccc7490dad)
 
 ![Cramer](https://preview.redd.it/tq2ugtzg2y071.png?width=2173&format=png&auto=webp&s=d8417ae887e76f3c9e172fc0b78815f8c3cf8226)
 

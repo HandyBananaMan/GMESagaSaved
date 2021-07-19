@@ -1,5 +1,6 @@
-# Author: Current-Information7
-# Post URL: [https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/)
+#Title: And you thought the SEC has been silent
+#Author: Current-Information7
+#Post URL: [https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/](https://www.reddit.com/r/GME/comments/merag9/and_you_thought_the_sec_has_been_silent/)
 
 
 They have quietly restricted access to information they are required to make public (you are still right about the silent part)
@@ -55,4 +56,4 @@ And because the alternative is dim: crowdfund and donate gross amount of money t
 
 **Update: Thursday, April 1st**
 
-Here it is! [a mapping of key parts of Citadel’s complex structure and *time sensitive information** w all cred going to u/atobitt](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf). Prefer to listen to an explanation of time sensitive information instead of reading? — ![u/atobitt is interviewed here, you will grow 🧠📈](https://www.reddit.com/r/GME/comments/mi21pt/attention_you_need_to_watch_this_the_author_of/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)
+Here it is! [a mapping of key parts of Citadel’s complex structure and *time sensitive information** w all cred going to u/atobitt](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf). Prefer to listen to an explanation of time sensitive information instead of reading? — [u/atobitt is interviewed here, you will grow 🧠📈](https://www.reddit.com/r/GME/comments/mi21pt/attention_you_need_to_watch_this_the_author_of/?utm_source=share&amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf)

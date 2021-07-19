@@ -1,5 +1,6 @@
-# Author: somelittlefella
-# Post URL: [https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/](https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/)
+#Title: The moon is closer then we think
+#Author: somelittlefella
+#Post URL: [https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/](https://www.reddit.com/r/GME/comments/mag5mq/the_moon_is_closer_then_we_think/)
 
 
 Edit 3: Great suggestion from u/FllKY52 to combat shill downvotes by posting time and count every so often. Would work much better in the hundreds then the thousands
@@ -11,7 +12,7 @@ Edit5: 1:33pm 1.7k
 Edit6: 7:33pm 1.8k
 
 WATCH THIS PLEASE(if.you haven't already or maybe im late to the show)
-![educational](https://altcensored.com/watch?v=nLZp0ShwCiw)
+[educational](https://altcensored.com/watch?v=nLZp0ShwCiw)
 
 Shitadel and Rh ARE THE SMALL.FISH IN THIS.
 DTCC is where the whole kit and kaboodle starts.

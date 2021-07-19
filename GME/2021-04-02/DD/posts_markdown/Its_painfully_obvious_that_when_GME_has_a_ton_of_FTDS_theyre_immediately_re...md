@@ -1,5 +1,6 @@
-# Author: canhazreddit
-# Post URL: [https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/](https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/)
+#Title: It's painfully obvious that when GME has a ton of FTDS, they're immediately reversing them with their hedgefuckery.
+#Author: canhazreddit
+#Post URL: [https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/](https://www.reddit.com/r/GME/comments/mijfq9/its_painfully_obvious_that_when_gme_has_a_ton_of/)
 
 
 tl;dr:
@@ -10,7 +11,7 @@ So I scrapped all the data from [https://www.sec.gov/data/foiadocsfailsdatahtm](
 
 I used a sql function called 'lag' to add the gain/loss of the ftd quantity over time and charted it.
 
-[https://i.imgur.com/2KYDw1c.png](https://i.imgur.com/2KYDw1c.png)
+![https://i.imgur.com/2KYDw1c.png](https://i.imgur.com/2KYDw1c.png)
 
 I know there's a shit ton of lines on this pic, but bear with me. Just look at the pattern. Up then Down in practically identical numbers. Look at the numbers on the left. They go positive/negative pretty regularly. 
 

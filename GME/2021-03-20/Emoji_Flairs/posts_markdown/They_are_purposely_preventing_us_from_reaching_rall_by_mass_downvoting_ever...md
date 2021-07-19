@@ -1,5 +1,6 @@
-# Author: unknown_purpose
-# Post URL: [https://www.reddit.com/r/GME/comments/m9eyn1/they_are_purposely_preventing_us_from_reaching/](https://www.reddit.com/r/GME/comments/m9eyn1/they_are_purposely_preventing_us_from_reaching/)
+#Title: They are purposely preventing us from reaching r/all by mass downvoting everything.
+#Author: unknown_purpose
+#Post URL: [https://www.reddit.com/r/GME/comments/m9eyn1/they_are_purposely_preventing_us_from_reaching/](https://www.reddit.com/r/GME/comments/m9eyn1/they_are_purposely_preventing_us_from_reaching/)
 
 
 The general sentiment of GME has shifted to beyond bullish at this point.

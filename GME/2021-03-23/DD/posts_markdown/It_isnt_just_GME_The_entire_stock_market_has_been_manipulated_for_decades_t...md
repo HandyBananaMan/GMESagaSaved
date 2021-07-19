@@ -1,5 +1,6 @@
-# Author: PM_ME_YOUR_ZeU
-# Post URL: [https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/](https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/)
+#Title: It isn't just GME! The entire stock market has been manipulated for decades through FTDs and it is about to explode
+#Author: PM_ME_YOUR_ZeU
+#Post URL: [https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/](https://www.reddit.com/r/GME/comments/mbiocm/it_isnt_just_gme_the_entire_stock_market_has_been/)
 
 
 The United States uses a financial "legacy system". When things shifted to a digital platform this legacy system couldn't keep up and started falling behind at least 3 days and is most likely backed up.
@@ -16,7 +17,7 @@ Thinking about these FTDs and how they work I was wondering if there was a looph
 
 Apologizes in advanced. There wasn't time to make a beautiful graph with Python but these EXCEL screenshots should do. This data isn't 100% as there are missing price values.
 
-This [first screen shot](https://i.imgur.com/YdWR23g.png) is the first reporting for the first 8 trading days of February 2021.
+This ![first screen shot](https://i.imgur.com/YdWR23g.png) is the first reporting for the first 8 trading days of February 2021.
 
 * Total of FTD shares on Feb 12, 2021: 520,025,767
 * Total USD lost/missing on Feb 12, 2021: $2,935,128,904.75
@@ -27,7 +28,7 @@ Wow.
 
 Let's look at the total for the month of Feb when the two data files are added together:
 
-[Total February 2021 FTDs](https://i.imgur.com/wcLKjGG.png)
+![Total February 2021 FTDs](https://i.imgur.com/wcLKjGG.png)
 
 In the month of February of 2021 during the 3 day delay between payment received and issue of share 3.3 billion shares went missing for a grand total of $29.1 billion dollars.
 
@@ -35,11 +36,11 @@ Now the idea is if FTDs don't go above the 1-2% of float it is okay to happen.
 
 Really? Is it?
 
-[SHOPIFY is bled $146 million in February 2021.](https://i.imgur.com/ZOWFAll.png)
+![SHOPIFY is bled $146 million in February 2021.](https://i.imgur.com/ZOWFAll.png)
 
-[Hey, Nokia, have some fake shares!](https://i.imgur.com/mYfSqIq.png)
+![Hey, Nokia, have some fake shares!](https://i.imgur.com/mYfSqIq.png)
 
-[Deutsche Bank FTDs](https://i.imgur.com/jsLMAMx.png)
+![Deutsche Bank FTDs](https://i.imgur.com/jsLMAMx.png)
 
 # So where is this money going? Those FTDs don't just disappear in a trash can when they fail do they?
 
@@ -71,17 +72,17 @@ Basically:
 
 In 2009 Talis Putnins wrote an article about [Naked short sales and FTDs](https://www.researchgate.net/publication/228260887_Naked_Short_Sales_and_Fails_to_Deliver_An_Overview_of_Clearing_and_Settlement_Procedures_for_Stock_Trades_in_the_US).
 
-It included [this graph of FTDs](https://i.imgur.com/a6I0yOM.png) leading up to the 2008 market crash. This is monthly reporting (green O and red X).
+It included ![this graph of FTDs](https://i.imgur.com/a6I0yOM.png) leading up to the 2008 market crash. This is monthly reporting (green O and red X).
 
 For the month of July 2008 there were 320,000,000 FTDs
 
 Go back to the data I showed:
 
-[February 1, 2021: 520,025,767 FTDs](https://i.imgur.com/rIvg5JU.png)
+![February 1, 2021: 520,025,767 FTDs](https://i.imgur.com/rIvg5JU.png)
 
-[February 2, 2021: 233,964,946 FTDs](https://i.imgur.com/m89nCnR.png)
+![February 2, 2021: 233,964,946 FTDs](https://i.imgur.com/m89nCnR.png)
 
-[February 3, 2021: 238,301,130 FTDs](https://i.imgur.com/ci0mw0X.png)
+![February 3, 2021: 238,301,130 FTDs](https://i.imgur.com/ci0mw0X.png)
 
 **It appears the system is failing at an astronomical rate DAILY**
 
@@ -101,7 +102,7 @@ This infinite loop of naked shorting cannot stop. Once it does the entire stock 
 
 EDIT: Some are asking for more validation. The person who discovered the 2008 market crash, watch The Big Short, Michael Burry has been tweeting about this problem and has recently deleted all his tweets.
 
-[https://i.imgur.com/cYWsJWZ.png](https://i.imgur.com/cYWsJWZ.png)
+![https://i.imgur.com/cYWsJWZ.png](https://i.imgur.com/cYWsJWZ.png)
 
 ![https://i.imgur.com/hG4Bcyz.png](https://i.imgur.com/hG4Bcyz.png)
 

@@ -1,5 +1,6 @@
-# Author: PowerRaptor
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oflgd5/shorts_have_to_buy_the_170_of_the_float_to_close/](https://www.reddit.com/r/Superstonk/comments/oflgd5/shorts_have_to_buy_the_170_of_the_float_to_close/)
+#Title: Shorts have to buy the 170%+ of the float to close their position. Gamestop has a billion USD and is unbankruptable.
+#Author: PowerRaptor
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oflgd5/shorts_have_to_buy_the_170_of_the_float_to_close/](https://www.reddit.com/r/Superstonk/comments/oflgd5/shorts_have_to_buy_the_170_of_the_float_to_close/)
 
 
 It's only a matter of time.

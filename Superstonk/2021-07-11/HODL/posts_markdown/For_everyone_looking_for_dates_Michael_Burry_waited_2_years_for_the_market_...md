@@ -1,5 +1,6 @@
-# Author: alphabetsong
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oi0slw/for_everyone_looking_for_dates_michael_burry/](https://www.reddit.com/r/Superstonk/comments/oi0slw/for_everyone_looking_for_dates_michael_burry/)
+#Title: For everyone looking for dates: Michael Burry waited 2 years for the market to crash and he became rich as fuck
+#Author: alphabetsong
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oi0slw/for_everyone_looking_for_dates_michael_burry/](https://www.reddit.com/r/Superstonk/comments/oi0slw/for_everyone_looking_for_dates_michael_burry/)
 
 
 Just a quick quote off of Wikipedia:

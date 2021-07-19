@@ -1,5 +1,6 @@
-# Author: AdeptCrow3733
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhcd5x/i_hear_a_lot_of_complaints_recently_and_requests/](https://www.reddit.com/r/Superstonk/comments/nhcd5x/i_hear_a_lot_of_complaints_recently_and_requests/)
+#Title: I hear a lot of complaints recently, and requests for more to do this or that. Raise your hands if you think the Superstonk mod team is doing a fantastic job, and this sub is getting better every day!!
+#Author: AdeptCrow3733
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhcd5x/i_hear_a_lot_of_complaints_recently_and_requests/](https://www.reddit.com/r/Superstonk/comments/nhcd5x/i_hear_a_lot_of_complaints_recently_and_requests/)
 
 
 I was on wsb when it went crazy, and again on gme. I still view those, but my participation is limited. When those dramas happened, it was uncertain which spin-off sub would emerge from the ashes.

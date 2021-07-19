@@ -1,5 +1,6 @@
-# Author: Foolmonso
-# Post URL: [https://www.reddit.com/r/GME/comments/le4j0w/overview_of_current_gme_situation_its_just/](https://www.reddit.com/r/GME/comments/le4j0w/overview_of_current_gme_situation_its_just/)
+#Title: Overview of Current GME Situation: It's Just Getting Started
+#Author: Foolmonso
+#Post URL: [https://www.reddit.com/r/GME/comments/le4j0w/overview_of_current_gme_situation_its_just/](https://www.reddit.com/r/GME/comments/le4j0w/overview_of_current_gme_situation_its_just/)
 
 
 *Disclaimer: I am not a financial advisor, nor am I licensed or in any way qualified to dictate or advise your trading decisions. I don't know jack shit about fuck. This is not financial advice. This analysis is not meant to influence, inspire, or inform you regarding your trades. This analysis was written purely as speculation and could be entirely incorrect. I found my own analysis interesting and wanted to share my unprofessional opinion. Furthermore, while these numbers are accurate as per their sources, they may not account for other factors that relate to the stock’s activity. I own shares of GME.*

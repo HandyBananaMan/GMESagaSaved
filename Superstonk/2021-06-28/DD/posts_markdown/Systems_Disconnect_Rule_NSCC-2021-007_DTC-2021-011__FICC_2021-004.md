@@ -1,5 +1,6 @@
-# Author: nimrod8311
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/](https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/)
+#Title: Systems Disconnect Rule: NSCC-2021-007, DTC-2021-011 & FICC 2021-004
+#Author: nimrod8311
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/](https://www.reddit.com/r/Superstonk/comments/o9kucj/systems_disconnect_rule_nscc2021007_dtc2021011/)
 
 
 **\*This is not advice, legal, financial or otherwise. All views expressed are strictly personal ape opinions which should not be relied on.**
@@ -32,19 +33,19 @@ Before jumping in to analyse the "Systems Disconnect" Rule, it is important to u
 
 Force Majeure is a legal term that first year law students learn in contract law:
 
-[Legal definitions of force majeure](https://preview.redd.it/hndcb02pd1871.png?width=1344&format=png&auto=webp&s=27cf89a20be59b9c1fa24f733d89bafdd4d1dcb1)
+![Legal definitions of force majeure](https://preview.redd.it/hndcb02pd1871.png?width=1344&format=png&auto=webp&s=27cf89a20be59b9c1fa24f733d89bafdd4d1dcb1)
 
 Essentially, Force Majeure provides for a "no fault" situation when a party is unable to perform its obligations due to circumstances outside its control. Examples of force majeure include what is commonly termed as acts of God, such as earthquakes, tsunamis, pandemics (the Covid-19 pandemic was relied on in many litigation cases last year), and war. Generally, the application of this rule is very limited in its application.
 
 In addition to the general force majeure events, the NSCC and DTC rules also refer certain other events, any of which will qualify as Market Disruption Events:
 
-[Rule 60 sec 1 of NSCC Rules; Rule 38 sec 1 of DTC Rules](https://preview.redd.it/09t8jksrd1871.png?width=1066&format=png&auto=webp&s=656bdbe50fa6dd6f5f81c36e18eded2ea5d2abd9)
+![Rule 60 sec 1 of NSCC Rules; Rule 38 sec 1 of DTC Rules](https://preview.redd.it/09t8jksrd1871.png?width=1066&format=png&auto=webp&s=656bdbe50fa6dd6f5f81c36e18eded2ea5d2abd9)
 
 Under sec 3 of this Market Disruption & Force Majeure Rule, the DTCC has broad discretion to suspend its services or order its Members refrain from or take action to "prevent, address, correct, mitigate or alleviate the event and facilitate the continuation of services".
 
 The most important part of any force majeure clause is the "no fault" language in the clause. This is set out at sec 5 of the rule:
 
-[Rule 60 sec 5 of NSCC Rules; Rule 38 sec 5 of DTC Rules](https://preview.redd.it/j3md31btd1871.png?width=1118&format=png&auto=webp&s=1899e83e63a5bca605921c269b8f76e309fc0a2e)
+![Rule 60 sec 5 of NSCC Rules; Rule 38 sec 5 of DTC Rules](https://preview.redd.it/j3md31btd1871.png?width=1118&format=png&auto=webp&s=1899e83e63a5bca605921c269b8f76e309fc0a2e)
 
 If you find this clause familiar, that's because it has been replicated in the "Systems Disconnect" Rule as well. In effect, what this clause means is that any actions taken by DTCC under sec 3 that arises from a Market Disruption Event cannot be faulted and DTCC will not be liable for any consequences as a result. **Generally, such exclusion of liability should be acceptable to counterparties dealing with DTCC, because its scope of application is very limited: it only applies in the instances of force majeure (in this case Market Disruption Events) events, which should be rare, and in any case, outside of DTCC's control.**
 
@@ -52,7 +53,7 @@ If you find this clause familiar, that's because it has been replicated in the "
 
 The purpose of the Systems Disconnect Rule is very clear:
 
-[page 7 of 56 of SR-NSCC-2021-007](https://preview.redd.it/ko03mqyud1871.png?width=1062&format=png&auto=webp&s=b8696eca6d9081a8c0c4aa8edf9a65d07af5714e)
+![page 7 of 56 of SR-NSCC-2021-007](https://preview.redd.it/ko03mqyud1871.png?width=1062&format=png&auto=webp&s=b8696eca6d9081a8c0c4aa8edf9a65d07af5714e)
 
 It is to allow DTCC to disconnect its Members' systems from DTCC's system in the event of an issue arising in its Members' systems which would disrupt DTCC's system. Specifically, the examples used by DTCC of cyber incident or system disruption implies that it is limited to technical issues, such as viruses or cyber-hacking or any other technical issue which may disrupt DTCC's system as a result of its Members' systems being connected to DTCC's system. This appears straightforward and benign enough.
 
@@ -78,7 +79,7 @@ As law students would learn, "**reasonable**" and "**likely**" are terms which c
 
 "**Reasonable**" however, is less straightforward, and is a term made famous by the law of negligence:
 
-[Source: https:\/\/www.lexology.com\/library\/detail.aspx?g=d59a11b6-0296-48b6-8251-7684586430fa](https://preview.redd.it/ifb0613zd1871.png?width=1512&format=png&auto=webp&s=c288381722dfae26f6dc3f248e6ba0d2c3c91c90)
+![Source: https:\/\/www.lexology.com\/library\/detail.aspx?g=d59a11b6-0296-48b6-8251-7684586430fa](https://preview.redd.it/ifb0613zd1871.png?width=1512&format=png&auto=webp&s=c288381722dfae26f6dc3f248e6ba0d2c3c91c90)
 
 A test to decide what is reasonable is that of a hypothetical ordinary person in the shoes of the person who had acted - what would such a hypothetical person do?
 
@@ -102,11 +103,11 @@ Compounding this further is the fact that the proposed language goes beyond what
 
 Again, going back to the definition of a "Major Event":
 
-[p 54 of SR-NSCC-2021-007](https://preview.redd.it/atqj0z91e1871.png?width=1060&format=png&auto=webp&s=f22ef51385414c184e79f971d906ab18ee6b758a)
+![p 54 of SR-NSCC-2021-007](https://preview.redd.it/atqj0z91e1871.png?width=1060&format=png&auto=webp&s=f22ef51385414c184e79f971d906ab18ee6b758a)
 
 DTCC Systems is defined as:
 
-[p 54 of SR-NSCC-2021-007](https://preview.redd.it/br26mlg2e1871.png?width=1078&format=png&auto=webp&s=f25208c1ac113cafcee7dad22df54aaf6dd18ba1)
+![p 54 of SR-NSCC-2021-007](https://preview.redd.it/br26mlg2e1871.png?width=1078&format=png&auto=webp&s=f25208c1ac113cafcee7dad22df54aaf6dd18ba1)
 
 You can see that the definitions of "**DTCC Systems**" and "**Systems Disruption**" all refer to systems, equipment and technology networks of DTCC or the Participants' own systems. It is all technical in nature.
 
@@ -122,7 +123,7 @@ b. DTCC now has to decide whether that this Systems Disruption is reasonably lik
 
 **c. What can DTCC do once a Major Event has occurred?** It can (a) disconnect the Participant's systems from the DTCC Systems, (b) suspend file transfers or communications between the Participants and DTCC, or:
 
-[p 55 of SR-NSCC0-2021-007](https://preview.redd.it/6b9lcsm9e1871.png?width=1072&format=png&auto=webp&s=4671f6cdde6cd34f873454c8e336a476e2c373a2)
+![p 55 of SR-NSCC0-2021-007](https://preview.redd.it/6b9lcsm9e1871.png?width=1072&format=png&auto=webp&s=4671f6cdde6cd34f873454c8e336a476e2c373a2)
 
 **Essentially, DTCC can take any and all action that it consider appropriate to address the Major Event and facilitate the continuation of services.**
 
@@ -132,7 +133,7 @@ b. DTCC now has to decide whether that this Systems Disruption is reasonably lik
 
 # Conclusion
 
-**There have been several posts on this filing, including** u/Criand **'s comment in this post:** ![**https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc\_update\_submission\_of\_rule\_filing/h3301r4/?context=3**](https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc_update_submission_of_rule_filing/h3301r4/?context=3) **that this new amended clause is nothing to worry about.**
+**There have been several posts on this filing, including** u/Criand **'s comment in this post:** [**https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc\_update\_submission\_of\_rule\_filing/h3301r4/?context=3**](https://www.reddit.com/r/Superstonk/comments/o7vfvs/dtcc_update_submission_of_rule_filing/h3301r4/?context=3) **that this new amended clause is nothing to worry about.**
 
 I agree that if DTCC sticks to its stated purpose of the Systems Disconnect Rule, there should be nothing to worry about. However, if DTCC wishes to fulfil the stated purposes of the System Disconnect Rule, then it does not need to have the "gray areas" or such unfettered broad powers. Of course, there may also be a counter interpretation which is that DTCC wants to be able to step in to ensure that Shitadel does not take any further illegal action, and having these "gray areas" and broad powers benefits the apes if DTCC's interests are aligned with the long interests.
 

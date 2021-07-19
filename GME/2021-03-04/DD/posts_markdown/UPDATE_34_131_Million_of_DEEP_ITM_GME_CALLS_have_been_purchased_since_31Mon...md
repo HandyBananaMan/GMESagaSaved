@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/](https://www.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/)
+#Title: UPDATE (3/4): $131 Million of DEEP ITM GME CALLS have been purchased since 3/1(Monday)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/](https://www.reddit.com/r/GME/comments/lxxaty/update_34_131_million_of_deep_itm_gme_calls_have/)
 
 
  Salutations Future 1% Apes,
@@ -8,7 +9,7 @@
 
 **UPDATE 3/5:** 3:16pm an additional 2500 calls purchased from PHLX exchange totaling **$31.49 million**
 
-[https://imgur.com/gallery/G4JgzgP](https://imgur.com/gallery/G4JgzgP)
+![https://imgur.com/gallery/G4JgzgP](https://imgur.com/gallery/G4JgzgP)
 
 This brings the net to **$162.5 million** on the week and **14,500 calls.**
 
@@ -26,15 +27,15 @@ Good evening Lady Apes and GMEtlemen,
 
 UPDATE 3/4: 3:28pm 2,500 more calls purchased out of the PHLX exchange totaling 31.12 million
 
-[https://imgur.com/a/zPNFMi9](https://imgur.com/a/zPNFMi9)
+![https://imgur.com/a/zPNFMi9](https://imgur.com/a/zPNFMi9)
 
 Good afternoon my fellow tendiemen,
 
 I bring fantastic news to all the bagholding crayon eaters on this sub. This post is an update to the original post by [u/tapakip](https://www.reddit.com/u/tapakip/).
 
-(3/1) Monday someone out of the PHLX exchange (Philadelphia) purchased roughly $45MM worth of deep ITM calls ($12 and $15 strike) [https://imgur.com/a/8ZCd3b9](https://imgur.com/a/8ZCd3b9) = 3415 calls
+(3/1) Monday someone out of the PHLX exchange (Philadelphia) purchased roughly $45MM worth of deep ITM calls ($12 and $15 strike) ![https://imgur.com/a/8ZCd3b9](https://imgur.com/a/8ZCd3b9) = 3415 calls
 
-(3/2) Tuesday same exchange another $20 million in deep ITM calls [https://imgur.com/gallery/Qp2phEm](https://imgur.com/gallery/Qp2phEm) = 1800 calls
+(3/2) Tuesday same exchange another $20 million in deep ITM calls ![https://imgur.com/gallery/Qp2phEm](https://imgur.com/gallery/Qp2phEm) = 1800 calls
 
 (3/3) Wednesday another massive purchase of deep ITM calls from PHLX $45 million expiring 4/16/21
 

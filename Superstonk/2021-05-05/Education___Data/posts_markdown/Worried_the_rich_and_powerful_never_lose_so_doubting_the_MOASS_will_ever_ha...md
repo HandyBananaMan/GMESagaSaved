@@ -1,5 +1,6 @@
-# Author: Region-Formal
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5j2gp/worried_the_rich_and_powerful_never_lose_so/](https://www.reddit.com/r/Superstonk/comments/n5j2gp/worried_the_rich_and_powerful_never_lose_so/)
+#Title: Worried the rich and powerful never lose, so doubting the MOASS will ever happen?
+#Author: Region-Formal
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5j2gp/worried_the_rich_and_powerful_never_lose_so/](https://www.reddit.com/r/Superstonk/comments/n5j2gp/worried_the_rich_and_powerful_never_lose_so/)
 
 
 Think again! History is absolutely *littered* with stories of the "great" making monumental errors of judgment. Sometimes leading to them suffering enormous opportunity costs, but often times leading to their complete downfall.

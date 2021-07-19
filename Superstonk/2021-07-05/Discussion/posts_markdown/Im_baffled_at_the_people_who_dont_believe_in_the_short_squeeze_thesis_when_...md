@@ -1,5 +1,6 @@
-# Author: Gambion
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oe3806/im_baffled_at_the_people_who_dont_believe_in_the/](https://www.reddit.com/r/Superstonk/comments/oe3806/im_baffled_at_the_people_who_dont_believe_in_the/)
+#Title: I’m baffled at the people who don’t believe in the short squeeze thesis when it’s such an Occam’s Razor
+#Author: Gambion
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oe3806/im_baffled_at_the_people_who_dont_believe_in_the/](https://www.reddit.com/r/Superstonk/comments/oe3806/im_baffled_at_the_people_who_dont_believe_in_the/)
 
 
 >GameStop was going out of business and we have proof the stock was naked shorted with Finra stating a figure ~230%. It’s obvious that big institutions tried to maximize profits by betting, with A LOT of over leveraging, that GameStop would go bankrupt. 

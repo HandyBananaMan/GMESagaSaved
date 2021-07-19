@@ -1,5 +1,6 @@
-# Author: johnnyz321
-# Post URL: [https://www.reddit.com/r/GME/comments/mjij7s/the_confirmationbiasechochamber_problem_after/](https://www.reddit.com/r/GME/comments/mjij7s/the_confirmationbiasechochamber_problem_after/)
+#Title: The Confirmation-Bias/Echo-Chamber Problem. After spending a bit of time on this sub, and reading an avalanche of incredible DD, I am fully convinced that the M.O.A.S.S. will launch any day. $10,000,000/share is honestly what I expect at this point. That is not entirely a good thing.
+#Author: johnnyz321
+#Post URL: [https://www.reddit.com/r/GME/comments/mjij7s/the_confirmationbiasechochamber_problem_after/](https://www.reddit.com/r/GME/comments/mjij7s/the_confirmationbiasechochamber_problem_after/)
 
 
 \*\*mods I will gladly delete this if it violates any sub rules\*\*

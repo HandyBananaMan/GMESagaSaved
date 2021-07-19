@@ -1,5 +1,6 @@
-# Author: babyfacedjanitor
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o58bmy/let_me_be_very_clear_and_concise_about_the/](https://www.reddit.com/r/Superstonk/comments/o58bmy/let_me_be_very_clear_and_concise_about_the/)
+#Title: Let me be very clear and concise about the comments on today’s meeting. I am done with the lying bullshit from the US government. I am not tired of holding GME. I am tired of being lied to.
+#Author: babyfacedjanitor
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o58bmy/let_me_be_very_clear_and_concise_about_the/](https://www.reddit.com/r/Superstonk/comments/o58bmy/let_me_be_very_clear_and_concise_about_the/)
 
 
 I want to make it very simple for you, apes;

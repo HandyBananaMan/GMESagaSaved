@@ -1,5 +1,6 @@
-# Author: elpablo1940
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/no35mp/its_gonna_go_to_zero/](https://www.reddit.com/r/Superstonk/comments/no35mp/its_gonna_go_to_zero/)
+#Title: "Its gonna go to zero"
+#Author: elpablo1940
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/no35mp/its_gonna_go_to_zero/](https://www.reddit.com/r/Superstonk/comments/no35mp/its_gonna_go_to_zero/)
 
 
 First off, I never discuss my holdings with anyone I run into. Well today I was at a wedding with my wife and we were talking to another couple. The gentleman explains how he is super in the red in his crypto holdings while I smile and nod. My wife mentioned to him that I had some of our favorite stock. He immediately says "Oh youre gonna sell right?". I said no and tried to blow it off and he continues with "You agree its gonna go to zero right?"

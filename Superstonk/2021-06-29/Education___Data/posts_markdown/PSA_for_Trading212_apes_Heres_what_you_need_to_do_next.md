@@ -1,5 +1,6 @@
-# Author: salsa_sauce
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa6cei/psa_for_trading212_apes_heres_what_you_need_to_do/](https://www.reddit.com/r/Superstonk/comments/oa6cei/psa_for_trading212_apes_heres_what_you_need_to_do/)
+#Title: 🚨 PSA for Trading212 apes: Here’s what you need to do next…
+#Author: salsa_sauce
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa6cei/psa_for_trading212_apes_heres_what_you_need_to_do/](https://www.reddit.com/r/Superstonk/comments/oa6cei/psa_for_trading212_apes_heres_what_you_need_to_do/)
 
 
 If you haven’t already seen, as of this morning, T212 are forcing customers with a General Investment account (but not ISAs) to agree to their shares being lent out.

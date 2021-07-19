@@ -1,5 +1,6 @@
-# Author: lawrgood
-# Post URL: [https://www.reddit.com/r/GME/comments/nm40vh/gme_explained_for_new_apes/](https://www.reddit.com/r/GME/comments/nm40vh/gme_explained_for_new_apes/)
+#Title: GME explained for new apes
+#Author: lawrgood
+#Post URL: [https://www.reddit.com/r/GME/comments/nm40vh/gme_explained_for_new_apes/](https://www.reddit.com/r/GME/comments/nm40vh/gme_explained_for_new_apes/)
 
 
 If you are new to the sub or have been struggling to wrap your head around the DD (due diligence), hopefully this can make things clearer.

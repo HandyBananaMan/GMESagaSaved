@@ -1,10 +1,15 @@
-# Author: 3for100Specials
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)
+#Title: A Castle of Glass - Game On, Anon
+#Author: 3for100Specials
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)
 
 
 **\*\*\*Imperative top of post edit\*\*\*:** For anyone who's ***already read this post***\*\*,\*\* please go to the bottom and tell me to **edit 3 isn't saying what I think it's saying**...that info is a bit out of my field so I **need help verifying this,** but I deduced to the best of my ability...**if I'm right in reading that.*****.69420D chess has been played by RC and Gamestop..*****.**
 
-**Preface:**
+EDIT 2: Apes, I need your help. There is someone impersonating the 'leavemeanon' account I described throughout my post. The biggest question is ***how did this user get approved by the mods, without any evidence provided to back their claim?*** 
+
+**More details are found below in my edited response to the pinned mod post. this** ***needs more eyes.*** Just as in my post, I do not ask for **anyone here to believe anything,** ***but what they see. Every link is provided for you to assess with your own eyes and come to the most logical conclusion YOU believe.*** **This needs an explanation.**  
+
+# Preface:
 
 The game that is being played is not simply *just* a House of Cards. I’d argue that it's ***far larger*** *(no heat towards attobit, luv ur material, wouldn’t be here without it, truly <3).* The massive entities we call the Big Banks, the Market Makers, the Short dicked Hedge-funds, The Fed, etc, do not simply fall down over the course of a day. No...I’d argue that when they fail..they come crashing down from their **Castle of Glass.** One that has been forming cracks throughout its structure ***since the day it was conceived.***  A deteriorating castle which can **no longer be unseen, nor..undone. Only, replaced.**
 
@@ -23,7 +28,7 @@ This post is a follow-up to my previous. I had attempted to shine some light ont
 This is the case for a few reasons. I’ll outline them below so you have a brief understanding to start. (I’ll also be quoting/referencing myself from my other post a few times to save time, so if you see similarities, just know I’m a lazy fuk).
 
 1. **The author:** The OP behind this DD went by the name, u/leavemeanon. Shortly after dropping this thermonuclear analysis on ***HOW*** the shares have been suppressed and ***WHERE*** they are most likely located. He vanished, but unlike the Avatar’s flake ass, his job was done.
-2. **The Job:** ***exposing the primary methods of fuckery utilized by the short gang, the Big Banks, and even the Fed...down to the BONE.*** The depth of analysis here is ***still*** astounding, but that’s not even the kicker..its the fact he drops a God tier DD and makes a claim like this: 
+2. **The Job:** ***exposing the primary methods of fuckery utilized by the short gang, the Big Banks, and even the Fed...down to the BONE.*** The depth of analysis here is ***still*** astounding, but that’s not even the kicker..its the fact he drops a God tier DD and makes a claim like this:
 
 https://preview.redd.it/b258dyt2y5b71.png?width=704&format=png&auto=webp&s=6ba0fddb29ca59535ad5bca765ddbbf4094b4643
 
@@ -115,7 +120,7 @@ Lol don’t actually try to zoom in, there isn’t shit there if you do that. **
 
 To find out, I did some more digging around that term after finding the above which would lead me to find the following tweet:
 
-[https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/3g9t4kxxw5b71.png?width=553&format=png&auto=webp&s=2e69a9e45aaab0e47149e9ef8d48a895e4a069df)
+![https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/3g9t4kxxw5b71.png?width=553&format=png&auto=webp&s=2e69a9e45aaab0e47149e9ef8d48a895e4a069df)
 
 That phrase...look familiar? Yeah...we’re about to enter solution territory...and for you “I only believe after a 4th, 5th, 6th coincidence” apes, don't worry. I’ll get there anon ;)
 
@@ -129,15 +134,13 @@ What is the ***Metaverse*** exactly?
 * It’s further described as a basket of 15 tokens that serve the purpose of capturing entertainment trends, sports, and business shifting to virtual reality.
 * The next absolutely fascinating find in regard to the Metaverse index is one that requires you to zoom out and view the bigger picture. By doing so, you'll begin to understand ***what it's trying to change***. An article that goes extremely in-depth on it would provide this insight:
 
- 
-
-[ https:\/\/www.masterthemeta.com\/business-breakdowns\/into-the-void](https://preview.redd.it/0evviqy7x5b71.png?width=706&format=png&auto=webp&s=c42c57f41dbd2a47f856799c5b1fbca70e79b9a2)
+![ https:\/\/www.masterthemeta.com\/business-breakdowns\/into-the-void](https://preview.redd.it/0evviqy7x5b71.png?width=706&format=png&auto=webp&s=c42c57f41dbd2a47f856799c5b1fbca70e79b9a2)
 
 This article above (absolutely excellent read btw) is what links our **topic of focus. N F Ts.** Notice the **black-highlighted sections, primarily** ***the bottom one.***
 
 This information takes us back to Accelerated Capitals website. Here we find a bit more relative information to ***virtual ownership via NFTs, gaming,*** ***virtual reality, and entertainment"***, as well as the **inclusion criteria it has before an NFT can be issued under it.**
 
-[https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/zqyi588bx5b71.png?width=519&format=png&auto=webp&s=5e30ec3cb2e5d9cfe689bf66d55b119a1c0741e6)
+![https:\/\/acceleratedcapital.substack.com\/p\/the-metaverse-index-](https://preview.redd.it/zqyi588bx5b71.png?width=519&format=png&auto=webp&s=5e30ec3cb2e5d9cfe689bf66d55b119a1c0741e6)
 
 I highlighted the 3 month period because if I remember correctly...there’s a company out there that has something to do with gaming, which was supposed to go bankrupt..but didn’t..and similarly ***issued an NFT token a few months back...what the date on that?*** **4/07, now I'm not the best at math but roughly 3 months since then would be...😎 (s/o** [u/LordoftheEyez](https://www.reddit.com/u/LordoftheEyez/) for the help on clarifying the timeframe!)
 
@@ -145,7 +148,7 @@ But let's get a bit more specific, **wtf** ***is the Metaverse Index really?***
 
 https://preview.redd.it/zzodtd4ex5b71.png?width=560&format=png&auto=webp&s=7751bd534f1a59ef5852a709c93fe7e153864077
 
-  Oh boy, well now we’re getting somewhere. After looking into what exactly the Metaverse index was, I found myself directed towards something called the ***Index Cooperative (Coop Index).*** Think of this thing as the **very top of the cascade, it contains** ***other blockchain-based indices within it, such as the Metaverse Index.*** Upon visiting The Index Coop website, you get a pretty baseline idea of what it is to better explain: 
+Oh boy, well now we’re getting somewhere. After looking into what exactly the Metaverse index was, I found myself directed towards something called the ***Index Cooperative (Coop Index).*** Think of this thing as the **very top of the cascade, it contains** ***other blockchain-based indices within it, such as the Metaverse Index.*** Upon visiting The Index Coop website, you get a pretty baseline idea of what it is to better explain:
 
 https://preview.redd.it/k3lb9ebfx5b71.png?width=670&format=png&auto=webp&s=72448ae5aad8c7dfa1ec6d27ee55884c8db2231e
 
@@ -164,7 +167,7 @@ https://preview.redd.it/18rghmqgx5b71.png?width=351&format=png&auto=webp&s=d86df
 
 "**OVERVIEW OF INDEX"**
 
-"[Index Cooperative](https://www.indexcoop.com/) is a DeFi project that’s going after the multi-trillion-dollar \[ETF\]([https://en.wikipedia.org/wiki/Exchange-traded\_fund#:\~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)](https://en.wikipedia.org/wiki/Exchange-traded_fund#:~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)) (exchange-traded fund) market. At its simplest, an ETF is like a basket of assets (be it stocks, bonds, commodities, or crypto) that can be traded in a group. Companies like [Blackrock (under its subsidiary iShare) and Vanguard each have over a trillion dollars](https://www.etftrends.com/10-biggest-etf-issuers-of-2019-by-market-capitalization/) under management in the form of ETFs. ETFs have been so popular, that people like [Michael Burry ](https://en.wikipedia.org/wiki/Michael_Burry)(of [*The Big Short* ](https://en.wikipedia.org/wiki/The_Big_Short_(film))) have called it a “[passive investment bubble](https://www.etfstrategy.com/passive-investing-a-bubble-says-big-short-investor-michael-burry-10449/)”." 
+"[Index Cooperative](https://www.indexcoop.com/) is a DeFi project that’s going after the multi-trillion-dollar \[ETF\]([https://en.wikipedia.org/wiki/Exchange-traded\_fund#:\~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)](https://en.wikipedia.org/wiki/Exchange-traded_fund#:~:text=An%20exchange%2Dtraded%20fund%20(ETF,the%20day%20on%20stock%20exchanges)) (exchange-traded fund) market. At its simplest, an ETF is like a basket of assets (be it stocks, bonds, commodities, or crypto) that can be traded in a group. Companies like [Blackrock (under its subsidiary iShare) and Vanguard each have over a trillion dollars](https://www.etftrends.com/10-biggest-etf-issuers-of-2019-by-market-capitalization/) under management in the form of ETFs. ETFs have been so popular, that people like [Michael Burry ](https://en.wikipedia.org/wiki/Michael_Burry)(of [*The Big Short* ](https://en.wikipedia.org/wiki/The_Big_Short_(film))) have called it a “[passive investment bubble](https://www.etfstrategy.com/passive-investing-a-bubble-says-big-short-investor-michael-burry-10449/)”."
 
 Two things should stick out to you off the bat:
 
@@ -197,7 +200,7 @@ Within this final part, I described to you ***the solution***. IF I'm right in m
 
 Imagine an economy where there is no longer a middle man, by which I mean the modern-day banking system as we know it. Ask yourself, if you had the ability to choose a completely different system, where the ***power of decision-making and investing potential lies in your hands, and not in that of some middle-man who would rather use it for his own personal benefit at the cost of YOUR losses, would you use it?***
 
-Unlikely, I'd say. Unless you enjoy getting hoed by greedy scumbags, but you probably wouldn't have made it this far in this post had that been the case. This leaves us to the ultimate question, *what exactly is RC doing?*
+Quite ***likely***, I'd say. Unless you enjoy getting hoed by greedy scumbags, but you probably wouldn't have made it this far in this post had that been the case. This leaves us to the ultimate question, *what exactly is RC doing?*
 
 Based on everything I've shown you, **He's planning on cutting out the middle-man.** These modern-day Big Banks and pretty much every other financial institution from the SEC to the Fed have been laying in bed together for decades. In doing so, they thrived within their castle while the rest of humanity continued to struggle, often unable to make even our most *basic* ends meet.
 
@@ -243,17 +246,49 @@ https://preview.redd.it/ptyywbopx5b71.png?width=739&format=png&auto=webp&s=d9b3f
 
 https://preview.redd.it/opdli35tx5b71.png?width=1860&format=png&auto=webp&s=d2e6624d4f5c3c3d7249c04e8cb62ffcefe81dca
 
-**I've read this literally 20 times over...I've even read the last two damn pages 20 times over to make sure what it's leading up to is actually** ***what I think it is...***
+**Edit 4:** Alright apes, I'm just getting around to updating this for inclusion of insight from an ape who is far more versed into this type of language than yours truly. The portion you see below was a conversation I had with this very kind mod from another sub, as I had to post this in other locations due to the initial difficulty of getting it onto the 'Stonk. This portion has actually been included in the other posts but since I submitted **this** version **before having the conversation below, and it was pushed forward by the mods on superstonk at a later time, it didn't incorporate this conversation at that time.** Hence, why I've provided this edit now. It's been a long 24 hours fighting the good fight in an attempt to get people on this sub to see this material, and though a success, I had to rest up so my body could hodl. That's the context, **now the insight.**
 
-I've highlighted it in three different colors to make the transition of statements easier to read, or harder lol idk:
+The breakdown provided by Theta here *seems to be* ***far more conclusive in regard to what all that suit talk is truly stating***\*\*. Read it a few times over if you have to, but if logic is our basis, then this does make sense until unless we find out otherwise.\*\* Additionally, this ape was able to look around and find some backing for his statement as well! So truly bravo to you sir, know that your assistance in this is greatly appreciated u/Theta-Voidance.
 
-1. **Yellow -** ***if the DTC fails to do its job, and they are not*** ***effectively replaced within a 90-day allotted period by a succeeding depository...***
-2. **Green -** ***we will issue*** ***a different type of security different than the type already in the market, but still somewhat similar to it..***
-3. **Blue -** ***But also, one more thing you fucboys...at any given point in time, and based on our absolute SOLE discretion..***
-4. ***RED - We may decide to just say fuck it, and issue our OWN security which is COMPLETELY*** ***SEPARATE*** **from the type already IN the market, AND the same condition apply under the circumstance we swapped them earlier for the semi-similar securities** (referenced in the green highlight), ***in case you try and pull a fast one with those too...***
+https://preview.redd.it/8yhyuh2u98b71.png?width=679&format=png&auto=webp&s=9e0343d2e0dc5f9e18b9e9c9401631a6023884f0
 
-S/o to ![u/Apprehensive-Use-703](https://www.reddit.com/u/Apprehensive-Use-703/) **bringing this to my attention...smart ass fkn apes out there man..**
+Naturally, where one perspective is correct in deducing the suit-speak, another deduction remains ape-speak. So I crossed off my initial assessment now that we've been provided some cleaner insight, but you'll still find it below for your apely pleasures.
+
+**~~I've read this literally 20 times over...I've even read the last two damn pages 20 times over to make sure what it's leading up to is actually~~** ***~~what I think it is...~~***
+
+~~I've highlighted it in three different colors to make the transition of statements easier to read, or harder lol idk:~~
+
+1. **~~Yellow -~~** ***~~if the DTC fails to do its job, and they are not~~*** ***~~effectively replaced within a 90-day allotted period by a succeeding depository...~~***
+2. **~~Green -~~** ***~~we will issue~~*** ***~~a different type of security different than the type already in the market, but still somewhat similar to it..~~***
+3. **~~Blue -~~** ***~~But also, one more thing you fucboys...at any given point in time, and based on our absolute SOLE discretion..~~***
+4. ***~~RED - We may decide to just say fuck it, and issue our OWN security which is COMPLETELY~~*** ***~~SEPARATE~~*** **~~from the type already IN the market, AND the same condition apply under the circumstance we swapped them earlier for the semi-similar securities~~** ~~(referenced in the green highlight),~~ ***~~in case you try and pull a fast one with those too...~~***
+
+S/o to [u/Apprehensive-Use-703](https://www.reddit.com/u/Apprehensive-Use-703/) **bringing this to my attention...smart ass fkn apes out there man..**
 
 Guys....I need some serious wrinkles on this....**this is not the shit that I do lol, so someone confirm to me that I'm not geekin and that's** ***not how that fuckin reads.....because it sounds like Gamestop has literally planned for the TRANSITION step to the shit I've covered in this post.***
+
+\-------------------------------------------------------------------------------------
+
+**Edit 5: Upon discovery of a tweet dating back to April by a sharp-sighted ape in the comments, we may have some further connection to the** ***Metaverse and Gamestop's NFT website motto:***
+
+"Here's the link provided by u/WholesomeLowlife
+
+[https://mobile.twitter.com/indexcoop/status/1379872194172317696](https://mobile.twitter.com/indexcoop/status/1379872194172317696)
+
+Where have I seen ***players, creators, collectors before?*** [https://nft.gamestop.com/](https://nft.gamestop.com/)"
+
+\-------------------------------------------------------------------------------------
+
+And another addition from an Ape that brought some more fascinating insight to me earlier as well, This is in respect to the **initial NFT token issued by Gamestop a few months back, here's his findings:**
+
+"Killer DD! So **we know the ERC-721 is the 1 GME coin.** The **Metaverse uses ERC-20** tokens from my understanding. If you **look in the wallet that has the 1 ERC-721, it also has 420.69 of the ERC-20.**  [https://etherscan.io/address/0x10b16eede03cf73cbf44e4bfffa3e6bff36f1fad#comments](https://etherscan.io/address/0x10b16eede03cf73cbf44e4bfffa3e6bff36f1fad#comments)
+
+I remember initially talking was a perceived scam but idk if that’s the case. I think you’re on to something.  There is also a wallet that has process over 10k transactions of the ERC-20 coin but idk if that means anything. Hope you see this. If not, I’ll try a message" - u/kevykev89
+
+\-------------------------------------------------------------------------------------
+
+**These findings are certainly fascinating, to say the least..so I ask you**, **how much do** ***you*** **believe in coincidences? I encourage each and every one of you to ponder upon these relations and come to your own conclusions which make the most sense to** ***you***\*\*. I know what I believe, and I stand by my thoughts on those things. All I can hope for is that you find the same hope that I may have. Sometimes, speculations and hypotheticals are just that, but sometimes,\*\* ***there's more to them, than may at first, meet the eyes.***
+
+***Game On, Anon.*** **💎**
 
 ***Power to the Players 🚀***

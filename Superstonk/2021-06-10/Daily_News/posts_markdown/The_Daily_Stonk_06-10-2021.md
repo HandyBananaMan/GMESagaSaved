@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwj95f/the_daily_stonk_06102021/](https://www.reddit.com/r/Superstonk/comments/nwj95f/the_daily_stonk_06102021/)
+#Title: The Daily Stonk 06-10-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwj95f/the_daily_stonk_06102021/](https://www.reddit.com/r/Superstonk/comments/nwj95f/the_daily_stonk_06102021/)
 
 
 &#x200B;
@@ -185,7 +186,7 @@ Or as the top comment on there even says by  u/Sioned-Song
 
 &#x200B;
 
-[it always was](https://preview.redd.it/gwom0rdxne471.png?width=960&format=png&auto=webp&s=0972fc548f55e1b5db812f398248dd59ff59f29d)
+![it always was](https://preview.redd.it/gwom0rdxne471.png?width=960&format=png&auto=webp&s=0972fc548f55e1b5db812f398248dd59ff59f29d)
 
 this along with the SEC probe leads me to believe there is more at play here in the backstage that we just don't know about and we will have to wait to see what the results are regarding this, However reading all this I personally believe that we do still own the float, and nothing has changed.
 
@@ -257,7 +258,7 @@ Edit 1:
 
  Short Volume Ratio Update for 9. June 2021 [\#GME](https://twitter.com/hashtag/GME?src=hashtag_click)  from AnnihilationGod
 
-![https://twitter.com/Annihil4tionGod/status/1402908783525961729](https://twitter.com/Annihil4tionGod/status/1402908783525961729)
+[https://twitter.com/Annihil4tionGod/status/1402908783525961729](https://twitter.com/Annihil4tionGod/status/1402908783525961729)
 
 &#x200B;
 

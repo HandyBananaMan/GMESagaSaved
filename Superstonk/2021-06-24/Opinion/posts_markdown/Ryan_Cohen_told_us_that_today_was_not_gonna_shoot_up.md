@@ -1,5 +1,6 @@
-# Author: Starhammer4Billion
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7cdq4/ryan_cohen_told_us_that_today_was_not_gonna_shoot/](https://www.reddit.com/r/Superstonk/comments/o7cdq4/ryan_cohen_told_us_that_today_was_not_gonna_shoot/)
+#Title: Ryan Cohen told us, that today was not gonna shoot up
+#Author: Starhammer4Billion
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7cdq4/ryan_cohen_told_us_that_today_was_not_gonna_shoot/](https://www.reddit.com/r/Superstonk/comments/o7cdq4/ryan_cohen_told_us_that_today_was_not_gonna_shoot/)
 
 
 Every time he posts something that has to do with poop, its a sign of a red day.  

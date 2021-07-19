@@ -1,5 +1,6 @@
-# Author: stonkster69canman
-# Post URL: [https://www.reddit.com/r/GME/comments/mrim0s/i_lost_my_apartment_moved_back_in_with_my_parents/](https://www.reddit.com/r/GME/comments/mrim0s/i_lost_my_apartment_moved_back_in_with_my_parents/)
+#Title: I lost my apartment, moved back in with my parents and not a day has gone by without my parents lecturing me that im stupid or ruening my life. I hodl because i believe in the dd. I hodl for my future and i hodl for my sons future. I know there are lots of other people in similar situations.
+#Author: stonkster69canman
+#Post URL: [https://www.reddit.com/r/GME/comments/mrim0s/i_lost_my_apartment_moved_back_in_with_my_parents/](https://www.reddit.com/r/GME/comments/mrim0s/i_lost_my_apartment_moved_back_in_with_my_parents/)
 
 
 I have xx shares and will hodl till i can secure my future and his.  

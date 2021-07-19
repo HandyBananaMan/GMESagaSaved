@@ -1,5 +1,6 @@
-# Author: pdwp90
-# Post URL: [https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/](https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/)
+#Title: Disproving claims published in CNBC using data on Reddit discussion
+#Author: pdwp90
+#Post URL: [https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/](https://www.reddit.com/r/GME/comments/m97df5/disproving_claims_published_in_cnbc_using_data_on/)
 
 
 Yesterday, CNBC and Market Watch published [articles](https://www.cnbc.com/2021/03/19/stimulus-checks-unlikely-to-spur-another-gamestop-mania-says-bofa.html) on research concluding that we shouldn't expect people to use stimulus money to buy GameStop stock. One of the main justifications they gave for this conclusion was that “the number of recent conversations \[on Reddit\] including both GME and stimulus is low.”
@@ -10,15 +11,15 @@ I'll try to keep this brief, as I know attention spans here are short. Please do
 
 To start with, here is a graph of the total number of comments in my data mentioning "stimulus" or "stimmy" over time:
 
-[Stimulus comments](https://preview.redd.it/zm345ypdt6o61.png?width=1730&format=png&auto=webp&s=82f0806559dc94b6269e1bc173d4c8080b8c810c)
+![Stimulus comments](https://preview.redd.it/zm345ypdt6o61.png?width=1730&format=png&auto=webp&s=82f0806559dc94b6269e1bc173d4c8080b8c810c)
 
 Here is a graph of the number of comments in my data that mention BOTH stimulus & GME over time:
 
-[Visualization](https://preview.redd.it/54s7birft6o61.png?width=1730&format=png&auto=webp&s=3370b81da07fef88f25ffa5181e4e2188c4ea34f)
+![Visualization](https://preview.redd.it/54s7birft6o61.png?width=1730&format=png&auto=webp&s=3370b81da07fef88f25ffa5181e4e2188c4ea34f)
 
 The drop off at the end reflects the fact that it was 3:00pm as I am writing this and the day is only partially completed. One could argue that these numbers should be normalized based on the total of number of comments per day and, while I'd disagree, I'll include that graph below as well:
 
-[Visualization](https://preview.redd.it/g1roip7it6o61.png?width=1730&format=png&auto=webp&s=df9cefd4b36fea588e54ed9d1c599d5cb61a2c01)
+![Visualization](https://preview.redd.it/g1roip7it6o61.png?width=1730&format=png&auto=webp&s=df9cefd4b36fea588e54ed9d1c599d5cb61a2c01)
 
 From both of these graphs I see no indication of the number of recent conversations including both GME and stimulus being low, as a matter of fact it has hit all time highs over the last few days Here's a chart of the top 5 days in which stimulus was mentioned the most in my data of WSB daily discussion.
 

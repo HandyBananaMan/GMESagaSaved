@@ -1,18 +1,19 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/](https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/)
+#Title: Thoughts on the Fed’s balance sheet after today’s record $755.800 Reverse Repo operations and what it means for inflation and the GME rocket.
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/](https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/)
 
 
 Evening r/Superstonk, neighborhood Jellyfish here! Today, the Fed released its updated balance sheet for the week. (through June 16th)
 
 &#x200B;
 
-[https:\/\/www.federalreserve.gov\/releases\/h41\/current\/](https://preview.redd.it/z6jc5bml1y571.png?width=2012&format=png&auto=webp&s=6803371f79a5211291d60b4b3296928ae46d1a83)
+![https:\/\/www.federalreserve.gov\/releases\/h41\/current\/](https://preview.redd.it/z6jc5bml1y571.png?width=2012&format=png&auto=webp&s=6803371f79a5211291d60b4b3296928ae46d1a83)
 
 Even as the Reverse Repo operations continue hoovering money **OUT** of the system at a record clip, the assets on the Fed’s balance sheet **INCREASED by $112 Billion** to—and stop me if you have been hearing this a lot around here about things—**a new RECORD $8.064 trillion**. Let’s write this one out: **$8,064,000,000,000**
 
 &#x200B;
 
-[Look at it grow!](https://preview.redd.it/psmffj3q1y571.png?width=1462&format=png&auto=webp&s=551c890fab9ae3896ee0059fe821f90e74748acf)
+![Look at it grow!](https://preview.redd.it/psmffj3q1y571.png?width=1462&format=png&auto=webp&s=551c890fab9ae3896ee0059fe821f90e74748acf)
 
 &#x200B;
 
@@ -30,13 +31,13 @@ I think it is safe to say Yellen is going to miss her end-of-the-month goal and 
 
 &#x200B;
 
-[Funny how the drawdown coincides with the RRP blow-up.... ](https://preview.redd.it/7mf3e9jv1y571.png?width=1456&format=png&auto=webp&s=40bb172ffc50a304dd90e7caf9d842da072fec40)
+![Funny how the drawdown coincides with the RRP blow-up.... ](https://preview.redd.it/7mf3e9jv1y571.png?width=1456&format=png&auto=webp&s=40bb172ffc50a304dd90e7caf9d842da072fec40)
 
 # OK Jellyfish, all of us find this Fed stuff fun (NOT), but why should I care and how can this tie to GME?!?!
 
 &#x200B;
 
-[I like being beaten over the head with Fed information, NOT!](https://i.redd.it/s14kkni02y571.gif)
+![I like being beaten over the head with Fed information, NOT!](https://i.redd.it/s14kkni02y571.gif)
 
 Remember the other day when [I posted that inflation is the lit match that is going to light the fuse to our rocket?](https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/)
 
@@ -48,7 +49,7 @@ https://preview.redd.it/2zp3vsn52y571.png?width=1459&format=png&auto=webp&s=0115
 
 &#x200B;
 
-[M2:  I’ve mastered the ability of standing so incredibly still… That I become invisible to the eye. Watch. ](https://preview.redd.it/jdhnuw472y571.jpg?width=300&format=pjpg&auto=webp&s=cf692b4fc944262ce58aa33dd51a08cdfdccf323)
+![M2:  I’ve mastered the ability of standing so incredibly still… That I become invisible to the eye. Watch. ](https://preview.redd.it/jdhnuw472y571.jpg?width=300&format=pjpg&auto=webp&s=cf692b4fc944262ce58aa33dd51a08cdfdccf323)
 
 Notice that? The velocity of money is grinding to a record (there’s that word again) low! When discussing inflation, folks rightly get caught up in the jump in prices. However, money velocity is often overlooked. What does the 1.122 number tell us? That cash is just sitting there and taking a LONG time to trickle into the economy.
 
@@ -76,7 +77,7 @@ TL:DR – I believe inflation is still the match that has been lit that will lig
 
 &#x200B;
 
-[ Tick Tock and I hope I didn't screw this up too badly! ](https://i.redd.it/o4aq5gwa2y571.gif)
+![ Tick Tock and I hope I didn't screw this up too badly! ](https://i.redd.it/o4aq5gwa2y571.gif)
 
 EDIT 1:
 
@@ -90,4 +91,4 @@ Even assuming the velocity of money @ 0, that would still be 18.5%?
 
 EDIT 2: The conclusions of this post are challenged and possibly debunked [here](https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/)
 
-EDIT 3: ![Waffle House Index](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/) backing this up in the 'real world'?
+EDIT 3: [Waffle House Index](https://www.reddit.com/r/Superstonk/comments/o59uyb/no_inflation_my_waffle_house_has_had_to_print_new/) backing this up in the 'real world'?

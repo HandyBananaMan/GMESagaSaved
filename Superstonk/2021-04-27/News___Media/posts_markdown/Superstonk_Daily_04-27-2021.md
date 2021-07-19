@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/](https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/)
+#Title: Superstonk Daily 04-27-2021
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/](https://www.reddit.com/r/Superstonk/comments/mzl0dq/superstonk_daily_04272021/)
 
 
 &#x200B;
 
-[Banner submission by u\/NitroDildo](https://preview.redd.it/b8veyvpdblv61.png?width=4000&format=png&auto=webp&s=8a53cf543bedde9e0c88c57feed158723d55275e)
+![Banner submission by u\/NitroDildo](https://preview.redd.it/b8veyvpdblv61.png?width=4000&format=png&auto=webp&s=8a53cf543bedde9e0c88c57feed158723d55275e)
 
 # Good Morning Superstonk!
 
@@ -14,7 +15,7 @@ How about them after hours?!
 
 &#x200B;
 
-[Big fat green crayon in AH](https://preview.redd.it/ksrphy0y9pv61.jpg?width=960&format=pjpg&auto=webp&s=a506e249caefdc2d9011854a49f83449ef48e43d)
+![Big fat green crayon in AH](https://preview.redd.it/ksrphy0y9pv61.jpg?width=960&format=pjpg&auto=webp&s=a506e249caefdc2d9011854a49f83449ef48e43d)
 
 Before we hand the banana over to Brick Tamland for today's top story, I want to make sure everyone has seen [u/atobitt's AMA update](https://www.reddit.com/r/Superstonk/comments/mz37ds/dr_trimbath_ama_questions/?utm_source=share&utm_medium=web2x&context=3). **The official AMA question thread** [is now live!!](https://www.reddit.com/r/Superstonk/comments/mzknu6/official_ama_dr_susanne_trimbath_phd_thursday/?utm_source=share&utm_medium=web2x&context=3)**.**
 
@@ -28,13 +29,13 @@ And speaking of Dr. Trimbath's book Naked Short & Greedy, I want to add links an
 
 &#x200B;
 
-[She is lurking 👀](https://preview.redd.it/ur5g2fqlbmv61.jpg?width=1079&format=pjpg&auto=webp&s=dc4a20bccc42895475a4c313aebc8e71095874a0)
+![She is lurking 👀](https://preview.redd.it/ur5g2fqlbmv61.jpg?width=1079&format=pjpg&auto=webp&s=dc4a20bccc42895475a4c313aebc8e71095874a0)
 
 Please keep in mind as you peruse the sub, this week and always, that we are garnering some *highly esteemed* attention. And we deserve it!!! But we need to behave as the good apes do when Jane Goodall comes to teach. Don't you want to evolve to learn how to make crayon? Let's keep being excellent, reading, discussing ideas civilly, and evolving. Dr. T is watching.
 
 &#x200B;
 
-[Dr. T when she reads our sub](https://preview.redd.it/xkj494mgumv61.jpg?width=539&format=pjpg&auto=webp&s=2634aaa650b2e2743cf74143c534ca5851a4ca23)
+![Dr. T when she reads our sub](https://preview.redd.it/xkj494mgumv61.jpg?width=539&format=pjpg&auto=webp&s=2634aaa650b2e2743cf74143c534ca5851a4ca23)
 
 So with that, here's u/Bye_Triangle with today's top story.
 
@@ -82,7 +83,7 @@ Though, with the debt crushed, the capital raised, and the newly selected (and h
 
 Back to you, u/pinkcatsonacid
 
-[Papa Cohen is debt free and swimmin in tendies](https://preview.redd.it/6c0qtvxiqmv61.jpg?width=1500&format=pjpg&auto=webp&s=ee31696febeb078de715f769c1ff0b80e22cf5aa)
+![Papa Cohen is debt free and swimmin in tendies](https://preview.redd.it/6c0qtvxiqmv61.jpg?width=1500&format=pjpg&auto=webp&s=ee31696febeb078de715f769c1ff0b80e22cf5aa)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -116,7 +117,7 @@ Basically, hedgies have to keep more money in the bank to keep playing their gam
 
 &#x200B;
 
-[All those minimum deposit requirements](https://preview.redd.it/xfv7a05v8nv61.jpg?width=726&format=pjpg&auto=webp&s=a5b9e1c8ef864ab9da9029f6142e875dd3ff57bb)
+![All those minimum deposit requirements](https://preview.redd.it/xfv7a05v8nv61.jpg?width=726&format=pjpg&auto=webp&s=a5b9e1c8ef864ab9da9029f6142e875dd3ff57bb)
 
 # Automod Posting and Commenting Requirements
 
@@ -137,7 +138,7 @@ Ok listen, it's hard to steer a tight ship while also allowing you drunk ass sai
 
 &#x200B;
 
-[No speaky](https://preview.redd.it/crns4cgy1nv61.jpg?width=640&format=pjpg&auto=webp&s=45e94e8c6f24f3eb4550184dc74cdf7b557cf5b0)
+![No speaky](https://preview.redd.it/crns4cgy1nv61.jpg?width=640&format=pjpg&auto=webp&s=45e94e8c6f24f3eb4550184dc74cdf7b557cf5b0)
 
 We realize these rules kinda suck for some apes. That's why I'm providing the resources here to help you interact with the sub. But have you noticed how relatively quiet and peaceful it's been? That's because mods are working around the clock through some [crazy stuff](https://twitter.com/RedChessQueen99/status/1386463002363404290) behind the scenes to keep it clean.
 
@@ -183,7 +184,7 @@ We don't care, just be nice and lets make this community as Excellent as we can!
 
 &#x200B;
 
-[HODL](https://preview.redd.it/i1fn7ie26nv61.jpg?width=650&format=pjpg&auto=webp&s=77699b152a2e2aa13afa399ea8bee23474d37260)
+![HODL](https://preview.redd.it/i1fn7ie26nv61.jpg?width=650&format=pjpg&auto=webp&s=77699b152a2e2aa13afa399ea8bee23474d37260)
 
 &#x200B;
 
@@ -195,7 +196,7 @@ We don't care, just be nice and lets make this community as Excellent as we can!
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 **Edits**
 

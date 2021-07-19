@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/](https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/)
+#Title: Superstonk Daily DD- Wednesday 05-12-2021- CARL HAGBERG PROXY VOTING AMA DAY 🚀🚀🚀🚀 THIS ONE WILL JACK EVERY TEAT!!!! 💎🙌
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/](https://www.reddit.com/r/Superstonk/comments/nal1br/superstonk_daily_dd_wednesday_05122021_carl/)
 
 
 &#x200B;
 
-[Banner submission by u\/skratchattack ](https://preview.redd.it/aonkh35b4ly61.png?width=1111&format=png&auto=webp&s=f05b0100dbeb418e286ffb91726e458875c9d73b)
+![Banner submission by u\/skratchattack ](https://preview.redd.it/aonkh35b4ly61.png?width=1111&format=png&auto=webp&s=f05b0100dbeb418e286ffb91726e458875c9d73b)
 
 # Good Morning Superstonk!!!
 
@@ -22,7 +23,7 @@
 
 # The Tweet Heard Round the World
 
-[Mission Control to Major Gamestop. Do you read me? HODL.](https://preview.redd.it/jbj5axgezky61.png?width=1920&format=png&auto=webp&s=d9cc9dede70692e40f6ea2419cbf0efa046bac87)
+![Mission Control to Major Gamestop. Do you read me? HODL.](https://preview.redd.it/jbj5axgezky61.png?width=1920&format=png&auto=webp&s=d9cc9dede70692e40f6ea2419cbf0efa046bac87)
 
 So Gamestop decided to be cryptic af while also jacking all of the tits yesterday when they tweeted this pic with the caption "**Been away for the past few months. What did I miss**?"
 
@@ -54,13 +55,13 @@ If that were to happen with GME, that would be more than checkmate for Hedgies, 
 
 Now do you see why it's not just a bunch of tin foil conspiracy? **DO YOU SEE IT?** (Laughs maniacally)
 
-[Ground Control to Major GME- DO WE HAVE BLASTOFF?!?!?!](https://preview.redd.it/6w7n8qeomly61.png?width=600&format=png&auto=webp&s=9a29e0f288d76f33e57514c99e745af4448529ff)
+![Ground Control to Major GME- DO WE HAVE BLASTOFF?!?!?!](https://preview.redd.it/6w7n8qeomly61.png?width=600&format=png&auto=webp&s=9a29e0f288d76f33e57514c99e745af4448529ff)
 
 &#x200B;
 
 # [And don't forget that yesterday was the first day that Gamestop Corp was actually able to see live poll results from the proxy voting.](https://www.reddit.com/r/Superstonk/comments/mxwfyt/proxy_voting_dd_how_the_count_works_and_timeline/?utm_source=share&utm_medium=web2x&context=3) THEY KNOW!!!
 
-[From the proxy vote computershare company's client handbook](https://preview.redd.it/tzcu9feq2oy61.png?width=762&format=png&auto=webp&s=117d1dc4553efd2c4586beb42f7220077d74585c)
+![From the proxy vote computershare company's client handbook](https://preview.redd.it/tzcu9feq2oy61.png?width=762&format=png&auto=webp&s=117d1dc4553efd2c4586beb42f7220077d74585c)
 
 **Not only do they get REAL TIME results, they are ACTIONABLE results, meaning when they see the numbers and reports, THEY CAN BE UPHELD IN A COURT OF LAW!!!** [**Read more about it here!**](https://www-us.computershare.com/content/download.asp?docId=%7B9D6D5536-F0AD-4BF0-BECD-BA50A08971E1%7D&cc=US&lang=en&bhjs=0&theme=cpu)
 
@@ -94,7 +95,7 @@ The apes in that documentary are just an earlier generation of us, that lacked t
 
 &#x200B;
 
-[Carl Hagberg, Retail Shareholder Rights Expert](https://preview.redd.it/fxanehaymly61.png?width=226&format=png&auto=webp&s=f9d969180951dcbacc6622e0220afb4049c0e0bc)
+![Carl Hagberg, Retail Shareholder Rights Expert](https://preview.redd.it/fxanehaymly61.png?width=226&format=png&auto=webp&s=f9d969180951dcbacc6622e0220afb4049c0e0bc)
 
 [**Upon Dr. T's recommendation, everyone needs to read this comment from Mr. Hagberg to the SEC regarding overvoting!🚨**](https://www.sec.gov/comments/4-725/4725-4611649-176367.pdf)
 
@@ -190,7 +191,7 @@ This film is for you all, we'll answer any questions you have.
 
 # DTCC Liquidity Test (yes, again)
 
-[I can haz fundz?](https://preview.redd.it/xr9yu0vntly61.jpg?width=726&format=pjpg&auto=webp&s=e2b83a20214bf0ce00097c72d1268cee88974c1a)
+![I can haz fundz?](https://preview.redd.it/xr9yu0vntly61.jpg?width=726&format=pjpg&auto=webp&s=e2b83a20214bf0ce00097c72d1268cee88974c1a)
 
 [**So the DTCC is having a liquidity test tomorrow, May 13th.**](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/NSCC/SR-NSCC-2021-002.pdf)
 
@@ -202,7 +203,7 @@ Well... This doesn't effect anything in the market in real time, it is merely a 
 
 ## [Stocks just suffered the worst bout of concentrated selling pressure in history i.e. MASS SELLOFF YESTERDAY](https://twitter.com/sentimentrader/status/1392110819568095234?s=20)
 
-[Like takin aaaaall your valuables to the pawn shop right before bills come due](https://preview.redd.it/bk7mvyk3oly61.png?width=1373&format=png&auto=webp&s=70d8901da1e06a287b9298bc1ff40ecab723ab8a)
+![Like takin aaaaall your valuables to the pawn shop right before bills come due](https://preview.redd.it/bk7mvyk3oly61.png?width=1373&format=png&auto=webp&s=70d8901da1e06a287b9298bc1ff40ecab723ab8a)
 
 So I can't find anything to really verify this tweet besides the tweet itself, but I will say, as u/bye_triangle pointed out, that u/deepfuckingvalue follows this account on his twitter, and I know that guy doesn't follow bogus sources. So I'm just saying take this was a liiiiittle grain of salt. But mods think this checks out. ✅
 
@@ -226,7 +227,7 @@ flair to the mod-only flair lineup. Please note, we will still remove posts that
 
 It's a seriously thin line to toe between democracy and something else. We are a pretty liberal mod team and we try to let the apes decide what we read in the jungle, but we also realize the weight and responsibility we have to provide accurate information to the community. Hopefully this satisfies both sides of the dilemma.
 
-[smooth brain](https://preview.redd.it/1u24b08ttly61.png?width=758&format=png&auto=webp&s=ba2f11a9317f8028adb35e9571739fc546b1b700)
+![smooth brain](https://preview.redd.it/1u24b08ttly61.png?width=758&format=png&auto=webp&s=ba2f11a9317f8028adb35e9571739fc546b1b700)
 
 We're all just a bunch of smooth brained apes tryin' to get a couple wrinkles here. ✌
 
@@ -286,7 +287,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[!apevote! for flair!](https://preview.redd.it/76m0p2rbsly61.jpg?width=850&format=pjpg&auto=webp&s=04688ef35c66d0876a678d99a7dcf424e0dd9f97)
+![!apevote! for flair!](https://preview.redd.it/76m0p2rbsly61.jpg?width=850&format=pjpg&auto=webp&s=04688ef35c66d0876a678d99a7dcf424e0dd9f97)
 
 **Reddit down, wot do?**
 
@@ -304,7 +305,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 &#x200B;
 
-EDIT: ![Breaking News- IBKR changes its terms of service (in preparation for MOASS?)](https://www.reddit.com/r/Superstonk/comments/nahwr5/warning_ibkr_is_changing_its_terms_of_services_in/?utm_source=share&utm_medium=web2x&context=3)
+EDIT: [Breaking News- IBKR changes its terms of service (in preparation for MOASS?)](https://www.reddit.com/r/Superstonk/comments/nahwr5/warning_ibkr_is_changing_its_terms_of_services_in/?utm_source=share&utm_medium=web2x&context=3)
 
 Mod comment from u/leaglese:
 

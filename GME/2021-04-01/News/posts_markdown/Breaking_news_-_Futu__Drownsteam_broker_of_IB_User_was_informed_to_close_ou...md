@@ -1,5 +1,6 @@
-# Author: beludius
-# Post URL: [https://www.reddit.com/r/GME/comments/mhom16/breaking_news_futu_drownsteam_broker_of_ib_user/](https://www.reddit.com/r/GME/comments/mhom16/breaking_news_futu_drownsteam_broker_of_ib_user/)
+#Title: Breaking news - Futu ( Drownsteam broker of IB) User was informed to close out GME short position today due to FTD
+#Author: beludius
+#Post URL: [https://www.reddit.com/r/GME/comments/mhom16/breaking_news_futu_drownsteam_broker_of_ib_user/](https://www.reddit.com/r/GME/comments/mhom16/breaking_news_futu_drownsteam_broker_of_ib_user/)
 
 
 This is captured and posted in GME community in FUTU Hong Kong, and have been confirmed by different users.

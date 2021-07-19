@@ -1,5 +1,6 @@
-# Author: InterwebAficionado
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odbw9t/fucking_ryan_cohen_man_smiles_and_shakes_head/](https://www.reddit.com/r/Superstonk/comments/odbw9t/fucking_ryan_cohen_man_smiles_and_shakes_head/)
+#Title: "Fucking Ryan Cohen, man!" *smiles and shakes head*
+#Author: InterwebAficionado
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odbw9t/fucking_ryan_cohen_man_smiles_and_shakes_head/](https://www.reddit.com/r/Superstonk/comments/odbw9t/fucking_ryan_cohen_man_smiles_and_shakes_head/)
 
 
 Just a quick funny story. I was talking with my wife about how we need a new large dog crate because our current is a bit small and faulty.

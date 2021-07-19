@@ -1,5 +1,6 @@
-# Author: Leaglese
-# Post URL: [https://www.reddit.com/r/GME/comments/mcj8ly/failure_to_deliver_ftd_dd_can_shorts_escape/](https://www.reddit.com/r/GME/comments/mcj8ly/failure_to_deliver_ftd_dd_can_shorts_escape/)
+#Title: Failure to Deliver ("FTD") DD - Can shorts escape settlement? Nope and the potential Notice of Intention to Buy-in Catalyst
+#Author: Leaglese
+#Post URL: [https://www.reddit.com/r/GME/comments/mcj8ly/failure_to_deliver_ftd_dd_can_shorts_escape/](https://www.reddit.com/r/GME/comments/mcj8ly/failure_to_deliver_ftd_dd_can_shorts_escape/)
 
 
 

@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/](https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/)
+#Title: Citadel's Connection to Retail Orders and Retail Liquidity
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/](https://www.reddit.com/r/Superstonk/comments/ofwnfd/citadels_connection_to_retail_orders_and_retail/)
 
 
 Previously I did a [DD on retail interest on GME](https://www.reddit.com/r/Superstonk/comments/oabdv7/gmes_retail_interest_examining_the_retail/) that focused on the numbers and  some of the information here is a repost from that write up, but with a couple of new important points. Since the retail interest continues to update, I also wanted to break off the educational part of that previous post about the Retail Liquidity Program that I could just link back too in the future. Hopefully I will also educate folks about this program that the NYSE runs since it gives us apes special information about how many shares retail is putting in orders for each week. This will also allow me/some other ape to move to more weekly updates on the actual data from the retail liquidity program.
@@ -13,12 +14,12 @@ This post includes many abbreviations, but was included to shorten things a bit.
 * DMM – Designated Market Maker
 * GME – GAMESTONK
 * IoC – Immediate or Cancel (order type)
-* MPL – Mid-Point Passive Liquidity ([MPL Image](https://imgur.com/DIiE0is))
+* MPL – Mid-Point Passive Liquidity (![MPL Image](https://imgur.com/DIiE0is))
 * NYSE – New York Stock Exchange
 * OBV – On Balance Volume
 * RLP – Retail Liquidity Providers/Program
 * RMO – Retail Member Organizations
-* RPI – Retail Price Improvement ([RPI Image](https://imgur.com/CsAjdBF))
+* RPI – Retail Price Improvement (![RPI Image](https://imgur.com/CsAjdBF))
 * SHF – Shitty/Short Hedge Funds
 * SLMM – Supplemental Liquidity Market Maker
 * SLP – Supplemental Liquidity Provider
@@ -54,7 +55,7 @@ The most important point is that the Retail Liquidity Program will help establis
 
 It looks like only around 1.75% of the CADV is the retail orders inside of the RLP. (remember this is the bare minimum since not every broker is an RMO).
 
-[CADV vs. Retail Orders](https://imgur.com/LY404kv)
+![CADV vs. Retail Orders](https://imgur.com/LY404kv)
 
 **Who can be a Retail Liquidity Provider?**
 
@@ -94,7 +95,7 @@ As I said earlier in the post, I have been archiving the files as they are poste
 
 Suppose your broker is an RMO. They mark your order as originating from retail, with the order falling into one of 3 categories. An important feature is that the special tags by the RMO mark your order as NOT coming from an algorithm or HFT Firm. The orders listed in this data are from retail investors only and get classified one of three ways. (see pg. 369 of [https://www.nyse.com/publicdocs/nyse/regulation/nyse/NYSE_Rules.pdf](https://www.nyse.com/publicdocs/nyse/regulation/nyse/NYSE_Rules.pdf) for complete descriptions, I include an image)
 
-[Retail Order Designation Image](https://imgur.com/PZibOUC)
+![Retail Order Designation Image](https://imgur.com/PZibOUC)
 
 **Type 1** – the retail order will only interact with available contra-side (i.e. buy matched to a sell and vice versa) RPI orders and MPL (Midpoint Passive Liquidity) orders. If the order is not completely filled, the portion that does not execute is immediately and automatically cancelled.
 
@@ -106,13 +107,13 @@ Note the part about orders being "immediately and automatically" cancelled. This
 
 **How many orders get filled in the RLP for GME?**
 
-[Fill Rate Image](https://imgur.com/LFbGlDO)
+![Fill Rate Image](https://imgur.com/LFbGlDO)
 
 From looking at the data, it appears like the fill rate for GME orders within the RLP program is averaging about 12.8% from April 26th to July 2nd.
 
 **Why does this happen?**
 
-[IOC Image](https://imgur.com/A802uCL)
+![IOC Image](https://imgur.com/A802uCL)
 
 I listed the order classifications here, because as you saw in the table a significant number of orders placed for GME are resulting in cancellations within the retail liquidity program due to how the orders are marked by the RMO and cancellations would happen when THERE ISN’T ENOUGH LIQUIDITY in the RPI and MPL order types. So even though over 85% of the retail orders were "cancelled" within the retail liquidity program, I would hazard an educated guess that your orders got filled anyways. Since the RMO is potentially submitting orders as batches, smaller orders are just straight up getting filled with no cancellations (the average size of an executed order is around 30 shares which seems reasonable but the submitted orders are like 200+ shares), while larger orders are taking more time to actually fill OR are being ported out of the program into a *non-disclosing portion of the market* that's hidden... 
 

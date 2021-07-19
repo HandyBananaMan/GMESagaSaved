@@ -1,5 +1,6 @@
-# Author: karasuuchiha
-# Post URL: [https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/](https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/)
+#Title: The Counter Play to the Everything Short
+#Author: karasuuchiha
+#Post URL: [https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/](https://www.reddit.com/r/GME/comments/miueuf/the_counter_play_to_the_everything_short/)
 
 
 [Please go to the Correction of this Thesis, its slightly different but is a world of difference](https://www.reddit.com/r/GME/comments/ml2w7u/the_counter_to_the_everything_short_correction/?utm_medium=android_app&utm_source=share)
@@ -76,4 +77,4 @@ Tin Foil Hat Theory: Shitedal crashed the evergiven to crash the US Economy or b
 
 
 
-Credit also goes to ![BlackRock a Trillion Dollar Honey Pot](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/) from u/weeknddev for helping my collect my thoughts and evidence together on this, giving me an opposing view leading to the obvious truth 🦍 in control 😏
+Credit also goes to [BlackRock a Trillion Dollar Honey Pot](https://www.reddit.com/r/GME/comments/mhd7ba/blackrock_and_a_trillion_dollar_honeypot/) from u/weeknddev for helping my collect my thoughts and evidence together on this, giving me an opposing view leading to the obvious truth 🦍 in control 😏

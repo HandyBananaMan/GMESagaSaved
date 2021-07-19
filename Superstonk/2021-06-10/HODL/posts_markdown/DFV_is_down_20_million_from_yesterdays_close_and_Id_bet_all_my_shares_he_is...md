@@ -1,5 +1,6 @@
-# Author: UnhappyWalruss
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nww71t/dfv_is_down_20_million_from_yesterdays_close_and/](https://www.reddit.com/r/Superstonk/comments/nww71t/dfv_is_down_20_million_from_yesterdays_close_and/)
+#Title: DFV is down 20 million from yesterday's close and I'd bet all my shares he isn't even batting an eye.
+#Author: UnhappyWalruss
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nww71t/dfv_is_down_20_million_from_yesterdays_close_and/](https://www.reddit.com/r/Superstonk/comments/nww71t/dfv_is_down_20_million_from_yesterdays_close_and/)
 
 
 As the title says. Keep the chins up apes! I have a very sneaky suspicion GME has sold all their shares today at market value and this explains the continued slow drop in price. Super bullish for tomorrow as we are definitely oversold at this point and due a nice gap fill up. 

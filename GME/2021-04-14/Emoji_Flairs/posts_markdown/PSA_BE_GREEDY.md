@@ -1,5 +1,6 @@
-# Author: getshankedkid
-# Post URL: [https://www.reddit.com/r/GME/comments/mqzsoa/psa_be_greedy/](https://www.reddit.com/r/GME/comments/mqzsoa/psa_be_greedy/)
+#Title: PSA: BE GREEDY.
+#Author: getshankedkid
+#Post URL: [https://www.reddit.com/r/GME/comments/mqzsoa/psa_be_greedy/](https://www.reddit.com/r/GME/comments/mqzsoa/psa_be_greedy/)
 
 
  **TL;DR: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀**

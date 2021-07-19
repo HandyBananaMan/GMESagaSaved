@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/lx9ut2/finra_data_now_shows_only_28_million_gme_short/](https://www.reddit.com/r/GME/comments/lx9ut2/finra_data_now_shows_only_28_million_gme_short/)
+#Title: FINRA data now shows only 28 million GME short volume over the past 3 days vs 67 million from Feb 24-26. With total trade volume also dropping 60% this week, could this be a sign of 💎✋ and low availability of shorts? 💎✋💎🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/lx9ut2/finra_data_now_shows_only_28_million_gme_short/](https://www.reddit.com/r/GME/comments/lx9ut2/finra_data_now_shows_only_28_million_gme_short/)
 
 
 &#x200B;
@@ -90,7 +91,7 @@ There has been no change in the level of shorting for ETFs (XRT still shorted >1
 * [https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-retail-etf-xrt](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-retail-etf-xrt)
 * [https://www.etfchannel.com/symbol/xrt/](https://www.etfchannel.com/symbol/xrt/)
 * [https://www.etfchannel.com/type/most-shorted-etfs/](https://www.etfchannel.com/type/most-shorted-etfs/)
-* ![https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/](https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/)
+* [https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/](https://www.etfchannel.com/article/202102/xrt-gme-mgni-ostk-large-outflows-detected-at-etf-xrt-gme-mgni-ostk-XRT02192021.htm/)
 
 &#x200B;
 

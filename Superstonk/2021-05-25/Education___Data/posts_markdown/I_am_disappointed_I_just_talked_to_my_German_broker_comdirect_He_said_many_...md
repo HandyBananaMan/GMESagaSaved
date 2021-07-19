@@ -1,5 +1,6 @@
-# Author: Getshorts
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkqqto/i_am_disappointed_i_just_talked_to_my_german/](https://www.reddit.com/r/Superstonk/comments/nkqqto/i_am_disappointed_i_just_talked_to_my_german/)
+#Title: 📢I am disappointed: I just talked to my German broker comdirect. He said many requested the vote material but only very few handed it in. 😥 It's easy! I did it in 5 minutes. 6 crosses one signature and your customer number, sent back via e-mail! See link/post. #apes_do_your_job don't be lazy!
+#Author: Getshorts
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkqqto/i_am_disappointed_i_just_talked_to_my_german/](https://www.reddit.com/r/Superstonk/comments/nkqqto/i_am_disappointed_i_just_talked_to_my_german/)
 
 
 If you don't have the Proxy material just call comdirect. They are alway available via phone. I think it can be done until tomorrow night. I recommmend to call once you have send it back to ensure they see it on time and froward it on time.  Please feel free to share. 

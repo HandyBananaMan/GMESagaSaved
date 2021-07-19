@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/ly8tof/synopsis_for_03052021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/ly8tof/synopsis_for_03052021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-05-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/ly8tof/synopsis_for_03052021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/ly8tof/synopsis_for_03052021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -34,7 +35,7 @@ But thank you everyone none the less <3 I love all of you retards.
 
 &#x200B;
 
-[Cohens new tweet.](https://preview.redd.it/3q3grkcbf6l61.png?width=537&format=png&auto=webp&s=343515c8430adcd4fbdcf8650573bfd2abc70a7f)
+![Cohens new tweet.](https://preview.redd.it/3q3grkcbf6l61.png?width=537&format=png&auto=webp&s=343515c8430adcd4fbdcf8650573bfd2abc70a7f)
 
 Some of you younger guys may not recognize this ugly motherfucker, but this ~~CUMSOCK~~ Sockpuppet used to be the old mascot from [Pets.com](https://Pets.com)
 
@@ -145,7 +146,7 @@ Get some of that sweet fucking dip, hold the line, laugh at the Cucks at Melvin 
 
 &#x200B;
 
-[Bro' tein God of Gains](https://preview.redd.it/a7y3cnwyk6l61.jpg?width=1242&format=pjpg&auto=webp&s=d267ae761f0af412bde5f05553005d454a4e6503)
+![Bro' tein God of Gains](https://preview.redd.it/a7y3cnwyk6l61.jpg?width=1242&format=pjpg&auto=webp&s=d267ae761f0af412bde5f05553005d454a4e6503)
 
 # Gain porn,
 
@@ -157,7 +158,7 @@ So do your part, it's ok to say you're portfolio is up X%, don't go around posti
 
 &#x200B;
 
-[I'm seriously recycling this image more than I recycle irl](https://preview.redd.it/vwbrfyrjl6l61.png?width=512&format=png&auto=webp&s=94c6433af51e707229a1c9b3d4897bd80d9b6eac)
+![I'm seriously recycling this image more than I recycle irl](https://preview.redd.it/vwbrfyrjl6l61.png?width=512&format=png&auto=webp&s=94c6433af51e707229a1c9b3d4897bd80d9b6eac)
 
 # FUD Bots shills and trolls
 
@@ -183,7 +184,7 @@ Doesn't matter what you do, in the weekend the stock market is closed, and all y
 
 &#x200B;
 
-[haha yeah I know](https://preview.redd.it/zuz7p2mcm6l61.png?width=553&format=png&auto=webp&s=d8569082a9fd3a321662376c3d1a47493dfb1523)
+![haha yeah I know](https://preview.redd.it/zuz7p2mcm6l61.png?width=553&format=png&auto=webp&s=d8569082a9fd3a321662376c3d1a47493dfb1523)
 
 &#x200B;
 
@@ -253,7 +254,7 @@ Writing your Rep does help, make sure they know as much as they need! give them 
 
 Edit 2: Deepfuckingvalue just posted!
 
-![https://twitter.com/TheRoaringKitty/status/1367858650551902209](https://twitter.com/TheRoaringKitty/status/1367858650551902209)
+[https://twitter.com/TheRoaringKitty/status/1367858650551902209](https://twitter.com/TheRoaringKitty/status/1367858650551902209)
 
 &#x200B;
 

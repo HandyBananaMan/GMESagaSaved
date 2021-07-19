@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2qqw8/remember_that_today_should_be_the_last_day_of/](https://www.reddit.com/r/Superstonk/comments/o2qqw8/remember_that_today_should_be_the_last_day_of/)
+#Title: Remember that today SHOULD be the last day of trading before NSCC-2021-002!
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2qqw8/remember_that_today_should_be_the_last_day_of/](https://www.reddit.com/r/Superstonk/comments/o2qqw8/remember_that_today_should_be_the_last_day_of/)
 
 
 NSCC-2021-002 SHOULD go live on June 21st, next Monday. This is the calls from Marge. The Supplemental Liquidity Deposit Adjustment, i.e. if we don't like your positions give us more money in 1 hour rule. If you can't pay, then fuck you, get liquidated. The teeth of NSCC-2021-801.

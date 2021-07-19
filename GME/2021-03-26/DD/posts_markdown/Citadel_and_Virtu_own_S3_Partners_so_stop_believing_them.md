@@ -1,5 +1,6 @@
-# Author: StonkyFarts
-# Post URL: [https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/](https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/)
+#Title: Citadel and Virtu own S3 Partners so stop believing them!!!
+#Author: StonkyFarts
+#Post URL: [https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/](https://www.reddit.com/r/GME/comments/mdwu8v/citadel_and_virtu_own_s3_partners_so_stop/)
 
 
  Re-post from January.
@@ -102,4 +103,4 @@ ADV Page.15 KCG
 
 [https://ir.virtu.com/press-releases/press-release-details/2017/Virtu-Financial-Inc-Completes-Acquisition-of-KCG-Holdings-Inc/default.aspx](https://ir.virtu.com/press-releases/press-release-details/2017/Virtu-Financial-Inc-Completes-Acquisition-of-KCG-Holdings-Inc/default.aspx)
 
-![https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html](https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html)
+[https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html](https://www.cnbc.com/2021/01/27/hedge-fund-targeted-by-reddit-board-melvin-capital-closed-out-of-gamestop-short-position-tuesday.html)

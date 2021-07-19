@@ -1,5 +1,6 @@
-# Author: CuriousCatNYC777
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/)
+#Title: European Financial News is Reporting that Hedge Funds / Banks May Have Joined Forces with the Fed to Manipulate Certain “Meme” Stocks in Order to Avoid a Repo Apocalypse - Possibly Disguising Themselves Online as Redditors
+#Author: CuriousCatNYC777
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/](https://www.reddit.com/r/Superstonk/comments/nneg7p/european_financial_news_is_reporting_that_hedge/)
 
 
 Translated from Italian Using Google translate (Italian Apes, feel free to correct)
@@ -28,7 +29,7 @@ The question arises, connecting the dots of what happened on the market yesterda
 
 &#x200B;
 
-[Source: Bloomberg](https://preview.redd.it/96a76kt25z171.png?width=500&format=png&auto=webp&s=0af60ccb51fff8a3b88ef42bd7fc32544fba4ce0)
+![Source: Bloomberg](https://preview.redd.it/96a76kt25z171.png?width=500&format=png&auto=webp&s=0af60ccb51fff8a3b88ef42bd7fc32544fba4ce0)
 
 **433 billion in use, 38 more than the day before, 190 billion more in a week and third highest level ever.** In short, the Fed continues to flood the liquidity market with its purchases of securities on the secondary market for 80 billion per month (plus 40 of Mortgage Backed Securities) but this is beginning to no longer know where to store that cash. **And then he brings it back to the Fed, obtaining as collateral the same Treasuries that the Central Bank drains into the Quantitive Easing.**
 
@@ -38,7 +39,7 @@ Became a global topic of discussion in February, **when their short squeezes hik
 
 &#x200B;
 
-[Source: Swaggy](https://preview.redd.it/sicnmsyc5z171.png?width=500&format=png&auto=webp&s=0a4f6e7b98c54bd893796d9a7ced933ee17904b8)
+![Source: Swaggy](https://preview.redd.it/sicnmsyc5z171.png?width=500&format=png&auto=webp&s=0a4f6e7b98c54bd893796d9a7ced933ee17904b8)
 
 And, consequently, to have then monopolized Twitter and Stocktwits by default. And even in this case, no news relating to the accounts or the business plan guaranteed content to the conversation: **someone threw the stone and everyone followed suit.**
 
@@ -46,13 +47,13 @@ Starting from a very classic theme: AMC's short interest had just returned to al
 
 &#x200B;
 
-[Source: Bloomberg](https://preview.redd.it/ocf2zdun5z171.png?width=500&format=png&auto=webp&s=5f42307401a22213c2a7348f8c968eea3d9263bd)
+![Source: Bloomberg](https://preview.redd.it/ocf2zdun5z171.png?width=500&format=png&auto=webp&s=5f42307401a22213c2a7348f8c968eea3d9263bd)
 
 On the other hand, this other image:
 
 &#x200B;
 
-[Source: Bloomberg](https://preview.redd.it/qnlnje0s5z171.png?width=500&format=png&auto=webp&s=20c8162a5670f6b25bf7edad8aadd5eb297f0689)
+![Source: Bloomberg](https://preview.redd.it/qnlnje0s5z171.png?width=500&format=png&auto=webp&s=20c8162a5670f6b25bf7edad8aadd5eb297f0689)
 
 summarizes the day: **the basket of stocks most followed and traded by users of WallStreetBets - with a clear aim of short squeeze - marked the greatest increase since the beginning of April.** Without a reason, in fact. But you know, **anyone can write anonymously and covered by nicknames on those chats.** Perhaps, stirring the spirits of those who want to punish the real banksters of Wall Street, hitting them with their own weapons. Perhaps, by typing those appeals to the revolutionary use of the security account from a computer of a neat desk of some bank or hedge fund that buys trading flows from Robinhood to set up its algorithms\*\*. And who, also being a Primary dealer, is now joining\*\* **forces with the Fed to avoid a repo apocalypse**
 

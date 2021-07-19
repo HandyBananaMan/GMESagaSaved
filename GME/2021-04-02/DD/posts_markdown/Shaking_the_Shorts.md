@@ -1,5 +1,6 @@
-# Author: ResidentSix
-# Post URL: [https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/](https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/)
+#Title: Shaking the Shorts
+#Author: ResidentSix
+#Post URL: [https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/](https://www.reddit.com/r/GME/comments/mj1rm8/shaking_the_shorts/)
 
 
 Hello Apes!
@@ -60,7 +61,7 @@ Most of the sources I used are DDs from this sub....
 
 - An academic paper written in 2009 about the settlement mechanics of US securities [link](https://www.researchgate.net/publication/228260887_Naked_Short_Sales_and_Fails_to_Deliver_An_Overview_of_Clearing_and_Settlement_Procedures_for_Stock_Trades_in_the_US) (you should really read this.)
 
-- Investopedia "Buy In"![link](https://www.investopedia.com/terms/b/buyin.asp)
+- Investopedia "Buy In"[link](https://www.investopedia.com/terms/b/buyin.asp)
 
 \--------------------
 

@@ -1,5 +1,6 @@
-# Author: No1Important_4real
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/)
+#Title: 1000 Cuts 2: The Hard Way
+#Author: No1Important_4real
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/)
 
 
 **PREFACE**
@@ -30,7 +31,7 @@ Before we dive into the numbers I want to cover the quick basics on how the SI r
 
 &#x200B;
 
-[Daily short positions on public exchanges and dark pool](https://preview.redd.it/t6z3mt7hs7871.png?width=376&format=png&auto=webp&s=9e32172df438a602d7618c193d94cf2943d34710)
+![Daily short positions on public exchanges and dark pool](https://preview.redd.it/t6z3mt7hs7871.png?width=376&format=png&auto=webp&s=9e32172df438a602d7618c193d94cf2943d34710)
 
 This table displays the minimum number of short positions entered for the SI cycle from June 1st through the 15th. As per usual, the two days before the report date on the 28th, the stock price rose. We can further validate this was covering of excess short positions by seeing the large volume of new short positions created on those days relative to the rest of the chart, especially on the normal market. They simply opened new short positions to balance the ones they closed. Therefore, when calculating the period of June 1st through the 15th, we should include May 26th onward. The report on the 28th stated they had 12.67 million short positions open, so we can take 12.67 million and add it to the sum from May 26th to June 15th.
 
@@ -42,7 +43,7 @@ Before I provide a solution however, I need to provide the next dataset, daily o
 
 &#x200B;
 
-[Maximum shares hidden in options](https://preview.redd.it/e7zytpzqs7871.png?width=344&format=png&auto=webp&s=73666b2bcb79c5902bdf77345aacfc3a7a978a4d)
+![Maximum shares hidden in options](https://preview.redd.it/e7zytpzqs7871.png?width=344&format=png&auto=webp&s=73666b2bcb79c5902bdf77345aacfc3a7a978a4d)
 
 As mentioned previously, I have taken the time to total the maximum number of shares that could have been hidden in options on any given day. The table above displays the minimum number of shorts opened, the maximum number of shares hidden in options, and the difference being the number of excess short positions in a given day.
 
@@ -56,7 +57,7 @@ What this strategy would do is not close any more short positions, but just jugg
 
 &#x200B;
 
-[Running Total minimum number of shares shorted](https://preview.redd.it/2tx0e9nzs7871.png?width=425&format=png&auto=webp&s=1b42553fd191ba60ba486d0204eb2f5a33779479)
+![Running Total minimum number of shares shorted](https://preview.redd.it/2tx0e9nzs7871.png?width=425&format=png&auto=webp&s=1b42553fd191ba60ba486d0204eb2f5a33779479)
 
 Note: The running total starts with a base of 12.67 million, the reported SI on May 28th.
 
@@ -98,7 +99,7 @@ I think ole Kenny had a mole in GME that gave him a heads up on what was coming 
 
 So, assuming Kenny had inside knowledge and tried pulling a fast one on the FINRA report, he would have been able to make the reported SI go down, the sell off hit harder, and sow some FUD. The catch? He on one new suitor, a third group wiggling in; regulators. Kenny is naked shorting, Kenny is insider trading, Kenny is misreporting, Kenny is a douche bag. All of these things are illegal, and that pound of flesh will come due someday. Kenny is taking it front back and center.
 
-[A great blaxploitation film and a very perinate title](https://preview.redd.it/xi2sdbh8t7871.jpg?width=356&format=pjpg&auto=webp&s=f9dc177bf34073f6b114a0fa38a52de2a68970cc)
+![A great blaxploitation film and a very perinate title](https://preview.redd.it/xi2sdbh8t7871.jpg?width=356&format=pjpg&auto=webp&s=f9dc177bf34073f6b114a0fa38a52de2a68970cc)
 
 **THE T21: I WAS PROMISED TENDIES**
 
@@ -126,6 +127,6 @@ With how connected Kenny is to the world of finance, I would think him having so
 
 &#x200B;
 
-Q: (![TheDragon-44](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/h3g1j8v/?utm_source=reddit&utm_medium=web2x&context=3))  So June 16th was 14 million options correct? What is t+21 from June 16th? Could that be the new reset?
+Q: ([TheDragon-44](https://www.reddit.com/r/Superstonk/comments/oa9ivv/1000_cuts_2_the_hard_way/h3g1j8v/?utm_source=reddit&utm_medium=web2x&context=3))  So June 16th was 14 million options correct? What is t+21 from June 16th? Could that be the new reset?
 
 A:  That is the purchase of options, those options expire at a different date and not all of them expire on the same date, but many of them expire on July 16th.

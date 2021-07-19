@@ -1,5 +1,6 @@
-# Author: Region-Formal
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o21g7c/the_moass_and_black_swan_theory/](https://www.reddit.com/r/DDintoGME/comments/o21g7c/the_moass_and_black_swan_theory/)
+#Title: The MOASS and Black Swan Theory
+#Author: Region-Formal
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o21g7c/the_moass_and_black_swan_theory/](https://www.reddit.com/r/DDintoGME/comments/o21g7c/the_moass_and_black_swan_theory/)
 
 
 **Background**

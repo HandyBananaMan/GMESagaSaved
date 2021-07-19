@@ -1,5 +1,6 @@
-# Author: Flexinzack
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwwe9s/its_so_cute_how_citadel_is_trying_their_utmost/](https://www.reddit.com/r/Superstonk/comments/nwwe9s/its_so_cute_how_citadel_is_trying_their_utmost/)
+#Title: It's so cute how Citadel is trying their utmost best to stop GME from getting put into Russell 1000, my parents are calling me a retard, friends are calling me a retard, hell I even feel like a retard. But the DD is so fundamentally ingrained that no price will ever influence even if its -$3000
+#Author: Flexinzack
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwwe9s/its_so_cute_how_citadel_is_trying_their_utmost/](https://www.reddit.com/r/Superstonk/comments/nwwe9s/its_so_cute_how_citadel_is_trying_their_utmost/)
 
 
 Because at the end of the day, the squeeze has not squoze.

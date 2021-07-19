@@ -1,5 +1,6 @@
-# Author: SneakySub
-# Post URL: [https://www.reddit.com/r/GME/comments/nkiuzr/potential_reason_for_the_180_wall_and_what_kenny/](https://www.reddit.com/r/GME/comments/nkiuzr/potential_reason_for_the_180_wall_and_what_kenny/)
+#Title: Potential reason for the 180 wall and what Kenny is up to now.
+#Author: SneakySub
+#Post URL: [https://www.reddit.com/r/GME/comments/nkiuzr/potential_reason_for_the_180_wall_and_what_kenny/](https://www.reddit.com/r/GME/comments/nkiuzr/potential_reason_for_the_180_wall_and_what_kenny/)
 
 
 So I am a financial analyst, but this is definitely not financial advice. I know that the most commonly accepted theory for the 180 wall is that we have some juicy margin calls behind it. But what if the goal is much much simpler than that.

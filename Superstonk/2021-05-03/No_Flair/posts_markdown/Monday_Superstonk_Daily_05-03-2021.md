@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/](https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/)
+#Title: Monday Superstonk Daily 05-03-2021
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/](https://www.reddit.com/r/Superstonk/comments/n3sdux/monday_superstonk_daily_05032021/)
 
 
 &#x200B;
 
-[Banner Submission by: u\/Oskar\_Potocki  ](https://preview.redd.it/jroau0fm5rw61.png?width=1164&format=png&auto=webp&s=bb76030792940c943c4dc41fabae8ffa29678b8c)
+![Banner Submission by: u\/Oskar\_Potocki  ](https://preview.redd.it/jroau0fm5rw61.png?width=1164&format=png&auto=webp&s=bb76030792940c943c4dc41fabae8ffa29678b8c)
 
 # Good Morning Superstonk!!
 
@@ -16,7 +17,7 @@ It's finally Monday again!!
 
 &#x200B;
 
-[I heart Monday mornings](https://preview.redd.it/kq53bg3ibrw61.jpg?width=817&format=pjpg&auto=webp&s=567c785dd7f2953a13d275874cbdfba22c815ded)
+![I heart Monday mornings](https://preview.redd.it/kq53bg3ibrw61.jpg?width=817&format=pjpg&auto=webp&s=567c785dd7f2953a13d275874cbdfba22c815ded)
 
 # 🚨Breaking News🚨[Gamestop announces expansion of 700,000 sq. ft. fulfilment center🚨](https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york)
 
@@ -40,13 +41,13 @@ Gamestop announced today the expansion of its North American fulfilment network 
 
 &#x200B;
 
-[That witness list 👀](https://preview.redd.it/ugsvu551erw61.png?width=640&format=png&auto=webp&s=5dfb8917f9fcbac19fb13832b0cfe67e9a3c138e)
+![That witness list 👀](https://preview.redd.it/ugsvu551erw61.png?width=640&format=png&auto=webp&s=5dfb8917f9fcbac19fb13832b0cfe67e9a3c138e)
 
 Check out the witness panel. Not only are we hearing from the new SEC man himself, [Gary Gensler](https://www.investopedia.com/who-is-gary-gensler-5095448), but we are going to hear from the [DTCC](https://www.investopedia.com/terms/d/dtcc.asp) and [FINRA](https://www.investopedia.com/terms/f/finra.asp) as well. That's it- that's all the key players sitting at one table. Talk about a high stakes poker game. Whose bluff will show first?
 
 To be clear, I personally am not expecting ground breaking results from this hearing. I don't usually enjoy partaking in such political theater but I am obviously invested in this topic in multiple ways and I look forward to the relevant entities finally at least having to speak for themselves. I wait with bated breath to be proven wrong 🙃.
 
-[Prove me wrong](https://preview.redd.it/ejdoet43hrw61.jpg?width=950&format=pjpg&auto=webp&s=1fe0c4a48c4f51cfc2f1acad8c870ae883e44bfe)
+![Prove me wrong](https://preview.redd.it/ejdoet43hrw61.jpg?width=950&format=pjpg&auto=webp&s=1fe0c4a48c4f51cfc2f1acad8c870ae883e44bfe)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -66,7 +67,7 @@ And this AMA will be hosted by our very own u/Jsmar18! Here's a little note from
 
 *I look forward to reading through and compiling the many questions you have for Dave, given his wide reaching experience in the industry. This is going to be one awesome session that you cannot miss!*
 
-[Dave Lauer, Former High Frequency Trader and Exchange Expert](https://preview.redd.it/fe2vaszc8tw61.png?width=400&format=png&auto=webp&s=827c502a2c680bd78c9579012a13d0049e360e1f)
+![Dave Lauer, Former High Frequency Trader and Exchange Expert](https://preview.redd.it/fe2vaszc8tw61.png?width=400&format=png&auto=webp&s=827c502a2c680bd78c9579012a13d0049e360e1f)
 
 [**AMA post is now live! Submit your questions now!!**](https://www.reddit.com/r/Superstonk/comments/n3o6ng/official_ama_dave_lauer_may_5_2021_300_pm_edt/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -122,7 +123,7 @@ Take a moment to see what the board recommends you vote for if you are unsure. T
 
 Gamestop's Board of Directors is urging everyone to vote as soon as possible. Many speculate that there may be some short-seller-related fuckery with the votes given how badly they are likely hurting right now. With the untold number of borrowed shares and phantom shares flying around it certainly seems possible we may see a substantial number of over-votes (votes that exceed the total number of existing shares). It is unclear exactly how this will be handled if it does come to fruition, so it is best you vote the moment you are able.
 
-[Vote!](https://preview.redd.it/7yz2km11asw61.png?width=842&format=png&auto=webp&s=430dc7bb4efe76f901437708f04b5a2e3411b1a3)
+![Vote!](https://preview.redd.it/7yz2km11asw61.png?width=842&format=png&auto=webp&s=430dc7bb4efe76f901437708f04b5a2e3411b1a3)
 
 [Here's what Queen Kong herself](https://www.reddit.com/r/Superstonk/comments/n1e9t8/why_voting_is_so_important_from_the_ama_with/?utm_source=share&utm_medium=web2x&context=3), aka Dr. T has to say about the importance of exercising your right to vote in corporate elections.
 
@@ -148,7 +149,7 @@ That's basically what just happened.
 
 &#x200B;
 
-[Who knows what they actually hold ](https://preview.redd.it/emfkadrvjrw61.jpg?width=996&format=pjpg&auto=webp&s=61c6d9103de520dcb71d3a29018d052456c0a889)
+![Who knows what they actually hold ](https://preview.redd.it/emfkadrvjrw61.jpg?width=996&format=pjpg&auto=webp&s=61c6d9103de520dcb71d3a29018d052456c0a889)
 
 [Here's an interesting DD](https://www.reddit.com/r/Superstonk/comments/n090ge/what_exactly_happened_with_melvin_capital/?utm_source=share&utm_medium=web2x&context=3) that dives into Melvin's magical numbers. 🦄🦄🦄🦄
 
@@ -178,7 +179,7 @@ I strongly encourage you to continue to report legitimately suspicious activity.
 
 &#x200B;
 
-[ ](https://preview.redd.it/bjg7zb84ltw61.png?width=554&format=png&auto=webp&s=e56affd43719551fdd04d4fdaa79f38ced49e8a0)
+![ ](https://preview.redd.it/bjg7zb84ltw61.png?width=554&format=png&auto=webp&s=e56affd43719551fdd04d4fdaa79f38ced49e8a0)
 
 **Be excellent to each other!!!**
 
@@ -204,7 +205,7 @@ We don't care, just be nice and lets make this community as Excellent as we can.
 
 &#x200B;
 
-[I got time 💎🙌](https://preview.redd.it/zx2psvmaptw61.jpg?width=596&format=pjpg&auto=webp&s=abc5d91d19f463525786bd54008a0b16fe15308d)
+![I got time 💎🙌](https://preview.redd.it/zx2psvmaptw61.jpg?width=596&format=pjpg&auto=webp&s=abc5d91d19f463525786bd54008a0b16fe15308d)
 
 &#x200B;
 
@@ -212,4 +213,4 @@ We don't care, just be nice and lets make this community as Excellent as we can.
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)

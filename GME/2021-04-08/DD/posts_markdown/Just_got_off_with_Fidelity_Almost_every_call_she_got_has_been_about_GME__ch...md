@@ -1,5 +1,6 @@
-# Author: CuprimPilus
-# Post URL: [https://www.reddit.com/r/GME/comments/mn475i/just_got_off_with_fidelity_almost_every_call_she/](https://www.reddit.com/r/GME/comments/mn475i/just_got_off_with_fidelity_almost_every_call_she/)
+#Title: Just got off with Fidelity. Almost every call she got has been about GME & changing from margin to cash accounts
+#Author: CuprimPilus
+#Post URL: [https://www.reddit.com/r/GME/comments/mn475i/just_got_off_with_fidelity_almost_every_call_she/](https://www.reddit.com/r/GME/comments/mn475i/just_got_off_with_fidelity_almost_every_call_she/)
 
 
 She’s actually only a year older than I am and might actually see this post since I mentioned my handle (if you’re seeing this yes, welcome to 2011’s 2012)If anyone still has like .001 shares of GME on RobinHood Gold for the UX and watching the ticker, I’ve been seeing the ask side stay stable at 115k and a bit down to 95k, but it dropped hard on buy side, from 60k this to below 45k.Before she fully changed my account to cash only, her manager tried giving me the option of having full voting rights and ownership of my stock without losing my margin trading account status.

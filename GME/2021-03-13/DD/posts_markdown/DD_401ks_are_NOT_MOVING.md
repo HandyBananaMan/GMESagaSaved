@@ -1,5 +1,6 @@
-# Author: phx9
-# Post URL: [https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/](https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/)
+#Title: DD: 401k's are NOT MOVING
+#Author: phx9
+#Post URL: [https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/](https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/)
 
 
 I'm no financial advisor, this is not financial advice. I honestly have no clue about all of this and just dumped more than I can afford to lose into GME based on DD over here. This is me pointing out imho obvious faults in others DD. ^(Edit1: still happy with my GME positions, don't mean to put any blame on those who wrote the proper DD on which base I opened them!)
@@ -27,7 +28,7 @@ But seems to be ignored by OPs, which makes me doubt their honesty.
 
 &#x200B;
 
-**EDIT0**: Contributing to the honesty doubts, let me quote u/Starhammer4Billion \![[\*](https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/gqsrt0i/?utm_source=reddit&utm_medium=web2x&context=3)\]
+**EDIT0**: Contributing to the honesty doubts, let me quote u/Starhammer4Billion \[[\*](https://www.reddit.com/r/GME/comments/m45kdr/dd_401ks_are_not_moving/gqsrt0i/?utm_source=reddit&utm_medium=web2x&context=3)\]
 
 >The OP and the poster that cheers him on are both fresh 1 Month Accounts.I suspect shills trying to "divide and Conquer" with made up good news.Designed to later pull the rug with disproven good news and new bad news, I suspect.Shills are: trollwallstreet and  Ok\_Safety\_7710
 

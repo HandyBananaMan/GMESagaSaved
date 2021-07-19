@@ -1,5 +1,6 @@
-# Author: Blast_Wreckem
-# Post URL: [https://www.reddit.com/r/GME/comments/mjkfa4/the_new13f_fillings_just_proved_melvin_is_still/](https://www.reddit.com/r/GME/comments/mjkfa4/the_new13f_fillings_just_proved_melvin_is_still/)
+#Title: The New13F Fillings Just Proved Melvin is Still in the Game, and the Shorts Likely Target to Cover is $14.52
+#Author: Blast_Wreckem
+#Post URL: [https://www.reddit.com/r/GME/comments/mjkfa4/the_new13f_fillings_just_proved_melvin_is_still/](https://www.reddit.com/r/GME/comments/mjkfa4/the_new13f_fillings_just_proved_melvin_is_still/)
 
 
 Tl;dr: recent 13F Fillings show 82 orgs holding 66M shares at $14.52 and how that could be the shorts cover target, and it may have gone unoticed...

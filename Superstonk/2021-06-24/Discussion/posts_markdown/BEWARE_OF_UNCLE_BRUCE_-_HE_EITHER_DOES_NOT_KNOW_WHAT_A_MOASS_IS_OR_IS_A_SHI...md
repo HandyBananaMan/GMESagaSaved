@@ -1,5 +1,6 @@
-# Author: Horror_Ad_3140
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o70w7z/beware_of_uncle_bruce_he_either_does_not_know/](https://www.reddit.com/r/Superstonk/comments/o70w7z/beware_of_uncle_bruce_he_either_does_not_know/)
+#Title: BEWARE OF UNCLE BRUCE - HE EITHER DOES NOT KNOW WHAT A MOASS IS OR IS A SHILL
+#Author: Horror_Ad_3140
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o70w7z/beware_of_uncle_bruce_he_either_does_not_know/](https://www.reddit.com/r/Superstonk/comments/o70w7z/beware_of_uncle_bruce_he_either_does_not_know/)
 
 
 Reasons why I think Uncle Bruce is likely to be a shill.

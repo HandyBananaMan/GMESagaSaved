@@ -1,5 +1,6 @@
-# Author: PWNWTFBBQ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)
+#Title: I think I figured out the shorting algorithm
+#Author: PWNWTFBBQ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)
 
 
 # Let's begin by looking at EVERYTHING

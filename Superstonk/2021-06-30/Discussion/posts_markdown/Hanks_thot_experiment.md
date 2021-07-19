@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oay9vr/hanks_thot_experiment/](https://www.reddit.com/r/Superstonk/comments/oay9vr/hanks_thot_experiment/)
+#Title: Hank’s thot experiment
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oay9vr/hanks_thot_experiment/](https://www.reddit.com/r/Superstonk/comments/oay9vr/hanks_thot_experiment/)
 
 
 ******** I am not a financial advisor, this is not financial advice *********

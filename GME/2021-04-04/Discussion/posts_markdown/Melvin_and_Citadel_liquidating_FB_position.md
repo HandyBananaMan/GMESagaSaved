@@ -1,5 +1,6 @@
-# Author: DiamondBoss3
-# Post URL: [https://www.reddit.com/r/GME/comments/mjsrxh/melvin_and_citadel_liquidating_fb_position/](https://www.reddit.com/r/GME/comments/mjsrxh/melvin_and_citadel_liquidating_fb_position/)
+#Title: Melvin and Citadel liquidating FB position
+#Author: DiamondBoss3
+#Post URL: [https://www.reddit.com/r/GME/comments/mjsrxh/melvin_and_citadel_liquidating_fb_position/](https://www.reddit.com/r/GME/comments/mjsrxh/melvin_and_citadel_liquidating_fb_position/)
 
 
 Okay so you may have seen this news of FB data leak recently.

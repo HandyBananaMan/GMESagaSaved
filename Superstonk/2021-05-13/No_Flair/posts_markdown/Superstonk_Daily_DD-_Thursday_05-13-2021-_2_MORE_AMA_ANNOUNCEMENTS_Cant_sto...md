@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/](https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/)
+#Title: Superstonk Daily DD- Thursday 05-13-2021- 2 MORE AMA ANNOUNCEMENTS!! Can't stop won't stop!!! 🚀🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/](https://www.reddit.com/r/Superstonk/comments/nbd3ll/superstonk_daily_dd_thursday_05132021_2_more_ama/)
 
 
 &#x200B;
 
-[Banner submission by u\/Doom\_Douche](https://preview.redd.it/9fmehxx6isy61.png?width=3840&format=png&auto=webp&s=b397a5007b8827f5c7c7b48c5fb7cf0633f66896)
+![Banner submission by u\/Doom\_Douche](https://preview.redd.it/9fmehxx6isy61.png?width=3840&format=png&auto=webp&s=b397a5007b8827f5c7c7b48c5fb7cf0633f66896)
 
 # Good Morning Superstonk!!!
 
@@ -18,13 +19,13 @@
 
 &#x200B;
 
-[Tweeted from an iPhone, huh? RC tweets from an iPhone...](https://preview.redd.it/vj0a1rlcisy61.png?width=582&format=png&auto=webp&s=bf9408de710849926ae2ccf96cd127e2fee9a4e6)
+![Tweeted from an iPhone, huh? RC tweets from an iPhone...](https://preview.redd.it/vj0a1rlcisy61.png?width=582&format=png&auto=webp&s=bf9408de710849926ae2ccf96cd127e2fee9a4e6)
 
-[In Arlington, VA, right next door to....](https://preview.redd.it/ohwwyvuzisy61.png?width=739&format=png&auto=webp&s=5ba2cb9dc35b1888034bae5a2a0bfe8f9b9159af)
+![In Arlington, VA, right next door to....](https://preview.redd.it/ohwwyvuzisy61.png?width=739&format=png&auto=webp&s=5ba2cb9dc35b1888034bae5a2a0bfe8f9b9159af)
 
 &#x200B;
 
-[That's the SEC, so brilliantly noted in red crayon](https://preview.redd.it/49hnuiy87ty61.png?width=640&format=png&auto=webp&s=fe326e99d9c0bf13fef044ac966f3984221312e8)
+![That's the SEC, so brilliantly noted in red crayon](https://preview.redd.it/49hnuiy87ty61.png?width=640&format=png&auto=webp&s=fe326e99d9c0bf13fef044ac966f3984221312e8)
 
 # 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
@@ -48,7 +49,7 @@ Wes Christian is a Texas attorney with an accent as big as his list of accomplis
 
 &#x200B;
 
-[Grandpa Kong, Carl Hagberg](https://preview.redd.it/gmc8hu3vbty61.png?width=226&format=png&auto=webp&s=61b3b3497e664ad51135dffaf86153bae2351c14)
+![Grandpa Kong, Carl Hagberg](https://preview.redd.it/gmc8hu3vbty61.png?width=226&format=png&auto=webp&s=61b3b3497e664ad51135dffaf86153bae2351c14)
 
 A note about yesterday's AMA with Carl Hagberg. I want to share this quote with you that had your mods nearly weeping with pride:
 
@@ -68,7 +69,7 @@ Also, Euroapes!! Carl says it is totally within your rights to vote!! You know w
 
 Seriously. Write emails. Send chat messages. Call. Tweet. Take Surveys. Do what you have to do to expose EToro, T212, and more. **THEY'RE YOUR SHARES AND YOU HAVE THE RIGHT TO VOTE!!!** 
 
-[Amazing artwork by u\/Bye\_Triangle](https://preview.redd.it/s071nvx4dty61.png?width=1000&format=png&auto=webp&s=e876ee7e63ea740ac69c1c2af7feb6827c992181)
+![Amazing artwork by u\/Bye\_Triangle](https://preview.redd.it/s071nvx4dty61.png?width=1000&format=png&auto=webp&s=e876ee7e63ea740ac69c1c2af7feb6827c992181)
 
 #  ✅VOTE YOUR SHARES AND GET YOUR FLAIRS!✅
 
@@ -86,7 +87,7 @@ Seriously. Write emails. Send chat messages. Call. Tweet. Take Surveys. Do what 
 
 # SEC Sunshine Act Meeting Scheduled for Today (if the don't reschedule for the 5th time)
 
-[Seriously this is like the 5th attempt at having this meeting](https://preview.redd.it/rcxewxh2lty61.png?width=982&format=png&auto=webp&s=312d1e8c10764ca760f0ca682f9c2225039a26f8)
+![Seriously this is like the 5th attempt at having this meeting](https://preview.redd.it/rcxewxh2lty61.png?width=982&format=png&auto=webp&s=312d1e8c10764ca760f0ca682f9c2225039a26f8)
 
 MATTERS TO BE CONSIDERED: >!NONE OF YOUR FUCKING BUSINESS YOU NOSEY GODDAMN REDDIT PEASANT STOP DOING THIS PLEASE DEAR GOD!<
 
@@ -102,7 +103,7 @@ The last time the VIX (Volatility Index) got above 30 was every time GME had a r
 
 You know what it closed at yesterday? 27.59 
 
-[When in doubt, zoom out](https://preview.redd.it/4aal83ntcty61.png?width=1887&format=png&auto=webp&s=c9beaa87af6c2d15f3ec6c9e75720ccb226c4f40)
+![When in doubt, zoom out](https://preview.redd.it/4aal83ntcty61.png?width=1887&format=png&auto=webp&s=c9beaa87af6c2d15f3ec6c9e75720ccb226c4f40)
 
 # It closed at 28.38 in AH 🚀🚀🚀🚀🚀🚀
 
@@ -110,7 +111,7 @@ You know what it closed at yesterday? 27.59
 
 #  US consumer prices at highest level since 2008 and core inflation at highest level since 1995 
 
-[Credit OP u\/d14m0ndh4nd5 ](https://preview.redd.it/83uxs3rkjty61.png?width=936&format=png&auto=webp&s=01a1e7db9905b425760e28621eb39088faff9579)
+![Credit OP u\/d14m0ndh4nd5 ](https://preview.redd.it/83uxs3rkjty61.png?width=936&format=png&auto=webp&s=01a1e7db9905b425760e28621eb39088faff9579)
 
 I better go call my mom...........
 
@@ -132,7 +133,7 @@ There's been a lot of posts floating around this weekend pertaining to the new [
 
 **IT DOES NOT** eliminate the extension already implemented on 002 or any others.
 
-[not it ](https://preview.redd.it/3ubwvb50ety61.png?width=1100&format=png&auto=webp&s=b74ba5c092e479e38c586c42c4a13440a1ba6557)
+![not it ](https://preview.redd.it/3ubwvb50ety61.png?width=1100&format=png&auto=webp&s=b74ba5c092e479e38c586c42c4a13440a1ba6557)
 
 # THIS RULING DOES NOTHING FOR MOASS AS A STANDALONE RULE
 
@@ -144,7 +145,7 @@ There's been a lot of posts floating around this weekend pertaining to the new [
 
 # Another Whistleblower awarded this week by the SEC for info that led to a NEW INVESTIGATION 👀👀👀👀
 
-[3.6 Milli](https://preview.redd.it/zhih9z1kzsy61.png?width=599&format=png&auto=webp&s=f525059419c0d6cb7f4fefd310d4486053a1d787)
+![3.6 Milli](https://preview.redd.it/zhih9z1kzsy61.png?width=599&format=png&auto=webp&s=f525059419c0d6cb7f4fefd310d4486053a1d787)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -156,7 +157,7 @@ There's been a lot of posts floating around this weekend pertaining to the new [
 
 Well... This doesn't effect anything in the market in real time, it is merely a computer simulation test meant to test the liquidity of the market when the new rules get implemented (think 002). It's odd that they would do a test that they *just* did in April, and they usually do **ANNUALLY,** to be doing it *again* just a **MONTH LATER**. And liquidity tests do require... liquidity... in order to pass them. So you *miiiiiight* need to sell a few things to rack up those liquid assets.....
 
-[I can haz liquid?](https://preview.redd.it/y7gndndgkty61.png?width=726&format=png&auto=webp&s=7982132a86cb5faaf95b93ec2ff10dee185f4c41)
+![I can haz liquid?](https://preview.redd.it/y7gndndgkty61.png?width=726&format=png&auto=webp&s=7982132a86cb5faaf95b93ec2ff10dee185f4c41)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -182,7 +183,7 @@ I would like to reiterate a point here before the FUD gets away from me. **THIS 
 
 &#x200B;
 
-[The totally professional and legally binding contract](https://preview.redd.it/i276ywi4fty61.png?width=960&format=png&auto=webp&s=6354b3d67d4ff034dd5696d9e97de90593a7a14b)
+![The totally professional and legally binding contract](https://preview.redd.it/i276ywi4fty61.png?width=960&format=png&auto=webp&s=6354b3d67d4ff034dd5696d9e97de90593a7a14b)
 
 # [Here's StonkU2's OP](https://www.reddit.com/r/Superstonk/comments/n71vy9/apes_change_the_world_superstonk_is_donating_time/) about the deal.
 
@@ -300,7 +301,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[Iz for us???](https://preview.redd.it/f5thnbpymty61.jpg?width=710&format=pjpg&auto=webp&s=a92039bb3e233245ae92a815a6e1d43a7cb856eb)
+![Iz for us???](https://preview.redd.it/f5thnbpymty61.jpg?width=710&format=pjpg&auto=webp&s=a92039bb3e233245ae92a815a6e1d43a7cb856eb)
 
 **Reddit down, what do?**
 
@@ -310,6 +311,6 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://mobile.twitter.com/pinkcatsonacid](https://mobile.twitter.com/pinkcatsonacid)
 
-![SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 # 🚨 ... AND VOTE!!! 🚨

@@ -1,5 +1,6 @@
-# Author: Conscious-Sea-5937
-# Post URL: [https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
+#Title: Re: SEC Closed Meeting today 3/25/2021
+#Author: Conscious-Sea-5937
+#Post URL: [https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
 
 
 So this is my first attempt at trying to add value to our beloved ape community.  I decided to see what I could find out about this closed meeting the SEC had on deck for today.  What I found is mostly above my head but it does sound to me that someone(s) about to get pinched?
@@ -82,7 +83,7 @@ Under (a) -
 
 (9) **(ii)** Significantly frustrate the implementation, or the proposed implementation, of any action by the Commission, any other federal, state, local or foreign governmental authority, any foreign securities authority, or any securities industry self-regulatory organization: ***Provided, however,*** That this paragraph (a)(9)(ii) shall not apply in any instance where the Commission has already disclosed to the public the precise content or nature of its proposed action, or where the Commission is expressly required by law to make such disclosure on its own initiative prior to taking final agency action on such proposal.
 
-**(10)** Specifically concern the Commission's consideration of, or its actual: ***Issuance of a subpoena*** (whether by the Commission directly or by any Commission [employee](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9c4c70a8673e1558c0f949913e9c9aed&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) or member); participation in a civil action or proceeding, an action in a foreign court or international tribunal, or an arbitration; or initiation, conduct, or disposition of a particular case of formal adjudication pursuant to the procedures in [5 U.S.C. 554](https://www.law.cornell.edu/uscode/text/5/554), or otherwise involving a ![determination](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=303fcbaed0f05f0084d25708de2b32ca&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) on the record after opportunity for a hearing; including, but not limited to, matters involving
+**(10)** Specifically concern the Commission's consideration of, or its actual: ***Issuance of a subpoena*** (whether by the Commission directly or by any Commission [employee](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9c4c70a8673e1558c0f949913e9c9aed&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) or member); participation in a civil action or proceeding, an action in a foreign court or international tribunal, or an arbitration; or initiation, conduct, or disposition of a particular case of formal adjudication pursuant to the procedures in [5 U.S.C. 554](https://www.law.cornell.edu/uscode/text/5/554), or otherwise involving a [determination](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=303fcbaed0f05f0084d25708de2b32ca&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) on the record after opportunity for a hearing; including, but not limited to, matters involving
 
 **(i)** The institution, prosecution, adjudication, dismissal, settlement, or amendment of any administrative proceeding, whether public or nonpublic; or
 
@@ -94,7 +95,7 @@ Under (a) -
 
 **(v)** The participation by the Commission (or any [employee](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=9c4c70a8673e1558c0f949913e9c9aed&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) or member thereof) in, or involvement with, any civil judicial proceeding or any administrative proceeding, whether as a party, as amicus curiae, or otherwise; or
 
-**(vi)** The disposition of any application for a Commission order of any nature where the issuance of such an order would involve a ![determination](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=303fcbaed0f05f0084d25708de2b32ca&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) on the record after opportunity for a hearing.
+**(vi)** The disposition of any application for a Commission order of any nature where the issuance of such an order would involve a [determination](https://www.law.cornell.edu/definitions/index.php?width=840&height=800&iframe=true&def_id=303fcbaed0f05f0084d25708de2b32ca&term_occur=999&term_src=Title:17:Chapter:II:Part:200:Subpart:I:200.402) on the record after opportunity for a hearing.
 
 # TL;DR
 

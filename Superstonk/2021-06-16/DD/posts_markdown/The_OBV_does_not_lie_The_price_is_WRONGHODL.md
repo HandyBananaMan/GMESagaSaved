@@ -1,5 +1,6 @@
-# Author: _Badtothebone_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/](https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/)
+#Title: The OBV does not lie. The price is WRONG!💎🙌HODL!🚀
+#Author: _Badtothebone_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/](https://www.reddit.com/r/Superstonk/comments/o120xs/the_obv_does_not_lie_the_price_is_wronghodl/)
 
 
 Hello Apes, Bones here, im going to explain what exactly the OBV is, what it does and how it pertains to GME.🚀
@@ -27,13 +28,13 @@ So if you look at the (180/1 day) chart for GME you will see that the price of G
 
 &#x200B;
 
-[\(GME OBV 180 day chart\)](https://preview.redd.it/zbht8slsfj571.jpg?width=828&format=pjpg&auto=webp&s=1a1c7e620a3adb137dfabcc783643d6865a8148b)
+![\(GME OBV 180 day chart\)](https://preview.redd.it/zbht8slsfj571.jpg?width=828&format=pjpg&auto=webp&s=1a1c7e620a3adb137dfabcc783643d6865a8148b)
 
 “But why would the price go down if the OBV is going up or staying flat?”
 
 &#x200B;
 
-[Vlad the stock impaler](https://preview.redd.it/0pvmjydwfj571.jpg?width=828&format=pjpg&auto=webp&s=764c994674f835ade9d1777e19904ea12fc91ca4)
+![Vlad the stock impaler](https://preview.redd.it/0pvmjydwfj571.jpg?width=828&format=pjpg&auto=webp&s=764c994674f835ade9d1777e19904ea12fc91ca4)
 
 Thats because there is actually buying pressure outweighing the selling pressure or coming damn near close to being even! 
 

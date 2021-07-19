@@ -1,5 +1,6 @@
-# Author: kaoscurrent
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa514d/someone_correct_me_if_im_wrong_isnt_today_629_t35/](https://www.reddit.com/r/Superstonk/comments/oa514d/someone_correct_me_if_im_wrong_isnt_today_629_t35/)
+#Title: Someone correct me if I'm wrong: Isn't today 6/29 T+35 from the last FTD buy-in?
+#Author: kaoscurrent
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa514d/someone_correct_me_if_im_wrong_isnt_today_629_t35/](https://www.reddit.com/r/Superstonk/comments/oa514d/someone_correct_me_if_im_wrong_isnt_today_629_t35/)
 
 
 So according to a few posts I've seen today, the last FTD buy-in date was 5/25. I remember during the last FTD cycle some of the wrinkle brains concluded that T+21 (trading days) isn't actually a thing. Instead, the major jumps have been on T+35 (calendar days).

@@ -1,5 +1,6 @@
-# Author: Sh0w3n
-# Post URL: [https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/](https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/)
+#Title: Reverse Repo Rate for today is at 134 BILLION USD - 28.25% rise in 24 hours - 10x the Average for March
+#Author: Sh0w3n
+#Post URL: [https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/](https://www.reddit.com/r/GME/comments/mhqvee/reverse_repo_rate_for_today_is_at_134_billion_usd/)
 
 
 Yeah, you read that right. 
@@ -26,7 +27,7 @@ A Repurchase Agreement is much like a loan. If you have a big juicy banana worth
 
 *Why do they matter?*
 
-Repos and reverse repos are the *LIFEBLOOD* of global financial liquidity. They allow for SUPER FAST conversions from securities to cash. The repo agreement I just described is happening daily with hedge funds and commercial banks. In fact, the submitted amount for repo agreements today (3/29) was ![$40.354 BILLION.](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) This amount represents the ONE DAY REPO due on 3/30. So yeah, SUPER short term loans- usually a few days. It's probably not a surprise that back in 2008 the go-to choice of collateral for repo agreements was mortgage backed securities.
+Repos and reverse repos are the *LIFEBLOOD* of global financial liquidity. They allow for SUPER FAST conversions from securities to cash. The repo agreement I just described is happening daily with hedge funds and commercial banks. In fact, the submitted amount for repo agreements today (3/29) was [$40.354 BILLION.](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000) This amount represents the ONE DAY REPO due on 3/30. So yeah, SUPER short term loans- usually a few days. It's probably not a surprise that back in 2008 the go-to choice of collateral for repo agreements was mortgage backed securities.
 
 &#x200B;
 

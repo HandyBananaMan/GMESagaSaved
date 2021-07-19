@@ -1,5 +1,6 @@
-# Author: Beneficial_Cover_726
-# Post URL: [https://www.reddit.com/r/GME/comments/m1dg8u/its_easy_to_claim_you_have_diamond_hands_when_you/](https://www.reddit.com/r/GME/comments/m1dg8u/its_easy_to_claim_you_have_diamond_hands_when_you/)
+#Title: It's easy to claim you have diamond hands when you held on the way down. The true test of diamond hands is holding on the way up
+#Author: Beneficial_Cover_726
+#Post URL: [https://www.reddit.com/r/GME/comments/m1dg8u/its_easy_to_claim_you_have_diamond_hands_when_you/](https://www.reddit.com/r/GME/comments/m1dg8u/its_easy_to_claim_you_have_diamond_hands_when_you/)
 
 
 I get a feeling a lot of people aren't gonna hold as this thing moons and goes through dips on the way. And I feel this way because a lot of people getting in are on WSB or watching the Youtubers who blew up because of all this.

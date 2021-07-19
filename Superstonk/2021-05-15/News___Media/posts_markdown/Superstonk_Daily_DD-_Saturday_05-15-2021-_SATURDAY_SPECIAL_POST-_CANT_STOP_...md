@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncwb8o/superstonk_daily_dd_saturday_05152021_saturday/](https://www.reddit.com/r/Superstonk/comments/ncwb8o/superstonk_daily_dd_saturday_05152021_saturday/)
+#Title: Superstonk Daily DD- Saturday 05-15-2021- SATURDAY SPECIAL POST- CAN'T STOP WON'T STOP!! THERE'S TOO MUCH HAPPENING TO STOP 🚀🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncwb8o/superstonk_daily_dd_saturday_05152021_saturday/](https://www.reddit.com/r/Superstonk/comments/ncwb8o/superstonk_daily_dd_saturday_05152021_saturday/)
 
 
 &#x200B;
 
-[Banner submission by u\/Lillywonkas ](https://preview.redd.it/fs0wmmhu14z61.png?width=960&format=png&auto=webp&s=0a93deaa9c1c55807fc6e648ee937bdb39312655)
+![Banner submission by u\/Lillywonkas ](https://preview.redd.it/fs0wmmhu14z61.png?width=960&format=png&auto=webp&s=0a93deaa9c1c55807fc6e648ee937bdb39312655)
 
 #  Good Morning Superstonk!!!
 
@@ -58,7 +59,7 @@ https://preview.redd.it/wut0xawrd7z61.jpg?width=741&format=pjpg&auto=webp&s=4000
 
 &#x200B;
 
-[Investigative Journalist Lucy Komisar](https://preview.redd.it/4v8dz4xz84z61.jpg?width=1542&format=pjpg&auto=webp&s=99cca3fbb4eb51524d5792bcbcba86f13a63fcd9)
+![Investigative Journalist Lucy Komisar](https://preview.redd.it/4v8dz4xz84z61.jpg?width=1542&format=pjpg&auto=webp&s=99cca3fbb4eb51524d5792bcbcba86f13a63fcd9)
 
 We had a fantastic time hearing what Lucy had to say about us and about the issue of naked short selling, offshoring, and Gamestop. She had this to say and I think it cannot be understated how BIG OF A DEAL it is that someone of Lucy's caliber, who has been watching this unfold for longer than a lot of us have been alive, has this to say about naked short selling and the GME saga;
 
@@ -90,7 +91,7 @@ Wes Christian is a Texas attorney with [an accent as big as his list of accompli
 
 &#x200B;
 
-[Wes Christian](https://preview.redd.it/pt6w1u9a24z61.png?width=170&format=png&auto=webp&s=611ee64151ee1f696b1a91df61404839aab57b83)
+![Wes Christian](https://preview.redd.it/pt6w1u9a24z61.png?width=170&format=png&auto=webp&s=611ee64151ee1f696b1a91df61404839aab57b83)
 
 **Here's what Dr. T has to say about how she first met Wes in her book, Naked Short and Greedy:**
 
@@ -114,7 +115,7 @@ We are so honored, humbled, and thrilled to bring you these top-tier AMA guests!
 
 &#x200B;
 
-[What is short selling?](https://preview.redd.it/hsy88ob067z61.png?width=640&format=png&auto=webp&s=2695b2062c0bdd7f1449d37d6dacb0fb2b9eb660)
+![What is short selling?](https://preview.redd.it/hsy88ob067z61.png?width=640&format=png&auto=webp&s=2695b2062c0bdd7f1449d37d6dacb0fb2b9eb660)
 
 &#x200B;
 
@@ -224,6 +225,6 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://mobile.twitter.com/pinkcatsonacid](https://mobile.twitter.com/pinkcatsonacid)
 
-![SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 # 🚨 ... AND VOTE!!! 🚨

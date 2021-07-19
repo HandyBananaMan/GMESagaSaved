@@ -1,5 +1,6 @@
-# Author: hunnybadger101
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/](https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/)
+#Title: The Citidel Algo, The Cup and Handel, The 5 Mill Offering, Russel 1000 /// I think the stars have aligned.
+#Author: hunnybadger101
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/](https://www.reddit.com/r/Superstonk/comments/o50d8u/the_citidel_algo_the_cup_and_handel_the_5_mill/)
 
 
 Sup Ape's
@@ -10,7 +11,7 @@ So its been brought up in the pas that Kenneth Griffin has created an algorithm 
 
 &#x200B;
 
-[Damit, why wont apes sell...I can feel the rope around my neck getting tighter](https://preview.redd.it/0x0m0yp0kn671.png?width=275&format=png&auto=webp&s=341e9e050281dc74720bb8dd81995aed65314c99)
+![Damit, why wont apes sell...I can feel the rope around my neck getting tighter](https://preview.redd.it/0x0m0yp0kn671.png?width=275&format=png&auto=webp&s=341e9e050281dc74720bb8dd81995aed65314c99)
 
 The algorithm truly was debunked without apes even knowing it simply buy " buying and hodling" ,it was only until recent finding that such an algorithm was brought to our attention on a wider scale. These hedgies are panicking but in the face of their investors they are spitting lies upon lies while the rope gets tighter and tighter. And as of late the move from the Russel2000  to the Russel1000 adds even more you guessed it **pressure.**
 
@@ -34,7 +35,7 @@ The only option for the shorts, is to continue dropping the share price ... Whil
 
 &#x200B;
 
-[This Cup & Handel is ready for launch](https://preview.redd.it/j6qk369uen671.png?width=1689&format=png&auto=webp&s=ea63a6a7e2be715fa71961c88628dfcbb6532e08)
+![This Cup & Handel is ready for launch](https://preview.redd.it/j6qk369uen671.png?width=1689&format=png&auto=webp&s=ea63a6a7e2be715fa71961c88628dfcbb6532e08)
 
 SO now that we have the perfect cup and handel, combined with the share offering...I cant help but say that nipples are getting super twitchy...
 

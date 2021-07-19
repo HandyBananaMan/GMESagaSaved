@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/mn2b3n/update_once_again_no_large_purchases_of_deep_itm/](https://www.reddit.com/r/GME/comments/mn2b3n/update_once_again_no_large_purchases_of_deep_itm/)
+#Title: UPDATE: ONCE AGAIN NO LARGE PURCHASES OF DEEP ITM CALLS
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/mn2b3n/update_once_again_no_large_purchases_of_deep_itm/](https://www.reddit.com/r/GME/comments/mn2b3n/update_once_again_no_large_purchases_of_deep_itm/)
 
 
 Good afternoon my fellow autists,

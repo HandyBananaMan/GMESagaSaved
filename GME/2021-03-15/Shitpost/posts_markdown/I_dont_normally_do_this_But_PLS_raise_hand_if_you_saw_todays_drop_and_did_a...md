@@ -1,5 +1,6 @@
-# Author: swiftsmile12
-# Post URL: [https://www.reddit.com/r/GME/comments/m5nekn/i_dont_normally_do_this_but_pls_raise_hand_if_you/](https://www.reddit.com/r/GME/comments/m5nekn/i_dont_normally_do_this_but_pls_raise_hand_if_you/)
+#Title: I don't normally do this. But PLS raise hand if you saw today's drop and did a YAWWWWNNNNN
+#Author: swiftsmile12
+#Post URL: [https://www.reddit.com/r/GME/comments/m5nekn/i_dont_normally_do_this_but_pls_raise_hand_if_you/](https://www.reddit.com/r/GME/comments/m5nekn/i_dont_normally_do_this_but_pls_raise_hand_if_you/)
 
 
 "Totally normal. No manipulation at all". Yeah right....

@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/](https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/)
+#Title: What just happened? Here is what I think: Prepare for a sweet Gamma Squeeze.
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/](https://www.reddit.com/r/GME/comments/m23tep/what_just_happened_here_is_what_i_think_prepare/)
 
 
 **I CAN'T STRESS THIS ENOUGH: READ THE EDITS!!! PEOPLE KEEP ASKING THE SAME QUESTIONS I ALREADY ANSWERED THERE.**
@@ -32,11 +33,11 @@ This might sound stupid or crazy, because I am just a crayon eating dipshit. But
 
 EDIT I: GME IS OFFICIALLY ON THE SSR FOR TODAY!
 
-[https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls](https://preview.redd.it/fqn6bg8zxcm61.png?width=1219&format=png&auto=webp&s=018ed431ec61dd843c95a9ea78f5b103d9af7e66)
+![https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls](https://preview.redd.it/fqn6bg8zxcm61.png?width=1219&format=png&auto=webp&s=018ed431ec61dd843c95a9ea78f5b103d9af7e66)
 
 I. In order to trigger the SSR, the price had to drop to $222.21.
 
-[NYSE just confirmed the SSR Trigger: https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls](https://preview.redd.it/okc330ono8m61.png?width=1354&format=png&auto=webp&s=f3bc51f125afd690cff295dcc60d13f1a82e2caa)
+![NYSE just confirmed the SSR Trigger: https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls](https://preview.redd.it/okc330ono8m61.png?width=1354&format=png&auto=webp&s=f3bc51f125afd690cff295dcc60d13f1a82e2caa)
 
 &#x200B;
 
@@ -54,17 +55,17 @@ III. While GME dropped down to $172 (from $340, holy shit), almost all Stocks in
 
 &#x200B;
 
-[KOSS](https://preview.redd.it/2yf1wh2fq8m61.png?width=805&format=png&auto=webp&s=11781b21423abebf70a5a679b0a3116d1aee4e09)
+![KOSS](https://preview.redd.it/2yf1wh2fq8m61.png?width=805&format=png&auto=webp&s=11781b21423abebf70a5a679b0a3116d1aee4e09)
 
-[NDX](https://preview.redd.it/ykpsn7jfq8m61.png?width=920&format=png&auto=webp&s=e9251d01d763ceee777fa4188ba081dfe548b030)
+![NDX](https://preview.redd.it/ykpsn7jfq8m61.png?width=920&format=png&auto=webp&s=e9251d01d763ceee777fa4188ba081dfe548b030)
 
-[NDAQ](https://preview.redd.it/lwbuxoigq8m61.png?width=902&format=png&auto=webp&s=31dc3f505785146c541db613b7da24a658fb5f01)
+![NDAQ](https://preview.redd.it/lwbuxoigq8m61.png?width=902&format=png&auto=webp&s=31dc3f505785146c541db613b7da24a658fb5f01)
 
-[TSLA](https://preview.redd.it/0trdxlbhq8m61.png?width=939&format=png&auto=webp&s=d5bda1646a0b4cafbd807fd9fb13f4021598f373)
+![TSLA](https://preview.redd.it/0trdxlbhq8m61.png?width=939&format=png&auto=webp&s=d5bda1646a0b4cafbd807fd9fb13f4021598f373)
 
-[AAPL](https://preview.redd.it/hqxpqj1iq8m61.png?width=909&format=png&auto=webp&s=3d50452b4a53caf313b2886152e99a71d97dd132)
+![AAPL](https://preview.redd.it/hqxpqj1iq8m61.png?width=909&format=png&auto=webp&s=3d50452b4a53caf313b2886152e99a71d97dd132)
 
-[AMC](https://preview.redd.it/cocp9loiq8m61.png?width=912&format=png&auto=webp&s=205ff4b9084fa674f11151f389a4da8200550b0c)
+![AMC](https://preview.redd.it/cocp9loiq8m61.png?width=912&format=png&auto=webp&s=205ff4b9084fa674f11151f389a4da8200550b0c)
 
 &#x200B;
 
@@ -72,11 +73,11 @@ III. While GME dropped down to $172 (from $340, holy shit), almost all Stocks in
 
 IV.  I'll have to wait and look at the Open Interest and Volume for Options in the evening and tomorrow. But someone loaded up on a shit load of $800 Calls for this friday. There was a volume of 24,244 Calls and there is an open interest of about 22,000.
 
-[ https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME ](https://preview.redd.it/4jba8v5ho8m61.png?width=882&format=png&auto=webp&s=327892ebc3a252ed9fe57ac76427ef717a8fb739)
+![ https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME ](https://preview.redd.it/4jba8v5ho8m61.png?width=882&format=png&auto=webp&s=327892ebc3a252ed9fe57ac76427ef717a8fb739)
 
 **Edit2:** (UPDATED 03/10 7:37PM **CET**) Another 8,000 Calls @ 800 were bought within the last 5 minutes. That's just flexing at that point.
 
-[ https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME ](https://preview.redd.it/swj8slplw8m61.png?width=656&format=png&auto=webp&s=84a82d9233c6012afe86cc662cd7954455ecf475)
+![ https:\/\/finance.yahoo.com\/quote\/GME\/options?p=GME ](https://preview.redd.it/swj8slplw8m61.png?width=656&format=png&auto=webp&s=84a82d9233c6012afe86cc662cd7954455ecf475)
 
 **EDIT3:** **SOMEONE WANTS THIS SHIT TO MOON REALLY BAD AND LOADED UP ON OVER 30,000 - 60,000 ADDITIONAL OPTIONS BETWEEN $300 and $400, EXPIRING FRIDAY MARCH 12TH**. (Updated 03/10, 7:35PM CET) That is an increase of another 20,000 Calls from just 10 Minutes ago!. This shit is about to explode tomorrow, because we were able to reach those prices without a Squeeze today! This confirms me in my theory, that someoneTM just watched and saw, that retail can be trusted. **(Updated 03/10, 7:35PM CET)**
 

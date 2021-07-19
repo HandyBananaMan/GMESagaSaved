@@ -1,5 +1,6 @@
-# Author: 1bil74
-# Post URL: [https://www.reddit.com/r/GME/comments/mg27yu/nscc2021004_just_got_approved_today_so_careful/](https://www.reddit.com/r/GME/comments/mg27yu/nscc2021004_just_got_approved_today_so_careful/)
+#Title: Nscc-2021-004 just got approved today... so careful now with shorting! https://www.sec.gov/rules/sro/nscc.htm
+#Author: 1bil74
+#Post URL: [https://www.reddit.com/r/GME/comments/mg27yu/nscc2021004_just_got_approved_today_so_careful/](https://www.reddit.com/r/GME/comments/mg27yu/nscc2021004_just_got_approved_today_so_careful/)
 
 
 Nscc-2021-004 just got approved today... so careful now with shorting! https://www.sec.gov/rules/sro/nscc.htm

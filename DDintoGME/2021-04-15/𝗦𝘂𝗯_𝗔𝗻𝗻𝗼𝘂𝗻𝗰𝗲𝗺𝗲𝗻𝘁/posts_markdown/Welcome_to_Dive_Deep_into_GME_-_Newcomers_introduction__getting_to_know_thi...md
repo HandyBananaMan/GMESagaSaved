@@ -1,5 +1,6 @@
-# Author: thr0wthis4ccount4way
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mrqvf1/welcome_to_dive_deep_into_gme_newcomers/](https://www.reddit.com/r/DDintoGME/comments/mrqvf1/welcome_to_dive_deep_into_gme_newcomers/)
+#Title: Welcome to Dive Deep into $GME - Newcomer's introduction & getting to know this sub
+#Author: thr0wthis4ccount4way
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mrqvf1/welcome_to_dive_deep_into_gme_newcomers/](https://www.reddit.com/r/DDintoGME/comments/mrqvf1/welcome_to_dive_deep_into_gme_newcomers/)
 
 
 https://preview.redd.it/gie11p6r8ft61.png?width=1500&format=png&auto=webp&s=fb9c0dd4cbc5e016a4d1b4a6809e20a4aa4dd606
@@ -108,6 +109,6 @@ If you support our cause encourage DD authors to repost on our sub and crosspost
 
 &#x200B;
 
-![Official Disclaimer](https://www.reddit.com/r/DDintoGME/wiki/disclaimer)
+[Official Disclaimer](https://www.reddit.com/r/DDintoGME/wiki/disclaimer)
 
 All Graphics by u/AzzyAus

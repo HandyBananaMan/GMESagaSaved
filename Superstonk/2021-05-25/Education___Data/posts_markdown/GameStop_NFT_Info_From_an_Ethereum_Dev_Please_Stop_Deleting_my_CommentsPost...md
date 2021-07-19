@@ -1,10 +1,11 @@
-# Author: brenjerman
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl0jdd/gamestop_nft_info_from_an_ethereum_dev_please/](https://www.reddit.com/r/Superstonk/comments/nl0jdd/gamestop_nft_info_from_an_ethereum_dev_please/)
+#Title: GameStop NFT Info From an Ethereum Dev. (Please Stop Deleting my Comments/Posts Automod 😭)
+#Author: brenjerman
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl0jdd/gamestop_nft_info_from_an_ethereum_dev_please/](https://www.reddit.com/r/Superstonk/comments/nl0jdd/gamestop_nft_info_from_an_ethereum_dev_please/)
 
 
 So automod (the bane of my existence) decided to delete my comment that did some digging into the Gamestop ERC 721 Smart Contract. I'm reposting the info here for anyone curious.
 
-*All ethereum addresses posted here can be looked up on* ![*etherscan.io*](https://etherscan.io) *(as I'm too afraid automod will delete my post if I add in links).*
+*All ethereum addresses posted here can be looked up on* [*etherscan.io*](https://etherscan.io) *(as I'm too afraid automod will delete my post if I add in links).*
 
 # Smart Contract
 

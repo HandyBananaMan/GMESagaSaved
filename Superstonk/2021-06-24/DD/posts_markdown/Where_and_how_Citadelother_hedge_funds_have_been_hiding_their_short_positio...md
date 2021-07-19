@@ -1,5 +1,6 @@
-# Author: AcedVector
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/](https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/)
+#Title: Where and how Citadel/other hedge funds have been hiding their short positions, and a true estimate of how many short shares are currently being hidden.
+#Author: AcedVector
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/](https://www.reddit.com/r/Superstonk/comments/o7fsqc/where_and_how_citadelother_hedge_funds_have_been/)
 
 
 Hello there fellow apes! I have an interesting theory to share with you today, that if plausible, would be able to explain how Citadel (and maybe even other hedge funds with massively overleveraged positions against GME) have been hiding the true extent of their short position, as well as give a good estimate of how many shorts they have truly been hiding.
@@ -12,7 +13,7 @@ Archegos, just like Citadel, suffered massive exposure in their positions in the
 
 So what in the goddamn is a [total return swap](https://smartasset.com/financial-advisor/total-return-swap)? I'm glad you asked. A total return swap is basically a contract between two parties (such as a hedgefund and a bank) , where one party makes a series of payments to the other, and in exchange they are receiving the full return of the assets being held by the other party. In essence, one party is paying another to hold assets for them in exchange for the returns the asset would give them, *as if they had owned it themselves*. WSJ has a nice graphic of the process behind it here, given that this is happening between a hedgefund and a bank:
 
-[In this demographic, the hedgefund pays fees to the bank to buy assets for them and gets returns based on the returns of the assets. If the position is highly leveraged, the bank can margin call them and sell their positions if they fail the call.](https://preview.redd.it/kgxpxkz30b771.png?width=666&format=png&auto=webp&s=df8d9cca2d57301e9dcd617c7e7d84f2e875f7e5)
+![In this demographic, the hedgefund pays fees to the bank to buy assets for them and gets returns based on the returns of the assets. If the position is highly leveraged, the bank can margin call them and sell their positions if they fail the call.](https://preview.redd.it/kgxpxkz30b771.png?width=666&format=png&auto=webp&s=df8d9cca2d57301e9dcd617c7e7d84f2e875f7e5)
 
 In Archegos' case, they were EXTREMELY overleveraged (as a lot of their positions were concentrated on certain stocks like blue chip stocks), and when they got margin called and couldn't put up the collateral the banks they paid to hold their assets for them sold them into the market, causing *market wide sell offs* in the positions that they held billions of dollars in. This lead to their downfall, and shows why so many people are against total return swaps, especially if you *don't even have to disclose you have them like Citadel and other hedge funds can*.
 
@@ -20,25 +21,25 @@ In Archegos' case, they were EXTREMELY overleveraged (as a lot of their position
 
 It doesn't make sense to say that Citadel or Melvin Capital or any other hedge fund that shorted GameStop had *total return swaps*, because they actually *were* in ownership of their short positions. However, as I was scouring the sub, I came across a [post](https://www.reddit.com/r/Superstonk/comments/o776lz/i_know_exactly_who_is_holding_the_05_puts/h2x1333/?context=3) (its worth checking out) that had a nice comment by u/taimpeng that goes into detail on how there could be the exact EQUIVALENT of a short position using *synthetic return swaps*: return swaps between a synthetic prime brokerage and a hedge fund that hedge funds can use to gain massive leverage (similar to Archegos using total return swaps to gain massive leverage on their positions) , that would effectively allow them to have a short position without *actually* owning the short position.
 
-[Seriously, give this man an award! This is gold.](https://preview.redd.it/vaq7xmm88b771.png?width=890&format=png&auto=webp&s=7b2fb7cba925f9d0f82743af182556378aba09af)
+![Seriously, give this man an award! This is gold.](https://preview.redd.it/vaq7xmm88b771.png?width=890&format=png&auto=webp&s=7b2fb7cba925f9d0f82743af182556378aba09af)
 
 Taimpeng here basically states that through netting by novation, its possible that hedge funds like Citadel, Melvin Capital, and other hedge funds can essentially say that they have "closed their short positions", but effectively just create an equivalent of the short position by entering into a contract with a synthetic prime broker to say, "hey, we want you to *swap* our short shares with OTM put contracts. We'll hold the OTM puts and we'll pay you to keep hold of our short shares." This would, in effect explain how those 0.5$ strike July 16th puts appear in the options chain, and why it looks like GME isn't as shorted as it **actually** is. It helps to explain the FTDs to some extent too as a lot of these shares could have been nakedly shorted, but put under the veil of these put contracts that makes it look like the shares actually exist. If this is the case, then we can go down the options chain to all OTM puts of the like and find an estimate of the equivalent accumulation of short shares that the hedge funds have worked together to hide through these OTM put contracts (at least the ones in the option chain that haven't expired) , so l took the liberty of finding where most of these are (this is using [yahoo finance options data](https://finance.yahoo.com/quote/GME/options?p=GME)):
 
-[This is for July 16th. Basically what I'm doing is sorting by open interest and adding up the highest ones \(as in thousands of open interest\) on expirations that have suspicious  OTM low strikes like there are here.](https://preview.redd.it/ff7un4tohb771.png?width=816&format=png&auto=webp&s=9d387eac1f293050e32b20f222d50a936f144c69)
+![This is for July 16th. Basically what I'm doing is sorting by open interest and adding up the highest ones \(as in thousands of open interest\) on expirations that have suspicious  OTM low strikes like there are here.](https://preview.redd.it/ff7un4tohb771.png?width=816&format=png&auto=webp&s=9d387eac1f293050e32b20f222d50a936f144c69)
 
 For reference, here is what the puts on a options expiration date is *supposed* to look like:
 
-[Here, the open interest shows up low overall on strikes OTM like 10$ and 50$ which don't signify much suspicious activity at play.](https://preview.redd.it/nyn2273gnb771.png?width=812&format=png&auto=webp&s=d9353baa9c0735eaca9cc12e0ca83eb5a97e7cce)
+![Here, the open interest shows up low overall on strikes OTM like 10$ and 50$ which don't signify much suspicious activity at play.](https://preview.redd.it/nyn2273gnb771.png?width=812&format=png&auto=webp&s=d9353baa9c0735eaca9cc12e0ca83eb5a97e7cce)
 
 I will now show you the rest of the dates that these suspicious OTM put open interest appears:
 
-[October 15th, 2021](https://preview.redd.it/hcigmh0skb771.png?width=829&format=png&auto=webp&s=d7cd0bff9bed635400694fad7d8053a9888aa9c2)
+![October 15th, 2021](https://preview.redd.it/hcigmh0skb771.png?width=829&format=png&auto=webp&s=d7cd0bff9bed635400694fad7d8053a9888aa9c2)
 
-[November 19th, 2021](https://preview.redd.it/hqkcs5hclb771.png?width=823&format=png&auto=webp&s=3c0ebe3528cf42b396209dd3de6a8d07612239b1)
+![November 19th, 2021](https://preview.redd.it/hqkcs5hclb771.png?width=823&format=png&auto=webp&s=3c0ebe3528cf42b396209dd3de6a8d07612239b1)
 
-[BIG one for January 21, 2022](https://preview.redd.it/a7mguofbmb771.png?width=830&format=png&auto=webp&s=fb2711873a2e93b658ee41976308ba9a8b4f2169)
+![BIG one for January 21, 2022](https://preview.redd.it/a7mguofbmb771.png?width=830&format=png&auto=webp&s=fb2711873a2e93b658ee41976308ba9a8b4f2169)
 
-[January 20, 2023](https://preview.redd.it/r5uoay4vmb771.png?width=816&format=png&auto=webp&s=7e6246ee344e1c4b73a66cf41b32d06038ba62dd)
+![January 20, 2023](https://preview.redd.it/r5uoay4vmb771.png?width=816&format=png&auto=webp&s=7e6246ee344e1c4b73a66cf41b32d06038ba62dd)
 
 After crunching the numbers, here is a table of what I found:
 
@@ -71,15 +72,15 @@ According to his post, approximately 1,100,000 calls in open interest were prese
 
 # Edit: saw some comments asking to do short % of float so here it is
 
-79,598,000 shares short / 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 143% of float shorted**
+79,598,000 shares short / 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 143% of float shorted**
 
 Revised calculation:
 
-89,268,000 shares short / 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 160% of float shorted**
+89,268,000 shares short / 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/)  **≈ 160% of float shorted**
 
 # Calculation including the deep ITM CALL side from criand's [post](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/?utm_source=share&utm_medium=web2x&context=3):
 
-# 199,268,000 shares short/ 55,480,000 ![float](https://finance.yahoo.com/quote/GME/key-statistics/) ≈ 359% of float shorted
+# 199,268,000 shares short/ 55,480,000 [float](https://finance.yahoo.com/quote/GME/key-statistics/) ≈ 359% of float shorted
 
 That is a MASSIVE amount of short interest, and shows that **GME is still very much being manipulated even if we can't see it on the surface**. If they have to buy all of these shares at once  when we quite possibly own the float MULTIPLE times over, they would have to buy approximately 199,268,000 shares ***MULTIPLE TIMES.*** The share price would *definitely* go into the millions in that circumstance (at least in my opinion), and we KNOW the hedgies can pay it too. ***BUY AND HODL.***
 

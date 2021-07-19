@@ -1,5 +1,6 @@
-# Author: bvttfvcker
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndehqa/masters_thesis_i_no_longer_give_a_flying_fuck/](https://www.reddit.com/r/Superstonk/comments/ndehqa/masters_thesis_i_no_longer_give_a_flying_fuck/)
+#Title: Masters thesis: I no longer give a flying fuck about DD. I do not care about Warden, I do however like the interviews that are being put together. We're already in the endgame, so shut the fuck up because ITS COCKTAIL TIME.
+#Author: bvttfvcker
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndehqa/masters_thesis_i_no_longer_give_a_flying_fuck/](https://www.reddit.com/r/Superstonk/comments/ndehqa/masters_thesis_i_no_longer_give_a_flying_fuck/)
 
 
 Hey all,

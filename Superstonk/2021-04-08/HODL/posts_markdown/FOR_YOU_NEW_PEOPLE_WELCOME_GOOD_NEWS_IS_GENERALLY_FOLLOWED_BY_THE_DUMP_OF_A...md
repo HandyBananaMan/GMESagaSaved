@@ -1,5 +1,6 @@
-# Author: MarginallyRetarded
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mms986/for_you_new_people_welcome_good_news_is_generally/](https://www.reddit.com/r/Superstonk/comments/mms986/for_you_new_people_welcome_good_news_is_generally/)
+#Title: 🦍 🚀 FOR YOU NEW PEOPLE, WELCOME. GOOD NEWS IS GENERALLY FOLLOWED BY THE DUMP OF A TON OF SYNTHETIC SHARES. AFTER A WHILE YOU START TO LIKE IT. 🦍 🚀
+#Author: MarginallyRetarded
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mms986/for_you_new_people_welcome_good_news_is_generally/](https://www.reddit.com/r/Superstonk/comments/mms986/for_you_new_people_welcome_good_news_is_generally/)
 
 
 Ahhhhh. The smell of shorts in the morning. Takes me back to ‘nam and napalm. Don’t worry kids, this is all apart of the fun. It’s just not time to lift off yet.

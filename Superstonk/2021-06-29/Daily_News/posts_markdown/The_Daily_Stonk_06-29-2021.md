@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/](https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/)
+#Title: The Daily Stonk 06-29-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/](https://www.reddit.com/r/Superstonk/comments/oa50do/the_daily_stonk_06292021/)
 
 
 &#x200B;
@@ -36,7 +37,7 @@ Seems like the Sideways trading guy and exponential floor guy are joining forces
 
 &#x200B;
 
-[credit to u\/VeryUnscientific](https://preview.redd.it/d20n7jmgb6871.png?width=960&format=png&auto=webp&s=bb5c8162fd61d9c125685fb27882bc1d4579f38a)
+![credit to u\/VeryUnscientific](https://preview.redd.it/d20n7jmgb6871.png?width=960&format=png&auto=webp&s=bb5c8162fd61d9c125685fb27882bc1d4579f38a)
 
 # The Russel 1000
 
@@ -158,4 +159,4 @@ backups:
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)

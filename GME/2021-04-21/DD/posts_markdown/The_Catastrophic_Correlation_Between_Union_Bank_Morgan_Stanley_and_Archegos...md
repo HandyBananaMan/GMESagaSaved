@@ -1,5 +1,6 @@
-# Author: anongmeholder
-# Post URL: [https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/](https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/)
+#Title: The Catastrophic Correlation Between Union Bank, Morgan Stanley, and Archegos Capital.
+#Author: anongmeholder
+#Post URL: [https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/](https://www.reddit.com/r/GME/comments/mvchng/the_catastrophic_correlation_between_union_bank/)
 
 
  So today we saw that Union Bank had confirmed to closing over 400 locations. This can be seen through the following post: [https://www.reddit.com/r/Superstonk/comments/mv6k4z/union\_bank\_confirms\_emergency\_closing\_of\_over\_400/](https://www.reddit.com/r/Superstonk/comments/mv6k4z/union_bank_confirms_emergency_closing_of_over_400/)
@@ -27,6 +28,6 @@ So now we go ahead and look at our dear MUFG Bank, and its holdings... and guess
 
 And most importantly let us not forget this wonderful source confirming ARCHEGOS CAPITAL WAS LIQUIDATED OUT OF SHORT POSITION IN SECOND LATE FEBRUARY $GME SHORT SQUEEZE:
 
-![https://twitter.com/Fxhedgers/status/1378574873866330116](https://twitter.com/Fxhedgers/status/1378574873866330116)
+[https://twitter.com/Fxhedgers/status/1378574873866330116](https://twitter.com/Fxhedgers/status/1378574873866330116)
 
 The web is connected, and it has been never more clear to see through it. WE ARE ONLY STARTING TO SEE A GLIMPSE OF THIS CATASTROPHE UNFOLD. It is all collapsing and burning behind the scenes and there is BUT ONE ROCKET OUT OF THIS APOCALYPSE, THE ROCKET THAT THEY TRIED TO BRING DOWN SO HARD THEY ENDED UP DESTROYING THE WHOLE WORLD WITH IT. Remember, the majority of analysts, economists, financial advisors, money managers, and whoever the fuck else you think has credibility and ''experience'' in the market, actually are the equivalent of people who bet on sports. Sure based on research and experience you may know where to place your sports bet on a regular match, but THIS HERE IS NOT A REGULAR MATCH AND WE CAN CLEARLY SEE THIS IS LITERALLY ANOTHER 2008 IN THE MAKING... I KNOW YOU ANALYSTS DONT KNOW WHAT THE FUCK IS GOING ON BEHIND THE SCENES AND THINK THIS IS JUST ANOTHER STOCK PLAY... BUT REALLY IT IS NOT. SO STOP WITH THE ANALYSTS SAY THIS, ANALYSTS SAY THAT... 2008 FLEW OVER ALL THEIR HEADS, AND GUESS WHAT, THIS ONE IS GOING TO TOO.

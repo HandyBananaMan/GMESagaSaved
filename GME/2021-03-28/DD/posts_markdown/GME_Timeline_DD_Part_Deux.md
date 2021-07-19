@@ -1,5 +1,6 @@
-# Author: ebbilepsy
-# Post URL: [https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/](https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/)
+#Title: GME Timeline DD: Part Deux
+#Author: ebbilepsy
+#Post URL: [https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/](https://www.reddit.com/r/GME/comments/mfd27m/gme_timeline_dd_part_deux/)
 
 
 **Hello my fellow ape brethren! For those unfamiliar I wrote my first timeline piece which can be found here:** [**https://www.reddit.com/r/GME/comments/lvd6dd/gme\_timeline\_dd/**](https://www.reddit.com/r/GME/comments/lvd6dd/gme_timeline_dd/) **I highly recommend if you haven't checked it out yet you do so before proceeding with this DD. I posted the first timeline on March 1st and it rotted in the dungeons of GME DD like an over-ripe banana until someone thought to  repost it March 25th and turn it into some delicious banana bread. Needless to say it must have tasted good to some of you apes, as it passed the 1k upvote mark within 24 hours. Whoever you are kind sir, this new DD goes out to you.**
@@ -14,21 +15,21 @@
 
 **December 31st 2019: The float is now cut down to roughly 68 million from a previous total of 102 million earlier in the year. Scion Capital (Michael Bury Hedge Fund) has just purchased 3 million shares of stock. DFV who has been tracking Bury for the better part of 2019 likely sees this and buys his first April 16 2021 Calls:**
 
-[https://imgur.com/C9BtG6B](https://imgur.com/C9BtG6B)
+![https://imgur.com/C9BtG6B](https://imgur.com/C9BtG6B)
 
 **Nothing too remarkable here right? Well, lets take a look into the lookback feature of Thinkor swim and see exactly what was going on that day in GMEs call options. Specifically on December 20th 2019:**
 
-[https://imgur.com/D6jhSmX](https://imgur.com/D6jhSmX)
+![https://imgur.com/D6jhSmX](https://imgur.com/D6jhSmX)
 
 **Interesting, a high amount of volume coming in on April 16 '21 $7 Calls.  Lets run it forward to the day DFV buys his on December 31st 2019:**
 
-[https://imgur.com/HT1PBuo](https://imgur.com/HT1PBuo)
+![https://imgur.com/HT1PBuo](https://imgur.com/HT1PBuo)
 
 &#x200B;
 
 **As you can see, open interest on April 16th '21 $7 Calls are 6,084 when DFV buys his first 200 April  $12's. What are January 15ths '21 looking like?**
 
-[https://imgur.com/d17WnTt](https://imgur.com/d17WnTt)
+![https://imgur.com/d17WnTt](https://imgur.com/d17WnTt)
 
 **About 1,000,000 worth of shares are bought out of the money for January 15th '21 on the day DFV buys his first April calls. If you go back to DFV's post history, he's been adding these January calls to his arsenal since June 2019. What does this mean? Well,** ***someone else aside from DFV is making major bets on GME's price increasing***. **DFV is seeing this happen, he sees Burry buy in for 3 million shares of GME and he decides he's just keep doing what he does best: FIND DEEP FUCKING VALUE WHEREVER IT CAN BE FOUND.**
 
@@ -36,31 +37,31 @@
 
 **July and October 20's:**
 
-[https://imgur.com/WLJd9b1](https://imgur.com/WLJd9b1)
+![https://imgur.com/WLJd9b1](https://imgur.com/WLJd9b1)
 
 **January 15s:**
 
-[https://imgur.com/HcMpZb9](https://imgur.com/HcMpZb9)
+![https://imgur.com/HcMpZb9](https://imgur.com/HcMpZb9)
 
 **April 21's:**
 
-[https://imgur.com/Ms4V0qp](https://imgur.com/Ms4V0qp)
+![https://imgur.com/Ms4V0qp](https://imgur.com/Ms4V0qp)
 
 **I don't know about you guys but that is a LOT of OTM calls on GME stock for July '20, October '20, Jan '21, April '21 when its currently trading at $2.85 on April 2nd 2020. (side note:  I checked July '21s  call option volume and it does not follow this trend of massive volume)**
 
 **So why is this important? Well GME has been not only been getting hammered by COVID but its also been getting shorted to bankruptcy by hedge funds this entire time (January-April 2020) and failure to deliver rates are through the roof as we approach April 2nd**
 
-[https://imgur.com/SpuLKPh](https://imgur.com/SpuLKPh)
+![https://imgur.com/SpuLKPh](https://imgur.com/SpuLKPh)
 
 **As you can see in the graph courtesy of** [**wherearetheshares.com**](https://wherearetheshares.com) **FTD's completely crash down to nothing on April 2nd before immediately spiking back up again? Why did that happen? Well April 2nd happens to be the day that Scion Capital buys another 400k shares of GME upping their total position to 3.4 million shares. Also on April 3rd Hestia capital sends out a proxy letter to all shareholders calling out GME's incompetent board of directors. GME's activist shareholders appear to be executing a plan to leverage GME stock out of the "Bankruptcy Jackpot".**  ***THE GAME HAS NOW CHANGED. Buying pressure increases*** **and rallies the stock price from $2.85/share on April 2nd and FTD's start spiking again as we head to the April 17th 2020 monthly call options.**
 
-[https://imgur.com/7DFHmgx](https://imgur.com/7DFHmgx)
+![https://imgur.com/7DFHmgx](https://imgur.com/7DFHmgx)
 
 &#x200B;
 
 **What's interesting to see in the above picture is all the open interest call options that end up finishing out of the money on April 17th 2020.** **What I haven't told you until now was that** ***when you go back and look at the call chain volume and open interest it appears as though*** ***someone was buying up a lot of just OTM April 17th 2020 short-term calls at the same time bulk orders kept rolling in on deeper OTM July '20, October '20,  January '21 and 'April 21 calls.*** **The hedge funds who have now taken up a massive short position on GME panic at the new buying pressure triggered on April 2nd and start pumping out synthetic FTD's to cover their worst short positions while driving the price below $5 a share to ensure that all those April 17 '20 calls finish OTM. But it appears that the damage from all their massive short selling has already been done, because there are now tons and tons of OTM calls set well into the future. As long as GME survives and transitions into a business of the future the bill on these FTD's will come due one day.  The only way to delay this from happening is to keep pumping out more FTD's whenever GME stock starts to go up.** ***This pumping of synthetic FTDs will now become a pattern whenever buying pressure considerably increases on GME stock, especially*** ***whenever Ryan Cohen is involved*** **Proof:**
 
-[https://imgur.com/FCB4jhd](https://imgur.com/FCB4jhd)
+![https://imgur.com/FCB4jhd](https://imgur.com/FCB4jhd)
 
 **As you can see in the picture FTDs go bananas:
 -After Ryan Cohen buys 9 million shares of GME at the end of August
@@ -99,25 +100,25 @@
 
 **Lets see how those July 17th 2020 Calls finished on July 17th 2020:**
 
-[https://imgur.com/h4ZWGBW](https://imgur.com/h4ZWGBW)
+![https://imgur.com/h4ZWGBW](https://imgur.com/h4ZWGBW)
 
 **As you can see there is a massive amount of calls that finish OTM.**
 
 &#x200B;
 
-**How about those October 16th 2020s? (RC has bought 9 million shares end of August 2020)**[https://imgur.com/7egvHdQ](https://imgur.com/7egvHdQ)
+**How about those October 16th 2020s? (RC has bought 9 million shares end of August 2020)**![https://imgur.com/7egvHdQ](https://imgur.com/7egvHdQ)
 
 **Looks like a good chunk of those calls are starting to finish ITM now. Thanks to RCs efforts to reform the company and in spite of all the FTDs to suppress the price.**
 
 **Now we can move forward to January 13th 2021. Why this date? Well on Sunday January 10th it was announced that Ryan Cohen officially joined Gamestop's board. GME's shares price bounces off this news from $17.69 to $34.40 by January 13th.  January 13th is also the same day DFV posts his YOLO update to wallstreet bets and people take notice on his big gains and FOMO sets in.**
 
-[https://imgur.com/lLKe7ef](https://imgur.com/lLKe7ef)
+![https://imgur.com/lLKe7ef](https://imgur.com/lLKe7ef)
 
 **(Please note the open interest on those $35 January 15th calls circled in red)**
 
 **Lets take a look at those January 15th '21 Call Options finish:**
 
-[https://imgur.com/43prjhg](https://imgur.com/43prjhg)
+![https://imgur.com/43prjhg](https://imgur.com/43prjhg)
 
 **January 15th 2021 GME finishes at $35.50 and those $35 options finish ITM. Now if we recall a lot of those sub $35 calls were purchased back by April 2nd 2020 before the short squeeze started right? (scroll back up and look).**
 
@@ -127,39 +128,39 @@
 
 **Here are the February 19th 2021's :**
 
-[https://imgur.com/j92jifH](https://imgur.com/j92jifH)**(note open interest at the $35 and $40 strikes)**
+![https://imgur.com/j92jifH](https://imgur.com/j92jifH)**(note open interest at the $35 and $40 strikes)**
 
 **The infamous March 19ths:**
 
-[https://imgur.com/3y9vFTY](https://imgur.com/3y9vFTY)
+![https://imgur.com/3y9vFTY](https://imgur.com/3y9vFTY)
 
 **(note the $40 open interest and incoming volume for the $39 strikes)**
 
-**And the April 16ths:**[https://imgur.com/wYjf6HI](https://imgur.com/wYjf6HI)**(note the open interest at the $35 and $40 strikes)**
+**And the April 16ths:**![https://imgur.com/wYjf6HI](https://imgur.com/wYjf6HI)**(note the open interest at the $35 and $40 strikes)**
 
 **Ok so big deal... some people bought some calls on GME prior to the January runup to $400+ prices and cashed out rich what's the big deal?**
 
 **Well lets take a look at  three of those call options on February 4th 2021 after Robinhood and the hedge funds pulled their shenanigans and crashed GME's share price down to $53.50 a share:**
 
-**February 19ths:**[https://imgur.com/csJRhZT](https://imgur.com/csJRhZT)
+**February 19ths:**![https://imgur.com/csJRhZT](https://imgur.com/csJRhZT)
 
 **March 19ths:**
 
-[https://imgur.com/jNfqy7p](https://imgur.com/jNfqy7p)
+![https://imgur.com/jNfqy7p](https://imgur.com/jNfqy7p)
 
 **April 16ths:**
 
-[https://imgur.com/wpGXANH](https://imgur.com/wpGXANH)
+![https://imgur.com/wpGXANH](https://imgur.com/wpGXANH)
 
 &#x200B;
 
 **As you can see the open interest on these contracts at the $35 and $40 Februarys, the $39 March's  and the $30 and $35 Aprils are still quite high.** ***Whoever is holding these contracts rode them up all the way to GME's peak of $480/share or whatever the hell it was and rode it all the way back down again and never sold. Why?***
-[https://imgur.com/fLbmxKq](https://imgur.com/fLbmxKq)
+![https://imgur.com/fLbmxKq](https://imgur.com/fLbmxKq)
 
 ***Because they saw the DEEP. FUCKING. VALUE. Just like he did. When he bought the dip at $38.70 on February 19th.***
 
 &#x200B;
-[https://imgur.com/eUB27M2](https://imgur.com/eUB27M2)
+![https://imgur.com/eUB27M2](https://imgur.com/eUB27M2)
 **ME-FUCKING- OW!!!!!!!!!!!!!!!!!!!!!!!!!! Thats how a kitty buys the fucking dip.**
 
 &#x200B;
@@ -172,18 +173,18 @@
 
 **February 26th calls:**
 
-[https://imgur.com/gxt8T3t](https://imgur.com/gxt8T3t)
+![https://imgur.com/gxt8T3t](https://imgur.com/gxt8T3t)
 
 **March 19th Calls:**
-[https://imgur.com/AhUBoqd](https://imgur.com/AhUBoqd)
+![https://imgur.com/AhUBoqd](https://imgur.com/AhUBoqd)
 
 **April 16th Calls:**
 
-[https://imgur.com/4Ym8eZQ](https://imgur.com/4Ym8eZQ)
+![https://imgur.com/4Ym8eZQ](https://imgur.com/4Ym8eZQ)
 
 **Note the open interest at the $100 strike prices. Why the $100's? Because this becomes the** ***new intrinsic value*** **of GME. Why do I say that? Because after Februarys 24th GME's price then slowly staircase climbs all the way up to $347 before we have an epic crash on March 10th and a subsequent slide all the way down to $116 dollars a share for a closing of $120.34 on March 24th and a subsequent rebound off that floor to $181.**
 
-[https://imgur.com/BOJ7gct](https://imgur.com/BOJ7gct)
+![https://imgur.com/BOJ7gct](https://imgur.com/BOJ7gct)
 
 &#x200B;
 
@@ -219,11 +220,11 @@
 
 **Or does it? Ill just leave excerpt from GME's recent 10K here and you can draw your own conclusions.**
 
-[https://imgur.com/rpA0Qkv](https://imgur.com/rpA0Qkv)
+![https://imgur.com/rpA0Qkv](https://imgur.com/rpA0Qkv)
 
 **And let Ace say the rest:**
 
-![https://youtu.be/tuhPPOXnyKo?t=148](https://youtu.be/tuhPPOXnyKo?t=148)
+[https://youtu.be/tuhPPOXnyKo?t=148](https://youtu.be/tuhPPOXnyKo?t=148)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

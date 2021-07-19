@@ -1,10 +1,11 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/](https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/)
+#Title: More Proof the $115 Billion Buy Order WAS REAL and how HFs use HFT to Manipulate GME through One Specific Order Type.
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/](https://www.reddit.com/r/GME/comments/mdnph0/more_proof_the_115_billion_buy_order_was_real_and/)
 
 
 Putting this at the top because it's important.
 
-**Edit:** I love us. u/TendieTard commented an awesome ![youtube video](https://www.youtube.com/watch?v=kFQJNeQDDHA). Skip to minute 29 and watch for the next 15-20 minutes. It explains how order types basically skew the system towards those making the trades. This is real. This perpetuates inequality within the market by disenfranchising retail investors.
+**Edit:** I love us. u/TendieTard commented an awesome [youtube video](https://www.youtube.com/watch?v=kFQJNeQDDHA). Skip to minute 29 and watch for the next 15-20 minutes. It explains how order types basically skew the system towards those making the trades. This is real. This perpetuates inequality within the market by disenfranchising retail investors.
 
 THIS NEEDS TO CHANGE. We talk about equality so much in this big wide world and it should apply to every single corner of this world. Including our financial markets. We CANNOT allow exchanges to exploit inequality to make money off of us.
 
@@ -192,7 +193,7 @@ Edit: a word.
 
 **Edit:** I'll be asleep during the AMA could people ask old mate on his thoughts about HFs using hidden order types to manipulate GME and how exchanges offering order types retail investors can't access perpetuates inequality within the stock market. Please and thankyou!!!
 
-**Edit:** I love us. u/TendieTard commented an awesome ![youtube video](https://www.youtube.com/watch?v=kFQJNeQDDHA). Skip to minute 29 and watch for the next 15-20 minutes. It explains how order types basically skew the system towards those making the trades. This is real. This perpetuates inequality within the market by essentially, disenfranchising us retail investors.
+**Edit:** I love us. u/TendieTard commented an awesome [youtube video](https://www.youtube.com/watch?v=kFQJNeQDDHA). Skip to minute 29 and watch for the next 15-20 minutes. It explains how order types basically skew the system towards those making the trades. This is real. This perpetuates inequality within the market by essentially, disenfranchising us retail investors.
 
 THIS NEEDS TO CHANGE. We talk about equality so much in this big wide world and it should apply to every single corner of this world. Including our financial markets. We CANNOT allow exchanges to exploit inequality to make money off of us.
 

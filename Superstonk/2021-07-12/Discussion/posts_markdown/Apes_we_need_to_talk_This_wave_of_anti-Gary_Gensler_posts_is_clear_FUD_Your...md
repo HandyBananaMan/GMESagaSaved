@@ -1,5 +1,6 @@
-# Author: Suthrnr
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj5dxf/apes_we_need_to_talk_this_wave_of_antigary/](https://www.reddit.com/r/Superstonk/comments/oj5dxf/apes_we_need_to_talk_this_wave_of_antigary/)
+#Title: Apes, we need to talk! This wave of anti-Gary Gensler posts is clear FUD. You're setting yourselves up for disaster.
+#Author: Suthrnr
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj5dxf/apes_we_need_to_talk_this_wave_of_antigary/](https://www.reddit.com/r/Superstonk/comments/oj5dxf/apes_we_need_to_talk_this_wave_of_antigary/)
 
 
 **Disclaimer: This is not a debate about Gary Gensler. I don't give a shit if he's good or bad. You're all setting yourselves up for FUD and I'm stopping it now before it gets too bad.**
@@ -36,6 +37,6 @@ Oh, and there are plenty of reasons to be skeptical of Gary Gensler such as his 
 
 Finally: Here's the clip. This is required watching for EVERYONE. I've clipped the exact point that he's mentioned:
 
-![https://youtu.be/T2IaJwkqgPk?t=5990](https://youtu.be/T2IaJwkqgPk?t=5990)
+[https://youtu.be/T2IaJwkqgPk?t=5990](https://youtu.be/T2IaJwkqgPk?t=5990)
 
 I don't give a single shit about how you feel about Gensler, but please stop FUDing yourselves. You're setting yourselves up for disaster.

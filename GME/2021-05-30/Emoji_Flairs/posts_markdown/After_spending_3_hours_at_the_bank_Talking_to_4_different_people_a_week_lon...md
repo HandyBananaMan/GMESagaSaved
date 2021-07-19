@@ -1,5 +1,6 @@
-# Author: An0therR3dditor
-# Post URL: [https://www.reddit.com/r/GME/comments/no8nmr/after_spending_3_hours_at_the_bank_talking_to_4/](https://www.reddit.com/r/GME/comments/no8nmr/after_spending_3_hours_at_the_bank_talking_to_4/)
+#Title: After spending 3 hours at the bank (Talking to 4 different people), a week long email exchange with my broker and a 1000kr (120usd) payment - I have finally voted!
+#Author: An0therR3dditor
+#Post URL: [https://www.reddit.com/r/GME/comments/no8nmr/after_spending_3_hours_at_the_bank_talking_to_4/](https://www.reddit.com/r/GME/comments/no8nmr/after_spending_3_hours_at_the_bank_talking_to_4/)
 
 
 &#x200B;

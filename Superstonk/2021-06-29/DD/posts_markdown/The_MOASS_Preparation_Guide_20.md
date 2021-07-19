@@ -1,5 +1,6 @@
-# Author: socrates6210
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/](https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/)
+#Title: The MOASS Preparation Guide 2.0
+#Author: socrates6210
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/](https://www.reddit.com/r/Superstonk/comments/oakqvt/the_moass_preparation_guide_20/)
 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*

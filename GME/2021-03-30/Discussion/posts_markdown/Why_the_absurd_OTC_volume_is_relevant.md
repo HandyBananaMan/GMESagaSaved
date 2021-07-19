@@ -1,5 +1,6 @@
-# Author: magnuswho
-# Post URL: [https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/](https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/)
+#Title: Why the absurd OTC volume is relevant
+#Author: magnuswho
+#Post URL: [https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/](https://www.reddit.com/r/GME/comments/mgcn1v/why_the_absurd_otc_volume_is_relevant/)
 
 
 Hi All
@@ -31,7 +32,7 @@ Now this is FINRA data from January, and I will update it as new data is release
 
 &#x200B;
 
-[ OTC Volume compared to float, relative to other frequently traded stocks for reference. OTC volume to float ratio should be around 0, yet it's at 12,44 for GME.  ](https://preview.redd.it/z05jmu7145q61.png?width=831&format=png&auto=webp&s=e10fa1b75d17d0bcd93a2c5dc9782af6df1d8099)
+![ OTC Volume compared to float, relative to other frequently traded stocks for reference. OTC volume to float ratio should be around 0, yet it's at 12,44 for GME.  ](https://preview.redd.it/z05jmu7145q61.png?width=831&format=png&auto=webp&s=e10fa1b75d17d0bcd93a2c5dc9782af6df1d8099)
 
 As you can see, even a heavily traded retail stock like TESLA is nowhere near the OTC volume to float ratio of GME.
 
@@ -53,4 +54,4 @@ On top of all this, we're seeing hedge funds getting margin called and others cl
 
 References:[https://otctransparency.finra.org/otctransparency/AtsIssueData](https://otctransparency.finra.org/otctransparency/AtsIssueData)
 
-![https://finance.yahoo.com/](https://finance.yahoo.com/)
+[https://finance.yahoo.com/](https://finance.yahoo.com/)

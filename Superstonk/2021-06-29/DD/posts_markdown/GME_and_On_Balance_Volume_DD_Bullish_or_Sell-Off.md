@@ -1,12 +1,13 @@
-# Author: NA_1983
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/](https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/)
+#Title: GME and On Balance Volume DD (Bullish or Sell-Off?)
+#Author: NA_1983
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/](https://www.reddit.com/r/Superstonk/comments/oa1sn0/gme_and_on_balance_volume_dd_bullish_or_selloff/)
 
 
 &#x200B;
 
 &#x200B;
 
-[Hello fellow Apes, its Deep Dive time! Today is the day of many Moon chicken tenderloins! Just Kidding!](https://preview.redd.it/ilik9lqt75871.jpg?width=625&format=pjpg&auto=webp&s=f11b3d361c61bb5553b8f123a5e2a9ce2060d6a4)
+![Hello fellow Apes, its Deep Dive time! Today is the day of many Moon chicken tenderloins! Just Kidding!](https://preview.redd.it/ilik9lqt75871.jpg?width=625&format=pjpg&auto=webp&s=f11b3d361c61bb5553b8f123a5e2a9ce2060d6a4)
 
 Seriously though, I’d like to take a stab at an On Balance Volume (OBV) DD.  Go over what OBV is, what we are seeing with this indicator and how it relates to the stock we like.   On a routine basis we’ve seen posts with reference to OBV and statements that it shows no one is selling off.   There has however been some controversy that this statement doesn’t hold true and related FUD that there has been a recent selling trend.  Let’s understand OBV and test which of these theories holds true.
 
@@ -14,7 +15,7 @@ Seriously though, I’d like to take a stab at an On Balance Volume (OBV) DD.  G
 
 &#x200B;
 
-[So What is OBV and What is it Signaling for GME? ](https://preview.redd.it/ctugc2rv75871.png?width=1214&format=png&auto=webp&s=e5ea3f31397a2969e1779df03293741400fb1546)
+![So What is OBV and What is it Signaling for GME? ](https://preview.redd.it/ctugc2rv75871.png?width=1214&format=png&auto=webp&s=e5ea3f31397a2969e1779df03293741400fb1546)
 
 **How I’ve Broken Up this Due Diligence:**
 
@@ -119,13 +120,13 @@ This can be seen when looking at the OBV trend vs. the underlying asset’s dail
 
 Divergence Example:
 
-[This is called a negative divergence or bearish divergence.  This is often interpreted as an indication of lower prices ahead because buyer interest is declining despite the rising price.](https://preview.redd.it/21uqyf7y75871.png?width=602&format=png&auto=webp&s=21b375bad1985dc86bbeecde79ed63dec121e020)
+![This is called a negative divergence or bearish divergence.  This is often interpreted as an indication of lower prices ahead because buyer interest is declining despite the rising price.](https://preview.redd.it/21uqyf7y75871.png?width=602&format=png&auto=webp&s=21b375bad1985dc86bbeecde79ed63dec121e020)
 
 Where both the price and OBV line are rising, this is a signal that the price will continue to climb. Vice versa, where the price and OBV line are both falling, traders can continue to expect the downward trend in price to continue.
 
 &#x200B;
 
-[A downward confirming trend, both price and OBV are making lower peaks and lower troughs.](https://preview.redd.it/jxw1o4v085871.png?width=602&format=png&auto=webp&s=fb87a8b419c228ec20f6b82417b24e381a5d479d)
+![A downward confirming trend, both price and OBV are making lower peaks and lower troughs.](https://preview.redd.it/jxw1o4v085871.png?width=602&format=png&auto=webp&s=fb87a8b419c228ec20f6b82417b24e381a5d479d)
 
 The degree of slope in the OBV line is critical to confirm the strength of the signal. Price movements on a slightly sloped OBV line is not a strong indicator. Price changes of a steep-sloped OBV line is a strong indicator. \[5\]
 
@@ -204,13 +205,13 @@ So let’s chart this out and find out if GME OBV is Bullish, Bearish, confirmin
 
 First let us look at GME’s OBV past 12 months as a base line.  OBV in Navy and the Daily High Price in the Dashed Green.
 
-[Baseline GME OBV vs. Price over the past year.  A general upward trend shown.](https://preview.redd.it/4sz64tm385871.png?width=2294&format=png&auto=webp&s=af33cd4650306de9a2e2467f81c109ccb29b988d)
+![Baseline GME OBV vs. Price over the past year.  A general upward trend shown.](https://preview.redd.it/4sz64tm385871.png?width=2294&format=png&auto=webp&s=af33cd4650306de9a2e2467f81c109ccb29b988d)
 
 Next Let’s compare the trend and shape of OBV from December 2020 to June 2021 (Red) compared to February 2021 to June 2021 (Blue).  This will help us answer the first question of “Does January even matter?”  Will OBV, regardless of the start date, always take the same shape?
 
 &#x200B;
 
-[GME OBV with January Volume \(Red\) and without January volume \(Blue\)](https://preview.redd.it/qv0ps1t585871.png?width=2310&format=png&auto=webp&s=db0245f6cc9dbfcd7569bc302d31497cd4bfa339)
+![GME OBV with January Volume \(Red\) and without January volume \(Blue\)](https://preview.redd.it/qv0ps1t585871.png?width=2310&format=png&auto=webp&s=db0245f6cc9dbfcd7569bc302d31497cd4bfa339)
 
 Now if you remember from above on how this indicator works, the actual value of the OBV is unimportant; we only need to concentrate on its direction.  If you look at this chart from February 1st to today, the trend and shape is identical, only at different values.
 
@@ -232,7 +233,7 @@ This leads us to looking at two more charts.   Let’s analyze the trading signa
 
 **March to June Chart:**
 
-[GME OBV Macro Analysis from March to June, negating the January Spike in Volume](https://preview.redd.it/o9uhvt0985871.png?width=2508&format=png&auto=webp&s=53317db4b81dd5ac9eb0344dda1fa80cc8d50df1)
+![GME OBV Macro Analysis from March to June, negating the January Spike in Volume](https://preview.redd.it/o9uhvt0985871.png?width=2508&format=png&auto=webp&s=53317db4b81dd5ac9eb0344dda1fa80cc8d50df1)
 
 So this most macro view of the past 5 months does not show us a divergent trend, bullish or bearish.  I would say this is a weak downward confirming trend .  Extremely weak and remember the degree of slope in the OBV line is critical to confirm the strength of the signal. Price movements on a slightly sloped OBV line is not a strong indicator.
 
@@ -248,7 +249,7 @@ So lets look at the last 60 days to see if this gives a clearer picture.
 
 **May through June chart:**
 
-[Two OBV Trend in the past 60 days, confirming up and confirming down.](https://preview.redd.it/l8tsanwb85871.png?width=2434&format=png&auto=webp&s=96cf4580cffdb6870f8cdd478ffaefb0e62ebf9b)
+![Two OBV Trend in the past 60 days, confirming up and confirming down.](https://preview.redd.it/l8tsanwb85871.png?width=2434&format=png&auto=webp&s=96cf4580cffdb6870f8cdd478ffaefb0e62ebf9b)
 
 At first pass, the past 60-day OBV trend didn’t appear divergent, bullish or bearish.  From late April through early June an upward confirming trend demonstrating buying and holding (solid trend lines).  Then, since GME hit $344 on 6/8 there appeared to be a trend reversal towards a downward confirming trend (dashed trend lines)…..but, but… I think that I'm looking at it incorrectly….
 
@@ -256,7 +257,7 @@ At first pass, the past 60-day OBV trend didn’t appear divergent, bullish or b
 
 **May through June 2nd Look:**
 
-[Let’s take a closer look at just June](https://preview.redd.it/391rnxsd85871.png?width=2404&format=png&auto=webp&s=93ed42803465648c15df32895160ec2f4b39ccbd)
+![Let’s take a closer look at just June](https://preview.redd.it/391rnxsd85871.png?width=2404&format=png&auto=webp&s=93ed42803465648c15df32895160ec2f4b39ccbd)
 
 Looking closer at just the past month, it occurred to me that we are actually looking more bullish than anything else.  Bullish divergence happens when prices make a lower bottom but the OBV does not decline to new lows. That’s clear with the red trend lines.  Otherwise, the dashed trend lines show a bullish upward confirming trend.
 
@@ -290,7 +291,7 @@ Thank you!  Now please throw darts at this DD and tell me what I missed!
 
 &#x200B;
 
-[OBV Signals are Clear for Lift Off!](https://preview.redd.it/ykh89x8g85871.jpg?width=588&format=pjpg&auto=webp&s=c95cc21a3e10a695578b3b7ca8105553053b3deb)
+![OBV Signals are Clear for Lift Off!](https://preview.redd.it/ykh89x8g85871.jpg?width=588&format=pjpg&auto=webp&s=c95cc21a3e10a695578b3b7ca8105553053b3deb)
 
 # A few closing thoughts on OBV in general:
 
@@ -326,4 +327,4 @@ One limitation of OBV is that it is a leading indicator, meaning that it may pro
 
 \[4\] [https://en.wikipedia.org/wiki/On-balance\_volume](https://en.wikipedia.org/wiki/On-balance_volume)
 
-\![5\] [https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f](https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f)
+\[5\] [https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f](https://leah-mathieson.medium.com/the-on-balance-volume-obv-indicator-how-volume-can-improve-your-trading-4ce18da5bc3f)

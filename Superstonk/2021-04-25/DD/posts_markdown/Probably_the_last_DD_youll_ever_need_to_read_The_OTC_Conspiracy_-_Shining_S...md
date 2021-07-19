@@ -1,5 +1,6 @@
-# Author: nayboyer2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/](https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/)
+#Title: Probably the last DD you'll ever need to read... The OTC Conspiracy - Shining Some Light into the Dark Pool data
+#Author: nayboyer2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/](https://www.reddit.com/r/Superstonk/comments/myf505/probably_the_last_dd_youll_ever_need_to_read_the/)
 
 
 I know that collectively, we are anti-conspiracy right now, but as a simple ape, I just liked the way it rhymed.
@@ -42,7 +43,7 @@ We'll start really general and then go into more detail.
 
 **Table 1:**  **Monthly GME OTC activity**
 
-[Monthly GME OTC Activity from September 2020 - February 2021](https://preview.redd.it/i0g0lwzqn7v61.png?width=646&format=png&auto=webp&s=082937abecd048f0d5f3fa6f2a74b1e3c8de7d0f)
+![Monthly GME OTC Activity from September 2020 - February 2021](https://preview.redd.it/i0g0lwzqn7v61.png?width=646&format=png&auto=webp&s=082937abecd048f0d5f3fa6f2a74b1e3c8de7d0f)
 
 Not too difficult to spot the trend in this one.  The number of shares that were traded OTC increased **4.75x** from December 2020 to January 2021.
 
@@ -60,19 +61,19 @@ Here's the **Weekly GME OTC data** from September 28, 2020 through March 26, 202
 
 **Table 2**:  **Weekly GME OTC activity**
 
-[Sure seems like the GME OTC data has rapidly evolved since January](https://preview.redd.it/wykvn3s3hpv61.png?width=654&format=png&auto=webp&s=575eb274fa0f91e71dedfe68fec5a9e16499994f)
+![Sure seems like the GME OTC data has rapidly evolved since January](https://preview.redd.it/wykvn3s3hpv61.png?width=654&format=png&auto=webp&s=575eb274fa0f91e71dedfe68fec5a9e16499994f)
 
 **Figure 1**:  Total Weekly GME Shares Traded OTC
 
-[Things really seemed to change in January](https://preview.redd.it/z5pnxsw62lv61.png?width=699&format=png&auto=webp&s=23269c630501e3d918142e335a734ef5cfd773bf)
+![Things really seemed to change in January](https://preview.redd.it/z5pnxsw62lv61.png?width=699&format=png&auto=webp&s=23269c630501e3d918142e335a734ef5cfd773bf)
 
 **Figure 2**:  Total Weekly Trades Made OTC
 
-[Look how those weekly OTC trades increased](https://preview.redd.it/7hse2v9m2lv61.png?width=901&format=png&auto=webp&s=58774fa1d32d2f17860552cd70896e7e131f005b)
+![Look how those weekly OTC trades increased](https://preview.redd.it/7hse2v9m2lv61.png?width=901&format=png&auto=webp&s=58774fa1d32d2f17860552cd70896e7e131f005b)
 
 **Figure 3**:  Average Shares/Trade OTC
 
-[The number of shares\/trade markedly decreased during the week of 1\/25 and has remained less than 50 shares\/trade since 2\/22](https://preview.redd.it/3j8upgj03lv61.png?width=824&format=png&auto=webp&s=97ba3ab0cba9e4669aad8dc78ea506a2a4b65c06)
+![The number of shares\/trade markedly decreased during the week of 1\/25 and has remained less than 50 shares\/trade since 2\/22](https://preview.redd.it/3j8upgj03lv61.png?width=824&format=png&auto=webp&s=97ba3ab0cba9e4669aad8dc78ea506a2a4b65c06)
 
 So back in late September, October, November, December, and even mid-January, the average shares/trade in the OTC market was between **218** and **393** shares/trade.
 
@@ -88,7 +89,7 @@ So things got weird in January.  Let's take a closer look at that data as a whol
 
 **Table 3**:  **January GME OTC data by sorted by Trades**
 
-[January 2021 GME OTC data sorted by number of Trades](https://preview.redd.it/tkz5p60sacv61.png?width=704&format=png&auto=webp&s=165783cafa51fc36056b331f8ba747874550e2dd)
+![January 2021 GME OTC data sorted by number of Trades](https://preview.redd.it/tkz5p60sacv61.png?width=704&format=png&auto=webp&s=165783cafa51fc36056b331f8ba747874550e2dd)
 
 So this shows us the major players in January.  Citadel, Virtu, G1 Execution, Jane Street, and Two Sigma traded the most number of **shares** OTC.  You can sort by Shares or Trades, and I'm going to be consistent and sort by trades, because I think it's telling to see who was most active.
 
@@ -106,11 +107,11 @@ Let's zoom out one more time before looking at each of these players individuall
 
 **Table 4**:  GME Weekly Volume and % Weekly Volume traded Off-Exchange
 
-[Take a look at &#37; of GME Float Traded and &#37; of Float Traded Off Exchange](https://preview.redd.it/5zjj5zvnflv61.png?width=1104&format=png&auto=webp&s=8c358403526c85c962d5d26e8b8f8ebad058072a)
+![Take a look at &#37; of GME Float Traded and &#37; of Float Traded Off Exchange](https://preview.redd.it/5zjj5zvnflv61.png?width=1104&format=png&auto=webp&s=8c358403526c85c962d5d26e8b8f8ebad058072a)
 
 **Figure 4**:  Weekly % of Float Traded and % of Float Traded Off Exchange
 
-[These are percentages...](https://preview.redd.it/6xdi8ztiglv61.png?width=1018&format=png&auto=webp&s=aa7d875a2bb5a5bbca6d2bad7fc987655ec5ecd7)
+![These are percentages...](https://preview.redd.it/6xdi8ztiglv61.png?width=1018&format=png&auto=webp&s=aa7d875a2bb5a5bbca6d2bad7fc987655ec5ecd7)
 
 Let me preface this by saying that I was extremely conservative and used the **26.7 million** number as the GME float for all calculations.  If the GME float is less 26.7 million, these percentages will actually increase accordingly.  I took the weekly volume and compared it to the OTC volume and ATS volume.  I added the OTC and ATS to determine how much of the weekly volume was traded off exchange.  These numbers were fairly consistent, with between **39.88 and 58.39%** of weekly volume trading off exchange in the **OTC** or **ATS** pools.  However, the most recent data available shows a huge jump during the week of 3/15, with **68.58%** of volume trading off exchange.  These seem to be in line with my calculations from my previous post ([An Update on the Missing GME Bananas](https://www.reddit.com/r/Superstonk/comments/mx4j9p/dark_pool_dd_summary_and_a_quick_update_on_all/)), which showed **over 70%** of daily GME volume was being traded via **FINRA ADF** (dark pool), or possibly **OTC** from 4/13 - 4/20.  FINRA won't publish that data for another **4 weeks**, but I don't think we even need it anymore.  What's missing from the daily totals is traded OTC or ATS.  And that percentage is only increasing with less and less weekly volume.
 
@@ -136,7 +137,7 @@ That's one way to suppress buying pressure...
 
 **Table 5:  February OTC by Number of Trades**
 
-[Look who decided to join the fray...](https://preview.redd.it/ephwq6norcv61.png?width=698&format=png&auto=webp&s=27f7e48ae45b30d4afd2b228ca98a5ac7948e832)
+![Look who decided to join the fray...](https://preview.redd.it/ephwq6norcv61.png?width=698&format=png&auto=webp&s=27f7e48ae45b30d4afd2b228ca98a5ac7948e832)
 
 As we saw in **Table 1**, the average number of shares/trade decreased from 90.1 to 39.0.  And look who decided to join in on the OTC frenzy - Vlad the Impaler and **Robinhood**.
 
@@ -154,15 +155,15 @@ Rather than commenting on each player here, I'm going to group them together to 
 
 **Table 6:  Citadel and Virtu Weekly OTC trades**
 
-[Look at the number of OTC trades and the change in shares\/trade since January](https://preview.redd.it/v9w1h5abjlv61.png?width=1108&format=png&auto=webp&s=9b3cc7715bc0b02c76d8bb2d69aa7bbad063108c)
+![Look at the number of OTC trades and the change in shares\/trade since January](https://preview.redd.it/v9w1h5abjlv61.png?width=1108&format=png&auto=webp&s=9b3cc7715bc0b02c76d8bb2d69aa7bbad063108c)
 
 **Figure 5**:  Virtu and Citadel Weekly OTC Trades
 
-[Things really picked up in the OTC in January for these two](https://preview.redd.it/o2p3881ujlv61.png?width=1003&format=png&auto=webp&s=cdb91565a8f25540fcb7c0c3b53d48390bbc6877)
+![Things really picked up in the OTC in January for these two](https://preview.redd.it/o2p3881ujlv61.png?width=1003&format=png&auto=webp&s=cdb91565a8f25540fcb7c0c3b53d48390bbc6877)
 
 **Figure 6**:  Virtu and Citadel Average GME Shares/Trade OTC
 
-[The number of shares\/trade really dropped off since January 25th...](https://preview.redd.it/vi0hrrj8klv61.png?width=990&format=png&auto=webp&s=c087c72ae357d833e0bf9337b0fd2e0dbef09949)
+![The number of shares\/trade really dropped off since January 25th...](https://preview.redd.it/vi0hrrj8klv61.png?width=990&format=png&auto=webp&s=c087c72ae357d833e0bf9337b0fd2e0dbef09949)
 
 So these are the two biggest players when it comes to the GME OTC marketplace.  Both have been trading a massive number of GME shares and making a massive number of trades since late September.
 
@@ -192,13 +193,13 @@ There are certainly a lot of similarities between these 2 kingpins and that's wh
 
 **Table 7:  Two Sigma and G1 Execution Weekly OTC trades**
 
-[Again, look at the change in trades and shares\/trade since January](https://preview.redd.it/j0u153wullv61.png?width=1107&format=png&auto=webp&s=b54ba602c3dbd9140f323b9e9cb0c1b54c62121e)
+![Again, look at the change in trades and shares\/trade since January](https://preview.redd.it/j0u153wullv61.png?width=1107&format=png&auto=webp&s=b54ba602c3dbd9140f323b9e9cb0c1b54c62121e)
 
 &#x200B;
 
 **Figure 7**:  G1 Execution and Two Sigma Weekly OTC Trades
 
-[Things really picked up in January for them too...](https://preview.redd.it/l3ehl6tamlv61.png?width=1103&format=png&auto=webp&s=2af8b90147828f7aed345c75a0ebe02801797064)
+![Things really picked up in January for them too...](https://preview.redd.it/l3ehl6tamlv61.png?width=1103&format=png&auto=webp&s=2af8b90147828f7aed345c75a0ebe02801797064)
 
 I won't belabor the point, but look at the change in shares/trade (**Table 7**) beginning **1/25**.  Look at the increase in number of shares and number of trades.
 
@@ -214,7 +215,7 @@ For **G1**, the number of shares/trade after 1/25 was never higher than 60.  If 
 
 **Table 8:  Robinhood and NFS Weekly OTC Trading**
 
-[I don't know how else to interpret this other than massive High Frequency Trading by Robinhood](https://preview.redd.it/abbebcv9plv61.png?width=1220&format=png&auto=webp&s=5d73659527eae93ea670716da31994e078a90c0b)
+![I don't know how else to interpret this other than massive High Frequency Trading by Robinhood](https://preview.redd.it/abbebcv9plv61.png?width=1220&format=png&auto=webp&s=5d73659527eae93ea670716da31994e078a90c0b)
 
 **Robinhood** (unfortunately) entered the fray during the week of **2/8**.  They have progressively increased their trading activity.
 
@@ -224,7 +225,7 @@ This one sort of confuses me as a Fidelity customer.  **National Financial Servi
 
 **Table 9**:  Week of 3/8/2021 by Number of OTC Trades
 
-[Look at the top trader of the week...](https://preview.redd.it/f40ou0486dv61.png?width=701&format=png&auto=webp&s=3c400821487c5bed79ee91554d3e464077965763)
+![Look at the top trader of the week...](https://preview.redd.it/f40ou0486dv61.png?width=701&format=png&auto=webp&s=3c400821487c5bed79ee91554d3e464077965763)
 
 During the week when the GME price suddenly dropped from 348 to 172 in a matter of minutes, **Robinhood** was the top OTC trader and had exactly **1.00 shares/trade**...
 
@@ -232,13 +233,13 @@ During the week when the GME price suddenly dropped from 348 to 172 in a matter 
 
 **Table 10:**  Week of 3/15/2021 by Number of OTC Trades
 
-[Robinhood was busy again during the week of 3\/15](https://preview.redd.it/27lgobdpbev61.png?width=638&format=png&auto=webp&s=8ad7d3cf8f164bbdf0ecbe24d375e391e528cc49)
+![Robinhood was busy again during the week of 3\/15](https://preview.redd.it/27lgobdpbev61.png?width=638&format=png&auto=webp&s=8ad7d3cf8f164bbdf0ecbe24d375e391e528cc49)
 
 **Robinhood** stepped up again with some serious high frequency OTC trading.  Did anything happen that week?  Oh yeah,  the GME price experienced a huge drop from **280 to 210** on **3/15** and then to around **172** on **3/16.**  They didn't switch things up at all from their previous attacks.  **297,276 shares** traded **297,194 times** for an average of **1.00 shares/trade.**
 
 **Table 11**:  Week of 3/22/2021 by Number of OTC Trades
 
-[Back at it like a bad habit...](https://preview.redd.it/p285ecibolv61.png?width=703&format=png&auto=webp&s=0e42e4ccc8c955e2cbbbdcb4f46360bd2efc8b19)
+![Back at it like a bad habit...](https://preview.redd.it/p285ecibolv61.png?width=703&format=png&auto=webp&s=0e42e4ccc8c955e2cbbbdcb4f46360bd2efc8b19)
 
 And just in case you had any lingering doubts, the data from 3/22 shows us more of the same high frequency OTC trading from Robinhood.  **267,095** shares traded **266,981 times** for an average of **1.00 shares/trade**.
 
@@ -252,11 +253,11 @@ Since **Robinhood** entered the OTC marketplace on the week of 2/8/2021, they ha
 
 **Table 11:  Weekly ATS Data**
 
-[GME Weekly ATS Data showing decreased shares\/trade since week of January 25th](https://preview.redd.it/wtgo6y5f4lv61.png?width=600&format=png&auto=webp&s=ec6028d96f13be82c6b93c7e48d6d0f38c2aa9ef)
+![GME Weekly ATS Data showing decreased shares\/trade since week of January 25th](https://preview.redd.it/wtgo6y5f4lv61.png?width=600&format=png&auto=webp&s=ec6028d96f13be82c6b93c7e48d6d0f38c2aa9ef)
 
 **Figure 9**:  Weekly Number of Trades on ATS
 
-[Similar trends in ATS dark pools, starting in January](https://preview.redd.it/h11m5jk24lv61.png?width=928&format=png&auto=webp&s=75edbcf20d9621e12254fa00ed87530610b7960c)
+![Similar trends in ATS dark pools, starting in January](https://preview.redd.it/h11m5jk24lv61.png?width=928&format=png&auto=webp&s=75edbcf20d9621e12254fa00ed87530610b7960c)
 
 &#x200B;
 
@@ -290,7 +291,7 @@ As for me - my shares aren't for sale.  Seeing the desperate behind-the-scenes O
 
 **Edit 2**:  added the Weekly **3/15 Data** to show that **Robinhood** was highly active again at a time when GME experienced a huge price drop (see Table 10).  Thanks  u/RecoveryChadX7R !
 
-**Edit 3**:  Also, take a look at the DD posted by u/Doom_Douche \- ![A Deep Dive into Dark Pool Trading](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/) \- which shows the difference between OTC trading for GME vs other stocks.  And just note that his data used a GME float of 54.1 million rather than the 26.7 million (or less) that we can now deduce from the updated GME proxy, so the difference is even more pronounced.
+**Edit 3**:  Also, take a look at the DD posted by u/Doom_Douche \- [A Deep Dive into Dark Pool Trading](https://www.reddit.com/r/Superstonk/comments/mv5kbm/deep_dive_into_dark_pool_trading_how_they_might/) \- which shows the difference between OTC trading for GME vs other stocks.  And just note that his data used a GME float of 54.1 million rather than the 26.7 million (or less) that we can now deduce from the updated GME proxy, so the difference is even more pronounced.
 
 **Edit 4:**  Added some Charts (Figures 1-9) .
 

@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/](https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/)
+#Title: DD on latest FTDs - All $GME ETFs vs $GME
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/](https://www.reddit.com/r/GME/comments/lvmm5g/dd_on_latest_ftds_all_gme_etfs_vs_gme/)
 
 
 **Data**
@@ -11,12 +12,12 @@
 
 **Raw Charts**
 
-* [https://imgur.com/G8f0XLH](https://imgur.com/G8f0XLH) | ETF Amount of shares FTD
-* [https://imgur.com/EL39dPj](https://imgur.com/EL39dPj) | ETF Share FTD Value
-* [https://imgur.com/VEsuNXs](https://imgur.com/VEsuNXs) | GME Amount of shares FTD
-* [https://imgur.com/KbqhQRD](https://imgur.com/KbqhQRD) | GME Share FTD Value
-* [https://imgur.com/DNQ2LhC](https://imgur.com/DNQ2LhC) | ETF & GME Value Overlay
-* [https://imgur.com/IS2OIl5](https://imgur.com/IS2OIl5) | ETF & GME FTD Overlay
+* ![https://imgur.com/G8f0XLH](https://imgur.com/G8f0XLH) | ETF Amount of shares FTD
+* ![https://imgur.com/EL39dPj](https://imgur.com/EL39dPj) | ETF Share FTD Value
+* ![https://imgur.com/VEsuNXs](https://imgur.com/VEsuNXs) | GME Amount of shares FTD
+* ![https://imgur.com/KbqhQRD](https://imgur.com/KbqhQRD) | GME Share FTD Value
+* ![https://imgur.com/DNQ2LhC](https://imgur.com/DNQ2LhC) | ETF & GME Value Overlay
+* ![https://imgur.com/IS2OIl5](https://imgur.com/IS2OIl5) | ETF & GME FTD Overlay
 
 **ETFs:**
 
@@ -74,7 +75,7 @@ FTD Data Date Range:  2/11/2020 - 12/2/2021 *(Or 11/2/2020 - 2/12/2021 for Ameri
 
 &#x200B;
 
-[ETF vs GME FTDs](https://preview.redd.it/leds1dhzrhk61.png?width=2937&format=png&auto=webp&s=2a555edf2819e7243a97abc17cbc0194a8963f10)
+![ETF vs GME FTDs](https://preview.redd.it/leds1dhzrhk61.png?width=2937&format=png&auto=webp&s=2a555edf2819e7243a97abc17cbc0194a8963f10)
 
 &#x200B;
 

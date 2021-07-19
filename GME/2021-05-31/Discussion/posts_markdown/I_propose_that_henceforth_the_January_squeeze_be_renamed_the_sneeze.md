@@ -1,5 +1,6 @@
-# Author: buhlu
-# Post URL: [https://www.reddit.com/r/GME/comments/nowa6o/i_propose_that_henceforth_the_january_squeeze_be/](https://www.reddit.com/r/GME/comments/nowa6o/i_propose_that_henceforth_the_january_squeeze_be/)
+#Title: I propose that henceforth the January "squeeze" be renamed "the sneeze".
+#Author: buhlu
+#Post URL: [https://www.reddit.com/r/GME/comments/nowa6o/i_propose_that_henceforth_the_january_squeeze_be/](https://www.reddit.com/r/GME/comments/nowa6o/i_propose_that_henceforth_the_january_squeeze_be/)
 
 
 I don't have quite enough karma to post in superstonk atm as I've just been lurking, reading, and eating crayons since January so maybe someone can screenshot this or repost or whatever...

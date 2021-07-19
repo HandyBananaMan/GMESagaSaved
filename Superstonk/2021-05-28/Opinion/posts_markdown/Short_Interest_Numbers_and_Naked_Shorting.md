@@ -1,10 +1,11 @@
-# Author: dlauer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmymbk/short_interest_numbers_and_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nmymbk/short_interest_numbers_and_naked_shorting/)
+#Title: Short Interest Numbers and Naked Shorting
+#Author: dlauer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmymbk/short_interest_numbers_and_naked_shorting/](https://www.reddit.com/r/Superstonk/comments/nmymbk/short_interest_numbers_and_naked_shorting/)
 
 
 Hi all,
 
-I'd like to point out an irony that I found funny today. Earlier I ![tweeted](https://twitter.com/dlauer/status/1398271311617662980) about AMC's intense move up:
+I'd like to point out an irony that I found funny today. Earlier I [tweeted](https://twitter.com/dlauer/status/1398271311617662980) about AMC's intense move up:
 
 &#x200B;
 

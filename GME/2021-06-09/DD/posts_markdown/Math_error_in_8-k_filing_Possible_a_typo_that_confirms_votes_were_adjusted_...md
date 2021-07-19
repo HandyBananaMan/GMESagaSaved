@@ -1,5 +1,6 @@
-# Author: Rimigo42
-# Post URL: [https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/](https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/)
+#Title: Math error in 8-k filing. Possible a typo that confirms votes were adjusted. Need wrinkle brains to weigh in please.
+#Author: Rimigo42
+#Post URL: [https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/](https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/)
 
 
 **TL;DR**
@@ -16,11 +17,11 @@ The total vote count (which was not shown on the 8-k) for every member and every
 
 &#x200B;
 
-[Transcribed vote numbers by hand from the 8-K filing](https://preview.redd.it/to7f8iev4g471.png?width=575&format=png&auto=webp&s=192fbfee21a26e7aa642599380c62606f3bcc631)
+![Transcribed vote numbers by hand from the 8-K filing](https://preview.redd.it/to7f8iev4g471.png?width=575&format=png&auto=webp&s=192fbfee21a26e7aa642599380c62606f3bcc631)
 
 &#x200B;
 
-[Snip of 8-K filing to compare numbers. I double checked, but typos happen.](https://preview.redd.it/a3k87myx4g471.png?width=624&format=png&auto=webp&s=f264665948ad4fec7c207772ebce71018285ea11)
+![Snip of 8-K filing to compare numbers. I double checked, but typos happen.](https://preview.redd.it/a3k87myx4g471.png?width=624&format=png&auto=webp&s=f264665948ad4fec7c207772ebce71018285ea11)
 
 **Background on me**
 
@@ -50,15 +51,15 @@ Edit 2: An example for some clarity on how this rounding error might occur. Plea
 
 &#x200B;
 
-[Let's assume they got 400M votes](https://preview.redd.it/b08m0wjwdd471.png?width=635&format=png&auto=webp&s=f6e616683a9657dcf8f7fb6057773c52f4133e10)
+![Let's assume they got 400M votes](https://preview.redd.it/b08m0wjwdd471.png?width=635&format=png&auto=webp&s=f6e616683a9657dcf8f7fb6057773c52f4133e10)
 
 &#x200B;
 
-[Here's what that looks like as a &#37; \(matches the actual votes on the 8-K filing to 5 decimal places.](https://preview.redd.it/i64d3nnzdd471.png?width=637&format=png&auto=webp&s=8d2217cfeaeda8365d124964871dae4797b8b8fd)
+![Here's what that looks like as a &#37; \(matches the actual votes on the 8-K filing to 5 decimal places.](https://preview.redd.it/i64d3nnzdd471.png?width=637&format=png&auto=webp&s=8d2217cfeaeda8365d124964871dae4797b8b8fd)
 
 &#x200B;
 
-[Everything looks good here, all votes total to 55,541,279 as expected. No we need to get  rid of those decimals.](https://preview.redd.it/ayv4h1u5ed471.png?width=636&format=png&auto=webp&s=8fbc28cda7a77b8f6a7e63a65cd0e8d33f7f1b28)
+![Everything looks good here, all votes total to 55,541,279 as expected. No we need to get  rid of those decimals.](https://preview.redd.it/ayv4h1u5ed471.png?width=636&format=png&auto=webp&s=8fbc28cda7a77b8f6a7e63a65cd0e8d33f7f1b28)
 
 &#x200B;
 

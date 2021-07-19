@@ -1,9 +1,10 @@
-# Author: augrr
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/](https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/)
+#Title: 🚀 Time to expose the shell game. FTDs can be "reset" through borrowing from ETFs. Read the Truth.
+#Author: augrr
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/](https://www.reddit.com/r/Superstonk/comments/mvvmvp/time_to_expose_the_shell_game_ftds_can_be_reset/)
 
 
 # 🚀 Time to expose the shell game.
-[The Shell Game](https://imgur.com/wKBpPdI)
+![The Shell Game](https://imgur.com/wKBpPdI)
 ###FTDs are not “reset”. FTDs on ETFs help show the short positions on the underlying securities.
 
 Edit: Each Shell Game post is intended to be read sequentially. You've been misinformed on FTDs. You'll feel great after you go through this journey with me.
@@ -27,7 +28,7 @@ Special call-out to the ETF document from /u/turdfurg23. It has been a huge help
 See here:
 https://www.finra.org/rules-guidance/notices/information-notice-120120
 
-[Settlement Dates that an FTD position can extend to](https://i.imgur.com/9zq2m3T.png)
+![Settlement Dates that an FTD position can extend to](https://i.imgur.com/9zq2m3T.png)
 
 
 
@@ -41,17 +42,17 @@ https://www.finra.org/rules-guidance/notices/information-notice-120120
 
 You shorted GameStop in December because you have a raging FTD problem that keeps biting you in the ass every 13 days, and you MUST exit this position. Unfortunately, GME is now too expensive to short and you are running out of options.
 
-[iborrowdesk.com screenshot](https://imgur.com/2fZBxCN)
+![iborrowdesk.com screenshot](https://imgur.com/2fZBxCN)
 
 So, you call up your friend who holds the a bunch of settled GME shares in an ETF (XRT) and you borrow those to wash yourself of the FTD problem with GME. I say XRT, because look at the GME FTD rate on 12/14/2020 and then the pop of FTD rate out of nowhere from XRT on 12/16/2020!
 
- [ETFs are the timebombs they use to hide FTDs](https://imgur.com/In1pyzJ)
+ ![ETFs are the timebombs they use to hide FTDs](https://imgur.com/In1pyzJ)
 
 On 1/29/2021, the extent of that borrow becomes obvious. At least 2 million GME shares were utilized to wash someone short out of their FTD problem that they dumped onto the SPDR S&P Retail ETF.
 
 And the best part. The highly advertised XRT ETF was not the only one that did this on that same day. In fact, they WEREN’T EVEN THE MOST:
 
-[If you smellllllllllll. What the Rock. Is Cooking.](https://imgur.com/kUAMqDJ)
+![If you smellllllllllll. What the Rock. Is Cooking.](https://imgur.com/kUAMqDJ)
 
 Blackrock’s IWM ETF exploded without warning and then dissipated away. What is happening here?
 
@@ -67,7 +68,7 @@ Because the FTD #s were just starting to become talked about in mid-to-late Janu
 I will let this letter from Ms. Elizabeth Baird of the SEC to Kris Dailey, Vice President of the Office of Financial and Operational Risk Policy of the Financial Industry Regulatory Authority @ One World Financial Center (phew), speak for itself.
 https://www.sec.gov/divisions/marketreg/mr-noaction/2020/finra-fpl-20201022-15c3-3.pdf
 
-[She said it. Not me. I’m merely just a messenger](https://imgur.com/lgWvsvm)
+![She said it. Not me. I’m merely just a messenger](https://imgur.com/lgWvsvm)
 
 ###What does this mean to an ape?
 
@@ -89,7 +90,7 @@ Assuming there are broker/dealers out there that did not come into compliance wi
 
 
 ###The “winner” of this battleground will set the collateral requirements for the “loser” as outlined here: 
-[Margin is Calling](https://imgur.com/0C5FJxu)
+![Margin is Calling](https://imgur.com/0C5FJxu)
  
 #🚀 In Conclusion
 

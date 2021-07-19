@@ -1,5 +1,6 @@
-# Author: PWNWTFBBQ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/](https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/)
+#Title: There have been a lot of DD that is more karma farming than actual anything of scientific, research, or mathematical basis.
+#Author: PWNWTFBBQ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/](https://www.reddit.com/r/Superstonk/comments/oibnz2/there_have_been_a_lot_of_dd_that_is_more_karma/)
 
 
 # Linear Regression Girl who "may have" figured out the shorting algorithm here.
@@ -20,7 +21,7 @@ I continued to look into using typical rates of change and removing data from th
 
 https://preview.redd.it/thkt9ypv2na71.png?width=793&format=png&auto=webp&s=0b85ce6686ba22a2f46680d1b40ce32c559301c2
 
-Currently, we are seeing this ![post](https://www.reddit.com/r/Superstonk/comments/oi10y3/the_algorithm_it_speaks_to_me_it_says_400_this/?utm_source=share&utm_medium=web2x&context=3) which is using the same idea of applying a linear equation to the overall timeline. Like the exponential floor, it places a flat line but instead of the low, it is using the closing price. From my listed examples above even when I did use some sort of math to determine a line, the underlining assumption of having a single line to describe everything was incorrect.
+Currently, we are seeing this [post](https://www.reddit.com/r/Superstonk/comments/oi10y3/the_algorithm_it_speaks_to_me_it_says_400_this/?utm_source=share&utm_medium=web2x&context=3) which is using the same idea of applying a linear equation to the overall timeline. Like the exponential floor, it places a flat line but instead of the low, it is using the closing price. From my listed examples above even when I did use some sort of math to determine a line, the underlining assumption of having a single line to describe everything was incorrect.
 
 https://preview.redd.it/9y2u2lt53na71.png?width=960&format=png&auto=webp&s=4dc6b3657f229b8ab1e2e383666b2cb800db64e2
 

@@ -1,5 +1,6 @@
-# Author: LeCyador
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/](https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/)
+#Title: Citadel, NYSE, and the SEC in the case of the Disappearing Dark Pools!
+#Author: LeCyador
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/](https://www.reddit.com/r/Superstonk/comments/n8ra9p/citadel_nyse_and_the_sec_in_the_case_of_the/)
 
 
 
@@ -22,7 +23,7 @@ Specifically, the following: (sourced from [https://www.reddit.com/r/DDintoGME/c
 
 &#x200B;
 
-[List of Suspended Third Party Systems and Data Feeds](https://preview.redd.it/w6615cm1o6y61.png?width=640&format=png&auto=webp&s=7b45579c0e2df6c98e24f11f5dde6d9692dcc7cb)
+![List of Suspended Third Party Systems and Data Feeds](https://preview.redd.it/w6615cm1o6y61.png?width=640&format=png&auto=webp&s=7b45579c0e2df6c98e24f11f5dde6d9692dcc7cb)
 
 &#x200B;
 
@@ -72,4 +73,4 @@ Securities Exchange Act Release No. 91790 (May 7, 2021) (SR-NYSE-2021- 15, SR-NY
 
 Securities Exchange Act Release No. 91388 (March 23, 2021), 86 FR 16433 (March 29, 2021) (SR-NYSEArca-2021-15). 
 
-![https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf](https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf)
+[https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf](https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2021/Arca.pdf)

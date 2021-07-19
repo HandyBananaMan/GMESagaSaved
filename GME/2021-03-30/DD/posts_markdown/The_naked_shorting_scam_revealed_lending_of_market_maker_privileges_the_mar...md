@@ -1,5 +1,6 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/)
+#Title: The naked shorting scam revealed: lending of market maker privileges, the married put trade and why inflicting max pain will bleed them dry
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/](https://www.reddit.com/r/GME/comments/mgj0j1/the_naked_shorting_scam_revealed_lending_of/)
 
 
 **UPDATE-4**: As soon as someone looked we found millions of naked shorts hidden deep in the call options. The activity is continuing and appears to ramp up as the next FTD cycle approaches. The weird call interest appears to clearly correlate with rising price action and 'closing' of reported FTD volumes. [https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/?utm_medium=android_app&utm_source=share)
@@ -57,7 +58,7 @@ One of the perks of being a market maker (MM) is that you don't need to play by 
 
 Although only MMs should have the ability to sell stock naked *it is possible to loan their privileges' to other hedgefunds to play short*. This image is taken from the linked paper and gives an example of naked selling for Overstock shares using a *married put* trade:
 
-[Example of a married put for Overstock shares](https://preview.redd.it/lycx3rdas6q61.png?width=896&format=png&auto=webp&s=2043c8d6476829cc9aed81583e9402377412a563)
+![Example of a married put for Overstock shares](https://preview.redd.it/lycx3rdas6q61.png?width=896&format=png&auto=webp&s=2043c8d6476829cc9aed81583e9402377412a563)
 
 This could be, *and almost certainly is*, being done with GME shares to hide SI and avoid massive borrowing fees.
 
@@ -73,7 +74,7 @@ In a 2003 SEC Interpretive Release, the Commission expressed concern about “*t
 
 Here is another example of naked selling for Overstock shares, now using a reverse conversion trade:
 
-[Example of a reverse conversion version of the married put for Overstock shares](https://preview.redd.it/m7s0acsds6q61.png?width=899&format=png&auto=webp&s=2438f735745da62bd977b1ffa445d6ffdce4b062)
+![Example of a reverse conversion version of the married put for Overstock shares](https://preview.redd.it/m7s0acsds6q61.png?width=899&format=png&auto=webp&s=2438f735745da62bd977b1ffa445d6ffdce4b062)
 
 The addition of the the call sales masks the trade and attempts to hide it's illegality. However, a key point from the paper states that:
 
@@ -125,4 +126,4 @@ Edit 4: ***This post does not point to any specific dates for a squeeze***. Opti
 
 Edit 5: This analysis makes so much sense to me but it is based on papers from more than 10 years ago! I know some rules have changed since then but don't you think another version of this loophole will have been found by these greedy fucks when this method has been profitable for so long?
 
-Edit 6: The examples I give were for Overstock shares. The shorts fought for years to hide their naked fraudulent asses but they embarrassed themselves by filing evidence of their crimes by accident! ![https://www.reddit.com/r/GME/comments/mexlpn/accidentally\_released\_and\_incredibly\_embarrassing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/?utm_medium=android_app&utm_source=share)
+Edit 6: The examples I give were for Overstock shares. The shorts fought for years to hide their naked fraudulent asses but they embarrassed themselves by filing evidence of their crimes by accident! [https://www.reddit.com/r/GME/comments/mexlpn/accidentally\_released\_and\_incredibly\_embarrassing/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/mexlpn/accidentally_released_and_incredibly_embarrassing/?utm_medium=android_app&utm_source=share)

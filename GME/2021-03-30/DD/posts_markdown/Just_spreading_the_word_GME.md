@@ -1,5 +1,6 @@
-# Author: SaltyRemz
-# Post URL: [https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/](https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/)
+#Title: Just spreading the word! GME🚀🚀🚀
+#Author: SaltyRemz
+#Post URL: [https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/](https://www.reddit.com/r/GME/comments/mgvhs3/just_spreading_the_word_gme/)
 
 
 Credits: u/AlternativeNo2917
@@ -37,7 +38,7 @@ NOW I want to thank and credit u/TDETLES and u/DrPewNStuff for bring this to my 
 
 &#x200B;
 
-[What the fuck have they done.](https://preview.redd.it/euhbcikdc8q61.png?width=904&format=png&auto=webp&s=26510b30cc4943fa36721145789b6fc2ca3ed65d)
+![What the fuck have they done.](https://preview.redd.it/euhbcikdc8q61.png?width=904&format=png&auto=webp&s=26510b30cc4943fa36721145789b6fc2ca3ed65d)
 
 4.29 Trillion... yes TRILLION! You can say this is a glitch it means nothing, if that's what you choose to believe I personally don't see how we can be seeing glitches at this level. How can a stock with less than 70m shares in total be showing glitches into the billions and now trillions worth of volume.   
 

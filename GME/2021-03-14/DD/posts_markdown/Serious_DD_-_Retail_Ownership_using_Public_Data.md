@@ -1,5 +1,6 @@
-# Author: DiamondsApes
-# Post URL: [https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/](https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/)
+#Title: Serious DD - Retail Ownership using Public Data
+#Author: DiamondsApes
+#Post URL: [https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/](https://www.reddit.com/r/GME/comments/m54vpq/serious_dd_retail_ownership_using_public_data/)
 
 
 Hello fellow apes,
@@ -10,7 +11,7 @@ Lets calculate the retail ownership using in my view conservative estimates and 
  The Swedish broker Avanza states that currently as of latest Friday that 22 268 clients hold GME. (1)  
 
 
-[Number of Avanza clients holding GME](https://preview.redd.it/p2j129gw72n61.png?width=355&format=png&auto=webp&s=f720a77e0621d6a81281d37b3224ca3906260460)
+![Number of Avanza clients holding GME](https://preview.redd.it/p2j129gw72n61.png?width=355&format=png&auto=webp&s=f720a77e0621d6a81281d37b3224ca3906260460)
 
 Avanza have 1.4M customers (2) but they are not only focused on trading and it is a popular broker in Sweden (my parents have it and my grandmother). In total then 1.6% of Avanza customers hold GameStop. It might sound low, but this is Sweden not US 
 
@@ -23,7 +24,7 @@ Trading 212 have 1.5M users according to their Tweet from Feb 18 (3). This resul
   
 **Average position size?**
 
-[Avanza employee informing average position size in GME](https://preview.redd.it/mty4z0ae82n61.png?width=598&format=png&auto=webp&s=3217ed74382abf63b442f88bfc736ec41a282de2)
+![Avanza employee informing average position size in GME](https://preview.redd.it/mty4z0ae82n61.png?width=598&format=png&auto=webp&s=3217ed74382abf63b442f88bfc736ec41a282de2)
 
 The above is Swedish. Nicklas Andersson works at Avanza and February 2 said that the average GME position size in dollar amount was18K SEK converted to USD it is $2100 among Avanza clients. Tweet link (4).
 
@@ -37,7 +38,7 @@ This is still probably quite conservative numbers even using the 3.3% number giv
 
 &#x200B;
 
-[The table ](https://preview.redd.it/fgik8kx792n61.png?width=623&format=png&auto=webp&s=4730068b79566ad2b82588ac6cf9962cf611b740)
+![The table ](https://preview.redd.it/fgik8kx792n61.png?width=623&format=png&auto=webp&s=4730068b79566ad2b82588ac6cf9962cf611b740)
 
 The links to where the total user data have been gathered can be find in the references (6-18).
 
@@ -98,4 +99,4 @@ It states that 14% of wealthsimples clients invested in GME. This is in line wit
 14: [https://www.home.saxo/about-us](https://www.home.saxo/about-us)  
  15:   [https://www.hl.co.uk/investor-relations/key-financial-data](https://www.hl.co.uk/investor-relations/key-financial-data)  
  16: [https://cdn2.etrade.net/1/20072315230.0/aempros/content/dam/etrade/about-us/en\_US/documents/investor-relations/financials-sec-filings/quarterly-earnings/2020/Q2/2020-Q2-Earnings-Results.pdf](https://cdn2.etrade.net/1/20072315230.0/aempros/content/dam/etrade/about-us/en_US/documents/investor-relations/financials-sec-filings/quarterly-earnings/2020/Q2/2020-Q2-Earnings-Results.pdf)  
- 17:  ![https://fortune.com/2021/02/02/robinhood-stock-trader-revolt-webull-alternative-china app/#:\~:text=Even%20as%20it%20tried%20to,amid%20last%20week's%20investing%20craze](https://fortune.com/2021/02/02/robinhood-stock-trader-revolt-webull-alternative-china%20app/#:~:text=Even%20as%20it%20tried%20to,amid%20last%20week's%20investing%20craze)
+ 17:  [https://fortune.com/2021/02/02/robinhood-stock-trader-revolt-webull-alternative-china app/#:\~:text=Even%20as%20it%20tried%20to,amid%20last%20week's%20investing%20craze](https://fortune.com/2021/02/02/robinhood-stock-trader-revolt-webull-alternative-china%20app/#:~:text=Even%20as%20it%20tried%20to,amid%20last%20week's%20investing%20craze)

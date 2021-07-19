@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/)
+#Title: Elliott Waves, GME, WEN THE F*CK MOON!? 🚀
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/](https://www.reddit.com/r/Superstonk/comments/of4zjh/elliott_waves_gme_wen_the_fck_moon/)
 
 
 Sup apes
@@ -36,7 +37,7 @@ I have happily added more shares under 200, that's a fucking steal if you ask me
 
 Here's my updated chart factoring in today's low, simplified (I cleaned my shit up big time)
 
-[Daily](https://preview.redd.it/lq89qnsfqn971.png?width=2816&format=png&auto=webp&s=720f08ff3a540599c47662db4299584baef44abc)
+![Daily](https://preview.redd.it/lq89qnsfqn971.png?width=2816&format=png&auto=webp&s=720f08ff3a540599c47662db4299584baef44abc)
 
 Note, the only targets changed from the recent downward pressure (white line/red annotation). All larger scale targets remain the same, the only way the latter would be invalidated is if we broke below 112.83 (yellow line target) and 38 (blue line target)
 
@@ -52,11 +53,11 @@ Before I continue with GME, I would like to shed more light on my [$SPY analysis
 
 Here's what I see on a 4hr view:
 
-[4hr](https://preview.redd.it/wf4gw34otn971.png?width=2782&format=png&auto=webp&s=20c654cb312a1b3823a203fdde519bc7a26c9d94)
+![4hr](https://preview.redd.it/wf4gw34otn971.png?width=2782&format=png&auto=webp&s=20c654cb312a1b3823a203fdde519bc7a26c9d94)
 
 Monthly:
 
-[Monthly](https://preview.redd.it/51ovbhfstn971.png?width=2772&format=png&auto=webp&s=11191e09c072e0d761c6d48e487db233da740945)
+![Monthly](https://preview.redd.it/51ovbhfstn971.png?width=2772&format=png&auto=webp&s=11191e09c072e0d761c6d48e487db233da740945)
 
 Without a doubt, SPY is ridiculously extended to the upside.
 
@@ -64,7 +65,7 @@ I believe we will see 436 hit in the near future at the very least, highly doubt
 
 &#x200B;
 
-[visualized](https://preview.redd.it/51mjqx85un971.png?width=2824&format=png&auto=webp&s=e6549eb2b289e18c38c3e5965405607447805b86)
+![visualized](https://preview.redd.it/51mjqx85un971.png?width=2824&format=png&auto=webp&s=e6549eb2b289e18c38c3e5965405607447805b86)
 
 You can see the 5 wave structure from the recent lowest low, normally wave 4 can't retrace into the territory of 1, however keep in mind the overarching wave is a 5, meaning 4 CAN retrace into the territory of 1. This trips a lot of new EW traders up as they don't understand the rule of **diagonals.**
 
@@ -76,7 +77,7 @@ the reason I'm talking so much about SPY here is because GME and a little someth
 
 &#x200B;
 
-[visualized](https://preview.redd.it/kyv6eatvun971.png?width=2782&format=png&auto=webp&s=1983cec53b01236137008a1039415c226380dda2)
+![visualized](https://preview.redd.it/kyv6eatvun971.png?width=2782&format=png&auto=webp&s=1983cec53b01236137008a1039415c226380dda2)
 
 again, do note the white lines on SPY are only for visualization purposes, see my SPY DD for in depth retracement targets for our seemingly imminent bear market.
 
@@ -86,7 +87,7 @@ In terms of GME downside should this not be the bottom, super dumbed down, here'
 
 &#x200B;
 
-[channel in red, time extensions colorful](https://preview.redd.it/6uei55gevn971.png?width=2792&format=png&auto=webp&s=20b232cd208d12dcd1a0c33f885f697d41cf446d)
+![channel in red, time extensions colorful](https://preview.redd.it/6uei55gevn971.png?width=2792&format=png&auto=webp&s=20b232cd208d12dcd1a0c33f885f697d41cf446d)
 
 Fibonacci time extensions can also be used to predict when a wave will change trajectory. In this scenario, I measured the length of the 1 (from 113 to 344) to get fibonacci numbers in relation to this time period. Stocks often need to cool off/consolidate  after big moves before continuing the original trajectory. Totally normal in the stock market.
 

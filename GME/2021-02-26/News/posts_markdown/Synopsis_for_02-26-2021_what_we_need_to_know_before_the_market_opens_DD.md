@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lsvuzm/synopsis_for_02262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lsvuzm/synopsis_for_02262021_what_we_need_to_know_before/)
+#Title: Synopsis for 02-26-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lsvuzm/synopsis_for_02262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lsvuzm/synopsis_for_02262021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -30,7 +31,7 @@ YES! I've seen a post yesterday from Orthex stating that on Wednesday alone we w
 
 &#x200B;
 
-[https:\/\/markets.businessinsider.com\/news\/stocks\/gamestop-short-sellers-billions-losses-reddit-traders-wallstreetbets-rally-gme-2021-2-1030125873](https://preview.redd.it/q8j89k5yysj61.jpg?width=1080&format=pjpg&auto=webp&s=4b256e0a02268488cc3470d6553492d4890c0ef9)
+![https:\/\/markets.businessinsider.com\/news\/stocks\/gamestop-short-sellers-billions-losses-reddit-traders-wallstreetbets-rally-gme-2021-2-1030125873](https://preview.redd.it/q8j89k5yysj61.jpg?width=1080&format=pjpg&auto=webp&s=4b256e0a02268488cc3470d6553492d4890c0ef9)
 
 &#x200B;
 
@@ -50,7 +51,7 @@ and here
 
 &#x200B;
 
-[Finra showing 33 million shorts lended yesterday](https://preview.redd.it/ou9516xjwsj61.png?width=640&format=png&auto=webp&s=8637c376889bedf03fa46ccd24292e428c720ee9)
+![Finra showing 33 million shorts lended yesterday](https://preview.redd.it/ou9516xjwsj61.png?width=640&format=png&auto=webp&s=8637c376889bedf03fa46ccd24292e428c720ee9)
 
 (can't seem to find the image of Orthex stating it so if someone could perhaps give me a link I'll upload the image here)
 
@@ -110,7 +111,7 @@ and this thread as well
 
 [https://www.reddit.com/r/GME/comments/lsmv1w/what\_to\_expect\_for\_friday\_226\_why\_todays\_price/](https://www.reddit.com/r/GME/comments/lsmv1w/what_to_expect_for_friday_226_why_todays_price/)
 
-[the number of calls and when they are triggered, thanks to whoever posted this.](https://preview.redd.it/1fiocf6evsj61.png?width=1181&format=png&auto=webp&s=8df8661ad7d01a30c09a53bdbe721db616d5ee0b)
+![the number of calls and when they are triggered, thanks to whoever posted this.](https://preview.redd.it/1fiocf6evsj61.png?width=1181&format=png&auto=webp&s=8df8661ad7d01a30c09a53bdbe721db616d5ee0b)
 
 As always expect the 10AM drop, this is like clockwork with these guys.
 
@@ -178,7 +179,7 @@ but let me tell you something they don't understand.
 
 &#x200B;
 
-[4 wongs don't make a wright](https://preview.redd.it/2ufjdfxa1tj61.jpg?width=1078&format=pjpg&auto=webp&s=1b053a258011bd0cec3396cafd00250a84672865)
+![4 wongs don't make a wright](https://preview.redd.it/2ufjdfxa1tj61.jpg?width=1078&format=pjpg&auto=webp&s=1b053a258011bd0cec3396cafd00250a84672865)
 
 why?
 
@@ -200,7 +201,7 @@ And the hedgies are fearful
 
 &#x200B;
 
-[also found a new Tyrone for Melvin and Griffin](https://preview.redd.it/1w28hfkm2tj61.jpg?width=500&format=pjpg&auto=webp&s=4658e8d9a8dc59adb59015b7b309375af709022d)
+![also found a new Tyrone for Melvin and Griffin](https://preview.redd.it/1w28hfkm2tj61.jpg?width=500&format=pjpg&auto=webp&s=4658e8d9a8dc59adb59015b7b309375af709022d)
 
 &#x200B;
 
@@ -355,6 +356,6 @@ Edit 8:
 
 https://preview.redd.it/efxsjapk1wj61.png?width=2856&format=png&auto=webp&s=b1a423580072861b7caada465c9bcd979a09bf5b
 
-![https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
+[https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme\_yolo\_monthend\_update\_feb\_2021/](https://www.reddit.com/r/wallstreetbets/comments/lt7v4w/gme_yolo_monthend_update_feb_2021/)
 
 he is still in!

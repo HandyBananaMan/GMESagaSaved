@@ -1,5 +1,6 @@
-# Author: According_Bee2757
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/](https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/)
+#Title: SEC Rulemaking Reference Guide
+#Author: According_Bee2757
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/](https://www.reddit.com/r/Superstonk/comments/n5g0sc/sec_rulemaking_reference_guide/)
 
 
 Pending edit: TA;DR: to be added for each rule
@@ -344,7 +345,7 @@ These vary slightly from form to form.
 
 # 08: Gary Gensler
 
-![Gary Gensler was sworn in on Apr. 14, 2021](https://www.sec.gov/news/press-release/2021-65), since then 7 items have been filed.
+[Gary Gensler was sworn in on Apr. 14, 2021](https://www.sec.gov/news/press-release/2021-65), since then 7 items have been filed.
 
 # 09: Endnote
 

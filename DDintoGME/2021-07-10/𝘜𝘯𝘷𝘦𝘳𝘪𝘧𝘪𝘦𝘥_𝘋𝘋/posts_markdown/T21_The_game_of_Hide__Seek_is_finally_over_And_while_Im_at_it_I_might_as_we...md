@@ -1,5 +1,6 @@
-# Author: JaboniThxDad
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/](https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/)
+#Title: T+21. The game of Hide & Seek is finally over. And while I'm at it I might as well try to prove how July 14th is going to become our new January 13th.
+#Author: JaboniThxDad
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/](https://www.reddit.com/r/DDintoGME/comments/ohm7uq/t21_the_game_of_hide_seek_is_finally_over_and/)
 
 
 &#x200B;
@@ -18,7 +19,7 @@ Don't worry. I won't go into as much detail going forward. I'm just trying to de
 
 &#x200B;
 
-[Day 0 and its aftermath](https://preview.redd.it/nxomkyjtyea71.jpg?width=1176&format=pjpg&auto=webp&s=290b06fd0f9239546b84f49234f6256452182513)
+![Day 0 and its aftermath](https://preview.redd.it/nxomkyjtyea71.jpg?width=1176&format=pjpg&auto=webp&s=290b06fd0f9239546b84f49234f6256452182513)
 
 **January 25th**
 
@@ -32,7 +33,7 @@ Day 21. We hit 67.4 million volume on this day. The price opened at $44.70 and w
 
 &#x200B;
 
-[February 24th volume & price spike preceded by lower volume and followed by sideways trading prior to a parabolic move](https://preview.redd.it/qs18bxnuyea71.jpg?width=1175&format=pjpg&auto=webp&s=fb7d2eee08e5c20c8e6ec8c0af871467c722967c)
+![February 24th volume & price spike preceded by lower volume and followed by sideways trading prior to a parabolic move](https://preview.redd.it/qs18bxnuyea71.jpg?width=1175&format=pjpg&auto=webp&s=fb7d2eee08e5c20c8e6ec8c0af871467c722967c)
 
 **March 25th**
 
@@ -40,7 +41,7 @@ Day 21. We hit 50.4 million volume on this day. The price opened at $123.49, we 
 
 &#x200B;
 
-[This one is not like the others and for good reason](https://preview.redd.it/ojqf0ywvyea71.jpg?width=1182&format=pjpg&auto=webp&s=a8505ff421d32b0646cc9fa7ea0f8a88daad1375)
+![This one is not like the others and for good reason](https://preview.redd.it/ojqf0ywvyea71.jpg?width=1182&format=pjpg&auto=webp&s=a8505ff421d32b0646cc9fa7ea0f8a88daad1375)
 
 **April 26th**
 
@@ -48,7 +49,7 @@ Day 21. This is where people lost faith in the 21-day cycle. But they shouldn't 
 
 &#x200B;
 
-[I see you](https://preview.redd.it/ljv29v5zyea71.jpg?width=420&format=pjpg&auto=webp&s=54d8dfdf54dd186fe8dc84d4f7295ff558b5dc5c)
+![I see you](https://preview.redd.it/ljv29v5zyea71.jpg?width=420&format=pjpg&auto=webp&s=54d8dfdf54dd186fe8dc84d4f7295ff558b5dc5c)
 
 **May 25th**
 
@@ -56,7 +57,7 @@ Day 21. 14.4 million volume. We opened at $181, reached a high of $217.11 and se
 
 &#x200B;
 
-[I heard you all like pictures so I made you one](https://preview.redd.it/6zw2yzzazea71.jpg?width=1179&format=pjpg&auto=webp&s=25b5dde81650e0d0a51331a2be5c32099c2c6f46)
+![I heard you all like pictures so I made you one](https://preview.redd.it/6zw2yzzazea71.jpg?width=1179&format=pjpg&auto=webp&s=25b5dde81650e0d0a51331a2be5c32099c2c6f46)
 
 **June 24th**
 

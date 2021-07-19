@@ -1,5 +1,6 @@
-# Author: GxM42
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ne34z8/would_me_buying_10000_shares_have_any_effect/](https://www.reddit.com/r/DDintoGME/comments/ne34z8/would_me_buying_10000_shares_have_any_effect/)
+#Title: Would me buying 10,000 shares have any effect?
+#Author: GxM42
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/ne34z8/would_me_buying_10000_shares_have_any_effect/](https://www.reddit.com/r/DDintoGME/comments/ne34z8/would_me_buying_10000_shares_have_any_effect/)
 
 
 What happens if I liquidate all my crypto and other stocks, and buy 10,000 shares (yes, I could go all in if I wanted). Would that even move the price given all the shenanigans in dark pools? Would that even have a chance of starting the MOASS? Or would it have no effect at all?

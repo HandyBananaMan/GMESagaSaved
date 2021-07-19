@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/](https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/)
+#Title: HUGE: Citadel is paying for Order Flow from NINE ONLINE BROKERS- not just Robinhood!
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/](https://www.reddit.com/r/GME/comments/mbgsl8/huge_citadel_is_paying_for_order_flow_from_nine/)
 
 
 *EDIT: Updated info at bottom*
@@ -26,7 +27,7 @@ Anyway, the header says it all. Citadel is literally buying your positions from 
 
 [Fidelity](https://clearingcustody.fidelity.com/app/literature/item/9901330.html) (routing stock & options orders, but only being paid for options, thanks Fidelity...)
 
-![TradeStation](https://uploads.tradestation.com/uploads/2020-Q4-SEC-Rule-606-607.pdf?_gl=1*c1pknc*_gcl_aw*R0NMLjE2MTIzOTE4NjIuRUFJYUlRb2JDaE1JOHB2VTR1TE83Z0lWQ0w3QUNoME9SQWpZRUFBWUFTQUFFZ0xDZlBEX0J3RQ) (won't let me paste the link. Google
+[TradeStation](https://uploads.tradestation.com/uploads/2020-Q4-SEC-Rule-606-607.pdf?_gl=1*c1pknc*_gcl_aw*R0NMLjE2MTIzOTE4NjIuRUFJYUlRb2JDaE1JOHB2VTR1TE83Z0lWQ0w3QUNoME9SQWpZRUFBWUFTQUFFZ0xDZlBEX0J3RQ) (won't let me paste the link. Google
 
 What does this mean? After you buy $GME, do not place limit orders signaling where you're comfortable buying and selling, quit placing stop losses, stop everything. This immediately notifies market makers where your 'trigger' points are. 
 

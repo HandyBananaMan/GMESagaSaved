@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/](https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/)
+#Title: Russel 1000
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/](https://www.reddit.com/r/Superstonk/comments/n6sv66/russel_1000/)
 
 
 ***Not financial advice.***
@@ -73,14 +74,14 @@ The change in the contents of ANY Index is called **"Reconstitution"**. This is 
 
 In the last Reconstitution in 2020, **this happened!**
 
-[Nice](https://preview.redd.it/grjmwk69cnx61.png?width=933&format=png&auto=webp&s=7b87902ee51d7693b08dd673ce80f5217846a473)
+![Nice](https://preview.redd.it/grjmwk69cnx61.png?width=933&format=png&auto=webp&s=7b87902ee51d7693b08dd673ce80f5217846a473)
 
 * This doesn't mean you'll see VOLUME = 69.9 Billion (nice) for GME on the day of the **Reconstitution**.
 * ~~You are likely to see a big number close or above~~ **~~100 Million~~** ~~(guestimate) as they buy the shares they need for their ETF.~~
 
 You know what that means you dirty monkeys.
 
-[https:\/\/en.wikipedia.org\/wiki\/Jacques\_Tits](https://preview.redd.it/v0kyut45enx61.jpg?width=1280&format=pjpg&auto=webp&s=d8f74fa19854a0978beda790603267e1296dc7c3)
+![https:\/\/en.wikipedia.org\/wiki\/Jacques\_Tits](https://preview.redd.it/v0kyut45enx61.jpg?width=1280&format=pjpg&auto=webp&s=d8f74fa19854a0978beda790603267e1296dc7c3)
 
 &#x200B;
 
@@ -124,7 +125,7 @@ If you're a wrinkly brained bastard with free time, the methodology on how they 
 
 From what I've read, we're good to join. Have a read as well and **"AKSHUALLY"** me if you think i'm wrong.
 
-[Kidding tho, do correct me if i'm wrong in something and i'll amend the post.](https://preview.redd.it/l1n21bkfgnx61.png?width=680&format=png&auto=webp&s=92f7f9a0278d9f3cbded903f684bb1a244f81962)
+![Kidding tho, do correct me if i'm wrong in something and i'll amend the post.](https://preview.redd.it/l1n21bkfgnx61.png?width=680&format=png&auto=webp&s=92f7f9a0278d9f3cbded903f684bb1a244f81962)
 
 &#x200B;
 

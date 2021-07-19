@@ -1,5 +1,6 @@
-# Author: SirMiba
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nshyy9/just_another_reminder_literally_every_company/](https://www.reddit.com/r/Superstonk/comments/nshyy9/just_another_reminder_literally_every_company/)
+#Title: Just another reminder: Literally EVERY "company catalyst" since January has resulted in either sideways trading or a huge short attack. Earnings report, chairman announcement, debt settling, fund raising, w/e. There is NO reason to think ANYTHING but -15% will happen after the shareholder meeting.
+#Author: SirMiba
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nshyy9/just_another_reminder_literally_every_company/](https://www.reddit.com/r/Superstonk/comments/nshyy9/just_another_reminder_literally_every_company/)
 
 
 I've been holding since the second peak of Mt. FUD in January. Catalysts came and went, and Shitadel shorted GME to hell and back, every. single. time. I said this months ago now, but I'll say it again: You almost have to give Shitadel some credit for their relentless consistency and adherence to strategy. In the light of how absolutely futile their efforts are, they are in fact, more retarded than we are. They'd gladly YOLO the entire US economy into the blackhole that is GME, if the DTCC, OCC, and so on hadn't gone "OH FUG :DDD Shitdal gone nuglear xDD" and slowly tried to cover their own asses in time.

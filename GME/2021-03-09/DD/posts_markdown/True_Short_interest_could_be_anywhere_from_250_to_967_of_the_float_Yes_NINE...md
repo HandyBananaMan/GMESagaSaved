@@ -1,5 +1,6 @@
-# Author: moonski
-# Post URL: [https://www.reddit.com/r/GME/comments/m19oh7/true_short_interest_could_be_anywhere_from_250_to/](https://www.reddit.com/r/GME/comments/m19oh7/true_short_interest_could_be_anywhere_from_250_to/)
+#Title: True Short interest could be anywhere from 250% to 967% of the float. Yes NINE HUNDRED %
+#Author: moonski
+#Post URL: [https://www.reddit.com/r/GME/comments/m19oh7/true_short_interest_could_be_anywhere_from_250_to/](https://www.reddit.com/r/GME/comments/m19oh7/true_short_interest_could_be_anywhere_from_250_to/)
 
 
 *Edit: have passed on various comments to him so will reply once he gets back to me*

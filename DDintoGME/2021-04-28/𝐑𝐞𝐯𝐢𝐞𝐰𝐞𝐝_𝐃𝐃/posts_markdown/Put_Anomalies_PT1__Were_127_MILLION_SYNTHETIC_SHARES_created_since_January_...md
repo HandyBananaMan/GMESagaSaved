@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n0ee7j/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/DDintoGME/comments/n0ee7j/put_anomalies_pt1_were_127_million_synthetic/)
+#Title: Put Anomalies PT1 — Were 127 MILLION+ SYNTHETIC SHARES created since January, or is this data ‘nothing to worry about’? Why were 1.094 MILLION worthless PUTS traded on March3&4? Was it linked to the open interest? Findings of a 2-week market-data-driven and white paper investigation.
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n0ee7j/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/DDintoGME/comments/n0ee7j/put_anomalies_pt1_were_127_million_synthetic/)
 
 
 # Tl;Dr: There is an Explain Like I'm Ape section at the bottom.
@@ -160,7 +161,7 @@ The above graph is the **net change in open put interest** on all the puts that 
 
 A 1990 paper that I paid $25 for may hold a clue:
 
-*“Our results indicate that securities with high levels of short interest tend to have higher betas and traded options and convertible securities associated with them.* ***Changes in the open interest of options are positively related to changes in short interest.*** *To examine this, we looked at coincidental changes of the open interest in firm options and changes in a firm's short interest. Table 5 reports the aggregate simultaneous increases and decreases in short interest and open option interest based on the expiration cycle. The statistical results are easily significant at the 0.01 level and indicate that* ***short interest and option open interest tend to move together***. Tests performed on individual years also were significant for each year. The short interest changes tend to be positively associated with changes in the open interest of options.***” -*** ![Brent, Morse & Stice (1990) — “Short Interest: Explanations and Tests” (Journal of Financial and Quantitative Analysis, Vol 25, No 2, June 1990)](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/issue/FC6DD9EE2BFF94316B896BA21F6798FB)
+*“Our results indicate that securities with high levels of short interest tend to have higher betas and traded options and convertible securities associated with them.* ***Changes in the open interest of options are positively related to changes in short interest.*** *To examine this, we looked at coincidental changes of the open interest in firm options and changes in a firm's short interest. Table 5 reports the aggregate simultaneous increases and decreases in short interest and open option interest based on the expiration cycle. The statistical results are easily significant at the 0.01 level and indicate that* ***short interest and option open interest tend to move together***. Tests performed on individual years also were significant for each year. The short interest changes tend to be positively associated with changes in the open interest of options.***” -*** [Brent, Morse & Stice (1990) — “Short Interest: Explanations and Tests” (Journal of Financial and Quantitative Analysis, Vol 25, No 2, June 1990)](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/issue/FC6DD9EE2BFF94316B896BA21F6798FB)
 
 &#x200B;
 

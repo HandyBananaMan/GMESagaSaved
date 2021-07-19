@@ -1,12 +1,13 @@
-# Author: JohnnyGrey
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/](https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/)
+#Title: IGNITED FINANCIAL ANALYSIS CRASH COURSE - WHAT TO EXPECT FROM Q1 RESULTS
+#Author: JohnnyGrey
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/](https://www.reddit.com/r/Superstonk/comments/ntriid/ignited_financial_analysis_crash_course_what_to/)
 
 
 Hello you beautiful bastards. Since the Q1 results are right around the corner, I thought I could share some of my limited financial analysis knowledge with you. I know your tits are as jacked as your brains are smooth, so bear with me. This will be fun, I promise!
 
 &#x200B;
 
-[And on we go...](https://preview.redd.it/yie61c2ako371.jpg?width=1289&format=pjpg&auto=webp&s=d6e4b460995a0b1adf7e59a1a5f2f89d83f569f0)
+![And on we go...](https://preview.redd.it/yie61c2ako371.jpg?width=1289&format=pjpg&auto=webp&s=d6e4b460995a0b1adf7e59a1a5f2f89d83f569f0)
 
 Let’s start with the Balance Sheet.
 
@@ -37,7 +38,7 @@ Whenever I look at current assets I am very, very interested in Cash and cash eq
 
 &#x200B;
 
-[CASH IS KING](https://i.redd.it/dv55mf61lo371.gif)
+![CASH IS KING](https://i.redd.it/dv55mf61lo371.gif)
 
 **Non-Current assets - these are assets that are not so easily converted to cash:**
 
@@ -50,7 +51,7 @@ The main focus here for GameStop, are the large number of stores worldwide. Pret
 
 &#x200B;
 
-[They're everywhere!](https://preview.redd.it/dkzlhlejlo371.png?width=1351&format=png&auto=webp&s=4d552c594da31b77f2d30c831f75251ac29a45b2)
+![They're everywhere!](https://preview.redd.it/dkzlhlejlo371.png?width=1351&format=png&auto=webp&s=4d552c594da31b77f2d30c831f75251ac29a45b2)
 
 **Current liabilities -  this is the debt that GS must pay in the short term (less than 1 year):**
 
@@ -64,7 +65,7 @@ Big focus on all of these. Debt has been a big decision factor for these hedge f
 
 &#x200B;
 
-[Yay!](https://preview.redd.it/5ujkunw1no371.jpg?width=730&format=pjpg&auto=webp&s=e641386ab575f08de06428e8ede3c2d921785935)
+![Yay!](https://preview.redd.it/5ujkunw1no371.jpg?width=730&format=pjpg&auto=webp&s=e641386ab575f08de06428e8ede3c2d921785935)
 
 **Non-Current Liabilities - this is the debt that GS must pay in the long term (period longer than 1 year):**
 
@@ -76,7 +77,7 @@ The main point from the Non-Current Liabilities is the Long term debt. We’ll g
 
 &#x200B;
 
-[So many strings attached for Senior Notes it's not even funny.](https://preview.redd.it/5m28qbggno371.png?width=750&format=png&auto=webp&s=fb69ede751eb7f1ff0e6a6acdbdc0f355aa4f6a4)
+![So many strings attached for Senior Notes it's not even funny.](https://preview.redd.it/5m28qbggno371.png?width=750&format=png&auto=webp&s=fb69ede751eb7f1ff0e6a6acdbdc0f355aa4f6a4)
 
 **Equity - This is the corporation's owners' residual claim on assets after debts have been paid.** 
 
@@ -88,7 +89,7 @@ Okay you beautiful bastards, you’ve read so far and I am really proud of you. 
 
 &#x200B;
 
-[Pretty colors make me happy!](https://preview.redd.it/lzj9p4qlno371.jpg?width=1150&format=pjpg&auto=webp&s=17fd4d237b65deec63aab14de91f7e2109a59cf3)
+![Pretty colors make me happy!](https://preview.redd.it/lzj9p4qlno371.jpg?width=1150&format=pjpg&auto=webp&s=17fd4d237b65deec63aab14de91f7e2109a59cf3)
 
 **Let’s get in the middle of it.**
 
@@ -107,7 +108,7 @@ Now GS is free to go wherever they please (not unlike Mundo). And they have a sh
 
 &#x200B;
 
-[I like money!](https://preview.redd.it/p52bexdsno371.jpg?width=1150&format=pjpg&auto=webp&s=f0c2561305bd6b2d3e20eeec2883cf98b1b0f7b1)
+![I like money!](https://preview.redd.it/p52bexdsno371.jpg?width=1150&format=pjpg&auto=webp&s=f0c2561305bd6b2d3e20eeec2883cf98b1b0f7b1)
 
 These few moves deal a huge blow to liabilities and a huge boost to assets. And not just any assets, but to current assets.
 
@@ -119,7 +120,7 @@ I think we should be seeing something like this in Q1, but this is just speculat
 
 &#x200B;
 
-[I mean, I'm not like an expert, like uhm, this is my opinion and stuff.](https://preview.redd.it/cwyyjx5xno371.jpg?width=1150&format=pjpg&auto=webp&s=57733adc7fa04d9776828ee9270ca89c951c160b)
+![I mean, I'm not like an expert, like uhm, this is my opinion and stuff.](https://preview.redd.it/cwyyjx5xno371.jpg?width=1150&format=pjpg&auto=webp&s=57733adc7fa04d9776828ee9270ca89c951c160b)
 
 I think Ryan will want to maximize inventory efficiency to compete with Amazon by offering  1-day delivery for all goods. This means a slight decrease in overall inventories on the balance sheet. This, together with the recent support from apes and publicity should boost Receivables quite a lot in Q121. GameStop, although it has a lot of money right now, might want to reduce prepaid expenses and try to maximize their DPO and get as many extended payment terms from their suppliers.
 
@@ -129,7 +130,7 @@ The Accounts Payable position will most likely increase as well because of all t
 
 &#x200B;
 
-[Planning to fail means failing to plan. Wait..](https://preview.redd.it/3da0iw5roo371.png?width=1600&format=png&auto=webp&s=f6ed81a2f65574671f9eed3a9104458767eb4433)
+![Planning to fail means failing to plan. Wait..](https://preview.redd.it/3da0iw5roo371.png?width=1600&format=png&auto=webp&s=f6ed81a2f65574671f9eed3a9104458767eb4433)
 
 # IGNITED INCOME STATEMENT ANALYSIS
 

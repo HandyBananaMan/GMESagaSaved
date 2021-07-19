@@ -1,5 +1,6 @@
-# Author: peruvian_bull
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/)
+#Title: The Dollar Endgame PART 2 “The Ouroboros”
+#Author: peruvian_bull
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/)
 
 
 Apes, this is a continuation of my Dollar Endgame Series. You can find Part 1 [here](https://www.reddit.com/r/Superstonk/comments/o4vzau/hyperinflation_is_coming_the_dollar_endgame_part/).
@@ -35,7 +36,7 @@ Some Terms you need to know:
 
 # Part Two: Derivatives, Systemic Risk, and Nitroglycerin- “The Ouroboros”
 
-[The Ouroboros](https://preview.redd.it/lscwu54x68771.png?width=626&format=png&auto=webp&s=f9b6ed88c18bc0d71ac368509af350f34644caa0)
+![The Ouroboros](https://preview.redd.it/lscwu54x68771.png?width=626&format=png&auto=webp&s=f9b6ed88c18bc0d71ac368509af350f34644caa0)
 
 # Prologue:
 
@@ -53,7 +54,7 @@ The performance of individual securities on a single day was essentially random,
 
 &#x200B;
 
-[Bell Curve Distribution fitted to Market Returns](https://preview.redd.it/pakm4imk28771.png?width=646&format=png&auto=webp&s=d9122a8c28e8a204bafeba369c958efdd042467c)
+![Bell Curve Distribution fitted to Market Returns](https://preview.redd.it/pakm4imk28771.png?width=646&format=png&auto=webp&s=d9122a8c28e8a204bafeba369c958efdd042467c)
 
 This flowed logically from the concept of random events that [Brownian motion](http://web.mit.edu/8.334/www/grades/projects/projects17/OscarMickelin/brownian.html) described. In the mid- 1800s, scientist [Robert Brown](https://en.wikipedia.org/wiki/Brownian_motion) saw that particles in a fluid sub-domain bounced around randomly, with their individual movements being essentially unpredictable- these movements were completely random. Drawing on Brownian motion, mathematicians had created [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory), which could estimate the given probability (not certainty) of a set of outcomes.
 
@@ -69,7 +70,7 @@ These Bell Curve distributions, after being modified for applications in financi
 
 Essentially what these VaR models could do was provide a statistical technique used to measure the amount of [potential loss](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/value-at-risk-var/) that could happen in an investment portfolio over a specified period of time. Value at Risk gives the probability of losing more than a given amount in a given portfolio.
 
-[Value-at-Risk Model](https://preview.redd.it/mrqixcou38771.png?width=626&format=png&auto=webp&s=2c452ed7175c8bec851f2e4547e80df68ac31119)
+![Value-at-Risk Model](https://preview.redd.it/mrqixcou38771.png?width=626&format=png&auto=webp&s=2c452ed7175c8bec851f2e4547e80df68ac31119)
 
 You can see from the above that these models have “skinny tails”, that is to say, they predict the likelihood of extreme events (standard deviation of 3 or more) happening as very low- especially on the downside (see above). Outlier events were thus coined “[tail risk](https://www.investopedia.com/terms/t/tailrisk.asp#:~:text=Tail%20risk%20is%20a%20form,shown%20by%20a%20normal%20distribution.)”, occurrences that only show up on the far tails of the distribution. Tail risk events were shown to be SO unlikely that the fund managers basically didn't hedge for them AT ALL.
 
@@ -81,7 +82,7 @@ At the same time, [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama), an A
 
 Current market prices incorporated all available and future information, and thus buying undervalued stocks, or selling at inflated prices, was not feasible. [Making consistent profits was impossible](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/efficient-markets-hypothesis/)\- if you made money, you just got “lucky” as the market randomly moved in your favor after you made the trade. The price, therefore, was always “right”.
 
-[Efficient Market Hypothesis](https://preview.redd.it/ktn8rya048771.png?width=646&format=png&auto=webp&s=5fc831830ca80cc77b339c94874abd26d5932283)
+![Efficient Market Hypothesis](https://preview.redd.it/ktn8rya048771.png?width=646&format=png&auto=webp&s=5fc831830ca80cc77b339c94874abd26d5932283)
 
 This further emboldened investors and whetted their risk appetite. Armed with these two theories, they started making statistical algorithms that modeled the stock market, and loaded themselves up with more risk. Starting in the early 1980s, [portfolio insurance](https://www.investopedia.com/terms/p/portfolioinsurance.asp) started to gain traction within the industry. This “insurance” basically was an automated system that [short-sold S&P 500 Index futures](https://www.investopedia.com/ask/answers/042115/what-caused-black-monday-stock-market-crash-1987.asp) in case of a market decline.
 
@@ -115,13 +116,13 @@ By the end of the trading day on October 16, which was a Friday, the DJIA had lo
 
 &#x200B;
 
-[DJIA \(Tradingview\) - Historical Realized Volatility on the bottom scale](https://preview.redd.it/39kpennd48771.png?width=644&format=png&auto=webp&s=05033a945abf9b7cfd4f245e6b2502e048619f40)
+![DJIA \(Tradingview\) - Historical Realized Volatility on the bottom scale](https://preview.redd.it/39kpennd48771.png?width=644&format=png&auto=webp&s=05033a945abf9b7cfd4f245e6b2502e048619f40)
 
 Even before US markets opened for trading on Monday morning, stock markets in and around Asia began plunging. Additional investors moved to liquidate positions, and the number of sell orders vastly outnumbered willing buyers near previous prices, creating a cascade in stock markets.
 
 In the most severe case, [New Zealand’s stock market fell 60 percent](https://www.nzherald.co.nz/indepth/business/1987-stock-market-crash/), and would take years to recover. Traders reported racing each other to the pits to sell. Author Scott Patterson describes the scene:
 
-[The Quants, pg 51](https://preview.redd.it/1wcf5o2o48771.png?width=430&format=png&auto=webp&s=cbd254a4bd9fd41753c282d73cb2916af5a5891e)
+![The Quants, pg 51](https://preview.redd.it/1wcf5o2o48771.png?width=430&format=png&auto=webp&s=cbd254a4bd9fd41753c282d73cb2916af5a5891e)
 
 Traders on the floor of the NYSE reported seeing ticker numbers spinning so fast that they were unreadable. Liquidity vanished completely from the market. Sell orders flooded in so fast the infrastructure to record them started malfunctioning.
 
@@ -137,7 +138,7 @@ For the first time, investors could watch on live television as a financial cris
 
 Black Monday represented a catastrophic rebuttal to the mathematicians and economists who created the Random Walk Theory and Value- At- Risk models. **These probability theorists had stated that events like this were improbable- so improbable in fact that their models predicted Black Monday was IMPOSSIBLE. Thus, no one in the market had hedged or expected an event as extreme as this.** In fact, some theoreticians started to doubt the validity of the previously iron-clad Efficient Market Hypothesis itself. Patterson continues:
 
-[The Quants, pg 53](https://preview.redd.it/egil7fww48771.png?width=380&format=png&auto=webp&s=6f5cf4b457207185aec4c4392e87bf118a8bbf90)
+![The Quants, pg 53](https://preview.redd.it/egil7fww48771.png?width=380&format=png&auto=webp&s=6f5cf4b457207185aec4c4392e87bf118a8bbf90)
 
 Black Monday also represented a fascinating case study in the devastating effects of derivatives on financial markets. The Index Arbitrageurs, buying the S&P 500 futures being sold by portfolio insurance, had raced to short sell the underlying stock to stay net neutral. This was because by owning the S&P 500 futures, they effectively owned a small piece of every stock in the index. To [hedge](https://www.investopedia.com/trading/hedging-beginners-guide/#:~:text=Hedging%20is%20a%20risk%20management,as%20options%20and%20futures%20contracts.), they had to quickly short the underlying, so that any large loss in the index futures they owned would be offset by a gain on a short position in the individual stocks.
 
@@ -145,4 +146,4 @@ However, the S&P 500 index itself was calculated based on the prices of the unde
 
 &#x200B;
 
-![(The second half of this post is linked here)](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)
+[(The second half of this post is linked here)](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)

@@ -1,5 +1,6 @@
-# Author: ammoprofit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/](https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/)
+#Title: Market Maker / Liquidity Providers Maths
+#Author: ammoprofit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/](https://www.reddit.com/r/Superstonk/comments/oequz8/market_maker_liquidity_providers_maths/)
 
 
 Once again, I am [replying to a comment](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/h47asll/) and have exceeded the 1500 character limit, so you get a DD.
@@ -164,7 +165,7 @@ Now take a look at the resistance image again.
 
 https://preview.redd.it/ayq8hwogvj971.png?width=1872&format=png&auto=webp&s=23c2932705e45b29f32183025fbe6ab1af5211fd
 
-I never understood how the daily drops' volume was always so much higher than the ![available borrows](https://iborrowdesk.com/report/GME), even when accounting for the \~10M shares in ETFs.  And I never understood why the resistances kept increasing.  I could understand the resistances to some effect, because each % we eat of their borrows increases their overall short position, but the two pieces never added up.
+I never understood how the daily drops' volume was always so much higher than the [available borrows](https://iborrowdesk.com/report/GME), even when accounting for the \~10M shares in ETFs.  And I never understood why the resistances kept increasing.  I could understand the resistances to some effect, because each % we eat of their borrows increases their overall short position, but the two pieces never added up.
 
 Retail, simply put, does not have the power to effect that much volume in either direction right now.  (Yes.  Effect with an E.  I will fight you.)
 

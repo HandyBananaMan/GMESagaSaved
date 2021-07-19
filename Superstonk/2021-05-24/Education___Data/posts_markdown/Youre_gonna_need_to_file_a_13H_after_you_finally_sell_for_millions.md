@@ -1,5 +1,6 @@
-# Author: whats-left-is-right
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nk5cvm/youre_gonna_need_to_file_a_13h_after_you_finally/](https://www.reddit.com/r/Superstonk/comments/nk5cvm/youre_gonna_need_to_file_a_13h_after_you_finally/)
+#Title: You're gonna need to file a 13H after you finally sell for millions
+#Author: whats-left-is-right
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nk5cvm/youre_gonna_need_to_file_a_13h_after_you_finally/](https://www.reddit.com/r/Superstonk/comments/nk5cvm/youre_gonna_need_to_file_a_13h_after_you_finally/)
 
 
 10 days after selling $20 million of stock in a day or $200 million in a month you are required to file with the SEC as a large trader by submitting a 13H

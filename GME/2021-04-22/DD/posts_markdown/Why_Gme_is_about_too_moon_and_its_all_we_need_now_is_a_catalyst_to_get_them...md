@@ -1,5 +1,6 @@
-# Author: Molla_Momz
-# Post URL: [https://www.reddit.com/r/GME/comments/mwc17d/why_gme_is_about_too_moon_and_its_all_we_need_now/](https://www.reddit.com/r/GME/comments/mwc17d/why_gme_is_about_too_moon_and_its_all_we_need_now/)
+#Title: Why Gme is about too moon and it’s all we need now is a catalyst to get them margin called 🚀🙌🏻💎
+#Author: Molla_Momz
+#Post URL: [https://www.reddit.com/r/GME/comments/mwc17d/why_gme_is_about_too_moon_and_its_all_we_need_now/](https://www.reddit.com/r/GME/comments/mwc17d/why_gme_is_about_too_moon_and_its_all_we_need_now/)
 
 
 I think I figured out what DFV knows... and it’s pretty simple.

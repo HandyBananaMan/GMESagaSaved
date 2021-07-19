@@ -1,5 +1,6 @@
-# Author: perseverancia589
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/njumtw/gme_janfeb_option_expiry_dates_t35t21_correlates/](https://www.reddit.com/r/DDintoGME/comments/njumtw/gme_janfeb_option_expiry_dates_t35t21_correlates/)
+#Title: GME Jan/Feb option expiry dates +T35/+T21 correlates almost perfectly with crypto pumping and dumping
+#Author: perseverancia589
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/njumtw/gme_janfeb_option_expiry_dates_t35t21_correlates/](https://www.reddit.com/r/DDintoGME/comments/njumtw/gme_janfeb_option_expiry_dates_t35t21_correlates/)
 
 
 (not enough karma to post in other subs)

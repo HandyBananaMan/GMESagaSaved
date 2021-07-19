@@ -1,5 +1,6 @@
-# Author: Tekk92
-# Post URL: [https://www.reddit.com/r/GME/comments/mipxt2/stop_spreading_alexis_fud_start_reading_and_use/](https://www.reddit.com/r/GME/comments/mipxt2/stop_spreading_alexis_fud_start_reading_and_use/)
+#Title: Stop spreading Alexis FUD, start reading and use your own brain & DD
+#Author: Tekk92
+#Post URL: [https://www.reddit.com/r/GME/comments/mipxt2/stop_spreading_alexis_fud_start_reading_and_use/](https://www.reddit.com/r/GME/comments/mipxt2/stop_spreading_alexis_fud_start_reading_and_use/)
 
 
 She even edited her post for you donkeys, eat some banana and go back to whatever you did before.

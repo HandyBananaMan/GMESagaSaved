@@ -1,5 +1,6 @@
-# Author: adventuresofjt
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mu4ido/blackrock_just_rang_the_alarm_on_cnbc_regarding/](https://www.reddit.com/r/Superstonk/comments/mu4ido/blackrock_just_rang_the_alarm_on_cnbc_regarding/)
+#Title: Blackrock just rang the alarm on CNBC regarding the impending market crash!!
+#Author: adventuresofjt
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mu4ido/blackrock_just_rang_the_alarm_on_cnbc_regarding/](https://www.reddit.com/r/Superstonk/comments/mu4ido/blackrock_just_rang_the_alarm_on_cnbc_regarding/)
 
 
 Black rock on CNBC ringing the alarm- too much liquidity in the market. “FEELS FROTHY.”

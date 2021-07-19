@@ -1,8 +1,9 @@
-# Author: draygon_media
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/](https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/)
+#Title: Infinite Loop Part 2 and Part 3
+#Author: draygon_media
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/](https://www.reddit.com/r/Superstonk/comments/navdxu/infinite_loop_part_2_and_part_3/)
 
 
-[The beast is growing!](https://preview.redd.it/om4eohkucqy61.png?width=1534&format=png&auto=webp&s=704017fd96e28f8e3e54d81cf7e14ca3b7c0c16a)
+![The beast is growing!](https://preview.redd.it/om4eohkucqy61.png?width=1534&format=png&auto=webp&s=704017fd96e28f8e3e54d81cf7e14ca3b7c0c16a)
 
 **Thank you everyone for the love and support!!! I am so happy to see people are able to understand the mess we are seeing!!**
 
@@ -16,7 +17,7 @@ Here it is guys… most of part 2 and some of part 3!
 
 \*If you have not read Part 1 here it is- [https://www.reddit.com/r/Superstonk/comments/n4j3zo/a\_mind\_map\_to\_help\_follow\_the\_money/](https://www.reddit.com/r/Superstonk/comments/n4j3zo/a_mind_map_to_help_follow_the_money/)
 
-\*\*LINK TO THE MAP\*\* ![http://go.bubbl.us/b7f901/25d0?/The-Loop](http://go.bubbl.us/b7f901/25d0?/The-Loop)
+\*\*LINK TO THE MAP\*\* [http://go.bubbl.us/b7f901/25d0?/The-Loop](http://go.bubbl.us/b7f901/25d0?/The-Loop)
 
 TLDR: Bearish Side is pretty difficult to find! I put in what I could of Citadel, and people really don’t seem to want to do much with them! Housing Bubble is growing… take a look! Other than that.. you know the drill! Reading holds the key to the map! (Starting to feel like Charlie… “Who is Pepe Silvia?”)
 

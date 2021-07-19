@@ -1,5 +1,6 @@
-# Author: the_nebraskan
-# Post URL: [https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/](https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/)
+#Title: GME ETF Deep Dive - Analysis of Failures to Deliver and Short Volume
+#Author: the_nebraskan
+#Post URL: [https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/](https://www.reddit.com/r/GME/comments/manyso/gme_etf_deep_dive_analysis_of_failures_to_deliver/)
 
 
 this is a follow on to my earlier post regarding ETFs holding GME [here](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/).
@@ -28,7 +29,7 @@ because someone is bound to ask … no my smooth brain didn’t copy all the dat
 
 *SHORT VOLUME*
 
-now for some smooth brained anal-ysis. first graph is a pie chart showing the major ETFs holding GME. [link to pie chart](https://imgur.com/0N6gGmf). there have been a lot of posts the past few weeks concerning ETFs, specifically in regards to short selling, so I wanted to dig a little deeper.
+now for some smooth brained anal-ysis. first graph is a pie chart showing the major ETFs holding GME. ![link to pie chart](https://imgur.com/0N6gGmf). there have been a lot of posts the past few weeks concerning ETFs, specifically in regards to short selling, so I wanted to dig a little deeper.
 
 
 
@@ -36,13 +37,13 @@ i pulled all the short volume data from finra and failure to deliver data from t
 
 
 
-this [first graph](https://imgur.com/3wmidrW) shows the total trade volume of GME over the past 6 months as reported by finra. nothing too special here. what is more interesting is if you look at the short volume of the same securities as a percentage of the total trade volume. these two graphs [1](https://imgur.com/6rVeSTB) [2](https://imgur.com/JBObY0q) show how for both GME and ETFs holding GME, the ratio of short volume has been trending upwards and are now both over 50%! 
+this ![first graph](https://imgur.com/3wmidrW) shows the total trade volume of GME over the past 6 months as reported by finra. nothing too special here. what is more interesting is if you look at the short volume of the same securities as a percentage of the total trade volume. these two graphs ![1](https://imgur.com/6rVeSTB) ![2](https://imgur.com/JBObY0q) show how for both GME and ETFs holding GME, the ratio of short volume has been trending upwards and are now both over 50%! 
 
 &nbsp;
 
 *FAILURES TO DELIVER*
 
-now onto failures to deliver (ftds). this [first graph](https://imgur.com/vPe3lLp) shows the total number of GMEs shares (including those held by ETFs) that failed to deliver as a percentage of float. I estimate the number of GME shares that fail to deliver from ETFs (see footnote if interested). Also worth mentioning is that I choose to use the float reported by GME in their annual filing to the SEC of 43.6 million as we are concerned with all shares not held by GameStop Corporation.
+now onto failures to deliver (ftds). this ![first graph](https://imgur.com/vPe3lLp) shows the total number of GMEs shares (including those held by ETFs) that failed to deliver as a percentage of float. I estimate the number of GME shares that fail to deliver from ETFs (see footnote if interested). Also worth mentioning is that I choose to use the float reported by GME in their annual filing to the SEC of 43.6 million as we are concerned with all shares not held by GameStop Corporation.
 
 
 

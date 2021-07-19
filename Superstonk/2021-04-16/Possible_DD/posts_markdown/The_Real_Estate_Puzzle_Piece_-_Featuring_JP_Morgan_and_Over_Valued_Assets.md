@@ -1,5 +1,6 @@
-# Author: HamAndCheeseVagine
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ms3zcj/the_real_estate_puzzle_piece_featuring_jp_morgan/](https://www.reddit.com/r/Superstonk/comments/ms3zcj/the_real_estate_puzzle_piece_featuring_jp_morgan/)
+#Title: The Real Estate Puzzle Piece - Featuring JP Morgan and Over Valued Assets
+#Author: HamAndCheeseVagine
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ms3zcj/the_real_estate_puzzle_piece_featuring_jp_morgan/](https://www.reddit.com/r/Superstonk/comments/ms3zcj/the_real_estate_puzzle_piece_featuring_jp_morgan/)
 
 
 **TL;DR  I think all the major players are leveraging real estate assets.  they can sell real estate back and forth under or over value, transferring money under the radar, raising the perceived value, raising surrounding property values, in the end giving themselves more leverage, more margin to spend.  Reminds me a lot of junk bonds.  If I can raise surrounding real estate values, my property value goes up and then i take that to the bank or my repo buddies and get a bigger loan, prob buy another property and keep riding the wave.  but none of it's based on actual values, on actual people wanting to live there or work there.  how long can it last?**
@@ -142,7 +143,7 @@ I don’t fully understand this so im just gonna leave it here in case someone e
 
 but I think its just saying Palafox sponsored itself, Citadel Global Fixed Income Master Fund, so they could clear cash and repo trades faster.
 
-![In April, JP Morgan became the first member](https://www.thetradenews.com/jp-morgan-clears-first-repo-new-dtcc-sponsor-programme/) under the DTCC’s fixed income sponsor member programme to clear a repo transaction.
+[In April, JP Morgan became the first member](https://www.thetradenews.com/jp-morgan-clears-first-repo-new-dtcc-sponsor-programme/) under the DTCC’s fixed income sponsor member programme to clear a repo transaction.
 
 Its just weird to me that these two end up in another article together but seemingly unrelated, idk I need another ape to elaborate on this one, I’m beat.
 

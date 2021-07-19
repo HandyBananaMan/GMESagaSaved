@@ -1,5 +1,6 @@
-# Author: Sh0w3n
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/](https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/)
+#Title: ✋🏽🛑 VIX, Beta, Borrowed Shares, Pre-Market Movement, Dips, Short Volume - SIT DOWN & LISTEN, this has to STOP. ✋🏽🛑
+#Author: Sh0w3n
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/](https://www.reddit.com/r/Superstonk/comments/nql7qe/vix_beta_borrowed_shares_premarket_movement_dips/)
 
 
 &#x200B;
@@ -32,7 +33,7 @@ To clarify: this is not 'covering' in terms of reducing the number of open short
 
 **''OMG VIX IS SPIKING - LET'S GOOO'' or ''WHY IS GME RED BUT VIX IS SPIKING?''**
 
-One of the most favorite comments on r/Superstonk. ![Vix is a volatility index that tracks the option activity and is designed to reflect the volatility of the U.S. stock market in the next 30 days:](https://www.cboe.com/tradable_products/vix/)
+One of the most favorite comments on r/Superstonk. [Vix is a volatility index that tracks the option activity and is designed to reflect the volatility of the U.S. stock market in the next 30 days:](https://www.cboe.com/tradable_products/vix/)
 
 >*The VIX Index is a calculation designed to produce a measure of constant, 30-day expected volatility of the U.S. stock market, derived from real-time, mid-quote prices of S&P 500® Index (SPX℠) call and put options. On a global basis, it is one of the most recognized measures of volatility -- widely reported by financial media and closely followed by a variety of market participants as a daily market indicator.*
 

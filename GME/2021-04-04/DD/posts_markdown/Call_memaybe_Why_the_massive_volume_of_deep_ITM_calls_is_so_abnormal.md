@@ -1,5 +1,6 @@
-# Author: glide_si
-# Post URL: [https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/](https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/)
+#Title: Call me...maybe? Why the massive volume of deep ITM calls is so abnormal.
+#Author: glide_si
+#Post URL: [https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/](https://www.reddit.com/r/GME/comments/mk3gcd/call_memaybe_why_the_massive_volume_of_deep_itm/)
 
 
 [There](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/) [has](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/) [been](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/) [a](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/) [lot](https://www.reddit.com/r/GME/comments/mjzx9w/full_analysis_of_current_gme_si_proof_from_the/) of thoughtful DD regarding the strange volume of deep ITM calls. 
@@ -23,9 +24,9 @@ Volume = Number of options contracts transacted in a day
 
 #Let's Dive
 
-[Take a look at this chart comparing the 4/16 11, 12 and 15 Call Volume and OI since the beginning of this year.](https://i.imgur.com/IfqxbeD.png) 
+![Take a look at this chart comparing the 4/16 11, 12 and 15 Call Volume and OI since the beginning of this year.](https://i.imgur.com/IfqxbeD.png) 
 
-[Here is the same chart but with FTDs displayed (data for FTDs is only available up to 3/12\).](https://i.imgur.com/nWZdHGE.png)
+![Here is the same chart but with FTDs displayed (data for FTDs is only available up to 3/12\).](https://i.imgur.com/nWZdHGE.png)
 
 You notice relatively normal activity through most of January. Open interest (the dotted lines on the graph) was relatively stable and volume was not especially high but that is not unusual for a contract that still had 100+ days to expiry.  I would not try to draw conclusions between the share price or FTDs on the graphs – that is just to give some perspective.
 
@@ -39,12 +40,12 @@ What is more interesting is what comes next:
 
 OI remains stable (no one is closing or exercising these contracts) and volume almost nonexistent up until 2/25. The day beforehand, 2/24, GME unexpectedly jumps up 104% to close at 91.71 and continued surging into afterhours. We see the big volume spike for these calls the following day and throughout early March – however OI does not change. Things quiet down for a bit up until the past few days when we again saw huge volume spikes for these calls, especially at the 12 and 15 strike price. Despite this, OI is grossly unchanged since beginning of February. 
 
-I included the 11C to illustrate just how unusual this activity is. The 11C is fundamentally identical to a 12C in terms of its characteristics in relation of its premium to share price but it gets no love and you can barely see it in the graphs. *In retrospect I should have included the 10C as that would be more popular to retail/swing traders due to its nice, even number - [but I assure you that after January it does not see nearly as much volume like the 12 and 15 Calls](https://i.imgur.com/E6VVqWm.png).*
+I included the 11C to illustrate just how unusual this activity is. The 11C is fundamentally identical to a 12C in terms of its characteristics in relation of its premium to share price but it gets no love and you can barely see it in the graphs. *In retrospect I should have included the 10C as that would be more popular to retail/swing traders due to its nice, even number - ![but I assure you that after January it does not see nearly as much volume like the 12 and 15 Calls](https://i.imgur.com/E6VVqWm.png).*
 
 So why are the 12c and 15c so popular? I have no idea but what is especially interesting is the order flow themselves.
 
 #The Double Orders
-[Take a look at largest option trades on 4/1. Notice anything?](https://i.imgur.com/2rgZEGt.jpg) 
+![Take a look at largest option trades on 4/1. Notice anything?](https://i.imgur.com/2rgZEGt.jpg) 
 
 At 1:22 PM we see large 12 and 20 calls orders. Two seconds later we see another set contracts for the same quantity and strike. 
 
@@ -56,16 +57,16 @@ We see a run up in GME share price immediately after that to 196 before it pulls
 
 And then it happens again – but on a larger scale. Big orders for 12, 15, 18, 19 Calls are seen at 1:58 PM. On the GME chart we see a small pullback about 10 minutes later. Repeat orders for the same strikes and quantity are seen again at 3:29 PM. There is some increase volume of GME and price dip about ten minutes later.
 
-These large “double” contracts are not a new phenomenon. It is hard to track them with the smooth brain tools I have at my disposal but [here is another example from 3/8](https://i.imgur.com/STxMILr.jpg). We see [similar activity on 3/1](https://i.imgur.com/H9IkLjR.jpg) but also orders that do not seem to have a “double” counterpart (regardless these orders have no net effect on OI). 
+These large “double” contracts are not a new phenomenon. It is hard to track them with the smooth brain tools I have at my disposal but ![here is another example from 3/8](https://i.imgur.com/STxMILr.jpg). We see ![similar activity on 3/1](https://i.imgur.com/H9IkLjR.jpg) but also orders that do not seem to have a “double” counterpart (regardless these orders have no net effect on OI). 
 
 Theses are not double prints showing up on the orderbook of a single trade as we see the price for the two sets of contracts vary between the first set and the second set. 
 
-Additionally, in [u/dejf2 DD](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_short/ ) he has screen caps of the various large deep ITM options play on 4/1. [I particularly like this one.](https://preview.redd.it/74jgvko2hmq61.png?width=634&format=png&auto=webp&s=17745e15f7f32f2354c357dba338ec1f3f7c2ff7) It shows that despite the different quantities between the two sets of orders due to the different prices the total quantities are perfectly aligned after the second transaction. 
+Additionally, in [u/dejf2 DD](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_short/ ) he has screen caps of the various large deep ITM options play on 4/1. ![I particularly like this one.](https://preview.redd.it/74jgvko2hmq61.png?width=634&format=png&auto=webp&s=17745e15f7f32f2354c357dba338ec1f3f7c2ff7) It shows that despite the different quantities between the two sets of orders due to the different prices the total quantities are perfectly aligned after the second transaction. 
 
 You may be thinking: “Hey the only reason you are noticing these are because they are expensive!”
 
 
-Well no. Lets look at the 4/16 200c and 250c which are cheaper and considered normal, reasonably bullish plays: [834 and 1,122 vol respectively versus the 4,045 vol for the 12c on 4/1.](https://i.imgur.com/bRoBrWP.png)  
+Well no. Lets look at the 4/16 200c and 250c which are cheaper and considered normal, reasonably bullish plays: ![834 and 1,122 vol respectively versus the 4,045 vol for the 12c on 4/1.](https://i.imgur.com/bRoBrWP.png)  
 
 So what can we draw from this? Well as far as I have can tell all these contracts are routed through PHLX, are priced at the midpoint price (indicating an arrangement between two parties), involve select deep ITM calls (predominantly the 12 and 15 strike point but all deep ITM), and the contracts exist from anywhere from a few seconds to few hours in the day.
 
@@ -102,7 +103,7 @@ I’ve speculated on different reasons this may be going on [in this comment](ht
 
 #The Trade
 
-Let’s go deeper and just look at[ this one large order for 12C that began at 1:58 PM on 4/1](https://i.imgur.com/2rgZEGt.jpg): 
+Let’s go deeper and just look at![ this one large order for 12C that began at 1:58 PM on 4/1](https://i.imgur.com/2rgZEGt.jpg): 
 
 * At 1:58 PM 1,470 contracts were transacted for a total cost of $26.4 million.
 * At 3:29 PM - 90 minutes later - another 1,470 contracts were transacted for $26.6 million.
@@ -173,4 +174,4 @@ Fun fact: the reason the 4/16 12c always have a flat OI of ~500 is because DFV h
 
 #Edit: 
 
-[Here is data straight from CBOE showing all of the deep ITM calls from 4/1](https://imgur.com/r7XGvFU). The screen cap data is filtered to just trades on the PHLX and sorted by volume in descending order. Ignore the time stamps as it doesn't display correctly in excel. Trade condition 118 = Single Leg Floor Trade. NOTICE ANYTHING? ![Each deep ITM call has a corresponding duplicate trade.](https://i.kym-cdn.com/entries/icons/original/000/027/257/perfectly-balanced-as-all-things-should-be.jpg). These contracts and shares are just being flipped back and forth.
+![Here is data straight from CBOE showing all of the deep ITM calls from 4/1](https://imgur.com/r7XGvFU). The screen cap data is filtered to just trades on the PHLX and sorted by volume in descending order. Ignore the time stamps as it doesn't display correctly in excel. Trade condition 118 = Single Leg Floor Trade. NOTICE ANYTHING? ![Each deep ITM call has a corresponding duplicate trade.](https://i.kym-cdn.com/entries/icons/original/000/027/257/perfectly-balanced-as-all-things-should-be.jpg). These contracts and shares are just being flipped back and forth.

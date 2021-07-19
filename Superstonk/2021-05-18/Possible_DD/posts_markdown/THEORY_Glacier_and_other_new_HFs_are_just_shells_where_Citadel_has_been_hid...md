@@ -1,5 +1,6 @@
-# Author: AdNo8854
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/](https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/)
+#Title: THEORY: Glacier and other "new" HFs are just shells where Citadel has been hiding their FTD/put game. Regulatory cycle is now revealing them slowly, and they want us to SeLl WhEn HFs Go BaNkRuPt. We ain't selling til YOU go bankrupt Kenny!
+#Author: AdNo8854
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/](https://www.reddit.com/r/Superstonk/comments/nf8nsd/theory_glacier_and_other_new_hfs_are_just_shells/)
 
 
 See the edits at the end if you want to follow a trail of DDs that leads us here.
@@ -82,7 +83,7 @@ These people are really sick fucks."
 
 **EDIT 7:** Apparently I've gotten to the level where the conspiracy theorists think I'm interested. Let me assure them that I am not interested in rabbit holes. I am interested in taking all of the monies. Shills, you can still come at me because I find it hilarious when you give me intel on you.
 
-**EDIT 4:** ~~Looks like Glacier is owned by Susquehanna according to Griffin Research (thanks~~ u/TheRailGunner\~\~)\~\~ ![~~https://www.griffinfingroup.com/griffin-advises-glacier-capital-holdings-llc-acquisition-capitol-insurance/~~](https://www.griffinfingroup.com/griffin-advises-glacier-capital-holdings-llc-acquisition-capitol-insurance/)
+**EDIT 4:** ~~Looks like Glacier is owned by Susquehanna according to Griffin Research (thanks~~ u/TheRailGunner\~\~)\~\~ [~~https://www.griffinfingroup.com/griffin-advises-glacier-capital-holdings-llc-acquisition-capitol-insurance/~~](https://www.griffinfingroup.com/griffin-advises-glacier-capital-holdings-llc-acquisition-capitol-insurance/)
 
 Different Glacier, but I wouldn't discount a connection anyway...who wants to research? Thanks to u/0xB00TC0DE for pointing this out.
 

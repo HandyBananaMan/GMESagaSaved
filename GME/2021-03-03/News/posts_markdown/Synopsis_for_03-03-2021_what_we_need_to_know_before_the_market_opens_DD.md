@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lwrsdc/synopsis_for_03032021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lwrsdc/synopsis_for_03032021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-03-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lwrsdc/synopsis_for_03032021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lwrsdc/synopsis_for_03032021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -140,7 +141,7 @@ This is in no means meant to be used as a main way of communicating, but it's th
 
 &#x200B;
 
-[Bane aka Killer Moon](https://preview.redd.it/bipfxy5aksk61.jpg?width=1200&format=pjpg&auto=webp&s=8e2413651e1adfffebfcf1f4326d565fb16c8c98)
+![Bane aka Killer Moon](https://preview.redd.it/bipfxy5aksk61.jpg?width=1200&format=pjpg&auto=webp&s=8e2413651e1adfffebfcf1f4326d565fb16c8c98)
 
 # Eyes here Noobs!
 
@@ -235,7 +236,7 @@ We have seen some speculation and calculations flowing around and we thought we 
 
 But you may think we are like what? 1 to 5 shares each? yes we have many smaller guys with us in our pond, some people own 1 to 5 a lot of people are around the 50 mark and I've seen some dudes who have pumped their entire savings into this for months being at 1000 and up shares (hell some even above the 5k) and remember u/deepfuckingvalue may hold 100.000 shares and is vocal about it but a lot of other guys who have the same or more are silent. you know why? because if I owned 20k shares are even more I'd be very hush hush about it as well.
 
-Smart brain  u/Aydenn7  said it ![here](https://www.reddit.com/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/)
+Smart brain  u/Aydenn7  said it [here](https://www.reddit.com/r/wallstreetbets/comments/lw15gf/a_few_lines_about_gme_please_read/)
 
     1    Price doesn't matter until the squeeze has been squoze.
     2    The best time to buy GME was 2 months ago, the second best time is NOW.

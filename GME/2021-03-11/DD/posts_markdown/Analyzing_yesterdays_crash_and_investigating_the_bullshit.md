@@ -1,5 +1,6 @@
-# Author: Damsellindistress
-# Post URL: [https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/](https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/)
+#Title: Analyzing yesterdays crash and investigating the bullshit
+#Author: Damsellindistress
+#Post URL: [https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/](https://www.reddit.com/r/GME/comments/m2qha9/analyzing_yesterdays_crash_and_investigating_the/)
 
 
 So guys, yesterday, we had a bumpy ride.Although anyone of you should be able to understand that growing steadily to $346 and then crashing in minutes back down to $178 isn't normal...lets look at what actually happened.
@@ -8,7 +9,7 @@ Understanding will strengthen your diamond hands, which is necessary, since in o
 
 &#x200B;
 
-[Figure 1](https://preview.redd.it/5cumyokuiem61.jpg?width=430&format=pjpg&auto=webp&s=a1a430204aeecf05aa479255f5a00196223b21d7)
+![Figure 1](https://preview.redd.it/5cumyokuiem61.jpg?width=430&format=pjpg&auto=webp&s=a1a430204aeecf05aa479255f5a00196223b21d7)
 
 Figure one starts at 12:21. At this point we have already dropped from 340 tot 302, however I started with this since it gives us a really nice insight into what happened on a level 2 basis of these trades.In this figure I put down numbers for reference.
 
@@ -16,25 +17,25 @@ If you look at .1, you can see a very large order for $302.68, .3 shows that 303
 
 &#x200B;
 
-[Figure 2](https://preview.redd.it/ub8buzrwiem61.jpg?width=423&format=pjpg&auto=webp&s=98b1e8c41de315a66c50624078d7a5b4cceb61aa)
+![Figure 2](https://preview.redd.it/ub8buzrwiem61.jpg?width=423&format=pjpg&auto=webp&s=98b1e8c41de315a66c50624078d7a5b4cceb61aa)
 
 In figure 2, we can see the effect the previous attack has had. We've now dropped down to 248.68 after the halt. The short attack isn't over however. So another big order stream comes in for $248.68 at a whopping 18.57k size. This means we're going to drop again.
 
 &#x200B;
 
-[Figure 3](https://preview.redd.it/s2kmiph0jem61.jpg?width=428&format=pjpg&auto=webp&s=f3dbe9cfe5995e1c1e07edc6b30c88a5c554e644)
+![Figure 3](https://preview.redd.it/s2kmiph0jem61.jpg?width=428&format=pjpg&auto=webp&s=f3dbe9cfe5995e1c1e07edc6b30c88a5c554e644)
 
 This is only seconds later. You can see they weren't satisfied with the amount the share was dropping. They didn't want to take any chances. They WANTED you to freak the fuck out, and decided to turn it to 11. The dump size for 248.68 increases from 18k to an idiotic 42.17k! This means that this order is worth $10.5 million dollars. Guess what happens next?
 
 &#x200B;
 
-[Figure 4](https://preview.redd.it/1gdq77d2jem61.jpg?width=433&format=pjpg&auto=webp&s=56b0d3a455007a5707af9748ee4c7a969aa05740)
+![Figure 4](https://preview.redd.it/1gdq77d2jem61.jpg?width=433&format=pjpg&auto=webp&s=56b0d3a455007a5707af9748ee4c7a969aa05740)
 
 That's right, we freefall again. We're now at $216. As soon as the markets open after the halt, they are determined to make it drop more. Another low order is being inserted, to the tune of 44.21k! They really want this bitch to crash more. Another $9.5 millions worth is dumped and we immediately crash to a low of $178. This is the point were you were panicking, and were you either panic sold, or your STUPID (trailling) stoploss limit kicked in. A minor victory for the shorts if you did.
 
 &#x200B;
 
-[Figure 5](https://preview.redd.it/0klpa9m4jem61.jpg?width=438&format=pjpg&auto=webp&s=64ff807ad6ef8d0bee2e915e54f5913236995125)
+![Figure 5](https://preview.redd.it/0klpa9m4jem61.jpg?width=438&format=pjpg&auto=webp&s=64ff807ad6ef8d0bee2e915e54f5913236995125)
 
 At this point some big whales are starting to wake up. We don't know who this are and the options are endless. All we know for sure is that a very big party is gobbling up shares here.
 
@@ -45,7 +46,7 @@ At this point some big whales are starting to wake up. We don't know who this ar
 
 &#x200B;
 
-[Figure 6](https://preview.redd.it/1y38iledjem61.jpg?width=429&format=pjpg&auto=webp&s=53fbadb7a73bb177f1fabdaa9bf80cb8cc8b9a31)
+![Figure 6](https://preview.redd.it/1y38iledjem61.jpg?width=429&format=pjpg&auto=webp&s=53fbadb7a73bb177f1fabdaa9bf80cb8cc8b9a31)
 
 &#x200B;
 
@@ -53,7 +54,7 @@ In figure 6 whoever is this, they're not having any of it, and they're going all
 
 &#x200B;
 
-[Figure 7](https://preview.redd.it/gdpl6m9hjem61.jpg?width=431&format=pjpg&auto=webp&s=f96bade27d6f7a312cbf1820a7fa8b828e07361c)
+![Figure 7](https://preview.redd.it/gdpl6m9hjem61.jpg?width=431&format=pjpg&auto=webp&s=f96bade27d6f7a312cbf1820a7fa8b828e07361c)
 
 Check the timestamp. The effect of all this buying is quite clear. We've shot back up to $260+.Unlike normal investing, the price means NOTHING anymore in this stage. They can make it go anywhere they want. The price however does not reflect the reality anymore.
 
@@ -81,7 +82,7 @@ Calm down friend. We need to inform you, to make you able to make better financi
 
 # Why does Damsellindistress THINK the dumping and the buying party are two different entities?
 
-![https://www.reddit.com/r/GME/comments/m2asru/death\_throes\_dd\_the\_secgovernment\_cant\_intervene/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m2asru/death_throes_dd_the_secgovernment_cant_intervene/?utm_medium=android_app&utm_source=share)
+[https://www.reddit.com/r/GME/comments/m2asru/death\_throes\_dd\_the\_secgovernment\_cant\_intervene/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m2asru/death_throes_dd_the_secgovernment_cant_intervene/?utm_medium=android_app&utm_source=share)
 
 The chart shown here and the excellent explanation by Broviet very clearly indicates two large entities trying to make eachother back down with extremely violent bids and counterbids. This doesn't make sense if it was the same party doing this.
 

@@ -1,5 +1,6 @@
-# Author: Magistricide
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)
+#Title: Zero-Coupon Bonds
+#Author: Magistricide
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/](https://www.reddit.com/r/Superstonk/comments/n19kgr/zerocoupon_bonds/)
 
 
 Recently, the US treasury just announced 40 billion of sales in Zero-Coupon Bonds. What are they?
@@ -21,7 +22,7 @@ But wait, the skeptic in you says, what if it's just the first one? Well, the fe
 
 &#x200B;
 
-[Look at the first one on the list, the 4-week bond](https://preview.redd.it/9zdq6nm4e5w61.jpg?width=770&format=pjpg&auto=webp&s=3cc63b8aed57f43f8b7891446fb79a6debdc742d)
+![Look at the first one on the list, the 4-week bond](https://preview.redd.it/9zdq6nm4e5w61.jpg?width=770&format=pjpg&auto=webp&s=3cc63b8aed57f43f8b7891446fb79a6debdc742d)
 
 Another thing that makes this alarming is that they expire in 28 days. That's right. This isn't the typical 2 or 5-year bonds you're used to. These are 4 week bonds with 0 interest. It might be nothing, but it's just kind of odd how **they're selling an asset that you only want to buy if people think the stock market will crash in the next four weeks.**
 
@@ -89,4 +90,4 @@ Links:
 
 [https://www.treasurydirect.gov/instit/annceresult/annceresult.htm](https://www.treasurydirect.gov/instit/annceresult/annceresult.htm)
 
-![https://www.investopedia.com/articles/investing/062513/all-about-zero-coupon-bonds.asp](https://www.investopedia.com/articles/investing/062513/all-about-zero-coupon-bonds.asp)
+[https://www.investopedia.com/articles/investing/062513/all-about-zero-coupon-bonds.asp](https://www.investopedia.com/articles/investing/062513/all-about-zero-coupon-bonds.asp)

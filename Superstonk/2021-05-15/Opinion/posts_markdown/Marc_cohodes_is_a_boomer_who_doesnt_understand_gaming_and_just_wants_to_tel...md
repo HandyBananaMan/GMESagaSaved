@@ -1,5 +1,6 @@
-# Author: Laffingglassop
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nd0nxf/marc_cohodes_is_a_boomer_who_doesnt_understand/](https://www.reddit.com/r/Superstonk/comments/nd0nxf/marc_cohodes_is_a_boomer_who_doesnt_understand/)
+#Title: Marc cohodes is a boomer who doesnt understand gaming and just wants to tell you all that the squeeze is already sqouze
+#Author: Laffingglassop
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nd0nxf/marc_cohodes_is_a_boomer_who_doesnt_understand/](https://www.reddit.com/r/Superstonk/comments/nd0nxf/marc_cohodes_is_a_boomer_who_doesnt_understand/)
 
 
 Seriously you are going to have a very hard time convincing a non gamer boomer , any of them, about gamestop and its future, they will invest based on earnings, not speculation that we are doing(smartly because most of us are gamers and know...). Ive crawled through his posts and its clear as day he thinks A. Theres no criminal activity on citadels part regarding gme. B. Gamestop is over valued C. The squeeze has sqouze. D. NAKED SHORT SELLING DOESNT HAPPEN BECAUSE ITS ILLEGAL

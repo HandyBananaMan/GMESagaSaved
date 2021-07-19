@@ -1,5 +1,6 @@
-# Author: Bradduck_Flyntmoore
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nd5ec9/petition_to_get_john_stewart_in_here_for_an_ama/](https://www.reddit.com/r/Superstonk/comments/nd5ec9/petition_to_get_john_stewart_in_here_for_an_ama/)
+#Title: Petition to get John Stewart in here for an AMA on Media Influence and Corruption
+#Author: Bradduck_Flyntmoore
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nd5ec9/petition_to_get_john_stewart_in_here_for_an_ama/](https://www.reddit.com/r/Superstonk/comments/nd5ec9/petition_to_get_john_stewart_in_here_for_an_ama/)
 
 
 I have been a fan of Jon Stewart for a very long time. The man is articulate, hilarious, inquisitive, and from what I have seen, all about the little ape. He has interviewed hundreds of important and powerful people, asked hard-hitting questions, and generally refuses to back down. Imagine the wealth of information he could provide! 

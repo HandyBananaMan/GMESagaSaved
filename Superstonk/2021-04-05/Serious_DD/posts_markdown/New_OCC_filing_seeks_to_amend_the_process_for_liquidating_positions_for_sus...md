@@ -1,12 +1,13 @@
-# Author: Scalpel_Jockey9965
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/)
+#Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members. (Citadel is an options clearing member) SR-OCC-2021-004
+#Author: Scalpel_Jockey9965
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/Superstonk/comments/mkpgss/new_occ_filing_seeks_to_amend_the_process_for/)
 
 
 **Some people are getting a little confused. These "auctions" are not for GME \*stonk\* or any other stock for that matter. These are for open options contracts in other companies that have yet to expire and will need to be sold to cover short positions. The OCC handles all options transactions while the NSCC handles securities (stocks) transactions.**
 
 This rule is set to drop tomorrow (April 6, 2021) on the federal register. You are able to see unpublished versions of proposed rule changes.
 
-![https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
+[https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
 
 This new rule change amends the Options Clearing Corporation (OCC) Rule 1104. What's really interesting about this rule is that it provides an order of events in the case that an options clearing member is suspended. Remember, think: OCC = options contracts, NSCC = Stocks/shorts
 

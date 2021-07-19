@@ -1,5 +1,6 @@
-# Author: PWNWTFBBQ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/](https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/)
+#Title: Data Analysis comparing March and June's Data to Determine Similarities
+#Author: PWNWTFBBQ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/](https://www.reddit.com/r/Superstonk/comments/of6vdw/data_analysis_comparing_march_and_junes_data_to/)
 
 
 # So it begins
@@ -44,7 +45,7 @@ It looks like we can compare the wick and the upper body of the candlesticks aga
 
 Let's refresh our memory on how candlesticks work. Both the red and green have the same locations for their highs and lows, however, their open and close are different:
 
-[Candlesticks!!](https://preview.redd.it/vgeijt5d2o971.png?width=542&format=png&auto=webp&s=c55b37214afe7f75306c5124538344237fe8cd85)
+![Candlesticks!!](https://preview.redd.it/vgeijt5d2o971.png?width=542&format=png&auto=webp&s=c55b37214afe7f75306c5124538344237fe8cd85)
 
 # Back to the Mathemagics!!
 
@@ -94,6 +95,6 @@ Edit 4: Shits and giggles
 
 Edit 5: Another bivariate plot
 
-Edit 6:  ![tweet](https://twitter.com/pwnwtfbbq/status/1412557445143031811?s=20)
+Edit 6:  [tweet](https://twitter.com/pwnwtfbbq/status/1412557445143031811?s=20)
 
 Edit 7: Needed to highlight how this data also included July data.

@@ -1,5 +1,6 @@
-# Author: birdsiview
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4qjio/all_shares_on_robinhood_are_on_margin_gtfo/](https://www.reddit.com/r/Superstonk/comments/n4qjio/all_shares_on_robinhood_are_on_margin_gtfo/)
+#Title: ALL shares on Robinhood are on Margin! GTFO!!!!
+#Author: birdsiview
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4qjio/all_shares_on_robinhood_are_on_margin_gtfo/](https://www.reddit.com/r/Superstonk/comments/n4qjio/all_shares_on_robinhood_are_on_margin_gtfo/)
 
 
 Why would you want to know that your x, xx, xxx, xxxx, xxxxx+ shares are being used as if they are on margin? Plenty of other posts out there with the screenshot of the terms and agreement form that states RH can use all shares of any security on margin whether you have margin turned on or not.

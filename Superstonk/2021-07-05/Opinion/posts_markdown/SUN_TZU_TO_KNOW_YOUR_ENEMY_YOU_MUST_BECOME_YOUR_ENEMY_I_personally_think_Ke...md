@@ -1,5 +1,6 @@
-# Author: fosgate78
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oem7de/sun_tzu_to_know_your_enemy_you_must_become_your/](https://www.reddit.com/r/Superstonk/comments/oem7de/sun_tzu_to_know_your_enemy_you_must_become_your/)
+#Title: SUN TZU: TO KNOW YOUR ENEMY, YOU MUST BECOME YOUR ENEMY. I personally think Kenny is going to set off the MOASS. Why? Cause it's exactly what I would do if I were him.
+#Author: fosgate78
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oem7de/sun_tzu_to_know_your_enemy_you_must_become_your/](https://www.reddit.com/r/Superstonk/comments/oem7de/sun_tzu_to_know_your_enemy_you_must_become_your/)
 
 
 This sounds crazy.  Very crazy, tinfoil hat even.... But hear me out.  

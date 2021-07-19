@@ -1,5 +1,6 @@
-# Author: inverseyourself
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/](https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/)
+#Title: ATTENTION: Implicit Volatility on 800 C's set to expire TOMORROW is rising .02/.03 a second
+#Author: inverseyourself
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/](https://www.reddit.com/r/Superstonk/comments/mrq5pq/attention_implicit_volatility_on_800_cs_set_to/)
 
 
 **Edit 1: At the risk of exciting people for no reason, I certainly don't want to set expectations and crash them like how it is happened so many times. Please, instead, see this as evidence that there is something** ***very*** **wrong about GME.**
@@ -34,7 +35,7 @@ More on whether time to expiry affects IV; overall, it does, but it should negat
 
 [https://optionstrategiesinsider.com/blog/what-is-implied-volatility-and-why-is-it-important-in-option-trading/](https://optionstrategiesinsider.com/blog/what-is-implied-volatility-and-why-is-it-important-in-option-trading/)
 
-[5 seconds later....](https://preview.redd.it/n88eezby3ft61.png?width=784&format=png&auto=webp&s=2f7b216a282fb4789e6261a93b18943fa2851fae)
+![5 seconds later....](https://preview.redd.it/n88eezby3ft61.png?width=784&format=png&auto=webp&s=2f7b216a282fb4789e6261a93b18943fa2851fae)
 
 https://preview.redd.it/rszjpwzx3ft61.png?width=687&format=png&auto=webp&s=215506d1d6512ec3ba2bed550f3ec28cbfa69c5b
 
@@ -54,7 +55,7 @@ Top Critique:
 
 *Nothing to see here."*
 
-u/![NewHome\_PaleRedDot](https://www.reddit.com/user/NewHome_PaleRedDot/)
+u/[NewHome\_PaleRedDot](https://www.reddit.com/user/NewHome_PaleRedDot/)
 
 See WardenElite's comment below.
 

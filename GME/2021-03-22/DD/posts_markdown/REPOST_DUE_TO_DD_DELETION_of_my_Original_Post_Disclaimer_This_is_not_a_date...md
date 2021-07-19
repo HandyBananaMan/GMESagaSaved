@@ -1,5 +1,6 @@
-# Author: DigitalSoldier1776
-# Post URL: [https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/](https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/)
+#Title: REPOST DUE TO DD DELETION of my Original Post .....Disclaimer: This is not a date prediction for ridiculous upward price action. But I believe that the hedges bleeding has been under our noses this whole time on iBorrowdesk. This will be a mix of others' DD info plus a little speculation. No images
+#Author: DigitalSoldier1776
+#Post URL: [https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/](https://www.reddit.com/r/GME/comments/mahlmy/repost_due_to_dd_deletion_of_my_original_post/)
 
 
 Make sure y'all all start using this by just commenting the user link on your post My post is already getting downvoted or having upvotes removed 10 minutes after posting: [u/L2DBot](https://www.reddit.com/u/L2DBot/)
@@ -56,4 +57,4 @@ FYI I have a support line at $188 or so, stay calm 💎💎🍗🍗🚀🚀
 
 These lines made me fixated on the artificial volume My Support Lines here are based on where I think Artificial Volume caused the price to drop down from $508 to $160 or so, check the date on the post and look at the 10 day chart:
 
-![https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you\_guys\_these\_supportresistance\_lines\_based\_on/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you_guys_these_supportresistance_lines_based_on/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you\_guys\_these\_supportresistance\_lines\_based\_on/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/WallStreetbetsELITE/comments/m34o55/you_guys_these_supportresistance_lines_based_on/?utm_source=share&utm_medium=web2x&context=3)

@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/](https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/)
+#Title: Volume 'Glitches' Surrounding T+21 Dates. FINRA Rule of "Orders Locked In By 2:30PM". These 'Glitches' Might Be Revealing The True SI%.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/](https://www.reddit.com/r/Superstonk/comments/nliz0i/volume_glitches_surrounding_t21_dates_finra_rule/)
 
 
 # Edit: Debunked! Big sad. The posts of glitches were only around T+21 dates so that thew me for a loop. They happen frequently and in other stocks too. I'm not a TOS user so I followed a red herring only to get suplexed by /u/jsmar18
@@ -14,15 +15,15 @@ Let's get right to it. We've been seeing glitches once in a while of volume on t
 
 We saw a "[glitch](https://www.reddit.com/r/Superstonk/comments/nkyxt4/the_gme_glitch_of_63_million_shares_on_may/)" yesterday in buy order volume. A glitch of \~63M:
 
-[May 25 Volume Glitch](https://preview.redd.it/j6cztbn42h171.png?width=1899&format=png&auto=webp&s=9b617e53e87a80476cac4ac059016f6da28c1649)
+![May 25 Volume Glitch](https://preview.redd.it/j6cztbn42h171.png?width=1899&format=png&auto=webp&s=9b617e53e87a80476cac4ac059016f6da28c1649)
 
 And this isn't the first time it's happened. [We also saw a "glitch" on March 23](https://www.reddit.com/r/GME/comments/mbs1kb/so_theres_a_643m_order_sitting_on_tos_right_now/?utm_medium=android_app&utm_source=share). A buy order volume glitch of \~634M:
 
-[March 23 Volume Glitch](https://preview.redd.it/ikjif9uq1h171.png?width=548&format=png&auto=webp&s=ab35e481a86012365efa2fbe7d84ecd35b39b921)
+![March 23 Volume Glitch](https://preview.redd.it/ikjif9uq1h171.png?width=548&format=png&auto=webp&s=ab35e481a86012365efa2fbe7d84ecd35b39b921)
 
 [And another "glitch" on February 22nd.](https://www.reddit.com/r/GME/comments/lq0lwu/why_is_there_a_94_million_share_buy_order_in_for/?utm_medium=android_app&utm_source=share) A buy order volume glitch of \~94M:
 
-[Feb 22 Volume Glitch](https://preview.redd.it/lo7ujctv1h171.png?width=1856&format=png&auto=webp&s=a7bed537ad4f811c7399a66706afcc1da2b23e97)
+![Feb 22 Volume Glitch](https://preview.redd.it/lo7ujctv1h171.png?width=1856&format=png&auto=webp&s=a7bed537ad4f811c7399a66706afcc1da2b23e97)
 
 Notice something.... interesting about the dates? Those are all **very close to T+21 dates**. For a refresh, here's the T+21 days that have happened in 2021:
 
@@ -82,7 +83,7 @@ Edit: The glitches cannot be used to calculate SI% or anything significant. This
 
 ~~There was another glitch on March 25. Either this is what they are can-kicking, or this throws the entire theory out the window. Because it is a terrifyingly large number and might not even account for overlap of can-kicking. If this is what they're can-kicking, then [what the hell is this "glitch" on March 25](https://www.reddit.com/r/GME/comments/mdcy3x/185_billion_buy_volume_18375_still_showing_in/)?~~
 
-[March 25 Volume Glitch](https://preview.redd.it/yvcqcc8k6h171.png?width=1879&format=png&auto=webp&s=b0765d8bd6a96dc100292e05e5aefcdb090c87a7)
+![March 25 Volume Glitch](https://preview.redd.it/yvcqcc8k6h171.png?width=1879&format=png&auto=webp&s=b0765d8bd6a96dc100292e05e5aefcdb090c87a7)
 
 ~~Yeah, that's 1.85 BILLION. **If** these orders are their true short positions that are being suppressed, then that comes out to be..~~
 

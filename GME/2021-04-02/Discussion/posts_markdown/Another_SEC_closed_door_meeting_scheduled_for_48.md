@@ -1,8 +1,9 @@
-# Author: Ollywombat
-# Post URL: [https://www.reddit.com/r/GME/comments/mihiv9/another_sec_closed_door_meeting_scheduled_for_48/](https://www.reddit.com/r/GME/comments/mihiv9/another_sec_closed_door_meeting_scheduled_for_48/)
+#Title: Another SEC closed door meeting scheduled for 4/8.
+#Author: Ollywombat
+#Post URL: [https://www.reddit.com/r/GME/comments/mihiv9/another_sec_closed_door_meeting_scheduled_for_48/](https://www.reddit.com/r/GME/comments/mihiv9/another_sec_closed_door_meeting_scheduled_for_48/)
 
 
-![PDF from Federal Register filed on 4/1 @ 4:15pm](https://public-inspection.federalregister.gov/2021-07065.pdf)
+[PDF from Federal Register filed on 4/1 @ 4:15pm](https://public-inspection.federalregister.gov/2021-07065.pdf)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: Technical_Challenge
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/)
+#Title: A journalists view on GME,
+#Author: Technical_Challenge
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/](https://www.reddit.com/r/Superstonk/comments/ojhgph/a_journalists_view_on_gme/)
 
 
 Good Morning, Afternoon or Evening Apes!
@@ -62,7 +63,7 @@ And TRUST me when I tell you this – the owners of all these media conglomerate
 
 &#x200B;
 
-[The Mouse owns the world](https://preview.redd.it/2057xwo5qza71.jpg?width=2500&format=pjpg&auto=webp&s=da4ddd7295e0de871780325340c3c1ece51be8a1)
+![The Mouse owns the world](https://preview.redd.it/2057xwo5qza71.jpg?width=2500&format=pjpg&auto=webp&s=da4ddd7295e0de871780325340c3c1ece51be8a1)
 
 &#x200B;
 
@@ -137,7 +138,7 @@ I have had some journalists sit down with me, and spend a ridiculous amount of t
 
 First - a picture. 
 
-[\\"Journalist\\" Andrew Ross-Sorkin with Shitadel Leader Kenneth](https://preview.redd.it/yhr9dhlcnza71.jpg?width=719&format=pjpg&auto=webp&s=65ff83899461b7e08987bcb3e0d1e3616b535b7d)
+![\\"Journalist\\" Andrew Ross-Sorkin with Shitadel Leader Kenneth](https://preview.redd.it/yhr9dhlcnza71.jpg?width=719&format=pjpg&auto=webp&s=65ff83899461b7e08987bcb3e0d1e3616b535b7d)
 
 Many time people go into this industry with good intentions - but the system gets ahold of them and changes them into someone they never thought they could be.   
 

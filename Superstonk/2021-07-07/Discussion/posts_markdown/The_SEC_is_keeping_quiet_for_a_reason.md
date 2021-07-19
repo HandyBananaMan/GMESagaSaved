@@ -1,5 +1,6 @@
-# Author: Iothryps
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/](https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/)
+#Title: The SEC is keeping quiet for a reason
+#Author: Iothryps
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/](https://www.reddit.com/r/Superstonk/comments/ofjn71/the_sec_is_keeping_quiet_for_a_reason/)
 
 
 No idea what to flair this as, so I'm going with Discussion for now. If I need to change it, I will.
@@ -16,4 +17,4 @@ Don't get me wrong, I love the memes shitting on them as much as anyone, but I a
 I also pitched the idea of Ryan Cohen working directly with them (especially since he was in their neighborhood a couple months ago) and he said that is absolutely what has to be going on.
 
 
-Edit: Thanks to u/lionbernd1 for linking ![this](https://www.reddit.com/r/Superstonk/comments/oflfs3/foia_appeal_update/?utm_medium=android_app&utm_source=share) post from u/nmorngan81234 about a denied FOIA request
+Edit: Thanks to u/lionbernd1 for linking [this](https://www.reddit.com/r/Superstonk/comments/oflfs3/foia_appeal_update/?utm_medium=android_app&utm_source=share) post from u/nmorngan81234 about a denied FOIA request

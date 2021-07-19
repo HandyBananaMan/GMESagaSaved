@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/)
+#Title: House of Cards - Part 2
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/)
 
 
 ***Prerequisite DD:***
@@ -292,7 +293,7 @@ a. $120,000 FINE
 
 a. $600,000 FINE (SEVERAL OTHER ISSUES REPORTED IN ADDITION TO SHORTS)
 
-27. ![HSBC Securities (USA) INC.](https://files.brokercheck.finra.org/firm/firm_19585.pdf) | Disclosure 26 – “FIRM EXECUTED SHORT SALE TRANSACTIONS AND FAILED TO MARK THEM AS SHORT… HSBC SECURITIES HAD A FAIL-TO-DELIVER SECURITY FOR 13 CONSECUTIVE SETTLEMENT DAYS AND FAILED TO IMMEDIATELY CLOSE OUT THE FTD POSITION… THE FIRM CONTINUED TO HAVE A FTD IN THE SECURITY AT A CLEARING AGENCY ON 79 ADDITIONAL SETTLEMENT DAYS…”
+27. [HSBC Securities (USA) INC.](https://files.brokercheck.finra.org/firm/firm_19585.pdf) | Disclosure 26 – “FIRM EXECUTED SHORT SALE TRANSACTIONS AND FAILED TO MARK THEM AS SHORT… HSBC SECURITIES HAD A FAIL-TO-DELIVER SECURITY FOR 13 CONSECUTIVE SETTLEMENT DAYS AND FAILED TO IMMEDIATELY CLOSE OUT THE FTD POSITION… THE FIRM CONTINUED TO HAVE A FTD IN THE SECURITY AT A CLEARING AGENCY ON 79 ADDITIONAL SETTLEMENT DAYS…”
 
 a. $65,000 FINE
 

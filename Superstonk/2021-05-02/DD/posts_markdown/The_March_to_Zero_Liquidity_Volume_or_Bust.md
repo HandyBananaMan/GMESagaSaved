@@ -1,10 +1,11 @@
-# Author: Suspicious-Singer243
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/)
+#Title: The March to Zero Liquidity: Volume or Bust
+#Author: Suspicious-Singer243
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/](https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/)
 
 
 **Edit 1: Requested TL;DR -** Remember that scene in Independence Day where the great Will Smith during a dogfight takes the baddie alien super low and into the canyon before they both crash? Or when we lost the indomitable Jamie Foxx in Stealth? Well, the lower you go the higher the probability there is for fatal error. GME volume has been suppressed to a point where any slight mistake by Citadel or added buy pressure will make price go BOOM.
 
-[I wonder which is DFV and which is Papa Cohen](https://preview.redd.it/6321tr32nrw61.png?width=693&format=png&auto=webp&s=99263b4154f4b68260cee266ac4f091f2ecb99ea)
+![I wonder which is DFV and which is Papa Cohen](https://preview.redd.it/6321tr32nrw61.png?width=693&format=png&auto=webp&s=99263b4154f4b68260cee266ac4f091f2ecb99ea)
 
 Sorry for the spoilers.
 
@@ -37,9 +38,9 @@ Ever since mid-January, volume moved on a decreasing slope. I downloaded histori
 
 &#x200B;
 
-[Raw NASDAQ volume data since mid-Jan squeeze](https://preview.redd.it/g6osoi3rhrw61.png?width=415&format=png&auto=webp&s=88f45921e169ec7e7df74e0ed59adbf0d7faabea)
+![Raw NASDAQ volume data since mid-Jan squeeze](https://preview.redd.it/g6osoi3rhrw61.png?width=415&format=png&auto=webp&s=88f45921e169ec7e7df74e0ed59adbf0d7faabea)
 
-[5-day trailing average data \(I'm good with crayons, not with excel\)](https://preview.redd.it/qhkzdpt9grw61.png?width=740&format=png&auto=webp&s=4caf492e135f5a431bb0fc725a11a88c1471f425)
+![5-day trailing average data \(I'm good with crayons, not with excel\)](https://preview.redd.it/qhkzdpt9grw61.png?width=740&format=png&auto=webp&s=4caf492e135f5a431bb0fc725a11a88c1471f425)
 
 So significant to the point where **multiple days this past week had only 5% of mid-Jan volume levels** traded. Furthermore, every five trading days results in a halving of the percentage of volume traded relative to the initial problem.
 

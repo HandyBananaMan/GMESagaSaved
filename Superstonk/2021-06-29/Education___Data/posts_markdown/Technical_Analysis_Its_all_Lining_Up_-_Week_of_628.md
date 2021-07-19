@@ -1,5 +1,6 @@
-# Author: RocketTraveler
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/](https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/)
+#Title: Technical Analysis: It's all Lining Up - Week of 6/28
+#Author: RocketTraveler
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/](https://www.reddit.com/r/Superstonk/comments/oaku66/technical_analysis_its_all_lining_up_week_of_628/)
 
 
 Fellow HODLers,
@@ -35,14 +36,14 @@ With that out of the way, here are some indicators on where we might be headed t
 
 If we hold the **$209** level tomorrow, we have a higher chance of a breakout
 
-[Classic bull pennant with a great formation](https://preview.redd.it/ozp0e49xja871.png?width=1222&format=png&auto=webp&s=b3bd338efb85f0813a036563af09f76d4c040daf)
+![Classic bull pennant with a great formation](https://preview.redd.it/ozp0e49xja871.png?width=1222&format=png&auto=webp&s=b3bd338efb85f0813a036563af09f76d4c040daf)
 
 # Bullish Divergence
 
 * On the hourly timeframe we are now showing a regular bullish divergence within the RSI.  This happens when the price action goes lower, but the RSI increases during the same time period (counting from the low points of the charts)
 * This shows that the downward/sideways trend of the past few weeks is weakening/reversing.  Would love to see this propagate to the larger timeframes (4 hr, Daily)
 
-[Regular Bullish Divergence showing on the hourly chart](https://preview.redd.it/kh41npolka871.png?width=1269&format=png&auto=webp&s=3f1b5d0dd9e8a6de37ea55bc31194a702b41309b)
+![Regular Bullish Divergence showing on the hourly chart](https://preview.redd.it/kh41npolka871.png?width=1269&format=png&auto=webp&s=3f1b5d0dd9e8a6de37ea55bc31194a702b41309b)
 
 # Cup & Handle
 
@@ -54,11 +55,11 @@ If we hold the **$209** level tomorrow, we have a higher chance of a breakout
 
 &#x200B;
 
-[Large-Scale Cup and Handle View](https://preview.redd.it/uo6rb8f7la871.png?width=1018&format=png&auto=webp&s=abd4b76f730eeb79e67fd857825caf71fd79a15e)
+![Large-Scale Cup and Handle View](https://preview.redd.it/uo6rb8f7la871.png?width=1018&format=png&auto=webp&s=abd4b76f730eeb79e67fd857825caf71fd79a15e)
 
 &#x200B;
 
-[Handle - Support and Resistance.  If we bust above the top white line - we should see a massive move upwards](https://preview.redd.it/zo8ineldla871.png?width=1082&format=png&auto=webp&s=6e0cfdac19a57b5bae9ac6c114c88ad272f64d1a)
+![Handle - Support and Resistance.  If we bust above the top white line - we should see a massive move upwards](https://preview.redd.it/zo8ineldla871.png?width=1082&format=png&auto=webp&s=6e0cfdac19a57b5bae9ac6c114c88ad272f64d1a)
 
 # Gaps
 

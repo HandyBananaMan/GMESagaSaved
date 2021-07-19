@@ -1,10 +1,11 @@
-# Author: Bladeace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0w63b/005_question_did_the_dtcc_just_pseudorecall_all/](https://www.reddit.com/r/Superstonk/comments/o0w63b/005_question_did_the_dtcc_just_pseudorecall_all/)
+#Title: 005 question - did the DTCC just pseudo-recall all shorts? I mean, obviously they didn't because that would be far too helpful! But, 005 does seem to imply they expect all borrowed shares to be in the lenders account effective immediately... I need an adult, help please???
+#Author: Bladeace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0w63b/005_question_did_the_dtcc_just_pseudorecall_all/](https://www.reddit.com/r/Superstonk/comments/o0w63b/005_question_did_the_dtcc_just_pseudorecall_all/)
 
 
 TL;DR: 005 clarifies that all borrowed securities remain in the lenders account. Does this mean all lenders will ask for the shares they are currently loaning out to be placed in their accounts? 
 
-u/EvilBeanz59 asked the below question in ![my post about 005](https://www.reddit.com/r/Superstonk/comments/o0rkj7/big_deal_rule_005_prevents_pledged_securities/?utm_source=share&utm_medium=web2x&context=3):
+u/EvilBeanz59 asked the below question in [my post about 005](https://www.reddit.com/r/Superstonk/comments/o0rkj7/big_deal_rule_005_prevents_pledged_securities/?utm_source=share&utm_medium=web2x&context=3):
 
 https://preview.redd.it/pqu1r1dvtj571.png?width=959&format=png&auto=webp&s=7cf12d62428eed028c64cb4d386561bed105f9a0
 

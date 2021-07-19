@@ -1,5 +1,6 @@
-# Author: sharkbaitlol
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/](https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/)
+#Title: CHAOS THEORY - The FINAL Connection
+#Author: sharkbaitlol
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/](https://www.reddit.com/r/Superstonk/comments/mseyai/chaos_theory_the_final_connection/)
 
 
 The final picture is starting to come together. The ties of the former CFTC (who now works for citadel) & SEC chairmen to the industry appear to be pointing to fraudulent activity in efforts to prolong the necessity of **SOFR** being implemented. **SOFR** the last time it was attempted to transitioned into (in 2019) almost IMPLODED the market due to many realizing that banks and others could not handle a higher interest rate (based off the [DAILY TRESURY YIELD RATE](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield))  versus the fabricated one that banks provide.
@@ -58,13 +59,13 @@ In relation to this, don't forget that Bill Hwang is an alumni of the **Tigers**
 
 NOW we encounter our first conflict on interest here as we delve into **Jay Clayton's** new employer, **Apollo Global Management.**  As it turns out the former CEO of **Apollo** stepped down **JUST LAST MONTH** because of his ties with **Jeffery Epstein**. Here's the story from a couple weeks ago ago. 
 
-[https:\/\/www.theguardian.com\/us-news\/2021\/mar\/22\/leon-black-quits-apollo-jeffrey-epstein-ties-inquiry  ](https://preview.redd.it/j7jfsva7akt61.png?width=642&format=png&auto=webp&s=da0b6fd00c75f2ccd18a796ae131837cda111895)
+![https:\/\/www.theguardian.com\/us-news\/2021\/mar\/22\/leon-black-quits-apollo-jeffrey-epstein-ties-inquiry  ](https://preview.redd.it/j7jfsva7akt61.png?width=642&format=png&auto=webp&s=da0b6fd00c75f2ccd18a796ae131837cda111895)
 
 Wait so you're telling me that the former SEC chairman is working for a company that was connected with one of the most infamous criminals of all time? **YUP.** Well at least the old CEO isn't there anymore right?
 
 &#x200B;
 
-[Yikes, almost like this shouldn't be allowed right?](https://preview.redd.it/t494wh2nakt61.png?width=726&format=png&auto=webp&s=5ba672225d6129f58c2e7a934286fa471e368705)
+![Yikes, almost like this shouldn't be allowed right?](https://preview.redd.it/t494wh2nakt61.png?width=726&format=png&auto=webp&s=5ba672225d6129f58c2e7a934286fa471e368705)
 
 Now lets take a step back about two weeks ago or so; recall [Mr. Heath Tarbert](https://en.wikipedia.org/wiki/Heath_Tarbert)? Who was the former chairmen of the CFTC (Commodity Futures Trading Commission). Last we heard he just got hired by our boy **Ken Griffin** as his **Chief Legal Officer.**  
 
@@ -96,7 +97,7 @@ As a result of their bankruptcy, 50,000 people lost their jobs when it became ev
 
 As a result different parts of **Greensill** had to be liquidated as a means to recoup costs. One of the impacted was **Greensill's** tech partner **Taulia**. **Guess who had plans to acquire them?**
 
-[what are they doing here???](https://preview.redd.it/jhz33vbpmkt61.png?width=860&format=png&auto=webp&s=095679127038922ac1619d382f4745d6398fffd0)
+![what are they doing here???](https://preview.redd.it/jhz33vbpmkt61.png?width=860&format=png&auto=webp&s=095679127038922ac1619d382f4745d6398fffd0)
 
 YES **APOLLO** IS MEDDLING HERE. Now everything was going according to plan for **Apollo**, seems like they'd be able to get a pretty cheap cost of entry on **Taulia** who from their site: 
 
@@ -110,7 +111,7 @@ But **SURPRISE!**
 
 &#x200B;
 
-[https:\/\/www.reuters.com\/article\/us-britain-greensill-apollo-idUSKBN2B4233](https://preview.redd.it/bakrkhoimkt61.png?width=962&format=png&auto=webp&s=fc2aefebb0a91ba9491a3f820cef0f5975c4b722)
+![https:\/\/www.reuters.com\/article\/us-britain-greensill-apollo-idUSKBN2B4233](https://preview.redd.it/bakrkhoimkt61.png?width=962&format=png&auto=webp&s=fc2aefebb0a91ba9491a3f820cef0f5975c4b722)
 
 &#x200B;
 
@@ -118,7 +119,7 @@ But **SURPRISE!**
 
 Don't forget who are the two major institutional owners of **JPMorgan**...
 
-[if it isn't our boys BlackRock, and Vanguard. Source: https:\/\/fintel.io\/so\/us\/jpm](https://preview.redd.it/rbccdb5eqkt61.png?width=1245&format=png&auto=webp&s=074655ed2767fc33c72a139c6c2ff0e1eed43d08)
+![if it isn't our boys BlackRock, and Vanguard. Source: https:\/\/fintel.io\/so\/us\/jpm](https://preview.redd.it/rbccdb5eqkt61.png?width=1245&format=png&auto=webp&s=074655ed2767fc33c72a139c6c2ff0e1eed43d08)
 
 As a side note did I mention that **UBS** is the direct competitor of **CreditSuisse** in Switzerland and that the two are planning a merger? [https://www.fnlondon.com/articles/ubs-chair-axel-weber-says-a-merger-with-credit-suisse-could-take-years-20201207](https://www.fnlondon.com/articles/ubs-chair-axel-weber-says-a-merger-with-credit-suisse-could-take-years-20201207) 
 
@@ -199,7 +200,7 @@ As it turns out, Kenny boy has donated to majority of the 'nay' sayers. Of cours
 
 Well one of the major topics of focus come from this clip of **GG** himself; give this a quick watch for about 2 minutes:
 
-[https:\/\/youtu.be\/b\_GcpsIyQFc?t=1425 from 2014 ](https://preview.redd.it/4i2q1efa4lt61.png?width=977&format=png&auto=webp&s=d807532d35de00f69ef8b4a2713947fbd50bab54)
+![https:\/\/youtu.be\/b\_GcpsIyQFc?t=1425 from 2014 ](https://preview.redd.it/4i2q1efa4lt61.png?width=977&format=png&auto=webp&s=d807532d35de00f69ef8b4a2713947fbd50bab54)
 
 [https://youtu.be/b\_GcpsIyQFc?t=1425](https://youtu.be/b_GcpsIyQFc?t=1425); a quote directly from **Gary** in the video:
 
@@ -274,7 +275,7 @@ https://preview.redd.it/1iys92uydlt61.png?width=847&format=png&auto=webp&s=b665c
 
 And it looks like they just had a hearing on this evolution just YESTERDAY.
 
-[https:\/\/www.youtube.com\/watch?v=igmJ-SFvyRU two hours worth of content, watch at your own risk](https://preview.redd.it/o95qmiuehlt61.png?width=1321&format=png&auto=webp&s=9ec410ff456ef126517f16496a1d5efef3a8289b)
+![https:\/\/www.youtube.com\/watch?v=igmJ-SFvyRU two hours worth of content, watch at your own risk](https://preview.redd.it/o95qmiuehlt61.png?width=1321&format=png&auto=webp&s=9ec410ff456ef126517f16496a1d5efef3a8289b)
 
 I watched them talking about it live, I would be lying if I told you it was a thrilling piece of entertainment. Watch it if you're really curious and want to get a deeper understanding of what's at stake.
 
@@ -369,7 +370,7 @@ https://preview.redd.it/rjpdxjm84mt61.png?width=1407&format=png&auto=webp&s=99d1
 
 **NOW HERE ARE THE BAD GUYS. WHOA THEY JUST RIPPED OVER THE LAST YEAR.**
 
-[WOW WHAT GROWTH!](https://preview.redd.it/oylkww7v4mt61.png?width=1401&format=png&auto=webp&s=999644f9899dac07da6f3bca164772eed745a0d0)
+![WOW WHAT GROWTH!](https://preview.redd.it/oylkww7v4mt61.png?width=1401&format=png&auto=webp&s=999644f9899dac07da6f3bca164772eed745a0d0)
 
 Growth over the last 4 quarters:
 
@@ -393,7 +394,7 @@ Bad Guys:
 
 &#x200B;
 
-Now we plug in /u/atobitt 's !["Everything Short"](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/) thesis here. I believe Hedge Funds have been taking advantage of the low interest rates that are being gamed. They decide they're going to take this to a whole new extreme through rehypothecation and the repo market.
+Now we plug in /u/atobitt 's ["Everything Short"](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/) thesis here. I believe Hedge Funds have been taking advantage of the low interest rates that are being gamed. They decide they're going to take this to a whole new extreme through rehypothecation and the repo market.
 
 MY OPINION: THIS IS MONEY THEY'RE NEVER GOING TO BE ABLE TO PAY BACK. CITADEL AND FRIENDS ASPIRED TO REACH THE GRAND SIZE THAT THE LIKES OF BLACKROCK AND VANGUARD ARE THROUGH ANY MEANS NECESSARY. I BELIEVE THEY'VE TAKEN ON MASSIVE RISK AND ARE NOW BEING CLOSED IN ON BY THE DTCC + THE SEC WITH THE SOFR ADJUSTMENT. 
 

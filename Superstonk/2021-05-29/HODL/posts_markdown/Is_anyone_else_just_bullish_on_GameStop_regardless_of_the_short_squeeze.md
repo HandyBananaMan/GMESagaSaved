@@ -1,5 +1,6 @@
-# Author: KsuhDilla
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/no3141/is_anyone_else_just_bullish_on_gamestop/](https://www.reddit.com/r/Superstonk/comments/no3141/is_anyone_else_just_bullish_on_gamestop/)
+#Title: Is anyone else just bullish on GameStop regardless of the short squeeze?
+#Author: KsuhDilla
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/no3141/is_anyone_else_just_bullish_on_gamestop/](https://www.reddit.com/r/Superstonk/comments/no3141/is_anyone_else_just_bullish_on_gamestop/)
 
 
 Why would I sell GME at this price point when GameStop is:

@@ -1,5 +1,6 @@
-# Author: Exotic-Tooth8166
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/](https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/)
+#Title: Over-Voting Prevention Exposed
+#Author: Exotic-Tooth8166
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/](https://www.reddit.com/r/Superstonk/comments/nwktlt/overvoting_prevention_exposed/)
 
 
 # Disclosure of a financial system which hides naked shorts by deleting shareholder votes.
@@ -129,7 +130,7 @@ https://preview.redd.it/0v5befyggf471.png?width=310&format=png&auto=webp&s=eb534
 
 Broadridge Financial Solutions is a public corporate services company founded in 2007 as a spin-off from Automatic Data Processing. The main business of Broadridge is as a service provider supplying public companies with proxy statements, annual reports and other financial documents, and shareholder communications solutions, such as virtual annual meetings.
 
-The neat thing about Broadridge is they're kind of like the Robin Hood of Proxy Voting. With a track record of innovation, they're ![really good at collecting those votes!](https://lautorite.qc.ca/fileadmin/lautorite/consultations/commentaires/valeurs-mobilieres/2013-11-13/broadridge.pdf)
+The neat thing about Broadridge is they're kind of like the Robin Hood of Proxy Voting. With a track record of innovation, they're [really good at collecting those votes!](https://lautorite.qc.ca/fileadmin/lautorite/consultations/commentaires/valeurs-mobilieres/2013-11-13/broadridge.pdf)
 
 https://preview.redd.it/t7qkghgjgf471.png?width=786&format=png&auto=webp&s=62348e9e05693dfc5c042ab2453ddda6aecba93a
 

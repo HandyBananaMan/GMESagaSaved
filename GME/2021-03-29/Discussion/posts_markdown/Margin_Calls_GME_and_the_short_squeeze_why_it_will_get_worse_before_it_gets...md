@@ -1,5 +1,6 @@
-# Author: ezzune
-# Post URL: [https://www.reddit.com/r/GME/comments/mfm6p3/margin_calls_gme_and_the_short_squeeze_why_it/](https://www.reddit.com/r/GME/comments/mfm6p3/margin_calls_gme_and_the_short_squeeze_why_it/)
+#Title: Margin Calls, GME and the short squeeze; why it will get worse before it gets better.
+#Author: ezzune
+#Post URL: [https://www.reddit.com/r/GME/comments/mfm6p3/margin_calls_gme_and_the_short_squeeze_why_it/](https://www.reddit.com/r/GME/comments/mfm6p3/margin_calls_gme_and_the_short_squeeze_why_it/)
 
 
 I'm sure many of you are excited at the thought of HFs getting margin called; I sure as shit am, but there's something that we all need to remember going forward.

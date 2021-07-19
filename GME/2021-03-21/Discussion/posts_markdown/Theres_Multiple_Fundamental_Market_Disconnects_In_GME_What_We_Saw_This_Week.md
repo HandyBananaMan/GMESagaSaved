@@ -1,5 +1,6 @@
-# Author: ThatGuyOnTheReddits
-# Post URL: [https://www.reddit.com/r/GME/comments/ma19v7/theres_multiple_fundamental_market_disconnects_in/](https://www.reddit.com/r/GME/comments/ma19v7/theres_multiple_fundamental_market_disconnects_in/)
+#Title: There's Multiple Fundamental Market Disconnects In GME... What We Saw This Week...
+#Author: ThatGuyOnTheReddits
+#Post URL: [https://www.reddit.com/r/GME/comments/ma19v7/theres_multiple_fundamental_market_disconnects_in/](https://www.reddit.com/r/GME/comments/ma19v7/theres_multiple_fundamental_market_disconnects_in/)
 
 
 Morning Apes! My main stomping ground over on WSBN is still getting bot-bombed at the moment, so I hope you don't mind me sliding in here for a quick post. You'll have to put up with me posting it myself today, instead of it getting copy/pasted, for a change.

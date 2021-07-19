@@ -1,5 +1,6 @@
-# Author: npham54
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/](https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/)
+#Title: #801, #002, SLD Requirements, Intraday Checks, JP Morgan, & how it all ties together!
+#Author: npham54
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/](https://www.reddit.com/r/Superstonk/comments/ojzodx/801_002_sld_requirements_intraday_checks_jp/)
 
 
 \*\*\*\*\* I am NOT a financial advisor & this is NOT financial advice. Take everything you read, see, or hear with a grain of salt. Verify it ALL with your own DD & come up with your own conclusions! \*\*\*\*\*
@@ -20,11 +21,29 @@ I just posted about this:
 
 [https://www.dtcc.com/-/media/Files/pdf/2021/7/13/15625-21.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/7/13/15625-21.pdf)
 
-📷
-
 https://preview.redd.it/3rj5adcjw4b71.png?width=2121&format=png&auto=webp&s=c064e228b21a08b22431b163412af52692f606a5
 
 This is one of JP Morgan's account with the DTCC. Apparently there are reports of them having like 30 accounts. Ok that's fine, I don't dispute that ***statement*** unless I can prove it otherwise. But the fact remains that one of the accounts is closing down. So we can agree on that simple fact.
+
+\*\*\*\*\*EDIT 7/15/21\*\*\*\*\*
+
+Found out that JPMorgan only had their accounts "retired" by the DTCC only 2 times in HISTORY!
+
+&#x200B;
+
+https://preview.redd.it/hw330ertngb71.png?width=3842&format=png&auto=webp&s=b363e20b104d7297931e9652a9d4058a58db1478
+
+I've seen people claiming, "It's nothing! Business as usual!".
+
+Really?  Business is as usual when only 2 of your accounts has EVER been closed according to [DTCC.com](https://DTCC.com) records?  Both recent too! 
+
+I believe the "Canada" retired account was in connection with this ruling made recently by the SEC found on the Reg Sho. (Don't quote me on this, I haven't searched to confirm this yet, I think this was jogged from my memory)
+
+Ummm... Ok, I'm sure you used DD and verified by just simply looking a little "deeper" right?  I mean a 5 second search pulled this up.  Guess your time is too precious to look?
+
+Looks like YouTubers are a lot more "news anchors" rather than real "reporters".
+
+\*\*\*\*\*EDIT\*\*\*\*\*
 
 I do have a theory, and as with any theory, I can be right or I could be wrong. We won't know unless if someone can dig up verifiable proof to disprove my theory, or ends up truly becoming result of something possibly big. Who knows right now. I just want to share this with you.
 
@@ -102,8 +121,7 @@ Do remember these few things:
 
 &#x200B;
 
-\*\*\*\*\*\*\*  
-EDIT #2
+\*\*\*\*\*\*\*EDIT #2
 
 Thank you so much to  [**Luxray0815**](https://www.reddit.com/user/Luxray0815/) **for sharing this!**
 
@@ -139,11 +157,11 @@ Banks collect margin from hedge funds to cover potential losses if a fund fails.
 
 The right to demand variation margin is included in many contractual agreements with prime brokerage units. Hedge funds rarely seek to change them because until Archegos. they were rarely enforced.
 
-"The JP Morgan standard prime brokerage agreement actually says that they can call you whenever they wnat for variation margin - like you can get up to seven calls a day" says a head of treasury at a large US hedge fund. "It's up to you to negotiate that." A spokesman for JP Morgan declined to comment.
+"The JP Morgan standard prime brokerage agreement actually says that they can call you whenever they want for variation margin - like you can get up to seven calls a day" says a head of treasury at a large US hedge fund. "It's up to you to negotiate that." A spokesman for JP Morgan declined to comment.
 
-The default of Archegos at the end of March triggered losses at multiple investment banks, incluiding a mammoth $4.7 billion loss at Credit Suisse, which collected less margin from Archegos than the likes of Goldman Sachs and Deutsche Bank.
+The default of Archegos at the end of March triggered losses at multiple investment banks, including a mammoth $4.7 billion loss at Credit Suisse, which collected less margin from Archegos than the likes of Goldman Sachs and Deutsche Bank.
 
-None of the hedge funds that ![Risk.net](https://risk.net/) spoke to have received intraday variation margin calls from JP Morgan, but they all fear that they will have to pay up in the future. The chief financial officer of one US hedge fund says that he was shocked when JP Morgan said it would exercise its legal right to make margin calls multiple times a day.
+None of the hedge funds that [Risk.net](https://risk.net/) spoke to have received intraday variation margin calls from JP Morgan, but they all fear that they will have to pay up in the future. The chief financial officer of one US hedge fund says that he was shocked when JP Morgan said it would exercise its legal right to make margin calls multiple times a day.
 
 "I have worked at small firms and multi-billion-dollar firms and this was a first", he says. "I was surprised to hear this."
 
@@ -151,7 +169,7 @@ Prime brokers that provide leverage to hedge funds collect two types of margin f
 
 In prime brokerage, initial margin is primarily based on counterparty credit risk - the chances of a client defaulting - rather than the risk of individual trades. "Generally what happens is someone assesses the creditworthiness, does the know your customer and anti-money laundering, sets a margin, shoves it into a system completely separate from what's going on with the actual trading floor and never touches it again for another year." says an executive at one of the largest US hedge funds.
 
-JP Morgan is changing howit monitors risk by calculating variation margin throughout the day, a practice called real-time margining that it had begun developing even before the Archegos's spectacular collapse.
+JP Morgan is changing how it monitors risk by calculating variation margin throughout the day, a practice called real-time margining that it had begun developing even before the Archegos' spectacular collapse.
 
 The bank previously called clients for additional margin at the start of each trading day. It is now asserting its right to demand additional margin between daily calls. If a client's positions lose value over the course of the day, JP Morgan may decide that it needs more collateral immediately.
 

@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrr5e0/the_finra_veil_whos_been_trading_gme_every_week/](https://www.reddit.com/r/Superstonk/comments/nrr5e0/the_finra_veil_whos_been_trading_gme_every_week/)
+#Title: The FINRA Veil: Who's Been Trading GME Every Week (four months of data examined)
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrr5e0/the_finra_veil_whos_been_trading_gme_every_week/](https://www.reddit.com/r/Superstonk/comments/nrr5e0/the_finra_veil_whos_been_trading_gme_every_week/)
 
 
 **MAJOR EDIT: This post has been debunked. After a significant amount of discussion with several other users (including u/dlauer) an assumption I made about a section of the data has made both this post and a additional DD (Out of Gas DD) I worked on yesterday incorrect. It sucks to be publicly wrong when both of these posts got a lot of attention, but when you do DD's sometimes you will be wrong. I am changing this now as I am (unfortunately) not able to reconcile that error. I made the post, I should have done a better job of checking the data. Rather than letting this sit overnight as I am about to head to sleep, I would implore a moderator to switch the flair and have sent a request for this to happen. I will leave the post up as it is though, as failure helps us apes improve.**
@@ -21,11 +22,11 @@ I examined the data to review who traded the most GME each week and there were f
 
 But that’s only 3, you said there were 5. I did. Check out these images.
 
-[https://imgur.com/SBUQPbe](https://imgur.com/SBUQPbe)
+![https://imgur.com/SBUQPbe](https://imgur.com/SBUQPbe)
 
-[https://imgur.com/6JufxgW](https://imgur.com/6JufxgW)
+![https://imgur.com/6JufxgW](https://imgur.com/6JufxgW)
 
-[https://imgur.com/GnQP60P](https://imgur.com/GnQP60P)
+![https://imgur.com/GnQP60P](https://imgur.com/GnQP60P)
 
 **The other 2 groups DO NOT INCLUDE A NAME. Their Market Participant Name is BLANK.** It is impossible to know 100% if this is only two separate groups but I would argue that since they consistently show up throughout the FINRA data we are looking at 2 mystery companies that are trading an absolute ton of GME every week OTC. One of these blank spots is ALWAYS the top spot, while the other seems to fluctuate between position 3 and 4.
 
@@ -97,7 +98,7 @@ Also, I've seen a lot of comments that Susquehanna isn't here - G1 Execution Ser
 
 Final point of this edit, I didn't put this in the post originally but have received a few messages about Bank of America - they are a subsidiary of Merrill Lynch I believe (BOFA is one of Merrill's MPID's) and Merrill Lynch is on the list.
 
-EDIT 2: An Excel File Link is now available. I believe it should share safely/anonymously now. ![Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDsp8OjIwT_1eEMH72AgXFGMZJBgCtS0cD80UJPDAcWafeWx_6Jbfx_jkduRiV1Kap24PSfrp2zVUu/pub?output=xlsx). If you click this it will download the Excel file.
+EDIT 2: An Excel File Link is now available. I believe it should share safely/anonymously now. [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTDsp8OjIwT_1eEMH72AgXFGMZJBgCtS0cD80UJPDAcWafeWx_6Jbfx_jkduRiV1Kap24PSfrp2zVUu/pub?output=xlsx). If you click this it will download the Excel file.
 
 
 **EDIT 3: Someone asked who FINRA was and I put it in a comment. But at this point they might as well be the Financial Institution Not Regulating Anything.**

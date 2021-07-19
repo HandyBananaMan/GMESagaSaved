@@ -1,5 +1,6 @@
-# Author: infant_ape
-# Post URL: [https://www.reddit.com/r/GME/comments/mvocxq/ffs_dd_that_you_dont_want_to_hear_doesnt_make_it/](https://www.reddit.com/r/GME/comments/mvocxq/ffs_dd_that_you_dont_want_to_hear_doesnt_make_it/)
+#Title: FFS... DD that YOU don't want to hear doesn't make it FUD. Solid information is solid information, no matter what side of the poop storm it falls on.
+#Author: infant_ape
+#Post URL: [https://www.reddit.com/r/GME/comments/mvocxq/ffs_dd_that_you_dont_want_to_hear_doesnt_make_it/](https://www.reddit.com/r/GME/comments/mvocxq/ffs_dd_that_you_dont_want_to_hear_doesnt_make_it/)
 
 
 At the risk of being downvoted into shill oblivion,  I'm still going to put this out.  I'll forego all the attempts to build comradery via ape speak and self depreciating comments (although some would fit accordingly) and get to it.

@@ -1,5 +1,6 @@
-# Author: wJFq6aE7-zv44wa__gHq
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n4py3n/want_to_know_why_i_know_our_boy_kenny_g_is_scared/](https://www.reddit.com/r/DDintoGME/comments/n4py3n/want_to_know_why_i_know_our_boy_kenny_g_is_scared/)
+#Title: Want to know why I know our boy Kenny G. is scared? Because he's going on the PR trail.
+#Author: wJFq6aE7-zv44wa__gHq
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n4py3n/want_to_know_why_i_know_our_boy_kenny_g_is_scared/](https://www.reddit.com/r/DDintoGME/comments/n4py3n/want_to_know_why_i_know_our_boy_kenny_g_is_scared/)
 
 
 Little background about me, I've been working with journalists for over a decade now. I've written for some papers and well known magazines - mainly covering tech (IoT + crypto).
@@ -81,6 +82,6 @@ Apparently Kenny has been inspired by our favourite hedge fund, I mean media com
 
 [March](https://www.insidermonkey.com/blog/billionaire-ken-griffins-top-10-stock-picks-923670/)
 
-![April](https://www.insidermonkey.com/blog/10-best-tech-stocks-to-buy-according-to-billionaire-ken-griffin-930846/)
+[April](https://www.insidermonkey.com/blog/10-best-tech-stocks-to-buy-according-to-billionaire-ken-griffin-930846/)
 
 "Stepping out of the shadows to offer stock info? Why Ken?"

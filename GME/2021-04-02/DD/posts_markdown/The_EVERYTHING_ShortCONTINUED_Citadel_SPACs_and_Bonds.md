@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/](https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/)
+#Title: The EVERYTHING Short....CONTINUED. Citadel, SPACs and Bonds
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/](https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/)
 
 
 I think if I update this any more, I'd like to leave this at the top.
@@ -85,7 +86,7 @@ Aaaaaand let's have a look at their filings!
 
 &#x200B;
 
-[Don't blame me. I love crayons ok. ](https://preview.redd.it/6iqs1l8ih5r61.png?width=1644&format=png&auto=webp&s=1c1d23ddd45003955a806d1eeb745d388473f4a2)
+![Don't blame me. I love crayons ok. ](https://preview.redd.it/6iqs1l8ih5r61.png?width=1644&format=png&auto=webp&s=1c1d23ddd45003955a806d1eeb745d388473f4a2)
 
 &#x200B;
 
@@ -145,7 +146,7 @@ Lmao. Just remember, this is one SPAC. ONE. This is their available amount for t
 
 &#x200B;
 
-[https:\/\/sec.report\/Document\/0001193125-21-067573\/](https://preview.redd.it/desekjlzj5r61.png?width=1645&format=png&auto=webp&s=c9bacaed75dc3c38fd7a1427cbd6f016306974d8)
+![https:\/\/sec.report\/Document\/0001193125-21-067573\/](https://preview.redd.it/desekjlzj5r61.png?width=1645&format=png&auto=webp&s=c9bacaed75dc3c38fd7a1427cbd6f016306974d8)
 
 &#x200B;
 
@@ -369,7 +370,7 @@ Well fast forward to now and let’s have a look at how many more SPACs Citadel 
 
 &#x200B;
 
-[That's just the first page. ](https://preview.redd.it/ome3siu0itq61.png?width=1644&format=png&auto=webp&s=365f3219c548aee60cd231124759b651aa90f83a)
+![That's just the first page. ](https://preview.redd.it/ome3siu0itq61.png?width=1644&format=png&auto=webp&s=365f3219c548aee60cd231124759b651aa90f83a)
 
 &#x200B;
 
@@ -610,4 +611,4 @@ Some links -
 
 [Citadel Advisors LLC SEC page](https://sec.report/CIK/0001423053/1#documents)
 
-![More SPAC info](https://www.marketplace.org/2021/02/18/whats-a-spac-a-simple-guide-to-the-investment-trend/)
+[More SPAC info](https://www.marketplace.org/2021/02/18/whats-a-spac-a-simple-guide-to-the-investment-trend/)

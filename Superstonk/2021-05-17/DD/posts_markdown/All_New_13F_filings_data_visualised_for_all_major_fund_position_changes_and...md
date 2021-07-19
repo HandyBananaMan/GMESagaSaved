@@ -1,5 +1,6 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/](https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/)
+#Title: All New 13F filings: data visualised for all major fund position changes and the new short players in GME
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/](https://www.reddit.com/r/Superstonk/comments/nev6po/all_new_13f_filings_data_visualised_for_all_major/)
 
 
 Edit: I posted this to make the data available to everyone and start discussions around the 13Fs. The reported numbers are a bit meh but I don't see this as being FUD. Despite some funds selling, price has been supported. SI% is still likely 200%+ but can't be seen in 13Fs. Shorts remain fukd.
@@ -10,7 +11,7 @@ Edit3: We now have data for Jane Street with massive increased put positions!! I
 
 This post takes the most recent 13F filings that were finally submitted today and compares them with the previous reported positions. I mostly focus on looking at changes for funds with large short positions (predominantly puts) but also include data in the plots for the long whales.
 
-The new positions should be accurate up until March 31 2021 provided that the funds didn't fudge their filings expecting just a small 'cost of doing business' fine..[.](https://preview.redd.it/jbqrepkbwvz61.png?width=3364&format=png&auto=webp&s=16f28d7a1b11f318a520fb6221434451236ee9fa)
+The new positions should be accurate up until March 31 2021 provided that the funds didn't fudge their filings expecting just a small 'cost of doing business' fine..![.](https://preview.redd.it/jbqrepkbwvz61.png?width=3364&format=png&auto=webp&s=16f28d7a1b11f318a520fb6221434451236ee9fa)
 
 I might have made some errors so let me know in the comments if I missed something.
 
@@ -22,7 +23,7 @@ Many DD posts have looked into different tricks to create naked shares using opt
 
 The biggest evidence for naked short selling fuckery to my mind is the massive increase in open put interest at the end of Jan that coincides with decreases in reported short interest (SI%), FTDs and GME share price.
 
-[SI&#37; and FTDs decreased at the end of Jan 2021 as a massive increase on open interest occurred for GME puts. This is suggestive of naked short selling options fuckery.](https://preview.redd.it/jy1dfqamkpz61.png?width=4500&format=png&auto=webp&s=7dc9264c12190d89d469e4a237ff37376405e3d7)
+![SI&#37; and FTDs decreased at the end of Jan 2021 as a massive increase on open interest occurred for GME puts. This is suggestive of naked short selling options fuckery.](https://preview.redd.it/jy1dfqamkpz61.png?width=4500&format=png&auto=webp&s=7dc9264c12190d89d469e4a237ff37376405e3d7)
 
 At the end of march open interest for GME puts was 1.29 Million contracts. This equals the equivalent of 129 Million shares. I checked this in 2 separate sources just to be sure. We should see close to 129 million shares in puts listed in the new 13Fs.
 
@@ -34,7 +35,7 @@ Here I've selected any firm that has at least 500K shares or 300K worth of share
 
 &#x200B;
 
-[Positions for Funds with large holdings in puts, calls or shares.](https://preview.redd.it/e5dkghleqvz61.png?width=5322&format=png&auto=webp&s=d420bb529bdbf39fcd7091c1270acf00a827d471)
+![Positions for Funds with large holdings in puts, calls or shares.](https://preview.redd.it/e5dkghleqvz61.png?width=5322&format=png&auto=webp&s=d420bb529bdbf39fcd7091c1270acf00a827d471)
 
 A number of the large long position holders have sold their stake in GME over recent months. Blackrock and Vanguard still hold significant positions. On the short side we have a number of the usual suspects plus some new funds with large put positions.
 
@@ -42,7 +43,7 @@ A number of the large long position holders have sold their stake in GME over re
 
 This is a simple sum of all the shares reported by funds in the last two 13F filings separated out into shares, put or call positions.
 
-[Total summed positions across all funds in recent 13F filings.](https://preview.redd.it/vxo08agjqvz61.png?width=2164&format=png&auto=webp&s=4daee5a1ba94eb1e1221e5eeb77358e437da5aac)
+![Total summed positions across all funds in recent 13F filings.](https://preview.redd.it/vxo08agjqvz61.png?width=2164&format=png&auto=webp&s=4daee5a1ba94eb1e1221e5eeb77358e437da5aac)
 
 We only see 25 million shares in puts reported fo far in the 13F filings. ***Where are the other 100 Million that we know were held due to the open interest on March 31 2021??!?***
 
@@ -50,7 +51,7 @@ We only see 25 million shares in puts reported fo far in the 13F filings. ***Whe
 
 This first plot show the positions for any fund with at least 500k shares or more than 300k shares in puts or calls at either time point.
 
-[13F large fund positions for GME for the last 2 quarters.](https://preview.redd.it/jbqrepkbwvz61.png?width=3364&format=png&auto=webp&s=16f28d7a1b11f318a520fb6221434451236ee9fa)
+![13F large fund positions for GME for the last 2 quarters.](https://preview.redd.it/jbqrepkbwvz61.png?width=3364&format=png&auto=webp&s=16f28d7a1b11f318a520fb6221434451236ee9fa)
 
 We can see that some of the funds with medium to large holdings in GME shares have sold their positions in the last months. The big positions of Blackrock, Vanguard and RC Ventures remain the same. Changes and put/call positions can be seen easily from the lower 2 plots.
 
@@ -58,7 +59,7 @@ Note that Fidelity (*Fmr llc*) probably didn't sell their position. u/Rehypothec
 
 The next figure shows all fund positions with a change of at least +/- 300k shares in either shares, puts or calls between time points.
 
-[Position changes for all funds with a change of at least 300k shares in either of the position types.](https://preview.redd.it/1s0ps7utqvz61.png?width=4680&format=png&auto=webp&s=8d39021e5a0ecf950a6efac6078d40eeaeab664e)
+![Position changes for all funds with a change of at least 300k shares in either of the position types.](https://preview.redd.it/1s0ps7utqvz61.png?width=4680&format=png&auto=webp&s=8d39021e5a0ecf950a6efac6078d40eeaeab664e)
 
 # Observations from different funds
 
@@ -110,7 +111,7 @@ Edit: Melvin requested special permission to not disclose some of their position
 
 Here I'll just list the funds with with 200k shares or more. DFV whale kinda size or bigger.
 
-[Shares held and change in position for all funds with at least 300k in GME shares on March 31st 2021.](https://preview.redd.it/cvg4d183zuz61.png?width=784&format=png&auto=webp&s=b8dadb242fc92b31c897e59666c7829827c267fb)
+![Shares held and change in position for all funds with at least 300k in GME shares on March 31st 2021.](https://preview.redd.it/cvg4d183zuz61.png?width=784&format=png&auto=webp&s=b8dadb242fc92b31c897e59666c7829827c267fb)
 
 # Conclusions
 

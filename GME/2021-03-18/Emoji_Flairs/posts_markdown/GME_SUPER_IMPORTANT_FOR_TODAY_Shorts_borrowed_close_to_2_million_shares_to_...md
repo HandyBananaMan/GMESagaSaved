@@ -1,5 +1,6 @@
-# Author: khashi1
-# Post URL: [https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/](https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/)
+#Title: ***GME: SUPER IMPORTANT FOR TODAY*** Shorts borrowed close to 2 million shares to short either today or tomorrow. FYI: $172 has been been an area of support the last two times they tried to tank it. Today they have to buy shares if people execute options, they need GME price as low as possible
+#Author: khashi1
+#Post URL: [https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/](https://www.reddit.com/r/GME/comments/m7qhsv/gme_super_important_for_today_shorts_borrowed/)
 
 
 https://preview.redd.it/rj6hf817ltn61.jpg?width=1629&format=pjpg&auto=webp&s=ef9ad85671d96ead25c180733eb24354f5b56732
@@ -64,7 +65,7 @@ Just want people to be prepared if there is a dip.  The long ~~whales~~ Kongs we
 
 I personally think they want the shorts to reshort again and they want to keep this out of the 200s coming up on Tomorrow (Friday 3/19) since there is talk that some of the Shorts might have 200, 300, and 400 dollar calls which expire also tomorrow which they hedged weeks ago.
 
-Pinning it lower than 200 would fuck the shorts the most since they would lose their hedge bets as well, then the long ~~whales~~ Kongs would proceed with buying up long again.  This was a theory I read  ![https://www.reddit.com/r/GME/comments/m584h0/how\_i\_see\_the\_gme\_end\_game\_playing\_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
+Pinning it lower than 200 would fuck the shorts the most since they would lose their hedge bets as well, then the long ~~whales~~ Kongs would proceed with buying up long again.  This was a theory I read  [https://www.reddit.com/r/GME/comments/m584h0/how\_i\_see\_the\_gme\_end\_game\_playing\_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
 
 He thinks ~~Whales~~ Kongs are waiting out this week because they want to keep the shorts from getting their hedge bets then will proceed next week.  I'm not putting dates at all but that would explain why ~~whales~~ Kongs seem to be MIA this week.
 

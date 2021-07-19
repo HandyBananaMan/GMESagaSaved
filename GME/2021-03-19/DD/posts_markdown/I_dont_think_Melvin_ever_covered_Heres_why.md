@@ -1,5 +1,6 @@
-# Author: Fat_Sassy_Classy
-# Post URL: [https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/](https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/)
+#Title: I don't think Melvin ever covered. Here's why.
+#Author: Fat_Sassy_Classy
+#Post URL: [https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/](https://www.reddit.com/r/GME/comments/m8zc3d/i_dont_think_melvin_ever_covered_heres_why/)
 
 
 TL;DR Melvin’s initial short position was 50 million shorted shares. Possibly 63 million shares at the end of February.
@@ -88,7 +89,7 @@ Answer
 >  
 >2) The collateral requirement changed  
 >  
->3) Their funds changed (which is annotated only once in an article ![Here](https://www.reuters.com/article/us-retail-trading-melvin/melvin-capital-ends-month-with-over-8-billion-in-assets-after-investors-added-cash-source-idUSKBN2A00KW))  
+>3) Their funds changed (which is annotated only once in an article [Here](https://www.reuters.com/article/us-retail-trading-melvin/melvin-capital-ends-month-with-over-8-billion-in-assets-after-investors-added-cash-source-idUSKBN2A00KW))  
 >  
 >4) Citadel, in addition giving them funds on 25January, helped restructure whatever agreement Melvin had for short shares, and is weighing the equity against their own Hedgfund rather than Melvins.  
 >  

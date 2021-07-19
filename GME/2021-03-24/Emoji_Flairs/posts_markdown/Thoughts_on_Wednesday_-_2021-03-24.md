@@ -1,5 +1,6 @@
-# Author: CM_MOJO
-# Post URL: [https://www.reddit.com/r/GME/comments/mcnfx2/thoughts_on_wednesday_20210324/](https://www.reddit.com/r/GME/comments/mcnfx2/thoughts_on_wednesday_20210324/)
+#Title: Thoughts on Wednesday - 2021-03-24
+#Author: CM_MOJO
+#Post URL: [https://www.reddit.com/r/GME/comments/mcnfx2/thoughts_on_wednesday_20210324/](https://www.reddit.com/r/GME/comments/mcnfx2/thoughts_on_wednesday_20210324/)
 
 
 Oh BOY, was I ever wrong on how today was going to play out. I’ll make three promises to you apes reading my posts here and now. One, I’ll never lie to you. Two, when I’m wrong, I’ll be the first to admit it. Three, if you ask me a question and I don’t know the answer, I’ll tell you so.

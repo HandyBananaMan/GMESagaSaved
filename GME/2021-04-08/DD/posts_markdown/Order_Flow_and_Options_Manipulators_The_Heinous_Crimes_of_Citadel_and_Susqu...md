@@ -1,5 +1,6 @@
-# Author: beowulf77
-# Post URL: [https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/](https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/)
+#Title: Order Flow and Options Manipulators: The Heinous Crimes of Citadel and Susquehanna
+#Author: beowulf77
+#Post URL: [https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/](https://www.reddit.com/r/GME/comments/mn5d8j/order_flow_and_options_manipulators_the_heinous/)
 
 
 A short story fan fiction posted on behalf of Wuz:
@@ -26,4 +27,4 @@ With Steve Bloom, Eric Brooks, Arthur Dantchik, Andrew Frost, and Joel Greenberg
 
 They are playing poker against us, but they can see our cards.
 
-![https://www.youtube.com/watch?v=FpNWvxE9nXY](https://www.youtube.com/watch?v=FpNWvxE9nXY)
+[https://www.youtube.com/watch?v=FpNWvxE9nXY](https://www.youtube.com/watch?v=FpNWvxE9nXY)

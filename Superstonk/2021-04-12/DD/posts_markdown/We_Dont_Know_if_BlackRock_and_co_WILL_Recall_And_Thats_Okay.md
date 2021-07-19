@@ -1,5 +1,6 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/](https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/)
+#Title: We Don't Know if BlackRock and co WILL Recall. And That's Okay.
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/](https://www.reddit.com/r/Superstonk/comments/mpsrno/we_dont_know_if_blackrock_and_co_will_recall_and/)
 
 
 We're coming up to several important dates reegarding share recall. I think it's safe to temper expectations in light off the recent market manipulation of GME. Let's take a historic view of what has happened previously with BlackRock and share recalls as well as some base knowledge regarding recall risk.
@@ -33,7 +34,7 @@ So repeat the conversation they had with BlackRock with a bunch of other large l
 
 &#x200B;
 
-[GME SI against Stock Price](https://preview.redd.it/cxmc99enkus61.png?width=1252&format=png&auto=webp&s=aa585c6ff325333f501a036ce020c8f6f21ef6d7)
+![GME SI against Stock Price](https://preview.redd.it/cxmc99enkus61.png?width=1252&format=png&auto=webp&s=aa585c6ff325333f501a036ce020c8f6f21ef6d7)
 
 Here are two pictures just to recap on what historical SI has looked like as well as GMEs stock price. They roughly match up on the x-axis for the most part.
 
@@ -127,7 +128,7 @@ Based on the notice of what would be voted on in the [2020 Annual Meeting of Sto
 
 &#x200B;
 
-[2020 Proxy Notice for Shareholder Meeting](https://preview.redd.it/3zfqec0vkus61.png?width=1344&format=png&auto=webp&s=b36fb22da4866e96134e78705e8639db682d0d4a)
+![2020 Proxy Notice for Shareholder Meeting](https://preview.redd.it/3zfqec0vkus61.png?width=1344&format=png&auto=webp&s=b36fb22da4866e96134e78705e8639db682d0d4a)
 
 While it looks like this would be a good chance for BlackRock to recall shares to vote, does it make sense for them to? Surely this would prove fruitful for their clients?
 
@@ -172,7 +173,7 @@ It’s well known we have a shareholder meeting coming up and I think the date f
 
 &#x200B;
 
-[2021 New Release Announcing RC up for vote for Chairman](https://preview.redd.it/ms1p3cuxkus61.png?width=1342&format=png&auto=webp&s=0ae0e236dd45dde6d1dfeda224166db89bfd6afd)
+![2021 New Release Announcing RC up for vote for Chairman](https://preview.redd.it/ms1p3cuxkus61.png?width=1342&format=png&auto=webp&s=0ae0e236dd45dde6d1dfeda224166db89bfd6afd)
 
 This bad boy. Oh yeah.
 
@@ -250,7 +251,7 @@ Just as valid and logical, great AND important to understand the positive perspe
 
 **Edit:**
 
-Thanks u/serbeardless for linking ![this](https://old.reddit.com/r/Superstonk/comments/mpp2yr/why_we_and_our_whales_are_waiting_for_the_dtcocc/). It delves into why LWs could be holding back until the DTTC put up the "firewalls" before they press the ignition button.
+Thanks u/serbeardless for linking [this](https://old.reddit.com/r/Superstonk/comments/mpp2yr/why_we_and_our_whales_are_waiting_for_the_dtcocc/). It delves into why LWs could be holding back until the DTTC put up the "firewalls" before they press the ignition button.
 
 Highlights an important fact that there are many different scenarios that could play out and this is yet another reason why we do not discuss dates of a squeeze.
 

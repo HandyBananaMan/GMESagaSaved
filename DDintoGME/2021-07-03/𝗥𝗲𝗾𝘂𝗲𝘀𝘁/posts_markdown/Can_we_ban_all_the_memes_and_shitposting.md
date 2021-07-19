@@ -1,5 +1,6 @@
-# Author: Stulander_best
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ocvqga/can_we_ban_all_the_memes_and_shitposting/](https://www.reddit.com/r/DDintoGME/comments/ocvqga/can_we_ban_all_the_memes_and_shitposting/)
+#Title: Can we ban all the memes and shitposting?
+#Author: Stulander_best
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/ocvqga/can_we_ban_all_the_memes_and_shitposting/](https://www.reddit.com/r/DDintoGME/comments/ocvqga/can_we_ban_all_the_memes_and_shitposting/)
 
 
 Sidebar: 

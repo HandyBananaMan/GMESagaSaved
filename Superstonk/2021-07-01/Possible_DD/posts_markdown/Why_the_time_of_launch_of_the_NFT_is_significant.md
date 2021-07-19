@@ -1,12 +1,13 @@
-# Author: Mokova000
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/](https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/)
+#Title: Why the time of launch of the NFT is significant
+#Author: Mokova000
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/](https://www.reddit.com/r/Superstonk/comments/obszj6/why_the_time_of_launch_of_the_nft_is_significant/)
 
 
 Tinfoil hats on everyone.
 
 First let’s look again at the timestamp of the NFT’s launch:
 
-[screenshot of the epoch converter of the date found in the NFT contract](https://preview.redd.it/bigfpuelhn871.png?width=682&format=png&auto=webp&s=4df9e66bce25a3a0135f63f741cf23005c3c32e7)
+![screenshot of the epoch converter of the date found in the NFT contract](https://preview.redd.it/bigfpuelhn871.png?width=682&format=png&auto=webp&s=4df9e66bce25a3a0135f63f741cf23005c3c32e7)
 
 Then, let’s look at the wiki page of bastille day (in french): [link](https://fr.wikipedia.org/wiki/Prise_de_la_Bastille)
 

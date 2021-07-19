@@ -1,5 +1,6 @@
-# Author: 3for100Specials
-# Post URL: [https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/](https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/)
+#Title: Double DD Analysis: Massive volume “glitches”, their connection to FTDs, and lastly why DTCC is the end result of a failed DBZ fusion dance between Sauron and Sidious
+#Author: 3for100Specials
+#Post URL: [https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/](https://www.reddit.com/r/GME/comments/mfke2t/double_dd_analysis_massive_volume_glitches_their/)
 
 
 This Isn'T FinAnCiaL AdVicE. Not like you guys can read anyways. 🦧💎👐🚀🌙
@@ -17,7 +18,7 @@ Start here u apes -----------------------
 
 **Massive volume “glitches”, their connection to FTDs, and lastly why DTCC is the end result of a failed DBZ fusion dance between Sauron and Sidious.**
 
-[Notice the extra-chromosomey characteristics..yet they're the true puller of strings \(we'll get to these dingles shortly\)](https://preview.redd.it/2jv5l6t1khq61.png?width=200&format=png&auto=webp&s=ee61f4a24f88b0ca82e31f2415b5cffe295f0885)
+![Notice the extra-chromosomey characteristics..yet they're the true puller of strings \(we'll get to these dingles shortly\)](https://preview.redd.it/2jv5l6t1khq61.png?width=200&format=png&auto=webp&s=ee61f4a24f88b0ca82e31f2415b5cffe295f0885)
 
 **What are the glitches?**
 
@@ -27,7 +28,7 @@ Example:
 
 &#x200B;
 
-[ww.reddit.com\/r\/GME\/comments\/mf1f6n\/i\_was\_missing\_a\_key\_piece\_of\_the\_puzzel\_this\_is\/](https://preview.redd.it/lv9abfh5khq61.png?width=512&format=png&auto=webp&s=880216e77c3e4ed201376c85ab0ef959e7114594)
+![ww.reddit.com\/r\/GME\/comments\/mf1f6n\/i\_was\_missing\_a\_key\_piece\_of\_the\_puzzel\_this\_is\/](https://preview.redd.it/lv9abfh5khq61.png?width=512&format=png&auto=webp&s=880216e77c3e4ed201376c85ab0ef959e7114594)
 
 At first, these seemed to be random and perceived to be bugs but as more and more continue to show up, it has become evident that they are not, in fact, bugs at all.
 
@@ -35,13 +36,13 @@ At first, these seemed to be random and perceived to be bugs but as more and mor
 
 As these are respectively very detailed and long posts, I want to get this discrepancy out of the way first. The discrepancy is that the first post links these massive volume “glitches” in a way that shows that **SI is** **>2000%.** This number is calculated based on an additive value of the massive volumes seen as of late. See math below:
 
-[ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mewkf8\/thesis\_si\_is\_upwards\_of\_2000\_gme\_is\_a\_100\/](https://preview.redd.it/ns4u5pn8khq61.png?width=771&format=png&auto=webp&s=80dd870f7dc69a8781a4a33b5a9cac5a467d866a)
+![ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mewkf8\/thesis\_si\_is\_upwards\_of\_2000\_gme\_is\_a\_100\/](https://preview.redd.it/ns4u5pn8khq61.png?width=771&format=png&auto=webp&s=80dd870f7dc69a8781a4a33b5a9cac5a467d866a)
 
 **The discrepancy between this reasoning and the second post below:**
 
 &#x200B;
 
-[https:\/\/www.reddit.com\/r\/GME\/comments\/mf1f6n\/i\_was\_missing\_a\_key\_piece\_of\_the\_puzzel\_this\_is\/](https://preview.redd.it/8pgnhcadkhq61.png?width=512&format=png&auto=webp&s=e55156e4baa3897415cef0fa4864cdb78e83d203)
+![https:\/\/www.reddit.com\/r\/GME\/comments\/mf1f6n\/i\_was\_missing\_a\_key\_piece\_of\_the\_puzzel\_this\_is\/](https://preview.redd.it/8pgnhcadkhq61.png?width=512&format=png&auto=webp&s=e55156e4baa3897415cef0fa4864cdb78e83d203)
 
 After thoroughly reviewing both posts, I believe **it is quite evident that using the additive values of the massive volume bugs to determine SI is an improbable take at what they truly imply.**
 
@@ -52,9 +53,9 @@ It is only after going through the second post that I think we have finally been
 
 **Smooth Brain Instructions -** **Begin by reading OP2's description right below the chart, assess his Strategy Breakdown, then visualize the steps accordingly as you visualize the graph\*\***
 
-[https:\/\/preview.redd.it\/6n0h8ueutzp61.png?width=512&format=png&auto=webp&s=d3d65fc35389b7aa3a2e95428940d6e77005fa75](https://preview.redd.it/4ww9iojjkhq61.png?width=512&format=png&auto=webp&s=55df4ea4b3f1d1b4a32a452fe71b44b6962b1910)
+![https:\/\/preview.redd.it\/6n0h8ueutzp61.png?width=512&format=png&auto=webp&s=d3d65fc35389b7aa3a2e95428940d6e77005fa75](https://preview.redd.it/4ww9iojjkhq61.png?width=512&format=png&auto=webp&s=55df4ea4b3f1d1b4a32a452fe71b44b6962b1910)
 
-[https:\/\/preview.redd.it\/oh0valmwtzp61.png?width=684&format=png&auto=webp&s=7aa711aa2cde53c6bc5015d258764685ef8c2b1e](https://preview.redd.it/bpb5r56ymhq61.png?width=684&format=png&auto=webp&s=a9bd275c5cf14f3e8519992357ec9dacaa1a96e8)
+![https:\/\/preview.redd.it\/oh0valmwtzp61.png?width=684&format=png&auto=webp&s=7aa711aa2cde53c6bc5015d258764685ef8c2b1e](https://preview.redd.it/bpb5r56ymhq61.png?width=684&format=png&auto=webp&s=a9bd275c5cf14f3e8519992357ec9dacaa1a96e8)
 
 I’ll reiterate this again before providing some basic insight as to what’s going on, **read through his post yourself to help make more sense of it. This shit is some complex wrinkle-brained analysis and mine is still as smooth as your wife’s boyfriend’s pipe-laying skills.**
 
@@ -65,7 +66,7 @@ I’ll reiterate this again before providing some basic insight as to what’s g
 * To make more sense of this, here’s the definition of Wash sales via Investopedia - “*A* ***wash sale*** *occurs when an investor sells or trades a security at a loss, and within 30 days before or after, buys another one that is substantially similar. It also happens if the individual sells the security at a loss, and their spouse or a company they control buys substantially similar security within 30 days.”* [*https://www.investopedia.com/terms/w/washsalerule.asp#:\~:text=A%20wash%20sale%20occurs%20when,similar%20security%20within%2030%20days*](https://www.investopedia.com/terms/w/washsalerule.asp#:~:text=A%20wash%20sale%20occurs%20when,similar%20security%20within%2030%20days)*.*
 * As for the **reasoning behind this?** Here’s the following portion of **OP2’s DD**:
 
-[https:\/\/preview.redd.it\/hkh4f1uztzp61.png?width=512&format=png&auto=webp&s=2bca0f6bdfe64fba236b463f217e49815291ab8c](https://preview.redd.it/6cd7253fmhq61.png?width=512&format=png&auto=webp&s=673762e4214b1126a4485364a4d6e0e18c0a4e85)
+![https:\/\/preview.redd.it\/hkh4f1uztzp61.png?width=512&format=png&auto=webp&s=2bca0f6bdfe64fba236b463f217e49815291ab8c](https://preview.redd.it/6cd7253fmhq61.png?width=512&format=png&auto=webp&s=673762e4214b1126a4485364a4d6e0e18c0a4e85)
 
 I am simplifying the concepts that probably should not be simplified here, so if the above sounds like a full-autismo kid wrote it, you’re probably right and should **read post 2.** I will now tie it back to **post 1.**
 
@@ -73,25 +74,25 @@ Remember how I said that if meshed together *accordingly*, **both posts function
 
 When brought together, their posts form the **proper fusion:**
 
-[\(yeah. I'm GT Gogeta biased @ me\)](https://preview.redd.it/kvhhlmpxphq61.jpg?width=500&format=pjpg&auto=webp&s=b05209ce8f2cd902df499cab1b40aecf83507056)
+![\(yeah. I'm GT Gogeta biased @ me\)](https://preview.redd.it/kvhhlmpxphq61.jpg?width=500&format=pjpg&auto=webp&s=b05209ce8f2cd902df499cab1b40aecf83507056)
 
 On with the **juice** then,
 
 Though his SI data is a bit of a stretch, I **do believe that OP1 made some solid points in the remainder of his analysis. One of which helps clarify this process even more so when properly integrated into the data provided by OP2.** See below:
 
-[ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mewkf8\/thesis\_si\_is\_upwards\_of\_2000\_gme\_is\_a\_100\/](https://preview.redd.it/n1owzd7jlhq61.png?width=775&format=png&auto=webp&s=0c6042f66a6c9b2b45a288b0c0e5d87de7d594b6)
+![ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mewkf8\/thesis\_si\_is\_upwards\_of\_2000\_gme\_is\_a\_100\/](https://preview.redd.it/n1owzd7jlhq61.png?width=775&format=png&auto=webp&s=0c6042f66a6c9b2b45a288b0c0e5d87de7d594b6)
 
 To extrapolate on this illustration, I’ll just leave it to OP1 as he makes far more sense of this.
 
 &#x200B;
 
-[https:\/\/preview.redd.it\/2fme96c6uzp61.png?width=735&format=png&auto=webp&s=c86825a18691d45653b7b54e4913026e5ab0cc50](https://preview.redd.it/i2fpt9rslhq61.png?width=735&format=png&auto=webp&s=1a87d725c67843a15d2e1862654f934e7583153f)
+![https:\/\/preview.redd.it\/2fme96c6uzp61.png?width=735&format=png&auto=webp&s=c86825a18691d45653b7b54e4913026e5ab0cc50](https://preview.redd.it/i2fpt9rslhq61.png?width=735&format=png&auto=webp&s=1a87d725c67843a15d2e1862654f934e7583153f)
 
 Taking this information into account with OP2’s explanation, these ***wash sales*** **become much clearer in their execution (OP1) and function (OP2).** But in case this doesn’t fully convince you that this is what the collective short-dicks at Citadel are up to, here’s some evidence of their fuckery in the past,
 
 &#x200B;
 
-[ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mcn6gc\/this\_isnt\_the\_first\_time\_citadel\_has\_been\_caught\/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://preview.redd.it/g4barwvvlhq61.png?width=249&format=png&auto=webp&s=ff18b1ac52efef47c84268b5dd7a364105b8af7e)
+![ Source: https:\/\/www.reddit.com\/r\/GME\/comments\/mcn6gc\/this\_isnt\_the\_first\_time\_citadel\_has\_been\_caught\/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://preview.redd.it/g4barwvvlhq61.png?width=249&format=png&auto=webp&s=ff18b1ac52efef47c84268b5dd7a364105b8af7e)
 
 **Sound oddly familiar? Maybe you know of some other stocks dealing with similar fuckery?**
 

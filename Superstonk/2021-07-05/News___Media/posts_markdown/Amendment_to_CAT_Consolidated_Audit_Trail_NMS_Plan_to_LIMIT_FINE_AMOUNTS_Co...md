@@ -1,5 +1,6 @@
-# Author: Freadom6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/](https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/)
+#Title: Amendment to CAT (Consolidated Audit Trail) NMS Plan to LIMIT FINE AMOUNTS: Comment Period Re-Opened to 9/3/2021
+#Author: Freadom6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/](https://www.reddit.com/r/Superstonk/comments/oej5pi/amendment_to_cat_consolidated_audit_trail_nms/)
 
 
 Obligatory: Not financial advice. \[Insert wity comment about tiny pea brain and 4th of July hangover here\].
@@ -22,7 +23,7 @@ Here's a quote from Lucy Komisar's work [The Gamestop Mess Exposes the Naked Sho
 
 On 1/6/2021, The Operating Committee of CAT containing all of the major players (Major exchanges/FINRA), have added an amendment to this plan to limit their exposure in the event they continue to make “mistakes” with their filings. On 6/25/2021, the SEC announced an extension to continue reviewing the amendment before approving or denying:
 
-[  ](https://preview.redd.it/sx7ambuj5h971.jpg?width=851&format=pjpg&auto=webp&s=a634f07f67f3b79fa95a0902904752fc2aeef717)
+![  ](https://preview.redd.it/sx7ambuj5h971.jpg?width=851&format=pjpg&auto=webp&s=a634f07f67f3b79fa95a0902904752fc2aeef717)
 
 [https://www.sec.gov/rules/sro/nms/2021/34-92266.pdf](https://www.sec.gov/rules/sro/nms/2021/34-92266.pdf)
 
@@ -36,7 +37,7 @@ So, let's just say, a company is found to have fraudulently (naked shorted) shor
 
 The comment period for this amendment is open until 9/3/2021. If you have any thoughts on the amendment and would like to voice your concerns to the SEC, let me help you:
 
-1. Go here: ![https://www.sec.gov/rules/sro/nms.htm#4-698](https://www.sec.gov/rules/sro/nms.htm#4-698)
+1. Go here: [https://www.sec.gov/rules/sro/nms.htm#4-698](https://www.sec.gov/rules/sro/nms.htm#4-698)
 2. Submit Comments on amendment with this button:
 
 &#x200B;

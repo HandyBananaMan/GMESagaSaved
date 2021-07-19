@@ -1,5 +1,6 @@
-# Author: Trickre1678
-# Post URL: [https://www.reddit.com/r/GME/comments/mf5w2e/i_will_try_to_explain_why_hedge_funds_are_getting/](https://www.reddit.com/r/GME/comments/mf5w2e/i_will_try_to_explain_why_hedge_funds_are_getting/)
+#Title: I will try to explain why hedge funds are getting margin called and why this may be just the beginning.
+#Author: Trickre1678
+#Post URL: [https://www.reddit.com/r/GME/comments/mf5w2e/i_will_try_to_explain_why_hedge_funds_are_getting/](https://www.reddit.com/r/GME/comments/mf5w2e/i_will_try_to_explain_why_hedge_funds_are_getting/)
 
 
 I’ll try to explain why I think investment firms and hedge funds are getting margin called and what this means after March 31st.

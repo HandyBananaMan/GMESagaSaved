@@ -1,5 +1,6 @@
-# Author: Captain_Omar
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/)
+#Title: JPMorgan to Sell $13 Billion of Bonds in Largest Bank Sale Ever
+#Author: Captain_Omar
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/](https://www.reddit.com/r/Superstonk/comments/mrm243/jpmorgan_to_sell_13_billion_of_bonds_in_largest/)
 
 
 It's happening!
@@ -22,7 +23,7 @@ edit: for some context check out the following links:
 
 [https://www.reddit.com/r/GME/comments/mgucv2/the\_everything\_short/](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)
 
-![https://www.reddit.com/r/GME/comments/mhw44x/wondering\_where\_tf\_the\_sec\_is\_the\_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
+[https://www.reddit.com/r/GME/comments/mhw44x/wondering\_where\_tf\_the\_sec\_is\_the\_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
 
 TL:DR from the second link above:
 

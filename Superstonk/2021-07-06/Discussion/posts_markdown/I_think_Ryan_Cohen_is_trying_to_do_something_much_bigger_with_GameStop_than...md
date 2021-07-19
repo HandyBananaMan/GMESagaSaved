@@ -1,5 +1,6 @@
-# Author: jamesroland17
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oevlbb/i_think_ryan_cohen_is_trying_to_do_something_much/](https://www.reddit.com/r/Superstonk/comments/oevlbb/i_think_ryan_cohen_is_trying_to_do_something_much/)
+#Title: I think Ryan Cohen is trying to do something much bigger with GameStop than we had thought
+#Author: jamesroland17
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oevlbb/i_think_ryan_cohen_is_trying_to_do_something_much/](https://www.reddit.com/r/Superstonk/comments/oevlbb/i_think_ryan_cohen_is_trying_to_do_something_much/)
 
 
 Here’s why I think Ryan Cohen is about to take on Amazon with GameStop.

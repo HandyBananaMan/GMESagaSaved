@@ -1,5 +1,6 @@
-# Author: Toni_KT
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/](https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/)
+#Title: Misinformation regarding the release of SR-NSCC-2021-002
+#Author: Toni_KT
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/](https://www.reddit.com/r/Superstonk/comments/o3brbu/misinformation_regarding_the_release_of/)
 
 
 Im seeing quite a few comments today regarding the hopefully upcoming release of SR-NSCC-2021-002.Those comments state that **SR-NSCC-2021-002** will be active on Monday June 21 2021 which isn´t true.
@@ -34,7 +35,7 @@ EDIT 3: Some users ( u/rendered_lurker, u/BLOODFILLEDROOM for example) brought t
 
 Thanks to user u/OkGas9917 who is in contact with people at the DTCC id like to provide this link
 
-![https://www.reddit.com/r/Superstonk/comments/o1x5gn/continuing\_conversations\_with\_johnjacqueline\_from/](https://www.reddit.com/r/Superstonk/comments/o1x5gn/continuing_conversations_with_johnjacqueline_from/)
+[https://www.reddit.com/r/Superstonk/comments/o1x5gn/continuing\_conversations\_with\_johnjacqueline\_from/](https://www.reddit.com/r/Superstonk/comments/o1x5gn/continuing_conversations_with_johnjacqueline_from/)
 
 If you look at the last screenshot the Vice President of the DTCC says quote:
 

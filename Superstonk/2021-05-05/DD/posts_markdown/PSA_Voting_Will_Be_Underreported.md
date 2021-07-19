@@ -1,5 +1,6 @@
-# Author: greysweatseveryday
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/](https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/)
+#Title: PSA: Voting Will Be Underreported
+#Author: greysweatseveryday
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/](https://www.reddit.com/r/Superstonk/comments/n5k6ql/psa_voting_will_be_underreported/)
 
 
 JUNE 3, 2021 EDIT: This has been reposted since the AGM is coming up quickly. Some apes have pointed out that the AMA with Wes Christian confirmed this further, that some over-voting may be corrected prior to those votes reaching Computershare/GME. 
@@ -48,7 +49,7 @@ Here's my perspective on it from my earlier post: While over-voting does not dir
 
 ***Vote your shares, you diamond handed apes, to fulfill your role as a shareholder of the company.***
 
-For more information on the inspector of records and the voting process, you can see my post here: ![https://www.reddit.com/r/Superstonk/comments/mya2a8/dd\_heres\_what\_happens\_if\_there\_is\_over\_voting/](https://www.reddit.com/r/Superstonk/comments/mya2a8/dd_heres_what_happens_if_there_is_over_voting/)
+For more information on the inspector of records and the voting process, you can see my post here: [https://www.reddit.com/r/Superstonk/comments/mya2a8/dd\_heres\_what\_happens\_if\_there\_is\_over\_voting/](https://www.reddit.com/r/Superstonk/comments/mya2a8/dd_heres_what_happens_if_there_is_over_voting/)
 
 *Still not legal or financial advice.*
 

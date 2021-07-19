@@ -1,12 +1,13 @@
-# Author: Relatable_Yak
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/](https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/)
+#Title: PSA: FUD seeds are being planted right now. Shills are creating duplicate social media accounts mimicking real apes to likely trick people with FUD at a time when emotion may have taken over
+#Author: Relatable_Yak
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/](https://www.reddit.com/r/Superstonk/comments/o5avjk/psa_fud_seeds_are_being_planted_right_now_shills/)
 
 
 You may not be on social media, but this isn’t just about you. This is about all apes that are, too. It is important for seasoned apes to recognize these occurrences for the ones that may totally miss this. If enough people are scared and paperhand, I’m worried it could damage the MOASS. Please correct me if I am wrong here. (Edited this blurb in post-posting)
 
-[Example](https://i.imgur.com/ZryrMkY.jpg)
+![Example](https://i.imgur.com/ZryrMkY.jpg)
 
-![Another example ](https://twitter.com/roguethelegacy/status/1407062626849509377?s=21)
+[Another example ](https://twitter.com/roguethelegacy/status/1407062626849509377?s=21)
 
 We are moving into the FUD endgame. The seeds are being planted right in the open right now. We need to be vigilant and exterminate this before it gets out of control. 
 

@@ -1,5 +1,6 @@
-# Author: WhyArePipesSoEvil
-# Post URL: [https://www.reddit.com/r/GME/comments/mvpzvn/house_of_cards_confirmation_proof_of_dtcc/](https://www.reddit.com/r/GME/comments/mvpzvn/house_of_cards_confirmation_proof_of_dtcc/)
+#Title: House of Cards Confirmation: Proof of DTCC directly manipulating Wikipedia in defense of naked short selling lecture "Anti-Social Media: user-generated discontent" has been taken down from YouTube.
+#Author: WhyArePipesSoEvil
+#Post URL: [https://www.reddit.com/r/GME/comments/mvpzvn/house_of_cards_confirmation_proof_of_dtcc/](https://www.reddit.com/r/GME/comments/mvpzvn/house_of_cards_confirmation_proof_of_dtcc/)
 
 
 Original has been taken private [https://www.youtube.com/watch?v=VmxbxolNbTg](https://www.youtube.com/watch?v=VmxbxolNbTg)
@@ -26,4 +27,4 @@ Split into 5 parts for the 15 minute video limit.
 
 &#x200B;
 
-![Part 5](https://reddit.com/link/mvpzvn/video/9jnch20ohlu61/player)
+[Part 5](https://reddit.com/link/mvpzvn/video/9jnch20ohlu61/player)

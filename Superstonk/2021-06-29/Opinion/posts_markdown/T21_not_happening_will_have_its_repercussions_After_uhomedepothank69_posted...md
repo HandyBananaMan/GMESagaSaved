@@ -1,5 +1,6 @@
-# Author: harrymurkin
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa6d52/t21_not_happening_will_have_its_repercussions/](https://www.reddit.com/r/Superstonk/comments/oa6d52/t21_not_happening_will_have_its_repercussions/)
+#Title: T21 not happening will have its repercussions. After u/homedepothank69 posted, creating last friday's expectation, I reckon they got wreckless
+#Author: harrymurkin
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa6d52/t21_not_happening_will_have_its_repercussions/](https://www.reddit.com/r/Superstonk/comments/oa6d52/t21_not_happening_will_have_its_repercussions/)
 
 
 Did ally'all read the DD since the dawn of time and see the signs and the ragtag team of wrinkly-brained quants gathered to help hank prove or disprove the FTD cycle theory? 

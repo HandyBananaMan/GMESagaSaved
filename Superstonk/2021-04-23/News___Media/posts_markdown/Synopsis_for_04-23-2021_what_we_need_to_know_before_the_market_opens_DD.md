@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwrt08/synopsis_for_04232021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mwrt08/synopsis_for_04232021_what_we_need_to_know_before/)
+#Title: Synopsis for 04-23-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwrt08/synopsis_for_04232021_what_we_need_to_know_before/](https://www.reddit.com/r/Superstonk/comments/mwrt08/synopsis_for_04232021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -102,7 +103,7 @@ Meaning that 26.7 is the float (give or take).
 
 &#x200B;
 
-[Ever leveled a character to max stats? Rc did](https://preview.redd.it/53o6pu416wu61.png?width=640&format=png&auto=webp&s=1412855090bf823d2fb5ac621abc68890402606a)
+![Ever leveled a character to max stats? Rc did](https://preview.redd.it/53o6pu416wu61.png?width=640&format=png&auto=webp&s=1412855090bf823d2fb5ac621abc68890402606a)
 
 Now they brought in an external party to overview who would be best placed where, and who would be the best at certain positions.
 
@@ -231,7 +232,7 @@ backups:
 
 [https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
-![https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
+[https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
 And I'll be posting updates as they happen here:
 

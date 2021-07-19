@@ -1,5 +1,6 @@
-# Author: isnisse
-# Post URL: [https://www.reddit.com/r/GME/comments/mcts6p/they_arent_shorting_gme_via_dark_poolsthey_buy/](https://www.reddit.com/r/GME/comments/mcts6p/they_arent_shorting_gme_via_dark_poolsthey_buy/)
+#Title: "They aren't shorting GME via dark pools...they buy shares from dark pools to avoid creating buy pressure, and then either deliver them to close out FTDs or sell them on the market to create sell pressure. This is another form of market manipulation."
+#Author: isnisse
+#Post URL: [https://www.reddit.com/r/GME/comments/mcts6p/they_arent_shorting_gme_via_dark_poolsthey_buy/](https://www.reddit.com/r/GME/comments/mcts6p/they_arent_shorting_gme_via_dark_poolsthey_buy/)
 
 
 Not My post! Its a comment from u/they_have_no_bullets 

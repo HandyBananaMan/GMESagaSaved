@@ -1,10 +1,11 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/)
+#Title: January 22, February 19, March 5, April 16. The only options available in early 2020 and why tomorrow might be ignition.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/)
 
 
 Edit: RIParoni. I'm currently rethinking this. You will notice that bursts almost always happen on wednesdays. I still believe there is a pattern and we should be able to pin down a date for another gamma burst. 
 
-I know, I know. Dates. Whatever. ![Stay with me for a moment please.](https://www.youtube.com/watch?v=OuP2dOxhELQ) I have high confidence that we are going to see a repeat of February 24th, and the MOASS will start tomorrow. If not - that's ok. You can at least feel like a kid on Christmas Eve.
+I know, I know. Dates. Whatever. [Stay with me for a moment please.](https://www.youtube.com/watch?v=OuP2dOxhELQ) I have high confidence that we are going to see a repeat of February 24th, and the MOASS will start tomorrow. If not - that's ok. You can at least feel like a kid on Christmas Eve.
 
 I'm going to be watching about 2 hours before market close. That's around the time February 24 spike ignited.
 

@@ -1,5 +1,6 @@
-# Author: AcedVector
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nr9fo9/uatobitt_confirmed_something_massive_that_i_feel/](https://www.reddit.com/r/Superstonk/comments/nr9fo9/uatobitt_confirmed_something_massive_that_i_feel/)
+#Title: u/atobitt confirmed something MASSIVE that I feel needs more attention, and how I'm interpreting it for the future of Citadel
+#Author: AcedVector
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nr9fo9/uatobitt_confirmed_something_massive_that_i_feel/](https://www.reddit.com/r/Superstonk/comments/nr9fo9/uatobitt_confirmed_something_massive_that_i_feel/)
 
 
 

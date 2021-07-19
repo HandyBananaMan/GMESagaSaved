@@ -1,5 +1,6 @@
-# Author: AndyLee168
-# Post URL: [https://www.reddit.com/r/GME/comments/n354r5/wow_gamestop_had_221229_ftd_days_ftds_are/](https://www.reddit.com/r/GME/comments/n354r5/wow_gamestop_had_221229_ftd_days_ftds_are/)
+#Title: Wow! Gamestop had 221/229 FTD days! FTDs are supposed to be the exception, but clearly getting exploited. SEC, begging you, pls pls pls Do your job for the people please!
+#Author: AndyLee168
+#Post URL: [https://www.reddit.com/r/GME/comments/n354r5/wow_gamestop_had_221229_ftd_days_ftds_are/](https://www.reddit.com/r/GME/comments/n354r5/wow_gamestop_had_221229_ftd_days_ftds_are/)
 
 
 have every respect for SEC! With all due respect to SEC, this is just a humble reminder of FTD issue.

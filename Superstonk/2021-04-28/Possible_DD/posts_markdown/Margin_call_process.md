@@ -1,5 +1,6 @@
-# Author: 0nlyGoesUp
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0c5wn/margin_call_process/](https://www.reddit.com/r/Superstonk/comments/n0c5wn/margin_call_process/)
+#Title: Margin call process
+#Author: 0nlyGoesUp
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0c5wn/margin_call_process/](https://www.reddit.com/r/Superstonk/comments/n0c5wn/margin_call_process/)
 
 
 For those who are confused about how margin calls work and what to expect during the MOASS.

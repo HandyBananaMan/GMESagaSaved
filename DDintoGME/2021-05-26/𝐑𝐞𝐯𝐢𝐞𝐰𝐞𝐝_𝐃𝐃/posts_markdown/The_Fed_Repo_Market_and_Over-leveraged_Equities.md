@@ -1,5 +1,6 @@
-# Author: leisure_rules
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/](https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/)
+#Title: The Fed, Repo Market, and Over-leveraged Equities
+#Author: leisure_rules
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/](https://www.reddit.com/r/DDintoGME/comments/nlbsgy/the_fed_repo_market_and_overleveraged_equities/)
 
 
 With massive QE over the past year and recent spikes in Overnight Reverse Repurchase Agreements, how does it play into the GME short squeeze?
@@ -197,6 +198,6 @@ For those visiting, or revisiting, I just wanted to post some updates stemming f
    * while I do still think that institutions are shorting treasury bonds, I still hold to the assumption that it's a hedge more so than a large-scale affront on the bond market.
    * From what I understand, we have to raise the debt ceiling by July 31st or risk those T-Bonds defaulting. I feel like that’s why the Congressman references the crisis in 2011 at the beginning.
    * This article kinda describes what this congressman is worried about
-      * ![https://www.google.com/amp/s/www.wsj.com/amp/articles/u-s-treasury-evaluating-various-scenarios-for-debt-limit-reinstatement-11620217869](https://www.google.com/amp/s/www.wsj.com/amp/articles/u-s-treasury-evaluating-various-scenarios-for-debt-limit-reinstatement-11620217869)
+      * [https://www.google.com/amp/s/www.wsj.com/amp/articles/u-s-treasury-evaluating-various-scenarios-for-debt-limit-reinstatement-11620217869](https://www.google.com/amp/s/www.wsj.com/amp/articles/u-s-treasury-evaluating-various-scenarios-for-debt-limit-reinstatement-11620217869)
 
 Thanks again for reading, again - be kind to one another

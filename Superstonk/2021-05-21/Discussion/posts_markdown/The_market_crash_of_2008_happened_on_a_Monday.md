@@ -1,5 +1,6 @@
-# Author: Theceilingis_theroof
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ni37fn/the_market_crash_of_2008_happened_on_a_monday/](https://www.reddit.com/r/Superstonk/comments/ni37fn/the_market_crash_of_2008_happened_on_a_monday/)
+#Title: The market crash of 2008 happened on a Monday
+#Author: Theceilingis_theroof
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ni37fn/the_market_crash_of_2008_happened_on_a_monday/](https://www.reddit.com/r/Superstonk/comments/ni37fn/the_market_crash_of_2008_happened_on_a_monday/)
 
 
 I just remembered reading an article about how the market crash back in 2008 happened on a Monday.  It was Monday September 29, 2008.  

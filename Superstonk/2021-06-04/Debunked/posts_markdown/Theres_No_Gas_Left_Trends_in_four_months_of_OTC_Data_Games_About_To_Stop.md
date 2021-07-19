@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/](https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/)
+#Title: There's No Gas Left. Trends in four months of OTC Data. Game's About To Stop.
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/](https://www.reddit.com/r/Superstonk/comments/nsebey/theres_no_gas_left_trends_in_four_months_of_otc/)
 
 
 **MAJOR EDIT: This post has been debunked. After a significant amount of discussion with several other users (including u/dlauer) an assumption I made about a section of the data has made both this post and a previous DD (the FINRA Veil) I worked on yesterday incorrect. It sucks to be publicly wrong when both of these posts got a lot of attention, but when you do DD's sometimes you will be wrong. I am changing this now as I am (unfortunately) not able to reconcile that error. I made the post, I should have done a better job of checking the data. Rather than letting this sit overnight as I am about to head to sleep, I would implore a moderator to switch the flair and have put in a request to have this done. I will leave the post up as it is though, as failure helps us apes improve.**
@@ -29,11 +30,11 @@ Given how the price since the beginning of May has been steadily rising, I have 
 
 OTC trading declined significantly over this period for GME. Not much to argue about here. Volume went DOWN.
 
-[OTC Volume Decreased](https://imgur.com/t1spZyq)
+![OTC Volume Decreased](https://imgur.com/t1spZyq)
 
 Total GME volume decreased during this period as well.
 
-[GME Volume Decreased](https://imgur.com/R9Sz1pn)
+![GME Volume Decreased](https://imgur.com/R9Sz1pn)
 
 But we knew that. **But that massive price dump in February down to $40 likely came from a combination of paper hands and OTC shares being moved back onto the exchange.** 
 
@@ -45,7 +46,7 @@ Either they are directly moving this off-exchange volume back to the exchange, o
 
 OBV was fairly stable or skewed towards the buying side for most of this period as well – retail wants to buy, not sell – so who is selling the shares.
 
-[OBV Graph](https://imgur.com/o5RGFNj)
+![OBV Graph](https://imgur.com/o5RGFNj)
 
 [Another OBV Graph \(different value but similar pattern\)](https://www.tradingview.com/chart/k4aKLAVi/)
 
@@ -61,32 +62,32 @@ Their gas seems to be getting short and they are likely juggling shares around b
 
 They also need to trade smaller amounts since they have less shares to work with as detailed in Anomaly #1. You can click on each of these for the graph.
 
-* [Barclays Capital Inc.](https://imgur.com/eqT0msS) (relatively stable)
-* [BIDS Trading L.P](https://imgur.com/3ntTuDb) (decreased, major spikes at beginning and end of March)
-* [Citadel Securities LLC](https://imgur.com/IyqY3m9) (decreased significantly at end of January)
-* [Coda Markets Inc.](https://imgur.com/Qj0Jgqt) (decreased significantly)
-* [Comhar Capital](https://imgur.com/EmIJHGr) (decreased significantly)
-* [Credit Suisse Securities](https://imgur.com/vLtenYl) (decreased significantly)
-* [Deutsche Bank Securities](https://imgur.com/n9sWIQF) (relatively stable, small decrease)
-* [De Minimis Firms](https://imgur.com/oA1ZRaA) (there are smaller firms and the data is aggregated together, likely family offices included here) (decreased significantly, but this is aggregate data so take it with a grain of salt)
-* [EBX LLC](https://imgur.com/crBoL4r) (relatively stable)
-* [G1 Execution Services](https://imgur.com/9Zg8WDo) (as a note, they are subsidiary of Susquehanna) (decreased significantly)
-* [Goldman Sachs and Co. LLC](https://imgur.com/ZU2N67d) (relatively stable)
-* [Interactive Brokers LLC](https://imgur.com/QBrSvny) (decreased significantly)
-* [Instinet LLC](https://imgur.com/ynKfizk) (relatively stable)
-* [Intelligent Cross LLC](https://imgur.com/9hGPudD) (decreased significantly)
-* [ITG INC.](https://imgur.com/oiYWCfc) (relatively stable)
-* [Jane Street Capital LLC](https://imgur.com/EJ305Dx) (decreased significantly)
-* J.P Morgan Securities – [Graph 1](https://imgur.com/C6voxIo), [Graph 2](https://imgur.com/26nshVh) (two graphs, one was stable with spikes in late February and mid April, the other decreased)
-* [Merrill Lynch, Pierce, Fenner, and Smith Incorporated](https://imgur.com/hTIDadf) (relatively stable)
-* Morgan Stanley and Co. – [Graph 1](https://imgur.com/ru8siph), [Graph 2](https://imgur.com/FW4up0H) (two graphs, small decrease, but somewhat stable)
-* [National Financial Services](https://imgur.com/6XTfqrA) (1 share trades consistently)
-* [Robinhood Financial](https://imgur.com/y74l2Nw) (1 share trades consistently)
-* [Stockpile Investments Inc.](https://imgur.com/xK9h5yq) (very low volume, but increased, out at end of March)
-* [Two Sigma Securities LLC](https://imgur.com/QJH467W) (decreased significantly)
-* UBS Securities LLC – [Graph 1](https://imgur.com/1wfxsch), [Graph 2](https://imgur.com/vE9hb4n) (two graphs, decreased significantly)
-* [USTK Ustocktrade Securities](https://imgur.com/26zMEB4) (relatively stable with spike at beginning of February)
-* Virtu Americas LLC – [Graph 1](https://imgur.com/6nDMv48), [Graph 2](https://imgur.com/BvPSa3t) (two graphs, both decreased)
+* ![Barclays Capital Inc.](https://imgur.com/eqT0msS) (relatively stable)
+* ![BIDS Trading L.P](https://imgur.com/3ntTuDb) (decreased, major spikes at beginning and end of March)
+* ![Citadel Securities LLC](https://imgur.com/IyqY3m9) (decreased significantly at end of January)
+* ![Coda Markets Inc.](https://imgur.com/Qj0Jgqt) (decreased significantly)
+* ![Comhar Capital](https://imgur.com/EmIJHGr) (decreased significantly)
+* ![Credit Suisse Securities](https://imgur.com/vLtenYl) (decreased significantly)
+* ![Deutsche Bank Securities](https://imgur.com/n9sWIQF) (relatively stable, small decrease)
+* ![De Minimis Firms](https://imgur.com/oA1ZRaA) (there are smaller firms and the data is aggregated together, likely family offices included here) (decreased significantly, but this is aggregate data so take it with a grain of salt)
+* ![EBX LLC](https://imgur.com/crBoL4r) (relatively stable)
+* ![G1 Execution Services](https://imgur.com/9Zg8WDo) (as a note, they are subsidiary of Susquehanna) (decreased significantly)
+* ![Goldman Sachs and Co. LLC](https://imgur.com/ZU2N67d) (relatively stable)
+* ![Interactive Brokers LLC](https://imgur.com/QBrSvny) (decreased significantly)
+* ![Instinet LLC](https://imgur.com/ynKfizk) (relatively stable)
+* ![Intelligent Cross LLC](https://imgur.com/9hGPudD) (decreased significantly)
+* ![ITG INC.](https://imgur.com/oiYWCfc) (relatively stable)
+* ![Jane Street Capital LLC](https://imgur.com/EJ305Dx) (decreased significantly)
+* J.P Morgan Securities – ![Graph 1](https://imgur.com/C6voxIo), ![Graph 2](https://imgur.com/26nshVh) (two graphs, one was stable with spikes in late February and mid April, the other decreased)
+* ![Merrill Lynch, Pierce, Fenner, and Smith Incorporated](https://imgur.com/hTIDadf) (relatively stable)
+* Morgan Stanley and Co. – ![Graph 1](https://imgur.com/ru8siph), ![Graph 2](https://imgur.com/FW4up0H) (two graphs, small decrease, but somewhat stable)
+* ![National Financial Services](https://imgur.com/6XTfqrA) (1 share trades consistently)
+* ![Robinhood Financial](https://imgur.com/y74l2Nw) (1 share trades consistently)
+* ![Stockpile Investments Inc.](https://imgur.com/xK9h5yq) (very low volume, but increased, out at end of March)
+* ![Two Sigma Securities LLC](https://imgur.com/QJH467W) (decreased significantly)
+* UBS Securities LLC – ![Graph 1](https://imgur.com/1wfxsch), ![Graph 2](https://imgur.com/vE9hb4n) (two graphs, decreased significantly)
+* ![USTK Ustocktrade Securities](https://imgur.com/26zMEB4) (relatively stable with spike at beginning of February)
+* Virtu Americas LLC – ![Graph 1](https://imgur.com/6nDMv48), ![Graph 2](https://imgur.com/BvPSa3t) (two graphs, both decreased)
 * ![Wolverine Securities](https://imgur.com/CCVp4xh) (trade size plummeted, then was low, out at end of March)
 
 **Conclusion:** Groups with stable trade size in current market conditions are in less trouble than the ones that decreased their trade size. I’ve highlighted the firms at the end that seem to be in more trouble than others.

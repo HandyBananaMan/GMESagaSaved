@@ -1,5 +1,6 @@
-# Author: JuxtaposeLife
-# Post URL: [https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/](https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/)
+#Title: DD: Gamestop Price Analysis -- still a Deep Fucking Value under $550
+#Author: JuxtaposeLife
+#Post URL: [https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/](https://www.reddit.com/r/GME/comments/mhchj9/dd_gamestop_price_analysis_still_a_deep_fucking/)
 
 
 **TLDR;** Gamestop is undervalued considering its online sales numbers and ecommerce focus - analysts haven’t caught up yet from Q4 Earning report; add on top of that all the hiring of Amazon execs and VPs and Gamestop Valuation is about to explode upward. On its current trajectory $550-750 a share is a reasonable (my worthless opinion) price point, with or without the squeeze. Not only is buying GME a play on the squeeze, but also a deep fucking value bet. 
@@ -12,7 +13,7 @@ Fair warning, you'll develop a wrinkle of two if you proceed... but don’t worr
 
 Let’s start with the ugly before we get to the good stuff: **Operating Loss**. An operating loss occurs when a company's operating expenses exceed gross profits. Gamestop has had a fairly significant operating loss for many years now (peaking in 2018), as it faced the challenges all brick and mortar stores faced: theft of sales to the e-commerce giants -- the convenience of online downloads and pre-ordering on the internet. In the last two years, this loss has come down significantly. And what impresses me most about Gamestop is their cash on hand (currently $635M). Very few stores with operating losses have that level of cash. Most are in debt, and require the sale of shares to float by during rough times.
 
-[Gamestop Operating Loss per Year](https://preview.redd.it/4e698fbbneq61.png?width=1579&format=png&auto=webp&s=0a7de50dda8fa00983cdec3285c1025a9ad83ca5)
+![Gamestop Operating Loss per Year](https://preview.redd.it/4e698fbbneq61.png?width=1579&format=png&auto=webp&s=0a7de50dda8fa00983cdec3285c1025a9ad83ca5)
 
 And this is the key misstep the HF’s made in shorting Gamestop. There has been a stigma out there about brick and mortar stores going under (Toys R Us, and Sears as example)...  feeding frenzy, blood in the water you get the point. Sharks (HFs) have been getting more and more bold (reckless) in their targeting. Gamestop was the wrong target, for a very specific reason. It leases its stores. By comparison, consider Walmart needing to reduce stores, or Target. They’ve built massive buildings with parking lots to house their very specific store needs (huge upfront costs, sunk), and they rent (or own) these buildings under much different contracts. They can’t easily get up and leave one of their stores. Ask yourself, how would Walmart leave a store? Who would buy it? How could the investor renting to them turn it into something else? Maybe a city might want it to build an expo center. On the cheap. WalMarts costs are priced into this (it’s expensive). They can’t move as easily. Point being, Gamestop doesn’t owe anything to shut down a store, it simply stops paying its lease and moves all it’s stuff out. They rent strip mall locations and mall storefronts. This allows them to liquidate stores and downsize with little to no sunk costs. They can also reposition themselves much more efficiently. This is why we see this fast turn-around in Operating Loss last year (a major component of Operating Loss is storefront costs for Brick and Mortar). News of Gamestop closing stores isn’t bad news. Remember that. The media will try to sell it as such.
 
@@ -26,13 +27,13 @@ It is clear to everyone, at this point, that Gamestop is looking to move a large
 
 &#x200B;
 
-[Gamestop: Online Sales Growth by Year](https://preview.redd.it/rsvos30pneq61.png?width=1530&format=png&auto=webp&s=2edf09bb5bd5d1de86557b06c28b938c4f3dcbd7)
+![Gamestop: Online Sales Growth by Year](https://preview.redd.it/rsvos30pneq61.png?width=1530&format=png&auto=webp&s=2edf09bb5bd5d1de86557b06c28b938c4f3dcbd7)
 
 So what caused this? Ryan fucking Cohen. And he’s just getting started. When we see the sales in 2021 first quarter compared to 2020 the trajectory of this massive shift will become even more apparent. We have only to look at Chewy’s online sales figures under Cohen to project what’s to come for Gamestop in the next few years.
 
 &#x200B;
 
-[Chewy Sales Growth by Year](https://preview.redd.it/apbjgr8vneq61.png?width=1533&format=png&auto=webp&s=3e98cdc7f1b8503d4c5bfca053d4aebf058885a0)
+![Chewy Sales Growth by Year](https://preview.redd.it/apbjgr8vneq61.png?width=1533&format=png&auto=webp&s=3e98cdc7f1b8503d4c5bfca053d4aebf058885a0)
 
 That’s right, Chewy grew from $205M in online sales to $3,500M (17x) in 3 years under Cohen. 
 
@@ -48,7 +49,7 @@ If you ever wondered where Amazon makes all it’s money. Look no further than t
 
 &#x200B;
 
-[2020 Online Electronics & Media Sales - Gamestop is orange](https://preview.redd.it/3vjkfrk2oeq61.png?width=1526&format=png&auto=webp&s=eda46d2f6f87934f9bb93e606a414bfefd5cbb8c)
+![2020 Online Electronics & Media Sales - Gamestop is orange](https://preview.redd.it/3vjkfrk2oeq61.png?width=1526&format=png&auto=webp&s=eda46d2f6f87934f9bb93e606a414bfefd5cbb8c)
 
 Amazon itself projects this space to grow 34.2% in the next two years. Meaning roughly $40B in new Electronics and Media sales will emerge in the online space for these companies to grow into over the next two years. Might be a good time to mention that Gamestop listed GPUs for sale on it’s website earlier this week, and they sold out instantly. With Gamestop doing $580M in online sales in 2020, and most of that coming in Q4 it is safe to say Gamestop is positioned to grab onto this space in a way that will shake Amazon’s growth models for the next two years. Have you noticed how Ryan Cohen is leaning on his Amazon (and Chewy) relationships to pull talent to go after this space. If chewy is any indication, I wouldn’t bet against him eventually grabbing a large percentage, even the majority, of it. 
 
@@ -64,7 +65,7 @@ Gamestop ($12B Market Cap) and Roblox ($36B Market Cap)… we’re all gamers he
 
 &#x200B;
 
-[Price-Sales Ratio 2020](https://preview.redd.it/3a9vif4boeq61.png?width=1532&format=png&auto=webp&s=ebf42d3b1e53472d42a4d8e70350c9ba91e5cfc3)
+![Price-Sales Ratio 2020](https://preview.redd.it/3a9vif4boeq61.png?width=1532&format=png&auto=webp&s=ebf42d3b1e53472d42a4d8e70350c9ba91e5cfc3)
 
 So let’s get a better comparison to the other giants. Apple, Amazon Chewy, Target, Walmart and Best Buy. I’ve chosen these because they represent a wide range of Brick and Mortar vs ecommerce. Price to Sales Ratio is calculated by dividing the company's market capitalization by the revenue, this gives a general sense of how much the market is going to value a company relative to its revenue. Value players (like Buffet) are often looking for the lowest P/S ratio to enter for a fundamentally solid company, and companies with a lot of growth potential and hype can grow their P/S ratio (similar to P/E ratio) to levels that are very high. One thing you’ll notice in this chart. The more online a company is, the higher it’s P/S ratio can go. This directly impacts the Valuation of the company. While companies that may be online, but still rely most heavily on their stores, have a lower P/S because they have a lot of overhead costs. You’ll notice Gamestop in the middle, because it’s transitioning to ecommerce. Last year you would have seen Gamestop with a P/S similar to Best Buy and Walmart. The reason this is important is because as Gamestop grows it’s online business, it’s P/S is likely to rise, and moving to the Amazon level would represent a share price of roughly double what we currently see for Gamestop, while not changing anything about it fundamentals. 
 

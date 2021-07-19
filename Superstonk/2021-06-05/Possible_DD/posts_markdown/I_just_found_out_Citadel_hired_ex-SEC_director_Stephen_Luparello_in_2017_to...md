@@ -1,5 +1,6 @@
-# Author: JessasaurusJames
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/](https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/)
+#Title: I just found out Citadel hired ex-SEC director Stephen Luparello in 2017 to be their General Counsel... and then they did all this shit... with an ex-SEC director counseling them. 😂😂😂🚀🚀🚀🚀🚀🚀🚀🌙
+#Author: JessasaurusJames
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/](https://www.reddit.com/r/Superstonk/comments/nsoiq7/i_just_found_out_citadel_hired_exsec_director/)
 
 
 I found [this article from 2017 about Citadel hiring an ex-SEC director](https://www.wsj.com/articles/citadel-securities-hires-ex-sec-director-luparello-as-general-counsel-1491323109).
@@ -27,6 +28,6 @@ What a scam.
 
 A lot of you probably already know this wrinkle to the corruption saga, and I'm made of tinfoil and expect this shit, but something about this caught me off guard tonight. I don't know why this particular piece of information made me stop and think, *no. This shit is no longer acceptable.*
 
-Regardless, you have a job to do Gary Gensler. We can all see hedgies ![fucking with meme stocks other than GameStop to scare retail from riding the GameStop MOASS rocket as high as it should go when we start to moon with an orchestrated pump and dump](https://www.marketwatch.com/story/interactive-brokers-founder-says-problem-with-amc-entertainment-memes-peoplewill-lose-a-very-substantial-amount-of-money-11622836260). So ether do your fucking job, give us 5 exaggerated blinks in a row at your next press conference if you're worried big money will kill you if you do your job, or gtfo. We caught hedgies fair and square. Through all the FUD, all the learning, and time that has passed getting to this point, remember that apes. We caught a bunch of motherfuckers in a bad yolo meant to destroy something we care about.
+Regardless, you have a job to do Gary Gensler. We can all see hedgies [fucking with meme stocks other than GameStop to scare retail from riding the GameStop MOASS rocket as high as it should go when we start to moon with an orchestrated pump and dump](https://www.marketwatch.com/story/interactive-brokers-founder-says-problem-with-amc-entertainment-memes-peoplewill-lose-a-very-substantial-amount-of-money-11622836260). So ether do your fucking job, give us 5 exaggerated blinks in a row at your next press conference if you're worried big money will kill you if you do your job, or gtfo. We caught hedgies fair and square. Through all the FUD, all the learning, and time that has passed getting to this point, remember that apes. We caught a bunch of motherfuckers in a bad yolo meant to destroy something we care about.
 
 Rockets 🚀🚀🚀🚀🚀🚀🚀🚀🚀🌙

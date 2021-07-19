@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/)
+#Title: Live Charting for 3/25/2021, predicting the day's price action in detail with Warden. The calm before the storm.
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mcy6kh/live_charting_for_3252021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.
@@ -18,7 +19,7 @@ This is not financial nor investment advice. These are ideas and opinions for in
 
 The answer to today's general movement was predicted in edit 8. I spotted large Call skew at 150 strike (unbalanced Call volume), then I saw a massive chain being setup between 150 and 180. I knew something was up and that this would fly.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/17qneu71e8p61.png?width=2493&format=png&auto=webp&s=a2806806c3d3734b2cd62e207cae6c36d16281be)
+![data courtesy of optionsonar.com](https://preview.redd.it/17qneu71e8p61.png?width=2493&format=png&auto=webp&s=a2806806c3d3734b2cd62e207cae6c36d16281be)
 
 **Edit 47 4:05PM:**
 
@@ -52,7 +53,7 @@ We have a safety net at 155. This is a battle around 185 and if we can push thro
 
 Shorts are getting annihilated once again in the options market. Those measly Puts were bought in an attempt to control the tsunami that is pushing the price up.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/vxk727t628p61.png?width=2509&format=png&auto=webp&s=cead28681b1b44b7574000390df25856af1ae524)
+![data courtesy of optionsonar.com](https://preview.redd.it/vxk727t628p61.png?width=2509&format=png&auto=webp&s=cead28681b1b44b7574000390df25856af1ae524)
 
 **Edit 39 2:56PM:**
 
@@ -126,7 +127,7 @@ https://preview.redd.it/s53e9cp887p61.png?width=2140&format=png&auto=webp&s=a1ad
 
 # I'm living cohosting with Andrew Mo Money rn.
 
-![https://youtu.be/ir8o13svhXw](https://youtu.be/ir8o13svhXw)
+[https://youtu.be/ir8o13svhXw](https://youtu.be/ir8o13svhXw)
 
 Will still update the doc
 

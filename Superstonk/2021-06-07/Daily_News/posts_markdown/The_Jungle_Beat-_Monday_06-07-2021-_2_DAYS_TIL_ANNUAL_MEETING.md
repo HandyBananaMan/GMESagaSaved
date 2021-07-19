@@ -1,12 +1,13 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/](https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/)
+#Title: The Jungle Beat- Monday 06-07-2021- 2 DAYS TIL ANNUAL MEETING!!
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/](https://www.reddit.com/r/Superstonk/comments/numi3i/the_jungle_beat_monday_06072021_2_days_til_annual/)
 
 
 *This piece will be posted at 4:20 pm NYSE time every trading day!*
 
 &#x200B;
 
-[u\/bye\_triangle u\/pinkcatsonacid u\/leaglese u\/catto\_del\_fatto u\/bradduck\_flyntmoore](https://preview.redd.it/mtvbjuy58w371.png?width=1426&format=png&auto=webp&s=6404a58bd9224e9bd618154d769cb1b81cf284bc)
+![u\/bye\_triangle u\/pinkcatsonacid u\/leaglese u\/catto\_del\_fatto u\/bradduck\_flyntmoore](https://preview.redd.it/mtvbjuy58w371.png?width=1426&format=png&auto=webp&s=6404a58bd9224e9bd618154d769cb1b81cf284bc)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -36,7 +37,7 @@ Volume: 5.84 MM
 
 &#x200B;
 
-[possible, it is](https://preview.redd.it/1wjxlzkmfw371.jpg?width=810&format=pjpg&auto=webp&s=3eb1a1c63416e8d119956b53a4ba70123ad746f6)
+![possible, it is](https://preview.redd.it/1wjxlzkmfw371.jpg?width=810&format=pjpg&auto=webp&s=3eb1a1c63416e8d119956b53a4ba70123ad746f6)
 
 &#x200B;
 
@@ -122,7 +123,7 @@ Alright apes! The time has come for Gamestop's Annual Shareholder Meeting! Remem
 
 &#x200B;
 
-[June me @ January me- LOOK AT US](https://preview.redd.it/bu4ej2wc9w371.jpg?width=1080&format=pjpg&auto=webp&s=3e54ca20d7bc0c63f8a73d2ca5895037442bbaa6)
+![June me @ January me- LOOK AT US](https://preview.redd.it/bu4ej2wc9w371.jpg?width=1080&format=pjpg&auto=webp&s=3e54ca20d7bc0c63f8a73d2ca5895037442bbaa6)
 
 &#x200B;
 
@@ -272,7 +273,7 @@ Leag
 
 The appreciation is very much appreciated, but our work is never truly done. More so than ever, the responsibility to maintain a legendary sub rests in the hands of ordinary Apes.
 
-[SATORI dev, 2021 colourised](https://preview.redd.it/8rqw59r8mc371.jpg?width=400&format=pjpg&auto=webp&s=9f08a77aa72df51118e7201aa262d492f4908eee)
+![SATORI dev, 2021 colourised](https://preview.redd.it/8rqw59r8mc371.jpg?width=400&format=pjpg&auto=webp&s=9f08a77aa72df51118e7201aa262d492f4908eee)
 
 The shills are *absolutely furious* about what we've been up to the past week. It's as if they [need this allegedly-impossible creation of ours shut down post-haste](https://www.reddit.com/r/Superstonk/comments/nrx4pu/onslaught_of_antisatori_fud_gives_me_hope/) \- desperation is in the air, and it tells me everything I need to know.
 
@@ -350,7 +351,7 @@ We have received a surge in reports of Superstonk users’ accounts getting comp
 
 Please refer to [this post](https://www.reddit.com/r/Superstonk/comments/nojpde/best_security_practices_for_protecting_self_and/) for a comprehensive rundown on account security, in addition to other useful advice on the matter. Also, friendly reminder not to click any [suspicious links.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[No hax for you, Kenny](https://preview.redd.it/h5x51vmaig371.jpg?width=400&format=pjpg&auto=webp&s=eb452a9bc53ad97bc8e2b68e3003e0c85a77ef3d)
+![No hax for you, Kenny](https://preview.redd.it/h5x51vmaig371.jpg?width=400&format=pjpg&auto=webp&s=eb452a9bc53ad97bc8e2b68e3003e0c85a77ef3d)
 
 TA;DR
 
@@ -384,11 +385,11 @@ Pink here. From the whole mod team, Wes Christian, we are so proud of you and we
 
 &#x200B;
 
-[Wes Christian on FOX discussing NSS- photo cred u\/BENshakalaka !](https://preview.redd.it/ermcx4xadw371.png?width=1157&format=png&auto=webp&s=c5ad96ee879a58bf52f151d4173c6f81de9d5820)
+![Wes Christian on FOX discussing NSS- photo cred u\/BENshakalaka !](https://preview.redd.it/ermcx4xadw371.png?width=1157&format=png&auto=webp&s=c5ad96ee879a58bf52f151d4173c6f81de9d5820)
 
 &#x200B;
 
-[photo cred u\/Benshakalaka](https://preview.redd.it/h231aepffw371.png?width=1149&format=png&auto=webp&s=48c56b232462b66f059e1dec80750a1aed71790a)
+![photo cred u\/Benshakalaka](https://preview.redd.it/h231aepffw371.png?width=1149&format=png&auto=webp&s=48c56b232462b66f059e1dec80750a1aed71790a)
 
 &#x200B;
 
@@ -416,7 +417,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

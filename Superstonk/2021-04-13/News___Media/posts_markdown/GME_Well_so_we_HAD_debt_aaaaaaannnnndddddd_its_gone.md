@@ -1,5 +1,6 @@
-# Author: ElevationAV
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/](https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/)
+#Title: GME: Well, so we HAD debt, aaaaaaannnnndddddd it's gone....
+#Author: ElevationAV
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/](https://www.reddit.com/r/Superstonk/comments/mqancw/gme_well_so_we_had_debt_aaaaaaannnnndddddd_its/)
 
 
 So you know that $216 million in debt that GME had on the books on it's 10k?  
@@ -16,7 +17,7 @@ $400+ million in cash, no debt, entire new digital friendly leadership transform
 
 
 Domo Capital outlines what they'll be allowed to do now that the debt is gone;  
-![https://twitter.com/DOMOCAPITAL/status/1382064324248735744](https://twitter.com/DOMOCAPITAL/status/1382064324248735744)  
+[https://twitter.com/DOMOCAPITAL/status/1382064324248735744](https://twitter.com/DOMOCAPITAL/status/1382064324248735744)  
 
 
 Bullish as fuck....I mean, uh, yeah I'd short that terrible company /r/sarcasm

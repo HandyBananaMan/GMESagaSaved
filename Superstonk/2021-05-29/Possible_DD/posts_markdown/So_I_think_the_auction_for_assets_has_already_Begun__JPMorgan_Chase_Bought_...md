@@ -1,5 +1,6 @@
-# Author: WrongByTechnicality
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/](https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/)
+#Title: So, I think the auction for assets has already Begun & JPMorgan Chase Bought the 25th largest Bank in the US.
+#Author: WrongByTechnicality
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/](https://www.reddit.com/r/Superstonk/comments/nnl5r4/so_i_think_the_auction_for_assets_has_already/)
 
 
 Okay, so this is my first attempt at doing a possible DD and this is what I’ve come up with.
@@ -21,11 +22,11 @@ Tl;dr: I think Jp Morgan Chase bought Key Bank in the Defaulting Members auction
 
 **Edit 2: Added [this link](https://www.key.com/kpb/our-insights/articles/kq-gamestops-rise.jsp)  from u/TrimleyJeweled that shows KeyBank talking about GameStop destroying the Market.**
 
-**Edit 3: Added in a screenshot of the [email from Robinhood ](https://m.imgur.com/gallery/NSHIQqX)**
+**Edit 3: Added in a screenshot of the ![email from Robinhood ](https://m.imgur.com/gallery/NSHIQqX)**
 
 **Edit 4: To all the people giving downvotes. Leave a comment as to why. Help us all grow some wrinkles.**
 
-**Edit 5: It was brought to my attention by u/adventuresofjt that the ![KeyBank](https://www.reddit.com/r/Superstonk/comments/nntwpt/jp_morgan_bought_key_bank_at_auction_hearing/?utm_source=share&amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_name=iossmf)  in his area was boarded up 2 days ago on the 27th of May (the same day Robinhood sent out the email). Some are still open like the one in downtown Denver, but I’m wondering has anyone else noticed any other KeyBanks closing shop?**
+**Edit 5: It was brought to my attention by u/adventuresofjt that the [KeyBank](https://www.reddit.com/r/Superstonk/comments/nntwpt/jp_morgan_bought_key_bank_at_auction_hearing/?utm_source=share&amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;amp;amp;amp;amp;utm_name=iossmf)  in his area was boarded up 2 days ago on the 27th of May (the same day Robinhood sent out the email). Some are still open like the one in downtown Denver, but I’m wondering has anyone else noticed any other KeyBanks closing shop?**
 
 **Edit 6: Another interesting bit of information found by u/Flokki_the_Monk “Interesting that KeyBank just appointed a new General Counsel and Corporate Secretary just this past Monday.”**
 

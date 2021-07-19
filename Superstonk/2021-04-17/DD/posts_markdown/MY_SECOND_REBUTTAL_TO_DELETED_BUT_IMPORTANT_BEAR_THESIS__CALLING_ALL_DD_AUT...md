@@ -1,5 +1,6 @@
-# Author: tehdankdood
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/](https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/)
+#Title: MY (SECOND) REBUTTAL TO DELETED BUT IMPORTANT BEAR THESIS + CALLING ALL DD AUTHORS WHO HAVE BEEN TRACKING SUSPICIOUS DEEP ITM CALLS AND OTHER OPTIONS-RELATED STRATEGIES POTENTIALLY BEING USED TO MASK SHORT POSITIONS WITH FTD RESETS, PART 1
+#Author: tehdankdood
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/](https://www.reddit.com/r/Superstonk/comments/msm49u/my_second_rebuttal_to_deleted_but_important_bear/)
 
 
 # PART 1: FIRST CONTACT
@@ -55,7 +56,7 @@ His response ([https://www.reddit.com/r/Superstonk/comments/mr5mot/the\_invisibl
 
 "ok im back. So I took a long good at the dd and its very evident of deep itm shorts hiding. Its not even a debate that their hiding however the OP seems to think there are 44million shorts but his post shows the contrary
 
-[https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f](https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f)
+![https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f](https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f)
 
 Lets take the entire deep itm calls as an FTD reset for easier argument.
 
@@ -98,7 +99,7 @@ Now, before I dive into my second rebuttal, I want to clarify something. This pa
 
 One final point before I move on to my rebuttal of his response: I know his posts have a history of being deleted on pertinent subreddits, but I'm unsure as to whether the mods of a specific subreddit have the power to facilitate the actual deletion of his account, as some of the more conspiratorially-minded users on r/gme_meltdown—where u/solarpanel200 was a known figure—have suggested. I don't know how plausible this is, I don't know if only the user can delete their own account, and I don't why he did delete his (if that is the case). Maybe he was a shill, maybe he was getting a lot of unfounded hate (see the picture below), maybe he gave up on what he saw as a lost cause, I'm not sure. Either way, I thought I'd mention it. Mods, please feel free to clarify.
 
-[Not only is this rude, it's the weak-minded equivalent of plugging your ears and going \\"la la la\\" when someone makes an argument in favor of something you don't want to hear. Learn how to take opposing perspectives into serious consideration—as this can genuinely help develop more nuanced and well-informed opinions—instead of lashing out at anyone who doesn't blindly agree with you and\/or feed your confirmation bias.](https://preview.redd.it/dl1j2z58not61.png?width=1186&format=png&auto=webp&s=b4e01d202b86524a921ec27079a255cf02d41f87)
+![Not only is this rude, it's the weak-minded equivalent of plugging your ears and going \\"la la la\\" when someone makes an argument in favor of something you don't want to hear. Learn how to take opposing perspectives into serious consideration—as this can genuinely help develop more nuanced and well-informed opinions—instead of lashing out at anyone who doesn't blindly agree with you and\/or feed your confirmation bias.](https://preview.redd.it/dl1j2z58not61.png?width=1186&format=png&auto=webp&s=b4e01d202b86524a921ec27079a255cf02d41f87)
 
 # PART 3: ONCE MORE UNTO THE BREACH
 
@@ -124,9 +125,9 @@ Let’s look at these graphs from the first pertinent DD (once again, at [https:
 
 &#x200B;
 
-[I'll imaginatively refer to this as \\"the first graph\\" for the rest of this post](https://preview.redd.it/60dz3hivnot61.png?width=1279&format=png&auto=webp&s=9720a06237d2dce08d4cf74c3fcf34d1e74572df)
+![I'll imaginatively refer to this as \\"the first graph\\" for the rest of this post](https://preview.redd.it/60dz3hivnot61.png?width=1279&format=png&auto=webp&s=9720a06237d2dce08d4cf74c3fcf34d1e74572df)
 
-[Hmm, I wonder what I'll call this one](https://preview.redd.it/5md8z7t0oot61.png?width=1416&format=png&auto=webp&s=baeac3e2617ed16e52c93d04bd43ec3c266b5ea1)
+![Hmm, I wonder what I'll call this one](https://preview.redd.it/5md8z7t0oot61.png?width=1416&format=png&auto=webp&s=baeac3e2617ed16e52c93d04bd43ec3c266b5ea1)
 
 So, at the end of the period of time (February 4) when 36.6 million FTDs (let's round down to 36) had been reset (i.e. 72% of the shorts were obscured, **not** **closed**), the number of shorts as reported by S3 was a bit less than 20 million (eyeballing the second graph, I’d say 18m, but let’s use 15m as an overly conservative estimate), or 30% of the float (using 15m). Remember, the 72% isn’t accounted for, so the true number of shorts at this point is 51 million (the reported 15 added to the obscured 36), or 102% of the float.
 
@@ -138,6 +139,6 @@ which gives us an overestimate of 39% of the float being covered—and yields a 
 
 It is worth noting that although the graph shows two separate blocks of FTD resets (6.6m for the first, 30m for the second), there is no two week gap between these blocks (as there is between these blocks and the next block, and between the next block and the beginning of the third block) which has led me to characterize the entire January 1 to February 4 period as one FTD reset cycle, the first of three. You sort of do this as well when you use the full 36 million figure (as you should) instead of using 6.6m and 30m separately.
 
-Edit: Part 2 is at ![https://www.reddit.com/r/Superstonk/comments/msm7fo/my\_second\_rebuttal\_to\_deleted\_but\_important\_bear/](https://www.reddit.com/r/Superstonk/comments/msm7fo/my_second_rebuttal_to_deleted_but_important_bear/)
+Edit: Part 2 is at [https://www.reddit.com/r/Superstonk/comments/msm7fo/my\_second\_rebuttal\_to\_deleted\_but\_important\_bear/](https://www.reddit.com/r/Superstonk/comments/msm7fo/my_second_rebuttal_to_deleted_but_important_bear/)
 
 Edit 2: If you don't want to read the whole thing, I'd say you should at least read sections 4.1 and 5.2

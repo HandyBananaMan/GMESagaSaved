@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mcuzj1/synopsis_for_03252021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mcuzj1/synopsis_for_03252021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-25-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mcuzj1/synopsis_for_03252021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mcuzj1/synopsis_for_03252021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -82,7 +83,7 @@ But right now it seems that the price is not reflective of it's worth, meaning t
 
 Now are OTC pools the same as "Dark" pools?No
 
-[pic of OTC](https://preview.redd.it/3tbu7i51a5p61.png?width=960&format=png&auto=webp&s=476c42391dd1cbc8700d7fb43bc4b758430a3a04)
+![pic of OTC](https://preview.redd.it/3tbu7i51a5p61.png?width=960&format=png&auto=webp&s=476c42391dd1cbc8700d7fb43bc4b758430a3a04)
 
 I'll let a smarter person explain this :
 
@@ -313,7 +314,7 @@ For all you smooth brains who recently transferred to new brokers, contact them 
 
 Edit 2:
 
-![https://www.reddit.com/r/GME/comments/mcxko4/the\_lid\_has\_been\_blown\_the\_fuck\_open\_credit\_to/](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/)
+[https://www.reddit.com/r/GME/comments/mcxko4/the\_lid\_has\_been\_blown\_the\_fuck\_open\_credit\_to/](https://www.reddit.com/r/GME/comments/mcxko4/the_lid_has_been_blown_the_fuck_open_credit_to/)
 
 some wrinklebrain did a great run down on whats happening and what's going on with ETF's and Russel 2000
 

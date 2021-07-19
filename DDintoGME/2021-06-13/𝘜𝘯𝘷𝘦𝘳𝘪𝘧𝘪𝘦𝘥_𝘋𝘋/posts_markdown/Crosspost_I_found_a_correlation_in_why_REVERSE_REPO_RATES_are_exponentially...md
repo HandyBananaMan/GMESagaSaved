@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/](https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/)
+#Title: Crosspost: I found a correlation in why REVERSE REPO RATES are exponentially growing, Gamestop & crypto and its in NSCC 802 DD 👨‍🔬
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/](https://www.reddit.com/r/DDintoGME/comments/nz4rdb/crosspost_i_found_a_correlation_in_why_reverse/)
 
 
 [Original Post](https://www.reddit.com/r/Superstonk/duplicates/nz0fsz/i_found_a_correlation_in_why_reverse_repo_rates/) by [u/con101smd](https://www.reddit.com/user/con101smd/)
@@ -44,7 +45,7 @@ UNI SWAP [https://coinmarketcap.com/currencies/uniswap/](https://coinmarketcap.c
 
 &#x200B;
 
-[I see what your at Kenny, I se ya buddy](https://preview.redd.it/mz9lv63fa3571.png?width=2000&format=png&auto=webp&s=cf3ea64b3e5868c248e353946f47fba447775e3e)
+![I see what your at Kenny, I se ya buddy](https://preview.redd.it/mz9lv63fa3571.png?width=2000&format=png&auto=webp&s=cf3ea64b3e5868c248e353946f47fba447775e3e)
 
 When the filing: SR-NSCC-2021-802 was posted I can remember at the time hearing grumblings about crypto not being accepted as liquidity on balance books but had never considered its ramifications.
 
@@ -54,11 +55,11 @@ on page 14 of SR-NSCC-2021-802 April 29, 2021
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/nscc-an\/2021\/34-91720.pdf PG 14](https://preview.redd.it/l3pret1ja3571.png?width=746&format=png&auto=webp&s=b39af8cc3ecf9eb7f345361b7e32d01c80aa1516)
+![https:\/\/www.sec.gov\/rules\/sro\/nscc-an\/2021\/34-91720.pdf PG 14](https://preview.redd.it/l3pret1ja3571.png?width=746&format=png&auto=webp&s=b39af8cc3ecf9eb7f345361b7e32d01c80aa1516)
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/nscc-an\/2021\/34-91720.pdf PG 14](https://preview.redd.it/2x4s87lla3571.png?width=742&format=png&auto=webp&s=e680e2032b8e7df0cba38b7fb9c6967fb383fb24)
+![https:\/\/www.sec.gov\/rules\/sro\/nscc-an\/2021\/34-91720.pdf PG 14](https://preview.redd.it/2x4s87lla3571.png?width=742&format=png&auto=webp&s=e680e2032b8e7df0cba38b7fb9c6967fb383fb24)
 
 So in the NSCC filing it defines that the only acceptable form of 'qualifying liquid resources' to include, among other things, lines of credit **without** material adverse change provisions, that are readily available and convertible into cash.
 
@@ -72,11 +73,11 @@ Well have a look at this.........
 
 &#x200B;
 
-[https:\/\/coinmarketcap.com\/currencies\/pancakeswap\/](https://preview.redd.it/c9jkymspa3571.png?width=975&format=png&auto=webp&s=f99e208b989b0a36997a8ed29d507a3a785ac843)
+![https:\/\/coinmarketcap.com\/currencies\/pancakeswap\/](https://preview.redd.it/c9jkymspa3571.png?width=975&format=png&auto=webp&s=f99e208b989b0a36997a8ed29d507a3a785ac843)
 
 &#x200B;
 
-[https:\/\/coinmarketcap.com\/currencies\/uniswap\/](https://preview.redd.it/321azgesa3571.png?width=963&format=png&auto=webp&s=ea6f684d9b07e7c117e3494defeb6ddc42005b77)
+![https:\/\/coinmarketcap.com\/currencies\/uniswap\/](https://preview.redd.it/321azgesa3571.png?width=963&format=png&auto=webp&s=ea6f684d9b07e7c117e3494defeb6ddc42005b77)
 
 **you can see volume increases similar to short sold volume on GME : every spike in volume relates to a movement in GME**
 

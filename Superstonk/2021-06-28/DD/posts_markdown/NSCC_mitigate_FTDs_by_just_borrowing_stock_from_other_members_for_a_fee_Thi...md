@@ -1,5 +1,6 @@
-# Author: bosshax
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/](https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/)
+#Title: NSCC mitigate FTDs by just 'borrowing' stock from other members for a fee. This is why they are incentivized to NOT force buy-in FTDs. FTDs are a profit center!
+#Author: bosshax
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/](https://www.reddit.com/r/Superstonk/comments/o9r43h/nscc_mitigate_ftds_by_just_borrowing_stock_from/)
 
 
 [**RegSHO** was implemented in 2004 by the SEC to address abusive short selling](https://www.sec.gov/investor/pubs/regsho.htm)
@@ -118,7 +119,7 @@ So the Collateral Loan Program is where we are now... But what's next?
 [SFT](https://www.dtcc.com/clearing-services/equities-clearing-services/sft) is just a NEW version of the Stock Borrow Program!  
 " The Depository Trust & Clearing Corporation (DTCC), through its equities clearing subsidiary, National Securities Clearing Corporation (NSCC)**, is constructing a new model for central clearing of equities lending and borrowing transactions**, leveraging its clearing capabilities, risk management and efficient infrastructure to provide the market with a bilaterally cleared **stock loan service**. The new Securities Financing Transaction (SFT) Clearing service is expected to launch in 2021, pending regulatory approval. "
 
-![Here's the fact sheet.](https://www.dtcc.com/-/media/Files/Downloads/Clearing-Services/SFT-Clearing-Service-Fact-Sheet.pdf)  
+[Here's the fact sheet.](https://www.dtcc.com/-/media/Files/Downloads/Clearing-Services/SFT-Clearing-Service-Fact-Sheet.pdf)  
 
 
 **TLDR:**  

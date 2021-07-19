@@ -1,5 +1,6 @@
-# Author: NothingNeo
-# Post URL: [https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/](https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/)
+#Title: Why I think the story about Archegos is BS and why the media uses it to distract us from GME
+#Author: NothingNeo
+#Post URL: [https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/](https://www.reddit.com/r/GME/comments/mezvsz/why_i_think_the_story_about_archegos_is_bs_and/)
 
 
 First: This is not financial advice and is intended for entertainment only. I do hold a long position in GME.
@@ -18,7 +19,7 @@ Long story short: You can't liquidate something that you don't possess. As a mat
 
 &#x200B;
 
-[For more detail see the link bellow of the original post](https://preview.redd.it/6jbru8dl7rp61.png?width=973&format=png&auto=webp&s=cc5df7d635539d0eb98de19349a3fe43dabd0dc3)
+![For more detail see the link bellow of the original post](https://preview.redd.it/6jbru8dl7rp61.png?width=973&format=png&auto=webp&s=cc5df7d635539d0eb98de19349a3fe43dabd0dc3)
 
 &#x200B;
 
@@ -36,7 +37,7 @@ Blackrock is known to have the third largest long position in GME.[https://news.
 
 &#x200B;
 
-The media (CNBC for the biggest part) are pretty much the c\*cksuckers of Citadel.![https://bettermarkets.com/newsroom/cnbc-posts-edited-video-house-financial-services-gamestop-hearing-deleting-dennis-kelleher](https://bettermarkets.com/newsroom/cnbc-posts-edited-video-house-financial-services-gamestop-hearing-deleting-dennis-kelleher)So they try to blame this drop on some shady HF that was rebranded like 2 or 3 years ago and that no one has ever heard of before. Now this HF is supposed to have had billions in long positions which none of them were disclosed to the SEC? Press X for doubt my dude. They don't want attention of this being recognised as a possible preperation for war of big whales against Citadel. So they push this margin call bs and try to motivate us to buy those shares that were sold-off.
+The media (CNBC for the biggest part) are pretty much the c\*cksuckers of Citadel.[https://bettermarkets.com/newsroom/cnbc-posts-edited-video-house-financial-services-gamestop-hearing-deleting-dennis-kelleher](https://bettermarkets.com/newsroom/cnbc-posts-edited-video-house-financial-services-gamestop-hearing-deleting-dennis-kelleher)So they try to blame this drop on some shady HF that was rebranded like 2 or 3 years ago and that no one has ever heard of before. Now this HF is supposed to have had billions in long positions which none of them were disclosed to the SEC? Press X for doubt my dude. They don't want attention of this being recognised as a possible preperation for war of big whales against Citadel. So they push this margin call bs and try to motivate us to buy those shares that were sold-off.
 
 Those are my thoughts on the current situation. Pls let me know what you guys think.
 

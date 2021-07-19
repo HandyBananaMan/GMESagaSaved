@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/)
+#Title: The Fed is pinned into a corner from the 2008 can-kick utilizing QE, and the economic effects of COVID. They are stuck battling a collateral crisis AND a liquidity crisis. The Fed is currently fudging the numbers of treasuries to hide a collateral shortage and to try to prop the economy up.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/)
 
 
 &#x200B;
@@ -18,7 +19,7 @@ It gives me peace of mind, because I do not watch for specific dates around GME 
 
 **Even if the GME play is wrong in your eyes, it is good to understand how the economy could crash harder than it did in 2008. I don't care if you don't believe in GME. I care about you, and don't want YOU to be hurt.**
 
-[Me IRL - Maybe - Sometime](https://preview.redd.it/pscahu4lxk671.png?width=727&format=png&auto=webp&s=2e5ee31eaef0413023a8cc4be07087210081554c)
+![Me IRL - Maybe - Sometime](https://preview.redd.it/pscahu4lxk671.png?width=727&format=png&auto=webp&s=2e5ee31eaef0413023a8cc4be07087210081554c)
 
 # 1. Before We Begin: An Overview of Repo And Reverse Repo
 
@@ -37,7 +38,7 @@ Below is a diagram I made which might make this more clear. It is between the Fe
 
 **Edit: I have a typo here. QT and QE should be flipped in the diagram. QT is permanent extraction of liquidity. QE is permanent extraction of collateral.**
 
-[Repo and QT Versus Reverse Repo and QE](https://preview.redd.it/ukum83cf2k671.png?width=1920&format=png&auto=webp&s=99d4c612df82013aed06ff2b22621500a80071cf)
+![Repo and QT Versus Reverse Repo and QE](https://preview.redd.it/ukum83cf2k671.png?width=1920&format=png&auto=webp&s=99d4c612df82013aed06ff2b22621500a80071cf)
 
 &#x200B;
 
@@ -63,7 +64,7 @@ If you're still scratching your head on what QE is, here's the Wikipedia overvie
 
 Check out the effects of QE on the Dow Jones Industrial Average ($DJI):
 
-[DJI Before And After Quantitative Easing Begins](https://preview.redd.it/cktjwttu8k671.png?width=1528&format=png&auto=webp&s=4e23f2e54e6204d8c56323d7e6bc8772c1a02535)
+![DJI Before And After Quantitative Easing Begins](https://preview.redd.it/cktjwttu8k671.png?width=1528&format=png&auto=webp&s=4e23f2e54e6204d8c56323d7e6bc8772c1a02535)
 
 It was helping the economy reverse the death spiral, and it has been pumping the economy ever since the introduction of QE. The problem is, of course, that collateral would continue to be sucked out of the market through the mechanics of QE.
 
@@ -85,7 +86,7 @@ This is a chart showing the Fed's "Total Assets", where collateral is an asset f
 
 So... what happened in September of 2019? **Why did QT fail after a decade of QE**?
 
-[https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/x6pfomz2ck671.png?width=893&format=png&auto=webp&s=1c667c5cc3dbc94de50944208f107aac1dd72d73)
+![https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/x6pfomz2ck671.png?width=893&format=png&auto=webp&s=1c667c5cc3dbc94de50944208f107aac1dd72d73)
 
 # 
 
@@ -93,7 +94,7 @@ So... what happened in September of 2019? **Why did QT fail after a decade of QE
 
 Despite pumping in a bunch of liquidity into the market through QE, the economy was **still lacking liquidity**. When the Fed started to reverse QE through QT, the liquidity in the market tightened and thus the negative effects on the economy began to surface in September of 2019.
 
-[https:\/\/blog.pimco.com\/en\/2019\/09\/repo-rate-spike-a-tail-of-low-liquidity](https://preview.redd.it/9sd32gdxdk671.png?width=630&format=png&auto=webp&s=0ee9d749419bc2b6c0a84682f6f9b0b886ceca93)
+![https:\/\/blog.pimco.com\/en\/2019\/09\/repo-rate-spike-a-tail-of-low-liquidity](https://preview.redd.it/9sd32gdxdk671.png?width=630&format=png&auto=webp&s=0ee9d749419bc2b6c0a84682f6f9b0b886ceca93)
 
 **Less than a year after starting QT**, a liquidity crisis emerged on September 15th, 2019, when the repo rate spiked up severely. This was a clash of events surrounding the lower liquidity issue.
 
@@ -117,7 +118,7 @@ This was most likely due to continued large leverage + derivatives abuse stemmin
 
 Below is the figure of when the repo rate shot up to \~10% within a day. This was awful, because it was much more expensive for loans to go out. The repo market would have shut down from nobody wanting to spend 10% on a repurchase agreement to get cash for the day. How would ANYONE get 10% return **overnight** to pay for these loans? The flow of cash was about to halt.
 
-[https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/what-happened-in-money-markets-in-september-2019-20200227.htm](https://preview.redd.it/86p3getwwj671.png?width=771&format=png&auto=webp&s=2a503c9055d655f80557da8bf46744c205f60011)
+![https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/what-happened-in-money-markets-in-september-2019-20200227.htm](https://preview.redd.it/86p3getwwj671.png?width=771&format=png&auto=webp&s=2a503c9055d655f80557da8bf46744c205f60011)
 
 # 
 
@@ -133,7 +134,7 @@ The COVID pandemic caused a surge of money being printed from stimulus packages 
 
 COVID caused a sudden surge of trillions of dollars worth that the economy couldn't handle naturally. Compare the treasury balance versus the deposits over time, and the surge that occurred in 2020 in response to the pandemic. The COVID stimulus bills pumped in a **massive** amount of money into the economy at the risk of inflation. And we're already seeing the effects of inflation occur on the [supply chain](https://www.businessinsider.com/why-supply-shortages-economy-inventory-chips-lumber-cars-toilet-paper-2021-5):
 
-[https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/amwahlvykk671.png?width=877&format=png&auto=webp&s=1e343c265451a1b2d6754a4d04971bb445e58f43)
+![https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/amwahlvykk671.png?width=877&format=png&auto=webp&s=1e343c265451a1b2d6754a4d04971bb445e58f43)
 
 Stimulus checks were sent out to retail. Companies were bailed out. Unemployment increased, resulting in more unemployment benefits going out due to the relief bills. More money printed. More money deposited at banks.
 
@@ -143,7 +144,7 @@ There was a ton of cash (liquidity) being pumped into the economy over the past 
 
 The banks were now in trouble because they had way, way too many deposits. They were at risk of defaulting due to their SLR requirements. Here is a figure showing how deposits (liabilities) of banks increased over time. It mushroomed during the COVID pandemic:
 
-[https:\/\/www.ft.com\/content\/a5e165f7-a524-4b5b-9939-de689b6a1687](https://preview.redd.it/6dm07sa3oj671.png?width=891&format=png&auto=webp&s=9acce6ceb03841c64828198eefff21eb06b1e310)
+![https:\/\/www.ft.com\/content\/a5e165f7-a524-4b5b-9939-de689b6a1687](https://preview.redd.it/6dm07sa3oj671.png?width=891&format=png&auto=webp&s=9acce6ceb03841c64828198eefff21eb06b1e310)
 
 To combat this issue, the Fed decided to introduce a relief program for banks regarding SLR because of the massive increase of liquidity due to the uppercut that COVID created on the financial world.
 
@@ -153,7 +154,7 @@ In more of a simplified summary, SLR is a requirement of total equity that a ban
 
 But hey, the Fed put in place some protections for the year to help these banks since they were obviously overleveraged to begin with. These protections expired on March 31st, 2021.
 
-[https:\/\/www.fool.com\/investing\/2021\/03\/29\/the-fed-is-ending-one-of-its-pandemic-relief-progr\/](https://preview.redd.it/14pa4yngtj671.png?width=1433&format=png&auto=webp&s=534726bcf83b0bf40ede7b196191d66c29094d6e)
+![https:\/\/www.fool.com\/investing\/2021\/03\/29\/the-fed-is-ending-one-of-its-pandemic-relief-progr\/](https://preview.redd.it/14pa4yngtj671.png?width=1433&format=png&auto=webp&s=534726bcf83b0bf40ede7b196191d66c29094d6e)
 
 >**The Fed's relief program last year allowed banks to exclude U.S. Treasuries and central bank reserves from the SLR calculation**. The relief program was a response to the many non-banking institutions selling Treasuries to raise cash, and coincided with other measures, including the $2.2 trillion CARES Act, which resulted in even more Treasuries being sold into the market. - [Source](https://www.fool.com/investing/2021/03/29/the-fed-is-ending-one-of-its-pandemic-relief-progr/)
 
@@ -173,7 +174,7 @@ Think about it quite simply in a supply/demand factor and the reverse repo when 
 
 You are a bank. You want to get Collateral from the Fed to balance your sheets. The Fed says they'll give you a small amount of interest for borrowing their collateral overnight. But now, imagine that the supply of collateral is too low and demand is too high. The Fed will no longer want to pay you for borrowing its collateral so it will shift the interest rate down. If demand really outweighs supply, then the Fed would then want cash from YOU in order for YOU to borrow the collateral.
 
-[https:\/\/www.reuters.com\/article\/us-usa-bonds-repo-explainer\/explainer-u-s-repo-market-flirts-with-negative-rates-as-fed-seeks-to-absorb-excess-cash-idUSKBN2C32AI](https://preview.redd.it/eysh9mx9ok671.png?width=961&format=png&auto=webp&s=4d9d1695922b01651eae06c6bcc2753ad0f5b789)
+![https:\/\/www.reuters.com\/article\/us-usa-bonds-repo-explainer\/explainer-u-s-repo-market-flirts-with-negative-rates-as-fed-seeks-to-absorb-excess-cash-idUSKBN2C32AI](https://preview.redd.it/eysh9mx9ok671.png?width=961&format=png&auto=webp&s=4d9d1695922b01651eae06c6bcc2753ad0f5b789)
 
 This was just one of the warning signs that a collateral issue was arising. The RRP rates were already at 0%, so the only way for them to move was either up or down. An increase in treasury demand could shift it down, into the negatives, which it did.
 
@@ -183,7 +184,7 @@ This was just one of the warning signs that a collateral issue was arising. The 
 
 The drop in RRP interest rates to the negative **came after** the Fed increased the total borrowing amount of counterparties in the RRP from $30 Billion to $80 Billion.
 
-[https:\/\/finadium.com\/fed-increases-rrp-limits-from-30-billion-to-80-billion-to-ensure-supply-at-near-0-rates\/](https://preview.redd.it/by2ftlpopk671.png?width=1028&format=png&auto=webp&s=747f50e2fb63aabaedb6e9e947aa117f6c75f91b)
+![https:\/\/finadium.com\/fed-increases-rrp-limits-from-30-billion-to-80-billion-to-ensure-supply-at-near-0-rates\/](https://preview.redd.it/by2ftlpopk671.png?width=1028&format=png&auto=webp&s=747f50e2fb63aabaedb6e9e947aa117f6c75f91b)
 
 Why did they do this? Think of it again as a supply versus demand issue. For simple math, imagine the Fed has 50 members.
 
@@ -200,7 +201,7 @@ Not only did they artificially inflate the total supply to combat the demand by 
 
 We can see this visually from the Fed's balance sheet that they're not affecting their assets during the RRP. They're allowing counterparties to borrow treasuries **WITHOUT** affecting the supply - desperately trying to get away from the rising demand for treasuries and avoid treasury yields from snapping down (and likewise the price of treasuries up):
 
-[https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/evxua80crk671.png?width=893&format=png&auto=webp&s=6a925b05e7a460b252457923ca97c730c511da6b)
+![https:\/\/www.federalreserve.gov\/monetarypolicy\/bst\_recenttrends.htm](https://preview.redd.it/evxua80crk671.png?width=893&format=png&auto=webp&s=6a925b05e7a460b252457923ca97c730c511da6b)
 
 **On top of this, the Fed showed their hand ONCE AGAIN of fudging the numbers on June 16th when they bumped up the RRP rate to 0.05%. The short-term treasury yields briefly went BELOW the RRP interest amount of 0.05% on June 17th when the new RRP ROI was in effect.**
 
@@ -210,17 +211,17 @@ We can see this visually from the Fed's balance sheet that they're not affecting
 
 The Fed cannot keep this up. They're trying to keep the T-bill yield curve propped up despite the treasury shortage. They're not affecting their balance sheet, and they also artificially increased the amount of treasuries in their "supply" by increasing the counterparty borrow limit from $30 Billion to $80 Billion.
 
-[https:\/\/alhambrapartners.com\/2021\/06\/17\/the-fomc-accidentally-exposes-itself-reverse-repo-style\/](https://preview.redd.it/sp52qka5tj671.png?width=858&format=png&auto=webp&s=69d7ec8971035a7939f7bed116f7c923215019d6)
+![https:\/\/alhambrapartners.com\/2021\/06\/17\/the-fomc-accidentally-exposes-itself-reverse-repo-style\/](https://preview.redd.it/sp52qka5tj671.png?width=858&format=png&auto=webp&s=69d7ec8971035a7939f7bed116f7c923215019d6)
 
-[https:\/\/www.treasury.gov\/resource-center\/data-chart-center\/interest-rates\/Pages\/TextView.aspx?data=yield](https://preview.redd.it/1f64o77tsk671.png?width=972&format=png&auto=webp&s=48e83c02895066c4e300c5a8adf3d3a065a6b016)
+![https:\/\/www.treasury.gov\/resource-center\/data-chart-center\/interest-rates\/Pages\/TextView.aspx?data=yield](https://preview.redd.it/1f64o77tsk671.png?width=972&format=png&auto=webp&s=48e83c02895066c4e300c5a8adf3d3a065a6b016)
 
 The Fed is also planning on increasing interest rates. This starts to scare the economy, which is most likely why we're now seeing the dump of the stock market over the past few days and the dump leading into the week of June 21st. This is **bad for the markets** because it means it's going to cost more for the economy to function (e.g. what happened in 2019 when Repo Rates spiked to 10%). Companies have to spend more to hire, produce, etc. **It costs the economy more to function.**
 
 **The Fed is pinned between a collateral issue from QE sucking out collateral, and a liquidity issue and COVID pumping in too much liquidity for the banks to handle.**
 
-[https:\/\/www.cnbc.com\/2021\/06\/16\/fed-holds-rates-steady-but-raises-inflation-expectations-sharply-and-makes-no-mention-of-taper.html](https://preview.redd.it/uhhhzguotk671.png?width=1202&format=png&auto=webp&s=cab32cef615311320c6cf27461fa7fb18b0fc7af)
+![https:\/\/www.cnbc.com\/2021\/06\/16\/fed-holds-rates-steady-but-raises-inflation-expectations-sharply-and-makes-no-mention-of-taper.html](https://preview.redd.it/uhhhzguotk671.png?width=1202&format=png&auto=webp&s=cab32cef615311320c6cf27461fa7fb18b0fc7af)
 
-[https:\/\/www.bbc.com\/news\/business-57090421](https://preview.redd.it/p0v9ij2b0k671.png?width=1013&format=png&auto=webp&s=bf8f525bfc55e8f1287e921bbaaa408c5c27a253)
+![https:\/\/www.bbc.com\/news\/business-57090421](https://preview.redd.it/p0v9ij2b0k671.png?width=1013&format=png&auto=webp&s=bf8f525bfc55e8f1287e921bbaaa408c5c27a253)
 
 # 
 
@@ -238,7 +239,7 @@ The RRP borrowed amount can shoot up almost **2-4x the current levels.** The amo
 
 **Will the short-term treasuries dip below the RRP amount once more due to this shortage and flash red flags to the world of financial instability in the US?**
 
-[https:\/\/www.reddit.com\/r\/Superstonk\/comments\/nylihz\/previous\_rrp\_behavior\_on\_quarter\_ends\_massive\/](https://preview.redd.it/63daa1s8gk671.png?width=1277&format=png&auto=webp&s=d04d4a6b577152d26d6f7ea6e0c31f05f7ce80dc)
+![https:\/\/www.reddit.com\/r\/Superstonk\/comments\/nylihz\/previous\_rrp\_behavior\_on\_quarter\_ends\_massive\/](https://preview.redd.it/63daa1s8gk671.png?width=1277&format=png&auto=webp&s=d04d4a6b577152d26d6f7ea6e0c31f05f7ce80dc)
 
 If the US Treasury yield curve snaps down from this instability and the Fed no longer able to prop up the yield curve, then it can drive treasury prices up.
 
@@ -258,4 +259,4 @@ But some users might think otherwise and not believe in GME or the DD. Hello use
 
 Even if there's a **slight** chance of a GME squeeze in **your** eyes, and all of these signs are pointing to a market crash...
 
-![Why not give it a shot](https://www.youtube.com/watch?v=l4nSHsbFe-o)?
+[Why not give it a shot](https://www.youtube.com/watch?v=l4nSHsbFe-o)?

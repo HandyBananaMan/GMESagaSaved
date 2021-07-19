@@ -1,5 +1,6 @@
-# Author: derfmongol
-# Post URL: [https://www.reddit.com/r/GME/comments/mivykk/i_quit_my_dead_end_job_today_and_i_wanted_to/](https://www.reddit.com/r/GME/comments/mivykk/i_quit_my_dead_end_job_today_and_i_wanted_to/)
+#Title: I quit my dead end job today and I wanted to thank this sub for giving me diamond balls
+#Author: derfmongol
+#Post URL: [https://www.reddit.com/r/GME/comments/mivykk/i_quit_my_dead_end_job_today_and_i_wanted_to/](https://www.reddit.com/r/GME/comments/mivykk/i_quit_my_dead_end_job_today_and_i_wanted_to/)
 
 
 I quit my job today. I know, I know... why the fuck didn't I wait until the squeeze happened.... I know, I'm being irresponsible... I know, I know. Just so everyone knows I was able to contact an old work buddy and have a job already lined up but this post isn't about that. It's about the Diamond Balls I learned to develop by reading r/GME posts. 

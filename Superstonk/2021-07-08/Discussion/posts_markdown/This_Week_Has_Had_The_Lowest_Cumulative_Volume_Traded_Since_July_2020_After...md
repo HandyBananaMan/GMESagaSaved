@@ -1,5 +1,6 @@
-# Author: ThatGuyOnTheReddits
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogefl3/this_week_has_had_the_lowest_cumulative_volume/](https://www.reddit.com/r/Superstonk/comments/ogefl3/this_week_has_had_the_lowest_cumulative_volume/)
+#Title: This Week Has Had The Lowest Cumulative Volume Traded Since July 2020... After We Just Added 5 Million Shares?...
+#Author: ThatGuyOnTheReddits
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogefl3/this_week_has_had_the_lowest_cumulative_volume/](https://www.reddit.com/r/Superstonk/comments/ogefl3/this_week_has_had_the_lowest_cumulative_volume/)
 
 
 https://finance.yahoo.com/quote/GME/history?p=GME

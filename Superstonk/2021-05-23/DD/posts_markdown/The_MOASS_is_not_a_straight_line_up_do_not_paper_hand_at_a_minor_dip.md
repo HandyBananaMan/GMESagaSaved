@@ -1,5 +1,6 @@
-# Author: Magistricide
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/](https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/)
+#Title: The MOASS is not a straight line up, do not paper hand at a minor dip
+#Author: Magistricide
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/](https://www.reddit.com/r/Superstonk/comments/njd8au/the_moass_is_not_a_straight_line_up_do_not_paper/)
 
 
 "It is said that if you **know your enemies** and **know yourself**, you will not be imperilled in a hundred battles;" -Sun Tzu
@@ -14,7 +15,7 @@ Update: The NSC 801 only gives Citadel one hour to fulfil liquidity requirements
 
 &#x200B;
 
-[\\" We were losing hundreds of millions of dollars a week, if not more . . . And each day we bought one more day\\"](https://preview.redd.it/h8a8p7uvsw071.jpg?width=478&format=pjpg&auto=webp&s=6953e7790a237bfc321125e03eda8d5a57aeec55)
+![\\" We were losing hundreds of millions of dollars a week, if not more . . . And each day we bought one more day\\"](https://preview.redd.it/h8a8p7uvsw071.jpg?width=478&format=pjpg&auto=webp&s=6953e7790a237bfc321125e03eda8d5a57aeec55)
 
 We all know Ken's philosophy of [one more day](https://www.chicagotribune.com/business/ct-xpm-2013-05-22-ct-biz-0522-confidential-griffin-20130522-story.html). He will not give up, ever. He would rather the whole economy tank before he does. The squeeze will only happen after he has done everything to suppress it and fail. However, once he inevitably fails, we're not out of the woods yet, because now we're threatening a new player, the DTCC.
 

@@ -1,5 +1,6 @@
-# Author: Vic18t
-# Post URL: [https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/](https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/)
+#Title: How Ryan Cohen can trigger a guaranteed squeeze
+#Author: Vic18t
+#Post URL: [https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/](https://www.reddit.com/r/GME/comments/mbw22d/how_ryan_cohen_can_trigger_a_guaranteed_squeeze/)
 
 
 **TLDR: None of the shareholder “recalls” will work. You can only force a recall if the shorts have no other way to compensate a shareholder. That can be done with a crypto dividend.**
@@ -40,4 +41,4 @@ The short Hedge Funds sued and lost, making it completely legal:
 
 Gamestop might not even need to pay out a crypto dividend. Simply getting involved in crypto as part of the business seems to make people very bullish on top of  scaring the shit out of shorts. Check out what happened today to this company when they announced they were getting involved in crypto:
 
-![https://www.youtube.com/watch?v=-jRllnHmV5w](https://www.youtube.com/watch?v=-jRllnHmV5w)
+[https://www.youtube.com/watch?v=-jRllnHmV5w](https://www.youtube.com/watch?v=-jRllnHmV5w)

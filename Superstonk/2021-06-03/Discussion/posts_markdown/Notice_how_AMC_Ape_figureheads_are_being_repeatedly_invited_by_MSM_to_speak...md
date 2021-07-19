@@ -1,5 +1,6 @@
-# Author: KxKen
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nruuwf/notice_how_amc_ape_figureheads_are_being/](https://www.reddit.com/r/Superstonk/comments/nruuwf/notice_how_amc_ape_figureheads_are_being/)
+#Title: Notice how AMC Ape figureheads are being repeatedly invited by MSM to speak but no one from GME side of things is…
+#Author: KxKen
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nruuwf/notice_how_amc_ape_figureheads_are_being/](https://www.reddit.com/r/Superstonk/comments/nruuwf/notice_how_amc_ape_figureheads_are_being/)
 
 
 Matt K went on Fox Business yesterday. 

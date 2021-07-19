@@ -1,5 +1,6 @@
-# Author: Vipper_of_Vip99
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6yz3l/fed_signals_trouble_ahead_buckle_up_not_setting/](https://www.reddit.com/r/Superstonk/comments/n6yz3l/fed_signals_trouble_ahead_buckle_up_not_setting/)
+#Title: FED signals trouble ahead. Buckle up. (Not setting dates, this is not a hype post).
+#Author: Vipper_of_Vip99
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6yz3l/fed_signals_trouble_ahead_buckle_up_not_setting/](https://www.reddit.com/r/Superstonk/comments/n6yz3l/fed_signals_trouble_ahead_buckle_up_not_setting/)
 
 
 Many of us have assumed that the MOASS will be paralleled by a broad and significant market downturn.  Given that the SEC, FED, DTCC and other agencies and institutions know roughly how GME may play out, it would not be surprising to see the FED telegraph the MOASS (and accompanying market correction/crash) in advance. Thus, I have been keeping an eye out for signals from the FED.

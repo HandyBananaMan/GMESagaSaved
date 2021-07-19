@@ -1,5 +1,6 @@
-# Author: Csmbird
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/](https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/)
+#Title: 🐱‍🏍🐱‍🏍Need More Wrinkly Brains. Gone down an Aviation Asset Manager Hole that might have ties to Ken G...and another Hedge Fund at 230 Park AVE NY......Right beside CITADEL. Plus Possible Cayman Islands Location of Hiding Funds?🐱‍🏍🐱‍🏍
+#Author: Csmbird
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/](https://www.reddit.com/r/Superstonk/comments/o5w43o/need_more_wrinkly_brains_gone_down_an_aviation/)
 
 
 # tl;dr:
@@ -22,11 +23,11 @@ So I started digging around
 
 &#x200B;
 
-[Uno](https://preview.redd.it/yfweyhh9av671.png?width=1897&format=png&auto=webp&s=5344649637b8c880567788a120b6360b94e2be6c)
+![Uno](https://preview.redd.it/yfweyhh9av671.png?width=1897&format=png&auto=webp&s=5344649637b8c880567788a120b6360b94e2be6c)
 
 &#x200B;
 
-[dos](https://preview.redd.it/h3jfvdrnav671.png?width=2014&format=png&auto=webp&s=9a2772231a1fa128e121615a28e46c7388c19631)
+![dos](https://preview.redd.it/h3jfvdrnav671.png?width=2014&format=png&auto=webp&s=9a2772231a1fa128e121615a28e46c7388c19631)
 
 Quite a few of the same...could be coincedental.
 
@@ -38,7 +39,7 @@ After digging through some of the sellers I saw this one...there's also some in 
 
 &#x200B;
 
-[New Jersey is close to NYC...and Citadel](https://preview.redd.it/60iy13c3bv671.png?width=1803&format=png&auto=webp&s=9d4fd45fda8073bb719bfb6bc2617a8e031b816e)
+![New Jersey is close to NYC...and Citadel](https://preview.redd.it/60iy13c3bv671.png?width=1803&format=png&auto=webp&s=9d4fd45fda8073bb719bfb6bc2617a8e031b816e)
 
 &#x200B;
 
@@ -91,7 +92,7 @@ I went to the CFO's linkdin....Cause it was [linked in](https://www.linkedin.com
 
 &#x200B;
 
-[BLIND POOL!?](https://preview.redd.it/3cs2077dgv671.png?width=1168&format=png&auto=webp&s=119a488f2ffe299e93241a09e84e353967d14d09)
+![BLIND POOL!?](https://preview.redd.it/3cs2077dgv671.png?width=1168&format=png&auto=webp&s=119a488f2ffe299e93241a09e84e353967d14d09)
 
 Notice how she was the Senior VP and head of strategic planning and lead formation and capital raising of PRIVATE EQUITY PLATFORMS WITH A BLIND POOL OF CAPITAL?!
 
@@ -105,7 +106,7 @@ Interestingly there is also a G[riffin Asset Management](https://www.griffinasse
 
 &#x200B;
 
-[Notice the address?](https://preview.redd.it/s2v56bzhhv671.png?width=1890&format=png&auto=webp&s=86d16c8c8f3ceb5050fcec7a01e47836dc64f4ad)
+![Notice the address?](https://preview.redd.it/s2v56bzhhv671.png?width=1890&format=png&auto=webp&s=86d16c8c8f3ceb5050fcec7a01e47836dc64f4ad)
 
 &#x200B;
 

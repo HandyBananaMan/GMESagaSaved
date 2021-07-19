@@ -1,10 +1,11 @@
-# Author: Daweism
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/](https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/)
+#Title: The Deep Out of The Money Puts 2: Judgment Day (FINRA 21-24 Analysis)
+#Author: Daweism
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/](https://www.reddit.com/r/Superstonk/comments/oj2x92/the_deep_out_of_the_money_puts_2_judgment_day/)
 
 
 &#x200B;
 
-[DFV Arriving from the future sent back by R.C.](https://preview.redd.it/4szp0dqt4va71.png?width=449&format=png&auto=webp&s=378371c27a366b89a9e41aa741fccd79517341d3)
+![DFV Arriving from the future sent back by R.C.](https://preview.redd.it/4szp0dqt4va71.png?width=449&format=png&auto=webp&s=378371c27a366b89a9e41aa741fccd79517341d3)
 
 Hey apes, I've been reading into ***FINRA's Regulatory Notice 21-24*** and I feel like there's a huge piece of the puzzle that people are glancing over. Happy to talk about any oversights or oversteps of my analysis to make sure this is spot on.
 
@@ -14,7 +15,7 @@ Everyone keeps pointing to the impact on short sales, but this feels SO MUCH BIG
 
 **TLDR**: **The rule clarifications (effective immediately), if enforced (and that's a big IF) could lead directly to the end game, potentially getting the party started (assuming this is all enforced) at the most appropriate time: the start of MoonJam. The changes mean it will be physically impossible for the hedgies to kick the can down the road via** ***OTM*** **puts anymore due to the steep margin requirements to initiate a transaction.**
 
-[Hasta la vista baby.](https://preview.redd.it/h76gkb3n4va71.png?width=500&format=png&auto=webp&s=fff86a70cdac503900b24bb33597153af38b01a1)
+![Hasta la vista baby.](https://preview.redd.it/h76gkb3n4va71.png?width=500&format=png&auto=webp&s=fff86a70cdac503900b24bb33597153af38b01a1)
 
 **---**
 
@@ -30,7 +31,7 @@ Let's explore option 3 though, and see if FINRA made any specific requests for m
 
 &#x200B;
 
-[I need your FTDs, your Shorts, and your OTM Puts.](https://preview.redd.it/eteas7406va71.png?width=584&format=png&auto=webp&s=84977758d37dff17db8d4baea809228f04e678ae)
+![I need your FTDs, your Shorts, and your OTM Puts.](https://preview.redd.it/eteas7406va71.png?width=584&format=png&auto=webp&s=84977758d37dff17db8d4baea809228f04e678ae)
 
 So now it looks like opening a put requires posting cash to satisfy a payment obligation and opening a call requires posting the fully paid security. THIS IS INSANE. THIS IS NOT $2,000...it is MUCH GREATER. What I think this means is that if they want to execute a married call/put option trick, they will be subject to both of these margin requirements on execution of the trade.
 

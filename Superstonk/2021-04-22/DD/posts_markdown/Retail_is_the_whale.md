@@ -1,5 +1,6 @@
-# Author: 33a
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/](https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/)
+#Title: Retail is the whale
+#Author: 33a
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/](https://www.reddit.com/r/Superstonk/comments/mwn95o/retail_is_the_whale/)
 
 
 Here's a really simple method to estimate the amount of shares that retail owns in GME, in the [spirit of a Fermi estimate](https://www.lesswrong.com/posts/PsEppdvgRisz5xAHG/fermi-estimates).  Summed with [the 13f/g filings](http://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CH&sdkVersion=2.59.0), this gives a lower bound on the total number of shares currently in circulation as well as the short interest.  Therefore, figuring this out would be great to help convince skeptics and shut down shills/FUD.
@@ -113,7 +114,7 @@ Given the fraction of all shares owned by retail and the size of all institution
 
 https://imgur.com/a/wNMYBHf
 
-According to the ![latest Bloomberg terminal drop](https://old.reddit.com/r/Superstonk/comments/mwdqyh/22042021_gme_bloomberg_terminal_information/), institutions have at least 110% of all shares outstanding. So:
+According to the [latest Bloomberg terminal drop](https://old.reddit.com/r/Superstonk/comments/mwdqyh/22042021_gme_bloomberg_terminal_information/), institutions have at least 110% of all shares outstanding. So:
 
 * If retail has 40% (like AAPL), then 83% of outstanding shares are short. **58.1 million shorts in total**
 * If retail has 50% (like TSLA), then 120% of outstanding shares are short. **84 million shorts in total**

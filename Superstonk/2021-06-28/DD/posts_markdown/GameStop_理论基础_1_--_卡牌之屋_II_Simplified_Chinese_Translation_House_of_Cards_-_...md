@@ -1,5 +1,6 @@
-# Author: zhishy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/)
+#Title: GameStop 理论基础 #1 -- 卡牌之屋 II [Simplified Chinese Translation: House of Cards - Part 2, u/atobitt]
+#Author: zhishy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/o9k5fv/gamestop_理论基础_1_卡牌之屋_ii_simplified_chinese/)
 
 
 原文标题：House of Cards - Part 2, u/atobitt
@@ -42,7 +43,7 @@ PDF 版本：[https://drive.google.com/drive/folders/1fY7UXelAvvqdWvpGhuZ4zZ\_9G
 
 &#x200B;
 
-[\[图 1\]](https://preview.redd.it/klzf5y7wb0871.png?width=491&format=png&auto=webp&s=bedb22f2e1f23d5c67ae1d5f5efaa7ad7114a974)
+![\[图 1\]](https://preview.redd.it/klzf5y7wb0871.png?width=491&format=png&auto=webp&s=bedb22f2e1f23d5c67ae1d5f5efaa7ad7114a974)
 
 \---
 
@@ -98,7 +99,7 @@ DTC 的名单上大约有 240 个参与者的帐户名称。为了刨根究底�
 
 &#x200B;
 
-[\[图 2\]](https://preview.redd.it/xt5a51fyb0871.png?width=1055&format=png&auto=webp&s=a0137efef580a32f971204e2e6174399156576db)
+![\[图 2\]](https://preview.redd.it/xt5a51fyb0871.png?width=1055&format=png&auto=webp&s=a0137efef580a32f971204e2e6174399156576db)
 
 当时，荷兰银行向纽约证券交易所和 FINRA 提交了一份不准确的空头头寸，且没有适当的监管系统来遵守... \***几乎所有规则**\*...
 
@@ -108,13 +109,13 @@ DTC 的名单上大约有 240 个参与者的帐户名称。为了刨根究底�
 
 &#x200B;
 
-[\[图 3\]](https://preview.redd.it/aq67esszb0871.png?width=1079&format=png&auto=webp&s=0f6c0be4c0af5acc88abe1a90a6992d6a20bbcc4)
+![\[图 3\]](https://preview.redd.it/aq67esszb0871.png?width=1079&format=png&auto=webp&s=0f6c0be4c0af5acc88abe1a90a6992d6a20bbcc4)
 
 ABN AMRO 因低估资本要求、未能保持准确的账簿以及未能合理监督员工而被处以 1,000,000 美元的罚款。如果你搞砸了一或两次，但最终解决了问题，那就没什么问题。但当你的主要业务就是清算交易，而你却失职到如此离谱的程度，就表示背后已经产生了系统性的问题。当交易记录过程的每个阶段都存在根本性缺陷时，我们很难将其视为意外。以下截图来自同一违规行为：
 
 &#x200B;
 
-[\[图 4\]](https://preview.redd.it/mskmeyy0c0871.png?width=733&format=png&auto=webp&s=92198780ba9bb7d9f115ce0defd13bdfb9b49239)
+![\[图 4\]](https://preview.redd.it/mskmeyy0c0871.png?width=733&format=png&auto=webp&s=92198780ba9bb7d9f115ce0defd13bdfb9b49239)
 
 [仓库收据](https://www.investopedia.com/terms/w/warehousereceipt.asp#:~:text=A%20warehouse%20receipt%20is%20used,well%20as%20provide%20inventory%20management.) \[14\] 就像您在网上购买木材后收到的收据。你可以将这些收据打印出来并带到家得宝（Home-Depot，美国第二大的零售商）。在那里，你可以将它们换成商店中的实体木材。除了交易实际货物外，你还可以交易仓单。因此，由于\***此一**\*记录允许 AMRO 满足其客户的保证金要求，它没有在仓单撤回后删除相关记录就显得十分可疑。
 
@@ -122,7 +123,7 @@ ABN AMRO 因低估资本要求、未能保持准确的账簿以及未能合理�
 
 &#x200B;
 
-[\[图 5\]](https://preview.redd.it/ecfmko42c0871.png?width=1071&format=png&auto=webp&s=e4a495090e61d773dae66dcecdf500f6b5ba3b94)
+![\[图 5\]](https://preview.redd.it/ecfmko42c0871.png?width=1071&format=png&auto=webp&s=e4a495090e61d773dae66dcecdf500f6b5ba3b94)
 
 AMRO 再次因低估保证金要求而被罚款了。上一次，它使用了已撤回仓单的价值来满足保证金要求，而这一次，它使用了不符合保证金要求的股票来满足他们的保证金要求。
 
@@ -132,7 +133,7 @@ AMRO 再次因低估保证金要求而被罚款了。上一次，它使用了已
 
 &#x200B;
 
-[\[图 6\]](https://preview.redd.it/ifb65k93c0871.png?width=844&format=png&auto=webp&s=6a842d053e5de7ad2c36313dbce54bb8d3cdc1c7)
+![\[图 6\]](https://preview.redd.it/ifb65k93c0871.png?width=844&format=png&auto=webp&s=6a842d053e5de7ad2c36313dbce54bb8d3cdc1c7)
 
 此违规行为居然延续了 TMD 8 年？
 
@@ -168,13 +169,13 @@ AMRO 再次因低估保证金要求而被罚款了。上一次，它使用了已
 
 &#x200B;
 
-[\[图 7\]](https://preview.redd.it/csiprte4c0871.png?width=1076&format=png&auto=webp&s=7aacacf966c3690e56f3bcba0b02371d65514825)
+![\[图 7\]](https://preview.redd.it/csiprte4c0871.png?width=1076&format=png&auto=webp&s=7aacacf966c3690e56f3bcba0b02371d65514825)
 
 这实际上和 ABN AMRO 的违规行为没太大差异。为了了解程度上的差异，我们需要阅读它们的[接受、弃权和同意书（letter of Acceptance, Waiver and Consent，简称 AWC）](https://www.finra.org/sites/default/files/fda_documents/2016049448301%20Apex%20Clearing%20Corporation%20CRD%2013071%20AWC%20va%20%282019-1573777189509%29.pdf) \[17\]。
 
 &#x200B;
 
-[\[图 8\]](https://preview.redd.it/b2tdpbf5c0871.png?width=938&format=png&auto=webp&s=fa201e8f259d06bb71b92c2a9fd42dbcd6c332eb)
+![\[图 8\]](https://preview.redd.it/b2tdpbf5c0871.png?width=938&format=png&auto=webp&s=fa201e8f259d06bb71b92c2a9fd42dbcd6c332eb)
 
 让我们一步一步解析这内容...
 
@@ -412,6 +413,6 @@ Apex 存在一个维持了 47 个月的问题，即某些客户在\***未发送*
 
 \[33\] [https://files.brokercheck.finra.org/firm/firm\_361.pdf](https://files.brokercheck.finra.org/firm/firm_361.pdf)
 
-\![34\] [https://files.brokercheck.finra.org/firm/firm\_19585.pdf](https://files.brokercheck.finra.org/firm/firm_19585.pdf)
+\[34\] [https://files.brokercheck.finra.org/firm/firm\_19585.pdf](https://files.brokercheck.finra.org/firm/firm_19585.pdf)
 
 Edit 1: I hereby repent my sin and correct my sacrilegious DD by adding the mandatory 🚀s and🌝s

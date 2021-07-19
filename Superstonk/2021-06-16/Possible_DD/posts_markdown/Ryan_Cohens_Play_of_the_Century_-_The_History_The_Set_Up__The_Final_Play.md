@@ -1,5 +1,6 @@
-# Author: AChipOnYourShoulder
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/)
+#Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
+#Author: AChipOnYourShoulder
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/Superstonk/comments/o1ocld/ryan_cohens_play_of_the_century_the_history_the/)
 
 
 \*\*\*\*\*\*\*\*\*\* ALL CREDIT FOR THIS POST GOES TO u/Topster420 \*\*\*\*\*\*\*\*\*\*\*
@@ -12,7 +13,7 @@ Link to u/Topster420 ‘s original post: [https://www.reddit.com/r/DDintoGME/com
 
 &#x200B;
 
-[Topster circa right now](https://preview.redd.it/r9nxoh7rix571.png?width=796&format=png&auto=webp&s=7b0a6fff52ac02a397f5d93ae8f3511d287bc2af)
+![Topster circa right now](https://preview.redd.it/r9nxoh7rix571.png?width=796&format=png&auto=webp&s=7b0a6fff52ac02a397f5d93ae8f3511d287bc2af)
 
 &#x200B;
 
@@ -66,7 +67,7 @@ What follows? A Bona fide short squeeze. I’m talking [500%](https://www.fool.c
 
 &#x200B;
 
-[Overstock? Psh, more like Overshort am I right?](https://preview.redd.it/o6tb6tz3jx571.png?width=1840&format=png&auto=webp&s=165062b5761f70e89a936a34734ce855d77d12a1)
+![Overstock? Psh, more like Overshort am I right?](https://preview.redd.it/o6tb6tz3jx571.png?width=1840&format=png&auto=webp&s=165062b5761f70e89a936a34734ce855d77d12a1)
 
 &#x200B;
 
@@ -74,7 +75,7 @@ Just 10 days later on August 31st 2020, fan favourite Ryan Cohen purchased a 9% 
 
 &#x200B;
 
-[And GameStop was never the same again...](https://preview.redd.it/zr4m5i19jx571.png?width=2400&format=png&auto=webp&s=0da7d558d0c8e7ef1bf61e41bc8a1a4b56be83d4)
+![And GameStop was never the same again...](https://preview.redd.it/zr4m5i19jx571.png?width=2400&format=png&auto=webp&s=0da7d558d0c8e7ef1bf61e41bc8a1a4b56be83d4)
 
 &#x200B;
 
@@ -90,13 +91,13 @@ Here’s GME’s NFT address as found on their official website\*\*:\*\* 0x13374
 
 &#x200B;
 
-[GME Launch date confirmed 1\/6\/26261600?](https://preview.redd.it/5ue7dydfjx571.png?width=380&format=png&auto=webp&s=fe3954f257560cc67e0f9fa110abe2fe40154f3c)
+![GME Launch date confirmed 1\/6\/26261600?](https://preview.redd.it/5ue7dydfjx571.png?width=380&format=png&auto=webp&s=fe3954f257560cc67e0f9fa110abe2fe40154f3c)
 
 Next let's enter the timestamp into [https://www.unixtimestamp.com](https://www.unixtimestamp.com/)
 
 &#x200B;
 
-[Made at exactly 4:20 a.m. in Texas \(where GameStop HQ is\)](https://preview.redd.it/dclsyedjjx571.png?width=1470&format=png&auto=webp&s=7f43f3ef9bd40de51bb9885bc06491e9a78b2709)
+![Made at exactly 4:20 a.m. in Texas \(where GameStop HQ is\)](https://preview.redd.it/dclsyedjjx571.png?width=1470&format=png&auto=webp&s=7f43f3ef9bd40de51bb9885bc06491e9a78b2709)
 
 Well well well… July 14th.  Just 2 days before a 400,000 option monstrosity expires.
 
@@ -122,4 +123,4 @@ Poletti, T. (2019) *Opinion: Overstock founder tried to squeeze short sellers, t
 
 Palmer, D. (2020) *Overstock Hands Shareholders Digital Dividend.* Available from: [https://www.coindesk.com/after-lawsuits-and-delays-overstock-hands-shareholders-digital-dividend](https://www.coindesk.com/after-lawsuits-and-delays-overstock-hands-shareholders-digital-dividend)
 
-Quast, J. (2020) *Why Overstock continued its 500% Climb with Another 15% Gain on Wednesday.* Available from:  ![https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx](https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx)
+Quast, J. (2020) *Why Overstock continued its 500% Climb with Another 15% Gain on Wednesday.* Available from:  [https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx](https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx)

@@ -1,5 +1,6 @@
-# Author: AutoModerator
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/](https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/)
+#Title: Superstonk Daily - 05-19-21
+#Author: AutoModerator
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/](https://www.reddit.com/r/Superstonk/comments/ngw4oi/superstonk_daily_051921/)
 
 
 #  Goodmorning Superstonk 
@@ -36,7 +37,7 @@ It seems that something was up (or rather down?) In the crypto markets! There we
 
 &#x200B;
 
-[ https:\/\/twitter.com\/louvswallstreet\/status\/1395133269176426496 ](https://preview.redd.it/s50ws1qy47071.jpg?width=1537&format=pjpg&auto=webp&s=c9abc41db8b5fc81daffce2cbc81bfeb43fcba7c)
+![ https:\/\/twitter.com\/louvswallstreet\/status\/1395133269176426496 ](https://preview.redd.it/s50ws1qy47071.jpg?width=1537&format=pjpg&auto=webp&s=c9abc41db8b5fc81daffce2cbc81bfeb43fcba7c)
 
  
 
@@ -50,7 +51,7 @@ That having been said, I have seen some speculation that this could have been li
 
 Hey all, just helping the team out to write a quick opinion piece on the entire **Glacier Capital** fiasco that has swept the front page; as we have seen these posts seem to have attracted an abnormal amount of awards (specifically the all-seeing).
 
-[https://preview.redd.it/s3c31gbxpzz61.png?width=857&format=png&auto=webp&s=a49a7d617d65caf7716b73ca65512884c3900596](https://preview.redd.it/s3c31gbxpzz61.png?width=857&format=png&auto=webp&s=a49a7d617d65caf7716b73ca65512884c3900596)
+![https://preview.redd.it/s3c31gbxpzz61.png?width=857&format=png&auto=webp&s=a49a7d617d65caf7716b73ca65512884c3900596](https://preview.redd.it/s3c31gbxpzz61.png?width=857&format=png&auto=webp&s=a49a7d617d65caf7716b73ca65512884c3900596)
 
 **Here's the kicker (correct me if I'm wrong); I cannot find a single piece of information from the SEC or the Luxemburg filings that confirms them actually buying into GME. Just a seeking alpha article which seems to be what everyone is referencing.**
 
@@ -62,23 +63,23 @@ There's a great series on this topic called "This Giant **Beast That is the Glob
 
 Now doing a search directly on the Luxemburg commerce registry since I can't find anything really related from the SEC; I'm finding very different info than what users have pointed out --- there are alternative addresses on pretty much every filing they have. Funny thing is that these addressed are mostly registered to residential areas. This would coincide with common tax evasion tactics
 
-[https://www.lbr.lu/](https://preview.redd.it/6b3cnppjpzz61.png?width=871&format=png&auto=webp&s=c6831f37666f524c976e65e8d55d8029c994031b)
+![https://www.lbr.lu/](https://preview.redd.it/6b3cnppjpzz61.png?width=871&format=png&auto=webp&s=c6831f37666f524c976e65e8d55d8029c994031b)
 
 Here is the registered office (44 Boulevard de Verdun)
 
-[Glacier Capital Registered Office;](https://preview.redd.it/wlkgnpyepzz61.png?width=1748&format=png&auto=webp&s=99117c4a0382616341c221c98761d5ba373aa992)
+![Glacier Capital Registered Office;](https://preview.redd.it/wlkgnpyepzz61.png?width=1748&format=png&auto=webp&s=99117c4a0382616341c221c98761d5ba373aa992)
 
 Now my French isn't too bad here in Canada; so I tried my best navigating this filing from the Luxemburg commerce registry and found the following; we can confirm the involvement of **Marc-Francois Daubenfeld** as well as the value of their assets.
 
-[https://preview.redd.it/d22nto7eozz61.png?width=513&format=png&auto=webp&s=6fcc15dcbc3fe0ac16d0c84f3a916b65b9c3cb9a](https://preview.redd.it/d22nto7eozz61.png?width=513&format=png&auto=webp&s=6fcc15dcbc3fe0ac16d0c84f3a916b65b9c3cb9a)
+![https://preview.redd.it/d22nto7eozz61.png?width=513&format=png&auto=webp&s=6fcc15dcbc3fe0ac16d0c84f3a916b65b9c3cb9a](https://preview.redd.it/d22nto7eozz61.png?width=513&format=png&auto=webp&s=6fcc15dcbc3fe0ac16d0c84f3a916b65b9c3cb9a)
 
-[https://preview.redd.it/vmu6sd1nozz61.png?width=759&format=png&auto=webp&s=fa2ab01856c571c651739a6e636bc6c32e1bd586](https://preview.redd.it/vmu6sd1nozz61.png?width=759&format=png&auto=webp&s=fa2ab01856c571c651739a6e636bc6c32e1bd586)
+![https://preview.redd.it/vmu6sd1nozz61.png?width=759&format=png&auto=webp&s=fa2ab01856c571c651739a6e636bc6c32e1bd586](https://preview.redd.it/vmu6sd1nozz61.png?width=759&format=png&auto=webp&s=fa2ab01856c571c651739a6e636bc6c32e1bd586)
 
 The above screenshot is for their activity from 2018 (as that's the most recent thing filed). So we understand that in a few short years they went from managing a couple hundred thousand euros to almost 100 million if I'm reading this correctly.
 
 I want to point out that Mr. Daubenfeld is a "lawyer that turned fund manager", remember what I mentioned about this being law offices specifically selling fake shell companies?
 
-[https://preview.redd.it/rg0lop7ctzz61.png?width=204&format=png&auto=webp&s=88375ecd75121949bdbd07368421c098f8621bc1](https://preview.redd.it/rg0lop7ctzz61.png?width=204&format=png&auto=webp&s=88375ecd75121949bdbd07368421c098f8621bc1)
+![https://preview.redd.it/rg0lop7ctzz61.png?width=204&format=png&auto=webp&s=88375ecd75121949bdbd07368421c098f8621bc1](https://preview.redd.it/rg0lop7ctzz61.png?width=204&format=png&auto=webp&s=88375ecd75121949bdbd07368421c098f8621bc1)
 
 Now why this is being pushed up so much, I have no idea. Can anyone even find confirmation they own GME ie a bb terminal screenshot? I couldn't tell you if this has some sort of malicious intent or not. Tread lightly on this one apes.
 
@@ -92,7 +93,7 @@ https://preview.redd.it/636okiu257071.jpg?width=2052&format=pjpg&auto=webp&s=ad6
 
  Sometimes I cannot tell if I am a madman or he is a genius... or both. One thing I do know is that there is no way Ryan Cohen isn't leaving us breadcrumbs, at least in my opinion. So what might you ask could be the meaning of this tweet? I hadn't a clue, but these great apes seemed to be onto something: 
 
-[ https:\/\/www.reddit.com\/r\/Superstonk\/comments\/ngfzzi\/rc\_tweets\_a\_heart\_3\_ape\_detectives\_solve\_the\_case\/](https://preview.redd.it/ds6aifc857071.png?width=913&format=png&auto=webp&s=c05ec675e57ab3ca1ac300f8966ee495fd4ba515)
+![ https:\/\/www.reddit.com\/r\/Superstonk\/comments\/ngfzzi\/rc\_tweets\_a\_heart\_3\_ape\_detectives\_solve\_the\_case\/](https://preview.redd.it/ds6aifc857071.png?width=913&format=png&auto=webp&s=c05ec675e57ab3ca1ac300f8966ee495fd4ba515)
 
  
 
@@ -134,7 +135,7 @@ For a fairly straightforward, and rather in-depth look at this rule, check out t
 
 # Blow that whistle
 
-[ ](https://preview.redd.it/qwpu5gwj57071.jpg?width=1477&format=pjpg&auto=webp&s=e8f29ea0cb1f58d0263958b392ad8cca75173db5)
+![ ](https://preview.redd.it/qwpu5gwj57071.jpg?width=1477&format=pjpg&auto=webp&s=e8f29ea0cb1f58d0263958b392ad8cca75173db5)
 
 Well Jpow says the market is fine so I am sure there is nothing nefarious going on... /s
 
@@ -146,7 +147,7 @@ We can only speculate if this is related to GME... but I will say there is likel
 
 # Single most important piece of the puzzle. If you don't vote, then you aren't doing right by yourself or GameStop
 
-[This is how we find out how big of a whale we are ](https://preview.redd.it/uqz4zqmp57071.jpg?width=1000&format=pjpg&auto=webp&s=dbd05b30ff52bc4e91bc9253e38832adbff8b1de)
+![This is how we find out how big of a whale we are ](https://preview.redd.it/uqz4zqmp57071.jpg?width=1000&format=pjpg&auto=webp&s=dbd05b30ff52bc4e91bc9253e38832adbff8b1de)
 
  
 
@@ -168,4 +169,4 @@ Ape don't fight ape, apes help other apes
 
 this helps us weed out the shills really fast, if everyone is helpful, the ones who aren't stand out.
 
-I would be remiss if I didn't share ![this](https://twitter.com/Winter/status/1395054787490500608?s=20)
+I would be remiss if I didn't share [this](https://twitter.com/Winter/status/1395054787490500608?s=20)

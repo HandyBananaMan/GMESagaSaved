@@ -1,5 +1,6 @@
-# Author: weeknddev
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/](https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/)
+#Title: Something fishy about removing SR-NYSE-2021-20 and SR-Phlx-2021-30 as of today
+#Author: weeknddev
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/](https://www.reddit.com/r/Superstonk/comments/nbq681/something_fishy_about_removing_srnyse202120_and/)
 
 
 In SR-PHLX-2021-30 it is updating this rule
@@ -32,15 +33,15 @@ And
 
 &#x200B;
 
-[What is a UIT?](https://preview.redd.it/i45xo3ke0yy61.png?width=578&format=png&auto=webp&s=15ecb44e67b7cda8aa929da4ce3cba8e97e3a39b)
+![What is a UIT?](https://preview.redd.it/i45xo3ke0yy61.png?width=578&format=png&auto=webp&s=15ecb44e67b7cda8aa929da4ce3cba8e97e3a39b)
 
 And then the prior NYSE proposal to amend rule SR-NYSE-2021-20
 
 &#x200B;
 
-[Withdrawn SR-NYSE-2021-20](https://preview.redd.it/np79d6mq1yy61.png?width=613&format=png&auto=webp&s=e372dcfd5f409e05321984cc66d5a16e7f2e51ae)
+![Withdrawn SR-NYSE-2021-20](https://preview.redd.it/np79d6mq1yy61.png?width=613&format=png&auto=webp&s=e372dcfd5f409e05321984cc66d5a16e7f2e51ae)
 
-![https://www.federalregister.gov/documents/2021/04/26/2021-08566/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change](https://www.federalregister.gov/documents/2021/04/26/2021-08566/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change)
+[https://www.federalregister.gov/documents/2021/04/26/2021-08566/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change](https://www.federalregister.gov/documents/2021/04/26/2021-08566/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-of-proposed-rule-change)
 
 Why the fuck did they withdraw this rule? Sounds like they're about to fuck around with CLO's and CDO's big time with private funds and put those options into the UIT (private funds) with huge profits so then the investors get tax-free gains no?
 

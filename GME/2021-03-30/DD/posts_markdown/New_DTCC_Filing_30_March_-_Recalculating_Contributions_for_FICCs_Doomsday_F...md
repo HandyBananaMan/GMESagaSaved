@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/](https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/)
+#Title: New DTCC Filing 30 March - Recalculating Contributions for FICC's Doomsday Fund (GOV1075-21)
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/](https://www.reddit.com/r/GME/comments/mgrx9n/new_dtcc_filing_30_march_recalculating/)
 
 
 Today, on the 30th of March, a new DTCC filing came out, (GOV1075-21).
@@ -80,7 +81,7 @@ We are on the right course, and DTCC seems to be at least active, working to pus
 
 &#x200B;
 
-[Today's ruling](https://preview.redd.it/urbsxltlm8q61.png?width=824&format=png&auto=webp&s=8cdda9ab6bf0a4e1f696351379e8487db982cea5)
+![Today's ruling](https://preview.redd.it/urbsxltlm8q61.png?width=824&format=png&auto=webp&s=8cdda9ab6bf0a4e1f696351379e8487db982cea5)
 
 &#x200B;
 

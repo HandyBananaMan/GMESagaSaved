@@ -1,5 +1,6 @@
-# Author: CM_MOJO
-# Post URL: [https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/](https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/)
+#Title: The Mythical Long Whale?
+#Author: CM_MOJO
+#Post URL: [https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/](https://www.reddit.com/r/GME/comments/mamgty/the_mythical_long_whale/)
 
 
 I keep hearing rumblings and grumblings from some on this subreddit and the WallStreeBets (WSB) subreddit that there are no long whales (LWs) out there ‘helping’ the retail investors (RIs). That it’s some mythical beast we tell ourselves about at night to keep our spirits up. I’d say to those who doubt they exist… What if I told you that Moby Dick really existed? And I don’t mean existed within the realm of the novel, a work of fiction. I mean [existed](https://en.wikipedia.org/wiki/Mocha_Dick) in real life sometime in the past.
@@ -10,7 +11,7 @@ Oh, you still don’t believe me? Thursday, March 11th, it was pretty obvious th
 
 &#x200B;
 
-[The 'Flash Crash' on 2021-03-11](https://preview.redd.it/ltjeacwcoko61.jpg?width=653&format=pjpg&auto=webp&s=c1a5a08040006afcf76ba062efbf22fef306cca9)
+![The 'Flash Crash' on 2021-03-11](https://preview.redd.it/ltjeacwcoko61.jpg?width=653&format=pjpg&auto=webp&s=c1a5a08040006afcf76ba062efbf22fef306cca9)
 
 Oh you’re one of those smoothed-brained apes, you still doubt the existence of the mythical Long Whale(s)? The last FOUR trading days, beginning Tuesday, 2021-03-16, through Friday, 2021-03-19, the price of GME closed just above $200. The last 10 minutes of trading on Friday was insane as two opposing forces were fighting over that $200 mark. It was crazy to watch. When my Yahoo screen showed the closing price right at the bell, it was $200 EXACTLY and I laughed so hard I almost fell out of my chair. It was later adjusted to $200.27.
 
@@ -68,7 +69,7 @@ Options are very risky. You can lose your entire ‘bet’. But the upside is HU
 
 &#x200B;
 
-[DFV's March 8th YOLO Update](https://preview.redd.it/0m1qhx9hoko61.png?width=2886&format=png&auto=webp&s=577543d2e797aa04a71bbbcef403a74d7df74e40)
+![DFV's March 8th YOLO Update](https://preview.redd.it/0m1qhx9hoko61.png?width=2886&format=png&auto=webp&s=577543d2e797aa04a71bbbcef403a74d7df74e40)
 
 Do you see that crazy return on his options contracts? 88,183% Yes, he’s ‘made’ more money on his actual stock that's because he's only holding 500 contracts (50,000 shares controlled which is exactly half his long position).  But his return on the options is ORDERS of magnitude greater. You can bet the LWs will buy WAY more than 500 options contracts.
 
@@ -162,7 +163,7 @@ The second was when a guy just had to get in front of me to pass. I was about to
 
 A lot of you have asked if I’m on other social media. I absolutely hate Facebook and will never join that cesspool.  I'm on LinkedIn but that's more for my professional career.  I've linked to that already so I won't do so again.  Most social media is lost on me.  So I don't have a presence on many of the other platforms.
 
-I do have a Twitter ([clmoffatt](https://twitter.com/clmoffatt)) and a website/blog (![clmoffatt.com](https://clmoffatt.com)).
+I do have a Twitter ([clmoffatt](https://twitter.com/clmoffatt)) and a website/blog ([clmoffatt.com](https://clmoffatt.com)).
 
 I do enjoy writing, especially for you apes. During the long drive, I came up with a bunch of various topics that I’d like to write about in the future. I’ll continue to post GME related thoughts on this subreddit. But things unrelated to GME, I’ll post over there and send out a tweet when something new gets posted on my site.
 

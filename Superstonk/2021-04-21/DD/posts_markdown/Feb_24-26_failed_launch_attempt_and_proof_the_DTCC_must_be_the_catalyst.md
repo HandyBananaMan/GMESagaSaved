@@ -1,5 +1,6 @@
-# Author: Bladeace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/)
+#Title: Feb 24-26: failed launch attempt and proof the DTCC must be the catalyst?
+#Author: Bladeace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/](https://www.reddit.com/r/Superstonk/comments/mvvuhp/feb_2426_failed_launch_attempt_and_proof_the_dtcc/)
 
 
 **TL;DR:** This never should have gone on for this long, it's too dangerous for everyone involved. Whales tried to solve this themselves and attempted to launch the rocket in February with a gamma squeeze. This failed, so they have no choice except to fight a holding pattern until the DTCC and the feds step in. I hold because I think they are all working hard to bring me a very large bucket of tendies.
@@ -14,15 +15,15 @@ I wrote the below speculation because I am having a difficult time understanding
 
 During February the amount of GME shares traded peaked at a mindboggling high of four times the float being traded in one day. [This](https://www.forbes.com/sites/georgecalhoun/2021/03/10/gamestop-the-second-surgeanatomy-of-a-gamma-swarm/?sh=662560a24225) article from Forbes summarizes the volume of trades:
 
-[Yeah, four times the float of a large company is fucking loads.](https://preview.redd.it/lo63uje4jmu61.png?width=972&format=png&auto=webp&s=db1f700de4a32bb02dc19c9fa61181a7e8bcac1d)
+![Yeah, four times the float of a large company is fucking loads.](https://preview.redd.it/lo63uje4jmu61.png?width=972&format=png&auto=webp&s=db1f700de4a32bb02dc19c9fa61181a7e8bcac1d)
 
 Before this massive spike in volume, slightly more than the entire float is being traded daily. That's already ridiculous, so the trade volume is spiking from ridiculous to insane. The same article provides this chart to illustrate how sharply it rose:
 
-[What. The. Fuck.](https://preview.redd.it/lzezctvhkmu61.png?width=959&format=png&auto=webp&s=860b09112f8b610dc76e81bf579248f97f6b7475)
+![What. The. Fuck.](https://preview.redd.it/lzezctvhkmu61.png?width=959&format=png&auto=webp&s=860b09112f8b610dc76e81bf579248f97f6b7475)
 
 Unsurprisingly, the price goes up by a lot during this period. The author of this chart argues that this is because of a gamma squeeze which is, basically, when options are used to drive price rises. The following chart supports their assertion:
 
-[Yep, that's a fuck ton of options alright!](https://preview.redd.it/bsyczqiflmu61.png?width=959&format=png&auto=webp&s=9bab12f029d2deba0b09529c6b326c8ae28eb683)
+![Yep, that's a fuck ton of options alright!](https://preview.redd.it/bsyczqiflmu61.png?width=959&format=png&auto=webp&s=9bab12f029d2deba0b09529c6b326c8ae28eb683)
 
 I think the author makes a strong case for these claims. By using options, the volume of trades was driven way up very quickly. The price rose accordingly. However, the author goes on to argue that this was caused by reddit users coordinating options purchases. I'm not going to spend time discussing that claim here because I think it's absurd^(1).
 
@@ -36,7 +37,7 @@ Before I continue, I think it's important to note that the wash sales which, we 
 
 It might help to remember what the price charts looked like during this period. You'll all probably remember this bizarre graph:
 
-[The graph my broker provides wasn't this dramatic but it still looked fucky](https://preview.redd.it/gb4sy55ynmu61.png?width=1669&format=png&auto=webp&s=c4ddece1f2c8cf16a85fd4e4dfb5804b50d32d55)
+![The graph my broker provides wasn't this dramatic but it still looked fucky](https://preview.redd.it/gb4sy55ynmu61.png?width=1669&format=png&auto=webp&s=c4ddece1f2c8cf16a85fd4e4dfb5804b50d32d55)
 
 I think what we're seeing during this period is two high frequency traders directly competing to change the price, one trying to drive the price up by buying all the shares and the other trying to drive the price down by selling enough shares that the other can't buy them all. One party is using options to flood the market with buy orders while the other is flooding it with sell orders. These orders change the price, the buys raise the price and the sells lower it. Given how quickly this happens it looks, on the graph, like there are some points in time with no price (the vertical lines); this is because there is a large range of prices being traded at during the moment that point on the graph represents. At least, that's my understanding of the graph. Someone in the comments may clarify further, or correct an error on my part, in which case I'll edit accordingly. 
 
@@ -66,7 +67,7 @@ The shorts fought back and went further than the longs expected. To avoid launch
 
 So, they turned to the DTCC and advised them they had to sort it out. For this reason, we get a growing raft of new regulations designed to prevent this from happening again and allowing them to resolve the mess. I believe the current low volume indicates team longs are now in a position to launch the rocket if they desire. I think they are waiting because the DTCC has shown they are taking action and the longs are willing to give them a little time to prepare.
 
-As this has all transpired, I think the wider financial community has begun to become aware of what is happening. I think the unusual bank activity is them preparing for this. If this is true, launch is likely imminent. I say this because no one involved wants this to make it into mainstream media before it begins. They can't stop people from knowing about it after it's begun, but they *really* don't want to give the public notice. My guess is that ![this](https://www.reddit.com/r/Superstonk/comments/mvoi4h/gme_closed_001_from_previous_day_close_this_has/) recent post is correct and we're currently looking at the final preparations in the market.
+As this has all transpired, I think the wider financial community has begun to become aware of what is happening. I think the unusual bank activity is them preparing for this. If this is true, launch is likely imminent. I say this because no one involved wants this to make it into mainstream media before it begins. They can't stop people from knowing about it after it's begun, but they *really* don't want to give the public notice. My guess is that [this](https://www.reddit.com/r/Superstonk/comments/mvoi4h/gme_closed_001_from_previous_day_close_this_has/) recent post is correct and we're currently looking at the final preparations in the market.
 
 # Summary
 

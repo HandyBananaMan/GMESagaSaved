@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwv838/live_charting_with_pickle_financial_for_42321_and/](https://www.reddit.com/r/Superstonk/comments/mwv838/live_charting_with_pickle_financial_for_42321_and/)
+#Title: Live Charting with Pickle Financial for 4/23/21, and In Depth Technical Analysis for GME
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwv838/live_charting_with_pickle_financial_for_42321_and/](https://www.reddit.com/r/Superstonk/comments/mwv838/live_charting_with_pickle_financial_for_42321_and/)
 
 
 Hello fellow apes,

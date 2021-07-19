@@ -1,16 +1,17 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/)
+#Title: 🚨Blowing my diamond whistle- As a highly visible poster here, I want my apes to know. I have been offered money to post non-GME content in our stock subs. Beware everything you read until MOASS, no matter who is the OP!🚨
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/](https://www.reddit.com/r/Superstonk/comments/ms6yvq/blowing_my_diamond_whistle_as_a_highly_visible/)
 
 
-Labeling this DD because, aside from having to do with *an offer to be paid to post DD*, I actually performed due diligence on the [offer](https://imgur.com/a/tziYjXQ).
+Labeling this DD because, aside from having to do with *an offer to be paid to post DD*, I actually performed due diligence on the ![offer](https://imgur.com/a/tziYjXQ).
 
-If you think those alarm posts yesterday about top posters here/YouTubers getting paid to distract apes during the MOASS was FUD, I'm here with [proof](https://i.imgur.com/ybOBrfA.jpg) it's totally fucking true. (Details edited out for privacy. More on why below...) **I have now sent unedited proof of the company to mods just for public integrity so you all know I'm not making this up. ~~No I will not publicly out them right now~~ [Update 4/18](https://www.reddit.com/r/Superstonk/comments/mtc4xu/buying_influence_the_pump_and_dump_scheme_preying/?utm_medium=android_app&utm_source=share)**
+If you think those alarm posts yesterday about top posters here/YouTubers getting paid to distract apes during the MOASS was FUD, I'm here with ![proof](https://i.imgur.com/ybOBrfA.jpg) it's totally fucking true. (Details edited out for privacy. More on why below...) **I have now sent unedited proof of the company to mods just for public integrity so you all know I'm not making this up. ~~No I will not publicly out them right now~~ [Update 4/18](https://www.reddit.com/r/Superstonk/comments/mtc4xu/buying_influence_the_pump_and_dump_scheme_preying/?utm_medium=android_app&utm_source=share)**
 
 [Update 1: I posted part of the phone call for the naysayers](https://www.reddit.com/r/Superstonk/comments/msdr64/yall_wanted_proof_here_is_the_first_60_seconds_of/?utm_medium=android_app&utm_source=share)
 
 Some of you may know my username from memes. Sometimes I overdose on crayons and throw up a colorful DD. Some people think I'm crazy because I've posted some kinda out there theories (I stand by every one of them). But I'm just doing my thing, posting about GME in a few main stock subs since January. Cruising around reddit being a trippy lil pink cat 🐈🍄💕 
 
-In the last couple of weeks I feel the tides have changed on the battlefront. Obvious paid shill accounts with the ol' adjective-noun-number format in their username started commenting way more hateful, personal stuff on my posts. All kinds of messages that seemed like they were meant to be not too aggressive, but make me paranoid none the less. After I made a few seemingly big connections in my recent posts, my account was reported for self harm. (I am a perfectly happy and content lil kitty, don't worry 🙂). Things started getting a little spooky. I also got over [100](http://imgur.com/a/02FrYiS) new followers just after posting that same OP. (I'm not going to link it here because that's not what this post is about.) 
+In the last couple of weeks I feel the tides have changed on the battlefront. Obvious paid shill accounts with the ol' adjective-noun-number format in their username started commenting way more hateful, personal stuff on my posts. All kinds of messages that seemed like they were meant to be not too aggressive, but make me paranoid none the less. After I made a few seemingly big connections in my recent posts, my account was reported for self harm. (I am a perfectly happy and content lil kitty, don't worry 🙂). Things started getting a little spooky. I also got over ![100](http://imgur.com/a/02FrYiS) new followers just after posting that same OP. (I'm not going to link it here because that's not what this post is about.) 
 
 **Did you hear me?!** *Over 100 new followers in like a 2 hour time frame. After a post that got like 30 upvotes and some Q comments.* 
 

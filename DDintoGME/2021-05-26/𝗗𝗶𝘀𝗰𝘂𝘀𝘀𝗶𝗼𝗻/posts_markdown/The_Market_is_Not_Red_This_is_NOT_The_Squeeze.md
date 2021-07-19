@@ -1,5 +1,6 @@
-# Author: c-digs
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/](https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/)
+#Title: The Market is Not Red; This is NOT The Squeeze
+#Author: c-digs
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/](https://www.reddit.com/r/DDintoGME/comments/nlkif6/the_market_is_not_red_this_is_not_the_squeeze/)
 
 
 Something is throwing me off about this rally.  I know many apes are in an excited state given the long stretch of sideways trading and I don't want to damper anyone's excitement, but this surge feels *off*.
@@ -14,12 +15,12 @@ I hope some folks give this some thought so that we can think through how this w
 6. There is an incredible symmetry to the days on March 4 - 9 (see below) but with far less volume
 7. With this, we can anticipate that perhaps we will see a return into a more stable price once this FTD cycle once again kicks the can down the line.
 
-[March 4-9 surge versus current surge.](https://preview.redd.it/qoe01mzlmh171.png?width=1630&format=png&auto=webp&s=0523cddb8d4f40b90a95290188469d5bf4ccec4e)
+![March 4-9 surge versus current surge.](https://preview.redd.it/qoe01mzlmh171.png?width=1630&format=png&auto=webp&s=0523cddb8d4f40b90a95290188469d5bf4ccec4e)
 
-[iBorrowDesk showing that Interactive Brokers still has the borrow fee at 1&#37;](https://preview.redd.it/jd81msikii171.png?width=352&format=png&auto=webp&s=9aa17da8af4369c191e311a9ca16328a8cdc7d26)
+![iBorrowDesk showing that Interactive Brokers still has the borrow fee at 1&#37;](https://preview.redd.it/jd81msikii171.png?width=352&format=png&auto=webp&s=9aa17da8af4369c191e311a9ca16328a8cdc7d26)
 
 Would love for other folks to chime in and provide some thoughts and counterpoints so that we can better understand if this is indeed the start of the squeeze or just "Yet Another FTD Cycle".
 
 My secondary goal is to uncover other avenues of due diligence and ideas to explore to see if we can find data that explains the market activity leading into and including this week.
 
-**Edit**: ![Then we have this Tweet from Ihor Dusaniwsky that mentions S3 rating GME and AMC 10/10 for a short squeeze](https://www.reddit.com/r/Superstonk/comments/nlkrke/confirmation_bias_tits_jacked/).  Definitely the sense that some fuckery is afoot.
+**Edit**: [Then we have this Tweet from Ihor Dusaniwsky that mentions S3 rating GME and AMC 10/10 for a short squeeze](https://www.reddit.com/r/Superstonk/comments/nlkrke/confirmation_bias_tits_jacked/).  Definitely the sense that some fuckery is afoot.

@@ -1,10 +1,11 @@
-# Author: redchessqueen99
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/](https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/)
+#Title: Superstonk Wellness Update 🩺 and New Mods 🦍🦍🦍🦍
+#Author: redchessqueen99
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/](https://www.reddit.com/r/Superstonk/comments/obei9c/superstonk_wellness_update_and_new_mods/)
 
 
 # Congratulations on 500,000 members, Superstonk! This is truly remarkable! Thank you all for being here! I love you all! 💎💙
 
-[Apes Together Strong](https://preview.redd.it/0ebg2jg52k871.jpg?width=780&format=pjpg&auto=webp&s=7ea9c291eb0f1b2739f4fc32e3aa9550a7d4bcac)
+![Apes Together Strong](https://preview.redd.it/0ebg2jg52k871.jpg?width=780&format=pjpg&auto=webp&s=7ea9c291eb0f1b2739f4fc32e3aa9550a7d4bcac)
 
 We have come a long way since, *checks notes*, three months ago. r/Superstonk was created on March 15, and I sort of thought of it as a joke sub, until April 4, when the Second Great Ape Migration occurred and, in 24 hours, over 100,000 apes joined the sub and our new era had begun. Just three months later, we are now five times that number, and are growing more and more with every day.
 
@@ -12,7 +13,7 @@ Congratulations, apes! This truly is a marvelous- nay, a LEGENDARY feat. Apes to
 
 # Superstonk Growth Plan
 
-[From baby apes to grown baby apes.](https://preview.redd.it/uafjjiz62k871.jpg?width=1200&format=pjpg&auto=webp&s=2620337fa4807ca27c013c54efb16974446004a0)
+![From baby apes to grown baby apes.](https://preview.redd.it/uafjjiz62k871.jpg?width=1200&format=pjpg&auto=webp&s=2620337fa4807ca27c013c54efb16974446004a0)
 
 With this natural and impressive growth, the mod team has been putting together plans for expansion. We have modified our structure of mod hierarchy, and organized our team in a way that truly is comforting to all of us. We no longer fret over the psychological issues of compromised mods or bad actors, and honestly I must say this is the best team I have ever been a part of. I see nothing but great things in our future.
 
@@ -24,7 +25,7 @@ We are planning to add 2-3 mods on a regular basis to ensure proper management o
 
 # Welcome Our New Moderators!
 
-[Get into the mod team, you damn dirty apes!](https://preview.redd.it/ksep93e82k871.png?width=726&format=png&auto=webp&s=288ac3ccd2b1ab105a84104a3906bdb4e9bfe4c7)
+![Get into the mod team, you damn dirty apes!](https://preview.redd.it/ksep93e82k871.png?width=726&format=png&auto=webp&s=288ac3ccd2b1ab105a84104a3906bdb4e9bfe4c7)
 
 This week, we are adding FOUR new moderators. They are already in the mod chat and meshing well with the whole team. Please give them all a warm welcome:
 
@@ -37,7 +38,7 @@ I am superstonkin' excited to have these four aboard, and I am very excited to s
 
 # Superstonk's Future
 
-[APE 2.0](https://preview.redd.it/pg4aimcb2k871.jpg?width=1280&format=pjpg&auto=webp&s=6c97f8953bb6400f373acfa42d99f34f00c051d5)
+![APE 2.0](https://preview.redd.it/pg4aimcb2k871.jpg?width=1280&format=pjpg&auto=webp&s=6c97f8953bb6400f373acfa42d99f34f00c051d5)
 
 I know there has been a lot of concern around the recent communication we received from reddit admins regarding [**issues of brigading**](https://www.reddit.com/r/Superstonk/comments/o80eky/no_brigading/), where apes are pushing GameStop and Superstonk onto other subs, as well as referencing them in negative light on this sub overall. Therefore, we have made several changes to the automod code, as well as a required change added by reddit admins, to prevent the discussion of certain terms and references to other subreddits. Please honor these constraints, and help us keep the sub going strong.
 
@@ -49,7 +50,7 @@ So, please do your best to behave, to be civil, to be polite, and to be conscien
 
 # Re: Knights of New
 
-[Is this ape? Or shill in ape suit?](https://preview.redd.it/6gvlcflc2k871.jpg?width=1000&format=pjpg&auto=webp&s=ba3220238cfdaeb446a4548a93b2ce4b7a79a885)
+![Is this ape? Or shill in ape suit?](https://preview.redd.it/6gvlcflc2k871.jpg?width=1000&format=pjpg&auto=webp&s=ba3220238cfdaeb446a4548a93b2ce4b7a79a885)
 
 This group has popped up over the past month or so, and aims to "police" the New sorted r/Superstonk feed, and intentionally downvotes posts that violate our sub's rules and general content quality, and upvotes those that they deem to be quality content. While at first, this idea seemed fun and a good idea, as apes voting for good content and downvoting bad content has always been a staple of the success of the sub, we now are seeing some aspects that are problematic.
 

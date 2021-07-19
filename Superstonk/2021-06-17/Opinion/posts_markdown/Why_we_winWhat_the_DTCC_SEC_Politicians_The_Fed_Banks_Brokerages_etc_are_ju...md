@@ -1,10 +1,11 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/](https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/)
+#Title: Why we win.......What the DTCC, SEC, Politicians, The Fed, Banks, Brokerages, etc are just figuring out and why they are terrified of what is about to happen.
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/](https://www.reddit.com/r/Superstonk/comments/o1xztj/why_we_winwhat_the_dtcc_sec_politicians_the_fed/)
 
 
 &#x200B;
 
-[Victory!!!!](https://preview.redd.it/5ifgy0du9n571.jpg?width=1080&format=pjpg&auto=webp&s=2ff6398b98c4e55e88380684bad8a264ccf8a153)
+![Victory!!!!](https://preview.redd.it/5ifgy0du9n571.jpg?width=1080&format=pjpg&auto=webp&s=2ff6398b98c4e55e88380684bad8a264ccf8a153)
 
 # Apes,
 

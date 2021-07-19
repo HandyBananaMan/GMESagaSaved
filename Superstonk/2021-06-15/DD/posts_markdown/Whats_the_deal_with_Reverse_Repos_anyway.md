@@ -1,5 +1,6 @@
-# Author: memebetch6969
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o08rmm/whats_the_deal_with_reverse_repos_anyway/](https://www.reddit.com/r/Superstonk/comments/o08rmm/whats_the_deal_with_reverse_repos_anyway/)
+#Title: What's the deal with Reverse Repos anyway?
+#Author: memebetch6969
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o08rmm/whats_the_deal_with_reverse_repos_anyway/](https://www.reddit.com/r/Superstonk/comments/o08rmm/whats_the_deal_with_reverse_repos_anyway/)
 
 
 Update part 1.2: [https://www.reddit.com/r/Superstonk/comments/o28xhx/whats\_the\_deal\_with\_reverse\_repos\_anyway\_dd\_part/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/o28xhx/whats_the_deal_with_reverse_repos_anyway_dd_part/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) —————————-
@@ -72,7 +73,7 @@ What is the FED doing about all this? \*puts on tinfoil hat\* Most likely **coll
 
 https://preview.redd.it/tpzgwj2jqx571.png?width=1117&format=png&auto=webp&s=79e1f6653e662a97bc37b4b21a64c7578bb0ec1d
 
-[If I had went into this in detail would need a part 2, it's 2:30AM right now so you'll just have to take u/Criand word for it](https://preview.redd.it/apgzo9kavd571.png?width=624&format=png&auto=webp&s=46624db19f3752d401ef9b0e26c09daa102f8077)
+![If I had went into this in detail would need a part 2, it's 2:30AM right now so you'll just have to take u/Criand word for it](https://preview.redd.it/apgzo9kavd571.png?width=624&format=png&auto=webp&s=46624db19f3752d401ef9b0e26c09daa102f8077)
 
 # So we have TNT on top of a Nuclear Bomb in the Reverse Repo Market, on top of that you have everyone borrowing money like crazy:
 

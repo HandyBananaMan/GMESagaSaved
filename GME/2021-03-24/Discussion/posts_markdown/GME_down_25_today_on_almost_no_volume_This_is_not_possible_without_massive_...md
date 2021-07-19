@@ -1,5 +1,6 @@
-# Author: OhBabah
-# Post URL: [https://www.reddit.com/r/GME/comments/mcdw5x/gme_down_25_today_on_almost_no_volume_this_is_not/](https://www.reddit.com/r/GME/comments/mcdw5x/gme_down_25_today_on_almost_no_volume_this_is_not/)
+#Title: GME down 25% today on almost no volume. This is not possible without massive Hedge Fund short laddering. The price loss is not real.
+#Author: OhBabah
+#Post URL: [https://www.reddit.com/r/GME/comments/mcdw5x/gme_down_25_today_on_almost_no_volume_this_is_not/](https://www.reddit.com/r/GME/comments/mcdw5x/gme_down_25_today_on_almost_no_volume_this_is_not/)
 
 
 *This is an opinion piece based on my own DD. I do not sit on the board of a hedge fund nor have I worked for one. This should be considered theoretical methodology in practice and not empirical absolution*

@@ -1,5 +1,6 @@
-# Author: pepsodont
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb0cw0/why_its_impossible_to_lose_this_fight_the/](https://www.reddit.com/r/Superstonk/comments/nb0cw0/why_its_impossible_to_lose_this_fight_the/)
+#Title: 🚀 WHY IT'S IMPOSSIBLE TO LOSE THIS FIGHT: THE FUDCRACKER, TOO BIG TO FAIL 🚀
+#Author: pepsodont
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb0cw0/why_its_impossible_to_lose_this_fight_the/](https://www.reddit.com/r/Superstonk/comments/nb0cw0/why_its_impossible_to_lose_this_fight_the/)
 
 
 THIS FIGHT CAN'T BE LOST - if apes don't sell. Zero chance of it, ZERO. ZERO 👌. You read that right, ZERO chance of a loss, ONE FUCKING HUNDRED PERCENT CHANCE OF A WIN. It's that simple.

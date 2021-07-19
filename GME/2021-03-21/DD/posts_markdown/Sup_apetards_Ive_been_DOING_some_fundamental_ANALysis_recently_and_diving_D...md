@@ -1,5 +1,6 @@
-# Author: roman_axt
-# Post URL: [https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/](https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/)
+#Title: Sup, apetards! I've been DOING some fundamental ANALysis recently and diving DEEP into my most favorite stock of all time - which is surely GEEMEEE - and in the process it accumulated into a fking ULTIMATE ENDGAME GODTIER DD. Enjoy the read! [APEFRIENDLY] Part I 💎 🙌 🚀 🌕 🪐 🌌
+#Author: roman_axt
+#Post URL: [https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/](https://www.reddit.com/r/GME/comments/ma3a5h/sup_apetards_ive_been_doing_some_fundamental/)
 
 
 I have to warn you, this is a super duper long read and it will take a considerable amount of your time as well as about 140% (several estimations state that the percentage might even be as high as 420-696.9%) of brain resources. However, it is completely worth it, I promise you - ape transcendence is imminent upon completing the reading.
@@ -57,16 +58,16 @@ I am sorry that your head exploded after looking at the words aforementioned abo
 Puts on your brain then. Just eat a banana, or a Crayon, you will be fine... Allrighty, you convinced me. Lets dive out of theory and discuss GAMEEESTOOOOP, finally! We will jump back to the concepts elaborated upon above as soon as the context is necessary for that. Here, Wen Moon got your back and he will cheer you up for your dedication in reading!  
 
 
-[\\"Camon ape ya can do it, read and evolve!\\" - Wen Moon.](https://preview.redd.it/z45wnj697eo61.jpg?width=461&format=pjpg&auto=webp&s=7f1f32bf4ea435f7ab3a02cdc597350da2e7a18c)
+![\\"Camon ape ya can do it, read and evolve!\\" - Wen Moon.](https://preview.redd.it/z45wnj697eo61.jpg?width=461&format=pjpg&auto=webp&s=7f1f32bf4ea435f7ab3a02cdc597350da2e7a18c)
 
 **"oKay i candO yit, fUkc mah braIn wit moore nowledge mtfakeRr!"** \- an ape.
 
 That's the approach I needed. Remember about antagonist MC? No, not the one who performed at your ape party yesterday and did it pretty bad. I'm talking about Melvin Capital. So, the main story line begins in 2014, the year when MC started to short the stock that I like very, very much. Gabe Plotkin, MC manager stated that fact proudly himself, during the first Congressional Hearing. Let's take a look at the chart of GME.  
 
 
-[GME Monthly Chart](https://preview.redd.it/nioeif5egeo61.png?width=1759&format=png&auto=webp&s=bba603499f76e15be530304345379043a7edf545)
+![GME Monthly Chart](https://preview.redd.it/nioeif5egeo61.png?width=1759&format=png&auto=webp&s=bba603499f76e15be530304345379043a7edf545)
 
-As you may see, the chart covers a relatively long period of time, and the big red REKTangle here highlights the obvious steady downward trend. From the current outlook on things, it is obvious that MC made a correct financial decision, shorting the stock from its highs of about $45 a share, all the way down to about 3 dollars per share diapason starting in the middle of 2019. That is a whooping gain of more than ninety(90)!!! %, or more than forty dollars per share gain! Impressive numbers, aren't they? Yeah, you won: you were right betting against the company; you've mad shit tons of money; your wife's boyfriend accepted your dominance as an alpha 'trader' (anagram) ape and voluntarily left the family, now FIX YOUR FUCKING PROFITS AND CLOSE YOUR POSITION! Why did the shorters not cover when they had a perfect opportunity window for that LASTING SEVERAL FUCKING YEARS? Because of ![the bankruptcy jackpot](https://finance.zacks.com/worthless-stocks-tax-deductible-4986.html).
+As you may see, the chart covers a relatively long period of time, and the big red REKTangle here highlights the obvious steady downward trend. From the current outlook on things, it is obvious that MC made a correct financial decision, shorting the stock from its highs of about $45 a share, all the way down to about 3 dollars per share diapason starting in the middle of 2019. That is a whooping gain of more than ninety(90)!!! %, or more than forty dollars per share gain! Impressive numbers, aren't they? Yeah, you won: you were right betting against the company; you've mad shit tons of money; your wife's boyfriend accepted your dominance as an alpha 'trader' (anagram) ape and voluntarily left the family, now FIX YOUR FUCKING PROFITS AND CLOSE YOUR POSITION! Why did the shorters not cover when they had a perfect opportunity window for that LASTING SEVERAL FUCKING YEARS? Because of [the bankruptcy jackpot](https://finance.zacks.com/worthless-stocks-tax-deductible-4986.html).
 
 As it was explained previously short selling is an important market instrument and it may deliver net decent profits for investors who effectively juggle the risk; the 'bankruptcy jackpot' is a rare occurrence which promises a much larger pay off if successful. And it is an extremely risky bet, the one that only the epic 'traders' are willing to undertake (so, to some extent it is possible to say, that MC belongs to WSB). The HFs were driven by the fact, that in the event of insolvency, any collateral provided to back up the shorted shares is returned to the short seller; furthermore, as it is no longer necessary to return the shares shorted, the shortist takes it all, the whole profit. Before the Ryan Cohen updates, the consensus and market sentiment on the greatest stock of all time was severely grim. So, why not go all in if you already won it all (MC reasoning)?
 

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m1uqba/synopsis_for_03102021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m1uqba/synopsis_for_03102021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-10-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m1uqba/synopsis_for_03102021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m1uqba/synopsis_for_03102021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -33,7 +34,7 @@ credit to  [u/HorseFacedDipShit](https://www.reddit.com/user/HorseFacedDipShit/)
 
 &#x200B;
 
-[source: Bloomberg](https://preview.redd.it/6hk0i04196m61.jpg?width=640&format=pjpg&auto=webp&s=a5b53a71874a403ae58716842b1e38befbcdc403)
+![source: Bloomberg](https://preview.redd.it/6hk0i04196m61.jpg?width=640&format=pjpg&auto=webp&s=a5b53a71874a403ae58716842b1e38befbcdc403)
 
 We are now bigger than Mutual funds and Hedgefunds combined. Just let that idea set in for a minute.
 
@@ -107,7 +108,7 @@ So when they cry on tv saying "they're ruining the economy" no jackass we are do
 
 # 
 
-[from Yahoo on GME](https://preview.redd.it/yp7501b4d6m61.jpg?width=720&format=pjpg&auto=webp&s=9a4b04c7172b71dc61d66a1392873a7b84163ed8)
+![from Yahoo on GME](https://preview.redd.it/yp7501b4d6m61.jpg?width=720&format=pjpg&auto=webp&s=9a4b04c7172b71dc61d66a1392873a7b84163ed8)
 
 # But how will we get paid?
 
@@ -210,7 +211,7 @@ thanks to  u/ellosee for pointing out the "price Anchoring"
 
 &#x200B;
 
-[Soon Moon's wise words](https://preview.redd.it/3adqbvwvg6m61.jpg?width=720&format=pjpg&auto=webp&s=08f2e56c0aca7267c373b4f80484bdb4fa9f403a)
+![Soon Moon's wise words](https://preview.redd.it/3adqbvwvg6m61.jpg?width=720&format=pjpg&auto=webp&s=08f2e56c0aca7267c373b4f80484bdb4fa9f403a)
 
 Don't over focus on what they're doing, expect fuckery, but keep your eye on the prize people.
 
@@ -330,7 +331,7 @@ Edit 8:
 
 Apparently CNBC is so fast they wrote this in less then 50 seconds...
 
-![https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
+[https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html](https://www.cnbc.com/2021/03/10/gamestop-surges-40percent-then-wipes-out-gain-completely-and-is-halted-again.html)
 
 **PUBLISHED WED, MAR 10 202112:41 PM EST**
 

@@ -1,5 +1,6 @@
-# Author: ChippThaRipp
-# Post URL: [https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/](https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/)
+#Title: DTCC New Proposed Rule Change - DTC-2021-005!
+#Author: ChippThaRipp
+#Post URL: [https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/](https://www.reddit.com/r/GME/comments/mi3xdt/dtcc_new_proposed_rule_change_dtc2021005/)
 
 
 Document can be found here:
@@ -132,4 +133,4 @@ You can't use banana contracts to close banana debts.
 
 Go check out their post here for more info:
 
-![https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005\_1st\_april\_2021/](https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005_1st_april_2021/)
+[https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005\_1st\_april\_2021/](https://www.reddit.com/r/GME/comments/mi3xdp/dtc2021005_1st_april_2021/)

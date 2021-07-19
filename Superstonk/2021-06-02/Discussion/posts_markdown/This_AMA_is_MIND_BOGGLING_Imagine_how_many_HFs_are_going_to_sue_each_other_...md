@@ -1,5 +1,6 @@
-# Author: JPao25
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nqx8h3/this_ama_is_mind_boggling_imagine_how_many_hfs/](https://www.reddit.com/r/Superstonk/comments/nqx8h3/this_ama_is_mind_boggling_imagine_how_many_hfs/)
+#Title: This AMA is MIND BOGGLING. Imagine how many HFs are going to sue each other over selling synthetic shares to each other.
+#Author: JPao25
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nqx8h3/this_ama_is_mind_boggling_imagine_how_many_hfs/](https://www.reddit.com/r/Superstonk/comments/nqx8h3/this_ama_is_mind_boggling_imagine_how_many_hfs/)
 
 
 This Wes Christian AMA is mind boggling and HFs are going unpunished for far too long. So many precedents and no one has learned. So much blatant criminal activity and no jail time. No apes should shed tears over their BS.

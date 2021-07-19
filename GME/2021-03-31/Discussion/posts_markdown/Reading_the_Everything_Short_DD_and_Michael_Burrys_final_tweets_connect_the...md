@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/GME/comments/mhh9kn/reading_the_everything_short_dd_and_michael/](https://www.reddit.com/r/GME/comments/mhh9kn/reading_the_everything_short_dd_and_michael/)
+#Title: Reading the Everything Short DD and Michael Burry's final tweets connect the final dots- Sirens are screaming in the distance... and no one is listening besides us. It ain't what you don't know that gets you in trouble, it's what you know for sure that just ain't so... My opinion as an actual a*tist
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/GME/comments/mhh9kn/reading_the_everything_short_dd_and_michael/](https://www.reddit.com/r/GME/comments/mhh9kn/reading_the_everything_short_dd_and_michael/)
 
 
 Update: Burry's Twitter now links to [this.](https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.htm) ... he knows we are looking 👀 *it directly refers to the rehypothecization and treasury securities discussed in Everything Short DD*
@@ -10,7 +11,7 @@ To a person with @uti$m, words mean something. Every word does. Every symbol....
 
 If you read the Everything Short DD and you're freaked out, it's ok. If you think u/atobitt is a shill or sent to induce FUD, I believe you're wrong. And here's why. 
 
-Everything in the DD echoes what our boy Dr. Burry has been saying since at least [Sept 2019.](https://www.cnbc.com/2019/09/04/the-big-shorts-michael-burry-says-he-has-found-the-next-market-bubble.html) One confirms the other. What more ![confirmation](https://www.reddit.com/r/GME/comments/mh7a8k/im_just_gonna_leave_this_right_here/?utm_medium=android_app&utm_source=share) do you need? 
+Everything in the DD echoes what our boy Dr. Burry has been saying since at least [Sept 2019.](https://www.cnbc.com/2019/09/04/the-big-shorts-michael-burry-says-he-has-found-the-next-market-bubble.html) One confirms the other. What more [confirmation](https://www.reddit.com/r/GME/comments/mh7a8k/im_just_gonna_leave_this_right_here/?utm_medium=android_app&utm_source=share) do you need? 
 
 Also look at what DJI and NASDAQ have been up to in AH. I believe we are approaching the launchpad ladies and apes 🚀🚀🚀🚀🚀🚀
 

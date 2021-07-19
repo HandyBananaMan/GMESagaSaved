@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/)
+#Title: Put Anomalies PT1 — Were 127 MILLION+ SYNTHETIC SHARES created since January, or is this data ‘nothing to worry about’? Why were 1.094 MILLION worthless PUTS traded on March3&4? Was it linked to the open interest? Findings of a 2-week market-data-driven and white paper investigation.
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/Superstonk/comments/mz7c7h/put_anomalies_pt1_were_127_million_synthetic/)
 
 
 # Tl;Dr: Not this time. You won't regret the time spent on this. There is also an ELIA at the bottom.
@@ -118,7 +119,7 @@ We have a sniff of a clue in this paper:
 
 ***p6:***
 
-[Married Put mechanism per Wellborn paper](https://preview.redd.it/hxc89g7uhmv61.png?width=670&format=png&auto=webp&s=571a4b5d3e01f592711092d12efba362bc601d23)
+![Married Put mechanism per Wellborn paper](https://preview.redd.it/hxc89g7uhmv61.png?width=670&format=png&auto=webp&s=571a4b5d3e01f592711092d12efba362bc601d23)
 
 ***p7:*** *The outcome of the married put is that the actual naked shorting occurs on the books of the options market maker. Regulation SHO says that, at T+13, the options market maker need not locate and deliver the “shares” he sold. Options market makers face no penalties for failing to deliver. Similarly, the short seller has no incentive to buy-in the market maker, as that would create upward price pressure on the stock—just the opposite of what a holder of a real or synthetic short position would want. Even if that were not true, it is common knowledge that buy-ins are rare. In a* [*2003 SEC Interpretive Release*](http://www.sec.gov/rules/interp/34-48795.htm.)*, the Commission expressed concern about “the manipulative sale of securities underlying a married put as part of a scheme to drive the market price down and later profit by purchasing the securities at a depressed price.” With increased scrutiny on married puts, anecdotal evidence suggests that they are being masked within market neutral trades known as reverse conversions. Classically, conversions and reverse conversions were riskless arbitrage transactions that converted common stock into options (and vice versa).*
 
@@ -196,7 +197,7 @@ This activity crops up on some other days, but not to this level.
 
 # March 3rd and 4th were real anomalies:
 
-[Options Trading volume suspicious on grounds of volume far exceeding Open Interest, 11JAN-8APR](https://preview.redd.it/9cgf0820imv61.png?width=1676&format=png&auto=webp&s=838e0f8dee643447bb7081871f462c02fbb06955)
+![Options Trading volume suspicious on grounds of volume far exceeding Open Interest, 11JAN-8APR](https://preview.redd.it/9cgf0820imv61.png?width=1676&format=png&auto=webp&s=838e0f8dee643447bb7081871f462c02fbb06955)
 
 # How out of the ordinary is this?
 

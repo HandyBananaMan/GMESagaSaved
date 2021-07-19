@@ -1,5 +1,6 @@
-# Author: SpicyLemonz
-# Post URL: [https://www.reddit.com/r/GME/comments/mh1buw/as_a_german_owning_shares_in_the_us_stock_market/](https://www.reddit.com/r/GME/comments/mh1buw/as_a_german_owning_shares_in_the_us_stock_market/)
+#Title: As a German owning shares in the US stock market and reading about all that fraud
+#Author: SpicyLemonz
+#Post URL: [https://www.reddit.com/r/GME/comments/mh1buw/as_a_german_owning_shares_in_the_us_stock_market/](https://www.reddit.com/r/GME/comments/mh1buw/as_a_german_owning_shares_in_the_us_stock_market/)
 
 
 Bitch better have my money

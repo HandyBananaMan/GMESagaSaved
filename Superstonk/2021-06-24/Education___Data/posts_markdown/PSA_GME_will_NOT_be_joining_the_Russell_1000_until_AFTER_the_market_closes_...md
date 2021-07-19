@@ -1,12 +1,13 @@
-# Author: haxelhimura
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/)
+#Title: PSA: GME will NOT be joining the Russell 1000 until AFTER the market closes tomorrow. Rebalancing happens after hours.
+#Author: haxelhimura
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/](https://www.reddit.com/r/Superstonk/comments/o735ef/psa_gme_will_not_be_joining_the_russell_1000/)
 
 
 How do you do fellow apes!
 
 Just as a friendly reminder since a lot of us are excited about GME joining the Russell 1000, this won't happen until AFTER market close so if there is any effect from this, we won't see it until Monday.
 
-[https://preview.redd.it/5f5f1zgre8771.png?width=925&format=png&auto=webp&s=322cf84c5c4ef5e7a6fdc47f0df3ee5da45cb019](https://preview.redd.it/5f5f1zgre8771.png?width=925&format=png&auto=webp&s=322cf84c5c4ef5e7a6fdc47f0df3ee5da45cb019)
+![https://preview.redd.it/5f5f1zgre8771.png?width=925&format=png&auto=webp&s=322cf84c5c4ef5e7a6fdc47f0df3ee5da45cb019](https://preview.redd.it/5f5f1zgre8771.png?width=925&format=png&auto=webp&s=322cf84c5c4ef5e7a6fdc47f0df3ee5da45cb019)
 
 Not meaning to dash anyone's hopes about tomorrow but just bringing awareness.
 

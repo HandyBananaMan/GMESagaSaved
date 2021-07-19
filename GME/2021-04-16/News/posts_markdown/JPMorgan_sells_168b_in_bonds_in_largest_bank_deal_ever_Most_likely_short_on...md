@@ -1,5 +1,6 @@
-# Author: AndyLee168
-# Post URL: [https://www.reddit.com/r/GME/comments/ms6sek/jpmorgan_sells_168b_in_bonds_in_largest_bank_deal/](https://www.reddit.com/r/GME/comments/ms6sek/jpmorgan_sells_168b_in_bonds_in_largest_bank_deal/)
+#Title: JPMorgan sells $16.8b in bonds in largest bank deal ever. Most likely short on cash!
+#Author: AndyLee168
+#Post URL: [https://www.reddit.com/r/GME/comments/ms6sek/jpmorgan_sells_168b_in_bonds_in_largest_bank_deal/](https://www.reddit.com/r/GME/comments/ms6sek/jpmorgan_sells_168b_in_bonds_in_largest_bank_deal/)
 
 
 

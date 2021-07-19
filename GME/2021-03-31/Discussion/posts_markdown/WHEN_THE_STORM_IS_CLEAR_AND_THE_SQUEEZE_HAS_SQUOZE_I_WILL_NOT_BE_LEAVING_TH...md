@@ -1,5 +1,6 @@
-# Author: Alternative_Band_880
-# Post URL: [https://www.reddit.com/r/GME/comments/mh4nx7/when_the_storm_is_clear_and_the_squeeze_has/](https://www.reddit.com/r/GME/comments/mh4nx7/when_the_storm_is_clear_and_the_squeeze_has/)
+#Title: WHEN THE STORM IS CLEAR AND THE SQUEEZE HAS SQUOZE.... I WILL NOT BE LEAVING THIS GROUP!!
+#Author: Alternative_Band_880
+#Post URL: [https://www.reddit.com/r/GME/comments/mh4nx7/when_the_storm_is_clear_and_the_squeeze_has/](https://www.reddit.com/r/GME/comments/mh4nx7/when_the_storm_is_clear_and_the_squeeze_has/)
 
 
 Every time I wake up, r/GME is the first place I go. I get a good feeling every time I come into Reddit and honestly don’t know what I’d do without it...

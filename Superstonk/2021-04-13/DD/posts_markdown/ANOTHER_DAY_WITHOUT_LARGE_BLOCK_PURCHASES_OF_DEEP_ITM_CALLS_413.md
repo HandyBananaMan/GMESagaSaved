@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/](https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/)
+#Title: ANOTHER DAY WITHOUT LARGE BLOCK PURCHASES OF DEEP ITM CALLS (4/13)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/](https://www.reddit.com/r/Superstonk/comments/mqiir8/another_day_without_large_block_purchases_of_deep/)
 
 
 Good evening everyone,
@@ -8,7 +9,7 @@ u/Dan_Bren here Just wanted to provide you all with the daily update regarding t
 
 As can be seen below there were no large block trades of DEEP ITM calls bring the total to 6 out of the last 7 days without any large block purchases.
 
-[GME Biggest Trades 4-13-2021](https://preview.redd.it/sfgloyxjs1t61.png?width=1227&format=png&auto=webp&s=2c661aa49ad4ed79158738a3ba492bbd19ccf981)
+![GME Biggest Trades 4-13-2021](https://preview.redd.it/sfgloyxjs1t61.png?width=1227&format=png&auto=webp&s=2c661aa49ad4ed79158738a3ba492bbd19ccf981)
 
 I just want to be clear that I'm not here to speculate on what I don't know. I just take the dataset I am presented daily and provide my best inferences to the good people of this sub.  Nothing here should be taken as fact it is purely my opinion and mine alone.  With that being said I think the lack of large block trades of DEEP ITM calls is very telling.
 

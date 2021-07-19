@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu86hd/the_daily_stonk_06072021/](https://www.reddit.com/r/Superstonk/comments/nu86hd/the_daily_stonk_06072021/)
+#Title: The Daily Stonk 06-07-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu86hd/the_daily_stonk_06072021/](https://www.reddit.com/r/Superstonk/comments/nu86hd/the_daily_stonk_06072021/)
 
 
 &#x200B;
@@ -56,7 +57,7 @@ As most of you have heard by now past saturday CNBC had a couple of "experts" on
 
 &#x200B;
 
-[#nakedshorts](https://preview.redd.it/j2ls4aji8t371.png?width=960&format=png&auto=webp&s=f5a4000a6797a2949f0b1d9fd8f28fd3abc825d0)
+![#nakedshorts](https://preview.redd.it/j2ls4aji8t371.png?width=960&format=png&auto=webp&s=f5a4000a6797a2949f0b1d9fd8f28fd3abc825d0)
 
 Also a funny comment the guy had was " don't think for a minute that hedgefunds haven't hired people and put them into these chatrooms (reddit) to keep these flames going"... hmmm who else had talked about paid shills before 🤔 not sure sounds very familiar though.
 

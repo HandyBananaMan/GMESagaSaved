@@ -1,5 +1,6 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/](https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/)
+#Title: As we near the end game, let's take a moment to resync on the sensitive topic of Theoretical Floors (Yes, the 10M floor). I present "The Dangers of Groupthink: THE OMEGA BRRR CLUSTER AND THE 10M DOLLAR FLOOR". TLDR - Can 10M happen? Yes, but make sure you understand the conditions of "HOW".
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/](https://www.reddit.com/r/Superstonk/comments/n8qavc/as_we_near_the_end_game_lets_take_a_moment_to/)
 
 
 Before you read the post or skip to the TL;DR
@@ -25,7 +26,7 @@ This post is basically an expansion on a psychological theme of a [separate DD](
 
 &#x200B;
 
-[This isn't even my final form](https://preview.redd.it/u6hf5dy9i5y61.png?width=261&format=png&auto=webp&s=b3d109e1119b0667645831ccfffcf56eeb80a111)
+![This isn't even my final form](https://preview.redd.it/u6hf5dy9i5y61.png?width=261&format=png&auto=webp&s=b3d109e1119b0667645831ccfffcf56eeb80a111)
 
 >Shout out to u/MrFerno for creating this abomination.
 
@@ -57,7 +58,7 @@ It has also been widely assumed that the DTCC will let the Omega Brrr Cluster se
 
 Photo from inside Shitadel I took once:
 
-[Not sure WTF is going on here, but I think you get the comparison. ](https://preview.redd.it/k8obmr8h66y61.png?width=700&format=png&auto=webp&s=0dacf4fd32c1c7f937b6d3b11bc22b6b437a9016)
+![Not sure WTF is going on here, but I think you get the comparison. ](https://preview.redd.it/k8obmr8h66y61.png?width=700&format=png&auto=webp&s=0dacf4fd32c1c7f937b6d3b11bc22b6b437a9016)
 
 For the smooth-brains, the duck in this case is the 10M floor and belief in what the Omega Brrr Cluster will do. Let's say the guy holding the duck has a good reason, the guy behind him is his wife's boyfriend, and the third guy's brain is hella smooth, so he just does the same as the second guy. Guy 4, who is not a smooth-brain, walks in for his first day at he office but doesn't have the balls to ask wtf they are doing so he just claims it is normal and follows suit. By the time guy 5 gets there, even reasonable people would assume there is probably a good reason for what they are seeing, so they add to the train, and by person 6, the situation is fu\*ked and only Guy 1 and possibly his wife's boyfriend know why he is holding the duck. Guys 3-6 are just echoing the behavior.
 
@@ -67,7 +68,7 @@ I wouldn't be surprised if this part of the reason why hedgies started piling on
 
 While finishing my taxes with my financial advisor (below) who was not yet up to speed on the GME saga. I don't remember why I put a hat on him, but here we are.
 
-[Captain Gubert \\"Gooby\\" \(my advisor\)](https://preview.redd.it/8ilwxlxki5y61.png?width=447&format=png&auto=webp&s=1aad9d490a450b10d72f647cce42acf785355a26)
+![Captain Gubert \\"Gooby\\" \(my advisor\)](https://preview.redd.it/8ilwxlxki5y61.png?width=447&format=png&auto=webp&s=1aad9d490a450b10d72f647cce42acf785355a26)
 
 I found myself having to explain to him the reasoning behind my near 100% portfolio diversity on a certain stock I liked, so I started showing him the DD to help explain. Since cat brain > smooth-brain, he understood and supported the move. We then got on the topic of price targets. During his own research on reddit he mentioned repeatedly coming across posts about $10M floors, and asked where that number came from. I referred him for DD behind that number, which he accepted, but he brought up an excellent point.
 

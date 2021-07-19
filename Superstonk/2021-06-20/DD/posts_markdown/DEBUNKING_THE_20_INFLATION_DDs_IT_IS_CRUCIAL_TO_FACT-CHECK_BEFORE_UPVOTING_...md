@@ -1,5 +1,6 @@
-# Author: hikurashi83
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/](https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/)
+#Title: DEBUNKING THE 20% INFLATION DDs! IT IS CRUCIAL TO FACT-CHECK BEFORE UPVOTING DDs WITH WILDLY ABSURD CLAIMS!
+#Author: hikurashi83
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/](https://www.reddit.com/r/Superstonk/comments/o49o2w/debunking_the_20_inflation_dds_it_is_crucial_to/)
 
 
 I've seen multiple posts ([Post 1](https://www.reddit.com/r/Superstonk/comments/o2dw45/thoughts_on_the_feds_balance_sheet_after_todays/)and [Post 2](https://www.reddit.com/r/Superstonk/comments/o42ftz/theres_been_a_lot_of_talk_about_inflation_what/)) rise to the top this weekend regarding true inflation estimated to 19-20% which I am here to explain why this is wildly incorrect.
@@ -108,7 +109,7 @@ I understand we wants our tits jacked but it's important to fact check DDs, espe
 
 but is incapable of explaining his numbers when challenged in the comments (turns out the math DOES lie when done incorrectly).
 
-I do believe both OP's wrote their DDs in good faith but again, it is crucial that DDs (especially ones that reach the top) have been reviewed and fact checked to avoid spreading misinformation whether or not they please ![Jacques Tits](https://en.wikipedia.org/wiki/Jacques_Tits), especially if OPs are non-receptive when clearly debunked or given valid criticism.
+I do believe both OP's wrote their DDs in good faith but again, it is crucial that DDs (especially ones that reach the top) have been reviewed and fact checked to avoid spreading misinformation whether or not they please [Jacques Tits](https://en.wikipedia.org/wiki/Jacques_Tits), especially if OPs are non-receptive when clearly debunked or given valid criticism.
 
 Also, I think we really need a **DEBUNKED** (or Counter-DD) flair which will encourage wrinkled apes to debunk or atleast challenge top DDs ultimately increasing their reliability and quality.
 

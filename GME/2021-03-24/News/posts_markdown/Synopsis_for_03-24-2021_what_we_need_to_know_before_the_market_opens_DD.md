@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mc2did/synopsis_for_03242021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mc2did/synopsis_for_03242021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-24-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mc2did/synopsis_for_03242021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mc2did/synopsis_for_03242021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -312,7 +313,7 @@ Edit 1:
 
 Reevaluating senior board members
 
-On page 17 of:![https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593)
+On page 17 of:[https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593)
 
     Turnover in our senior management or our inability to attract and retain qualified personnel could have a material adverse impact on our business and results of operations.
     

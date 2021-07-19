@@ -1,5 +1,6 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/)
+#Title: The naked shorting scam update: selling nude like its 2021
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/](https://www.reddit.com/r/GME/comments/mh6lnz/the_naked_shorting_scam_update_selling_nude_like/)
 
 
 This post is an update to the one I posted yesterday on r/GME and r/Wallstreetbetsnew. I hope to address some of the minor criticisms that were raised and use updated references for interested apes to look into.
@@ -141,7 +142,7 @@ How does this impact the scheme described previously?
 
 So the new rules do not change the potential scheme in any material way. There is now more risk on the market makers but if they can manage their FTDs they can keep trying to roll them over as before. Does this sound [familiar](https://iamnotafinancialadvisor.com/discord/DD/og/GMEv13.pdf)?
 
-[The FTD squeeze theory from https:\/\/iamnotafinancialadvisor.com\/Current-DD\/](https://preview.redd.it/v5zkyg2x4dq61.png?width=1419&format=png&auto=webp&s=c0c48d441bb8cc46f497775a757dcb5e0c321c0c)
+![The FTD squeeze theory from https:\/\/iamnotafinancialadvisor.com\/Current-DD\/](https://preview.redd.it/v5zkyg2x4dq61.png?width=1419&format=png&auto=webp&s=c0c48d441bb8cc46f497775a757dcb5e0c321c0c)
 
 If a market maker were to manage their FTD deliverables using the above method, or something similar, then in effect they have side stepped the new rules and can delay delivering shares as before.
 
@@ -175,4 +176,4 @@ Some references and further reading:
 * [The ‘Phantom Shares’ Menace (2008)](https://web.archive.org/web/20190623164454/http://rgmcom.com/articles/PhantomShares.pdf)
 * [What is a Regulation SHO bona-fide market maker? (2017)](https://web.archive.org/web/20190623164454/http://rgmcom.com/articles/PhantomShares.pdf)
 * [(Naked) Short Selling Around Earnings Announcement (2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2867383)
-* ![Three Essays on Naked Short Selling and Fails-to-Deliver  (2013)](https://search.proquest.com/openview/b7759a0d7c621f67d82668197d99c379/1?pq-origsite=gscholar&cbl=18750&diss=y)
+* [Three Essays on Naked Short Selling and Fails-to-Deliver  (2013)](https://search.proquest.com/openview/b7759a0d7c621f67d82668197d99c379/1?pq-origsite=gscholar&cbl=18750&diss=y)

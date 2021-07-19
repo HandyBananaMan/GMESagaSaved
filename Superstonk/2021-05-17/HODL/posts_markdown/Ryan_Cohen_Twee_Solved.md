@@ -1,5 +1,6 @@
-# Author: ristawa
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/)
+#Title: Ryan Cohen Twee Solved!
+#Author: ristawa
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/)
 
 
 You magnificent man! His granny was totally jamming out to the song

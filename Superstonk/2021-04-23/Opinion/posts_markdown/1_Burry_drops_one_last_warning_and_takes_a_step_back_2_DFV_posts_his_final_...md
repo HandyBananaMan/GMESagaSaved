@@ -1,5 +1,6 @@
-# Author: Auren1988
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwvy00/1_burry_drops_one_last_warning_and_takes_a_step/](https://www.reddit.com/r/Superstonk/comments/mwvy00/1_burry_drops_one_last_warning_and_takes_a_step/)
+#Title: 1. Burry drops one last warning and takes a step back. 2. DFV posts his final position and takes a step back. 3. Warden stops streaming and takes a step back. 4. Rensole posts a final Morning News and takes a step back. BE LIKE THE ALPHA APES AND TAKE A STEP BACK!
+#Author: Auren1988
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwvy00/1_burry_drops_one_last_warning_and_takes_a_step/](https://www.reddit.com/r/Superstonk/comments/mwvy00/1_burry_drops_one_last_warning_and_takes_a_step/)
 
 
 In through the nose, out through the mouth. Deep breaths now, you got this. You didn’t spend all those hours on the shitter reading DD to turn into a pack of jibbering conspiracy theorists at this point in the game. You owe it to yourself to get alllll your shit in a bag and fucking compose yourself. You think Ryan Cohen is looking at this sub with pride in his eyes right now? Fuck no he isn’t, and you know the worst part....He’s not even Angry, He’s just Dissapointed!

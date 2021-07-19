@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/)
+#Title: "Black Monday" events are Mondays which experience great market turbulence. September 29th, 2008, was one of these days which occurred the week OF a quarter end where there is even more strain on the system. The markets have been boiling all quarter, and next week is a Quarter End (June 30th).
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/](https://www.reddit.com/r/Superstonk/comments/o9aanm/black_monday_events_are_mondays_which_experience/)
 
 
 # 0. Preface
@@ -13,7 +14,7 @@ Macro economy posts! Horray! When ever you read these posts discussing the marke
 
 When shit hits the fan in the markets, that means entities can default. When entities default, especially banks, that means that their overleveraged borrowers (Short Hedge Funds) can go bust. This then, eventually, leads to them covering their short positions. And we know that with the DTC, ICC, OCC, NYSE, NSCC, FICC all pumping rules that were drafted up as early as 2017, they knew things were going to crash sooner or later.
 
-[Give A Mouse? Give An Ape?](https://preview.redd.it/3jg9qw3wdw771.png?width=821&format=png&auto=webp&s=7107939a67837a43d9267f26b52185fae56bf0d2)
+![Give A Mouse? Give An Ape?](https://preview.redd.it/3jg9qw3wdw771.png?width=821&format=png&auto=webp&s=7107939a67837a43d9267f26b52185fae56bf0d2)
 
 # 1. Mondays With Significant Market Turbulence; Some Happen The Week Of Quarter Ends
 
@@ -49,13 +50,13 @@ Side note: Did you know that the [dot-com bubble also burst](https://en.wikipedi
 
 Check out what happened to DJI on and after September 29th, 2008:
 
-[$DJI Behavior On and After \\"Black Monday\\" Event of September 29, 2008](https://preview.redd.it/l5uo46gafw771.png?width=1527&format=png&auto=webp&s=dd04baa89fee143d5f1e5922170367bc7111f913)
+![$DJI Behavior On and After \\"Black Monday\\" Event of September 29, 2008](https://preview.redd.it/l5uo46gafw771.png?width=1527&format=png&auto=webp&s=dd04baa89fee143d5f1e5922170367bc7111f913)
 
 And you're probably wondering, "what the hell is a quarter end"? The quarter end is a **specific date** spanning a time period of a Fiscal Quarter, where the year is split into four separate "quarters". It's a day where there is significant strain on the system due to the under workings of the market and the necessity to pump balance sheets.
 
-[https:\/\/investinganswers.com\/dictionary\/q\/quarter-q1-q2-q3-q4](https://preview.redd.it/9apb10lefw771.png?width=1066&format=png&auto=webp&s=5e049659e68cc0857b99383c2858fb10e9433da3)
+![https:\/\/investinganswers.com\/dictionary\/q\/quarter-q1-q2-q3-q4](https://preview.redd.it/9apb10lefw771.png?width=1066&format=png&auto=webp&s=5e049659e68cc0857b99383c2858fb10e9433da3)
 
-[https:\/\/investinganswers.com\/dictionary\/q\/quarter-q1-q2-q3-q4](https://preview.redd.it/nqbh45qffw771.png?width=481&format=png&auto=webp&s=21c399021d67abd67091dca2612a4703f99779a0)
+![https:\/\/investinganswers.com\/dictionary\/q\/quarter-q1-q2-q3-q4](https://preview.redd.it/nqbh45qffw771.png?width=481&format=png&auto=webp&s=21c399021d67abd67091dca2612a4703f99779a0)
 
 As the markets enter and live within the quarters, things might not be too strenuous or volatile but rather stable. As the markets approach the date of the quarter end, and the quarter end itself, **much** more turbulence can be expected. Especially within the repo markets for the sake of pumping balance sheets.
 
@@ -68,27 +69,27 @@ There's a big problem in the reverse repo market. And I'm kind of beating the de
 3. COVID caused a surge of bank deposits on both the bank and Fed's balance sheets. Now the banks are swimming in liquidity and will need many more treasuries to balance out their sheets.
 4. **There is most likely a T-bill shortage** due to over a decade of QE [which sucks $120 billion of treasuries out of the market each month](https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm) and the [US Treasury spending directly out of the TGA (Treasury General Account)](https://www.reuters.com/article/us-usa-treasury-liquidity-explainer/explainer-u-s-treasurys-cash-drawdown-and-why-markets-care-idUSKBN2AM26A) which causes the Fed's balance sheet to require **more** treasuries. As of May 26th, the US Treasury still planned on spending an additional $279 billion by June 30th. This will cause more strain on the treasury shortage as approaching Q2 end.
 
-[https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/4q1z56q0ew771.png?width=695&format=png&auto=webp&s=c65ca7fe7f5a0618ee22e340799366061721e4d5)
+![https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/4q1z56q0ew771.png?width=695&format=png&auto=webp&s=c65ca7fe7f5a0618ee22e340799366061721e4d5)
 
-[https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/rvt3devwhw771.png?width=703&format=png&auto=webp&s=02481c210ea6a8963a8d7ae7bc64e29cd19751ce)
+![https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/rvt3devwhw771.png?width=703&format=png&auto=webp&s=02481c210ea6a8963a8d7ae7bc64e29cd19751ce)
 
-[https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/tlkggqo5iw771.png?width=664&format=png&auto=webp&s=d7b42fc706a0f6756cb9509b0fa7b208039fdfb0)
+![https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/tlkggqo5iw771.png?width=664&format=png&auto=webp&s=d7b42fc706a0f6756cb9509b0fa7b208039fdfb0)
 
-[https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/3nvf9ez2gw771.png?width=684&format=png&auto=webp&s=6fc261bdc103428665e432e1d887bdcafb312c18)
+![https:\/\/wolfstreet.com\/2021\/05\/27\/fed-drains-485-billion-in-liquidity-from-market-via-reverse-repos-undoing-4-months-of-qe-even-as-qe-continues-total-assets-near-8-trillion\/](https://preview.redd.it/3nvf9ez2gw771.png?width=684&format=png&auto=webp&s=6fc261bdc103428665e432e1d887bdcafb312c18)
 
 Number 2 is one of the greatest warning signs. That the RRP has been **blowing up since the start of Q2**. It historically has not done that the past few years, and this shows there has been strain on the system since the start of the quarter. **There has been strain on the system since ENTERING Q2 and it isn't even the end of the quarter yet, at which there is even MORE strain on the system.**
 
 The RRP market is historically squeezed upward upon these quarter-end dates almost 100% of the time going all the way back to 2014. The Quarter Ends tend to push the cumulative RRP amount up 2-3x its current amount. Notice the spikes of RRP between 2014 and 2018:
 
-[RRP Movements Relative to Quarter Ends 2014-2018](https://preview.redd.it/9a407hqzbw771.png?width=1461&format=png&auto=webp&s=9c8d3c73cee578ebccfe246cf1fc19407ff6c386)
+![RRP Movements Relative to Quarter Ends 2014-2018](https://preview.redd.it/9a407hqzbw771.png?width=1461&format=png&auto=webp&s=9c8d3c73cee578ebccfe246cf1fc19407ff6c386)
 
 Now check out how there hasn't been strain on the RRP for a long time until March 2020 (COVID crash, **end of Q1**) and then **the start of 2021 Q2.** The system has been quite mellow for some time until COVID dumped in tons and tons of liquidity, amplifying the issue of the treasury shortage with way too much liquidity chasing after it:
 
-[RRP Strain On Markets 2018 to 2021; Insignificant Movements Until March 2020 \(COVID\) and Q2 of 2021](https://preview.redd.it/5zvn93c1cw771.png?width=1456&format=png&auto=webp&s=94882cf5fc78d01ea93ebced4c1921d9581660cb)
+![RRP Strain On Markets 2018 to 2021; Insignificant Movements Until March 2020 \(COVID\) and Q2 of 2021](https://preview.redd.it/5zvn93c1cw771.png?width=1456&format=png&auto=webp&s=94882cf5fc78d01ea93ebced4c1921d9581660cb)
 
 The latest numbers of RRP are $770 Billion as of June 25th. If the historical strain continues where it shoots 2-3x the current amounts, we could see >=$1.5 Trillion worth of treasuries borrowed in RRP. Maybe it will be even worse than a simple 2-3x. It's difficult to tell if the Fed can handle it since there is [evidence they are already trying to hide the t-bill shortage](https://www.reddit.com/r/Superstonk/comments/o4rfnu/the_fed_is_pinned_into_a_corner_from_the_2008/):
 
-[RRP Current Levels](https://preview.redd.it/5s6jpod4cw771.png?width=1455&format=png&auto=webp&s=239ce9264b3a77ecd2b040e84c39b67d2b1132ba)
+![RRP Current Levels](https://preview.redd.it/5s6jpod4cw771.png?width=1455&format=png&auto=webp&s=239ce9264b3a77ecd2b040e84c39b67d2b1132ba)
 
 The markets can hit a situation where there is simply not enough treasuries to balance the books of those who need them. Which leads to defaults, which can eventually lead to SHFs defaulting, the auctioning of assets through the DTC, ICC, OCC, and then covering of short positions.
 
@@ -106,7 +107,7 @@ From February 24th, 2020 to its bottom on March 23rd, 2020, the $DJI had lost mo
 
 The first [$2.2 Trillion Stimulus](https://en.wikipedia.org/wiki/CARES_Act) was passed and signed into law on March 27th, 2020. The markets began to recover in anticipation of this - but this started just one of many stimulus bills to be added to the pile of liquidity that's now chasing the short treasury supply.
 
-[$DJI Behavior As Approaching Q1 End of 2020 In Response To COVID](https://preview.redd.it/vltkdqi8bw771.png?width=1531&format=png&auto=webp&s=e71921e3bd1158c8abdf3633d5c7514eb78cf333)
+![$DJI Behavior As Approaching Q1 End of 2020 In Response To COVID](https://preview.redd.it/vltkdqi8bw771.png?width=1531&format=png&auto=webp&s=e71921e3bd1158c8abdf3633d5c7514eb78cf333)
 
 Now check out what $DJI has done since the week of June 7th, 2021.
 
@@ -118,7 +119,7 @@ Then, the week of June 21st, 2021, $DJI began to recover.
 
 It's also worth noting that during this time, $DJI had wiped out the entire gains of the quarter at its low point on June 18th:
 
-[$DJI Behavior As Approaching Q2 End of 2021](https://preview.redd.it/ij4i6zifaw771.png?width=1532&format=png&auto=webp&s=ca2eeb4a1e2543144567d5f1cda0c6aff3f9cc36)
+![$DJI Behavior As Approaching Q2 End of 2021](https://preview.redd.it/ij4i6zifaw771.png?width=1532&format=png&auto=webp&s=ca2eeb4a1e2543144567d5f1cda0c6aff3f9cc36)
 
 There is the potential for things to get real turbulent, real fast. But of course don't expect anything. This does not necessarily mean anything significant will happen to either GME or the markets tomorrow/next week. These are just my observations.
 

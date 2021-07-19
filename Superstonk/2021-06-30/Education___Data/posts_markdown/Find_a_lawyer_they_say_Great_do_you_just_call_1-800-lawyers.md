@@ -1,5 +1,6 @@
-# Author: Arkayb33
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob68wi/find_a_lawyer_they_say_great_do_you_just_call/](https://www.reddit.com/r/Superstonk/comments/ob68wi/find_a_lawyer_they_say_great_do_you_just_call/)
+#Title: "Find a lawyer" they say. Great, do you just call 1-800-lawyers?
+#Author: Arkayb33
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob68wi/find_a_lawyer_they_say_great_do_you_just_call/](https://www.reddit.com/r/Superstonk/comments/ob68wi/find_a_lawyer_they_say_great_do_you_just_call/)
 
 
 There's been lots of advice since January about "lawyering up" after MOASS. Sadly, you can't just dial 1-800-lawyers and ask the answering service to connect you to a...money(?) attorney. So I spoke to my uncle who is a district judge in the great state of...well, one of the great states in these United States. International apes, this might still apply, but your kilometrage may vary.

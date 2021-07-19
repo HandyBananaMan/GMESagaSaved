@@ -1,5 +1,6 @@
-# Author: Stonkinator3000
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwvboc/current_hedge_fundmass_media_strategy_is_to/](https://www.reddit.com/r/Superstonk/comments/nwvboc/current_hedge_fundmass_media_strategy_is_to/)
+#Title: Current hedge fund/mass media strategy is to choose a stock with small market cap, start long position to get big upward movement, call it a ‘meme stock’ and attribute that movement to Redditors, get gullible retail investors to buy in, then dump it. Classic pump and dump scheme.
+#Author: Stonkinator3000
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwvboc/current_hedge_fundmass_media_strategy_is_to/](https://www.reddit.com/r/Superstonk/comments/nwvboc/current_hedge_fundmass_media_strategy_is_to/)
 
 
 If this post gets through Superstonk and makes it to the front page of Reddit, what you’ve got to understand if you’re a casual investor is that no serious Reddit investors are talking about, interested in, or let alone investing in any of the new ‘meme stocks’ getting so much attention on mainstream media on the daily. The one and only play is GME, it’s the only ‘meme stock’ that matters and the only one that threatens the survival of all the entities pumping all these other supposed ‘meme stocks’.

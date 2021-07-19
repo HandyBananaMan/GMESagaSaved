@@ -1,5 +1,6 @@
-# Author: Dutchie_PC
-# Post URL: [https://www.reddit.com/r/GME/comments/meala3/citadels_ceo_took_home_at_least_18_billion_in/](https://www.reddit.com/r/GME/comments/meala3/citadels_ceo_took_home_at_least_18_billion_in/)
+#Title: Citadel’s CEO took home at least $1.8 BILLION in ‘compensation’ last year — and all most Apes want is to not worry about rent or making ends meet.
+#Author: Dutchie_PC
+#Post URL: [https://www.reddit.com/r/GME/comments/meala3/citadels_ceo_took_home_at_least_18_billion_in/](https://www.reddit.com/r/GME/comments/meala3/citadels_ceo_took_home_at_least_18_billion_in/)
 
 
 **Tl;dr** 🚀 🔜 🌙

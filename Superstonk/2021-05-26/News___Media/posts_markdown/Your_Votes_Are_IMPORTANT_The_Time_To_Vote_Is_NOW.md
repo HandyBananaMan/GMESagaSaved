@@ -1,5 +1,6 @@
-# Author: Nauaf101
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/](https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/)
+#Title: ⚠️ Your Votes Are IMPORTANT. The Time To Vote Is NOW ⚠️
+#Author: Nauaf101
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/](https://www.reddit.com/r/Superstonk/comments/nlpz4h/your_votes_are_important_the_time_to_vote_is_now/)
 
 
 Heya Stonkers!
@@ -199,7 +200,7 @@ https://www.reddit.com/r/Superstonk/comments/n3weyj/schwab_how_to_get_your_contr
 
 * WEBULL
 
-1. You should have received an email with your control number and a link to: ![https://www.proxyvote.com/](https://www.proxyvote.com/) Contact Webull if you don’t have it.  
+1. You should have received an email with your control number and a link to: [https://www.proxyvote.com/](https://www.proxyvote.com/) Contact Webull if you don’t have it.  
 
 
 

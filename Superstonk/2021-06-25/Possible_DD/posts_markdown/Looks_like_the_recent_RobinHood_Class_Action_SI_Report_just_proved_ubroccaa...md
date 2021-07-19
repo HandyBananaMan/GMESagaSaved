@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/)
+#Title: Looks like the recent RobinHood Class Action SI Report just proved /u/broccaaa's data. That the shorts haven't covered, that they hid SI% through Deep ITM CALLs, and SI% is a minimum of 226.42%.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/](https://www.reddit.com/r/Superstonk/comments/o7klxj/looks_like_the_recent_robinhood_class_action_si/)
 
 
 &#x200B;
@@ -14,13 +15,13 @@ Shout out to king /u/broccaaa for their contributions. I always figured that you
 
 Well, this is for you /u/broccaaa, and all the apes.
 
-[Spreading Love To All](https://preview.redd.it/seveg72frd771.png?width=466&format=png&auto=webp&s=820b960584c2976dfe040f84463f84e3d9ba1ad3)
+![Spreading Love To All](https://preview.redd.it/seveg72frd771.png?width=466&format=png&auto=webp&s=820b960584c2976dfe040f84463f84e3d9ba1ad3)
 
 # 1. GME SI% Is A Minimum Of 226.42%; Shorts Were Hidden With Deep ITM CALLs
 
 Way way back in time, since many of you probably feel like you've aged years over the course of 6 months, there was a blip of **226.42**% SI in January. Many believed this was a glitch:
 
-[https:\/\/www.reddit.com\/r\/GME\/comments\/lgjztf\/wtf\_is\_going\_on\_with\_finra\_is\_it\_7846\_or\_22642\/](https://preview.redd.it/scgcw5t6qd771.png?width=959&format=png&auto=webp&s=10059cac48bcb52fdb8cbc8d27743f3dcff97166)
+![https:\/\/www.reddit.com\/r\/GME\/comments\/lgjztf\/wtf\_is\_going\_on\_with\_finra\_is\_it\_7846\_or\_22642\/](https://preview.redd.it/scgcw5t6qd771.png?width=959&format=png&auto=webp&s=10059cac48bcb52fdb8cbc8d27743f3dcff97166)
 
 ~~That's what many may have thought, that it was just a glitch, until recently a~~ [~~Class Action against RobinHood~~](https://www.reddit.com/r/Superstonk/comments/o6mp0c/from_class_action_against_rh_look_at_that_juicy/) ~~proved that was, indeed, the SI% upon January 15th, 2021:~~
 
@@ -28,7 +29,7 @@ Edit: Thank you much for everyone's replies. We must consider this as still spec
 
 Allegedly, [per a Class Action against RobinHood](https://www.reddit.com/r/Superstonk/comments/o6mp0c/from_class_action_against_rh_look_at_that_juicy/), the SI% was 226.42% upon January 15th, 2021:
 
-[https:\/\/www.reddit.com\/r\/Superstonk\/comments\/o6mp0c\/from\_class\_action\_against\_rh\_look\_at\_that\_juicy\/](https://preview.redd.it/vnlimw17qd771.png?width=602&format=png&auto=webp&s=079aa90f257df07a297b6c5d8961e6500bc17139)
+![https:\/\/www.reddit.com\/r\/Superstonk\/comments\/o6mp0c\/from\_class\_action\_against\_rh\_look\_at\_that\_juicy\/](https://preview.redd.it/vnlimw17qd771.png?width=602&format=png&auto=webp&s=079aa90f257df07a297b6c5d8961e6500bc17139)
 
 Put yourself in the SHF's shoes. You have a shitload of retail buy pressure going on. You're way overshorted. What do you do? Do you cover? Pfft. Nah. That's way too much. Impossible to cover. Absolutely screwed.
 
@@ -47,17 +48,17 @@ Let's say you want to make it "appear" that you covered your short. You can perf
 
 Here is the supporting text [from the SEC itself](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf) if you want to verify for yourself. A report from 2013 titled "**Strengthening Practices for Preventing and Detecting Illegal Options Trading Used to Reset Reg SHO Close-out Obligations**":
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/eckz2hh7qd771.png?width=794&format=png&auto=webp&s=ec5f2fe9ca82bfba28eac658aac8fd3eb5c21d5e)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/eckz2hh7qd771.png?width=794&format=png&auto=webp&s=ec5f2fe9ca82bfba28eac658aac8fd3eb5c21d5e)
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/ttjlxv28qd771.png?width=797&format=png&auto=webp&s=0eaaba948743cc947567322eba21603acf2ac2df)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/ttjlxv28qd771.png?width=797&format=png&auto=webp&s=0eaaba948743cc947567322eba21603acf2ac2df)
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/pti33wf8qd771.png?width=780&format=png&auto=webp&s=237494bf40c19dd2ef0771f42168bbf3ca90d6cb)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/pti33wf8qd771.png?width=780&format=png&auto=webp&s=237494bf40c19dd2ef0771f42168bbf3ca90d6cb)
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/zq8z28y8qd771.png?width=804&format=png&auto=webp&s=c80ec2e4932aa8e5660bcb8da4b88871611a377f)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/zq8z28y8qd771.png?width=804&format=png&auto=webp&s=c80ec2e4932aa8e5660bcb8da4b88871611a377f)
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/2zah2nc9qd771.png?width=798&format=png&auto=webp&s=df0a14005a591657d993ea153a5240516417f875)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/2zah2nc9qd771.png?width=798&format=png&auto=webp&s=df0a14005a591657d993ea153a5240516417f875)
 
-[https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/sjip9hp9qd771.png?width=800&format=png&auto=webp&s=1848c26e64e7c9806e77e5b60bc2f1a4c7feacc8)
+![https:\/\/www.sec.gov\/about\/offices\/ocie\/options-trading-risk-alert.pdf Section II](https://preview.redd.it/sjip9hp9qd771.png?width=800&format=png&auto=webp&s=1848c26e64e7c9806e77e5b60bc2f1a4c7feacc8)
 
 &#x200B;
 
@@ -67,13 +68,13 @@ We don't care about identifying Trader A and Trader B in this case. Just the fac
 
 Check out what /u/broccaaa's data identified. Tons and tons of Deep ITM CALLs were traded in January prior to SI% dropping off of a cliff. By [my estimations](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/), about 1,100,000 CALL OI was traded prior to January 29th SI Report Date:
 
-[\/u\/broccaaa Data on Deep ITM CALL Volumes Vs FTDs of GME](https://preview.redd.it/0hp6hvx9qd771.png?width=1789&format=png&auto=webp&s=19d5261cf1cd7ec7995c12409bd46d2116094203)
+![\/u\/broccaaa Data on Deep ITM CALL Volumes Vs FTDs of GME](https://preview.redd.it/0hp6hvx9qd771.png?width=1789&format=png&auto=webp&s=19d5261cf1cd7ec7995c12409bd46d2116094203)
 
 The SI Report Date of January 29th matters because that is the cutoff of when FINRA will [require settlement of short interest numbers](https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest) for the next SI report date. The next SI report date following January 29th settlement is February 12th.
 
 And we can see that after the mayhem of Deep ITM CALL purchases, SI% dropped from 226.42% of the January 15th report, to 30.2% upon February 12th:
 
-[https:\/\/www.marketbeat.com\/stocks\/NYSE\/GME\/short-interest\/](https://preview.redd.it/qpvqagaaqd771.png?width=1683&format=png&auto=webp&s=6d54d763f3bb46a697c4ff2ee94148806bf928e3)
+![https:\/\/www.marketbeat.com\/stocks\/NYSE\/GME\/short-interest\/](https://preview.redd.it/qpvqagaaqd771.png?width=1683&format=png&auto=webp&s=6d54d763f3bb46a697c4ff2ee94148806bf928e3)
 
 With the difference in SI% from 226.42% on January 15th down to 30.2% on February 12th, **we can assume that they have not covered their short position but rather hid their short position in synthetics if we can come up with a roughly equivalent SI% from the approximate Deep ITM CALL purchases.**
 

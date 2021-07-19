@@ -1,5 +1,6 @@
-# Author: stronkape89
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw8ak8/you_cant_report_an_overvote_on_an_8k_pass_it_on/](https://www.reddit.com/r/Superstonk/comments/nw8ak8/you_cant_report_an_overvote_on_an_8k_pass_it_on/)
+#Title: YOU CANT REPORT AN OVERVOTE ON AN 8-K. PASS IT ON. STOP THE UNINTENTIONAL FUD!!!
+#Author: stronkape89
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw8ak8/you_cant_report_an_overvote_on_an_8k_pass_it_on/](https://www.reddit.com/r/Superstonk/comments/nw8ak8/you_cant_report_an_overvote_on_an_8k_pass_it_on/)
 
 
 Reposting for maximum visibility !

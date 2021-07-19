@@ -1,10 +1,11 @@
-# Author: fortifier22
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/](https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/)
+#Title: Crack Theory: The United States Government needs the MOASS to happen, and wants corrupt agents like Citadel to fall
+#Author: fortifier22
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/](https://www.reddit.com/r/Superstonk/comments/odxmwd/crack_theory_the_united_states_government_needs/)
 
 
 The US Government has a lot to gain from the MOASS happening, and so much more to lose from preventing the MOASS from not happening. And it's not just 37% capital gains taxes either.
 
-![As other DD has proven, Citadel has far too much power within the stock market.](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/) And with their recent actions and numerous violations without solid consequences, it is in the government's best interest to stop them.
+[As other DD has proven, Citadel has far too much power within the stock market.](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/) And with their recent actions and numerous violations without solid consequences, it is in the government's best interest to stop them.
 
 We also know from the actions of the financial regulators that they have been pumping out new rules like there's no tomorrow which protects themselves and ensures that no matter who falls they'll be covered and the destruction of any hedge funds won't have too significant of an effect on the markets.
 

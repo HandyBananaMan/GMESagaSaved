@@ -1,5 +1,6 @@
-# Author: tomsrobots
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o8bgq8/the_prisoners_dilemma_shattered_why_i_think_the/](https://www.reddit.com/r/Superstonk/comments/o8bgq8/the_prisoners_dilemma_shattered_why_i_think_the/)
+#Title: The Prisoner's Dilemma shattered: Why I think the MOASS will happen
+#Author: tomsrobots
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o8bgq8/the_prisoners_dilemma_shattered_why_i_think_the/](https://www.reddit.com/r/Superstonk/comments/o8bgq8/the_prisoners_dilemma_shattered_why_i_think_the/)
 
 
 January holder here. One of my biggest concerns in the early days of this whole saga was centered around the Prisoner's Dilemma. If you aren't familiar with the Prisoner's Dilemma, imagine two people involved in a crime separated in different cells. They both know if they keep their mouths shut they will both go free. The wrinkle is the DA has offered a deal - the first person to rat out the other goes free. This changes the whole dynamic. The only way to *guarantee* you go free is to snitch on your partner. The outcome which will help everyone get what they want is now the riskier path to take. A version of this was depicted in *The Dark Knight* with the two ferries armed with bombs and each detonator was given to the other boat.

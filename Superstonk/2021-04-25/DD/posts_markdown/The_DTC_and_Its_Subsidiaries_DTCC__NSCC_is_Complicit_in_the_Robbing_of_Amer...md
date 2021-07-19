@@ -1,5 +1,6 @@
-# Author: Ninblades
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/](https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/)
+#Title: The DTC and Its Subsidiaries (DTCC & NSCC) is Complicit in the Robbing of America
+#Author: Ninblades
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/](https://www.reddit.com/r/Superstonk/comments/my4le1/the_dtc_and_its_subsidiaries_dtcc_nscc_is/)
 
 
 First of all, this is not financial advice. I am just a crayon-chewing ape like many of you, but I did have experience in the financial services industry and I just have to say how impressed I am with the sheer amount of quality DD & financial analyses you apes do. It would make the most senior analysts on Wall Street hang their heads in shame. As many of you fellow apes have been aware,  Dr. Susanne Trimbath raised the alarm regarding the dangers of FTDs and naked short selling wayy back and wrote a pretty good book about it (highly recommend you check it out, there's lots of posts covering it already) while she was a manager/director at the DTCC.
@@ -46,7 +47,7 @@ I'll let Dr. Acosta have the last word:
 
 ***“*** \*When this very same party (the DTCC and its subdivisions) that also has 15 of the 16 separate sources of empowerment to execute buy-ins ALSO pleads to be “powerless” to do buy-ins then I’d say we have some “issues” to deal with especially when the financial benefactors of this acting to be “powerless” are the owners of the clearance and settlement system and the bosses of these management teams."\****Dr. Jim DeCosta***
 
-Unless the SEC steps in and force the criminal organization that is the DTCC to clean up its act, this charade will continue and nothing has changed since ![2004](https://www.sec.gov/rules/proposed/s72404/s72404-14.pdf) when the Stock Borrowing Program first came into effect.
+Unless the SEC steps in and force the criminal organization that is the DTCC to clean up its act, this charade will continue and nothing has changed since [2004](https://www.sec.gov/rules/proposed/s72404/s72404-14.pdf) when the Stock Borrowing Program first came into effect.
 
 SEC #DOYOURJOB
 

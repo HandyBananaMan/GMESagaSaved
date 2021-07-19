@@ -1,5 +1,6 @@
-# Author: Noderpsy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oitkm7/there_is_likely_an_ongoing_law_enforcement/](https://www.reddit.com/r/Superstonk/comments/oitkm7/there_is_likely_an_ongoing_law_enforcement/)
+#Title: There is likely an ongoing "law enforcement" investigation into the GME situation. The SEC is not a law enforcement entity. This implies to me that another agency is currently investigating this matter.
+#Author: Noderpsy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oitkm7/there_is_likely_an_ongoing_law_enforcement/](https://www.reddit.com/r/Superstonk/comments/oitkm7/there_is_likely_an_ongoing_law_enforcement/)
 
 
 Fellow Superstonk member [u/nmorgan81234](https://www.reddit.com/user/nmorgan81234/) was denied their FOIA request.
@@ -26,6 +27,6 @@ Edit 2: There's some pushback over the idea that the SEC is not  law enforcement
 
 Edit 3: Leave it to a u/OrginalCanadian to crack the case.  Looks like it is considered an LEA. I think?
 
-![https://www.sec.gov/enforce/how-investigations-work.html](https://www.sec.gov/enforce/how-investigations-work.html)
+[https://www.sec.gov/enforce/how-investigations-work.html](https://www.sec.gov/enforce/how-investigations-work.html)
 
 So there you have it, it really is their job and it feels like they  are mucking it up.

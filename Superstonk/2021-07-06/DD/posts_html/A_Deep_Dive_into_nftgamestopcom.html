@@ -1,6 +1,7 @@
+<h1>Title: A Deep Dive into nft.gamestop.com</h1>
 <h1>Author: schismsaints</h1>
 <h1>Post URL: <a href="https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/">https://www.reddit.com/r/Superstonk/comments/oezh1f/a_deep_dive_into_nftgamestopcom/</a></h1>
-<p>Like many, I was intrigued when I heard about GameStop dabbling in NFT - first, through the <a href="https://finance.yahoo.com/news/gamestop-hiring-blockchain-analyst-specializing-075700175.html">job postings</a>, then with <img alt="nft.gamestop.com" src="https://nft.gamestop.com" />.  I did a <a href="https://www.reddit.com/r/Superstonk/comments/nkxrhe/umm_guys_i_think_i_just_found_something/gzgpytb/?context=3">brief dive into some of the smart contract details</a> back when it initially came out but recently have gone much further down the rabbit hole.</p>
+<p>Like many, I was intrigued when I heard about GameStop dabbling in NFT - first, through the <a href="https://finance.yahoo.com/news/gamestop-hiring-blockchain-analyst-specializing-075700175.html">job postings</a>, then with <a href="https://nft.gamestop.com">nft.gamestop.com</a>.  I did a <a href="https://www.reddit.com/r/Superstonk/comments/nkxrhe/umm_guys_i_think_i_just_found_something/gzgpytb/?context=3">brief dive into some of the smart contract details</a> back when it initially came out but recently have gone much further down the rabbit hole.</p>
 <p>I'll summarize some of the juicier bits and provide some speculation as to what it could mean as well as some resources to familiarize yourself with some of the details of blockchain, smart contracts, and tokens, but I have put together a <a href="https://github.com/schismsaints/GME_NFT">larger graphic</a> in PNG/PDF/SVG formats visualizing some of the connections a little better (fair warning, I'm an engineer not an artist).  I recommend loading it in a full web browser on as large of a monitor as possible.  You'll understand why when you see it.</p>
 <p>First, a few key terms/concepts.</p>
 <p><strong>Blockchain</strong>: In very simplistic terms, think of the blockchain as a ledger/record keeping system where each 'block' is a record and linked to the previous and next blocks in a chain.  The process of adding a new 'block' involves computing and verifying prior information in the chain to ensure that nothing has been tampered with and that the full history of the chain is intact.</p>
@@ -13,12 +14,12 @@
 <li>Non-Fungible Token (NFT) - ERC-721/ERC-1155: A non-fungible token is a unique entity on the blockchain.  There are no others exactly like it, and it has its own record of ownership, attributes/metadata, and cannot be substituted for another token identically.  <a href="https://www.cryptokitties.co/">CryptoKitties</a> is one of the most popular examples as they basically pioneered the ERC-721 standard.  NFT artwork is another recently popularized example of this.</li>
 <li><a href="https://www.investopedia.com/non-fungible-tokens-nft-5115211">Non-Fungible Token Definition: Understanding NFTs (investopedia.com)</a></li>
 </ul>
-<p><a href="https://preview.redd.it/frjg3859im971.png?width=300&amp;format=png&amp;auto=webp&amp;s=f348dbe6d884a59ea2017cb889df592c750bb54d">Non-Fungible Kitties!</a></p>
+<p><img alt="Non-Fungible Kitties!" src="https://preview.redd.it/frjg3859im971.png?width=300&amp;format=png&amp;auto=webp&amp;s=f348dbe6d884a59ea2017cb889df592c750bb54d" /></p>
 <p><strong>Smart Contract</strong>: A smart contract is a way to automate 'stuff'.  That 'stuff' can be any number of tasks but some of the most common ones include creating (minting) or destroying (burning) tokens from an available pool.  This can be fungible or non-fungible tokens (or, in the case of ERC-1155, both/either).</p>
 <p><a href="https://www.investopedia.com/terms/s/smart-contracts.asp">Smart Contracts Definition (investopedia.com)</a></p>
-<p>The GME NFT story started in earnest with GameOn Anon, the smart contract address posted at <img alt="nft.gamestop.com" src="https://nft.gamestop.com" /></p>
+<p>The GME NFT story started in earnest with GameOn Anon, the smart contract address posted at <a href="https://nft.gamestop.com">nft.gamestop.com</a></p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/zftk714bim971.png?width=268&amp;format=png&amp;auto=webp&amp;s=f044bd9c9e8381d7d2e626ef299089e3a95165dd">Power to the Players</a></p>
+<p><img alt="Power to the Players" src="https://preview.redd.it/zftk714bim971.png?width=268&amp;format=png&amp;auto=webp&amp;s=f044bd9c9e8381d7d2e626ef299089e3a95165dd" /></p>
 <p><a href="https://etherscan.io/address/0x13374200c29C757FDCc72F15Da98fb94f286d71e">0x13374200c29C757FDCc72F15Da98fb94f286d71e</a></p>
 <p>There are a lot of interesting threads from the smart contract, the most well known of which is the "launchDate" variable which equals 04:20 PDT 7/14/21 (come on, that can't <em>not</em> be intentional).</p>
 <p>&#x200B;</p>
@@ -37,8 +38,8 @@
 <li>Yahoo! Finance lists the 'Implied Shares Outstanding' for GME as 69.38M, which is preeeeeetty close to the 69.42M tokens minted here.  Could this be used as a shareholder dividend, potentially exchangeable between GameStop and GME Coin/USD?</li>
 </ul>
 <p>https://preview.redd.it/o377yvulim971.png?width=336&amp;format=png&amp;auto=webp&amp;s=67c5f337f72a52c90a8dc235e83c99a17cbf21e3</p>
-<p><a href="https://preview.redd.it/lnhnub7nim971.png?width=1334&amp;format=png&amp;auto=webp&amp;s=26151aac8411c26ca823c7eb1b656a9b396110e9">GME ERC-20 Token Holders</a></p>
-<p><a href="https://preview.redd.it/y8dxdtxnim971.png?width=1347&amp;format=png&amp;auto=webp&amp;s=e2e143155c28184e528fe578f81231b3ea6809d7">GME ERC-20 Token Activity</a></p>
+<p><img alt="GME ERC-20 Token Holders" src="https://preview.redd.it/lnhnub7nim971.png?width=1334&amp;format=png&amp;auto=webp&amp;s=26151aac8411c26ca823c7eb1b656a9b396110e9" /></p>
+<p><img alt="GME ERC-20 Token Activity" src="https://preview.redd.it/y8dxdtxnim971.png?width=1347&amp;format=png&amp;auto=webp&amp;s=e2e143155c28184e528fe578f81231b3ea6809d7" /></p>
 <ul>
 <li><a href="https://etherscan.io/address/0x13374200c29C757FDCc72F15Da98fb94f286d71e">Gamestop (ERC-721)</a> - Qty 1</li>
 <li>There is only one of these in existence at this point with no clear use for it yet, but there are some interesting possibilities I've considered such as blockchain-based share tracking (i.e. each NFT would have a 'share # X' value on it) or as a shareholder ID token ('shareholder # X').  This one has the least clear forward looking use case at this point for me.</li>
@@ -61,20 +62,21 @@
 <p><a href="https://github.com/schismsaints/GME_NFT/blob/main/GME_NFT.pdf">GME_NFT/GME_NFT.pdf at main · schismsaints/GME_NFT · GitHub</a></p>
 <p>TL:DR; GME doing crypto stuff.  Lots of crypto stuff happening especially in the last week.  Crypto stuff has lots of options, most of which will print money.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/m5kf78utim971.png?width=492&amp;format=png&amp;auto=webp&amp;s=f261c660c01332c063076409dd5fb6bccd950272">I like money.</a></p>
+<p><img alt="I like money." src="https://preview.redd.it/m5kf78utim971.png?width=492&amp;format=png&amp;auto=webp&amp;s=f261c660c01332c063076409dd5fb6bccd950272" /></p>
 <p>Edit: to answer a good point brought up by /u/haydonny1 - the alt coins could be sent by any random source and aren't concrete proof of anything.  I still maintain that the three GME tokens are legitimate and all have ties back to the original Smart Contract either one or two levels removed.  I haven't investigated the altcoin sources enough to be able to say whether or not they're being worked on by GME at this point.</p>
 <p>0x13374200c29C757FDCc72F15Da98fb94f286d71e</p>
 <ul>
-<li>Is the address posted on <img alt="nft.gamestop.com" src="https://nft.gamestop.com" /></li>
+<li>Is the address posted on <a href="https://nft.gamestop.com">nft.gamestop.com</a></li>
 <li>Owns 69,420.69 GameStop ERC-20 tokens</li>
 <li>Owns 2,000,000 GME Coin ERC-20 tokens</li>
 </ul>
 <p>0x10B16eEDe03cF73CbF44e4BFFFa3e6BFf36F1Fad</p>
 <ul>
-<li>Is the Smart Contract address listed in the source code of the <img alt="nft.gamestop.com" src="https://nft.gamestop.com" /> smart contract.</li>
+<li>Is the Smart Contract address listed in the source code of the <a href="https://nft.gamestop.com">nft.gamestop.com</a> smart contract.</li>
 <li>Holds 1 Gamestop ERC-721 token</li>
 <li>Holds 420.69 GameStop ERC-20 tokens</li>
 <li>Holds gamestopnft and 1337</li>
 </ul>
 <p>Between just these two smart contracts are I believe enough evidence to prove that all three of the GME tokens (GameStop ERC-20, Gamestop ERC-721, and GME Coin) are all legitimate and being worked on by the NFT team.</p>
 <p>&#x200B;</p>
+<p>Edit: new post (part 2) out, only 1 token is legit</p>

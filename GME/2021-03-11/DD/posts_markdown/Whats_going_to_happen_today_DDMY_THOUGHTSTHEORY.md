@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/](https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/)
+#Title: What's going to happen today? DD/MY THOUGHTS/THEORY
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/](https://www.reddit.com/r/GME/comments/m2ofz8/whats_going_to_happen_today_ddmy_thoughtstheory/)
 
 
 **Edit 3:45PM CET: SSR IS TRIGGERED FOR TOMORROW NOW!!!!!**
@@ -24,7 +25,7 @@ I: GME is on the SSR since yesterdays price drop. What is the SSR Rule? The shor
 
 &#x200B;
 
-[NYSE confirmation of SSR Trigger:  https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls ](https://preview.redd.it/szd08u98ydm61.png?width=1219&format=png&auto=webp&s=3769dfc4534217032871376632bcbc48778a06c2)
+![NYSE confirmation of SSR Trigger:  https:\/\/ftp.nyxdata.com\/NYSEGroupSSRCircuitBreakers\/current\/NYSEGroupSSRCircuitBreakers20210310.xls ](https://preview.redd.it/szd08u98ydm61.png?width=1219&format=png&auto=webp&s=3769dfc4534217032871376632bcbc48778a06c2)
 
 &#x200B;
 
@@ -32,9 +33,9 @@ II. People kept asking me yesterday, that if it really was the long whales trigg
 
 **EDIT2: I actually fell for fake news and should've stayed with my own thoughts. The SSR is NOT(!!!!!!!!!) triggered yet for tomorrow, I will edit this post back accordingly! People posted lots of links, but non of them were official links. The only official link I could find was from the SEC. And the SEC themselves say:**
 
-[https:\/\/www.sec.gov\/divisions\/marketreg\/rule201faq.htm](https://preview.redd.it/vdmwphhkkem61.png?width=533&format=png&auto=webp&s=c7d0959a833cdf74e62d39c9ecde6c1aadac3854)
+![https:\/\/www.sec.gov\/divisions\/marketreg\/rule201faq.htm](https://preview.redd.it/vdmwphhkkem61.png?width=533&format=png&auto=webp&s=c7d0959a833cdf74e62d39c9ecde6c1aadac3854)
 
-[Edit 3:45PM CET: SSR IS TRIGGERED FOR TOMORROW NOW!](https://preview.redd.it/mx9tbkrrydm61.png?width=165&format=png&auto=webp&s=badaecd90c91cefc0b05e10543906cda36cd48ed)
+![Edit 3:45PM CET: SSR IS TRIGGERED FOR TOMORROW NOW!](https://preview.redd.it/mx9tbkrrydm61.png?width=165&format=png&auto=webp&s=badaecd90c91cefc0b05e10543906cda36cd48ed)
 
 https://preview.redd.it/a8qmvzd4wem61.png?width=769&format=png&auto=webp&s=de32aa313f3cfbc7e134e55f130080be1f3a8b87
 
@@ -42,9 +43,9 @@ https://preview.redd.it/a8qmvzd4wem61.png?width=769&format=png&auto=webp&s=de32a
 
 III. There was an additional buying of Options instantly after the drop to $172. Between 30,000 - 60,000 additional options were purchased over the course of a few hours. Most of them @ 300, 350, 400 and 800. If you take a close look at the price movement from the past few days and yesterday especially, there weren't any abnormally large purchases in a short amount of time. That tells us, that MM's still need to buy shares in order to guarantee the execution of call options. With the additional call options from yesterdays buying spree, that would make for 5,000,000 - 10,000,000 Shares having to get bought for hedging from the past few days.
 
-[Additional Calls between $300 - $400](https://preview.redd.it/yjjsd24ozdm61.png?width=658&format=png&auto=webp&s=4a416259d9784988c5e0da627fab6f0adf08e6dd)
+![Additional Calls between $300 - $400](https://preview.redd.it/yjjsd24ozdm61.png?width=658&format=png&auto=webp&s=4a416259d9784988c5e0da627fab6f0adf08e6dd)
 
-[Call volume @ $800 was at 31,000 with an OI \(not updated yet!\) of 22,244](https://preview.redd.it/0vvr0g4ozdm61.png?width=656&format=png&auto=webp&s=8b613e1702055b6bcdbb598695dca47e77dc677d)
+![Call volume @ $800 was at 31,000 with an OI \(not updated yet!\) of 22,244](https://preview.redd.it/0vvr0g4ozdm61.png?width=656&format=png&auto=webp&s=8b613e1702055b6bcdbb598695dca47e77dc677d)
 
 &#x200B;
 
@@ -60,6 +61,6 @@ https://preview.redd.it/j9xy79vgdem61.png?width=1168&format=png&auto=webp&s=ea89
 
 That price action also fits my Endgame DD theory, of the Gamma Squeeze taking place this week in order to trigger the Short Squeeze next week. If you haven't read the Endgame DD or the Updates, feel free to do it now. Quote:  "TL;DR: **MY Conclusion**: The squeeze is inevitable. It got delayed many times, but no matter what data you look at, the outcome is always the same, everything points to this specific date. Also: Other Hedge funds smell blood. They can take out some of their biggest competitors as well as making billions and billions of dollars in the process. There couldn’t be a bigger win win situation for them, than this one. **I think the squeeze is starting a few days, maybe even a week prior to March 19th. I think that it’ll start March 15th and build up all the way to March 19th**, where the real rocket takes off. How long is it going to last? I don’t know, no one does. But I think it’s going to last for at least one week. Of course, it’s going to get more and more expensive to buy in over time, so you don’t want to miss out. As always: Buy and Hodl"
 
-My Endgame DD: ![https://www.reddit.com/r/GME/comments/ltua0n/endgame\_dd\_how\_last\_weeks\_actions\_all\_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
+My Endgame DD: [https://www.reddit.com/r/GME/comments/ltua0n/endgame\_dd\_how\_last\_weeks\_actions\_all\_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
 
 ## 

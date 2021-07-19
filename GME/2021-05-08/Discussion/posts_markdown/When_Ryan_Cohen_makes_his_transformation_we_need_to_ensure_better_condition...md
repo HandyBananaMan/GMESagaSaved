@@ -1,5 +1,6 @@
-# Author: downbad99
-# Post URL: [https://www.reddit.com/r/GME/comments/n7yb71/when_ryan_cohen_makes_his_transformation_we_need/](https://www.reddit.com/r/GME/comments/n7yb71/when_ryan_cohen_makes_his_transformation_we_need/)
+#Title: When Ryan Cohen makes his transformation, we need to ensure better conditions for GME employees
+#Author: downbad99
+#Post URL: [https://www.reddit.com/r/GME/comments/n7yb71/when_ryan_cohen_makes_his_transformation_we_need/](https://www.reddit.com/r/GME/comments/n7yb71/when_ryan_cohen_makes_his_transformation_we_need/)
 
 
 Apes, I urge you to take a look at /r/GameStop . It’s full of first hand accounts, detailing what it’s like to work for this company all of us are so passionate about.

@@ -1,5 +1,6 @@
-# Author: Content-Grass6548
-# Post URL: [https://www.reddit.com/r/GME/comments/mg8uky/can_i_get_a_roll_call_on_all_my_apes_with_10/](https://www.reddit.com/r/GME/comments/mg8uky/can_i_get_a_roll_call_on_all_my_apes_with_10/)
+#Title: Can I get a Roll Call on all my Apes with 10 Million as their floor
+#Author: Content-Grass6548
+#Post URL: [https://www.reddit.com/r/GME/comments/mg8uky/can_i_get_a_roll_call_on_all_my_apes_with_10/](https://www.reddit.com/r/GME/comments/mg8uky/can_i_get_a_roll_call_on_all_my_apes_with_10/)
 
 
 "the fuckers shall get fucked. all in due time" - Plato

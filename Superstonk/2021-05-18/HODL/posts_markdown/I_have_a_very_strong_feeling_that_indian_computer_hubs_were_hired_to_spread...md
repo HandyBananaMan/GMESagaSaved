@@ -1,5 +1,6 @@
-# Author: DIGITALTAAJIR
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nflcgd/i_have_a_very_strong_feeling_that_indian_computer/](https://www.reddit.com/r/Superstonk/comments/nflcgd/i_have_a_very_strong_feeling_that_indian_computer/)
+#Title: I have a very strong feeling that indian computer hubs were hired to spread FUD on reddit for cheap. They are also giving away awards to any post that contains Glacier Capital. No matter what the context is. Just the word Glacier Capital is enough. Putting this one to test.
+#Author: DIGITALTAAJIR
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nflcgd/i_have_a_very_strong_feeling_that_indian_computer/](https://www.reddit.com/r/Superstonk/comments/nflcgd/i_have_a_very_strong_feeling_that_indian_computer/)
 
 
 It comes with no surprise to how common these call centres and computer hubs are in India. They provide tremendous amounts of services like scam calls, be it social media hyping or even international companies outsourcing something like spreading FUD online for dirt cheap. Yes that is what shitadel and friends are doing. During mid march Glacier capital was the highest searched in India as Kenny and friends were coming up with a new form of FUD to spread amongst apes. We clearly saw how any Glacier Capital post got many awards no matter what the context was pro glacier or not and that is due to lack of education. The so called hubs hire people with bare minimum knowledge/education.

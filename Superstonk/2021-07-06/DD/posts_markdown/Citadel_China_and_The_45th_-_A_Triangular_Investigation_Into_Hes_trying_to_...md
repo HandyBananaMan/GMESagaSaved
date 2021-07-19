@@ -1,5 +1,6 @@
-# Author: incandescent-leaf
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oerhyz/citadel_china_and_the_45th_a_triangular/](https://www.reddit.com/r/Superstonk/comments/oerhyz/citadel_china_and_the_45th_a_triangular/)
+#Title: Citadel, China and The 45th - A Triangular Investigation Into "He’s trying to hide some of his money"
+#Author: incandescent-leaf
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oerhyz/citadel_china_and_the_45th_a_triangular/](https://www.reddit.com/r/Superstonk/comments/oerhyz/citadel_china_and_the_45th_a_triangular/)
 
 
 # Ken Griffin - Citadel. What a guy he is. Where are you, Ken? Where the hell is he? He's trying to hide some of his money.
@@ -283,4 +284,4 @@ I have briefly covered these changes before in this [DD](https://www.reddit.com/
 
 [https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/](https://supchina.com/2020/02/04/was-chinas-97-million-fine-for-u-s-hedge-fund-citadel-politically-motivated/)
 
-![https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)
+[https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314](https://www.wsj.com/articles/after-a-four-year-freeze-citadel-securities-can-trade-again-in-china-11579526314)

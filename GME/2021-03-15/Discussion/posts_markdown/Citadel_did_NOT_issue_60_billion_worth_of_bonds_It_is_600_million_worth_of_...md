@@ -1,5 +1,6 @@
-# Author: International_Gold20
-# Post URL: [https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/)
+#Title: Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds.
+#Author: International_Gold20
+#Post URL: [https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/)
 
 
 So, I've seen multiple posts reference this $60 billion number, but it's not correct. I point this out because **I want every one of my fellow equity owners to make smart decisions based on objective truths and accurate information.**
@@ -30,12 +31,12 @@ I look forward to seeing you all in Valhalla.
 
 TL;DR: *Issue size* or *issue volume* refer to the **total** value of the bonds being issued. So the "Issue Volume" in the image below refers to 600,000,000 USD (U.S. Dollars) worth of bonds, not 600 million actual bonds.
 
-[Issue volume: 600 million \(aka 600 million USD\)](https://preview.redd.it/vquro4855bn61.png?width=845&format=png&auto=webp&s=f5049d484b5b94f40d4abb76ea8f82306fed47fb)
+![Issue volume: 600 million \(aka 600 million USD\)](https://preview.redd.it/vquro4855bn61.png?width=845&format=png&auto=webp&s=f5049d484b5b94f40d4abb76ea8f82306fed47fb)
 
 Edit: u/sped2500 points out in the comments that these bonds are only rated BBB, as you can see in the last link above. I haven't seen any information about how many of these have actually sold, so I can't say how much capital Citadel has actually raised, just that it could be no more than $600 million.
 
 Edit 2: Thank you u/fakename5 for the minor correction. The bonds were rated as BBB-, so they just barely missed being classified as “junk” bonds. 
 
-![Bond Ratings](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-ratings) 
+[Bond Ratings](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-ratings) 
 
 A big, bad hedge fund like Citadel can't get a better bond rating than BBB-?

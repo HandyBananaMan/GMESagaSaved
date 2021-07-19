@@ -1,5 +1,6 @@
-# Author: orangecatmasterrace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/](https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/)
+#Title: Hi Apes, we need to about a little thing called “correlation” - Brought to you by the Superstonk Quants 🦍 📊 👨‍💻🚀
+#Author: orangecatmasterrace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/](https://www.reddit.com/r/Superstonk/comments/o1a73z/hi_apes_we_need_to_about_a_little_thing_called/)
 
 
 Hi everyone, u/orangecatmasterrace here to discuss correlation, statistics, and things that we need to keep in mind when putting together our DD, specifically using this particular measure. I'm hoping to share this information so that this sub as a whole can be **more data-driven** in the compiling of our DDs and **more purposeful** in how we share this information with the rest of the apes.
@@ -67,13 +68,13 @@ We're going to be looking at one of my favorite things in the data visualization
 
 Let's say we want to compare the relationship between the amount of mayo that Kenny has on hand (in gallons) and the number of mayo baths that he can take with that mayo. Loading that data into a spreadsheet and putting it in a scatter plot might look something like this:
 
-[🛁🛁🛁](https://preview.redd.it/kpltucfrpn571.png?width=782&format=png&auto=webp&s=7a23ce3c7a9ce03f5c4697d6b5535d5162838985)
+![🛁🛁🛁](https://preview.redd.it/kpltucfrpn571.png?width=782&format=png&auto=webp&s=7a23ce3c7a9ce03f5c4697d6b5535d5162838985)
 
 See how the relationship between the number of mayo baths is perfectly linked to the amount of mayo that Kenny has? As the amount of mayo increases, the number of mayo baths increases as well, at a perfect rate. This relationship has a correlation coefficient of +1.
 
 Now lets look at the inverse of that. What happens to the tendies in my bank account as I purchase more bananas?
 
-[🍌🔼🐓🔽](https://preview.redd.it/eu7623bxpn571.png?width=784&format=png&auto=webp&s=444c4cd7c59507e28961e7ea18879dddc814e1a4)
+![🍌🔼🐓🔽](https://preview.redd.it/eu7623bxpn571.png?width=784&format=png&auto=webp&s=444c4cd7c59507e28961e7ea18879dddc814e1a4)
 
 As the number of bananas I purchase increases, the number of tendies in my bank account decreases at a perfect rate. This relationship has a correlation coefficient of -1.
 
@@ -87,7 +88,7 @@ We can see that it's not a *perfect* relationship, but generally, whenever DFV t
 
 When two things aren't related to each other at all, we might see something like this plot, where I plotted the number of times I checked the GME ticker each day compared to the number of banana smoothies I drank: 
 
-[🍌🥛](https://preview.redd.it/xvarpz7kqn571.png?width=789&format=png&auto=webp&s=7cceb2fbe043f5506a5fb42f8482ea5d7759f9b1)
+![🍌🥛](https://preview.redd.it/xvarpz7kqn571.png?width=789&format=png&auto=webp&s=7cceb2fbe043f5506a5fb42f8482ea5d7759f9b1)
 
 Even though I thought that drinking more banana smoothies would cause me to check the ticker more often, we can see that the data shows otherwise. There's no trend within the data emerging, indicating that there's no relationship between the 2 variables, and we can conclude that these two things are not correlated.
 
@@ -105,7 +106,7 @@ I share all of this information to help you all understand that correlation isn'
 
 Making posts saying that 2 things are correlated without providing evidence of the correlation can mislead the audience of the post into thinking that 2 things are inextricably linked to each other in some way. Remember, we learned that correlations can exist at varying strengths and directions. If we want to share information about things being correlated, we can't just point at some graphs that look similar and say. “See! Look at the charts! They have to be correlated!” We have to provide the data to back up the claim that a correlation exists. Jumping to this point without doing the work to actually *test for that correlation* can be a quick path down the slippery slope of spreading misinformation (even if unintentional).
 
-[actual picture of me](https://preview.redd.it/dgjg5hg6rn571.png?width=490&format=png&auto=webp&s=a9c963c0baea268ab0787ebfc7454edb89900463)
+![actual picture of me](https://preview.redd.it/dgjg5hg6rn571.png?width=490&format=png&auto=webp&s=a9c963c0baea268ab0787ebfc7454edb89900463)
 
 This is a great place mention that the Superstonk Quants have a [request system](https://github.com/SuperstonkQuants) that anyone can use  to ask for data, analysis, peer review, or assistance on their own projects. We want to be available to help this community grow in the pursuit of deeper and more numerous wrinkles. 
 
@@ -190,4 +191,4 @@ Correlation references if you'd like to learn more:
 
 [https://www.displayr.com/what-is-correlation/](https://www.displayr.com/what-is-correlation/)
 
-![https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)
+[https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html](https://www.kdnuggets.com/2018/06/correlation-coefficient-time-series-angel.html)

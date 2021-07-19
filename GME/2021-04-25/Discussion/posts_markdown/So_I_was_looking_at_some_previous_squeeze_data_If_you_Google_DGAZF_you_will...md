@@ -1,5 +1,6 @@
-# Author: ProvenCrownBuilders
-# Post URL: [https://www.reddit.com/r/GME/comments/my9bns/so_i_was_looking_at_some_previous_squeeze_data_if/](https://www.reddit.com/r/GME/comments/my9bns/so_i_was_looking_at_some_previous_squeeze_data_if/)
+#Title: So I was looking at some previous squeeze data. If you Google $DGAZF you will find a natural gas stock that it was shorted 43% of August last year. It's trading price went from $135 roughly $25,000 per share within 48 hours. If you look at GME who SI is at least 99.6% but is raging as high as 240% a
+#Author: ProvenCrownBuilders
+#Post URL: [https://www.reddit.com/r/GME/comments/my9bns/so_i_was_looking_at_some_previous_squeeze_data_if/](https://www.reddit.com/r/GME/comments/my9bns/so_i_was_looking_at_some_previous_squeeze_data_if/)
 
 
 So I was looking at some previous squeeze data. If you Google $DGAZF you will find a natural gas stock that it was shorted 43% of August last year. It's trading price went from $135 roughly $25,000 per share within 48 hours. If you look at GME who SI is at least 99.6% but is raging as high as 240% and similarity by the short interest you come to at least a price point of $100,000 per share. We expect Hedgefunds to have a good magnitude of accumulated block shares of shorts that will effect the price range on blast off -- possible trigger a$1200 pushing to $200 (we don't know) but we do know that GME BOARD has yet to pull stock split, dividends etc.....plenty of ammo to push -- reignite the rocket....stay on board keep hands feet and heads inside while lift off is in progress 🚀🚀🚀🚀

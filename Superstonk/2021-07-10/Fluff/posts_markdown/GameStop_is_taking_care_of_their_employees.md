@@ -1,5 +1,6 @@
-# Author: soft-J
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohui1z/gamestop_is_taking_care_of_their_employees/](https://www.reddit.com/r/Superstonk/comments/ohui1z/gamestop_is_taking_care_of_their_employees/)
+#Title: GameStop is taking care of their employees 🙏
+#Author: soft-J
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohui1z/gamestop_is_taking_care_of_their_employees/](https://www.reddit.com/r/Superstonk/comments/ohui1z/gamestop_is_taking_care_of_their_employees/)
 
 
 So I just left my local GameStop where I pre-ordered Zelda: Skyward Sword and Mario Party, and I was chatting with the cashier about the company.  He mentioned something I thought was very important.  He said that since Ryan Cohen has taken over, the employees have felt the effects.  In the form of PTO.  Employees now get PTO.  Let that sink in.  Ryan Cohen gave his workers PTO.  Legend.

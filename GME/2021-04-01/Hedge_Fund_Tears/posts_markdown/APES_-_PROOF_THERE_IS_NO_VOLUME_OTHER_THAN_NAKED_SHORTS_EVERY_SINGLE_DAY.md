@@ -1,5 +1,6 @@
-# Author: wladeczek44
-# Post URL: [https://www.reddit.com/r/GME/comments/mhwf5o/apes_proof_there_is_no_volume_other_than_naked/](https://www.reddit.com/r/GME/comments/mhwf5o/apes_proof_there_is_no_volume_other_than_naked/)
+#Title: APES - PROOF: THERE IS NO VOLUME OTHER THAN NAKED SHORTS!!! EVERY SINGLE DAY!
+#Author: wladeczek44
+#Post URL: [https://www.reddit.com/r/GME/comments/mhwf5o/apes_proof_there_is_no_volume_other_than_naked/](https://www.reddit.com/r/GME/comments/mhwf5o/apes_proof_there_is_no_volume_other_than_naked/)
 
 
 If I'm wrong then I accept permanent ban.
@@ -22,7 +23,7 @@ data taken from here:
 
 and here:
 
-![https://www.nasdaq.com/market-activity/stocks/gme/option-chain](https://www.nasdaq.com/market-activity/stocks/gme/option-chain)
+[https://www.nasdaq.com/market-activity/stocks/gme/option-chain](https://www.nasdaq.com/market-activity/stocks/gme/option-chain)
 
 EDIT: PLEASE! Realize how we are now in FULL CONTROL, we can easily calculate and justify any price movement, amount of shares sold. No one is selling! This is the most important thing - it's a proof that we stay in line and always did, there were no renegade apes. Whenever in doubt - go back, calculate, and eat a banana.
 

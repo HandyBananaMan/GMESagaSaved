@@ -1,5 +1,6 @@
-# Author: mildkratz
-# Post URL: [https://www.reddit.com/r/GME/comments/m6d3o5/daily_reminder_we_are_winning_and_citadel_is/](https://www.reddit.com/r/GME/comments/m6d3o5/daily_reminder_we_are_winning_and_citadel_is/)
+#Title: Daily Reminder: We are winning and Citadel is hurting worse than anyone here.
+#Author: mildkratz
+#Post URL: [https://www.reddit.com/r/GME/comments/m6d3o5/daily_reminder_we_are_winning_and_citadel_is/](https://www.reddit.com/r/GME/comments/m6d3o5/daily_reminder_we_are_winning_and_citadel_is/)
 
 
 For some perspective, the BBB- rated bond they opened for $600M represents more than the $523M cash assets they declared at the end of the fiscal year for 2020.

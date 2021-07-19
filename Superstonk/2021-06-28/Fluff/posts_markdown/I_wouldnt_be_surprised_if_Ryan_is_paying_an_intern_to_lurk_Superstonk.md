@@ -1,5 +1,6 @@
-# Author: Arkayb33
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9z9lk/i_wouldnt_be_surprised_if_ryan_is_paying_an/](https://www.reddit.com/r/Superstonk/comments/o9z9lk/i_wouldnt_be_surprised_if_ryan_is_paying_an/)
+#Title: I wouldn't be surprised if Ryan is paying an intern to lurk Superstonk.
+#Author: Arkayb33
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9z9lk/i_wouldnt_be_surprised_if_ryan_is_paying_an/](https://www.reddit.com/r/Superstonk/comments/o9z9lk/i_wouldnt_be_surprised_if_ryan_is_paying_an/)
 
 
 He's been a busy guy, reshaping a global company from the chrysalis of 2020 while simultaneously raising $2 billion AND forcing Kenny to work harder than he's probably worked in 30 years. He's without a doubt way too busy to surf reddit, even in the very limited free time I bet he has (30 min every other Saturday).

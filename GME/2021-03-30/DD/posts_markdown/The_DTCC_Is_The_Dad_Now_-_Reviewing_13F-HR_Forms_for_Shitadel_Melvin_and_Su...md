@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/)
+#Title: The DTCC Is The Dad Now - Reviewing 13F-HR Forms for Shitadel, Melvin and Susquehanna
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/](https://www.reddit.com/r/GME/comments/mgn2v8/the_dtcc_is_the_dad_now_reviewing_13fhr_forms_for/)
 
 
 Reviewing 13F-HR Forms is shit. Let's get that outta the way. But lots of good info hidden there. I flaired this as DD only because looking through these made me want to pull out my eyes.
@@ -159,7 +160,7 @@ For you, DO WHATEVER THE FUCK YOU WANT TO WITH YOUR MONEY. THIS IS NOT FINANCIAL
  
  
 
-MAJOR EDIT: Fixed a couple typos. Also just read the transcript of Gabe Plotkin's Congress Testimony again. He indicated that "Melvin started closing out its position in Gamestop at a loss" on page 2 of the written testimony. It appears from the SEC Filings that they increased the number of puts though between November and February - that doesn't seem like closing out a position in my books. (![https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)) Looking like Gabey boy might've lied to Congress OR the SEC filings from Melvin are bullshit, maybe both.
+MAJOR EDIT: Fixed a couple typos. Also just read the transcript of Gabe Plotkin's Congress Testimony again. He indicated that "Melvin started closing out its position in Gamestop at a loss" on page 2 of the written testimony. It appears from the SEC Filings that they increased the number of puts though between November and February - that doesn't seem like closing out a position in my books. ([https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)) Looking like Gabey boy might've lied to Congress OR the SEC filings from Melvin are bullshit, maybe both.
 
 MAJOR EDIT 2: I just reviewed the values in the 13F filings, Melvin's position increased 600,000 puts to change from a 55 million dollar position to a 113 million dollar position. Again, that doesn't seem like winding down a position and the share price was $12.06 vs. $49.51 between the two dates. Even accounting for the share price difference here related to the value of the options, it doesn't seem to add up for me.
 

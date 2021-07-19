@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/](https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/)
+#Title: Synopsis for 03-01 to 03-05 (1/2)
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/](https://www.reddit.com/r/GME/comments/lzphn6/synopsis_for_0301_to_0305_12/)
 
 
 Happy Sunday everyone,
@@ -132,7 +133,7 @@ so this leads me to personally believe that it can be happening around the 19th 
 
 &#x200B;
 
-[BDE from Deepfucking value](https://preview.redd.it/2daa6v04cll61.png?width=2856&format=png&auto=webp&s=03bd83810080c956dc4fd6bce0085af91fb4fbfc)
+![BDE from Deepfucking value](https://preview.redd.it/2daa6v04cll61.png?width=2856&format=png&auto=webp&s=03bd83810080c956dc4fd6bce0085af91fb4fbfc)
 
 He is still in and if you don't see an update from him don't worry, there is no need to give an update if NOTHING has changed for him.
 
@@ -350,7 +351,7 @@ now lets zoom out a bit more... what if there is a second cup being made at the 
 
 For the people not sure what I mean, this is what I'm referring to:
 
-![https://school.stockcharts.com/doku.php?id=chart\_analysis:chart\_patterns:cup\_with\_handle\_continuation](https://school.stockcharts.com/doku.php?id=chart_analysis:chart_patterns:cup_with_handle_continuation)
+[https://school.stockcharts.com/doku.php?id=chart\_analysis:chart\_patterns:cup\_with\_handle\_continuation](https://school.stockcharts.com/doku.php?id=chart_analysis:chart_patterns:cup_with_handle_continuation)
 
 &#x200B;
 

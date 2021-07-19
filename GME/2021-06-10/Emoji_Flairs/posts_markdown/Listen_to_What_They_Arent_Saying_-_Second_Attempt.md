@@ -1,5 +1,6 @@
-# Author: Wammy4U2
-# Post URL: [https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/](https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/)
+#Title: Listen to What They Aren’t Saying - Second Attempt
+#Author: Wammy4U2
+#Post URL: [https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/](https://www.reddit.com/r/GME/comments/nx012q/listen_to_what_they_arent_saying_second_attempt/)
 
 
 I made a comment earlier and people responded saying this belonged as it’s own post. And I got one bit of FUD in response that led me to do a bit more digging. So here is a very small, smooth brained bit of DD that should be easy to verify.
@@ -28,7 +29,7 @@ Here’s what I found:
 
 &#x200B;
 
-[Earnings Call Comparison](https://preview.redd.it/wgw3nbvjhi471.png?width=346&format=png&auto=webp&s=aafd30c12cc872e8b3adce05a7d1c49d42e8fd22)
+![Earnings Call Comparison](https://preview.redd.it/wgw3nbvjhi471.png?width=346&format=png&auto=webp&s=aafd30c12cc872e8b3adce05a7d1c49d42e8fd22)
 
 Before Q4 2020 all of the calls were much longer (over 5x) and all allowed analysts to participate with questions.
 
@@ -47,7 +48,7 @@ Sources:
 * [https://www.fool.com/earnings/call-transcripts/2020/06/09/gamestop-corp-new-gme-q1-2020-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2020/06/09/gamestop-corp-new-gme-q1-2020-earnings-call-transc.aspx)
 * [https://www.fool.com/earnings/call-transcripts/2020/03/26/gamestop-corp-new-gme-q4-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2020/03/26/gamestop-corp-new-gme-q4-2019-earnings-call-transc.aspx)
 * [https://www.fool.com/earnings/call-transcripts/2019/12/10/gamestop-corp-new-gme-q3-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/12/10/gamestop-corp-new-gme-q3-2019-earnings-call-transc.aspx)
-* ![https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx)
+* [https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx](https://www.fool.com/earnings/call-transcripts/2019/09/11/gamestop-corp-new-gme-q2-2019-earnings-call-transc.aspx)
 
 I don’t have the karma to post on r/SuperStonk and I’m far too smooth brained to know how to farm karma. So feel free to cross post this if it’s interesting.
 

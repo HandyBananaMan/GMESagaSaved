@@ -1,12 +1,13 @@
-# Author: AvidTreesFan
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/](https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/)
+#Title: Companies Destroyed by Hedge Funds: How Gamestop was almost the next Toys R' Us
+#Author: AvidTreesFan
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/](https://www.reddit.com/r/DDintoGME/comments/n2h4ss/companies_destroyed_by_hedge_funds_how_gamestop/)
 
 
  Your favorite caffeine-addled, sleep deprived, tree chomping ape is back with a fresh pack of crayons, glitter and glue. Let's get to it.
 
 Conflicts of interest, predatory financial organizations and potential large scale racketeering through the process of leveraged debt; just another day on Wall Street.
 
-[Toy's R' Us store closing down circa 2018 with a 60% off sale banner displayed on the front windows.](https://preview.redd.it/n7a2uri0o7w61.jpg?width=660&format=pjpg&auto=webp&s=1efe0388aab4cc24cd796da1d05bc132f676614a)
+![Toy's R' Us store closing down circa 2018 with a 60% off sale banner displayed on the front windows.](https://preview.redd.it/n7a2uri0o7w61.jpg?width=660&format=pjpg&auto=webp&s=1efe0388aab4cc24cd796da1d05bc132f676614a)
 
 How about we begin with the **calculated bankrupting of Toys R' Us;** Similar to Gamestop, Many of us have fond, nostalgic memories of Toys R' Us. I've loved Toys R' Us since I've had (and still have) a proclivity towards trading cards and collectibles; Toys R' Us hooked it the fuck up and ya'll know it).
 
@@ -52,7 +53,7 @@ This WSJ article describes the power dynamic between companies and their credito
 
 **Notice that it can be observed in the photo in the WSJ article that Toys R Us was selling product at a whopping 70-90% discount days before closing.** Not that sales are uncommon for a company going out of business but wouldn't the creditors would want to do their best to recoup on as much of their investment as possible? **This was done so Toys R' Us wouldn't be able to pay their biggest vendor: Mattel (which is also publicly traded). This would allow anyone aware of the Toys R' Us situation to take a short position on Mattel.**
 
-[Going out of Business signs in a Toys R' Us circa 2018 also displaying 70% to 90% off discounts.](https://preview.redd.it/6hhyzejlz7w61.jpg?width=700&format=pjpg&auto=webp&s=f2dffa1d5255110d2e9c324f9447bf96f61c2028)
+![Going out of Business signs in a Toys R' Us circa 2018 also displaying 70% to 90% off discounts.](https://preview.redd.it/6hhyzejlz7w61.jpg?width=700&format=pjpg&auto=webp&s=f2dffa1d5255110d2e9c324f9447bf96f61c2028)
 
 **When KKR, Bain and Vornado purchased Toys R' Us they purchased it through a structured debt agreement along with the four listed funds above. They then intentionally mismanaged the company and defaulted on over-leveraged loans BY CHOICE. I believe this acquisition also served to eliminate the biggest competitive threat to Walmart and Amazon seeing that 2 of Toys R Us' creditors hold positions in those companies.**
 
@@ -92,7 +93,7 @@ I think I'm noticing a trend here....
 
 After Toys R' Us was acquired by KKR and friends In 2005, **Toys R' Us lost significant market share of their market due to Amazon introducing toys and baby products in 2006.**
 
-[Amazon and Walmart were major competitors of Toys R' Us.](https://preview.redd.it/anq6dynt28w61.jpg?width=630&format=pjpg&auto=webp&s=ffb654a66f50082d7f958cee1fe09225fb96fa0c)
+![Amazon and Walmart were major competitors of Toys R' Us.](https://preview.redd.it/anq6dynt28w61.jpg?width=630&format=pjpg&auto=webp&s=ffb654a66f50082d7f958cee1fe09225fb96fa0c)
 
 [**https://www.usatoday.com/story/money/2018/03/15/toys-r-us-liquidation-amazon-target-walmart/427209002/**](https://www.usatoday.com/story/money/2018/03/15/toys-r-us-liquidation-amazon-target-walmart/427209002/)
 
@@ -106,7 +107,7 @@ Notice how they use the term **brick and mortar** even though Toys R' Us was one
 
 [https://www.zippia.com/toys-r-us-careers-42082/history/](https://www.zippia.com/toys-r-us-careers-42082/history/)
 
-[Toys R' Us was still doing $912M in toy sales in 2016.](https://preview.redd.it/548b8ngp38w61.jpg?width=960&format=pjpg&auto=webp&s=1970b06af76f524ece932b10fc49176407a6ec0e)
+![Toys R' Us was still doing $912M in toy sales in 2016.](https://preview.redd.it/548b8ngp38w61.jpg?width=960&format=pjpg&auto=webp&s=1970b06af76f524ece932b10fc49176407a6ec0e)
 
 **Solos Alternative Asset Management acquired Majority ownership of Toys R' Us by 2018 through their ownership stake in TruKids but eventually sold it to WHPGlobal.**
 
@@ -150,7 +151,7 @@ Thankfully this bleak fate is no longer a possibility for GameStop since they've
 
 **. Vendors such as Mattel lost of over $350M**
 
-[Here's one of the last photos taken before the complete closure of Toys R' Us. This entire staff lost their income, work community and health benefits.](https://preview.redd.it/jblmyh5d98w61.jpg?width=660&format=pjpg&auto=webp&s=0b19e72132c1d34470849225446bcc7ccc1a4b31)
+![Here's one of the last photos taken before the complete closure of Toys R' Us. This entire staff lost their income, work community and health benefits.](https://preview.redd.it/jblmyh5d98w61.jpg?width=660&format=pjpg&auto=webp&s=0b19e72132c1d34470849225446bcc7ccc1a4b31)
 
 Each and every one of the staff members in this photo represents an individual who, through no fault of their own, had their life disrupted by Wall St. Whoever's in that Geoffrey the Giraffe suit still had financial responsibilities after losing their job that day. IMO these individuals are unsuspecting victims and represent the real world cost to society and economy.
 
@@ -173,7 +174,7 @@ I'd also like to thank [u/Ren3666](https://www.reddit.com/u/Ren3666/) for contri
 5. **Default on debt to your lenders (who also stand to gain from Toys R' Us going out of business) all the while; naked shorting the living shit out of the stock.**
 6. **Take your proceeds from naked shorting/shorting a stock and invest it into your long positions (which are direct competitors with the companies you just shorted) raising their stock price. This is essentially taking capital from one companies market cap and stacking it into another.**
 7. **Contact every media source that will take your money in exchange for drawing attention to the stock price disparity between the shorted company (Toys R' Us) and your long positions (AMZN and WAL) while promoting your bear thesis for your short position and your bull thesis for your long position.**
-8. **Control the narrative. Looks like** ![u/controlthenarrative](https://www.reddit.com/u/controlthenarrative/) **has known what this market is about all along haha.**
+8. **Control the narrative. Looks like** [u/controlthenarrative](https://www.reddit.com/u/controlthenarrative/) **has known what this market is about all along haha.**
 
 **Before you know it you'll have profited by retaining your short sale proceeds while abandoning your debt to a "Schmuck fund" like Solos Alternative Asset Management. You then short Mattel at the same time.**
 

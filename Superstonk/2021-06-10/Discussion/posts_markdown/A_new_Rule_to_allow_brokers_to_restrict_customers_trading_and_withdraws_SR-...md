@@ -1,5 +1,6 @@
-# Author: morebikesthanbrains
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/](https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/)
+#Title: A new Rule to allow brokers to restrict customer's trading and withdraws. SR-FINRA-2021-016 will allow firms to place a hold for up to ~~25~~55 days on a customer's ability to trade and/or withdraw funds when there is a reasonable belief the customer is being exploited. **CALLING ALL BIG BRAINS**
+#Author: morebikesthanbrains
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/](https://www.reddit.com/r/Superstonk/comments/nwpbpp/a_new_rule_to_allow_brokers_to_restrict_customers/)
 
 
 EDIT6: from /u/thisisnotameme2020 
@@ -60,7 +61,7 @@ EDIT2:  from /u/Carb0n12:
 
 **ORIGINAL POST BELOW**
 
-FINRA released a new rule (SR-FINRA-2021-061) (![link](https://www.finra.org/sites/default/files/2021-06/sr-finra-2021-016.pdf)) yesterday titled *Proposed Rule Change to Amend Rule 2165 (Financial Exploitation of Specified Adults).*
+FINRA released a new rule (SR-FINRA-2021-061) ([link](https://www.finra.org/sites/default/files/2021-06/sr-finra-2021-016.pdf)) yesterday titled *Proposed Rule Change to Amend Rule 2165 (Financial Exploitation of Specified Adults).*
 
 At first read, there is a lot of language about protecting old investors from fraud, but the more I read the more vague and open-ended the rule change appears.  After a few pages, my tinfoil hat is telling me this could be abused to prevent apes from trading stonks during the peak of a squeeze.  Take for instance this language: 
 

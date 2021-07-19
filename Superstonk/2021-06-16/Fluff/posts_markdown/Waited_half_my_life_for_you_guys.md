@@ -1,5 +1,6 @@
-# Author: lnsip9reg
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0y1l2/waited_half_my_life_for_you_guys/](https://www.reddit.com/r/Superstonk/comments/o0y1l2/waited_half_my_life_for_you_guys/)
+#Title: Waited half my life for you guys
+#Author: lnsip9reg
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0y1l2/waited_half_my_life_for_you_guys/](https://www.reddit.com/r/Superstonk/comments/o0y1l2/waited_half_my_life_for_you_guys/)
 
 
 I'm a nobody. I chose to be a nobody. And I am glad to see so many fellow Apes and Ants and Europoors and others who chose to not take the blood money.

@@ -1,5 +1,6 @@
-# Author: Johnnywg1996
-# Post URL: [https://www.reddit.com/r/GME/comments/mk8zmk/gamestop_is_going_to_squeeze/](https://www.reddit.com/r/GME/comments/mk8zmk/gamestop_is_going_to_squeeze/)
+#Title: GAMESTOP IS GOING TO SQUEEZE
+#Author: Johnnywg1996
+#Post URL: [https://www.reddit.com/r/GME/comments/mk8zmk/gamestop_is_going_to_squeeze/](https://www.reddit.com/r/GME/comments/mk8zmk/gamestop_is_going_to_squeeze/)
 
 
 Fuck you losers. Go ahead ban all of our DD kings. We already got everything we need to know.

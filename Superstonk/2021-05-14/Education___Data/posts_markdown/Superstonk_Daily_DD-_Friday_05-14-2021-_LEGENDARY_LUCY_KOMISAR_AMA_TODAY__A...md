@@ -1,12 +1,13 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/](https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/)
+#Title: Superstonk Daily DD- Friday 05-14-2021- LEGENDARY LUCY KOMISAR AMA TODAY!!! 🚀🚀🚀🚀 ALSO... IT'S CUSTOM FLAIR FRIDAY!!! 🦍✅🖍💎🙌
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/](https://www.reddit.com/r/Superstonk/comments/nc4z2p/superstonk_daily_dd_friday_05142021_legendary/)
 
 
 &#x200B;
 
 # 🚨UPDATE🚨 [MUST READ FOR ALL EUROAPES AND THOSE TRYING TO VOTE!!](https://www.reddit.com/r/Superstonk/comments/nc8d2u/europoor_here_is_carl_hagbergs_advice_on_how_to/?utm_source=share&utm_medium=web2x&context=3)
 
-[Banner submission by u\/repagator8 ](https://preview.redd.it/pi7stpy2vyy61.png?width=870&format=png&auto=webp&s=c03440b2ed057ac4b2ff3eed1718b87c3b9614ec)
+![Banner submission by u\/repagator8 ](https://preview.redd.it/pi7stpy2vyy61.png?width=870&format=png&auto=webp&s=c03440b2ed057ac4b2ff3eed1718b87c3b9614ec)
 
 # Good Morning, Superstonk!!!
 
@@ -26,7 +27,7 @@ Everybody got your permission slip and banana/crayon sack lunch? 🍌
 
 # THIS SUB IS ON FIRE!! 🔥 Another 2 AMA announcements!! CAN'T STOP WON'T STOP!
 
-[Ya mad?](https://preview.redd.it/i8eajzwftzy61.jpg?width=778&format=pjpg&auto=webp&s=27211e6217f5ba2d3c55db0ed640427612d98d1c)
+![Ya mad?](https://preview.redd.it/i8eajzwftzy61.jpg?width=778&format=pjpg&auto=webp&s=27211e6217f5ba2d3c55db0ed640427612d98d1c)
 
 # [Award winning investigative journalist, Lucy Komisar is our guest today at 4:30 pm Eastern with u/Luridess our host!!](https://www.reddit.com/r/Superstonk/comments/nb0fuy/official_ama_lucy_komisar_awardwinning/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -60,7 +61,7 @@ She's also written several books, and has literally hundreds of other awards, re
 
 &#x200B;
 
-[Investigative Journalist, Lucy Komisar](https://preview.redd.it/sh0o5la894z61.jpg?width=1542&format=pjpg&auto=webp&s=30879127e25e3b46d1704fcd9381ea88946d5328)
+![Investigative Journalist, Lucy Komisar](https://preview.redd.it/sh0o5la894z61.jpg?width=1542&format=pjpg&auto=webp&s=30879127e25e3b46d1704fcd9381ea88946d5328)
 
 &#x200B;
 
@@ -84,7 +85,7 @@ Wes Christian is a Texas attorney with [an accent as big as his list of accompli
 
 &#x200B;
 
-[Wes Christian](https://preview.redd.it/u05nr3qojyy61.png?width=170&format=png&auto=webp&s=abd5426cf404b8b982d5289df625a5e24059cd3c)
+![Wes Christian](https://preview.redd.it/u05nr3qojyy61.png?width=170&format=png&auto=webp&s=abd5426cf404b8b982d5289df625a5e24059cd3c)
 
 **Here's what Dr. T has to say about how she first met Wes in her book, Naked Short and Greedy:**
 
@@ -102,7 +103,7 @@ Wes Christian is a Texas attorney with [an accent as big as his list of accompli
 
 We are so honored, humbled, and thrilled to bring you these top-tier AMA guests! If only we could go back and tell our February selves how far we've come 💖
 
-[attacc](https://preview.redd.it/702je9hjtzy61.jpg?width=900&format=pjpg&auto=webp&s=7568053e1893c8e0f41a84b72bad1c1d0c598f88)
+![attacc](https://preview.redd.it/702je9hjtzy61.jpg?width=900&format=pjpg&auto=webp&s=7568053e1893c8e0f41a84b72bad1c1d0c598f88)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -112,7 +113,7 @@ We are so honored, humbled, and thrilled to bring you these top-tier AMA guests!
 
 Alright, some of you may think I'm wearing a tin foil hat here, that's fine. You can call all this a totally trippin Pink Cats theory... But I want to talk a little more about the Ryan Cohen tweet from Wednesday night.
 
-[RC was right by the SEC HQ on Wednesday night](https://preview.redd.it/a93vfyiy0zy61.jpg?width=2033&format=pjpg&auto=webp&s=b0b1e6eaaedbcb3678d1d4f465a40804805e100a)
+![RC was right by the SEC HQ on Wednesday night](https://preview.redd.it/a93vfyiy0zy61.jpg?width=2033&format=pjpg&auto=webp&s=b0b1e6eaaedbcb3678d1d4f465a40804805e100a)
 
 Yesterday I pointed out that RC was at a Gamestop *thrillingly* close to the SEC HQ. And we know he doesn't really just take pictures at any ol' gamestop (remember when he was 15 minutes away from Elon Musk, who was also in town?) We know our favorite corporate memelord loves to speak in riddle through twitter, so I think he is *extremely strategic* about "dropping a GME pin" for us to figure out what's going on.
 
@@ -120,7 +121,7 @@ Yesterday I pointed out that RC was at a Gamestop *thrillingly* close to the SEC
 
 So yesterday I also pointed out that the **SEC SEEMS TO HAVE FINALLY HELD THE MOTHERFUDING SUNSHINE ACT MEETING AFTER 4 POSTPONEMENTS....**
 
-[DID IT HAPPEN OR NOT?!](https://preview.redd.it/jr6qhlkf4zy61.png?width=982&format=png&auto=webp&s=d4e198431d5b4e182d54244fd4f65ac5aa902ab1)
+![DID IT HAPPEN OR NOT?!](https://preview.redd.it/jr6qhlkf4zy61.png?width=982&format=png&auto=webp&s=d4e198431d5b4e182d54244fd4f65ac5aa902ab1)
 
 I can't find confirmation anywhere that the meeting *did* happen for sure, but it wasn't postponed, which I'm pretty sure would have to be posted on their website in a timely manner, so for the sake of this story we're gonna say it DID happen yesterday. Which would be a *HUGE* deal because this thing has been postponed **4 TIMES** in the last few months. Let's look at the topics they discussed:
 
@@ -151,7 +152,7 @@ RC would have gotten the proxy results on May 11 and had them in hand for the me
 
 # [Please read this post](https://www.reddit.com/r/Superstonk/comments/naw85p/proxy_voting_dd_v2_why_gamestop_is_publicly/) by [u/TheGargaglione](https://www.reddit.com/user/TheGargaglione/) that explains perfectly why I believe RC was at the meeting, with Proxy vote numbers in hand, which is the evidence the SEC would need to start an investigation.
 
-[It's ok we have screenshots 👁👅👁📷](https://preview.redd.it/aqzj26vd0zy61.png?width=960&format=png&auto=webp&s=70d91c52b80ddc5f0124ba9287ad67b1592e693b)
+![It's ok we have screenshots 👁👅👁📷](https://preview.redd.it/aqzj26vd0zy61.png?width=960&format=png&auto=webp&s=70d91c52b80ddc5f0124ba9287ad67b1592e693b)
 
 &#x200B;
 
@@ -163,7 +164,7 @@ But, in all the cool spy movies, the message always self destructs after the int
 
 &#x200B;
 
-[It's just so beautiful I have to post it again](https://preview.redd.it/fuyfxd8wdzy61.png?width=590&format=png&auto=webp&s=bce0e9a669de011ed212a39008fc31562ca661f6)
+![It's just so beautiful I have to post it again](https://preview.redd.it/fuyfxd8wdzy61.png?width=590&format=png&auto=webp&s=bce0e9a669de011ed212a39008fc31562ca661f6)
 
 [Shoutout to this diligent ape](https://www.reddit.com/r/Superstonk/comments/nbk1qi/i_just_visited_arlington_va_gamestop_where_ryan/?utm_source=share&utm_medium=web2x&context=3) u/shane_4_us that drove to the Arlington, VA Gamestop to investigate the surroundings! 🧐🧐🧐
 
@@ -175,7 +176,7 @@ But, in all the cool spy movies, the message always self destructs after the int
 
 "I've seen the screenshot of GME with all those 1 share orders, and just wanted to reiterate that you need to know what the source is of the market data. Here is what Fidelity looks like - clearly a full book across many exchanges without those 1 share orders. Always think about the source of the data - standard retail data is low quality, and usually only from 1 exchange."
 
-[The order books on your broker are probably a lie](https://preview.redd.it/n507hmy9ezy61.png?width=319&format=png&auto=webp&s=de631f5b1cb834f915808fa4d3addd9eab68f7d8)
+![The order books on your broker are probably a lie](https://preview.redd.it/n507hmy9ezy61.png?width=319&format=png&auto=webp&s=de631f5b1cb834f915808fa4d3addd9eab68f7d8)
 
 **TA;DR: The order books ARE more voluminous than we can see on our retail level 2 data.**
 
@@ -218,13 +219,13 @@ DID YOU HEAR ME? That's just those new 4.1 Million fidelity customers. And as yo
 
 # Gamestop has an Official Esports Twitter!!
 
-[TITS ARE COMPETITIVELY JACKED!!](https://preview.redd.it/c6z264vba2z61.png?width=600&format=png&auto=webp&s=39d3d463aec9f23f523ac8299654238f21bd56b5)
+![TITS ARE COMPETITIVELY JACKED!!](https://preview.redd.it/c6z264vba2z61.png?width=600&format=png&auto=webp&s=39d3d463aec9f23f523ac8299654238f21bd56b5)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # 📢📦International Giveaway Contest Submissions Close TODAY when NYSE Closes! International apes, get your memes in NOW!!📢📦
 
-[iz my cat](https://preview.redd.it/rrnfgq0m6yy61.png?width=1300&format=png&auto=webp&s=1503ddb82fc5f293c105e0a24423a2db9b8579bd)
+![iz my cat](https://preview.redd.it/rrnfgq0m6yy61.png?width=1300&format=png&auto=webp&s=1503ddb82fc5f293c105e0a24423a2db9b8579bd)
 
 3 lucky apes outside the USA will receive a Gamestop Limited Edition Bananya Cat, complete with red headband!
 
@@ -284,7 +285,7 @@ The catalyst really has been inside us the whole time. ✌
 
 &#x200B;
 
-[it was](https://preview.redd.it/r1o8n8k9uzy61.jpg?width=599&format=pjpg&auto=webp&s=d215dc6bb4ec5d236fa065b69b01b56f56b65953)
+![it was](https://preview.redd.it/r1o8n8k9uzy61.jpg?width=599&format=pjpg&auto=webp&s=d215dc6bb4ec5d236fa065b69b01b56f56b65953)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -320,7 +321,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[Kick back and enjoy your weekend, friends!!!](https://preview.redd.it/9eqguocguzy61.jpg?width=1920&format=pjpg&auto=webp&s=a795bc4dba681cea2c0ea31bf36b6e477c5182bf)
+![Kick back and enjoy your weekend, friends!!!](https://preview.redd.it/9eqguocguzy61.jpg?width=1920&format=pjpg&auto=webp&s=a795bc4dba681cea2c0ea31bf36b6e477c5182bf)
 
 **Reddit down, wot do?**
 
@@ -330,7 +331,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://mobile.twitter.com/pinkcatsonacid](https://mobile.twitter.com/pinkcatsonacid)
 
-![SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 # 🚨 ... AND VOTE!!! 🚨
 

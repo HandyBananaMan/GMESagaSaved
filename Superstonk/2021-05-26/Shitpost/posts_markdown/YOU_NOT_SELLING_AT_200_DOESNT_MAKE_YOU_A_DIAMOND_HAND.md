@@ -1,5 +1,6 @@
-# Author: _dh0ull_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nliwtv/you_not_selling_at_200_doesnt_make_you_a_diamond/](https://www.reddit.com/r/Superstonk/comments/nliwtv/you_not_selling_at_200_doesnt_make_you_a_diamond/)
+#Title: YOU NOT SELLING AT 200 DOESN'T MAKE YOU A DIAMOND HAND
+#Author: _dh0ull_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nliwtv/you_not_selling_at_200_doesnt_make_you_a_diamond/](https://www.reddit.com/r/Superstonk/comments/nliwtv/you_not_selling_at_200_doesnt_make_you_a_diamond/)
 
 
 STOP PATTING YOURSELVES ON THE BACK FOR NOT SELLING AT 200. IT'S FUCKING PISSING ME OFF. 

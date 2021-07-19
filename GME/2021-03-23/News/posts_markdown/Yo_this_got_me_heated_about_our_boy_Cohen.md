@@ -1,5 +1,6 @@
-# Author: Paladinspector
-# Post URL: [https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/](https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/)
+#Title: Yo this got me heated about our boy Cohen.
+#Author: Paladinspector
+#Post URL: [https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/](https://www.reddit.com/r/GME/comments/mbd01i/yo_this_got_me_heated_about_our_boy_cohen/)
 
 
 From Reuters:
@@ -20,4 +21,4 @@ Fuck Reuters.  /EndEdit
 
 Article:
 
-![https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS](https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS)
+[https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS](https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight/from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSKBN2BF1AS)

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/](https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/)
+#Title: Synopsis for 05-11-2021 DD that's not DD but DDing in the D's for DD-juice
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/](https://www.reddit.com/r/Superstonk/comments/n9t7u7/synopsis_for_05112021_dd_thats_not_dd_but_dding/)
 
 
 Good morning San Diago,
@@ -46,7 +47,7 @@ Yesterday we saw a sharp decline in price... no kidding it was just about 10% an
 
 The thing that's interesting to me is the latest post of u/wardenelite, in it he describes multiple scenarios that could happen and what they may be able to do on a technical level to give off certain ideas.
 
-![https://www.reddit.com/r/Superstonk/comments/n5me5g/the\_mother\_of\_all\_wedges\_an\_endgame\_dd\_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
+[https://www.reddit.com/r/Superstonk/comments/n5me5g/the\_mother\_of\_all\_wedges\_an\_endgame\_dd\_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
 
 But more specific I like this image 
 

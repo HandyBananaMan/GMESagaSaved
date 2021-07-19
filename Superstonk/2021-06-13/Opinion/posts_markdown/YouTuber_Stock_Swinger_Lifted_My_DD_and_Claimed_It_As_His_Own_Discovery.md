@@ -1,5 +1,6 @@
-# Author: Get-It-Got
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/](https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/)
+#Title: YouTuber 'Stock Swinger' Lifted My DD and Claimed It As His Own Discovery
+#Author: Get-It-Got
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/](https://www.reddit.com/r/Superstonk/comments/nyxahe/youtuber_stock_swinger_lifted_my_dd_and_claimed/)
 
 
 He even lifted my option chain screensgrabs. You can tell by looking at the URL of the June 11 and June 18 option chains images in his video. He even mischaracterized my DD because it wasn't just Blackrock and Citadel that loaded up on $HYG Puts.
@@ -10,7 +11,7 @@ https://preview.redd.it/h840lrhlj1571.png?width=1484&format=png&auto=webp&s=efc8
 
 And here's his YouTube channel: [https://www.youtube.com/watch?v=YW554gS1fWs&t=1s](https://www.youtube.com/watch?v=YW554gS1fWs&t=1s)
 
-[Check the URL ... he's showing the image from my DD.](https://preview.redd.it/y6xgpn1rj1571.png?width=1962&format=png&auto=webp&s=d97849bb0208cb5bc5eec0c38e05b281e0cc3e70)
+![Check the URL ... he's showing the image from my DD.](https://preview.redd.it/y6xgpn1rj1571.png?width=1962&format=png&auto=webp&s=d97849bb0208cb5bc5eec0c38e05b281e0cc3e70)
 
 Anyway, not cool. Not cool at all man.
 
@@ -54,4 +55,4 @@ If you're interested in this research, please follow me and keep an eye out for 
 
 Edit #2: Since comments are closed, if the DD idea outlined above is something you support, please visit this older posts about this and let me know (the initial reception of the idea was pretty bad, and you can see by the 0 Upvote count):
 
-![https://www.reddit.com/r/Superstonk/comments/nxmkp4/still\_collecting\_data\_shooting\_for\_n300\_us\_adult/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxmkp4/still_collecting_data_shooting_for_n300_us_adult/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/Superstonk/comments/nxmkp4/still\_collecting\_data\_shooting\_for\_n300\_us\_adult/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxmkp4/still_collecting_data_shooting_for_n300_us_adult/?utm_source=share&utm_medium=web2x&context=3)

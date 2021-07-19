@@ -1,5 +1,6 @@
-# Author: superjess777
-# Post URL: [https://www.reddit.com/r/GME/comments/m4yc75/ape_charity_tied_to_bill_gates_tied_to_citadel/](https://www.reddit.com/r/GME/comments/m4yc75/ape_charity_tied_to_bill_gates_tied_to_citadel/)
+#Title: Ape Charity tied to bill gates tied to Citadel CEO Ken Griffin
+#Author: superjess777
+#Post URL: [https://www.reddit.com/r/GME/comments/m4yc75/ape_charity_tied_to_bill_gates_tied_to_citadel/](https://www.reddit.com/r/GME/comments/m4yc75/ape_charity_tied_to_bill_gates_tied_to_citadel/)
 
 
 Found something interesting- don’t know if it means anything but here are some articles connecting the Dian Fossey Gorilla Fund with Bill Gates. Next article ties Bill Gates to Citadel CEO Ken Griffin. 

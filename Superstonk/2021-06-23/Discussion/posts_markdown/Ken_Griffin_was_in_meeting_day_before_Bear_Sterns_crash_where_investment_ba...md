@@ -1,12 +1,13 @@
-# Author: shroomz11
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/](https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/)
+#Title: Ken Griffin was in meeting day before Bear Sterns crash where investment banks colluded to bankrupt them
+#Author: shroomz11
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/](https://www.reddit.com/r/Superstonk/comments/o6ouxn/ken_griffin_was_in_meeting_day_before_bear_sterns/)
 
 
 The day before Bear Sterns crashed, the Federal Reserve held a private, non recorded meeting with many of the investment banks, with the exception of Bear Sterns. In attendance was Fed Chief Ben Bernanke, the NY Fed President, Jamie Dimon, and the rest from Goldman Sachs, Morgan Stanley, Merrill Lynch among a few others and none other than our mayo loving boy Kenneth Griffin.
 
 The same day this meeting was held, someone spent $1.7 million on options, betting they would crash within 9 days, and made $270 million. The SEC said they would look into it but nothing ever came about, yet they are known to travel internationally to investigate insider trading from a $2000 profit. The article below explains how all the investment banks ganged up on Bear Sterns toward the end and colluded them into bankruptcy, and through many tactics resulted in consolidated financial and political power during 2008. Of course they are equally to blame in the crash, but these psychopaths are extremely intelligent, and their collusion knows no bounds.
 
-I’d recommend reading the full article here: ![Wall Street’s Naked Swindle - Rolling Stone](https://web.archive.org/web/20210213125246/https://www.rollingstone.com/feature/wall-streets-naked-swindle-194908/)
+I’d recommend reading the full article here: [Wall Street’s Naked Swindle - Rolling Stone](https://web.archive.org/web/20210213125246/https://www.rollingstone.com/feature/wall-streets-naked-swindle-194908/)
 
 Some excerpts below. 
 

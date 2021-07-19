@@ -1,8 +1,9 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/](https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/)
+#Title: The Anatomy of the MOASS - Part 1/3: The Key Market Concepts that Make the MOASS Possible and Other Important Terminology
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/](https://www.reddit.com/r/Superstonk/comments/odk41o/the_anatomy_of_the_moass_part_13_the_key_market/)
 
 
->Disclaimer: Not Financial Advice, I am not a Financial Advisor [.](https://preview.redd.it/f9nhhit3yo971.jpg)
+>Disclaimer: Not Financial Advice, I am not a Financial Advisor ![.](https://preview.redd.it/f9nhhit3yo971.jpg)
 
 # BEFORE READING
 
@@ -29,12 +30,9 @@ I have found myself more active on [Twitter](https://twitter.com/intent/user?scr
    * If you want to follow SuperStonk Mods Active on Twitter:
       * u/RedChessQueen99 \- [Follow](https://twitter.com/intent/user?screen_name=RedChessQueen99)
       * u/Rensole \- [Follow](https://twitter.com/intent/user?screen_name=Rensole)
-      * u/pinkcatsonacid \- [Follow](https://twitter.com/intent/user?screen_name=pinkcatsonacid)
       * u/Bye_Triangle \- [Follow](https://twitter.com/intent/user?screen_name=ByeTriangle)
       * u/sharkbaitlol \- [Follow](https://twitter.com/intent/user?screen_name=u_sharkbaitlol)
       * u/Bradduck_Flyntmoore \- [Follow](https://twitter.com/intent/user?screen_name=BradduckF)
-      * u/grungromp \- [Follow](https://twitter.com/intent/user?screen_name=grungromp)
-      * u/Hey_Madie \- [Follow](https://twitter.com/intent/user?screen_name=MetaMadie)
 
 # SERIES PREFACE
 
@@ -464,12 +462,12 @@ The main point of the post is to read and understand section V, but here is sect
 5. The manipulators are at the mercy of a vicious trade cycle (T+21/35 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
 7. Eventually, the prices of GME will get so high that prime brokers will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be meetable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default and be forcibly liquidated
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
 # Stay Tuned for Parts 2 and 3
 
-Part 2 (WIP planned to release by 7/8 or 7/9) - MOASS Mechanics, Landscape, Atmosphere, and Tactics: What "Normal" Looks Like in the Months/Weeks Leading to MOASS
+Part 2 (WIP) - MOASS Mechanics, Landscape, Atmosphere, and Tactics: What "Normal" Looks Like in the Months/Weeks Leading to MOASS
 
 * Tactics
    * MSM Propaganda
@@ -484,7 +482,7 @@ Part 2 (WIP planned to release by 7/8 or 7/9) - MOASS Mechanics, Landscape, Atmo
    * MSM Content
    * Shill Activity
 
-Part 3 (WIP planned to release by 7/12) - MOASS Mindset and Ways to Navigate
+Part 3 (WIP) - MOASS Mindset and Ways to Navigate
 
 * Think Critically
 * Understand "Why" You Believe in Your Thesis and the Basics "How" the Thesis is Possible

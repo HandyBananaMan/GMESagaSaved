@@ -1,5 +1,6 @@
-# Author: haydoboyo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/](https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/)
+#Title: Double the short interest, half the anxiety.
+#Author: haydoboyo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/](https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/)
 
 
 Hi everyone, hope your weekend is going well,
@@ -12,7 +13,7 @@ We originally were speculating based on Darkpool share trading data that ~440mil
 
 We used this information (based on the original count of ~50million shares available for public trading) to estimate that SI was over 900%.
 
-THEN YESTERDAY: [According to Gamestop's 14A, there is only 26.7 Million shares available for trading to the public, not including ETFs or institutions under 5% ownership.](https://preview.redd.it/1pqbq8iuzsu61.jpg?width=354&auto=webp&s=0b76796d2033adadffdcaa149f25287e66f6e3ab)
+THEN YESTERDAY: ![According to Gamestop's 14A, there is only 26.7 Million shares available for trading to the public, not including ETFs or institutions under 5% ownership.](https://preview.redd.it/1pqbq8iuzsu61.jpg?width=354&auto=webp&s=0b76796d2033adadffdcaa149f25287e66f6e3ab)
 
 Meaning that based on the pre-existing information of a 440 million share synthetic float, and the NEW information that the public float is supposed to be 26.7 million shares, the short interest is roughly double our original estimates, at ~1800%
 
@@ -22,7 +23,7 @@ APES HAVE BEEN BUYING THE ENTIRE TIME, AND HEDGIES HAVE NOT STOPPED MANUFACTURIN
 
 THIS NUMBER IS ABSOLUTELY HIGHER NOW.
 
-[You know how I feel.](https://media.tenor.com/images/c883d2b9b94e0af0ce8e03a57a5f2c0f/tenor.gif)
+![You know how I feel.](https://media.tenor.com/images/c883d2b9b94e0af0ce8e03a57a5f2c0f/tenor.gif)
 
 
 **So lets have a talk about what this could mean for *you* and your tendies.**
@@ -59,6 +60,6 @@ Hedgies r fuk.
 
 Edit: I'd just like to throw this on the end in a response to the question "If no one is policing them then why would they stop?"
 
-My **guess** is that initially, due to historic shorting strategies on companies and normal market movement, they thought that retail would eventually sell when the price tanks, so they doubled down on the shorts. However due to the Age of Information, retail quickly spread short-squeeze data between each other and held. Hedgies, not knowing what was happening (at this time they didn't know about WSB), doubled down again and again and again, ![pushing their share-creating algorithms to 11](https://lh3.googleusercontent.com/proxy/Pewyx0yeAeZx43GFIUw2XKr2dH4lsyYOWgSb_BndAFIKQZ7z0dObiwmN3WyEoAy8SejiQN80pYauNqzdwkkDQABGx-a0iFvLe0PQ5evH1zbGzJs3PzPu2J_PnPA7ar31Uzcar9giSyABj4yM9eLFkS95IHn94I8plN_5yGD6F2r4). Only in the last maybe month or so, when liquidity dried up, can we see that hedgies have abandoned that strategy and have gone full psy-ops on us. However, by this point too many shares already exist, and we have been gobbling them up every day.
+My **guess** is that initially, due to historic shorting strategies on companies and normal market movement, they thought that retail would eventually sell when the price tanks, so they doubled down on the shorts. However due to the Age of Information, retail quickly spread short-squeeze data between each other and held. Hedgies, not knowing what was happening (at this time they didn't know about WSB), doubled down again and again and again, [pushing their share-creating algorithms to 11](https://lh3.googleusercontent.com/proxy/Pewyx0yeAeZx43GFIUw2XKr2dH4lsyYOWgSb_BndAFIKQZ7z0dObiwmN3WyEoAy8SejiQN80pYauNqzdwkkDQABGx-a0iFvLe0PQ5evH1zbGzJs3PzPu2J_PnPA7ar31Uzcar9giSyABj4yM9eLFkS95IHn94I8plN_5yGD6F2r4). Only in the last maybe month or so, when liquidity dried up, can we see that hedgies have abandoned that strategy and have gone full psy-ops on us. However, by this point too many shares already exist, and we have been gobbling them up every day.
 
 It's that magical combination of giving us time to prepare, giving us an incredible pricepoint and the constant stream of good GME news that has got us this far. We have already won the lottery, now we are just determining the payout.

@@ -1,5 +1,6 @@
-# Author: djk934
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/](https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/)
+#Title: Citadel's Clear Error
+#Author: djk934
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/](https://www.reddit.com/r/Superstonk/comments/n7ap6e/citadels_clear_error/)
 
 
 So for the past three straight days, millions of volume has been removed after hours in what appears to be a “glitch” – except it’s happened for a few straight days. Also, why would these transactions just disappear? The stocks with disappearing volume seem to be on the NYSE and it doesn’t seem to be only GME. An issue with the consolidated tape? I believe that's only partially true.
@@ -88,7 +89,7 @@ EDIT 3
 
 Holy crap - posted this and went for a few garage beers and woke up to lots of questions/comments - glad people reviewed this. 
 
-u/Pouyaaaa sent a message that /uECSJay posted ![this](https://www.reddit.com/r/fidelityinvestments/comments/n5qurg/how_do_you_get_a_negative_1_million_volume/gx7ah70/?context=3) which confirmed that Fidelity is aware of volume "disappearing". 
+u/Pouyaaaa sent a message that /uECSJay posted [this](https://www.reddit.com/r/fidelityinvestments/comments/n5qurg/how_do_you_get_a_negative_1_million_volume/gx7ah70/?context=3) which confirmed that Fidelity is aware of volume "disappearing". 
 
 u/bluewhitecup sent a couple of interesting links that I have yet to dig through. 
 

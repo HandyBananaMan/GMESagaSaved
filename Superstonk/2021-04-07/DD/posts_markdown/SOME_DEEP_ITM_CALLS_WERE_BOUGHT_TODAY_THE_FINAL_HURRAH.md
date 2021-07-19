@@ -1,12 +1,13 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmjw7o/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/Superstonk/comments/mmjw7o/some_deep_itm_calls_were_bought_today_the_final/)
+#Title: SOME DEEP ITM CALLS WERE BOUGHT TODAY: THE FINAL HURRAH
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmjw7o/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/Superstonk/comments/mmjw7o/some_deep_itm_calls_were_bought_today_the_final/)
 
 
 Hello you goddamn beautiful ~~people~~ apes,
 
 u/dan_bren back with the late night special edition. Wanted to provide you all with an update on our situation. A small amount of DEEP ITM calls were bought today. Shown below
 
-[GME Biggest Trades 4-7-2021](https://preview.redd.it/q03gss03hvr61.jpg?width=1218&format=pjpg&auto=webp&s=3b40b8056e2edb5b57effbb8b17863670e15f565)
+![GME Biggest Trades 4-7-2021](https://preview.redd.it/q03gss03hvr61.jpg?width=1218&format=pjpg&auto=webp&s=3b40b8056e2edb5b57effbb8b17863670e15f565)
 
 12:47pm 550 $12 calls were bought for 167.95 ($16795) each = $9,237,250
 
@@ -16,7 +17,7 @@ u/dan_bren back with the late night special edition. Wanted to provide you all w
 
 For starters I want to point out that this is an incredibly small amount relative to the DEEP ITM call buying we saw back in early April.
 
-[GME Biggest Trades 4-4-2021](https://preview.redd.it/3ojrisivivr61.jpg?width=1222&format=pjpg&auto=webp&s=8f8098136582c02bcd221c11a53d99c45d2d3218)
+![GME Biggest Trades 4-4-2021](https://preview.redd.it/3ojrisivivr61.jpg?width=1222&format=pjpg&auto=webp&s=8f8098136582c02bcd221c11a53d99c45d2d3218)
 
 Take a look at April 4th where nearly 6x the DEEP ITM calls were traded.  Many people in the comments ask how we can know that this is always the same people and a few things make this quite clear. For starters these block trades are all coming out of the same PHLX exchange, this is the first indicator. The second indicator is the rarity of the specific option that is being traded. An option that is $160 deep into the money when the price of the stock is only $180 is absurd. This is an option that theoretically would otherwise never be traded. For reference on another \~$200 stock such as Disney you aren't even able to trade anything below the $95 strike price. This can only be them.
 

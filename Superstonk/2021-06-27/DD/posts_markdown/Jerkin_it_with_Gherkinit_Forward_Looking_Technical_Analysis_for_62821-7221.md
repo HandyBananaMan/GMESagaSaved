@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/)
+#Title: Jerkin it with Gherkinit Forward Looking Technical Analysis for 6/28/21-7/2/21
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/](https://www.reddit.com/r/Superstonk/comments/o96vcy/jerkin_it_with_gherkinit_forward_looking/)
 
 
 Hello Superstonk!
@@ -23,7 +24,7 @@ As you know if you've been following along, I have been tracking a cup & handle 
 
 These combined indicators leave us with something like this
 
-[Technical Analysis Clusterfuck on the 1D timescale](https://preview.redd.it/qfjxxsvybv771.png?width=2462&format=png&auto=webp&s=bcbe81843e02414c44bb8e41dfc64bdd037f4372)
+![Technical Analysis Clusterfuck on the 1D timescale](https://preview.redd.it/qfjxxsvybv771.png?width=2462&format=png&auto=webp&s=bcbe81843e02414c44bb8e41dfc64bdd037f4372)
 
 Generally when doing technical analysis I prefer to look for support indicators that back up my main thesis. That is what I have done here.
 
@@ -31,13 +32,13 @@ If we zoom in on our current price action we have stayed well within the trend o
 
 \**the Russel 1000 move could have some effect on this formation I will update any corrections that need to be made in the Daily Live Charting*
 
-[Zoom on the Handle on the 1D timescale](https://preview.redd.it/jqmmg68scv771.png?width=1661&format=png&auto=webp&s=eae583c8a332e80c7d9ab317a37d4cc5de6b7265)
+![Zoom on the Handle on the 1D timescale](https://preview.redd.it/jqmmg68scv771.png?width=1661&format=png&auto=webp&s=eae583c8a332e80c7d9ab317a37d4cc5de6b7265)
 
 **EDIT 2:**
 
 I can't believe I almost forgot this as we know the price range for GMEs cup & handle breakout is 525-1050 well I wanted to show everyone something on a popcorn stock that saw a similar movement recently
 
-[AMC on the 1D](https://preview.redd.it/s66ub4y28w771.png?width=1610&format=png&auto=webp&s=5f737d151391e970167f0836211b3326e4b42700)
+![AMC on the 1D](https://preview.redd.it/s66ub4y28w771.png?width=1610&format=png&auto=webp&s=5f737d151391e970167f0836211b3326e4b42700)
 
 AMC recently had a breakout of almost the exact same pattern realizing gains of 498%.
 
@@ -49,13 +50,13 @@ Similar growth on GME would put it at $1035.84 per share within a couple of perc
 
 (Average Directional Index) This is and excellent indicator of trend strength and is approaching an uptrend on the 1D as well for more [information on ADX](https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp). A movement above 33 would indicate a breakout as well.
 
-[ADX on the 1D ](https://preview.redd.it/00ctz2qphv771.png?width=1623&format=png&auto=webp&s=53569e2b5d7ecfe0542f2ee98767cc32a9235096)
+![ADX on the 1D ](https://preview.redd.it/00ctz2qphv771.png?width=1623&format=png&auto=webp&s=53569e2b5d7ecfe0542f2ee98767cc32a9235096)
 
 MA50
 
 It also looks like we are set for a nice bounce on our 50-day moving average.
 
-[50-D MA on the 1D timescale](https://preview.redd.it/xn8mnktojv771.png?width=1294&format=png&auto=webp&s=05707707efc34c5679ee3416ae0016d54baf9a36)
+![50-D MA on the 1D timescale](https://preview.redd.it/xn8mnktojv771.png?width=1294&format=png&auto=webp&s=05707707efc34c5679ee3416ae0016d54baf9a36)
 
 TLDR; Looks like things are pointing up again as we have probably experienced enough consolidation over the last week to start to see the beginning of some price improvement.
 
@@ -69,11 +70,11 @@ I am currently speculating, that GME is in fact moving into multiple indices but
 
 I am still paying very close attention to the SPY this week as it approaches it's resistance of it's previous long term trend a rejection of this support/resistance could begin the initial steps of a correction.
 
-[SPY on the 1D ](https://preview.redd.it/opldm840mv771.png?width=1618&format=png&auto=webp&s=7bb68a661680e6ca3b8711130c0610e0d11fb9dd)
+![SPY on the 1D ](https://preview.redd.it/opldm840mv771.png?width=1618&format=png&auto=webp&s=7bb68a661680e6ca3b8711130c0610e0d11fb9dd)
 
 Current Shiller P/E Ratio
 
-[Historic Shiller P\/E Ratio ](https://preview.redd.it/cfoh25c8mv771.png?width=978&format=png&auto=webp&s=72ad79988a5524eae7116cdc272dd49aa440880f)
+![Historic Shiller P\/E Ratio ](https://preview.redd.it/cfoh25c8mv771.png?width=978&format=png&auto=webp&s=72ad79988a5524eae7116cdc272dd49aa440880f)
 
 If you want more information on my current view of the market situation [check out my DD](https://www.reddit.com/r/Superstonk/comments/o4l0cb/jerkin_it_with_gherkinit_forward_looking_ta_for/) from last week.
 
@@ -105,7 +106,7 @@ Microcap to Mid-Cap transition confirmed
 
 **Edit 3:**
 
-[GameStop 100&#37; added to Russel Growth Index](https://preview.redd.it/nrbt8s829w771.png?width=659&format=png&auto=webp&s=e0e1d8e2c81b2c25a4899285fc3a5b1979e5bd47)
+![GameStop 100&#37; added to Russel Growth Index](https://preview.redd.it/nrbt8s829w771.png?width=659&format=png&auto=webp&s=e0e1d8e2c81b2c25a4899285fc3a5b1979e5bd47)
 
 Disclaimer
 
@@ -115,4 +116,4 @@ Disclaimer
 
 \**This is not Financial advice. The ideas and opinions expressed here are for educational and entertainment purposes only.*
 
-\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* ![*Learn more*](https://suicidepreventionlifeline.org/)
+\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* [*Learn more*](https://suicidepreventionlifeline.org/)

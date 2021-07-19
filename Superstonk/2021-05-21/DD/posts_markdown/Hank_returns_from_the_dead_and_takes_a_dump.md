@@ -1,12 +1,13 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/](https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/)
+#Title: Hank returns from the dead and takes a dump
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/](https://www.reddit.com/r/Superstonk/comments/nhs1wy/hank_returns_from_the_dead_and_takes_a_dump/)
 
 
 **\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***
 
 Good morning apes, I'm back.
 
-[BEFORE YOU SAY IT: Ik this technically makes me Kenny's son; however, as per the laws of nature, a human cannot birth a retarded ape. ](https://preview.redd.it/zab5b8c2oe071.png?width=648&format=png&auto=webp&s=d180afc080ba02d1d170f5b2344372b9ccaadbdc)
+![BEFORE YOU SAY IT: Ik this technically makes me Kenny's son; however, as per the laws of nature, a human cannot birth a retarded ape. ](https://preview.redd.it/zab5b8c2oe071.png?width=648&format=png&auto=webp&s=d180afc080ba02d1d170f5b2344372b9ccaadbdc)
 
 Boy is it good to be back, apes. I've missed you all. I've been gone for a while but have not left the cause. I've been lurking in the shadows, jacking off to DD, and huffing WD40. When I was just a child (a boy in Bulgaria), my father said he was going to the store to get cigarettes... I think he's still there, must've been a long line for those Marlboros. Well apes, unlike my dad, I am returning to you.
 

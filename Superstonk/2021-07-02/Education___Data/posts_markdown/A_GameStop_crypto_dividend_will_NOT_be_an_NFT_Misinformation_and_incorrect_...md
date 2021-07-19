@@ -1,12 +1,13 @@
-# Author: GooseG17
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/](https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/)
+#Title: A GameStop crypto dividend will NOT be an NFT. Misinformation and incorrect terminology is running rampant, let's clear it up.
+#Author: GooseG17
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/](https://www.reddit.com/r/Superstonk/comments/ocnofw/a_gamestop_crypto_dividend_will_not_be_an_nft/)
 
 
 I'm sorry for the condescending title. I promise I'm friendly, just stupid af.
 
 Edit: This post assumes at least basic understanding of these technologies. Please read my linked post if you do not have that understanding yet.  
 
-I made a ![post](https://old.reddit.com/r/Superstonk/comments/oc7ji4/clarifying_nfts_what_they_are_good_for_and_what/) yesterday explaining blockchain, tokens and NFT's, but there are still posts hitting the front page that refer to "NFT dividends" **surprised Pikachu**, so let's make this nice and simple.
+I made a [post](https://old.reddit.com/r/Superstonk/comments/oc7ji4/clarifying_nfts_what_they_are_good_for_and_what/) yesterday explaining blockchain, tokens and NFT's, but there are still posts hitting the front page that refer to "NFT dividends" **surprised Pikachu**, so let's make this nice and simple.
 
 1. Overstock was the first to issue a crypto dividend. Their dividend token is *not* an NFT.  
 

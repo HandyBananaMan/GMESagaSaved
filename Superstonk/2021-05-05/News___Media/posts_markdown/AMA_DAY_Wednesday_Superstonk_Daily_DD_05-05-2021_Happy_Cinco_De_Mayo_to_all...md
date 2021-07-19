@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/](https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/)
+#Title: AMA DAY!! Wednesday Superstonk Daily DD 05-05-2021 Happy Cinco De Mayo to all our Mexican and Latin American Apes! 💚🤍❤
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/](https://www.reddit.com/r/Superstonk/comments/n5cryg/ama_day_wednesday_superstonk_daily_dd_05052021/)
 
 
 &#x200B;
 
-[Banner submission by u\/CHMan\_Prive](https://preview.redd.it/h7q36fgdf8x61.png?width=1920&format=png&auto=webp&s=e91bc24c211f1077bd084b9ebd3361e75e3f83a5)
+![Banner submission by u\/CHMan\_Prive](https://preview.redd.it/h7q36fgdf8x61.png?width=1920&format=png&auto=webp&s=e91bc24c211f1077bd084b9ebd3361e75e3f83a5)
 
 # Good Morning Superstonk!!!
 
@@ -22,7 +23,7 @@
 
 &#x200B;
 
-[He said HODL](https://preview.redd.it/py4lvuwgf8x61.png?width=840&format=png&auto=webp&s=1ab6d670da4ef69e007e142f297749f1966b67b6)
+![He said HODL](https://preview.redd.it/py4lvuwgf8x61.png?width=840&format=png&auto=webp&s=1ab6d670da4ef69e007e142f297749f1966b67b6)
 
 # [HYPEHYPEHYPEHYPEHYPEHYPEHYPEHYPE](https://www.reddit.com/r/Superstonk/comments/mzya83/me_n_the_boys_vibin_to_this_every_time_gme_spikes/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -46,7 +47,7 @@ But soon moon 🚀🚀🌝
 
 &#x200B;
 
-[Big brain time 🧠](https://preview.redd.it/fbib424lf8x61.png?width=880&format=png&auto=webp&s=db2c89c91134dd77319a1d58d3cdaf57c1486a15)
+![Big brain time 🧠](https://preview.redd.it/fbib424lf8x61.png?width=880&format=png&auto=webp&s=db2c89c91134dd77319a1d58d3cdaf57c1486a15)
 
 If you don't already know, we have a very exciting guest with us today, [David Lauer](https://www.youtube.com/watch?v=itxbyXO67XY) is joining us for our second edition of [r/SuperStonk Live](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA). If you aren't familiar with David Lauer here is a quick rundown:
 
@@ -80,7 +81,7 @@ If liquidity isn't an issue, then why was volume as low as the 100s yesterday? (
 
 &#x200B;
 
-[Why collect so much cash, BofA? Is for me? 👉👈](https://preview.redd.it/5yu2qh6of8x61.png?width=3807&format=png&auto=webp&s=415d660a29c1bf4dc2edd2dfd56d3b5e90e596f2)
+![Why collect so much cash, BofA? Is for me? 👉👈](https://preview.redd.it/5yu2qh6of8x61.png?width=3807&format=png&auto=webp&s=415d660a29c1bf4dc2edd2dfd56d3b5e90e596f2)
 
 Don't get too excited about all the sudden influx of cash though. It's probably headed to [the Cayman Islands](https://www.reddit.com/r/Superstonk/comments/n4sbhz/omg_wtf_did_shitadel_register_something_in_the/?utm_source=share&utm_medium=web2x&context=3) or [tied up in a divorce.](https://www.reddit.com/r/Superstonk/comments/n487aq/in_relation_to_bill_gates_getting_divorced/?utm_source=share&utm_medium=web2x&context=3) 🤷‍♀️ (<<<Total speculation)
 
@@ -92,13 +93,13 @@ What does this have to do with GME? Ooooh IDK...
 
 # Maybe because BofA Securities is one of the clearing brokers for Citadel
 
-[Look at all the canaries in this coalmine! ](https://preview.redd.it/dug57v8wo8x61.png?width=711&format=png&auto=webp&s=562323da95cfa2a511909364e2acacda9bdda709)
+![Look at all the canaries in this coalmine! ](https://preview.redd.it/dug57v8wo8x61.png?width=711&format=png&auto=webp&s=562323da95cfa2a511909364e2acacda9bdda709)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # The Russel 2000 is Bleeding
 
-[The whole Russel 2000 index was red yesterday](https://preview.redd.it/fiixklfvn8x61.png?width=1011&format=png&auto=webp&s=058ba9184df4d024e3d21d0e8f9824e8913233af)
+![The whole Russel 2000 index was red yesterday](https://preview.redd.it/fiixklfvn8x61.png?width=1011&format=png&auto=webp&s=058ba9184df4d024e3d21d0e8f9824e8913233af)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -123,7 +124,7 @@ What does this have to do with GME? Ooooh IDK...
 
 &#x200B;
 
-[New high score, anyone?](https://preview.redd.it/k6zbwil0g8x61.png?width=816&format=png&auto=webp&s=e31e3b26cbaf1a4b176715ee5f7970d2fc329273)
+![New high score, anyone?](https://preview.redd.it/k6zbwil0g8x61.png?width=816&format=png&auto=webp&s=e31e3b26cbaf1a4b176715ee5f7970d2fc329273)
 
 It appears the NASDAQ is upgrading (to accommodate more zeroes presumably **\[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅\]** ) and should be done by the end of the month.
 
@@ -193,7 +194,7 @@ We don't care, just be nice and lets make this community as Excellent as we can.
 
 &#x200B;
 
-[Toot Toot MotherFUDers!](https://preview.redd.it/utoxdrn5g8x61.jpg?width=513&format=pjpg&auto=webp&s=6106be6beefda38a9221912db5171266c1ae3bf4)
+![Toot Toot MotherFUDers!](https://preview.redd.it/utoxdrn5g8x61.jpg?width=513&format=pjpg&auto=webp&s=6106be6beefda38a9221912db5171266c1ae3bf4)
 
 # By the way, Reddit was down yesterday. Just like it was on January 27. And in February. And March.......
 
@@ -203,7 +204,7 @@ We don't care, just be nice and lets make this community as Excellent as we can.
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 &#x200B;
 

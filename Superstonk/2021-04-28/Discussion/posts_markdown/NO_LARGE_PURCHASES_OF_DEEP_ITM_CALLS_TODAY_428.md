@@ -1,12 +1,13 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/](https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/)
+#Title: NO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/28)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/](https://www.reddit.com/r/Superstonk/comments/n0u360/no_large_purchases_of_deep_itm_calls_today_428/)
 
 
 u/Dan_Bren DEEP ITM calls you know what it is.
 
 Were there any large purchases? No
 
-[GME Biggest Options Trades 4/28/21](https://preview.redd.it/otxd0ghen0w61.png?width=1223&format=png&auto=webp&s=edf36746144054f0251f435f5291353fbbe982da)
+![GME Biggest Options Trades 4/28/21](https://preview.redd.it/otxd0ghen0w61.png?width=1223&format=png&auto=webp&s=edf36746144054f0251f435f5291353fbbe982da)
 
 Since there's no new news on the DEEP ITM call front (which is always good news). I wanted to take this time to give a shoutout to my fellow ape [u/YoungbloodAA](https://www.reddit.com/user/YoungbloodAA/) for the kickass background. My setup wasn't truly complete until now.
 

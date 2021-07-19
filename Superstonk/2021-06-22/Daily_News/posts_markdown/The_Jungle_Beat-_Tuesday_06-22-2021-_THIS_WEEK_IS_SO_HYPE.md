@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/](https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/)
+#Title: The Jungle Beat- Tuesday 06-22-2021- THIS WEEK IS SO HYPE 🚀🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/](https://www.reddit.com/r/Superstonk/comments/o5wavh/the_jungle_beat_tuesday_06222021_this_week_is_so/)
 
 
 *This piece will be posted at 4:20 pm NYSE time every trading day!*
@@ -64,7 +65,7 @@ The apes of [r/Superstonk](https://www.reddit.com/r/Superstonk/) sincerely appre
 
 &#x200B;
 
-[credit u\/Challenger05](https://preview.redd.it/j08wbwaz0v671.png?width=500&format=png&auto=webp&s=64c95435a6cb75184bfca70db18065ee123c8d1a)
+![credit u\/Challenger05](https://preview.redd.it/j08wbwaz0v671.png?width=500&format=png&auto=webp&s=64c95435a6cb75184bfca70db18065ee123c8d1a)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -126,7 +127,7 @@ $791 Billion with 74 participants 👀
 
 &#x200B;
 
-[credit to u\/pctracer ](https://preview.redd.it/o0ycga5jev671.png?width=689&format=png&auto=webp&s=b72cee30542fdc2596e575ec3910ec559bcea5f4)
+![credit to u\/pctracer ](https://preview.redd.it/o0ycga5jev671.png?width=689&format=png&auto=webp&s=b72cee30542fdc2596e575ec3910ec559bcea5f4)
 
 &#x200B;
 
@@ -202,7 +203,7 @@ TL;DR: The government, its regulatory agencies, and especially the Federal Reser
 
 &#x200B;
 
-[RELEASE GRANDMA](https://preview.redd.it/8xuak4acsu671.png?width=640&format=png&auto=webp&s=d07a9236fd7cd98179e90fb36e99af86ab97392a)
+![RELEASE GRANDMA](https://preview.redd.it/8xuak4acsu671.png?width=640&format=png&auto=webp&s=d07a9236fd7cd98179e90fb36e99af86ab97392a)
 
 Loving these covers by u/zedinstead!
 

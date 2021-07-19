@@ -1,5 +1,6 @@
-# Author: dreadfulol
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/](https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/)
+#Title: Kicking the Can – FED STYLE
+#Author: dreadfulol
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/](https://www.reddit.com/r/Superstonk/comments/o1vrzo/kicking_the_can_fed_style/)
 
 
 # Kicking the Can – FED STYLE
@@ -24,7 +25,7 @@ Here is my take;
 
 &#x200B;
 
-[Delinquency Rates over time](https://preview.redd.it/9a6xbkp8et571.png?width=1173&format=png&auto=webp&s=9284ea04449d57424e08b2a83778d402a6b3833a)
+![Delinquency Rates over time](https://preview.redd.it/9a6xbkp8et571.png?width=1173&format=png&auto=webp&s=9284ea04449d57424e08b2a83778d402a6b3833a)
 
 So the statistic looks really good, although, in reality, you are about to witness a MAJOR correction in delinquency rates, Non-performing loans, etc. ⁴
 
@@ -53,7 +54,7 @@ Now what does all this mean in the grand scheme of things and especially for GME
 
 &#x200B;
 
-[IMHO this is an accurate description of the FED, SEC, DTCC, OTC...](https://preview.redd.it/h9lle11det571.png?width=700&format=png&auto=webp&s=dda67da06d5442f7e3629c0c13dd15014e8e0807)
+![IMHO this is an accurate description of the FED, SEC, DTCC, OTC...](https://preview.redd.it/h9lle11det571.png?width=700&format=png&auto=webp&s=dda67da06d5442f7e3629c0c13dd15014e8e0807)
 
 3. They are actively encouraging the banks to keep on can-kicking this issue until some external event (Archegos anyone?) sets off this bomb and they can convincingly say “If Hedgefunds lie on their short sales aka marking them long, increase their exposure and leverage to unsustainable levels etc. it can’t be our fault! We tried everything to mitigate the risks.”
 
@@ -93,4 +94,4 @@ Sources:
 
 4[https://fred.stlouisfed.org/graph/?id=DRSFRMACBS,DRCRELEXFACBS,DRCCLT100S,DRCCLACBS,DRCLACBS,DRALACBS](https://fred.stlouisfed.org/graph/?id=DRSFRMACBS,DRCRELEXFACBS,DRCCLT100S,DRCCLACBS,DRCLACBS,DRALACBS),
 
-5 ![https://www.investopedia.com/terms/t/taper-tantrum.asp](https://www.investopedia.com/terms/t/taper-tantrum.asp)
+5 [https://www.investopedia.com/terms/t/taper-tantrum.asp](https://www.investopedia.com/terms/t/taper-tantrum.asp)

@@ -1,5 +1,6 @@
-# Author: bchrzfg215
-# Post URL: [https://www.reddit.com/r/GME/comments/lvs5df/when_gme_goes_to_the_moon_the_sub_should/](https://www.reddit.com/r/GME/comments/lvs5df/when_gme_goes_to_the_moon_the_sub_should/)
+#Title: When GME goes to the moon, the sub should temporarily be re-dedicated to planning an absolutely historic Gastby-style celebration event for all of the 💎✋ on this sub
+#Author: bchrzfg215
+#Post URL: [https://www.reddit.com/r/GME/comments/lvs5df/when_gme_goes_to_the_moon_the_sub_should/](https://www.reddit.com/r/GME/comments/lvs5df/when_gme_goes_to_the_moon_the_sub_should/)
 
 
 For one weekend, we could plan and host one of the most iconic and historic celebrations the earth has ever seen.

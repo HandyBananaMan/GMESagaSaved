@@ -1,5 +1,6 @@
-# Author: KFC_just
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyok2b/killjoy_report_ken_griffin_random_household/](https://www.reddit.com/r/Superstonk/comments/nyok2b/killjoy_report_ken_griffin_random_household/)
+#Title: Killjoy Report: Ken Griffin = random household object, together with the sudden flood of David Inggs memes, are among the latest spam campaigns of forum sliding.
+#Author: KFC_just
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyok2b/killjoy_report_ken_griffin_random_household/](https://www.reddit.com/r/Superstonk/comments/nyok2b/killjoy_report_ken_griffin_random_household/)
 
 
 These memes are low effort and easy to mass produce and spam, and are being flooded into new almost as quiickly as they can be downvoted, reported and deleted by knights of new.

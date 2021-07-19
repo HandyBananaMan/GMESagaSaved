@@ -1,5 +1,6 @@
-# Author: CoffeeLaxative
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/](https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/)
+#Title: We're All Fucked
+#Author: CoffeeLaxative
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/](https://www.reddit.com/r/Superstonk/comments/nj1guf/were_all_fucked/)
 
 
 I have no background in macroeconomics. In fact, I'm in healthcare. However, this is what I've gathered in all of my 3 months of investing, learning more about econ and finance than my own field. You tell me what you think and where we stand. The title of my post... pretty much sums up my thoughts. If I made any mistakes, please let me know. After all, I'm a smooth 🧠.
@@ -34,7 +35,7 @@ Why imbalance ?
 
 So now, nobody wants $ (except you and I) and all of these institutions want treasury bonds. And as of May 21, **treasury bonds have a negative interest rate!** Source: [https://www.dtcc.com/charts/dtcc-gcf-repo-index](https://www.dtcc.com/charts/dtcc-gcf-repo-index)
 
-[U. S. Treasury \< 30-year maturity \(371487AE9\).](https://preview.redd.it/fbzehm75rb171.png?width=474&format=png&auto=webp&s=860034b8555e891462abedd4753be32043dfece4)
+![U. S. Treasury \< 30-year maturity \(371487AE9\).](https://preview.redd.it/fbzehm75rb171.png?width=474&format=png&auto=webp&s=860034b8555e891462abedd4753be32043dfece4)
 
 In other words, banks and institutions want these treasury bonds so bad, they're ready to pay (lend) what it's worth and pay some more cash to get their hands on it.
 
@@ -46,13 +47,13 @@ The crypto market dropped $1 trillion in the past 2 weeks ($700 billion last wee
 
 So there's a LOT of differing opinions on this matter, on why it happened... Elon Musk, China, etc. Let's agree that it was probably a combination of everything. It also seems that the leading coin followed a textbook Wyckoff distribution, essentially a method to fleece retail investors (yet again!).
 
-[Huge volume spike on May 19th. Very sus](https://preview.redd.it/hynaaywmrb171.png?width=1759&format=png&auto=webp&s=d70c230eed55df463d46d74b763ae978fe064896)
+![Huge volume spike on May 19th. Very sus](https://preview.redd.it/hynaaywmrb171.png?width=1759&format=png&auto=webp&s=d70c230eed55df463d46d74b763ae978fe064896)
 
-[The sell off occurred mostly between 8:50 - 8:55 AM EST and continued til 9:10 AM on May 19th.](https://preview.redd.it/kmksmruzrb171.png?width=738&format=png&auto=webp&s=3ce95a840845a0178cd303acf4acef3b938192bc)
+![The sell off occurred mostly between 8:50 - 8:55 AM EST and continued til 9:10 AM on May 19th.](https://preview.redd.it/kmksmruzrb171.png?width=738&format=png&auto=webp&s=3ce95a840845a0178cd303acf4acef3b938192bc)
 
 What happened on May 19th ? Oh, right! OCC had previously issued a letter to members notifying them of temporary increase in deposits for clearing fund size totaling [$588M due at 9:00 AM on 5/19/2021](https://www.reddit.com/r/Superstonk/comments/nftyg4/occ_has_issued_a_statement_to_all_clearing/). So, let's all agree the crash was caused by a combination of **everything.**
 
-[Many coins were affected 6 days ago. Screenshot by  u\/incandescent-leaf ](https://preview.redd.it/n8lb7266sb171.png?width=1048&format=png&auto=webp&s=d2400092f719b7759f880782309592d56db1f66f)
+![Many coins were affected 6 days ago. Screenshot by  u\/incandescent-leaf ](https://preview.redd.it/n8lb7266sb171.png?width=1048&format=png&auto=webp&s=d2400092f719b7759f880782309592d56db1f66f)
 
 &#x200B;
 
@@ -87,7 +88,7 @@ In his interview and in his new article, Ryan Grim calls CMBS a BIGGER problem t
 
 New Report From Consumer Financial Protection Bureau Finds Over 11 Million Families At Risk Of Losing Housing (March 1, 2021)
 
-[Source: https:\/\/www.consumerfinance.gov\/about-us\/newsroom\/new-report-from-consumer-financial-protection-bureau-finds-over-11-million-families-at-risk-of-losing-housing\/](https://preview.redd.it/jvx7x1an3b171.png?width=1015&format=png&auto=webp&s=1574c782f2610c6712f6605be9bc02cade2d0bd9)
+![Source: https:\/\/www.consumerfinance.gov\/about-us\/newsroom\/new-report-from-consumer-financial-protection-bureau-finds-over-11-million-families-at-risk-of-losing-housing\/](https://preview.redd.it/jvx7x1an3b171.png?width=1015&format=png&auto=webp&s=1574c782f2610c6712f6605be9bc02cade2d0bd9)
 
 🚀🚀End of edit 🚀🚀
 
@@ -95,7 +96,7 @@ New Report From Consumer Financial Protection Bureau Finds Over 11 Million Famil
 
 We've seen the night pics and enjoyed them. Quite the norm nowadays, but quite unusual still.
 
-[https://preview.redd.it/tw0ubnrays071.png?width=1902&format=png&auto=webp&s=f7fae2895a00a4292eb6c22b3cf92fbbb9d6cccb](https://preview.redd.it/tw0ubnrays071.png?width=1902&format=png&auto=webp&s=f7fae2895a00a4292eb6c22b3cf92fbbb9d6cccb)
+![https://preview.redd.it/tw0ubnrays071.png?width=1902&format=png&auto=webp&s=f7fae2895a00a4292eb6c22b3cf92fbbb9d6cccb](https://preview.redd.it/tw0ubnrays071.png?width=1902&format=png&auto=webp&s=f7fae2895a00a4292eb6c22b3cf92fbbb9d6cccb)
 
 But wait! There's more. Not only do they have to deal with the stock market, the repo market, CMBS, paying their employees for overtime... they're also losing money with fines.
 
@@ -129,11 +130,11 @@ How often does this happen ? Since 2008, they were called twice to testify befor
 
 So Bill Gates divorced and Gabe Plotkin divorced ? Huh. Weird...
 
-[Wow. That's a lotta shares. A week before the tech sector dumped.](https://preview.redd.it/npk8r7sisb171.png?width=1843&format=png&auto=webp&s=4d0027e7f8aff470b5261852c4c9d77eca4e3380)
+![Wow. That's a lotta shares. A week before the tech sector dumped.](https://preview.redd.it/npk8r7sisb171.png?width=1843&format=png&auto=webp&s=4d0027e7f8aff470b5261852c4c9d77eca4e3380)
 
-[Mark Zuckerberg selling his FB shares. Goes all the way back to February.](https://preview.redd.it/zaru329qsb171.png?width=1851&format=png&auto=webp&s=e454d39dc0c95a2b9774b013d988be25ff038d3f)
+![Mark Zuckerberg selling his FB shares. Goes all the way back to February.](https://preview.redd.it/zaru329qsb171.png?width=1851&format=png&auto=webp&s=e454d39dc0c95a2b9774b013d988be25ff038d3f)
 
-[Google too?](https://preview.redd.it/f2ouo5l4tb171.png?width=1852&format=png&auto=webp&s=ab00893677a8db4726d740bef4520169e1e5896e)
+![Google too?](https://preview.redd.it/f2ouo5l4tb171.png?width=1852&format=png&auto=webp&s=ab00893677a8db4726d740bef4520169e1e5896e)
 
 Source: [finviz.com](https://finviz.com)
 
@@ -145,11 +146,11 @@ Edit:
 
 Let's look back at the past 2 weeks.
 
-[05\/19 by u\/CryptoFX1](https://preview.redd.it/duhmxe5itb171.png?width=1284&format=png&auto=webp&s=9c6bfde6a2be1b567cdb1452511b99cc9bfc9872)
+![05\/19 by u\/CryptoFX1](https://preview.redd.it/duhmxe5itb171.png?width=1284&format=png&auto=webp&s=9c6bfde6a2be1b567cdb1452511b99cc9bfc9872)
 
-[On May 12, Nikkei Bled. Only 1&#37; Away From the Low of Jan 28. by u\/incandescent-leaf ](https://preview.redd.it/geupg0nmtb171.png?width=1136&format=png&auto=webp&s=8f07d1be7f95801e2515e780313342ce1d5e2d6f)
+![On May 12, Nikkei Bled. Only 1&#37; Away From the Low of Jan 28. by u\/incandescent-leaf ](https://preview.redd.it/geupg0nmtb171.png?width=1136&format=png&auto=webp&s=8f07d1be7f95801e2515e780313342ce1d5e2d6f)
 
-[\\"Taiwan Stock Exchange Index just wiped out YTD gains. This is abnormal. Very likely that it will also affect the US markets \(though many can argue that this is actually a reflection of the US markets, and I would agree\)\\" by u\/\_atworkdontsendnudes](https://preview.redd.it/yylsva8stb171.png?width=960&format=png&auto=webp&s=d60431874a4b4df632980e526b9af812ada31d7f)
+![\\"Taiwan Stock Exchange Index just wiped out YTD gains. This is abnormal. Very likely that it will also affect the US markets \(though many can argue that this is actually a reflection of the US markets, and I would agree\)\\" by u\/\_atworkdontsendnudes](https://preview.redd.it/yylsva8stb171.png?width=960&format=png&auto=webp&s=d60431874a4b4df632980e526b9af812ada31d7f)
 
 * [Asian markets](https://www.reddit.com/r/Superstonk/comments/nahhak/asian_markets_are_tanking_once_again_following/) and [other international markets](https://www.reddit.com/r/Superstonk/comments/nafv9y/international_markets_are_doing_super_well_honest/) are tanking, following another day of decline in the US markets (May 12-13)
 
@@ -198,7 +199,7 @@ https://preview.redd.it/hdabo7p6vc171.png?width=975&format=png&auto=webp&s=d089c
 
 # 11. Margin debt 💵
 
-FINRA Margin Debt is at a current level of 822.55B, up from 813.68B last month and up from 479.29B one year ago. This is a change of 1.09% from last month and 71.62% from one year ago. Source: ![https://ycharts.com/indicators/finra\_margin\_debt](https://ycharts.com/indicators/finra_margin_debt). Thank you to u/CapoeiraCharles who reminded me of this.
+FINRA Margin Debt is at a current level of 822.55B, up from 813.68B last month and up from 479.29B one year ago. This is a change of 1.09% from last month and 71.62% from one year ago. Source: [https://ycharts.com/indicators/finra\_margin\_debt](https://ycharts.com/indicators/finra_margin_debt). Thank you to u/CapoeiraCharles who reminded me of this.
 
 https://preview.redd.it/szaksdemvb171.png?width=1154&format=png&auto=webp&s=b8b26435ab2e534370f322600c2a7ffa1098ce13
 

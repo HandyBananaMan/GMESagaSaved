@@ -1,10 +1,11 @@
-# Author: britonica
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/](https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/)
+#Title: Why is the Chase bank glitch not a bigger deal?
+#Author: britonica
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/](https://www.reddit.com/r/Superstonk/comments/o5cnb5/why_is_the_chase_bank_glitch_not_a_bigger_deal/)
 
 
 I feel like I'm taking crazy pills. 
 
-Random average people are getting ![50 billion dollars](https://www.dailydot.com/debug/chase-bank-50-billion-debt-glitch/) either withdrawn or deposited into their accounts.
+Random average people are getting [50 billion dollars](https://www.dailydot.com/debug/chase-bank-50-billion-debt-glitch/) either withdrawn or deposited into their accounts.
  
 Some are getting it only withdrawn, which would be an extra 50 billion dollars in assets to the bank, no? 
 

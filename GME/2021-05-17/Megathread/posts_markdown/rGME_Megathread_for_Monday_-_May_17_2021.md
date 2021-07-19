@@ -1,5 +1,6 @@
-# Author: SpaceMillionaire
-# Post URL: [https://www.reddit.com/r/GME/comments/ne87ov/rgme_megathread_for_monday_may_17_2021/](https://www.reddit.com/r/GME/comments/ne87ov/rgme_megathread_for_monday_may_17_2021/)
+#Title: r/GME Megathread for Monday - May 17, 2021
+#Author: SpaceMillionaire
+#Post URL: [https://www.reddit.com/r/GME/comments/ne87ov/rgme_megathread_for_monday_may_17_2021/](https://www.reddit.com/r/GME/comments/ne87ov/rgme_megathread_for_monday_may_17_2021/)
 
 
 This is a place to discuss technical analysis, fundamental analysis, buyer/seller sentiment, \*\*and all things relevant to GME.
@@ -30,6 +31,6 @@ If you have a lot to say, please make a post instead. Familiarize yourself with 
 
 \- Made with ❤️ by the r/GME mod team.
 
-💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/ndhsp7/rgme_megathread_for_sunday_may_16_2021/) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 ![**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
+💎 [**Previous Daily Discussion Chats**](https://www.reddit.com/r/GME/comments/ndhsp7/rgme_megathread_for_sunday_may_16_2021/) 💎 [**F.A.Q.**](https://www.reddit.com/r/GME/comments/m4hqkc/gme_moass_faq/) 💎 [**DD (DUE DILIGENCE) Compilation**](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/) 💎
 
 r/GME *Megathreads are posted daily at 2:00 a.m. EDT*

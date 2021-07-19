@@ -1,5 +1,6 @@
-# Author: FullonRetardo
-# Post URL: [https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/](https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/)
+#Title: FOR THE LOVE OF GOD STOP BUYING OPTIONS AND DOING OPTION CHAIN DDs! YOU ARE HELPING THEIR MARGIN.
+#Author: FullonRetardo
+#Post URL: [https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/](https://www.reddit.com/r/GME/comments/mha8v8/for_the_love_of_god_stop_buying_options_and_doing/)
 
 
 This is going to be quite a long arse post. Most of what I am going to say is going to sound slightly negative. I myself am all in on GME. At the current price point I have almost doubled my money. Am I selling? No. Do I believe in the squeeze as much as ever? Yes. But in every war you learn to hear both sides. It is only healthy to fully understand what's going on so you can better plan your moves.
@@ -103,6 +104,6 @@ Also people say why not just use a broker that doesn't route through Citadel. Eh
 
 \--------------------------------------------------------------------------------------------------------------------------------------------
 
-I know I said I would continue this post with the Shkreli squeeze but it would be weird if I did a post on the loan fee rate, loanable shares and its relation to the squeeze in this post itself so I will do it on another post possibly tomorrow. But have a read on it first if you haven't. I know others have talked about this before. But it seems like people keep talking more about the VolksW squeeze in comparison to GME. I find that the Shkreli squeeze has way more similarities. Also MM (such as citadel) could be hiding the actual data and releasing whatever info they want to the public - as we know, the fines are negligibly small ![https://moxreports.com/kbio-infinity-squeeze/](https://moxreports.com/kbio-infinity-squeeze/)but TLDR maybe.. just maybe whale intentionally loaning out shares and waiting for right time to recall them. letting more shorters short themselves into oblivion so liftoff has that much more squeeze power.
+I know I said I would continue this post with the Shkreli squeeze but it would be weird if I did a post on the loan fee rate, loanable shares and its relation to the squeeze in this post itself so I will do it on another post possibly tomorrow. But have a read on it first if you haven't. I know others have talked about this before. But it seems like people keep talking more about the VolksW squeeze in comparison to GME. I find that the Shkreli squeeze has way more similarities. Also MM (such as citadel) could be hiding the actual data and releasing whatever info they want to the public - as we know, the fines are negligibly small [https://moxreports.com/kbio-infinity-squeeze/](https://moxreports.com/kbio-infinity-squeeze/)but TLDR maybe.. just maybe whale intentionally loaning out shares and waiting for right time to recall them. letting more shorters short themselves into oblivion so liftoff has that much more squeeze power.
 
 &#x200B;

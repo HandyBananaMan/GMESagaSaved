@@ -1,5 +1,6 @@
-# Author: fatedMercy
-# Post URL: [https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/](https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/)
+#Title: Plotkin and Griffin accidentally showed us their cards in the hearing 🃏🃏🃏
+#Author: fatedMercy
+#Post URL: [https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/](https://www.reddit.com/r/GME/comments/lpa0s3/plotkin_and_griffin_accidentally_showed_us_their/)
 
 
 
@@ -28,4 +29,4 @@ SIR, I THINK WE’VE GOT ‘EM
 
 Friday close: [3rd decimal point](https://ibb.co/Jz7M4zQ)
 
-![Plotkin’s written testimony ](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)
+[Plotkin’s written testimony ](https://docs.house.gov/meetings/BA/BA00/20210218/111207/HHRG-117-BA00-Wstate-PlotkinG-20210218.pdf)

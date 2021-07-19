@@ -1,5 +1,6 @@
-# Author: bfine360
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyjzr9/its_just_dawned_on_me_that_satori_is_working_very/](https://www.reddit.com/r/Superstonk/comments/nyjzr9/its_just_dawned_on_me_that_satori_is_working_very/)
+#Title: It's just dawned on me that SATORI is working very well...Thank You Mod Squad!
+#Author: bfine360
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyjzr9/its_just_dawned_on_me_that_satori_is_working_very/](https://www.reddit.com/r/Superstonk/comments/nyjzr9/its_just_dawned_on_me_that_satori_is_working_very/)
 
 
 As I've spent half my Saturday reading DD, while trying to watch some TV and veg at the same time (not really working), I just realized after reading one ape's comment along the line of:

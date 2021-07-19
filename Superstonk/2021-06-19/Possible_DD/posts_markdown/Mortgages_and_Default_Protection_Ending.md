@@ -1,5 +1,6 @@
-# Author: thisperson131
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/](https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/)
+#Title: Mortgages and Default Protection Ending
+#Author: thisperson131
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/](https://www.reddit.com/r/Superstonk/comments/o3rv2z/mortgages_and_default_protection_ending/)
 
 
 I was a mortgage loan originator for about 5 years. I worked for companies like Quicken Loans (Rocket), United Wholesale Mortgage (UWM) and Citi. With the mortgage protection program ending, I wanted to discuss this a little.
@@ -12,11 +13,11 @@ Mortgage protection program is coming to an end at the end of this month. This w
 
 &#x200B;
 
-[Non-Depository financial institutions have been growing in the servicing market](https://preview.redd.it/tjht4ou4hb671.png?width=2611&format=png&auto=webp&s=1ec0f5e424d3a3e4de6c280edfa3f10d86c05143)
+![Non-Depository financial institutions have been growing in the servicing market](https://preview.redd.it/tjht4ou4hb671.png?width=2611&format=png&auto=webp&s=1ec0f5e424d3a3e4de6c280edfa3f10d86c05143)
 
 &#x200B;
 
-[Non-Depository institutions have been destroying the competition in both Purchase and Refinances](https://preview.redd.it/ic5qdc76hb671.png?width=2810&format=png&auto=webp&s=51d5b1634344e380d433a0c2241e5d54dcd34deb)
+![Non-Depository institutions have been destroying the competition in both Purchase and Refinances](https://preview.redd.it/ic5qdc76hb671.png?width=2810&format=png&auto=webp&s=51d5b1634344e380d433a0c2241e5d54dcd34deb)
 
 &#x200B;
 
@@ -36,7 +37,7 @@ This was also the same mentality with United Wholesale Mortgage. This was a "fam
 
 &#x200B;
 
-[I specifically didn't highlight Rocket because that is the only name in this list that makes sense. The rest is BS](https://preview.redd.it/7rw6xutyhb671.png?width=2172&format=png&auto=webp&s=632a56d4ba4701323e0a5d99d0ddb0234d593711)
+![I specifically didn't highlight Rocket because that is the only name in this list that makes sense. The rest is BS](https://preview.redd.it/7rw6xutyhb671.png?width=2172&format=png&auto=webp&s=632a56d4ba4701323e0a5d99d0ddb0234d593711)
 
 [https://www.housingwire.com/articles/here-are-the-top-15-mortgage-lenders-of-2020/](https://www.housingwire.com/articles/here-are-the-top-15-mortgage-lenders-of-2020/)
 
@@ -119,7 +120,7 @@ EDIT2: What I wanted to edit from my phone... a few more things to point out. A 
 
 &#x200B;
 
-[We can see about 2 million mortgages as of 3\/31 are candidates for foreclosures.](https://preview.redd.it/s4wz1nbojb671.png?width=2082&format=png&auto=webp&s=685205b438b7dcab008d8c3fb7b363f10dcd271d)
+![We can see about 2 million mortgages as of 3\/31 are candidates for foreclosures.](https://preview.redd.it/s4wz1nbojb671.png?width=2082&format=png&auto=webp&s=685205b438b7dcab008d8c3fb7b363f10dcd271d)
 
 Keep in mind, these numbers are a  few months old. Another thing to point out, I'm unsure if when the mortgage protection ends if:Foreclosure notices will go out the next day
 
@@ -139,4 +140,4 @@ EDIT 4: Yes mortgages are sold to Mortgage Backed Securities. In which case, its
 
 " Finally, for banks that had been involved in FHA lending, the period following the GFC highlighted the particular risks for servicers. If a servicer made an insurance claim on a defaulted FHA loan, and it was later found that an error had been made with respect to the origination or servicing of that loan, the servicer could be liable under the FCA for treble damages. These cases were pursued aggressively by the U.S. Department of Justice (DOJ), and many large bank servicers paid extremely large fines, often for very minor origination errors. "
 
-![https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/](https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/)
+[https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/](https://www.housingwire.com/articles/49337-quicken-loans-agrees-to-pay-325-million-to-resolve-fha-loan-allegations-with-doj/)

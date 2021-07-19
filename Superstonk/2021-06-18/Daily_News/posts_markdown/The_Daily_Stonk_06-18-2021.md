@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/](https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/)
+#Title: The Daily Stonk 06-18-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/](https://www.reddit.com/r/Superstonk/comments/o2l26e/the_daily_stonk_06182021/)
 
 
 &#x200B;
@@ -42,7 +43,7 @@ On that same account, wtf is the FED doing? well got to love our local wrinkly b
 
 # Exponential floor
 
-[thanks to u\/JTH1](https://preview.redd.it/ygujgsrwoz571.png?width=960&format=png&auto=webp&s=e0d7eeaee3f4b487d4302406b98ee7aee3f219bf)
+![thanks to u\/JTH1](https://preview.redd.it/ygujgsrwoz571.png?width=960&format=png&auto=webp&s=e0d7eeaee3f4b487d4302406b98ee7aee3f219bf)
 
 in his words:
 
@@ -172,23 +173,23 @@ Short Volume Ratio Update 17. June 2021 AND a journey back in time: Short Volume
 
 &#x200B;
 
-[2015](https://preview.redd.it/lwlcoirlwz571.png?width=4096&format=png&auto=webp&s=4d8411b3a848674da4305445579572170cf03473)
+![2015](https://preview.redd.it/lwlcoirlwz571.png?width=4096&format=png&auto=webp&s=4d8411b3a848674da4305445579572170cf03473)
 
 &#x200B;
 
-[2016](https://preview.redd.it/fawm928owz571.png?width=4096&format=png&auto=webp&s=30ccdbb129bd291efdbaf727de8fd515fbb48b78)
+![2016](https://preview.redd.it/fawm928owz571.png?width=4096&format=png&auto=webp&s=30ccdbb129bd291efdbaf727de8fd515fbb48b78)
 
 &#x200B;
 
-[2017](https://preview.redd.it/ey1y7lxpwz571.png?width=4096&format=png&auto=webp&s=93d3c0d72d4657cf55a438c03472a31157c2e46d)
+![2017](https://preview.redd.it/ey1y7lxpwz571.png?width=4096&format=png&auto=webp&s=93d3c0d72d4657cf55a438c03472a31157c2e46d)
 
 &#x200B;
 
-[2018](https://preview.redd.it/thyqo4drwz571.png?width=4096&format=png&auto=webp&s=85ec29ca51dc6b95d3842a2d590daf7c5d2b34d6)
+![2018](https://preview.redd.it/thyqo4drwz571.png?width=4096&format=png&auto=webp&s=85ec29ca51dc6b95d3842a2d590daf7c5d2b34d6)
 
 &#x200B;
 
-[2019](https://preview.redd.it/w8t3mniswz571.png?width=4096&format=png&auto=webp&s=42b5afc1c7ca1aeec9cc2453417e68973ca3480b)
+![2019](https://preview.redd.it/w8t3mniswz571.png?width=4096&format=png&auto=webp&s=42b5afc1c7ca1aeec9cc2453417e68973ca3480b)
 
 Unfortunately I can't post all the images he's found due to Reddit's image limit But I'd advise checking out his twitter, [https://twitter.com/Annihil4tionGod](https://twitter.com/Annihil4tionGod)
 
@@ -209,7 +210,7 @@ Also  u/luxowoman has made a thread [here](https://www.reddit.com/r/Superstonk/c
 # On todays holiday
 
 The EDGAR system will be closed as will the SEC be closed, everything else is open.  
-![https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf)
+[https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf](https://www.dtcc.com/-/media/Files/pdf/2021/6/17/a9015.pdf)
 
 &#x200B;
 

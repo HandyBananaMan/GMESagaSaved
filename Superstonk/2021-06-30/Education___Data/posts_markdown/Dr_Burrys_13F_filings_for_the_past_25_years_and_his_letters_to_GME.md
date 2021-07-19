@@ -1,5 +1,6 @@
-# Author: shala0
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/](https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/)
+#Title: Dr. Burry's 13F filings for the past 2.5 years and his letters to GME
+#Author: shala0
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/](https://www.reddit.com/r/Superstonk/comments/ob9aa6/dr_burrys_13f_filings_for_the_past_25_years_and/)
 
 
 so ive been looking in to Dr. Burry for a bit now and wanna share what ive found and what i think has been going on in the markets. also keep in mind \*\*this is not financial advice\*\* and that i am piecing all of this together just as much as the next.
@@ -14,51 +15,51 @@ in the SEC link above you'll notice that there's a gap in submissions from 2016 
 
 Here's a breakdown of all the filings after 2016 (sequential last 10 quarters):
 
-[just look at that jump from 224 million to 1.3 BILLION in the 9th and 10th filings...](https://preview.redd.it/0b5oxg83zg871.png?width=695&format=png&auto=webp&s=865ba3f916b5703f42933b1476de5eb8f3004292)
+![just look at that jump from 224 million to 1.3 BILLION in the 9th and 10th filings...](https://preview.redd.it/0b5oxg83zg871.png?width=695&format=png&auto=webp&s=865ba3f916b5703f42933b1476de5eb8f3004292)
 
 and here they all are tabulated
 
-[Q4 2018](https://preview.redd.it/xdboq72szg871.png?width=913&format=png&auto=webp&s=c8dac9374f990db4380b13598281744622565ec4)
+![Q4 2018](https://preview.redd.it/xdboq72szg871.png?width=913&format=png&auto=webp&s=c8dac9374f990db4380b13598281744622565ec4)
 
 &#x200B;
 
-[Q1 2019](https://preview.redd.it/7l4lul5zzg871.png?width=899&format=png&auto=webp&s=fb95d4556cb3a580050b1459c6d8bdb1e6469bd9)
+![Q1 2019](https://preview.redd.it/7l4lul5zzg871.png?width=899&format=png&auto=webp&s=fb95d4556cb3a580050b1459c6d8bdb1e6469bd9)
 
 &#x200B;
 
-[Q2 2019](https://preview.redd.it/xhksn3b30h871.png?width=933&format=png&auto=webp&s=b98d2f9061dcecacf6c9c0a8b5fc5c5b22071651)
+![Q2 2019](https://preview.redd.it/xhksn3b30h871.png?width=933&format=png&auto=webp&s=b98d2f9061dcecacf6c9c0a8b5fc5c5b22071651)
 
 &#x200B;
 
-[Q3 2019](https://preview.redd.it/lps7dc880h871.png?width=899&format=png&auto=webp&s=38e94004e39a5aac78ba9d81d0e49d0c381bdd3f)
+![Q3 2019](https://preview.redd.it/lps7dc880h871.png?width=899&format=png&auto=webp&s=38e94004e39a5aac78ba9d81d0e49d0c381bdd3f)
 
 &#x200B;
 
-[Q4 2019](https://preview.redd.it/xpi6mqya0h871.png?width=899&format=png&auto=webp&s=95bdc757857d375bd7f0adaa21c55973f19b604b)
+![Q4 2019](https://preview.redd.it/xpi6mqya0h871.png?width=899&format=png&auto=webp&s=95bdc757857d375bd7f0adaa21c55973f19b604b)
 
 &#x200B;
 
-[fucked around for a bit](https://preview.redd.it/5hv0hk9t5h871.png?width=385&format=png&auto=webp&s=175a6281fdabe024f52dab863f4e8df2b1b84e3d)
+![fucked around for a bit](https://preview.redd.it/5hv0hk9t5h871.png?width=385&format=png&auto=webp&s=175a6281fdabe024f52dab863f4e8df2b1b84e3d)
 
 &#x200B;
 
-[Q1 2020](https://preview.redd.it/cgrzyaqr3h871.png?width=960&format=png&auto=webp&s=17941f7561ca0d4c5888b7fdfb66854c6c84590e)
+![Q1 2020](https://preview.redd.it/cgrzyaqr3h871.png?width=960&format=png&auto=webp&s=17941f7561ca0d4c5888b7fdfb66854c6c84590e)
 
 &#x200B;
 
-[Q2 2020](https://preview.redd.it/i79is0au3h871.png?width=960&format=png&auto=webp&s=ac327e5e69d5d3215facaf97c323f3650fbbc295)
+![Q2 2020](https://preview.redd.it/i79is0au3h871.png?width=960&format=png&auto=webp&s=ac327e5e69d5d3215facaf97c323f3650fbbc295)
 
 &#x200B;
 
-[Q3 2020](https://preview.redd.it/fpny4brw3h871.png?width=960&format=png&auto=webp&s=9b3b83ac03d91f005883015ba8fe0449b5d7b356)
+![Q3 2020](https://preview.redd.it/fpny4brw3h871.png?width=960&format=png&auto=webp&s=9b3b83ac03d91f005883015ba8fe0449b5d7b356)
 
 &#x200B;
 
-[Q4 2020](https://preview.redd.it/v09nf5zy3h871.png?width=945&format=png&auto=webp&s=1431003f8be536a1719685521afeee6781fcb6aa)
+![Q4 2020](https://preview.redd.it/v09nf5zy3h871.png?width=945&format=png&auto=webp&s=1431003f8be536a1719685521afeee6781fcb6aa)
 
 &#x200B;
 
-[Q1 2021](https://preview.redd.it/emwvok434h871.png?width=1649&format=png&auto=webp&s=606f9154dbc40c2dedfdb3778a2e0ff14c9d9ba4)
+![Q1 2021](https://preview.redd.it/emwvok434h871.png?width=1649&format=png&auto=webp&s=606f9154dbc40c2dedfdb3778a2e0ff14c9d9ba4)
 
 my thoughts on Burry's return:
 
@@ -80,13 +81,13 @@ the reverse repo market has been going absolutely bonkers this year and more par
 
 &#x200B;
 
-[https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/phz72r6w9h871.png?width=1155&format=png&auto=webp&s=b4be0e30077900cf7969918bd1e01a09e7bbd278)
+![https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/phz72r6w9h871.png?width=1155&format=png&auto=webp&s=b4be0e30077900cf7969918bd1e01a09e7bbd278)
 
 my theory is that as apes keep holding and causing failure to delivers, more and more participants are jumping in to the reverse repo market to borrow treasury so they can post collateral. its literally just a game of who can hold longer at this point
 
 but the real, economic and systemic, issue in America is the federal funds rate which has been getting obliterated **SINCE 1980**:
 
-[https:\/\/fred.stlouisfed.org\/series\/FEDFUNDS](https://preview.redd.it/hbppeartah871.png?width=1157&format=png&auto=webp&s=297c7a4a31009d97f127739c3af83c1edfc1efd2)
+![https:\/\/fred.stlouisfed.org\/series\/FEDFUNDS](https://preview.redd.it/hbppeartah871.png?width=1157&format=png&auto=webp&s=297c7a4a31009d97f127739c3af83c1edfc1efd2)
 
 &#x200B;
 
@@ -116,7 +117,7 @@ i couldnt find this filing on the SECs site (sus), but here is the link:
 
 &#x200B;
 
-[page 13 - letter to GME on 7\/28](https://preview.redd.it/abg36pw3lh871.png?width=733&format=png&auto=webp&s=7cd20fb56b2578c78c685c51f741c7c8dc75766b)
+![page 13 - letter to GME on 7\/28](https://preview.redd.it/abg36pw3lh871.png?width=733&format=png&auto=webp&s=7cd20fb56b2578c78c685c51f741c7c8dc75766b)
 
 &#x200B;
 
@@ -146,7 +147,7 @@ all that said, keep in mind that retail owns the float at this point, not invest
 
 wanna know why hes been buying land w water rights since 2008? ...bc thats all that will be left as climate change picks up. it is fucking scorching here in the US. see arizona, PNW, remember the fucking wildfires last year? wanna bet on what July will be like? remindme me.
 
-sure we can just not have gender reveals, but we dont even have the ![infrastructure](https://twitter.com/BurryArchive/status/1408230349314957318) to put them out when they happen. what if we could contain quicker than it can duplicate? when the fuck is anyone gonna fix a problem around here?
+sure we can just not have gender reveals, but we dont even have the [infrastructure](https://twitter.com/BurryArchive/status/1408230349314957318) to put them out when they happen. what if we could contain quicker than it can duplicate? when the fuck is anyone gonna fix a problem around here?
 
 &#x200B;
 

@@ -1,10 +1,11 @@
-# Author: HODLTheLineMyFriend
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
+#Title: Daily Heat Map of Citadel (and Melvin's) Long Holdings — May 11 2021
+#Author: HODLTheLineMyFriend
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
 
 
 Here's what today's heat map looks like for Citadel's long holdings at market close. I went ahead and gathered up Melvin's as well, and created a second heat map. There's a lot of overlap between them, but enough differences to be interesting. Citadel has $200B AUM, while Melvin has/had $22B, so Citadel has 10x the influence on prices, if/when they are liquidating.
 
-[ Citadel holdings at COM May 11 2021 ](https://preview.redd.it/gmnt2mcxjky61.png?width=1628&format=png&auto=webp&s=d107f73dc8e112497a00f94a466ee28e1cc71850)
+![ Citadel holdings at COM May 11 2021 ](https://preview.redd.it/gmnt2mcxjky61.png?width=1628&format=png&auto=webp&s=d107f73dc8e112497a00f94a466ee28e1cc71850)
 
 As I suspected they might, HD and PG both took a dive today. Also, there were declines in their bank stocks, Disney, and all their healthcare, while tech stocks made a limited comeback. Their Zoom and BABA holdings did well, while the FAANG stocks were mixed today.
 
@@ -12,7 +13,7 @@ While looking at supplemental reports in 13D/13G reports since Feb 16, Citadel h
 
 Melvin's heatmap for today:
 
-[ Melvin holdings at COM May 11 2021 ](https://preview.redd.it/ncds01kzjky61.png?width=1623&format=png&auto=webp&s=2a763db3f779423ae8eda6ad77250cd7925ef1a2)
+![ Melvin holdings at COM May 11 2021 ](https://preview.redd.it/ncds01kzjky61.png?width=1623&format=png&auto=webp&s=2a763db3f779423ae8eda6ad77250cd7925ef1a2)
 
 I also researched Susquehanna International Group, but they have very few longs to look at. I'll keep digging to see if I'm missing something. They might be exclusively short, so they don't have to disclose in a 13F.
 

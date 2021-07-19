@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/](https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/)
+#Title: Wait... Is NSCC-002 about to turn the T+21/T+35 loop into a death spiral of T+0 as we approach Q2 end?
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/](https://www.reddit.com/r/Superstonk/comments/o5ingt/wait_is_nscc002_about_to_turn_the_t21t35_loop/)
 
 
 # 0. Preface
@@ -18,7 +19,7 @@ A comment by [/u/minnowstogetherstonk](https://www.reddit.com/u/minnowstogethers
 
 I personally think that NSCC-002 will trigger a death-spiral for SHFs as we approach Q2 end, and shit is about to hit the fan across all markets.
 
-[Awww shit](https://preview.redd.it/q1te0jsbzr671.png?width=1686&format=png&auto=webp&s=4407f66bc6efcdd10e5d6323bea7bc2611371385)
+![Awww shit](https://preview.redd.it/q1te0jsbzr671.png?width=1686&format=png&auto=webp&s=4407f66bc6efcdd10e5d6323bea7bc2611371385)
 
 # 1. NSCC-002 And It's Effects On Liquidity Deposits
 
@@ -28,9 +29,9 @@ Something big to remember is that **NSCC-801** now goes into effect **along with
 
 Let's investigate the most important bits of NSCC-002. First, a glance at what the rules **used to be** and the NSCC's concern driving the rule change\*\*:\*\*
 
-[NSCC-002 Part 1; Old Liquidity Requirements](https://preview.redd.it/yjhyg0vrzr671.png?width=793&format=png&auto=webp&s=1c593670c431dca25f897bf1ffa26197b3b60fc9)
+![NSCC-002 Part 1; Old Liquidity Requirements](https://preview.redd.it/yjhyg0vrzr671.png?width=793&format=png&auto=webp&s=1c593670c431dca25f897bf1ffa26197b3b60fc9)
 
-[NSCC-002 Part 2; Old Liquidity Requirements](https://preview.redd.it/k7sfq4iszr671.png?width=784&format=png&auto=webp&s=61deac31a63ecb823c3ea5939792043b2b890a87)
+![NSCC-002 Part 2; Old Liquidity Requirements](https://preview.redd.it/k7sfq4iszr671.png?width=784&format=png&auto=webp&s=61deac31a63ecb823c3ea5939792043b2b890a87)
 
 Prior to this rule change, the NSCC would collect liquidity deposits **only during Monthly Options expiry periods**. What is a monthly option? It is the **third Friday of each month:**
 
@@ -47,9 +48,9 @@ The NSCC realized that shit could get really wonky between those liquidity perio
 
 Now, check this out:
 
-[NSCC-002 Part 2; New Liquidity Requirements](https://preview.redd.it/754z0dte1s671.png?width=799&format=png&auto=webp&s=736bb773f6515211f916788f10fe1ba914c1569c)
+![NSCC-002 Part 2; New Liquidity Requirements](https://preview.redd.it/754z0dte1s671.png?width=799&format=png&auto=webp&s=736bb773f6515211f916788f10fe1ba914c1569c)
 
-[NSCC-002 Part 2; New Liquidity Requirements](https://preview.redd.it/wp8f279f1s671.png?width=741&format=png&auto=webp&s=cae04b68606972c68160dc782ad61d53a9bbac03)
+![NSCC-002 Part 2; New Liquidity Requirements](https://preview.redd.it/wp8f279f1s671.png?width=741&format=png&auto=webp&s=cae04b68606972c68160dc782ad61d53a9bbac03)
 
 The NSCC defined a period of grabbing liquidity and holding it to be 2 business days prior to monthly expiration, and ending 7 days after monthly expiration. From the dates listed above, this gives you the following time periods of liquidity deposits for monthly expirations:
 
@@ -72,7 +73,7 @@ Going back to the images above of NSCC-002... notice that in the old rule that t
 
 Remember how shit went absolutely wild around March 10th? That was outside of a liquidity deposit phase. And then, **the price was tanked and brought down severely JUST BEFORE the next liquidity deposit was required.**
 
-[GME Price Action Prior To Next Liquidity Requirement](https://preview.redd.it/yv2xmolw2s671.png?width=251&format=png&auto=webp&s=972401702a7cdee5648397fb0a827f137d3c1902)
+![GME Price Action Prior To Next Liquidity Requirement](https://preview.redd.it/yv2xmolw2s671.png?width=251&format=png&auto=webp&s=972401702a7cdee5648397fb0a827f137d3c1902)
 
 In fact, something curious is that **the price has never been above $228 entering the next liquidity posting date, and has never been above $300 during these liquidity dates**. Hmmm? Margin call price could be **dangerously** close. And with NSCC-002/801, it can absolutely screw the SHFs.
 
@@ -82,7 +83,7 @@ They used to have to post liquidity two days prior to the monthly options. But n
 
 Here's a figure based on /u/dentisttft's liquidity deposit phases identifying what could happen starting Wednesday, June 23rd:
 
-[GME Price Action And Liquidity Deposit Phases](https://preview.redd.it/ebuouwrl4s671.png?width=1536&format=png&auto=webp&s=adb54e7938d647d2f1d43f1b9ccbaeeac3701cad)
+![GME Price Action And Liquidity Deposit Phases](https://preview.redd.it/ebuouwrl4s671.png?width=1536&format=png&auto=webp&s=adb54e7938d647d2f1d43f1b9ccbaeeac3701cad)
 
 This could very well be why they are trying to obliterate the price at the moment.
 
@@ -90,7 +91,7 @@ The next FTD spike can cause the price to absolutely soar into a price range whi
 
 Which can then lead to this:
 
-[Happy GME TA](https://preview.redd.it/emkfeo659s671.png?width=1536&format=png&auto=webp&s=a1459a1ed24e63e7193930567c2dbcd1c4917884)
+![Happy GME TA](https://preview.redd.it/emkfeo659s671.png?width=1536&format=png&auto=webp&s=a1459a1ed24e63e7193930567c2dbcd1c4917884)
 
 # 2. Urgency to Approve NSCC-002; Quarter End Of June 30th; Meeting Between Biden, Powell, Yellen, Gensler
 
@@ -110,6 +111,6 @@ Something else to note is that Biden, Yellen, Gensler, and Powell all met for "C
 
 That's the entire context of the quote. That the financial system is "in strong condition". What are they **actually** doing at this meeting? Something similar to discussing letting X Y and Z fail just like they discussed letting Lehman Bros fail in 2008?
 
-The [Jungle Beat Monday Post](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/) talked about this very briefly and it was something I latched onto immediately. I remembered ![the meeting for 2008](https://www.cnbc.com/2018/09/12/bernanke-paulson-and-geithner-say-they-bailed-out-wall-street-to-help-main-street.html) but did not connect the dots to this meeting between Biden, Powell, Yellen, and Gensler possibly being similar in scope.
+The [Jungle Beat Monday Post](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/) talked about this very briefly and it was something I latched onto immediately. I remembered [the meeting for 2008](https://www.cnbc.com/2018/09/12/bernanke-paulson-and-geithner-say-they-bailed-out-wall-street-to-help-main-street.html) but did not connect the dots to this meeting between Biden, Powell, Yellen, and Gensler possibly being similar in scope.
 
 Wild times we live in. But remember - don't fuckin' dance.

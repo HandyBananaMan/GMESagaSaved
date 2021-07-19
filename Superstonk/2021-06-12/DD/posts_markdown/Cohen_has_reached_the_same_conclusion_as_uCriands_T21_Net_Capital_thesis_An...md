@@ -1,5 +1,6 @@
-# Author: Nalifi
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/](https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/)
+#Title: Cohen has reached the same conclusion as u/Criand's T+21 Net Capital thesis: An analysis of tweet activity and corporate announcements
+#Author: Nalifi
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/](https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/)
 
 
 *This is not financial advice. I am a retard who always lets one banana in the bunch he buys go bad because I can’t time eating the bananas correctly.*
@@ -44,7 +45,7 @@ I believe the net capital requirement thesis ties this together by eliminating l
 
 # If you’d like to follow along, let’s open Criand’s beautiful chart -
 
-[https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7](https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7)
+![https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7](https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7)
 
 and take a look with some positive Gamestop news catalysts and tweets from our favorite Ryan Cohen. I’ll keep this area to data only and leave speculations for the end.
 
@@ -144,7 +145,7 @@ EDIT: Guys I fucking missed one.
 
 # On March 25, Cohen tweets our smoky teddy,
 
-![https://twitter.com/ryancohen/status/1375159657166209031](https://twitter.com/ryancohen/status/1375159657166209031)
+[https://twitter.com/ryancohen/status/1375159657166209031](https://twitter.com/ryancohen/status/1375159657166209031)
 
 **Lining up with the T+21** date on March 25th.
 

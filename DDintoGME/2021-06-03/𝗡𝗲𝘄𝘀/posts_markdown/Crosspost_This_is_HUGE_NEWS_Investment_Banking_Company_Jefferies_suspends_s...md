@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/](https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/)
+#Title: Crosspost: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked *options* on $GME
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/](https://www.reddit.com/r/DDintoGME/comments/nrlpnc/crosspost_this_is_huge_news_investment_banking/)
 
 
 [https://www.reddit.com/r/Superstonk/duplicates/nrgdlo/this\_is\_huge\_news\_investment\_banking\_company/](https://www.reddit.com/r/Superstonk/duplicates/nrgdlo/this_is_huge_news_investment_banking_company/), by [u/FDAz](https://www.reddit.com/user/FDAz/)
@@ -74,4 +75,4 @@ https://preview.redd.it/7u8xip8sp3371.png?width=654&format=png&auto=webp&s=a6b67
 
 Link to article verifying: [https://www.streetinsider.com/Momentum+Movers/Jefferies+said+to+block+short+sells+in+GME%2C+AMC+and+MVIS+from+being+executed/18515758.html?classic=1](https://www.streetinsider.com/Momentum+Movers/Jefferies+said+to+block+short+sells+in+GME%2C+AMC+and+MVIS+from+being+executed/18515758.html?classic=1)
 
-DFV also made a tweet with a reference to "Jefferies": ![https://twitter.com/theroaringkitty/status/1400522985375780872?s=21](https://twitter.com/theroaringkitty/status/1400522985375780872?s=21)
+DFV also made a tweet with a reference to "Jefferies": [https://twitter.com/theroaringkitty/status/1400522985375780872?s=21](https://twitter.com/theroaringkitty/status/1400522985375780872?s=21)

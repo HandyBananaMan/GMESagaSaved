@@ -1,5 +1,6 @@
-# Author: bflo1103
-# Post URL: [https://www.reddit.com/r/GME/comments/maqev8/upvote_to_make_gorillianaire_the_official_term/](https://www.reddit.com/r/GME/comments/maqev8/upvote_to_make_gorillianaire_the_official_term/)
+#Title: Upvote to make "Gorillianaire" the official term for a GME Millionaire after the squeeze.
+#Author: bflo1103
+#Post URL: [https://www.reddit.com/r/GME/comments/maqev8/upvote_to_make_gorillianaire_the_official_term/](https://www.reddit.com/r/GME/comments/maqev8/upvote_to_make_gorillianaire_the_official_term/)
 
 
 Best to get ahead of the onslaught of negative nicknames sure to come out for all the "new money" hittin the streets in the near future.

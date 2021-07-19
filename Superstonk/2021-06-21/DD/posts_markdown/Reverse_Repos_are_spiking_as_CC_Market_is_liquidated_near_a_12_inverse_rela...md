@@ -1,5 +1,6 @@
-# Author: KFC_just
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/](https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/)
+#Title: Reverse Repos are spiking as CC Market is liquidated near a 1:2 inverse relationship. SHF are using CC liquidations to fund Treasury purchases through Reverse Repos to maintain Gamestop positions without margin calls.
+#Author: KFC_just
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/](https://www.reddit.com/r/Superstonk/comments/o5dtjs/reverse_repos_are_spiking_as_cc_market_is/)
 
 
 B word and CC word swaps due to AutoMod
@@ -37,25 +38,25 @@ The latest price peak in the B word occurred during June 14th - June 15th at aro
 
 Note for chart dates and times: all dates and times are shown in AEST unless otherwise stated. Also most were screenshot yesterday when I started this, as my posting is one day later than I hoped.
 
-[B Word 1 Year chart, showing the May crash and the series of small pump and dumps since then. It is fully possible that I am only observing the latest cycle, and nothing significant. The peak of the latest cycle occurred around 14th - 15th June 2021 in the vicinity of 40,000 USD. The decline since then has fallen below 32,000 USD at times, with the night of June 20th - 21st seeing a 10&#37; decline.](https://preview.redd.it/tr7j9e82rq671.png?width=1920&format=png&auto=webp&s=7634d80da5d611d999ca2c19fe6b5773a6471d13)
+![B Word 1 Year chart, showing the May crash and the series of small pump and dumps since then. It is fully possible that I am only observing the latest cycle, and nothing significant. The peak of the latest cycle occurred around 14th - 15th June 2021 in the vicinity of 40,000 USD. The decline since then has fallen below 32,000 USD at times, with the night of June 20th - 21st seeing a 10&#37; decline.](https://preview.redd.it/tr7j9e82rq671.png?width=1920&format=png&auto=webp&s=7634d80da5d611d999ca2c19fe6b5773a6471d13)
 
-[B Word 5 Day showing the rather controlled descent from June 15th through June 20th, with the more sudden decline on the last day\/night of trading June 20-21 before the announcement of a decision on NSC-002 on June 21st.](https://preview.redd.it/fzzkfdmcrq671.png?width=1920&format=png&auto=webp&s=d943de2fbd93967178275bda11f95e311081960b)
+![B Word 5 Day showing the rather controlled descent from June 15th through June 20th, with the more sudden decline on the last day\/night of trading June 20-21 before the announcement of a decision on NSC-002 on June 21st.](https://preview.redd.it/fzzkfdmcrq671.png?width=1920&format=png&auto=webp&s=d943de2fbd93967178275bda11f95e311081960b)
 
-[30 day chart of CC Total Market Capitalisation as calculated by TradingView including B Word. Since June 15th market capitalisation has decreased by around 300 billion dollars. During the same period ON RRP has increased by over 200 Billion dollars.](https://preview.redd.it/0t67cb9krq671.png?width=1920&format=png&auto=webp&s=32633ef8149de5d71708e549c3ad97127269a65c)
+![30 day chart of CC Total Market Capitalisation as calculated by TradingView including B Word. Since June 15th market capitalisation has decreased by around 300 billion dollars. During the same period ON RRP has increased by over 200 Billion dollars.](https://preview.redd.it/0t67cb9krq671.png?width=1920&format=png&auto=webp&s=32633ef8149de5d71708e549c3ad97127269a65c)
 
-[Reverse Repos since June 11th 2021 spiking after the CC sell off increasing by over 200 billion dollars.](https://preview.redd.it/saas48ulrq671.png?width=1920&format=png&auto=webp&s=bdc12c5d9686877976afede9965ed80cb878ec92)
+![Reverse Repos since June 11th 2021 spiking after the CC sell off increasing by over 200 billion dollars.](https://preview.redd.it/saas48ulrq671.png?width=1920&format=png&auto=webp&s=bdc12c5d9686877976afede9965ed80cb878ec92)
 
-[1 Year of CC Market Cap as calculated by TradingView, including B Word. Note 1 Trillion Dollars is gone, and it ain't coming back. This is because it has no value to banks during a collateral crisis.](https://preview.redd.it/vh2i4chorq671.png?width=1920&format=png&auto=webp&s=f2ced7a2c0be8728e16a243ba0bf8af6d97fa891)
+![1 Year of CC Market Cap as calculated by TradingView, including B Word. Note 1 Trillion Dollars is gone, and it ain't coming back. This is because it has no value to banks during a collateral crisis.](https://preview.redd.it/vh2i4chorq671.png?width=1920&format=png&auto=webp&s=f2ced7a2c0be8728e16a243ba0bf8af6d97fa891)
 
-[1 Year of CC Market Capitalisation as calculated by TradingView excluding B Word. Excluding B Word shows that the decline in market capitalisation as a result of manipulations and changes to the collateral rules is broad based.](https://preview.redd.it/jg23leqrrq671.png?width=1920&format=png&auto=webp&s=b7334bd2e4c0f5e3dabc8303ba9758796ba87739)
+![1 Year of CC Market Capitalisation as calculated by TradingView excluding B Word. Excluding B Word shows that the decline in market capitalisation as a result of manipulations and changes to the collateral rules is broad based.](https://preview.redd.it/jg23leqrrq671.png?width=1920&format=png&auto=webp&s=b7334bd2e4c0f5e3dabc8303ba9758796ba87739)
 
-[Fed Overnight Reverse Repos since 2016. Screenshotted with April 30th figures at 183 Billion dollars to show where Repo was before the 1 Trillion dollar May CC crash began. Since then for every 2 billion dollars that CC market capitalisation has decreased, the reverse repo increased by 1 billion dollars or more. Also as others have said, notice just how large this is compared to the Covid Crash. Source https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/sgyon9zyrq671.png?width=1920&format=png&auto=webp&s=6c8339d5e3770e840572db2092ef3ea9b3cb7767)
+![Fed Overnight Reverse Repos since 2016. Screenshotted with April 30th figures at 183 Billion dollars to show where Repo was before the 1 Trillion dollar May CC crash began. Since then for every 2 billion dollars that CC market capitalisation has decreased, the reverse repo increased by 1 billion dollars or more. Also as others have said, notice just how large this is compared to the Covid Crash. Source https:\/\/fred.stlouisfed.org\/series\/RRPONTSYD](https://preview.redd.it/sgyon9zyrq671.png?width=1920&format=png&auto=webp&s=6c8339d5e3770e840572db2092ef3ea9b3cb7767)
 
-[The same chart without april 30 pointed out so you can see the May-June run up more clearly.](https://preview.redd.it/b40xw2ywrq671.png?width=1920&format=png&auto=webp&s=8a36fbdb4eb3bccce32075751a4b222528621faf)
+![The same chart without april 30 pointed out so you can see the May-June run up more clearly.](https://preview.redd.it/b40xw2ywrq671.png?width=1920&format=png&auto=webp&s=8a36fbdb4eb3bccce32075751a4b222528621faf)
 
-[Table of data compiled by u\/LeftHandedWave with a breakdown of the dates, amounts, participants, averages and rates.](https://preview.redd.it/iqoboie5sq671.png?width=1920&format=png&auto=webp&s=986c34ae654433cf6f100b6b4f12147fbd562820)
+![Table of data compiled by u\/LeftHandedWave with a breakdown of the dates, amounts, participants, averages and rates.](https://preview.redd.it/iqoboie5sq671.png?width=1920&format=png&auto=webp&s=986c34ae654433cf6f100b6b4f12147fbd562820)
 
-[A close up of u\/LeftHandedWave chart that I hope wont show up as a blur.](https://preview.redd.it/p1eitqeglq671.png?width=543&format=png&auto=webp&s=7833c892bb2413b85b238c2c4ffc6ce2f1c8cf3d)
+![A close up of u\/LeftHandedWave chart that I hope wont show up as a blur.](https://preview.redd.it/p1eitqeglq671.png?width=543&format=png&auto=webp&s=7833c892bb2413b85b238c2c4ffc6ce2f1c8cf3d)
 
 https://preview.redd.it/tfli2v2hlq671.png?width=602&format=png&auto=webp&s=24f225cdb91d438ae323bc5a5611eea3622483e9
 
@@ -73,7 +74,7 @@ AEST 2056 Edit 3: A good piece of counter DD I have found while responding to co
 
 Another interesting point made by a commenter below is that the ratio i observed, which is purely me eyeballing things by the way, would be distorted by the effects of price declines, and that a valuational decline to the whole market capitalisation does not equal an actual loss of that amount of money. This is a very good point. However firstly I’m only using the free tradingview chart which doesn’t show volume, if there’s a better way to view ccs for free that includes volume let me know. Secondly, if we therefore assume the actual amount of money taken out of market is less, even substantially less than the decline in notional value, then that actually brings the ratio between the decline in cc and the increase in repo closer to a 1:1 relationship. But we would definitely need more precise and sustained data to make a claim like that.
 
-Edit 4 22:48 AEST/ 0849 ET: ![https://www.tradingview.com/symbols/BTCUSD/](https://www.tradingview.com/symbols/BTCUSD/) real time loss porn as B word tanks over 2,000 at the same time as GME is up around 10% in pre market. This will be fun
+Edit 4 22:48 AEST/ 0849 ET: [https://www.tradingview.com/symbols/BTCUSD/](https://www.tradingview.com/symbols/BTCUSD/) real time loss porn as B word tanks over 2,000 at the same time as GME is up around 10% in pre market. This will be fun
 
 AEST 23:09/ET09:09 Edit 5: the tradingview market capitalisation chart shows that this mornings crash has already pulled out around 140 billion dollars from the CC market. It will be interesting to see what the end amount is for GME price gain, Repo Increase and CC market cap decrease. But my ballpark would be that half of the 140B value wiped out of CC is able to translate into actual cash that goes into Repo for Treasuries. So, while I said there’s no predictive power in this observation, and thats true, I’ll not be disappointed if Repo climbed by between 50-80 billion dollars and hits 800-830 billion dollars today. More if the CC continues to crash while I sleep.
 

@@ -1,5 +1,6 @@
-# Author: Gmatoshenriques
-# Post URL: [https://www.reddit.com/r/GME/comments/mbcg3k/after_almost_four_months_of_phone_calls_and/](https://www.reddit.com/r/GME/comments/mbcg3k/after_almost_four_months_of_phone_calls_and/)
+#Title: "After almost four months of phone calls and emails to GameStop Corp complaining about the slow shipping of an order, New Jersey teacher Steven Titus received a late night call from RYAN COHEN" BOOOMMMMMMMMM!!!!!! BULLISH!!!!!!!!
+#Author: Gmatoshenriques
+#Post URL: [https://www.reddit.com/r/GME/comments/mbcg3k/after_almost_four_months_of_phone_calls_and/](https://www.reddit.com/r/GME/comments/mbcg3k/after_almost_four_months_of_phone_calls_and/)
 
 
 >“I just got your email, I’m so sorry this happened. Let me get to the bottom of this,” Cohen told Titus.
@@ -32,6 +33,6 @@ His attempted turnaround would have been less in the public eye had GameStop not
 
 Cohen invested in GameStop last year before the stock became a social media sensation. His 13% stake in the company, on which he spent roughly $75 million, is now worth about $1.8 billion.
 
-Continue reading: ![https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP](https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP)
+Continue reading: [https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP](https://www.reuters.com/article/retail-trading-gamestop-cohen/insight-from-pet-food-to-video-games-inside-ryan-cohens-gamestop-obsession-idUSL8N2LH5YP)
 
 🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀  🚀🚀

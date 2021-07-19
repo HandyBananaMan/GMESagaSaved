@@ -1,5 +1,6 @@
-# Author: CruxHub
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/](https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/)
+#Title: SEC Market Structure Data and GME Hidden Orders
+#Author: CruxHub
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/](https://www.reddit.com/r/DDintoGME/comments/n582tm/sec_market_structure_data_and_gme_hidden_orders/)
 
 
 Fellow apes, I wanted to present a source of market data related to the trading of GME which I have not seen previously analyzed here. I am an infant ape when it comes to the complexities of market structures and specific trade types (I only know buy and hodl), however I thought this information - with a focus on "hidden" orders - would be of interest even in a basic form. This is not financial advice, I prefer the taste of green crayons over red and have typed this with my toes.
@@ -69,47 +70,47 @@ I compiled a subset of the daily security and daily security/exchange data, whic
 
 First, let’s start at a high level. Here is a chart from Jan 2020 - Mar 2021 of GME’s daily closing price and volume per Yahoo Finance, and the “HiddenVol” from MIDAS. I decided to use Yahoo Finance reported volume because the “OrderVol” from MIDAS appears to include volume for all orders and that appeared high, because it isn’t limited to executed trades. The SEC defines “HiddenVol” as the “\[s\]um of trade volume for trades against hidden orders from exchanges that report trades against hidden orders.” So hopefully I’m comparing apples-to-apples.
 
-[GME - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/9g5j1szxj8x61.jpg?width=684&format=pjpg&auto=webp&s=4cee745e5adc2b823c92b899859650e29fe9be26)
+![GME - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/9g5j1szxj8x61.jpg?width=684&format=pjpg&auto=webp&s=4cee745e5adc2b823c92b899859650e29fe9be26)
 
 Tough to tell much at this scale, but you can see when there are major spikes in volume (blue line) there is also a spike in the “HiddenVol” (orange line).
 
 What does a “regular” stock look like?
 
-[AAPL - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/l2omdtgzj8x61.jpg?width=684&format=pjpg&auto=webp&s=ce42f0927ffb8e38bbdd748f1eb5616f96ea2a8a)
+![AAPL - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/l2omdtgzj8x61.jpg?width=684&format=pjpg&auto=webp&s=ce42f0927ffb8e38bbdd748f1eb5616f96ea2a8a)
 
 Some pretty big swings in volume, and a couple periods where the “HiddenVol” stand out, but not nearly as prominent of spikes as GME.
 
-[WMT - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/n4prxd71k8x61.jpg?width=684&format=pjpg&auto=webp&s=bb3d8a58170c58f5f828f71a17b747fee554c16b)
+![WMT - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/n4prxd71k8x61.jpg?width=684&format=pjpg&auto=webp&s=bb3d8a58170c58f5f828f71a17b747fee554c16b)
 
 Not terribly exciting, but visually the small spikes in “HiddenVol” appear to correlate to spikes in volume.
 
 Let’s not forget our favorite ETF, XRT!
 
-[XRT - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/lbfcyyr2k8x61.jpg?width=684&format=pjpg&auto=webp&s=86423ee15db036905f3c30458b5f2ca10dc18a2b)
+![XRT - Daily Volume, Hidden Volume and Closing Price; 1\/2\/2020 - 3\/31\/2021](https://preview.redd.it/lbfcyyr2k8x61.jpg?width=684&format=pjpg&auto=webp&s=86423ee15db036905f3c30458b5f2ca10dc18a2b)
 
 Hmmm what stands out here?
 
 Let’s move back to GME and focus on Q1 2021.
 
-[GME - Daily Volume, Hidden Volume and Closing Price; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/j6mrzz74k8x61.jpg?width=684&format=pjpg&auto=webp&s=8b44b6b8ddd684f42628f6cc714c705d87242e9a)
+![GME - Daily Volume, Hidden Volume and Closing Price; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/j6mrzz74k8x61.jpg?width=684&format=pjpg&auto=webp&s=8b44b6b8ddd684f42628f6cc714c705d87242e9a)
 
 Gee, lots of hidden order volume on the dates major fuckery occurred. No way!
 
 What does the XRT Q1 2021 chart look like?
 
-[XRT - Daily Volume, Hidden Volume and Closing Price; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/afakeh86k8x61.jpg?width=684&format=pjpg&auto=webp&s=c918b97211f639be5a902ade91986bbad87dfb5f)
+![XRT - Daily Volume, Hidden Volume and Closing Price; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/afakeh86k8x61.jpg?width=684&format=pjpg&auto=webp&s=c918b97211f639be5a902ade91986bbad87dfb5f)
 
 Definitely hidden order volume on the dates major fuckery occurred as well. Not as prominent on the other days compared to GME.
 
 Back to GME - what percent of the daily volume is from these hidden orders?
 
-[GME - Daily Volume and Hidden Volume; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/e3ow0ej7k8x61.jpg?width=684&format=pjpg&auto=webp&s=3f58bb8e30cd2abd613f4f1822db824a8af227ab)
+![GME - Daily Volume and Hidden Volume; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/e3ow0ej7k8x61.jpg?width=684&format=pjpg&auto=webp&s=3f58bb8e30cd2abd613f4f1822db824a8af227ab)
 
 Never more than 20%, but it spiked in the late January run-up and has stayed at or over 10% since late February. Still, that's a shitload of shares. Sometimes millions per day.
 
 Now let’s look at Q1 2021 Hidden Volume by exchange for GME.
 
-[GME - Daily Hidden Volume by Exchange; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/eiraxug9k8x61.jpg?width=684&format=pjpg&auto=webp&s=a4e53e9b9dfa103c1196f2dd85635e0c24623ea0)
+![GME - Daily Hidden Volume by Exchange; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/eiraxug9k8x61.jpg?width=684&format=pjpg&auto=webp&s=a4e53e9b9dfa103c1196f2dd85635e0c24623ea0)
 
 Who are the winners? Arca (dark orange), Edge-X (brown), Nasdaq (dark green) and NYSE (light orange).
 
@@ -117,13 +118,13 @@ What I found particularly interesting is that IEX reports 0 hidden volume for al
 
 Let’s drill into the top 4 I called out above.
 
-[GME - Daily Hidden Volume for Arca, Edge-X, Nasdaq and NYSE Exchanges; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/v4r6wwqak8x61.jpg?width=684&format=pjpg&auto=webp&s=771d9dd5d6b593de020b6c1601b63d0ce5e7891c)
+![GME - Daily Hidden Volume for Arca, Edge-X, Nasdaq and NYSE Exchanges; 1\/4\/2021 - 3\/31\/2021](https://preview.redd.it/v4r6wwqak8x61.jpg?width=684&format=pjpg&auto=webp&s=771d9dd5d6b593de020b6c1601b63d0ce5e7891c)
 
 Most of the hidden volume is running through Nasdaq, with a tie for second place between Arca and NYSE.
 
 I could go on with many more charts, but at this point **it is clear that HFTs have used and continue to use hidden orders when trading GME.** **~~This is a special type of order not available to retail investors.~~** 
 
-**EDIT 1 (May 6)**:  u/Musaran2 pointed out that hidden order types actually **are** available to some retail investors, at least those who use Interactive Brokers.  I confirmed it ![here](https://www.interactivebrokers.com/en/index.php?f=596).  IB says this about hidden orders (emphasis added):
+**EDIT 1 (May 6)**:  u/Musaran2 pointed out that hidden order types actually **are** available to some retail investors, at least those who use Interactive Brokers.  I confirmed it [here](https://www.interactivebrokers.com/en/index.php?f=596).  IB says this about hidden orders (emphasis added):
 
 >Investors wishing to hide large-size orders can do use by applying the "Hidden" attribute to a large volume order to completely hide the submitted quantity from the market. **The Hidden order type is a simple solution to maintaining anonymity in the market when trying to buy or sell large amounts of stocks**, options, bonds, warrants, futures or futures options. The Hidden order type is simple to add to the main trading window within TWS and requires a simple check-mark in the box in order to activate. Display the Hidden field from the Layout Manager, and check the Hidden attribute in the order line. Your order is submitted but evidence of the order is hidden from the market.
 

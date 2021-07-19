@@ -1,5 +1,6 @@
-# Author: Deceptiprawn
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv17eq/reddit_is_down_for_most_it_seems_if_you_can_read/](https://www.reddit.com/r/Superstonk/comments/nv17eq/reddit_is_down_for_most_it_seems_if_you_can_read/)
+#Title: Reddit is down for most it seems. If you can read this spread the word, get a VPN if you don’t already have one, buy, and hold!
+#Author: Deceptiprawn
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv17eq/reddit_is_down_for_most_it_seems_if_you_can_read/](https://www.reddit.com/r/Superstonk/comments/nv17eq/reddit_is_down_for_most_it_seems_if_you_can_read/)
 
 
 

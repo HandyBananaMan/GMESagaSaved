@@ -1,5 +1,6 @@
-# Author: AlexanderHood
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl90c5/may_26th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/nl90c5/may_26th_update_on_the_marriedput_forensic/)
+#Title: May 26th Update on the Married-Put Forensic Analysis - Shorts all the way down
+#Author: AlexanderHood
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl90c5/may_26th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/nl90c5/may_26th_update_on_the_marriedput_forensic/)
 
 
 T'was the night before MOASS'mas and if you're too jacked to sleep, I have something to keep you jacked until Market Open.
@@ -114,7 +115,7 @@ I really hope Cohen just comes out and tells us how many shares are outstanding.
 
 [Barchart Options](https://www.barchart.com/stocks/quotes/GME/options?expiration=2021-05-21-m&moneyness=allRows)
 
-![Stonk Tracker](https://gme.crazyawesomecompany.com)
+[Stonk Tracker](https://gme.crazyawesomecompany.com)
 
 **Required** 
 

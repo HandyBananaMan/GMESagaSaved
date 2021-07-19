@@ -1,5 +1,6 @@
-# Author: Alert_Piano341
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/](https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/)
+#Title: Citadel Bond INFO, BlackRock and Ryan Cohens Tweet
+#Author: Alert_Piano341
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/](https://www.reddit.com/r/DDintoGME/comments/mw96bf/citadel_bond_info_blackrock_and_ryan_cohens_tweet/)
 
 
 Heavy Edits
@@ -52,17 +53,17 @@ Bookrunner- JP Morgan, UBS Depository- Clearstream Banking SA Euoclear Bank
 
 **Cusip ID-  17288XAA2**
 
-[Bond Info](https://preview.redd.it/827v3wlr6ru61.png?width=1155&format=png&auto=webp&s=21f2c97d362b42cb867eb668187af3701e8db3bb)
+![Bond Info](https://preview.redd.it/827v3wlr6ru61.png?width=1155&format=png&auto=webp&s=21f2c97d362b42cb867eb668187af3701e8db3bb)
 
 &#x200B;
 
 &#x200B;
 
-[3 month Price Chart](https://preview.redd.it/7sqwoh4t6ru61.png?width=1188&format=png&auto=webp&s=b81617c1b67f4d07ea911ded75e237c90abcc93a)
+![3 month Price Chart](https://preview.redd.it/7sqwoh4t6ru61.png?width=1188&format=png&auto=webp&s=b81617c1b67f4d07ea911ded75e237c90abcc93a)
 
 &#x200B;
 
-[IShares buys4\/20.....nice dude](https://preview.redd.it/i3e8zz9x6ru61.png?width=554&format=png&auto=webp&s=f2b2466a3d3306c79138ad4816c92fe9daf0fb07)
+![IShares buys4\/20.....nice dude](https://preview.redd.it/i3e8zz9x6ru61.png?width=554&format=png&auto=webp&s=f2b2466a3d3306c79138ad4816c92fe9daf0fb07)
 
 Bond #2-
 
@@ -72,15 +73,15 @@ BookRunner- Goldman Sachs, UBS Depository- Clearstream Banking S.A Euroclear Ban
 
 Cuspit Id-  17288XAB0
 
-[Bond Info](https://preview.redd.it/cmuhr3ed7ru61.png?width=1170&format=png&auto=webp&s=c8f5b8623fe14d884f1c5de037bdb8e0c149b9a8)
+![Bond Info](https://preview.redd.it/cmuhr3ed7ru61.png?width=1170&format=png&auto=webp&s=c8f5b8623fe14d884f1c5de037bdb8e0c149b9a8)
 
 &#x200B;
 
-[3 month price chart](https://preview.redd.it/jo99c9of7ru61.png?width=1192&format=png&auto=webp&s=bd734287843d7e147560baa019a5cddba56c8bb8)
+![3 month price chart](https://preview.redd.it/jo99c9of7ru61.png?width=1192&format=png&auto=webp&s=bd734287843d7e147560baa019a5cddba56c8bb8)
 
 &#x200B;
 
-[Ishares 4\/20....you guys are funny](https://preview.redd.it/a43rvsci7ru61.png?width=566&format=png&auto=webp&s=0cc7a94b5cadd849766649c5f55dd0a3e4b1c307)
+![Ishares 4\/20....you guys are funny](https://preview.redd.it/a43rvsci7ru61.png?width=566&format=png&auto=webp&s=0cc7a94b5cadd849766649c5f55dd0a3e4b1c307)
 
 &#x200B;
 
@@ -94,15 +95,15 @@ Cusp ID-  17287HAA8
 
 **THERE MOST RECENT BOND HAD A LOWER RATING**
 
-[Bond Info](https://preview.redd.it/mbr28cam7ru61.png?width=1152&format=png&auto=webp&s=750208598ddbd0a5c8cbc7b315cf2ea3b8cbd59d)
+![Bond Info](https://preview.redd.it/mbr28cam7ru61.png?width=1152&format=png&auto=webp&s=750208598ddbd0a5c8cbc7b315cf2ea3b8cbd59d)
 
 &#x200B;
 
-[3 month Price Chart](https://preview.redd.it/58d8a5no7ru61.png?width=1178&format=png&auto=webp&s=fa47c145eeaf8813d535a265c259d662e446d9b2)
+![3 month Price Chart](https://preview.redd.it/58d8a5no7ru61.png?width=1178&format=png&auto=webp&s=fa47c145eeaf8813d535a265c259d662e446d9b2)
 
 &#x200B;
 
-[4\/20....smooth guys smooth](https://preview.redd.it/9fyg37ir7ru61.png?width=573&format=png&auto=webp&s=536a86fd1ab918b655e9d943a6c8ce1038f1f8bc)
+![4\/20....smooth guys smooth](https://preview.redd.it/9fyg37ir7ru61.png?width=573&format=png&auto=webp&s=536a86fd1ab918b655e9d943a6c8ce1038f1f8bc)
 
 &#x200B;
 
@@ -112,7 +113,7 @@ Ishares reported on the end of April
 
 &#x200B;
 
-[Hierachy of Debt](https://preview.redd.it/99ddg9p58ru61.png?width=1326&format=png&auto=webp&s=fbfe7fd3fe955405b69ffe3880460c3da4e759eb)
+![Hierachy of Debt](https://preview.redd.it/99ddg9p58ru61.png?width=1326&format=png&auto=webp&s=fbfe7fd3fe955405b69ffe3880460c3da4e759eb)
 
 &#x200B;
 
@@ -126,4 +127,4 @@ Does this give a bigger seat at the table when Citadel is liquidated, protects t
 
 Original post about bonds-
 
-![https://www.reddit.com/r/DDintoGME/comments/mviw7c/help\_with\_citadels\_corporate\_bonds/](https://www.reddit.com/r/DDintoGME/comments/mviw7c/help_with_citadels_corporate_bonds/)
+[https://www.reddit.com/r/DDintoGME/comments/mviw7c/help\_with\_citadels\_corporate\_bonds/](https://www.reddit.com/r/DDintoGME/comments/mviw7c/help_with_citadels_corporate_bonds/)

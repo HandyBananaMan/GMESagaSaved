@@ -1,5 +1,6 @@
-# Author: hell-mitc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/](https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/)
+#Title: It's Just a Bug, Bro Part 6 - Bug Spray Edition
+#Author: hell-mitc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/](https://www.reddit.com/r/Superstonk/comments/myl37p/its_just_a_bug_bro_part_6_bug_spray_edition/)
 
 
 Alright everyone, here we go again. I am going to try to spare us all a ton of detail because we have been reading a lot of it for the weeks now. Atobitt got deeper into the rehypothecation theory so we should understand that to a degree; but this will reiterate it and more, and I feel that we can do better with how the system works. 
@@ -40,7 +41,7 @@ https://preview.redd.it/9p54gtstqev61.png?width=749&format=png&auto=webp&s=e5563
 
 &#x200B;
 
-[That a lot of treasury collateral value...](https://preview.redd.it/q9jhywzuqev61.png?width=688&format=png&auto=webp&s=a7e355e11e3484710803d3128283961e7db74338)
+![That a lot of treasury collateral value...](https://preview.redd.it/q9jhywzuqev61.png?width=688&format=png&auto=webp&s=a7e355e11e3484710803d3128283961e7db74338)
 
 I can literally feel your eyes glazing over from here, so you ask, how does this tie to GME and what happened hell-mitc?
 
@@ -61,7 +62,7 @@ But what if your hair gets too short? Well here is where I am pretty sure it all
 1.  An industry that doesn’t work past 4pm has been up for all hours of the night meaning chances are some legislations has changed that we aren’t privy to (not just DTCC)
 2.  The Fed uses proprietary software (Fedwire® Securities Service) that helps to determine credit, collateral, leverage, margin, etc. Check it out [https://frbservices.org/financial-services/securities/index.html](https://frbservices.org/financial-services/securities/index.html)
    1.  We watched the Fed system go down and GME skyrocketed, something happened that caused them to either take the software offline, or juggle the impending margin calls that were about to unfold
-   2. ![https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf](https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf)
+   2. [https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf](https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf)
       1. THIS DOCUMENT IS FUCKED, it explains why the Fed wont be responsible for defaults, but also the legislation required. It is called **Operating Circular No. 7.** There are a lot more, but this serves its purpose in relation to defaults of a member and overleveraging.
 
 So, we have reached a point where I am kind of coming to a conclusion that this isn’t contained to any specific organization or entity. In the New York Fed document:
@@ -84,7 +85,7 @@ References
 4. [https://www.newyorkfed.org/banking/tpr\_infr\_reform.html](https://www.newyorkfed.org/banking/tpr_infr_reform.html)
 5. [https://www.dtcc.com/clearing-services/ficc-gov/gcf-repo](https://www.dtcc.com/clearing-services/ficc-gov/gcf-repo)
 6. [https://frbservices.org/financial-services/securities/index.html](https://frbservices.org/financial-services/securities/index.html)
-7. ![https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf](https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf)
+7. [https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf](https://frbservices.org/assets/resources/rules-regulations/operating-circular-7-102917.pdf)
 
 Edit 1. Here's the DD from earlier.
 

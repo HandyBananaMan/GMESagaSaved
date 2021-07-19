@@ -1,5 +1,6 @@
-# Author: def_abcd
-# Post URL: [https://www.reddit.com/r/GME/comments/mze7el/south_korea_i_was_with_you_even_when_it_was_40/](https://www.reddit.com/r/GME/comments/mze7el/south_korea_i_was_with_you_even_when_it_was_40/)
+#Title: South Korea) I was with you even when it was 40 dollars.
+#Author: def_abcd
+#Post URL: [https://www.reddit.com/r/GME/comments/mze7el/south_korea_i_was_with_you_even_when_it_was_40/](https://www.reddit.com/r/GME/comments/mze7el/south_korea_i_was_with_you_even_when_it_was_40/)
 
 
 &#x200B;

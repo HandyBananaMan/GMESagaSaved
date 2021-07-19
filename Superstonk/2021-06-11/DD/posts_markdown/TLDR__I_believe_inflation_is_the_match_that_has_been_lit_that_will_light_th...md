@@ -1,18 +1,19 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/)
+#Title: TL:DR – I believe inflation is the match that has been lit that will light the fuse of our rocket.
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/](https://www.reddit.com/r/Superstonk/comments/nxxwqt/tldr_i_believe_inflation_is_the_match_that_has/)
 
 
 Good evening r/Superstonk, neighborhood jellyfish here! I would like to revisit the [CPI report](https://www.reddit.com/r/Superstonk/comments/nwodvj/the_consumer_price_index_climbed_06_from_the/) from yesterday while considering Reverse Repos. One thing that happened after the 5% number came out was that junk-bond yields fell to new record lows.
 
 Two bonds I would like to share with you all are:
 
-[ICE BofA Single-B US High Yield Index Effective Yield @ 4.47&#37; -.53&#37; adjusted for inflation \(Highly Speculative\)](https://preview.redd.it/16ggnizq5r471.png?width=1472&format=png&auto=webp&s=2044efbec4edfd718975f23cbb46c5c57e488f21)
+![ICE BofA Single-B US High Yield Index Effective Yield @ 4.47&#37; -.53&#37; adjusted for inflation \(Highly Speculative\)](https://preview.redd.it/16ggnizq5r471.png?width=1472&format=png&auto=webp&s=2044efbec4edfd718975f23cbb46c5c57e488f21)
 
-[ICE BofA CCC & Lower US High Yield Index Effective Yield @ 6.83&#37; 1.83&#37; adjusted for inflation \(“extremely speculative” to “default is imminent with little prospect for recovery”\)](https://preview.redd.it/vzymxppt5r471.png?width=2917&format=png&auto=webp&s=98bb6f76625ee211c7c99a8f4b4c70ddcc65635f)
+![ICE BofA CCC & Lower US High Yield Index Effective Yield @ 6.83&#37; 1.83&#37; adjusted for inflation \(“extremely speculative” to “default is imminent with little prospect for recovery”\)](https://preview.redd.it/vzymxppt5r471.png?width=2917&format=png&auto=webp&s=98bb6f76625ee211c7c99a8f4b4c70ddcc65635f)
 
 Before we go any further, let’s do some quick level setting on bonds and their risk descriptions:
 
-[How the Credit Rating Agencies Classify Corporate Bonds and Loans by Credit Risk, or the Risk of Default.](https://preview.redd.it/rehqd3r06r471.png?width=1329&format=png&auto=webp&s=e0feef1958f5dc822e8374073ebe411d5c378373)
+![How the Credit Rating Agencies Classify Corporate Bonds and Loans by Credit Risk, or the Risk of Default.](https://preview.redd.it/rehqd3r06r471.png?width=1329&format=png&auto=webp&s=e0feef1958f5dc822e8374073ebe411d5c378373)
 
 &#x200B;
 
@@ -42,7 +43,7 @@ First, even before all of this talk of inflation, the buying power of the dollar
 
 &#x200B;
 
-[It goes down, down... ](https://preview.redd.it/u1sromf58r471.png?width=2340&format=png&auto=webp&s=6f640c25b1be662e4077aea3d2a30889cab41095)
+![It goes down, down... ](https://preview.redd.it/u1sromf58r471.png?width=2340&format=png&auto=webp&s=6f640c25b1be662e4077aea3d2a30889cab41095)
 
 &#x200B;
 
@@ -78,7 +79,7 @@ Recall, the yield from interest payments is supposed to compensate for the loss 
 
 &#x200B;
 
-[I hope she comes back for the sequel! ](https://preview.redd.it/ok2xksrd9r471.png?width=960&format=png&auto=webp&s=c6ab96684ac56cf1010235939aafd5e02b87781e)
+![I hope she comes back for the sequel! ](https://preview.redd.it/ok2xksrd9r471.png?width=960&format=png&auto=webp&s=c6ab96684ac56cf1010235939aafd5e02b87781e)
 
 OK, so to try and wrap this up (I hope):
 

@@ -1,5 +1,6 @@
-# Author: enthralled123
-# Post URL: [https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/](https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/)
+#Title: An Analysis of "The Everything Short"
+#Author: enthralled123
+#Post URL: [https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/](https://www.reddit.com/r/GME/comments/mi6bb4/an_analysis_of_the_everything_short/)
 
 
   
@@ -66,7 +67,7 @@ So we’ve been dealing with some light stuff lately, it is time to get terrifie
 
 &#x200B;
 
-[Institutions essentially gave the US government 1.9 Trillion dollars. No wonder why the SEC hasn't done anything about GME shorts...](https://preview.redd.it/6a15grknpmq61.jpg?width=1411&format=pjpg&auto=webp&s=28198d6bec04a719e4e795a33ef6a8816d83ab13)
+![Institutions essentially gave the US government 1.9 Trillion dollars. No wonder why the SEC hasn't done anything about GME shorts...](https://preview.redd.it/6a15grknpmq61.jpg?width=1411&format=pjpg&auto=webp&s=28198d6bec04a719e4e795a33ef6a8816d83ab13)
 
  
 
@@ -88,7 +89,7 @@ Explained beautifully by GAO (im tired of taking and editing pics) “For exampl
 
 Fuck it, apes love crayons: 
 
-[What happens when that blue line hits 0? Those shorting US Treasury Securities make bank that\\"s what. ](https://preview.redd.it/tcdl1h0vpmq61.jpg?width=1512&format=pjpg&auto=webp&s=f9034c2fe47a83d40fb29e0d68194dba10bd4b5a)
+![What happens when that blue line hits 0? Those shorting US Treasury Securities make bank that\\"s what. ](https://preview.redd.it/tcdl1h0vpmq61.jpg?width=1512&format=pjpg&auto=webp&s=f9034c2fe47a83d40fb29e0d68194dba10bd4b5a)
 
 &#x200B;
 
@@ -108,7 +109,7 @@ Notes:
 2. **Interest rates may rise if the Fed stops the quantitative easing program**. The Fed’s have been under a lot of pressure to cease driving up the price of inflation. If they stop printing money with their quantitative easing program, they will be unable to purchase new Treasuries. This may drive interest rates up further. In other words, treasury values may decline if interest rates stay where they are or if they increase. Either way, this creates a good opportunity for investors who want to sell short.
 3. **Diminishing value of the U.S. dollar**. If the Federal Reserve continues to print more money to save the U.S. economy, the rate of inflation may skyrocket. The [price of gas](https://www.moneycrashers.com/gas-prices-rising-prepare/) has already increased to over $4.00 a gallon, largely due to the declining value of the dollar. As the dollar loses value, investors become more anxious about investing in U.S. Treasuries. *Also, many nations are discussing removing the dollar as the world reserve currency, which would cause serious ramifications for U.S. Treasuries.*
 4. **Institutional and foreign support of U.S. Treasuries is declining**. China is the largest single holder of U.S. Treasuries, holding approximately 8% of all U.S. debt, and has been selling its holdings. Bill Gross, the manager of the largest bond fund in the country, and [Warren Buffet](https://www.moneycrashers.com/buffettology-warren-buffet-quotes-investment-strategy-stock-picks/), another legendary investor, are both shorting U.S. Treasuries. Other countries are starting to unload U.S. debt as well. This is a widespread indication that faith in the U.S. government as a lender is at an all-time low.
-5. **Fear that the U.S. government will default on its loans for the first time ever**. The S&P is threatening to take away the U.S. government’s AAA bond rating. Many are terrified that as the U.S. is on its way to reaching $15 trillion in debt (i.e. ![national debt ceiling](https://www.moneycrashers.com/raising-national-federal-debt-ceiling-definition/)), it will not possibly be able to make all of its payments.""""""
+5. **Fear that the U.S. government will default on its loans for the first time ever**. The S&P is threatening to take away the U.S. government’s AAA bond rating. Many are terrified that as the U.S. is on its way to reaching $15 trillion in debt (i.e. [national debt ceiling](https://www.moneycrashers.com/raising-national-federal-debt-ceiling-definition/)), it will not possibly be able to make all of its payments.""""""
 
 There is also information regarding exactly HOW to short Treasury Bonds in that article. 
 

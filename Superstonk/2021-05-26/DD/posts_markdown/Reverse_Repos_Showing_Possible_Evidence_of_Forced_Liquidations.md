@@ -1,5 +1,6 @@
-# Author: AcedVector
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlxom6/reverse_repos_showing_possible_evidence_of_forced/](https://www.reddit.com/r/Superstonk/comments/nlxom6/reverse_repos_showing_possible_evidence_of_forced/)
+#Title: Reverse Repos Showing Possible Evidence of Forced Liquidations
+#Author: AcedVector
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlxom6/reverse_repos_showing_possible_evidence_of_forced/](https://www.reddit.com/r/Superstonk/comments/nlxom6/reverse_repos_showing_possible_evidence_of_forced/)
 
 
 # Pre-DD Message:
@@ -12,11 +13,11 @@ Hello you beautiful apes! Before I get into this DD I just wanted to say that I 
 
 As I myself was scouring this sub for info I had come across an interesting [post](https://www.reddit.com/r/Superstonk/comments/nlu3wb/coincidental_link_in_decreasing_parties_for/?utm_source=share&utm_medium=web2x&context=3) by  [u/qwert4the1](https://www.reddit.com/user/qwert4the1/)  (show them some love!) who had found a connection between the price surges in GME and the amount of counterparties within the reverse repo agreements. Specifically, they had mentioned that on days when there was a significant price increase compared to the norm (today, May 26th, would be a good example), the amount of counterparties who were accepted in the reverse repo agreements the day of or the day after had *decreased*. Now, why is this incredibly important if this connection holds true and how can it point to some interesting conclusions? To understand that, we have to understand the main prerequisite to these repo reverse agreements, which is according to the Fed FAQ page:
 
-[An 80 billion max per counterparty, hm?](https://preview.redd.it/pv3jripp9k171.png?width=465&format=png&auto=webp&s=9f6e860076f899e8ad04354d7b02514dad450106)
+![An 80 billion max per counterparty, hm?](https://preview.redd.it/pv3jripp9k171.png?width=465&format=png&auto=webp&s=9f6e860076f899e8ad04354d7b02514dad450106)
 
 We also have to understand that in these overnight reverse repo agreements, the Desk (The Open Market Trading Desk the Fed uses for these transactions) sells treasury securities that it holds in the System Open Market Account (SOMA) to these eligible counterparties. What that means is that the aggregate counterparty amount of treasury securities that can be lended overnight is limited by the amount that is held in SOMA. As of May 19th, here are these amounts:
 
-[Take note of the 4 TRILLION that it has in Treasury Notes and Bonds.](https://preview.redd.it/1lp15o74dk171.png?width=962&format=png&auto=webp&s=6fce3b40c66599b746de3b854f70768facf85ea3)
+![Take note of the 4 TRILLION that it has in Treasury Notes and Bonds.](https://preview.redd.it/1lp15o74dk171.png?width=962&format=png&auto=webp&s=6fce3b40c66599b746de3b854f70768facf85ea3)
 
 So in other words, there are 2 limitations to take note of for overnight RRP agreements:
 
@@ -50,7 +51,7 @@ Here's why I think we might be seeing both *forced liquidations* as well as *mor
 
 [Repo and Reverse Repo Operations - Federal Reserve Bank of New York (newyorkfed.org)](https://apps.newyorkfed.org/markets/autorates/tomo-results-display?SHOWMORE=TRUE&startDate=01/01/2000&enddate=01/01/2000)
 
-![System Open Market Account Holdings of Domestic Securities - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)](https://www.newyorkfed.org/markets/soma-holdings)
+[System Open Market Account Holdings of Domestic Securities - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)](https://www.newyorkfed.org/markets/soma-holdings)
 
 As always, thank you for reading my DDs you guys. I will try to hang in the comments for edits as well if anything. :)
 

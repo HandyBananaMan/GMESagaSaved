@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oerfpr/the_daily_stonk_07062021/](https://www.reddit.com/r/Superstonk/comments/oerfpr/the_daily_stonk_07062021/)
+#Title: The Daily Stonk 07-06-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oerfpr/the_daily_stonk_07062021/](https://www.reddit.com/r/Superstonk/comments/oerfpr/the_daily_stonk_07062021/)
 
 
 &#x200B;
@@ -46,7 +47,7 @@ the list can be found [here](https://www.reddit.com/r/Superstonk/comments/oek6xl
 
 &#x200B;
 
-[no one is quite sure what it means...](https://preview.redd.it/fnvsu0qt7k971.png?width=1080&format=png&auto=webp&s=0bcd8e88f5e621def441bf0f802f8cb50648843d)
+![no one is quite sure what it means...](https://preview.redd.it/fnvsu0qt7k971.png?width=1080&format=png&auto=webp&s=0bcd8e88f5e621def441bf0f802f8cb50648843d)
 
 # US stock falling down
 
@@ -154,6 +155,6 @@ Edit 1:
 
 Gamestop continues expansion of their fulfillment network
 
-![https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility)
+[https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-continues-expansion-fulfillment-network-new-facility)
 
 &#x200B;

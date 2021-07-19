@@ -1,5 +1,6 @@
-# Author: VaseaPost
-# Post URL: [https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/](https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/)
+#Title: Naked Short Selling: The Truth Is Much Worse Than You Have Been Told
+#Author: VaseaPost
+#Post URL: [https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/](https://www.reddit.com/r/GME/comments/m9bfp0/naked_short_selling_the_truth_is_much_worse_than/)
 
 
 There is a massive threat to our capital markets, the free market in general, and fair dealings overall. And no, it’s not China. It’s a homegrown threat that everyone has been afraid to talk about. 
@@ -166,7 +167,7 @@ Shout out to u/Accomplished_Shock46 **who posted this in a WSB comment.**
 
 &#x200B;
 
-Edit: I didn't do the DD, i just found it. Don't forget to click and support the author who is sharing these thoughts/comments if you agree with them- traffic and social media is very important to Google/Bings algorithms on their search engine. Thanks u/![YourDraftDay](https://www.reddit.com/user/YourDraftDay/) for this idea.
+Edit: I didn't do the DD, i just found it. Don't forget to click and support the author who is sharing these thoughts/comments if you agree with them- traffic and social media is very important to Google/Bings algorithms on their search engine. Thanks u/[YourDraftDay](https://www.reddit.com/user/YourDraftDay/) for this idea.
 
 Not financial advice.
 

@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/)
+#Title: PRICE ACTION IS SHOCKINGLY similar to NOT ONLY the 2/24-3/10 runup, but also to the JANUARY run from $20 - $480. T+35 / T+21 elaboration. Crosspost
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/](https://www.reddit.com/r/DDintoGME/comments/nrx5s9/price_action_is_shockingly_similar_to_not_only/)
 
 
 Wrinkly stuff by [u/sharp717](https://www.reddit.com/user/sharp717/) at [https://www.reddit.com/r/Superstonk/comments/nrud2r/price\_action\_is\_shockingly\_similar\_to\_not\_only/](https://www.reddit.com/r/Superstonk/comments/nrud2r/price_action_is_shockingly_similar_to_not_only/)
@@ -53,7 +54,7 @@ Below is my furtherment of [u/Criand](https://www.reddit.com/u/Criand/)'s work a
 
 Please click the image to view it blown up and actually take in what is being laid out for you with my lovely computer crayons which I swear to god I don't eat... EVER.
 
-[Transparent boxes represent the initiation of the combined T+35 \/ T+21 day price movements + 6 days \(because it has only been 6 trading days since](https://preview.redd.it/5i1vfo87m6371.png?width=1287&format=png&auto=webp&s=fbf94b865cf87383e55f08e7d832404f1063fefb)
+![Transparent boxes represent the initiation of the combined T+35 \/ T+21 day price movements + 6 days \(because it has only been 6 trading days since](https://preview.redd.it/5i1vfo87m6371.png?width=1287&format=png&auto=webp&s=fbf94b865cf87383e55f08e7d832404f1063fefb)
 
 Notes:
 
@@ -89,7 +90,7 @@ Oh yeah... forgot about this one. LOOK AT THE VOLUME. ITS LITERALLY FUCKING INSA
 
 Alright guys. To summarize. We could be looking at going parabolic again on June 9th based on the pattern identified by the authors I mentioned above. The price action and technical signals are bullish as fuck. I fucking love all you mother fuckers who are holding this thing, and I will be holding till we can change the world.
 
-Last note. For dope technical analysis please check out the absolute man [Tradespotting](https://www.youtube.com/channel/UCI24I7XHA2yY4Fs-pVmplpA). I think this is his reddit [**u/Frigerifico**](https://www.reddit.com/user/Frigerifico/) and this is his ![sub](https://www.reddit.com/r/tradespotting/). He's not some highly viewed bullshit youtuber. He's a genuine Scottish dude who is passionate as fuck about GME and is amazing at technical analysis. The dudes literally inspirational and will literally calm your fucking nerves about this whole thing. Literally.
+Last note. For dope technical analysis please check out the absolute man [Tradespotting](https://www.youtube.com/channel/UCI24I7XHA2yY4Fs-pVmplpA). I think this is his reddit [**u/Frigerifico**](https://www.reddit.com/user/Frigerifico/) and this is his [sub](https://www.reddit.com/r/tradespotting/). He's not some highly viewed bullshit youtuber. He's a genuine Scottish dude who is passionate as fuck about GME and is amazing at technical analysis. The dudes literally inspirational and will literally calm your fucking nerves about this whole thing. Literally.
 
 **Trust the process Apes. See you in the far reaches of space.**
 

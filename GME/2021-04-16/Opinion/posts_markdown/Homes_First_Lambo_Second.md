@@ -1,5 +1,6 @@
-# Author: TempBounty
-# Post URL: [https://www.reddit.com/r/GME/comments/msjycs/homes_first_lambo_second/](https://www.reddit.com/r/GME/comments/msjycs/homes_first_lambo_second/)
+#Title: Homes First, Lambo Second
+#Author: TempBounty
+#Post URL: [https://www.reddit.com/r/GME/comments/msjycs/homes_first_lambo_second/](https://www.reddit.com/r/GME/comments/msjycs/homes_first_lambo_second/)
 
 
 Post MOASS build yourself a custom 4-6k sq ft  (370-560 sq m) home. Get a space that defines you, makes you happy AND put the whole nation to work. 

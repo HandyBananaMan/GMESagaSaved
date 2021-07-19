@@ -1,5 +1,6 @@
-# Author: International_Gold20
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/)
+#Title: A DD into Steven A. Cohen, one of the main villains in the GME saga...
+#Author: International_Gold20
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/](https://www.reddit.com/r/Superstonk/comments/nb0261/a_dd_into_steven_a_cohen_one_of_the_main_villains/)
 
 
 ***If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.*** **-Sun Tzu**
@@ -14,11 +15,11 @@ Apes’ ire has mostly been directed at Ken “I have no soul” Griffin and his
 
 But there’s another character who seems to largely remain out of the spotlight, despite the fact that he has also played an integral part in all this. Apes likely recall that when Melvin received their $2.75 billion cash infusion back in January (to be clear, it **wasn’t** a bailout \*wink wink\*), that money came from Shitadel **AND** Point72, a hedge fund founded in 2014 by the notorious investor and hedge fund manager Steve Cohen.
 
-[Reprobate](https://preview.redd.it/yqaend6t6ry61.jpg?width=3000&format=pjpg&auto=webp&s=209b50df0928d88472a70d11bc3ddf36ab3ddf18)
+![Reprobate](https://preview.redd.it/yqaend6t6ry61.jpg?width=3000&format=pjpg&auto=webp&s=209b50df0928d88472a70d11bc3ddf36ab3ddf18)
 
 Steven A. Cohen is probably best known for being majority owner of the New York Mets, purchasing a 95% stake in the team on October 30, 2020 for a cool $2.475 billion. To some Apes he is probably better known as the hedge fund billionaire douchebag who sent this tweet out into the ether, taunting retail investors after trading was illegally halted on January 28.
 
-[Taunting after blatantly cheating? Classy. ](https://preview.redd.it/woclcgjz6ry61.png?width=322&format=png&auto=webp&s=671e642b2e24acfbd56d43fc3f6641c03b263a09)
+![Taunting after blatantly cheating? Classy. ](https://preview.redd.it/woclcgjz6ry61.png?width=322&format=png&auto=webp&s=671e642b2e24acfbd56d43fc3f6641c03b263a09)
 
 Apes no doubt member that trading was halted because of the “recent volatility” occurring at that time, and brokers like Robbinghood understood that it was as “important as ever that we help customers stay informed,” so amid that volatility they made “a risk-management decision” and restricted the buying of multiple securities, including GME. Or was it because of increased liquidity requirements?
 
@@ -36,17 +37,17 @@ See, the poor guy is just trying to make a living like the rest of us.
 
 Just like any one of us he owns a 35,000 square foot home with a full-size indoor basketball court, a swimming pool “enclosed in a glass pleasure dome,” a 6,734-square-foot ice-skating rink, and a two-hole golf course, plus the neighboring $5 million dollar home in case those pesky in-laws come to visit the compound.
 
-[One of Steve's many humble properties.](https://preview.redd.it/zncl67j57ry61.jpg?width=800&format=pjpg&auto=webp&s=94ce67b46c5fe0e5d98e6a8965ad7592993149a3)
+![One of Steve's many humble properties.](https://preview.redd.it/zncl67j57ry61.jpg?width=800&format=pjpg&auto=webp&s=94ce67b46c5fe0e5d98e6a8965ad7592993149a3)
 
 I’m sure all of us have probably purchased a $62.5 million 10,000 square foot East Hampton mansion only to tear it down a mere THREE YEARS LATER to build a newer, BETTER house in its place, no? You don’t want one of your many homes to be sub-par, do you?
 
 And Apes like art, right? I’m a fan of Banksy, myself.
 
-[Judgement day cometh...](https://preview.redd.it/26eur7jb7ry61.jpg?width=1000&format=pjpg&auto=webp&s=e7fa82d2e9175a92d9e89beb90c7940433c87450)
+![Judgement day cometh...](https://preview.redd.it/26eur7jb7ry61.jpg?width=1000&format=pjpg&auto=webp&s=e7fa82d2e9175a92d9e89beb90c7940433c87450)
 
 Cohen’s modest art collection is valued at more than $1 billion and includes such items as an $8 million 14-foot shark preserved in formaldehyde, otherwise known as Damien Hirst’s *The Physical Impossibility of Death in the Mind of Someone Living*, and Picasso’s *Le Rêve*, purchased for a cool $155 million. At the time it was the most a U.S. collector had ever paid for artwork, but that record was broken when Willem de Kooning's *Interchange* was purchased for around $300 million in September 2015 by none other than Soulless Stiff K.Griff himself.
 
-[The Willem de Kooning and Jackson Pollock. Source: Art Institute of Chicago. Billionaire Ken Griffin paid about $500 million for two paintings by Abstract Expressionist masters in one of the largest private art deals ever. He keeps the paintings in the same hermetically sealed vault where he keeps his mayo. ](https://preview.redd.it/0mpoigae7ry61.jpg?width=1000&format=pjpg&auto=webp&s=e34c2bd70757b956184f3ad1b128daef66829e68)
+![The Willem de Kooning and Jackson Pollock. Source: Art Institute of Chicago. Billionaire Ken Griffin paid about $500 million for two paintings by Abstract Expressionist masters in one of the largest private art deals ever. He keeps the paintings in the same hermetically sealed vault where he keeps his mayo. ](https://preview.redd.it/0mpoigae7ry61.jpg?width=1000&format=pjpg&auto=webp&s=e34c2bd70757b956184f3ad1b128daef66829e68)
 
 What I’m trying to say is that Steven A. Cohen’s art collection is essentially no different than any other standard Ape’s art collection. He’s just like you or me.
 
@@ -76,7 +77,7 @@ Enter BJ Kang.
 
 Kang is a name a few apes may know, but for those who are unfamiliar with him, he was an accountant before becoming a member of the Federal Bureau of Investigation’s securities task force, and he played a major role in the investigation of Bernie Madoff. Just 309 days after Madoff’s arrest, Kang would be photographed here:
 
-[October 16, 2009](https://preview.redd.it/rnt3kwbg7ry61.jpg?width=450&format=pjpg&auto=webp&s=b09aa5b6a157818c959dc809c8e487a84438388a)
+![October 16, 2009](https://preview.redd.it/rnt3kwbg7ry61.jpg?width=450&format=pjpg&auto=webp&s=b09aa5b6a157818c959dc809c8e487a84438388a)
 
 One of these men is Kang and the other is Raj Rajaratnam, a Sri Lankan hedge fund manager who, not long after this photo was taken, was convicted of 14 counts of conspiracy and securities fraud, sentenced to 11 years in prison, and paid a combined $150 million in criminal and civil penalties. If you guessed Kang is the Korean American on the right wearing the dark blue FBI jacket and Raj is the guy on the left rawking the button-up sweater vest with his hands behind his back, you are correct. Well done, Apes.
 
@@ -92,7 +93,7 @@ https://preview.redd.it/7sn7tkpk7ry61.jpg?width=680&format=pjpg&auto=webp&s=6dcb
 
 Yes, you read that correctly, and no, it’s not fan fiction. Andrew Tong was the unfortunate soul who found himself providing mouth love in exchange for tendies while he was employed as an analyst at SAC. Tong had filed a lawsuit against his former male supervisor, Ping Jiang, a top trader for SAC, and alleged that he was forced to give Jiang blow jobs prior to completing trades. He also stated he was ordered to take female hormones so that he could become “the ideal analyst/trader.”
 
-[Female hormones and blow jobs for trades? That's a bold strategy...](https://i.redd.it/hgyguadt7ry61.gif)
+![Female hormones and blow jobs for trades? That's a bold strategy...](https://i.redd.it/hgyguadt7ry61.gif)
 
 “Steven Cohen only wants us to make money, he doesn’t care or want to know our secrets to make money -- SAC doesn’t need to know and doesn’t want to know,” Tong stated in a court filing.
 
@@ -102,7 +103,7 @@ Kang continued to lead the latest investigation of SAC (remember, this is now a 
 
 In one such instance Steve was sent an email from the research trader at SAC that contained inside information about Dell’s ($DELL) quarterly earnings; he subsequently sold all 500,000 of his Dell shares. Two days after the email, Dell released its quarterly earnings (they didn’t do so well…) and their stock fell. Cohen, of course, avoided losing a substantial amount of money.
 
-[ Benjamin Bowmar Curtis, the actor in these infamous commercials, was arrested for purchasing 1\/8th of marijuana in 2003.](https://preview.redd.it/xyy4a3fu7ry61.png?width=550&format=png&auto=webp&s=72138ad754e4bd088bdb58e7f7b961ce23765af4)
+![ Benjamin Bowmar Curtis, the actor in these infamous commercials, was arrested for purchasing 1\/8th of marijuana in 2003.](https://preview.redd.it/xyy4a3fu7ry61.png?width=550&format=png&auto=webp&s=72138ad754e4bd088bdb58e7f7b961ce23765af4)
 
 For reasons that should be obvious, Bharara and Zabel were considering a criminal indictment of Steev A-hole Co-In.
 
@@ -110,11 +111,11 @@ So our art collecting, MLB franchise owning defendant assembled the kind of lega
 
 Their defense of Cohen, a man described as “a notoriously demanding boss” with “access to every bit of trading data that was gathered by his portfolio managers and their teams” and “a rapacious consumer of information about his stocks,” boiled down to this quote from Klotz: “Steve does not remember reading it. He may not have read it.”
 
-[ “It’s just inconceivable that they didn’t explore their position, with that much money flying around. It just isn’t credible.” -Richard Zabel](https://preview.redd.it/moh7vvb68ry61.jpg?width=666&format=pjpg&auto=webp&s=d4b4fbded510ee857e0826352d297bea69535a87)
+![ “It’s just inconceivable that they didn’t explore their position, with that much money flying around. It just isn’t credible.” -Richard Zabel](https://preview.redd.it/moh7vvb68ry61.jpg?width=666&format=pjpg&auto=webp&s=d4b4fbded510ee857e0826352d297bea69535a87)
 
 In the end, eight SAC employees were convicted or plead guilty to conspiracy and securities fraud. One such employee, Mathew Martoma, was found guilty of what federal prosecutors called “the most profitable insider-trading conspiracy in history.” He was sentenced to 9 years in prison and ordered to forfeit more money than his actual net worth. Funny story about Martoma, he didn’t testify in his own defense because if he had, he might have been required to answer questions about when he falsified a transcript of his grades and got expelled from Harvard Law School. Hey, at least he didn’t force a subordinate to perform oral sex on him…
 
-[Systemic criminality](https://preview.redd.it/ey2ocf278ry61.jpg?width=1000&format=pjpg&auto=webp&s=90975ea2cdae2a5f7ee41d31134d17b385078040)
+![Systemic criminality](https://preview.redd.it/ey2ocf278ry61.jpg?width=1000&format=pjpg&auto=webp&s=90975ea2cdae2a5f7ee41d31134d17b385078040)
 
 In addition to all of the individual SAC employees, Bharara ultimately decided to indict SAC Capital itself. He described the firm as a “magnet for market cheaters.” Their vast illegal trading had been ongoing for over a decade and had resulted in **illegal** profits of “AT LEAST” hundreds of millions of dollars.
 

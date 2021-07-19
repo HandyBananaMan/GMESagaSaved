@@ -1,5 +1,6 @@
-# Author: dentisttft
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/)
+#Title: RC's tweets are timed with ETF FTDs
+#Author: dentisttft
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/](https://www.reddit.com/r/Superstonk/comments/oeahh2/rcs_tweets_are_timed_with_etf_ftds/)
 
 
 *This post is for education purposes only. Not financial advice.*
@@ -22,7 +23,7 @@ Below is a heatmap of those ETFs. Each ETF is a different row, each trading day 
 
 &#x200B;
 
-[Tweets come the day FTDs are cleared - EDIT: outside of the fist emoji \(DFV\), flag \(35 days before memorial day which had GME FTDS\), job posting \(35 days before June 2 runup\), and one of the south park GIFs](https://preview.redd.it/q7fwa3kn1f971.png?width=1714&format=png&auto=webp&s=a82cf29f39b7996f3de3e34460ba6f615120d3e7)
+![Tweets come the day FTDs are cleared - EDIT: outside of the fist emoji \(DFV\), flag \(35 days before memorial day which had GME FTDS\), job posting \(35 days before June 2 runup\), and one of the south park GIFs](https://preview.redd.it/q7fwa3kn1f971.png?width=1714&format=png&auto=webp&s=a82cf29f39b7996f3de3e34460ba6f615120d3e7)
 
 I have an old post from May that claims the Ted tweets are referencing Rule 204: Close-out requirements, the rule the that specifies the thirty-five day cover period.
 
@@ -32,7 +33,7 @@ So using [my T+35 theory](https://www.reddit.com/r/Superstonk/comments/o155a6/t3
 
 &#x200B;
 
-[GME 4H chart with new tweets marked in gray and T+35 of tweets marked in green.](https://preview.redd.it/ngufchm54f971.png?width=1307&format=png&auto=webp&s=57ee666bc94c2f54ab09d22e72726e46178964bb)
+![GME 4H chart with new tweets marked in gray and T+35 of tweets marked in green.](https://preview.redd.it/ngufchm54f971.png?width=1307&format=png&auto=webp&s=57ee666bc94c2f54ab09d22e72726e46178964bb)
 
 &#x200B;
 
@@ -40,7 +41,7 @@ Not every tweet corresponds to a jump, but a lot do. The last few tweet's T+35 j
 
 &#x200B;
 
-[SPY 4H chart with T+35 of tweets marked in green.](https://preview.redd.it/ycd7osw34f971.png?width=1305&format=png&auto=webp&s=fa0047eb004c9c3ed00aed02493a7c785433135a)
+![SPY 4H chart with T+35 of tweets marked in green.](https://preview.redd.it/ycd7osw34f971.png?width=1305&format=png&auto=webp&s=fa0047eb004c9c3ed00aed02493a7c785433135a)
 
 &#x200B;
 
@@ -52,7 +53,7 @@ Why is that? Because if a lot of ETF FTDs are being covered on these days, then 
 
 I’ve highlighted days where I expect upward GME movement. But since GME is being held down so much lately, I would expect more upward movement from SPY.
 
-[Red boxes on dates of T+35 from ETF FTDs.](https://preview.redd.it/2u5qd8n53f971.png?width=1390&format=png&auto=webp&s=592a6eb2bd74c64efbae25ad3a5100789307701b)
+![Red boxes on dates of T+35 from ETF FTDs.](https://preview.redd.it/2u5qd8n53f971.png?width=1390&format=png&auto=webp&s=592a6eb2bd74c64efbae25ad3a5100789307701b)
 
 &#x200B;
 
@@ -68,4 +69,4 @@ pce\~\~
 
 &#x200B;
 
-PS. I made a twitter: ![https://twitter.com/dentisttft](https://twitter.com/dentisttft)
+PS. I made a twitter: [https://twitter.com/dentisttft](https://twitter.com/dentisttft)

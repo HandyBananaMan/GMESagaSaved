@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mh2hjx/synopsis_for_03312021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mh2hjx/synopsis_for_03312021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-31-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mh2hjx/synopsis_for_03312021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mh2hjx/synopsis_for_03312021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -77,7 +78,7 @@ won't do a tldr just go check it [here](https://www.reddit.com/r/GME/comments/mg
 
 &#x200B;
 
-[and it's short](https://preview.redd.it/80kyh7fsxbq61.png?width=640&format=png&auto=webp&s=b0590d55b0217b42b5cf00ba685619bccf584b8b)
+![and it's short](https://preview.redd.it/80kyh7fsxbq61.png?width=640&format=png&auto=webp&s=b0590d55b0217b42b5cf00ba685619bccf584b8b)
 
 #  The naked shorting scam revealed.
 
@@ -201,6 +202,6 @@ backups:
 
 [https://twitter.com/warden\_elite](https://twitter.com/warden_elite)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
 
 And I'll be posting updates as they happen here:

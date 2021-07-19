@@ -1,5 +1,6 @@
-# Author: Blanderson_Snooper
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)
+#Title: Wargame Theory II: The Mother of All FUD (MOAFUD)
+#Author: Blanderson_Snooper
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)
 
 
 Blanderson Snooper here, back with another page of toilet reading for all you Apes. Does an Ape shit in the woods? Only if there's wifi.
@@ -12,7 +13,7 @@ Four weeks ago I published [the Wargame Theory](https://www.reddit.com/r/Superst
 
 I called that one my Charlie Day-DD because it was my Theory of Everything. This is my Vizzini-DD, where I try to reason through a problem using only the psychological traits and life experiences of my opponent as premises.
 
-[It's all in the names](https://preview.redd.it/h415beipr1071.jpg?width=680&format=pjpg&auto=webp&s=3c89c0e8cb5f8ff8f66156a2bf7b08c28ba28730)
+![It's all in the names](https://preview.redd.it/h415beipr1071.jpg?width=680&format=pjpg&auto=webp&s=3c89c0e8cb5f8ff8f66156a2bf7b08c28ba28730)
 
 Before we get into the new timeline, I want to highlight the most important prediction of the Wargame Theory:
 
@@ -136,7 +137,7 @@ I think Ken called his company Citadel because it is a place of rulership, a pla
 
 I believe we’ve seen the first two fortresses leak in the last couple of days: Glacier Capital and [Sessa Capital](https://whalewisdom.com/filer/sessa-capital-im-lp). I know Glacier’s been the big talk, but u/hc000 alerted us to this as well:
 
-[Uhhh why dudes?](https://preview.redd.it/nmpzy1zss1071.jpg?width=1031&format=pjpg&auto=webp&s=3848f368f670229e57c352283e2cc5dff91287d0)
+![Uhhh why dudes?](https://preview.redd.it/nmpzy1zss1071.jpg?width=1031&format=pjpg&auto=webp&s=3848f368f670229e57c352283e2cc5dff91287d0)
 
 Remember how Kenny named his children things that couldn’t be made fun of via any combination of letters or sounds? Well, “sessa” is literally a word that doesn’t exist. Look it up and the best you’ll find is that it’s an exclamation found only in Shakespeare. But that’s not the only thing interesting about sessa. The argument over what it means also fits into this theory.
 
@@ -164,7 +165,7 @@ You know Kenny loves sessa. He probably imagines himself with a whip and a sword
 
 And just to bring this full circle, I think Kenny picked Glacier to go first because of the tip of the iceberg joke. Just look into his eyes and tell me that’s not his version of a serial killer leaving clues for the police.
 
-[Dem eyes doe](https://preview.redd.it/71booio6t1071.jpg?width=242&format=pjpg&auto=webp&s=f74161729ce70afd6ac35f7993943490bc2b1175)
+![Dem eyes doe](https://preview.redd.it/71booio6t1071.jpg?width=242&format=pjpg&auto=webp&s=f74161729ce70afd6ac35f7993943490bc2b1175)
 
 # Kenny's MOASS Strategy and the Mother of All FUD Revealed
 
@@ -188,7 +189,7 @@ I know Apes hate thinking about any kind of squeeze control, but I think it's wi
 
 &#x200B;
 
-[We ready](https://preview.redd.it/mmfmo9dcv1071.jpg?width=1238&format=pjpg&auto=webp&s=b19709a92517fda8c6cb0fe66ecc54d832dc672d)
+![We ready](https://preview.redd.it/mmfmo9dcv1071.jpg?width=1238&format=pjpg&auto=webp&s=b19709a92517fda8c6cb0fe66ecc54d832dc672d)
 
 **The Mother of All FUD is the all-out, 24/7, multi-platform blitz of** ***every shill at Kenny’s disposal***  **during the MOASS.**
 
@@ -253,8 +254,6 @@ You know-it-all. You dream-maker.
 You shill-hunter, You upvoter
 
 You DD authors, wrinkly as they come
-
-And you mods, oh you mods, my Queen and her court
 
 All of our hearts will beat for yours forever.
 
@@ -334,7 +333,7 @@ u/GrubWurm89xx points out more evidence this is a game the wealthy play.
 
 >I think u may be right about his medieval naming obsession thing. Motley Fool is like his Court Jester
 
-**EDIT 8:** Just heard about Ashler Capital from ![this thread unraveling all of Citadel's umbrella companies](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/). According to the Free Dictionary an ashler is,
+**EDIT 8:** Just heard about Ashler Capital from [this thread unraveling all of Citadel's umbrella companies](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/). According to the Free Dictionary an ashler is,
 
 >a rectangular block of hewn stone used for building purposes building block - a block of material used in construction work stone - building material consisting of a piece of rock hewn in a definite shape for a special purpose; "he wanted a special stone to mark the site"
 

@@ -1,5 +1,6 @@
-# Author: ORaNGeTechPB
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o32aqe/with_automated_within_the_hour_margin_calls/](https://www.reddit.com/r/Superstonk/comments/o32aqe/with_automated_within_the_hour_margin_calls/)
+#Title: With automated within the hour margin calls coming into effect with 002 could you imagine how puckered those assholes will be? 💎🙌🦍🚀🌛
+#Author: ORaNGeTechPB
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o32aqe/with_automated_within_the_hour_margin_calls/](https://www.reddit.com/r/Superstonk/comments/o32aqe/with_automated_within_the_hour_margin_calls/)
 
 
 Several people I work with are deep into GME and not all are a fan of the sideways trading. I remind them of the FTD's, new regs, the Russell 1000 etc.

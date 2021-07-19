@@ -1,5 +1,6 @@
-# Author: Haiupei
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/](https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/)
+#Title: The Super League and how it is connected to J.P. Morgan/Gamestop DD
+#Author: Haiupei
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/](https://www.reddit.com/r/Superstonk/comments/mvgg8z/the_super_league_and_how_it_is_connected_to_jp/)
 
 
   
@@ -8,7 +9,7 @@ This morning I sat down to breakfast and read the newspaper, as I do every day. 
 
 J.P. Morgan? Yes that's right, the bank that announced just under a week ago that it was selling just under $13 billion ($16.8 billion) worth of bonds. This news was shared by several sites on 4/15 and 4/16. Whether it's good media or not remains to be seen. After all, we on Reddit all know that most of the media is bought and much of it is not accurate. However, the mass that posted this venture concludes to me that there is a real reason. In addition, this was also confirmed by many DD's. 
 
-[J.P. Morgan Bonds Sell](https://preview.redd.it/h1j7rxb0aju61.png?width=605&format=png&auto=webp&s=290d22e3825d9133f6e75a6cfb9d9839f4d1e4a1)
+![J.P. Morgan Bonds Sell](https://preview.redd.it/h1j7rxb0aju61.png?width=605&format=png&auto=webp&s=290d22e3825d9133f6e75a6cfb9d9839f4d1e4a1)
 
 Links: 1. [https://www.bloomberg.com/news/articles/2021-04-15/jpmorgan-to-sell-13-billion-of-bonds-in-largest-bank-sale-ever](https://www.bloomberg.com/news/articles/2021-04-15/jpmorgan-to-sell-13-billion-of-bonds-in-largest-bank-sale-ever)
 
@@ -24,7 +25,7 @@ How much money are we talking about? 3.5 billion USD up to 4.8 billion USD. Yes,
 
 &#x200B;
 
-[J.P. Morgan finance Super League](https://preview.redd.it/0nf47t73aju61.png?width=605&format=png&auto=webp&s=f84cc47603244080c9d19251b8d25027fee89281)
+![J.P. Morgan finance Super League](https://preview.redd.it/0nf47t73aju61.png?width=605&format=png&auto=webp&s=f84cc47603244080c9d19251b8d25027fee89281)
 
 Links: 
 

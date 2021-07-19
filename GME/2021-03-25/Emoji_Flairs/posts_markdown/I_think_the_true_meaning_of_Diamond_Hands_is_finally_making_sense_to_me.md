@@ -1,5 +1,6 @@
-# Author: Dramatic_Bean
-# Post URL: [https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/](https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/)
+#Title: I think the true meaning of Diamond Hands is finally making sense to me.
+#Author: Dramatic_Bean
+#Post URL: [https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/](https://www.reddit.com/r/GME/comments/md7pfi/i_think_the_true_meaning_of_diamond_hands_is/)
 
 
 I am a Canadian millennial ape nurse holding less than 6 shares since the end of January. Before January 27th, 2021, I knew NOTHING of investing, the stock market etc., my knowledge only encompassed creating a tight budget with which to organize my piddly little nursing wage. Until GameStop...
@@ -16,4 +17,4 @@ I am here with my single digit shares. I am DIAMOND HANDS! They need ALL our sha
 
 Edit: The Yu-Gi-OH ETF was actually a comment, and I was able to find it! Here is the original comment :
 
-![https://www.reddit.com/r/GME/comments/mbu916/not\_my\_post\_but\_it\_is\_being\_downvoted\_like\_crazy/gs05qbt/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbu916/not_my_post_but_it_is_being_downvoted_like_crazy/gs05qbt/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/GME/comments/mbu916/not\_my\_post\_but\_it\_is\_being\_downvoted\_like\_crazy/gs05qbt/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbu916/not_my_post_but_it_is_being_downvoted_like_crazy/gs05qbt/?utm_source=share&utm_medium=web2x&context=3)

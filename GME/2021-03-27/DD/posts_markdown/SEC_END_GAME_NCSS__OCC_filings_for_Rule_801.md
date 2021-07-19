@@ -1,5 +1,6 @@
-# Author: YinzSauce
-# Post URL: [https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/](https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/)
+#Title: SEC END GAME. NCSS & OCC filings for Rule 801
+#Author: YinzSauce
+#Post URL: [https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/](https://www.reddit.com/r/GME/comments/meh6s8/sec_end_game_ncss_occ_filings_for_rule_801/)
 
 
 Apeies & Gentleapes.
@@ -24,7 +25,7 @@ I will keep this as simple as possible as reading compression in this group is e
 
 *(Release No. 34-91347; File No. SR-NSCC-2021-801)*
 
-![https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf](https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf)
+[https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf](https://www.sec.gov/rules/sro/nscc-an/2021/34-91347.pdf)
 
 &#x200B;
 

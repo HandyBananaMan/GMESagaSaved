@@ -1,5 +1,6 @@
-# Author: babalon_don
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc0cs9/remember_when_the_media_said_they_covered_all_the/](https://www.reddit.com/r/Superstonk/comments/nc0cs9/remember_when_the_media_said_they_covered_all_the/)
+#Title: Remember when the media said they covered all the shorts, and now they’re pushing the “short squeeze” narrative because AMC jumped 10%. What a joke of a world we live in.
+#Author: babalon_don
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc0cs9/remember_when_the_media_said_they_covered_all_the/](https://www.reddit.com/r/Superstonk/comments/nc0cs9/remember_when_the_media_said_they_covered_all_the/)
 
 
 listen i know we’re crayon eating smooth brains but how obvious can they be with all this market and media manipulation? AMC short squeeze with GME following? a 10% fucking short squeeze? You’re missing about 300 zeros there you old crusty fucks. Im not selling my fkn GME or AMC till cramer calls me on live tv, eats a blue crayon and pays me 10 mil in cash for every share i own. Then ill blow it all on strippers and cocaine and move to Tanzania to build tree houses in the jungle for actual apes. My girlfriends husband invests in index funds and thinks hes hot shit. well i just bought a 64 pack with the built in sharpener bitch and im ready to fkn SQUEEZE.

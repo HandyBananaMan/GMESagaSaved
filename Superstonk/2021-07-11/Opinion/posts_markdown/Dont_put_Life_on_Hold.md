@@ -1,5 +1,6 @@
-# Author: thinkmoreharder
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oi4fy8/dont_put_life_on_hold/](https://www.reddit.com/r/Superstonk/comments/oi4fy8/dont_put_life_on_hold/)
+#Title: Don’t put Life on Hold
+#Author: thinkmoreharder
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oi4fy8/dont_put_life_on_hold/](https://www.reddit.com/r/Superstonk/comments/oi4fy8/dont_put_life_on_hold/)
 
 
 Don’t put your life on hold waiting for the MOASS. Even when your investment returns millions, you must do SOMETHING all day, every day, for the rest of your long life. Start to think abut the person you want to be post-MOASS. I don’t mean do you want to be kind, philanthropic, adventurous etc. i mean, will you be interesting to talk with. 

@@ -1,5 +1,6 @@
-# Author: TheXenocid3
-# Post URL: [https://www.reddit.com/r/GME/comments/nsd5j5/for_newbies_the_hf_goal_is_to_never_cover_mark/](https://www.reddit.com/r/GME/comments/nsd5j5/for_newbies_the_hf_goal_is_to_never_cover_mark/)
+#Title: For newbies, the HF goal is to NEVER cover (Mark Cubain AMA). Diamond hands! 💎🙌
+#Author: TheXenocid3
+#Post URL: [https://www.reddit.com/r/GME/comments/nsd5j5/for_newbies_the_hf_goal_is_to_never_cover_mark/](https://www.reddit.com/r/GME/comments/nsd5j5/for_newbies_the_hf_goal_is_to_never_cover_mark/)
 
 
 https://i.redd.it/yecpwx3rua371.jpg

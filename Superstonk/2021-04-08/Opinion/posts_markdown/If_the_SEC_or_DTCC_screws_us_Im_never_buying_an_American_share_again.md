@@ -1,5 +1,6 @@
-# Author: BetOnThis21
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmzhll/if_the_sec_or_dtcc_screws_us_im_never_buying_an/](https://www.reddit.com/r/Superstonk/comments/mmzhll/if_the_sec_or_dtcc_screws_us_im_never_buying_an/)
+#Title: If the SEC or DTCC screws us, I'm never buying an American share again
+#Author: BetOnThis21
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmzhll/if_the_sec_or_dtcc_screws_us_im_never_buying_an/](https://www.reddit.com/r/Superstonk/comments/mmzhll/if_the_sec_or_dtcc_screws_us_im_never_buying_an/)
 
 
 Dear fellow apes,

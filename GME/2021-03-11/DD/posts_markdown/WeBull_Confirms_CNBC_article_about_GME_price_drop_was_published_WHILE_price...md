@@ -1,5 +1,6 @@
-# Author: ihatedmyboss
-# Post URL: [https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/](https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/)
+#Title: WeBull Confirms CNBC article about $GME price drop was published WHILE price was still high**
+#Author: ihatedmyboss
+#Post URL: [https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/](https://www.reddit.com/r/GME/comments/m2n44x/webull_confirms_cnbc_article_about_gme_price_drop/)
 
 
 **Good Morning fellow Europoors and Galactic Apes**
@@ -134,7 +135,7 @@ Mind you, he works as a host for that exact news channel CNBC, offering "expert 
 
 **FYI:** The YT video of him admitting to [market manipulation is constantly removed](https://www.nerdwallet.com/blog/investing/history-jim-cramer-thestreetcom-founder-mad-money-host/) by JC's team. The video was reposted recently on 2/3/21, and I wouldn't be surprised if it's removed again.
 
-Want more? ![Here's another article](https://www.reuters.com/article/cramer-interview-idUKN2036292620070320) from 2007 talking about getting "bozo reporters" and feeding them wrong information.
+Want more? [Here's another article](https://www.reuters.com/article/cramer-interview-idUKN2036292620070320) from 2007 talking about getting "bozo reporters" and feeding them wrong information.
 
 Do with this info what you will.
 

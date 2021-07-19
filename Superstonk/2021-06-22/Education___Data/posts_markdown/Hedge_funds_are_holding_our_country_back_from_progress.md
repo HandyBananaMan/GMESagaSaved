@@ -1,5 +1,6 @@
-# Author: ECHOFIFE
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/](https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/)
+#Title: Hedge funds are holding our country back from progress
+#Author: ECHOFIFE
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/](https://www.reddit.com/r/Superstonk/comments/o61cg2/hedge_funds_are_holding_our_country_back_from/)
 
 
 I want to preface this -- I'm high and tired from work. I'm also former marine crayon-eating ape, so I'm dumb as rocks. This is my first real post on the sub that actually contributes anything valuable. Please do your own research to confirm.
@@ -12,7 +13,7 @@ I saw the post about Michael C Bodson, so I decided to snoop around.
 
 &#x200B;
 
-[Mike Bodson, President and CEO of DTCC](https://preview.redd.it/l715qaqlew671.png?width=480&format=png&auto=webp&s=c542109fc03704210244463fa77391668f0adfa7)
+![Mike Bodson, President and CEO of DTCC](https://preview.redd.it/l715qaqlew671.png?width=480&format=png&auto=webp&s=c542109fc03704210244463fa77391668f0adfa7)
 
 Michael Bodson is President and CEO of DTCC. Crypto posed a threat to clearinghouses like the DTCC, so the DTCC invested into Digital Asset Holdings. It's a financial company that builds products based on distributed ledger technology (DLT). The idea was that Wall Street would co-opt blockchain technology and strip crypto of its decentralize nature. ([https://www.institutionalinvestor.com/article/b1505pph2t0x7g/the-2017-tech-40-michael-bodson](https://www.institutionalinvestor.com/article/b1505pph2t0x7g/the-2017-tech-40-michael-bodson))
 
@@ -20,11 +21,11 @@ Now let's take a look into Digital Asset Holdings.
 
 Guess who is on its Board of Directors? Michael Bodson. How do you use the DTCC to invest into a company where you sit on its board? I guess there's no conflict of interest here, so lets move along. Another interesting fact is that the CEO of Digital Asset Holdings, Yuval Rooz, is a former Shitadel employee. After his tenure at Shitadel, he went to DRW Trading Group as a Senior Algorithmic Trader.
 
-[CEO of Digital Asset Holdings](https://preview.redd.it/2dvdku6saw671.png?width=259&format=png&auto=webp&s=739780e6bfecc76524a07767da587aba2a651a53)
+![CEO of Digital Asset Holdings](https://preview.redd.it/2dvdku6saw671.png?width=259&format=png&auto=webp&s=739780e6bfecc76524a07767da587aba2a651a53)
 
 I mentioned that Digital Asset Holdings was co-founded; so now, let's take a look at the other guy.
 
-[Don Wilson, Co-founder of Digital Asset Holding, and CEO of DRW Trading Group](https://preview.redd.it/tm8xtihqcw671.png?width=498&format=png&auto=webp&s=339061d3d6989e09f522808e0865cc7dd5f7dd16)
+![Don Wilson, Co-founder of Digital Asset Holding, and CEO of DRW Trading Group](https://preview.redd.it/tm8xtihqcw671.png?width=498&format=png&auto=webp&s=339061d3d6989e09f522808e0865cc7dd5f7dd16)
 
 This dude, Don Wilson, co-founded Digital Asset Holdings... and he's CEO of DRW Trading Group. Okay, so Yuval Rooz worked for him, then went on to start a company with him, as CEO of that company? These guys sure love helping each other out with their business ventures. I wish I had friends like that.
 
@@ -40,7 +41,7 @@ Okay, he got away but we all know he's a crook. Going back further, Don made hug
 
 &#x200B;
 
-[Rahm Emanuel, former mayor of Chicago 2011-2019, and former US Congressman 2003-2009](https://preview.redd.it/1dg5mjstow671.png?width=477&format=png&auto=webp&s=dcfa9cadbcb1e2d7df96f074953ded47c5f6e682)
+![Rahm Emanuel, former mayor of Chicago 2011-2019, and former US Congressman 2003-2009](https://preview.redd.it/1dg5mjstow671.png?width=477&format=png&auto=webp&s=dcfa9cadbcb1e2d7df96f074953ded47c5f6e682)
 
 &#x200B;
 
@@ -62,7 +63,7 @@ Okay, he got away but we all know he's a crook. Going back further, Don made hug
 >  
 >DRW Trading Group was also investigated by the CFTC for using high-speed trades to manipulate a reference rate that was used to calculate the value of a bet $350 million bet made by DRW. The investigation is on-going.  
 >  
->(![https://hedgeclippers.org/rahm-emanuel/#\_ftn2](https://hedgeclippers.org/rahm-emanuel/#_ftn2))
+>([https://hedgeclippers.org/rahm-emanuel/#\_ftn2](https://hedgeclippers.org/rahm-emanuel/#_ftn2))
 
 Looks like Kenny and Donny both like influencing politics, so they can keep getting richer.
 

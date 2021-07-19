@@ -1,5 +1,6 @@
-# Author: TblackUman
-# Post URL: [https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/](https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/)
+#Title: Analysis On Why The New Heads of SEC & CFPB is BULLISH for The MOASS
+#Author: TblackUman
+#Post URL: [https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/](https://www.reddit.com/r/GME/comments/lvkbic/analysis_on_why_the_new_heads_of_sec_cfpb_is/)
 
 
 I have posted this DD previously this weekend, but now with the two new heads, Rohit Chopra(CFPB), and Gary Gensler (SEC), I figure that this information may be more relevant. All the new Information will be at the end separated by '----'. I am typing this on desktop, no emojis here yet (insert rocket diamond hands ape frog ice-cream emojis here)
@@ -44,7 +45,7 @@ In case ape don't know how to read: people are red rectangles, companies/organiz
 
 (I will be updating this graphic over time as we make new discoveries)
 
-[Potential connections between people and firms](https://preview.redd.it/1o6fndkwchk61.png?width=2500&format=png&auto=webp&s=954e0fd470b9760692b80a6f396af83c4b3e12c7)
+![Potential connections between people and firms](https://preview.redd.it/1o6fndkwchk61.png?width=2500&format=png&auto=webp&s=954e0fd470b9760692b80a6f396af83c4b3e12c7)
 
 &#x200B;
 
@@ -52,7 +53,7 @@ Here is an oversimplified version of the above graphic that only shows connectio
 
 &#x200B;
 
-[Oversimplified connections between firms](https://preview.redd.it/q72e727wchk61.png?width=2500&format=png&auto=webp&s=c15a660badede6ced97fe1e3bc83a8af126d78e4)
+![Oversimplified connections between firms](https://preview.redd.it/q72e727wchk61.png?width=2500&format=png&auto=webp&s=c15a660badede6ced97fe1e3bc83a8af126d78e4)
 
 # Connection Descriptions
 
@@ -249,7 +250,7 @@ Now this doesn't really mean anything substantial, but it does mean that he is a
 
 **Gary Gensler:**
 
-This guy I am not entirely sure of but I have high hopes. While he used to be the CFO for the [Hillary Clinton 2016 presidential campaign](https://en.wikipedia.org/wiki/Hillary_Clinton_2016_presidential_campaign), (A campaign that Griffin/Citadel has allegedly donated to \![source needed\]). He still has limited connections with the rest of the graph.  In 2001 Gensler was a part of the staff that helped write the [Sarbanes Oxley Act](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). This act pushed higher regulation on corporate institutions. While Gensler could go both ways, either pushing regulation on retail, and or pushing more on institutions, I believe that Gensler will not jump in to prevent the MOASS. Afterwards, I'm quite sure the rules will change for both retail and institutions after this once in a lifetime event.
+This guy I am not entirely sure of but I have high hopes. While he used to be the CFO for the [Hillary Clinton 2016 presidential campaign](https://en.wikipedia.org/wiki/Hillary_Clinton_2016_presidential_campaign), (A campaign that Griffin/Citadel has allegedly donated to \[source needed\]). He still has limited connections with the rest of the graph.  In 2001 Gensler was a part of the staff that helped write the [Sarbanes Oxley Act](https://www.investopedia.com/terms/s/sarbanesoxleyact.asp). This act pushed higher regulation on corporate institutions. While Gensler could go both ways, either pushing regulation on retail, and or pushing more on institutions, I believe that Gensler will not jump in to prevent the MOASS. Afterwards, I'm quite sure the rules will change for both retail and institutions after this once in a lifetime event.
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: tunafun
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvysss/ryan_cohen_presentation_at_sh_meeting/](https://www.reddit.com/r/Superstonk/comments/nvysss/ryan_cohen_presentation_at_sh_meeting/)
+#Title: Ryan Cohen presentation at SH meeting
+#Author: tunafun
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvysss/ryan_cohen_presentation_at_sh_meeting/](https://www.reddit.com/r/Superstonk/comments/nvysss/ryan_cohen_presentation_at_sh_meeting/)
 
 
 ...we've ushered in a whole new era at Gamestop.

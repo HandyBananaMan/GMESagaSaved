@@ -1,5 +1,6 @@
-# Author: SuperstonkBot
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/)
+#Title: Citadel office activity, from the ground
+#Author: SuperstonkBot
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/](https://www.reddit.com/r/Superstonk/comments/o7uf1q/citadel_office_activity_from_the_ground/)
 
 
 *Note: Mods, this would be a Data flair, please and thank you for all you do*.
@@ -17,5 +18,5 @@ Now, this is a huge building that's probably full of many businesses, but you sh
 ---
 
 ***This is not financial advice!***  
-*This post was **anonymously** submitted via **![www.superstonk.net](https://www.superstonk.net/)** and reviewed by our team.
+*This post was **anonymously** submitted via **[www.superstonk.net](https://www.superstonk.net/)** and reviewed by our team.
 Submitted posts are unedited and published as long as they follow r/Superstonk rules.*

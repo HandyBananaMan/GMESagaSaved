@@ -1,5 +1,6 @@
-# Author: _flaridaMarlin
-# Post URL: [https://www.reddit.com/r/GME/comments/m52f9m/look_at_the_amount_of_time_dfv_waited_for_his/](https://www.reddit.com/r/GME/comments/m52f9m/look_at_the_amount_of_time_dfv_waited_for_his/)
+#Title: Look at the amount of time DFV waited for his Billions. You can wait past the 19th for you measly millions.
+#Author: _flaridaMarlin
+#Post URL: [https://www.reddit.com/r/GME/comments/m52f9m/look_at_the_amount_of_time_dfv_waited_for_his/](https://www.reddit.com/r/GME/comments/m52f9m/look_at_the_amount_of_time_dfv_waited_for_his/)
 
 
 DFV was bullish on GME way longer than you new cucks have thought about paper handing your shares. Sack the fuck up.  Not financial advise, not a cat.

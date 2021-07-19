@@ -1,5 +1,6 @@
-# Author: negative9er
-# Post URL: [https://www.reddit.com/r/GME/comments/n7z9ld/vote_immediately_do_not_put_it_off_if_you_do_not/](https://www.reddit.com/r/GME/comments/n7z9ld/vote_immediately_do_not_put_it_off_if_you_do_not/)
+#Title: VOTE IMMEDIATELY! DO NOT PUT IT OFF! If you do not vote, it is possible for a broker to vote your shares at their discretion if they want!
+#Author: negative9er
+#Post URL: [https://www.reddit.com/r/GME/comments/n7z9ld/vote_immediately_do_not_put_it_off_if_you_do_not/](https://www.reddit.com/r/GME/comments/n7z9ld/vote_immediately_do_not_put_it_off_if_you_do_not/)
 
 
 Apes, get your votes in as soon as possible before May 25th.  Been waiting for my control number to arrive in the mail for nearly two weeks and it finally showed up today!  Being of the way of the autist, I read every damn thing including the **fine** **print**.

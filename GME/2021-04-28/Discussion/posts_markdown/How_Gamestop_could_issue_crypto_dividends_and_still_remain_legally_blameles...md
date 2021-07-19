@@ -1,5 +1,6 @@
-# Author: Sioned-Song
-# Post URL: [https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/](https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/)
+#Title: How Gamestop could issue crypto dividends and still remain legally blameless for the squeeze...
+#Author: Sioned-Song
+#Post URL: [https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/](https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/)
 
 
 Everyone has already discussed how Overstock issued a crypto dividend to shareholders to force short sellers to close. Shorters couldn't pay that dividend because they couldn't obtain the exclusive crypto. BUT Overstock has been stuck in litigation over that move for years, and with a recent appeal they're still not done with the lawsuits from short sellers.

@@ -1,5 +1,6 @@
-# Author: Firetorpedos
-# Post URL: [https://www.reddit.com/r/GME/comments/mcqr1d/data_almost_no_swedish_holders_are_selling_their/](https://www.reddit.com/r/GME/comments/mcqr1d/data_almost_no_swedish_holders_are_selling_their/)
+#Title: Data: almost no Swedish holders are selling their GME.
+#Author: Firetorpedos
+#Post URL: [https://www.reddit.com/r/GME/comments/mcqr1d/data_almost_no_swedish_holders_are_selling_their/](https://www.reddit.com/r/GME/comments/mcqr1d/data_almost_no_swedish_holders_are_selling_their/)
 
 
 At my exchange (Avanza, largest in Sweden beyond comparison), yesterday 21700 had one or more GME on account. Today, 21500 have one or more GME on acc. Shows two things:

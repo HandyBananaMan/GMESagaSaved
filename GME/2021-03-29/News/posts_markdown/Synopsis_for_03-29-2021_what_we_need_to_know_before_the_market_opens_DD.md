@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mflqsk/synopsis_for_03292021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mflqsk/synopsis_for_03292021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-29-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mflqsk/synopsis_for_03292021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mflqsk/synopsis_for_03292021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -101,7 +102,7 @@ even going as far as to say (and I quote)
 
 &#x200B;
 
-[and he took it financially](https://preview.redd.it/uo3bi7usnxp61.jpg?width=640&format=pjpg&auto=webp&s=e97865ffba1b8c3aae984915bf6c5d0aac2e310f)
+![and he took it financially](https://preview.redd.it/uo3bi7usnxp61.jpg?width=640&format=pjpg&auto=webp&s=e97865ffba1b8c3aae984915bf6c5d0aac2e310f)
 
 # Increase in "endgame DD"
 
@@ -256,6 +257,6 @@ Edit 2:
 
 https://preview.redd.it/m2iunx11syp61.png?width=1366&format=png&auto=webp&s=c5ddc0ea598ec6e37f9ed99f471d563823063b2b
 
-![https://www.reddit.com/r/GME/comments/mfotmr/xpost\_from\_wsb\_possible\_gme\_catalyst\_incoming/](https://www.reddit.com/r/GME/comments/mfotmr/xpost_from_wsb_possible_gme_catalyst_incoming/)
+[https://www.reddit.com/r/GME/comments/mfotmr/xpost\_from\_wsb\_possible\_gme\_catalyst\_incoming/](https://www.reddit.com/r/GME/comments/mfotmr/xpost_from_wsb_possible_gme_catalyst_incoming/)
 
 &#x200B;

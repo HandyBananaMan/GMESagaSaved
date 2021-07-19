@@ -1,5 +1,6 @@
-# Author: therileyfactor7
-# Post URL: [https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/)
+#Title: Hiding FTDs in Dark Pool Calls
+#Author: therileyfactor7
+#Post URL: [https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/](https://www.reddit.com/r/GME/comments/m7n0rm/hiding_ftds_in_dark_pool_calls/)
 
 
 Edit 1: the DD linked was produced by Gafgarian and Johnny Dankseed together, didn’t realize that and want to give credit where credit is due!
@@ -21,7 +22,7 @@ Short position holders (I’m talking about you Citadel employees, tell Kenny G 
 So with that in mind, let’s start looking at some charts and graphs and pictures and shit since I already know most of you apes are gonna scroll right past all of these letters and go straight to the pictures.
 
   
-[$GME Chart 3/8-16](https://preview.redd.it/jwridmp87rn61.png?width=1385&format=png&auto=webp&s=3918ae691dcd5a1e61a547c38df62491166ad2f4) 
+![$GME Chart 3/8-16](https://preview.redd.it/jwridmp87rn61.png?width=1385&format=png&auto=webp&s=3918ae691dcd5a1e61a547c38df62491166ad2f4) 
 
 https://preview.redd.it/sgb846b8mtn61.png?width=1385&format=png&auto=webp&s=4773adaec5f64dec019d6e87a68d946e9ebbf3a0
 

@@ -1,5 +1,6 @@
-# Author: Yukonnor
-# Post URL: [https://www.reddit.com/r/GME/comments/mqelbd/remember_it_costs_us_0_to_hold_it_costs_them/](https://www.reddit.com/r/GME/comments/mqelbd/remember_it_costs_us_0_to_hold_it_costs_them/)
+#Title: Remember: It Costs Us $0 to Hold. It Costs Them $Billions to Manipulate and Stretch This On.
+#Author: Yukonnor
+#Post URL: [https://www.reddit.com/r/GME/comments/mqelbd/remember_it_costs_us_0_to_hold_it_costs_them/](https://www.reddit.com/r/GME/comments/mqelbd/remember_it_costs_us_0_to_hold_it_costs_them/)
 
 
 Dark pool shit got ya down? I feel ya. There's been a vibe of powerlessness and angst floating around since the dark pool posts started to get popular. And rightfully so.

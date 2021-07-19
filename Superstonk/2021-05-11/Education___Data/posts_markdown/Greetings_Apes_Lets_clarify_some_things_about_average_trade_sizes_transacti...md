@@ -1,5 +1,6 @@
-# Author: MarketMicrostructure
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/](https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/)
+#Title: Greetings, Apes. Let's clarify some things about average trade sizes, transactions reporting, and the FINRA ADF.
+#Author: MarketMicrostructure
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/](https://www.reddit.com/r/Superstonk/comments/na5drq/greetings_apes_lets_clarify_some_things_about/)
 
 
 Hello Apes,
@@ -46,11 +47,11 @@ During the trading day, all non-exchange transactions for reg nms stocks are rep
 
 Below is a sample of some GME trades from NYSE TAQ data, which is historical data from the SIP feeds. From [the spec,](https://www.nyse.com/publicdocs/nyse/data/Daily_TAQ_Client_Spec_v3.0a.pdf) you can see Exchange Code "D" corresponds to the FINRA ADF. When the Exchange Code is "D" the TRF column is populated with one of the three specific [TRF facilities](https://www.finra.org/filing-reporting/trade-reporting-facility-trf).
 
-[Snapshot of SIP data with FINRA ADF exchange and a TRF code](https://preview.redd.it/s5o4zdhdbjy61.png?width=799&format=png&auto=webp&s=138cca33b04e50133c239f9ba6634a2a7a627bc2)
+![Snapshot of SIP data with FINRA ADF exchange and a TRF code](https://preview.redd.it/s5o4zdhdbjy61.png?width=799&format=png&auto=webp&s=138cca33b04e50133c239f9ba6634a2a7a627bc2)
 
 In general, the workflow goes like this: one or more FINRA members conduct a transaction; based on the details of the transaction, the member responsible for reporting sends it to the TRF facility with whom they have a relationship; the TRF facility reports it to the SIPs.
 
-A month later you are able to see more specific venue breakdowns for where the volume actually occurred. The ![FINRA OTC Transparency](https://otctransparency.finra.org/otctransparency) website lets you get all that data by week. "ATS Issue Data" is for registered dark pools; "OTC (Non-ATS) Issue Data" is for internalizers.
+A month later you are able to see more specific venue breakdowns for where the volume actually occurred. The [FINRA OTC Transparency](https://otctransparency.finra.org/otctransparency) website lets you get all that data by week. "ATS Issue Data" is for registered dark pools; "OTC (Non-ATS) Issue Data" is for internalizers.
 
 # Small average trade sizes don't necessarily imply manipulative behavior
 

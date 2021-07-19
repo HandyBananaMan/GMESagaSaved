@@ -1,5 +1,6 @@
-# Author: crotalu5
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu254l/the_media_are_attempting_reverse_psychology/](https://www.reddit.com/r/Superstonk/comments/nu254l/the_media_are_attempting_reverse_psychology/)
+#Title: The media are attempting reverse psychology.
+#Author: crotalu5
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu254l/the_media_are_attempting_reverse_psychology/](https://www.reddit.com/r/Superstonk/comments/nu254l/the_media_are_attempting_reverse_psychology/)
 
 
 So before the weekend CNBC aired naked shorts. Whilst they could have cut to another camera or ads etc or just left the camera on the dude they went to a long shot of this woman with a memeable face. And it was memed. 

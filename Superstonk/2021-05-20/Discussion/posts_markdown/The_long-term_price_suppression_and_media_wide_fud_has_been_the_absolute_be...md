@@ -1,5 +1,6 @@
-# Author: Stonkinator3000
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2ih9/the_longterm_price_suppression_and_media_wide_fud/](https://www.reddit.com/r/Superstonk/comments/nh2ih9/the_longterm_price_suppression_and_media_wide_fud/)
+#Title: The long-term price suppression and media wide fud has been the absolute best thing for the apes. Would you rather have a bunch of paper handed bitch normies accumulating shares over the last four months or diamond handed ape warriors accumulating shares over the last four months?
+#Author: Stonkinator3000
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2ih9/the_longterm_price_suppression_and_media_wide_fud/](https://www.reddit.com/r/Superstonk/comments/nh2ih9/the_longterm_price_suppression_and_media_wide_fud/)
 
 
 It hasn’t felt like the best thing because your frustration and your sense of injustice were both strongly activated, and those are two of the most painful psychological states to bear.

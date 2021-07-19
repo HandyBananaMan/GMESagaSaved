@@ -1,5 +1,6 @@
-# Author: BeebsGaming
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/)
+#Title: $AMC and $GME: Why Share Price Doesn't Matter Right Now. The Only Thing That Matters are the Regulations Coming Into Effect and Why They Lead Us to A Specific Date That the Squeezes Could be Initiated. $AMC $GME
+#Author: BeebsGaming
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/)
 
 
 Repost with numerous revisions from the more wrinkle brained of our bretheren. Thank you commentors on my post in r/DDintoGME who helped me edit this post.
@@ -124,7 +125,7 @@ I know we hate dates, I do too. If these dates come and go, don't fret. Just buy
 
 **The minimum deposit amount hasn't changed, ever. I find it extremely telling and blatantly obvious that this is being done now to prepare for what is ahead. Between the massive shorting of 2020, and the banks that have been in a lot of trouble recently, the NSCC is preparing for the worst.**
 
-**Edit #6: Confirmation Bias Confirmed!!!!!! I have never been this excited. It looks like my theory here is coming true. See post below. According to OP, with email chains backing, the DTC will release DTC-2021-005 soon, as it has been reviewed by the DTC. It will be EFFECTIVE IMMEDIATELY UPON FILING TO FEDERAL REGISTER. I think my tin-foil hat time might come true. post link:** ![**https://www.reddit.com/r/Superstonk/comments/ngwhzu/where\_is\_srdtc2021005\_the\_update/**](https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/)
+**Edit #6: Confirmation Bias Confirmed!!!!!! I have never been this excited. It looks like my theory here is coming true. See post below. According to OP, with email chains backing, the DTC will release DTC-2021-005 soon, as it has been reviewed by the DTC. It will be EFFECTIVE IMMEDIATELY UPON FILING TO FEDERAL REGISTER. I think my tin-foil hat time might come true. post link:** [**https://www.reddit.com/r/Superstonk/comments/ngwhzu/where\_is\_srdtc2021005\_the\_update/**](https://www.reddit.com/r/Superstonk/comments/ngwhzu/where_is_srdtc2021005_the_update/)
 
 **If the Thursday closed door stays on this week, I would expect we see this ruling filed Friday. Just a guess, but it aligns with my theory.**
 

@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/)
+#Title: Major Deep ITM CALL Option Dates. A Massive Net Capital BOMB Might Explode This Week.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/)
 
 
 # 0. Update
@@ -236,7 +237,7 @@ Let's finally apply this logic to our wonderful, beautiful, April 16th date whic
 * Perhaps this is what /u/Suspicious-Singer243 was observing in [The March To Zero Liquidity](https://www.reddit.com/r/Superstonk/comments/n3ehw0/the_march_to_zero_liquidity_volume_or_bust/). The Market Makers are about to have a net capital bomb go off. They NEED to eliminate their debt by wiping out their FTDs that have appeared once again in order to become net neutral. They were able to swipe the FTDs under the rug on January 13, the January run-up, March run-up, and a few times here and there since then. But if 005 is enacted before the next pop then **they have to deal with this massive 143,000 order from April 16 without delaying it any longer. RUH-ROH RAGGY.**
 * Of course while I'm writing this, I see that May the Fourth could indeed end up being the Golden Ticket day per /u/Door_Public. It's very likely that 002/801 go into effect tomorrow. **I've been thinking we'll see 002/801 as well as 005 enacted and within 24 hours a price spike would occur. If I see these rules go into effect tomorrow, I will NOT be able to sleep.** [May the 4th Be With You](https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/)
 * [Bank netting accounts coming into effect by May 5](https://www.reddit.com/r/Superstonk/comments/mur8bz/srdtc2021004_the_dtcc_and_jp_morgan_theyre/)
-* ![US Treasury Issuing 0% Bonds on May 4 and Maturing June 1](https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/)
+* [US Treasury Issuing 0% Bonds on May 4 and Maturing June 1](https://www.reddit.com/r/Superstonk/comments/n1hus8/the_poster_discrediting_the_0_40_billion_dollar_4/)
 
 \------
 

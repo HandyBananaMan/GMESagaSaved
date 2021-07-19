@@ -1,10 +1,11 @@
-# Author: humanslime
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/](https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/)
+#Title: Who Participated In The June 30th $991 Billion Fed Reverse Repo Operation?
+#Author: humanslime
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/](https://www.reddit.com/r/Superstonk/comments/ogj5tm/who_participated_in_the_june_30th_991_billion_fed/)
 
 
 In this thread I provide a breakdown of the 90 participants in the June 30th $991.9 billion reverse repo (RRP) operation. It was mostly Money Market Funds (MMFs).
 
-Table link here: [https://i.imgur.com/fPsUCH9.png](https://i.imgur.com/fPsUCH9.png)
+Table link here: ![https://i.imgur.com/fPsUCH9.png](https://i.imgur.com/fPsUCH9.png)
 
 Out of the 90 counterparties, 77 MMF counterparties participated to the tune of $855 billion(86%). So who were the other 13 non-MMF participants? Most likely Government-Sponsored Enterprises like Fannie Mae and Freddie Mac, and possibly other participants on the following list who used the remaining $136 billion(14%). (or some MMFs haven’t filed their MFP2 form yet or I missed it)
 
@@ -34,7 +35,7 @@ For MMFs, you can find the data by reading N-MFP2 forms (MMF portfolio holdings)
 
 # Interesting Links on RRP
 
-You can see a historical breakdown of RRP usage by MMFs here: ![https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/) (use the drill-down feature to see more granularity)
+You can see a historical breakdown of RRP usage by MMFs here: [https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/) (use the drill-down feature to see more granularity)
 
 FOMC meeting minutes from last June, some discussion of RRP there: [https://www.federalreserve.gov/monetarypolicy/fomcminutes20210616.htm](https://www.federalreserve.gov/monetarypolicy/fomcminutes20210616.htm)
 
@@ -58,7 +59,7 @@ At the bottom of this page: [https://apps.newyorkfed.org/markets/autorates/tomo-
 
 This dispatch from Zoltan Pozsar shows how large RRP usage can potentially grow by August 31st by exploring the capacity of the MMFs: [https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7r6S02AN-VHSK](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7r6S02AN-VHSK) “Thus, we’re looking at $1.3 trillion of flows from bills into RRPs by the end of August!”
 
-May 28th 479B RRP breakdown: [https://i.imgur.com/nKK9lr2.png](https://i.imgur.com/nKK9lr2.png)
+May 28th 479B RRP breakdown: ![https://i.imgur.com/nKK9lr2.png](https://i.imgur.com/nKK9lr2.png)
 
 [https://fedguy.com/whos-still-borrowing/](https://fedguy.com/whos-still-borrowing/)
 
@@ -66,7 +67,7 @@ May 28th 479B RRP breakdown: [https://i.imgur.com/nKK9lr2.png](https://i.imgur.c
 
 # Disclaimer
 
-It's possible I made an error in pulling some data or missed some N-MFP2 forms. Within the next two weeks, OFR will update their data here which will be more accurate if any discrepancies arise: ![https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/)
+It's possible I made an error in pulling some data or missed some N-MFP2 forms. Within the next two weeks, OFR will update their data here which will be more accurate if any discrepancies arise: [https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/](https://www.financialresearch.gov/money-market-funds/us-mmfs-repos-with-the-federal-reserve/)
 
 If I got something wrong, please point it out.
 

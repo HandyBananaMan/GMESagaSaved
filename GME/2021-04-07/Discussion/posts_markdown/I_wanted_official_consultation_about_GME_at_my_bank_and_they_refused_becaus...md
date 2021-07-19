@@ -1,5 +1,6 @@
-# Author: herrschoftszeitn
-# Post URL: [https://www.reddit.com/r/GME/comments/mlw1pe/i_wanted_official_consultation_about_gme_at_my/](https://www.reddit.com/r/GME/comments/mlw1pe/i_wanted_official_consultation_about_gme_at_my/)
+#Title: I wanted official consultation about GME at my bank and they refused because „GME is irrelevant“
+#Author: herrschoftszeitn
+#Post URL: [https://www.reddit.com/r/GME/comments/mlw1pe/i_wanted_official_consultation_about_gme_at_my/](https://www.reddit.com/r/GME/comments/mlw1pe/i_wanted_official_consultation_about_gme_at_my/)
 
 
 Short story-time for amusement reasons only:

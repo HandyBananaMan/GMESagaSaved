@@ -1,5 +1,6 @@
-# Author: AnkridStone
-# Post URL: [https://www.reddit.com/r/GME/comments/mojg6t/melvin_capital_have_issued_a_warning_about_the/](https://www.reddit.com/r/GME/comments/mojg6t/melvin_capital_have_issued_a_warning_about_the/)
+#Title: Melvin Capital Have Issued a Warning About the Dangers of a Short Squeeze Too!
+#Author: AnkridStone
+#Post URL: [https://www.reddit.com/r/GME/comments/mojg6t/melvin_capital_have_issued_a_warning_about_the/](https://www.reddit.com/r/GME/comments/mojg6t/melvin_capital_have_issued_a_warning_about_the/)
 
 
 Okay, so I got pulled down a rabbit hole because the news says that Melvin Capital has a year to date loss of 49% but SEC filings shows they had over $20 billion in assets at the end of 2020 while the MSM reported that they only had $12.5 billion at the beginning of the year.

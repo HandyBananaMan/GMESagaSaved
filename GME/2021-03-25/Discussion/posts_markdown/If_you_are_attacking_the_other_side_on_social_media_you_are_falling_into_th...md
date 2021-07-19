@@ -1,5 +1,6 @@
-# Author: xaiel420
-# Post URL: [https://www.reddit.com/r/GME/comments/md8myl/if_you_are_attacking_the_other_side_on_social/](https://www.reddit.com/r/GME/comments/md8myl/if_you_are_attacking_the_other_side_on_social/)
+#Title: If you are attacking the other side on social media, you are falling into their trap.
+#Author: xaiel420
+#Post URL: [https://www.reddit.com/r/GME/comments/md8myl/if_you_are_attacking_the_other_side_on_social/](https://www.reddit.com/r/GME/comments/md8myl/if_you_are_attacking_the_other_side_on_social/)
 
 
 Pretty weak on you if you ask me.

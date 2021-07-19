@@ -1,5 +1,6 @@
-# Author: Heyohmydoohd
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mn8gxe/the_nscc_concerned_with_liquidation_issues/](https://www.reddit.com/r/Superstonk/comments/mn8gxe/the_nscc_concerned_with_liquidation_issues/)
+#Title: 🚀🚀🚀 The NSCC concerned with liquidation issues regarding member defaults on a specific timeline? This needs more visibility and smarter people than I to look at. 🚀🚀🚀
+#Author: Heyohmydoohd
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mn8gxe/the_nscc_concerned_with_liquidation_issues/](https://www.reddit.com/r/Superstonk/comments/mn8gxe/the_nscc_concerned_with_liquidation_issues/)
 
 
 Disclaimer: I have seen evidence that this excerpt and filing could be unrelated the to the GME scenario, but seeing as the timing and the desperation in this segment is just too uncanny for me, here's my two cents. Links to both the original post and comments regarding the relations of this filing and GME will be edited into the bottom of the post. I'm marking this post as discussion as I don't think it fits into DD yet without verification. See edit 3. 
@@ -10,7 +11,7 @@ Edit 1: [The original post calling for smarter apes to look into this and the su
 
 Edit 2: [One of the buried posts dumbing down the new edits.](https://reddit.com/r/Superstonk/comments/mmzusi/new_dtcc_filing_for_nscc2021802/)
 
-Edit 3: ![A direct link](https://reddit.com/r/Superstonk/comments/mn01iu/_/gtvozz1/?context=1) to u/the_captain_slog's take and my reasoning for the disclaimer. 
+Edit 3: [A direct link](https://reddit.com/r/Superstonk/comments/mn01iu/_/gtvozz1/?context=1) to u/the_captain_slog's take and my reasoning for the disclaimer. 
 
 Edit 4: u/atobitt did reply in the original post that he'd look into this. Very spicy 🚀🚀🚀
 u/rensole just in case. 

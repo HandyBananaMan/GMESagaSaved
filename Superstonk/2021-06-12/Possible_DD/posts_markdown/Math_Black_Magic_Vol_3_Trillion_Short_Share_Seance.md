@@ -1,5 +1,6 @@
-# Author: nydus_erdos
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/](https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/)
+#Title: Math Black Magic Vol. 3: Trillion Short Share Seance
+#Author: nydus_erdos
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/](https://www.reddit.com/r/Superstonk/comments/nya5ps/math_black_magic_vol_3_trillion_short_share_seance/)
 
 
 ^(DISCLAIMER: Third part of my first DD. Not financial advice. All credit to the authors of referenced works.)
@@ -42,7 +43,7 @@ So far we an equations that relate *P(t) to Q*
 
 &#x200B;
 
-[Demand Curves](https://preview.redd.it/sbv13sumfu471.png?width=648&format=png&auto=webp&s=63e2d69f476bb6add74ff9a5081c3e681283356f)
+![Demand Curves](https://preview.redd.it/sbv13sumfu471.png?width=648&format=png&auto=webp&s=63e2d69f476bb6add74ff9a5081c3e681283356f)
 
 &#x200B;
 
@@ -50,7 +51,7 @@ And equations that relate *P(t)* to *t*
 
 &#x200B;
 
-[Thanks to Exponential Floor Guy](https://preview.redd.it/j2vdkh7cgu471.png?width=521&format=png&auto=webp&s=f27f8d220bb288937c388e6d32e89f861d82401b)
+![Thanks to Exponential Floor Guy](https://preview.redd.it/j2vdkh7cgu471.png?width=521&format=png&auto=webp&s=f27f8d220bb288937c388e6d32e89f861d82401b)
 
 &#x200B;
 
@@ -72,7 +73,7 @@ The hedgies' curves are the second equation in each list. First, I tried setting
 
 &#x200B;
 
-[No new information here](https://preview.redd.it/8xr7dbtuiu471.png?width=1289&format=png&auto=webp&s=7ae5032792440214363242a29e88f9d59d687833)
+![No new information here](https://preview.redd.it/8xr7dbtuiu471.png?width=1289&format=png&auto=webp&s=7ae5032792440214363242a29e88f9d59d687833)
 
 &#x200B;
 
@@ -80,7 +81,7 @@ But, this doesn't really help me cause of I don't know *B*, so ~~I tried a littl
 
 &#x200B;
 
-[Yu Mo Gui Gwai Fai Di Zao, Yu Mo Gui Gwai Fai Di Zao, Yu Mo Gui Gwai Fai Di Zao...](https://preview.redd.it/76u4fk2aku471.png?width=1048&format=png&auto=webp&s=207ca8ca3213db1948f54ce3883639064350a637)
+![Yu Mo Gui Gwai Fai Di Zao, Yu Mo Gui Gwai Fai Di Zao, Yu Mo Gui Gwai Fai Di Zao...](https://preview.redd.it/76u4fk2aku471.png?width=1048&format=png&auto=webp&s=207ca8ca3213db1948f54ce3883639064350a637)
 
 EDIT: I made a mistake in notation, the derivative of the linear equation should be taken with respect to Q (d/dQ). This will not change the answer as P(t) = D(Q)
 
@@ -92,7 +93,7 @@ Now that we've completed the ritual and the dark gods have gifted us an equation
 
 https://preview.redd.it/co6mjaatlu471.png?width=952&format=png&auto=webp&s=1ef2e94f1ab30e25e3c5e1366ee1033573f589d2
 
-[1.4 TRILLION SHARES](https://preview.redd.it/kiy1tob5nu471.png?width=974&format=png&auto=webp&s=fe08f2b2eebc2644acc7fd9d3868624224bdb58b)
+![1.4 TRILLION SHARES](https://preview.redd.it/kiy1tob5nu471.png?width=974&format=png&auto=webp&s=fe08f2b2eebc2644acc7fd9d3868624224bdb58b)
 
 &#x200B;
 
@@ -106,7 +107,7 @@ https://preview.redd.it/b5bnuvhcou471.png?width=852&format=png&auto=webp&s=12a2a
 
 https://preview.redd.it/1sqnpp1gou471.png?width=934&format=png&auto=webp&s=f4d7b7039e64470915de0b656377fc3055f4a75d
 
-[116 BILLION SHARES](https://preview.redd.it/9wyb54dmou471.png?width=973&format=png&auto=webp&s=8c8b8016ce118d76979b89215db3a0ebb8fafe66)
+![116 BILLION SHARES](https://preview.redd.it/9wyb54dmou471.png?width=973&format=png&auto=webp&s=8c8b8016ce118d76979b89215db3a0ebb8fafe66)
 
 \--------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -122,7 +123,7 @@ I will now perform part two of the math séance, by repeating the process above 
 
 https://preview.redd.it/ukba2075pu471.png?width=1007&format=png&auto=webp&s=d0f81c578fb481cab287a3fb4846cf9326f6062c
 
-[I Implore the Spirit of Isaac Newton, Aid Me In My Dark Deed...](https://preview.redd.it/fitnd4a8pu471.png?width=1036&format=png&auto=webp&s=47b616777fedf483dc2004b9108e6457b32e1cfc)
+![I Implore the Spirit of Isaac Newton, Aid Me In My Dark Deed...](https://preview.redd.it/fitnd4a8pu471.png?width=1036&format=png&auto=webp&s=47b616777fedf483dc2004b9108e6457b32e1cfc)
 
 &#x200B;
 

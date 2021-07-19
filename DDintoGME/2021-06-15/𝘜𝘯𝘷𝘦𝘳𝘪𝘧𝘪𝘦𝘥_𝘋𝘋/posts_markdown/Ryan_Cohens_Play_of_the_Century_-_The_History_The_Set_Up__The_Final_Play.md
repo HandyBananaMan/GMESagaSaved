@@ -1,5 +1,6 @@
-# Author: Topster420
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/)
+#Title: Ryan Cohen’s Play of the Century - The History, The Set Up, & The Final Play
+#Author: Topster420
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/](https://www.reddit.com/r/DDintoGME/comments/o0u87i/ryan_cohens_play_of_the_century_the_history_the/)
 
 
 &#x200B;
@@ -99,4 +100,4 @@ Poletti, T. (2019) *Opinion: Overstock founder tried to squeeze short sellers, t
 
 Palmer, D. (2020) *Overstock Hands Shareholders Digital Dividend.* Available from: [https://www.coindesk.com/after-lawsuits-and-delays-overstock-hands-shareholders-digital-dividend](https://www.coindesk.com/after-lawsuits-and-delays-overstock-hands-shareholders-digital-dividend)
 
-Quast, J. (2020) *Why Overstock continued its 500% Climb with Another 15% Gain on Wednesday.* Available from:  ![https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx](https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx)
+Quast, J. (2020) *Why Overstock continued its 500% Climb with Another 15% Gain on Wednesday.* Available from:  [https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx](https://www.fool.com/investing/2020/05/06/why-overstock-continued-its-500-climb-with-another.aspx)

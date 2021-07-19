@@ -1,5 +1,6 @@
-# Author: ajquick
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/](https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/)
+#Title: Using Fails to Deliver to Estimate Future $GME Share Prices
+#Author: ajquick
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/](https://www.reddit.com/r/Superstonk/comments/o1p904/using_fails_to_deliver_to_estimate_future_gme/)
 
 
 ## This method did not work. It is (obviously) more complicated than this basic computation. The SHFs are doing a LOT to surprise the price right now.
@@ -39,7 +40,7 @@ General guidelines:
 
 Here is an estimate of where I think the price could go over the next few weeks. This is based **SOLELY ON THE FTD DATA**. There are no other catalysts factored in such as good news, alien invasion, reverse repos, zodiac signs or jacked tits. There is no real price target, *just up*. Maybe it will be somewhere in the yellow band. **I don't know.**
 
-[\\"Look at this graph. Every time I do, it makes me laugh.\\"](https://preview.redd.it/qew0oosgsr571.jpg?width=1100&format=pjpg&auto=webp&s=9a6826808b478ec47fa43af1248dc09e13a1b83b)
+![\\"Look at this graph. Every time I do, it makes me laugh.\\"](https://preview.redd.it/qew0oosgsr571.jpg?width=1100&format=pjpg&auto=webp&s=9a6826808b478ec47fa43af1248dc09e13a1b83b)
 
 For these calculations I used an estimated daily volume of 12 million for the days June 17 - July 2. I used the FTD data we have, and based the estimated impact on the price based on the previous data. Some days with really low FTD numbers have negative impacts. This makes sense because previous low FTD days had seen price drops. The big days coming up will be **NO DATES** (just like me IRL).
 

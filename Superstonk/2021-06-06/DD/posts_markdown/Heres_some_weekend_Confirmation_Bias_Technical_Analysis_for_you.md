@@ -1,5 +1,6 @@
-# Author: respecthepump
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/](https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/)
+#Title: Here's some weekend Confirmation Bias Technical Analysis for you
+#Author: respecthepump
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/](https://www.reddit.com/r/Superstonk/comments/ntyde7/heres_some_weekend_confirmation_bias_technical/)
 
 
 What's going on fellow diamond-handed, tendie-hungry apes? I'm here to give you all some confirmation bias about where I think GME is headed based on some technical analysis. I'd like to remind you also that we just had a very good week and things are starting to get juicy as we're approaching levels we haven't seen since January and March. 
@@ -12,11 +13,11 @@ So let's begin!
 
 **I. The Bigger Picture** 
 
-[Here's a look at the daily GME chart since the beginning of 2021](https://preview.redd.it/8e31gzp7ig371.png?width=1777&format=png&auto=webp&s=52d03ce4f6fa8d44edb6f39536048330175d911b)
+![Here's a look at the daily GME chart since the beginning of 2021](https://preview.redd.it/8e31gzp7ig371.png?width=1777&format=png&auto=webp&s=52d03ce4f6fa8d44edb6f39536048330175d911b)
 
 As you can see here, where GME is currently at now, we are about at 50% of the intraday all-time high (ATH) of 483 back in January. The last two weeks including a back-to-back T+35 day and T+21 day have given us enough momentum to hover around the 250s with some pretty solid support around 245 although we went as high as 294 on 6/2. 
 
-[This is the same time frame, just with premarket \(PM\) and after-hours \(AH\) trading included in the graph. Each candle is 4 hours of trading as opposed to 1 day of trading in the previous chart](https://preview.redd.it/llizn0zwkg371.png?width=1776&format=png&auto=webp&s=1be4d06f1fb1c419e035794415c6e360b95af142)
+![This is the same time frame, just with premarket \(PM\) and after-hours \(AH\) trading included in the graph. Each candle is 4 hours of trading as opposed to 1 day of trading in the previous chart](https://preview.redd.it/llizn0zwkg371.png?width=1776&format=png&auto=webp&s=1be4d06f1fb1c419e035794415c6e360b95af142)
 
 Here we can see that GME's real ATH was at 513.12 in the premarket during the end of January. This chart is included so you get an idea of how our favorite stock has been trading during the year.
 
@@ -28,7 +29,7 @@ This is a theory we have developed a while ago that seems to have been proven tr
 
 Like I stated before, there are endless posts on this, much more in depth than this explanation, but basically we see a spike in share price every 21 trading days. This is known as T+21 as it includes the settlement period for a day (T) and the 21 days that follow before the next failure to deliver day (+21). Basically (some) of the shares that were borrowed and failed to be delivered in a certain period of time causes a price increase as MM/brokers have to buy shares on the open market, and therefor we see an increase in the stock price. 
 
-[Daily chart with highlighted FTD days in white](https://preview.redd.it/zdwoqyu1xj371.png?width=1789&format=png&auto=webp&s=4a0ad83663864f058700398866d87d9a17960d1f)
+![Daily chart with highlighted FTD days in white](https://preview.redd.it/zdwoqyu1xj371.png?width=1789&format=png&auto=webp&s=4a0ad83663864f058700398866d87d9a17960d1f)
 
 Many apes have pointed out that this week has been different than the others. As you can see, after the first two T+21 FTD cycles, we saw a big run-up in the stock price both times. On January 25th GME gapped up in the premarket and went as high as 160 before closing back around 75. The next few days a massive gamma squeeze began and the stock went as high as 483 during regular trading hours. Keep in mind that a week prior to that FTD day, GME was trading in a range between 30-45.
 
@@ -38,7 +39,7 @@ These two dates (January 25 & February 24) were big moves up and really solidifi
 
 Because of this, they did their best to keep the next FTD cycles under control. Let's take a look at the next two FTD days, March 25th, and April 26th and see how the stock traded after the run-ups. 
 
-[The white circles highlight the price action of the FTD days](https://preview.redd.it/5uvpibsmsp371.png?width=1762&format=png&auto=webp&s=2a460765da502765d89467de9bda5cddf5dd8a2d)
+![The white circles highlight the price action of the FTD days](https://preview.redd.it/5uvpibsmsp371.png?width=1762&format=png&auto=webp&s=2a460765da502765d89467de9bda5cddf5dd8a2d)
 
 Observe **Figure 1** with the white arrow on the left. This was the day GameStop released Q4 earnings for 2020 along with the wrap-up for the fiscal 2020 year. It was a completely normal call and nothing was incredibly noteworthy on the negative side. However, they did mention a huge increase in ecommerce sales and a shifted company focus to the transition to a mainly ecommerce brand. At this point, they had eliminated most of the debt on the balance sheets by paying off a note and things were looking very bullish for GameStop.
 
@@ -52,7 +53,7 @@ The shorts couldn't let this momentum continue, so for the next few weeks and un
 
 By the next FTD day 21 days later, GME steadily increases and closes the day up around 12%, not bad. However, the hedgies once again kill the upwards move and momentum by shorting our beloved stock more and more. **Figure 3** shows the familiar sustained selloff to keep the HFs further away from margin call territory. Things keep trending down and sideways as volume decreases significantly, but then the next FTD day comes, and boy is it a beauty. 
 
-[The circle highlights the most recent FTD day and the white lines \(I know, rare white crayon\) show that we're in an ascending channel](https://preview.redd.it/93dmbpshuk371.png?width=1783&format=png&auto=webp&s=9b77377dad23a7fcfe0731bb0348592d8dc8143d)
+![The circle highlights the most recent FTD day and the white lines \(I know, rare white crayon\) show that we're in an ascending channel](https://preview.redd.it/93dmbpshuk371.png?width=1783&format=png&auto=webp&s=9b77377dad23a7fcfe0731bb0348592d8dc8143d)
 
 This breakout is different than the others. We didn't see a big dip the day before like we saw before earnings on 3/23, or a steady selloff prior to the previous FTD day on 4/26. Instead, this time GME was steadily trending up since around 5/10. This is huge since the last few FTD days with double digit percent gains (52% and 12% respectively) have been followed by downtrends and dips to keep the price down and the odds of a sudden upwards reversal low. 
 

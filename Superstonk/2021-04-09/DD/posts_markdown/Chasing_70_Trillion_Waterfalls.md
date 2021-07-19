@@ -1,5 +1,6 @@
-# Author: nimrod8311
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/](https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/)
+#Title: Chasing $70 Trillion Waterfalls
+#Author: nimrod8311
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/](https://www.reddit.com/r/Superstonk/comments/mngzp0/chasing_70_trillion_waterfalls/)
 
 
 **\*This is not advice, financial or legal, just another fellow ape searching for answers.**
@@ -20,19 +21,19 @@ Well, this is *literally* the $70 trillion question: **Does DTCC REALLY have $70
 
 **a. DTCC**
 
-[https:\/\/www.investopedia.com\/terms\/d\/dtcc.asp](https://preview.redd.it/d8kzfh86t3s61.png?width=1232&format=png&auto=webp&s=7c3727e53e0d59416b32c5f4d7a167931bfc9795)
+![https:\/\/www.investopedia.com\/terms\/d\/dtcc.asp](https://preview.redd.it/d8kzfh86t3s61.png?width=1232&format=png&auto=webp&s=7c3727e53e0d59416b32c5f4d7a167931bfc9795)
 
 The vast majority of securities clearing and settlement and the custody of our shares is done by DTCC - in 2019 alone, it processed **$2.15** **quadrillion (Yes, QUADRILLION) in securities. Every day, DTCC processes more than $1 trillion in securities.** The ownership of DTCC is interesting: it is privately owned by the hundreds of banks, broker-dealers, who are participants and users of DTCC's services. This ingenious concept aligns the interests of DTCC with the interests of the main users of its services, who are key market participants. This is "Inception" level stuff: if the customer is the owner of the same shop, is the customer really a customer?
 
 Anyway, DTCC has several subsidiaries which perform different functions: with NSCC and DTC being the most relevant to this discussion.
 
-[https:\/\/corporatefinanceinstitute.com\/resources\/knowledge\/trading-investing\/depository-trust-and-clearing-corporation-dtcc\/](https://preview.redd.it/w5fq50gu64s61.png?width=1540&format=png&auto=webp&s=f635b82e4025dd8c85ba6b71fe466451fe530e4e)
+![https:\/\/corporatefinanceinstitute.com\/resources\/knowledge\/trading-investing\/depository-trust-and-clearing-corporation-dtcc\/](https://preview.redd.it/w5fq50gu64s61.png?width=1540&format=png&auto=webp&s=f635b82e4025dd8c85ba6b71fe466451fe530e4e)
 
 &#x200B;
 
 **b. NSCC**
 
-[https:\/\/www.investopedia.com\/terms\/n\/nscc.asp](https://preview.redd.it/0nf5ivnjx3s61.png?width=1262&format=png&auto=webp&s=e70ddff408cac29ac2118e55b33c0fde3441596b)
+![https:\/\/www.investopedia.com\/terms\/n\/nscc.asp](https://preview.redd.it/0nf5ivnjx3s61.png?width=1262&format=png&auto=webp&s=e70ddff408cac29ac2118e55b33c0fde3441596b)
 
 Essentially, what NSCC does is multilateral netting for the U.S. securities markets. It allows all participants in the market to deal with one central counter-party ("CCP"), thereby increasing transaction efficiency and certainty, and reducing risk between all market participants. This means that the settlement of our GME trades will go through our brokers, who may in turn deal with market makers, who are most likely in turn to deal with NSCC as the CCP.
 
@@ -40,7 +41,7 @@ Essentially, what NSCC does is multilateral netting for the U.S. securities mark
 
 **c. DTC**
 
-[https:\/\/www.investopedia.com\/terms\/d\/dtc.asp](https://preview.redd.it/29xu84xjy3s61.png?width=1268&format=png&auto=webp&s=b5c9b2820c8d37569d6a51c3fef8ba344d0050b1)
+![https:\/\/www.investopedia.com\/terms\/d\/dtc.asp](https://preview.redd.it/29xu84xjy3s61.png?width=1268&format=png&auto=webp&s=b5c9b2820c8d37569d6a51c3fef8ba344d0050b1)
 
 Did you know that in the past, your ownership of shares was evidenced by a paper share certificate? Obviously, trading paper shares with each other will severely hamper the transaction speed of publicly listed company shares, and with the advent of the internet, electronic share certificates could be held. To further increase the efficiency and speed of securities transactions, the central securities depository  is created to hold on to these shares. DTC is the central securities depository in the U.S., and when we buy and sell U.S. securities, DTC corresponding records the change in the owner of the share in its "book". According to the [DTC website](https://www.dtcc.com/about/businesses-and-subsidiaries/dtc), DTC retains "custody of more than 1.3 million active securities issues **valued at US$54.2 trillion** as of 7/31/2017".
 

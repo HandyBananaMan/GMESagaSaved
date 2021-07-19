@@ -1,5 +1,6 @@
-# Author: H3RB28
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/](https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/)
+#Title: GME Ownership Analysis 5/28- Hedgies R FuQ
+#Author: H3RB28
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/](https://www.reddit.com/r/Superstonk/comments/nneevk/gme_ownership_analysis_528_hedgies_r_fuq/)
 
 
 Hello fellow Apes,
@@ -14,11 +15,11 @@ Now before we get fully started on a simple ownership analysis.. I'm going to ta
 
 &#x200B;
 
-[Proportions and Cross Multiplication](https://preview.redd.it/mz00tbfuwy171.jpg?width=720&format=pjpg&auto=webp&s=8b5901da8109b43c71e29b3807a9a5637e8fb716)
+![Proportions and Cross Multiplication](https://preview.redd.it/mz00tbfuwy171.jpg?width=720&format=pjpg&auto=webp&s=8b5901da8109b43c71e29b3807a9a5637e8fb716)
 
 For making Ownership calculations we need a base to go off of. Mergent Online (once again information reported by the index that GME is a part of)  reports the ownership of GME at the following:
 
-[GME Ownership](https://preview.redd.it/6io407b6yy171.jpg?width=3634&format=pjpg&auto=webp&s=ea4aaabfb669429f115e1adb79cfdfbb65828caa)
+![GME Ownership](https://preview.redd.it/6io407b6yy171.jpg?width=3634&format=pjpg&auto=webp&s=ea4aaabfb669429f115e1adb79cfdfbb65828caa)
 
 Mergent Online has **GME Shares Outstanding as 69,936,000**. We need to keep in mind that this is a number reported **as of 1/30/2021**. Since then, GME has made a secondary offering of 3,500,000 shares. This gives us an **Issuer-Stated Total Shares Outstanding of 73,436,000 or 73.436 Million shares.**
 
@@ -26,7 +27,7 @@ Now that we know how many shares there are ***supposed*** to be, lets check out 
 
 &#x200B;
 
-[GME Insider Ownership](https://preview.redd.it/9haw4oug0z171.jpg?width=3622&format=pjpg&auto=webp&s=14a97865a44e6a912bf5246a906f1219fde92345)
+![GME Insider Ownership](https://preview.redd.it/9haw4oug0z171.jpg?width=3622&format=pjpg&auto=webp&s=14a97865a44e6a912bf5246a906f1219fde92345)
 
 We can see that the Insider Ownership is broken into two distinct categories: **Direct and Indirect Ownership**. Direct Ownership is when the shares are listed *directly* in your name, and not say.. in shelter company like **RC Ventures**. We will do two different calculations in order to display the situation correctly.
 
@@ -64,7 +65,7 @@ This new number would give us a **Free Float of 49,617,466 or 49 Million shares.
 
 &#x200B;
 
-[Hedgies R FuQ](https://preview.redd.it/z3kg7s9q5z171.jpg?width=3647&format=pjpg&auto=webp&s=dcd3b4b6e56200b41888ca0102fd80528de62b8e)
+![Hedgies R FuQ](https://preview.redd.it/z3kg7s9q5z171.jpg?width=3647&format=pjpg&auto=webp&s=dcd3b4b6e56200b41888ca0102fd80528de62b8e)
 
 **Two things IMMEDIATELY stand out to me: #1 Institutions own 56,158,356 shares.... AT 28.87% ownership.. WHAT?!?** This statistic is what is ***REPORTED*** to the index, these numbers definitely could be fudged.. but most likely to the downside and not the upside.
 
@@ -108,11 +109,11 @@ Edit 2: Full Screen Shots of Institutional Ownership Stats:
 
 &#x200B;
 
-[Institutional Ownership 1](https://preview.redd.it/nwicrfepoz171.png?width=3693&format=png&auto=webp&s=473fcf5d17515aa04e6c6cc8150696426c04bba5)
+![Institutional Ownership 1](https://preview.redd.it/nwicrfepoz171.png?width=3693&format=png&auto=webp&s=473fcf5d17515aa04e6c6cc8150696426c04bba5)
 
 &#x200B;
 
-[Institutional Ownership 2](https://preview.redd.it/dia9iacsoz171.png?width=3644&format=png&auto=webp&s=364688f6593f56bf6726ec2a440c2cc0b41877f5)
+![Institutional Ownership 2](https://preview.redd.it/dia9iacsoz171.png?width=3644&format=png&auto=webp&s=364688f6593f56bf6726ec2a440c2cc0b41877f5)
 
 Edit 3: Direct vs. Indirect Insider Ownership **RC Listed as Indirect**
 

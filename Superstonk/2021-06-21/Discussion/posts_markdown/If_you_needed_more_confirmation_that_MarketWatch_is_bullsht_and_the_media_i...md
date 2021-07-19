@@ -1,5 +1,6 @@
-# Author: Baybad
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4qkss/if_you_needed_more_confirmation_that_marketwatch/](https://www.reddit.com/r/Superstonk/comments/o4qkss/if_you_needed_more_confirmation_that_marketwatch/)
+#Title: If you needed more confirmation that MarketWatch is bullsh*t and the media is trying to manipulate the market:
+#Author: Baybad
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4qkss/if_you_needed_more_confirmation_that_marketwatch/](https://www.reddit.com/r/Superstonk/comments/o4qkss/if_you_needed_more_confirmation_that_marketwatch/)
 
 
 I use the MarketWatch GME page to view premarket, and I saw this little article at the bottom.

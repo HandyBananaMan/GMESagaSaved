@@ -1,5 +1,6 @@
-# Author: Doug_Duper
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/](https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/)
+#Title: Dr. Short squeeze, or how I learned to love the stonk... I think I found the last bomb in Citadels and friends' arsenal.
+#Author: Doug_Duper
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/](https://www.reddit.com/r/Superstonk/comments/nvoz5s/dr_short_squeeze_or_how_i_learned_to_love_the/)
 
 
 Disclaimer: I'm more of an art ape than an analysis, this is not financial advice I am not a financial adviser just a guy who thinks Susquehanna rhymes with SquashedBanana and that makes my ape brain happy. here's ken riding his last flash crash to oblivion. Now on with the (potential) DD!
@@ -8,7 +9,7 @@ https://preview.redd.it/xovb99fyl6471.png?width=672&format=png&auto=webp&s=77d52
 
 **TL;DR: Citadel, Susquehanna, and the other large funds that are short $GME have been strategically creating a psychological trojan horse. They have been fighting to keep the price below 350 to keeps the smaller short hedge funds from getting margin called so they can sacrifice them after tomorrows meeting (or soon after) let the price rise to near its actual limit (around 485 - 500) and then throw literally every last attack at $GME creating a similar-looking pattern to January... however this will be their final hail marry and If we HODL, Then moon!**
 
-I was going over Atobitt's post earlier today  "![What's happening today - 6/8/2021](https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/) " when something he wrote caught my eye. To quote u/Atobitt:
+I was going over Atobitt's post earlier today  "[What's happening today - 6/8/2021](https://www.reddit.com/r/Superstonk/comments/nv6nmj/whats_happening_today_682021/) " when something he wrote caught my eye. To quote u/Atobitt:
 
 *"Think back to the House of Cards - Part III. Remember the example I gave of Goldman Sachs when they were being "bought in"? What did they do? They shorted* ***EVEN MORE*** *than they purchased on that day to keep the price down. As I am writing this, it is literally happening with GME.  I honestly do not believe this is retail selling, but rather, a flash-crash to drive the price down. "*
 

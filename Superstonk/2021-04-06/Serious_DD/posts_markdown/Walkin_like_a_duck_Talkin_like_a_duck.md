@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/](https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/)
+#Title: Walkin' like a duck. Talkin' like a duck
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/](https://www.reddit.com/r/Superstonk/comments/ml48ov/walkin_like_a_duck_talkin_like_a_duck/)
 
 
 **TL;DR - I have prepared a case which strongly indicates that Citadel Securities, along with it's "affiliates" are committing securities fraud. On March 26th 2021, FINRA released a new citation against Citadel Securities for nearly 2 years worth of securities violations. The only reason Citadel HASN'T been busted for fraud is because they hide behind the veil of 'unintentional' behavior. However, this post illustrates how Citadel's actions flag ALL 3 corners of the fraud triangle-** ***pressure, motivation, and opportunity.*** **It's time for these people to be held accountable.**
@@ -181,7 +182,7 @@ On January 1, 2016 "CLP3" merged into ("CSUH")....
 
 So WHO is [CLP Holdings Three LLC](https://www.sec.gov/rules/sro/box/2015/34-74267.pdf) ?!?!?!?!?
 
-[....found this from 2015 \(bottom paragraph, PG 2\)...](https://preview.redd.it/ggcw60wetgr61.png?width=650&format=png&auto=webp&s=af20238b93bc4cd513c841c6cf939a9df924ff70)
+![....found this from 2015 \(bottom paragraph, PG 2\)...](https://preview.redd.it/ggcw60wetgr61.png?width=650&format=png&auto=webp&s=af20238b93bc4cd513c841c6cf939a9df924ff70)
 
 1. Citadel Parent Owns 100% of CLP Holdings Three LLC, which became "CSUH" in 2016
 2. CSHC US LLC ("CSUH") is the ONLY member of CSHC US LLC ("CSHC")

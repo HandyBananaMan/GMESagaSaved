@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o09zbj/the_daily_stonk_06152021/](https://www.reddit.com/r/Superstonk/comments/o09zbj/the_daily_stonk_06152021/)
+#Title: The Daily Stonk 06-15-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o09zbj/the_daily_stonk_06152021/](https://www.reddit.com/r/Superstonk/comments/o09zbj/the_daily_stonk_06152021/)
 
 
 &#x200B;
@@ -216,4 +217,4 @@ backups:
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)

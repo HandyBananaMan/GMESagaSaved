@@ -1,16 +1,17 @@
-# Author: Lolly_Jaw
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/my4u0t/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/my4u0t/morning_news_and_obligatory_memes_from_mediape/)
+#Title: MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 25/04/21
+#Author: Lolly_Jaw
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/my4u0t/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/my4u0t/morning_news_and_obligatory_memes_from_mediape/)
 
 
 **What an Apexcellent Sunday!**
 
 **Nurse Mimi the medi-ape is here for your daily run down!**
 
-[That's right. Nurse Mimi will take your wife away from your wife's boyfriend. And take Citadel\/Shorts\/Bears out, all at the same time. How do she do it? She buys shares and lives in tendieland.](https://preview.redd.it/us7pxnme3av61.png?width=611&format=png&auto=webp&s=bc78fb5b8bcda5701f57bfd1b2ec3399441d4a25)
+![That's right. Nurse Mimi will take your wife away from your wife's boyfriend. And take Citadel\/Shorts\/Bears out, all at the same time. How do she do it? She buys shares and lives in tendieland.](https://preview.redd.it/us7pxnme3av61.png?width=611&format=png&auto=webp&s=bc78fb5b8bcda5701f57bfd1b2ec3399441d4a25)
 
 &#x200B;
 
-[\*beep beepity beep\*](https://preview.redd.it/1e7ayxh24av61.png?width=634&format=png&auto=webp&s=066ae3ca71f71dc0473924df1966f83a39e52c8d)
+![\*beep beepity beep\*](https://preview.redd.it/1e7ayxh24av61.png?width=634&format=png&auto=webp&s=066ae3ca71f71dc0473924df1966f83a39e52c8d)
 
 u/redchessqueen **Announced:**
 
@@ -57,7 +58,7 @@ u/redchessqueen **Announced:**
 
 [**u/Mvxlacy**](https://www.reddit.com/user/Mvxlacy/) **Posts:**
 
-[TA of GME](https://preview.redd.it/l1jb956s4av61.png?width=1862&format=png&auto=webp&s=c4c46d37689fc639fadee5ee1c8497b1ce9cc3d5)
+![TA of GME](https://preview.redd.it/l1jb956s4av61.png?width=1862&format=png&auto=webp&s=c4c46d37689fc639fadee5ee1c8497b1ce9cc3d5)
 
 \- Currently we are breaking out of a descending triangle to the upside and the price target for that is 348$
 
@@ -83,7 +84,7 @@ u/redchessqueen **Announced:**
 
 *The solid yellow support is difficult to define with only two solid contacts and the stocks tendency to hug the resistance. However the two points it does contact have a strong correlation.*
 
-[GME TA](https://preview.redd.it/s9idf80a5av61.png?width=547&format=png&auto=webp&s=fb1a849100a7655acb0909fd12b3e36612aed552)
+![GME TA](https://preview.redd.it/s9idf80a5av61.png?width=547&format=png&auto=webp&s=fb1a849100a7655acb0909fd12b3e36612aed552)
 
 *Assuming the validity of the triangle, how high should we expect the stock to jump when the break the pattern?*
 
@@ -101,11 +102,11 @@ u/redchessqueen **Announced:**
 
 *"We are definitely in or moving into a zone of low volatility that favors a Bullish move. This allows long whales to set up potential gamma squeezes. It allows opens an opportunity for retail to leverage their positions. This looks promising ideally it would be a little bit lower, but it looks to be low enough for a move.*
 
-[ These plays require a lower implied volatility \(IV\) in order to be possible, as it drastically lowers the price of options. ](https://preview.redd.it/6ktluff8cav61.png?width=1101&format=png&auto=webp&s=bd507a1ef4aebd7a6978fb9769879734e9e04293)
+![ These plays require a lower implied volatility \(IV\) in order to be possible, as it drastically lowers the price of options. ](https://preview.redd.it/6ktluff8cav61.png?width=1101&format=png&auto=webp&s=bd507a1ef4aebd7a6978fb9769879734e9e04293)
 
 *This is a manipulated stock, in that sense technical indicators are only as good as the extent of the perceived manipulation. So if we account that our breakouts to the upside tend to have heavy short pressure (although I do believe that short pressure to be much weaker than it was in February or March, more on this later) applied we can look at this formation like this. "*
 
-[ Breakout manipulated short pressure applied Bull Run \(Moon? possibly\)](https://preview.redd.it/myv97n3hcav61.png?width=1303&format=png&auto=webp&s=e4edc78969efd68b18527f0a64762200c3235958)
+![ Breakout manipulated short pressure applied Bull Run \(Moon? possibly\)](https://preview.redd.it/myv97n3hcav61.png?width=1303&format=png&auto=webp&s=e4edc78969efd68b18527f0a64762200c3235958)
 
 **Green pickle tasty. Like green crayon but saltier.**
 
@@ -123,7 +124,7 @@ u/redchessqueen **Announced:**
 
 *I have updated the GME float size to 26.7 million based on the work done by several apes. Here is one example* [*https://www.reddit.com/r/Superstonk/comments/mwgyfw/free\_float\_is\_267\_million\_didnt\_count\_cohen\_twice/*](https://www.reddit.com/r/Superstonk/comments/mwgyfw/free_float_is_267_million_didnt_count_cohen_twice/)
 
-[Liquidity is drying up. As you can see, the last 4 days have been extremely low volume days.](https://preview.redd.it/aq2qjmt37av61.png?width=1168&format=png&auto=webp&s=59bc9d696b79c02f714a3e9de827c0ce5a7f2e66)
+![Liquidity is drying up. As you can see, the last 4 days have been extremely low volume days.](https://preview.redd.it/aq2qjmt37av61.png?width=1168&format=png&auto=webp&s=59bc9d696b79c02f714a3e9de827c0ce5a7f2e66)
 
 ***Today was the second lowest volume day in 2021*** *with only 100k more than wednesday which was the lowest at 3.8 million.*
 
@@ -145,7 +146,7 @@ u/redchessqueen **Announced:**
 
 [**u/j901719**](https://www.reddit.com/user/j901719/) **Posts:**
 
-[The float might be even less, according to some DD.](https://preview.redd.it/rdomnxse6av61.png?width=750&format=png&auto=webp&s=2cec830259f298efdfa0023fe39c7ac408e25a4e)
+![The float might be even less, according to some DD.](https://preview.redd.it/rdomnxse6av61.png?width=750&format=png&auto=webp&s=2cec830259f298efdfa0023fe39c7ac408e25a4e)
 
 [(1) So how did GME manage to trade 150M shares a day if the remaining float is only 26M? ⬆️🌚 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxkoti/so_how_did_gme_manage_to_trade_150m_shares_a_day/?utm_medium=android_app&utm_source=share)
 
@@ -169,7 +170,7 @@ u/redchessqueen **Announced:**
 
 *We used this information (based on the original count of \~50million shares available for public trading) to estimate that SI was over 900%.*
 
-*THEN YESTERDAY:* [*According to Gamestop's 14A, there is only 26.7 Million shares available for trading to the public, not including ETFs or institutions under 5% ownership.*](https://preview.redd.it/1pqbq8iuzsu61.jpg?width=354&auto=webp&s=0b76796d2033adadffdcaa149f25287e66f6e3ab)
+*THEN YESTERDAY:* ![*According to Gamestop's 14A, there is only 26.7 Million shares available for trading to the public, not including ETFs or institutions under 5% ownership.*](https://preview.redd.it/1pqbq8iuzsu61.jpg?width=354&auto=webp&s=0b76796d2033adadffdcaa149f25287e66f6e3ab)
 
 *Meaning that based on the pre-existing information of a 440 million share synthetic float, and the NEW information that the public float is supposed to be 26.7 million shares, the short interest is roughly double our original estimates, at \~1800%*
 
@@ -179,13 +180,13 @@ u/redchessqueen **Announced:**
 
 *THIS NUMBER IS ABSOLUTELY HIGHER NOW."*
 
-[You know how I feel.](https://media.tenor.com/images/c883d2b9b94e0af0ce8e03a57a5f2c0f/tenor.gif)
+![You know how I feel.](https://media.tenor.com/images/c883d2b9b94e0af0ce8e03a57a5f2c0f/tenor.gif)
 
 [(1) Double the short interest, half the anxiety. : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxkwlb/double_the_short_interest_half_the_anxiety/)
 
 &#x200B;
 
-[ u\/Spazrow314 ](https://preview.redd.it/d36c0nkfmav61.png?width=640&format=png&auto=webp&s=c62c1e52aa4f160ee6a5193cc1e70d1b3d2fee2a)
+![ u\/Spazrow314 ](https://preview.redd.it/d36c0nkfmav61.png?width=640&format=png&auto=webp&s=c62c1e52aa4f160ee6a5193cc1e70d1b3d2fee2a)
 
 \---------------------------------------
 
@@ -205,7 +206,7 @@ u/redchessqueen **Announced:**
 
 [(1) GME Float is less than 16.1m and retail owns more than 1000% easily. : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxu7lj/gme_float_is_less_than_161m_and_retail_owns_more/?utm_medium=android_app&utm_source=share)
 
-[ u\/MattiasMolndal ](https://preview.redd.it/ngqntn6vaav61.png?width=500&format=png&auto=webp&s=195aaa9440bf9f927b40c3effc83a186d9a6b5f7)
+![ u\/MattiasMolndal ](https://preview.redd.it/ngqntn6vaav61.png?width=500&format=png&auto=webp&s=195aaa9440bf9f927b40c3effc83a186d9a6b5f7)
 
 [(1) GameStop Stock (reddit.com)](https://www.reddit.com/r/GME/?f=flair_name%3A%22Memes%20%F0%9F%98%B9%22)
 
@@ -226,7 +227,7 @@ u/redchessqueen **Announced:**
 1. *We all know wall street is shorted to oblivion, and their evading the MOASS by slowly covering their margin calls over time by buying time through shady shit like (1) deep ITM stock options, (2) dark-pool trading, (3) SPAC and Crypto P\&amp;D schemes, and (4) god knows what else.*
 2. *What perpetuates the corruption is their capacity to buy more time. To trip the MOASS, we must disable the proverbial snooze button on their margin calls. Voting as a common shareholder may be the way.*
 3. *When retail investors purchase whole GME share(s) from their stockbroker, depending on which broker, it is unclear whether they purchased a real share from some other investor selling theirs, or if they purchased a synthetic/fake share that was created from corrupt actions by hedge funds (e.g. deep ITM stock options)*
-4. *Does it matter which stock we have?* [*No*](https://imgur.com/z01I0jJ)*. A whole share, real or synthentic, entitles you to a vote.*
+4. *Does it matter which stock we have?* ![*No*](https://imgur.com/z01I0jJ)*. A whole share, real or synthentic, entitles you to a vote.*
 5. *Why this matter is that* [***stock options***](https://www.investopedia.com/articles/active-trading/061615/how-stock-options-are-taxed-reported.asp) ***DO NOT*** *convey ownership of a company,* ***but exercising them to acquire the stock does.***
 6. *Given GME share(s) are likely synthetic because GME has been shorted to oblivion,* [*voting*](https://www.proxydocs.com/branding/962080/edocs/2021/issuer/) *for GME’s annual meeting will force your stockbroker to obtain real GME shares from those who have it on margin to submit your vote on your behalf because they need to own the share at the time of submission.*
 7. *In other words, your vote will margin call the hedge funds that were too reckless in trading shares they didn’t own. Cumulatively, our votes may be enough to be the catalyst for the MOASS."*
@@ -249,7 +250,7 @@ u/redchessqueen **Announced:**
 
 [(1) The SQUEEZE may take WEEKS. Hedge Funds have 2 - 5 days to meet their MARGIN CALL. : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxgzvw/the_squeeze_may_take_weeks_hedge_funds_have_2_5/?utm_medium=android_app&utm_source=share)
 
-[ u\/rrezonfrangu ](https://preview.redd.it/g3xm0f4ebav61.png?width=640&format=png&auto=webp&s=3e8f9c989c73516077ceafe3872f11710c983a47)
+![ u\/rrezonfrangu ](https://preview.redd.it/g3xm0f4ebav61.png?width=640&format=png&auto=webp&s=3e8f9c989c73516077ceafe3872f11710c983a47)
 
 \---------------------------------------
 
@@ -273,7 +274,7 @@ u/redchessqueen **Announced:**
 
 *\&amp;amp;amp;amp;#x200B;*
 
-[*JPM's Liquidation of $9bil Worth of ASO*](https://preview.redd.it/hjmciw0vj8v61.jpg?width=1125&format=pjpg&auto=webp&s=8810a1d20fce23c1eda3f2fd13a5e781ecfe8a62)
+![*JPM's Liquidation of $9bil Worth of ASO*](https://preview.redd.it/hjmciw0vj8v61.jpg?width=1125&format=pjpg&auto=webp&s=8810a1d20fce23c1eda3f2fd13a5e781ecfe8a62)
 
 *all the big banks were up all weekend. Were creating record numbers of bonds to sell back to themselves? Which they all then flipped to credit Suisse in the form of this newfound loan credit Suisse just got, “from investors,” of $2bil, “in the form of convertible notes?”*
 
@@ -293,7 +294,7 @@ u/redchessqueen **Announced:**
 
 &#x200B;
 
-[ u\/pinkcatsonacid ](https://preview.redd.it/3jhons01eav61.png?width=640&format=png&auto=webp&s=248ddac96040fa689426ce82970333494d6d9d68)
+![ u\/pinkcatsonacid ](https://preview.redd.it/3jhons01eav61.png?width=640&format=png&auto=webp&s=248ddac96040fa689426ce82970333494d6d9d68)
 
 \---------------------------------------
 
@@ -317,7 +318,7 @@ u/redchessqueen **Announced:**
 
 [**u/Mj0lnir1**](https://www.reddit.com/user/Mj0lnir1/) **Shared:**
 
-[Elon Musk's Tweet](https://preview.redd.it/7v0z1dhceav61.png?width=960&format=png&auto=webp&s=9008480e1b5e158b51ba5fdafb93c1c8765bdeea)
+![Elon Musk's Tweet](https://preview.redd.it/7v0z1dhceav61.png?width=960&format=png&auto=webp&s=9008480e1b5e158b51ba5fdafb93c1c8765bdeea)
 
 [HODL!! 🚀🚀🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxgvbi/hodl/?utm_medium=android_app&utm_source=share)
 
@@ -333,13 +334,13 @@ u/redchessqueen **Announced:**
 
 [**u/Jamie-Vu**](https://www.reddit.com/user/Jamie-Vu/) **Shares:**
 
-[I love this. Apes strong together.](https://preview.redd.it/5e12pyileav61.png?width=960&format=png&auto=webp&s=f582054b9546350e990d8a6a17d88a095997ae61)
+![I love this. Apes strong together.](https://preview.redd.it/5e12pyileav61.png?width=960&format=png&auto=webp&s=f582054b9546350e990d8a6a17d88a095997ae61)
 
 \---------------------------------------
 
 [**u/youngsteveo**](https://www.reddit.com/user/youngsteveo/) **Posts:**
 
-[So true.](https://preview.redd.it/3gekjylreav61.png?width=960&format=png&auto=webp&s=74cf8e0e89c64edc610eed2634a4097a20b2f5b2)
+![So true.](https://preview.redd.it/3gekjylreav61.png?width=960&format=png&auto=webp&s=74cf8e0e89c64edc610eed2634a4097a20b2f5b2)
 
 \---------------------------------------
 
@@ -369,7 +370,7 @@ u/redchessqueen **Announced:**
 
 **If you want to read tomorrows news, please follow the link below:**
 
-![MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/) 
+[MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/) 
 
 **Lots of love,**
 

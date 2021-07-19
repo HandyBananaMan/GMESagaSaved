@@ -1,5 +1,6 @@
-# Author: chiefoogabooga
-# Post URL: [https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/](https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/)
+#Title: GME calls for 4/16. A little nudge and Hedgies R Fukd.
+#Author: chiefoogabooga
+#Post URL: [https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/](https://www.reddit.com/r/GME/comments/mqywkz/gme_calls_for_416_a_little_nudge_and_hedgies_r/)
 
 
 **Important:  See edit 2 at the bottom of this post.**
@@ -44,6 +45,6 @@ Edit:  Thanks for all the awards fellow apes!  I hope you found the information 
 
 **Edit 3:  A lot of you have been asking some really good questions.  Since everyone is so fired up I thought I'd share another post that I wrote about a separate possible issue the MMs might have with hedging.  Feel free to check it out if you want.**
 
-![**https://www.reddit.com/r/GME/comments/mpezwb/why\_dfv\_exercising\_his\_calls\_might\_be\_bigger\_than/**](https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/)
+[**https://www.reddit.com/r/GME/comments/mpezwb/why\_dfv\_exercising\_his\_calls\_might\_be\_bigger\_than/**](https://www.reddit.com/r/GME/comments/mpezwb/why_dfv_exercising_his_calls_might_be_bigger_than/)
 
 &#x200B;

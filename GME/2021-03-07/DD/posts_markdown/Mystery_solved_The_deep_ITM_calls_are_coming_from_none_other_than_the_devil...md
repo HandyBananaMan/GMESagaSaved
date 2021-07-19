@@ -1,5 +1,6 @@
-# Author: TheWhackBateman
-# Post URL: [https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/)
+#Title: Mystery solved: The deep ITM calls are coming from none other than the devil himself
+#Author: TheWhackBateman
+#Post URL: [https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/](https://www.reddit.com/r/GME/comments/m05jed/mystery_solved_the_deep_itm_calls_are_coming_from/)
 
 
 Disclaimer: This is not financial advise. Do your own DD before making any decisions. I am not a financial advisor. I'm just a guy and this is my analysis of the data. 
@@ -48,7 +49,7 @@ Time passes while apes and retail continue to buy more and more shares. This lea
 >  
 >**SEC:** *Oh say word, it looks like Melvin bought some shares, I don't know if it's legit but I guess we'll just clear those FTDs from our checklist now since that's the easiest thing to do \*shrugs\** 
 
-Evidence for this: All the Deep ITM calls that are being purchased consistently from floor trades at the PHLX exchange over the last week **without any change in Open Interest**. With the small trade count on these options, this is only possible if the options are being purchased and executed at the same time. I go over the data for this in detail in my post ![HERE](https://www.reddit.com/r/GME/comments/lyxixi/evidence_of_naked_calls/) when I originally thought it was a sign of naked calls.
+Evidence for this: All the Deep ITM calls that are being purchased consistently from floor trades at the PHLX exchange over the last week **without any change in Open Interest**. With the small trade count on these options, this is only possible if the options are being purchased and executed at the same time. I go over the data for this in detail in my post [HERE](https://www.reddit.com/r/GME/comments/lyxixi/evidence_of_naked_calls/) when I originally thought it was a sign of naked calls.
 
 The "whale" being praised for these deep ITM calls is likely none other than the HFs/MMs themselves and they're not even actually buying them, they're just kicking the can down the road.  
 

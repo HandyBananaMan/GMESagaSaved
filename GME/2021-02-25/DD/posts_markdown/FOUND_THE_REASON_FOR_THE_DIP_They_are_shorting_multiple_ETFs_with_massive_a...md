@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/ls830a/found_the_reason_for_the_dip_they_are_shorting/](https://www.reddit.com/r/GME/comments/ls830a/found_the_reason_for_the_dip_they_are_shorting/)
+#Title: FOUND THE REASON FOR THE DIP! They are shorting multiple ETFs with massive amounts of shares (MILLIONS!) right now!
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/ls830a/found_the_reason_for_the_dip_they_are_shorting/](https://www.reddit.com/r/GME/comments/ls830a/found_the_reason_for_the_dip_they_are_shorting/)
 
 
 **EDIT (9:51AM): THEY ARE SHORTING $GME VIA 63(!) DIFFERENT ETFS**
@@ -88,7 +89,7 @@ Here are the ones they are using as well:
 
 &#x200B;
 
-Also: **They borrowed 1,500,000** $GME Shares **to short yesterday (**![**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**, but there was no huge drop off or sell volume that would indicate, that they already shorted those. That means, they are now using those shorts as well as the ETFs.
+Also: **They borrowed 1,500,000** $GME Shares **to short yesterday (**[**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**, but there was no huge drop off or sell volume that would indicate, that they already shorted those. That means, they are now using those shorts as well as the ETFs.
 
 &#x200B;
 

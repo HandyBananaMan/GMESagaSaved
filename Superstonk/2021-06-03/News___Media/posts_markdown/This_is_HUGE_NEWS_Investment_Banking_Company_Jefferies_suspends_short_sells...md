@@ -1,5 +1,6 @@
-# Author: FDAz
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/](https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/)
+#Title: This is HUGE NEWS: Investment Banking Company Jefferies suspends short sells and naked shorts on $GME
+#Author: FDAz
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/](https://www.reddit.com/r/Superstonk/comments/nrgdlo/this_is_huge_news_investment_banking_company/)
 
 
 Just saw this on twitter and found the source --- huge news!
@@ -106,7 +107,7 @@ Edit 7:
 
 24 hours have passed since my post, and the expected reality is materializing. Other banks did not waste more time and are also placing restrictions against shorting GME and other ultra-shorted stocks -  this time Goldman Sachs Group Inc., Bank of America Corp., Citigroup Inc.
 
-![https://www.bloomberg.com/news/articles/2021-06-04/wall-street-banks-rein-in-hedge-funds-short-bets-on-meme-stocks](https://www.bloomberg.com/news/articles/2021-06-04/wall-street-banks-rein-in-hedge-funds-short-bets-on-meme-stocks)
+[https://www.bloomberg.com/news/articles/2021-06-04/wall-street-banks-rein-in-hedge-funds-short-bets-on-meme-stocks](https://www.bloomberg.com/news/articles/2021-06-04/wall-street-banks-rein-in-hedge-funds-short-bets-on-meme-stocks)
 
 **Please remember that this doesn't mean the shorting, or the naked shorting, will stop. It just means that, officially, it will be more difficult, there will be less avenues for it. This may also be used to give longs a false sense of victory.**
 

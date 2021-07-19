@@ -1,5 +1,6 @@
-# Author: kekking_ass
-# Post URL: [https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/](https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/)
+#Title: This is a Short Squeeze!!! The FTD and Gamma Squeezes are Symptoms
+#Author: kekking_ass
+#Post URL: [https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/](https://www.reddit.com/r/GME/comments/m74z4x/this_is_a_short_squeeze_the_ftd_and_gamma/)
 
 
 Ok, hopefully this works as my last 2 DD posts would not upload.
@@ -33,6 +34,6 @@ See my other posts on this:
 * [Reminder of the Actual Facts](https://www.reddit.com/r/Wallstreetbetsnew/comments/m4b2jz/gme_reminder_of_the_actual_facts/)
 * [Was XRT only Added as Short Insurance](https://www.reddit.com/r/Wallstreetbetsnew/comments/ltsphh/dd_was_gme_only_added_to_xrt_to_be_used_as_short/)
 * [GME and The Bringer of Doom](https://www.reddit.com/r/Wallstreetbetsnew/comments/lpar8c/gme_the_bringer_of_doom_and_a_market_crash/)
-* ![GME, A Catalyst and a Strategy](https://www.reddit.com/r/Wallstreetbetsnew/comments/ljazg6/gme_a_catalyst_and_strategy_gme_day_20210217/)
+* [GME, A Catalyst and a Strategy](https://www.reddit.com/r/Wallstreetbetsnew/comments/ljazg6/gme_a_catalyst_and_strategy_gme_day_20210217/)
 
 There are great folks doing great DD in here and I am in no way shitting on them but every week there's a new angle or perspective and I want everyone to remember that this is a short squeeze.  That's how you get your tendies, your lambo's and your rocket.

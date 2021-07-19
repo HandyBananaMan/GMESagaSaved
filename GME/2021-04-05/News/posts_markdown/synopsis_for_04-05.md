@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mkgolv/synopsis_for_0405/](https://www.reddit.com/r/GME/comments/mkgolv/synopsis_for_0405/)
+#Title: synopsis for 04-05
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mkgolv/synopsis_for_0405/](https://www.reddit.com/r/GME/comments/mkgolv/synopsis_for_0405/)
 
 
 Hey everyone,

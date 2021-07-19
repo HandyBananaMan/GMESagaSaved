@@ -1,5 +1,6 @@
-# Author: somechicktho
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/](https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/)
+#Title: The Ouroboros Snake Swallowing the World - The Floor is 250 Million Part Trillion
+#Author: somechicktho
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/](https://www.reddit.com/r/Superstonk/comments/muxpoy/the_ouroboros_snake_swallowing_the_world_the/)
 
 
 **TL;DR**
@@ -238,7 +239,7 @@ The Banks Are Selling Government Bonds to the Hedgies- The Floor is 250 Million 
 
 [Part 2](https://www.reddit.com/r/Superstonk/comments/mubk7t/the_worlds_largest_shell_game_the_floor_is_250/?utm_medium=android_app&utm_source=share)
 
-![The Banks ARE The Hedge Funds - The Floor is 250 Million Link-Free Edition](https://www.reddit.com/r/Superstonk/comments/muoyq8/the_banks_are_the_hedge_funds_the_floor_is_250/?utm_medium=android_app&utm_source=share)
+[The Banks ARE The Hedge Funds - The Floor is 250 Million Link-Free Edition](https://www.reddit.com/r/Superstonk/comments/muoyq8/the_banks_are_the_hedge_funds_the_floor_is_250/?utm_medium=android_app&utm_source=share)
 
 Edit 1: sorry about the links guys fixing it
 

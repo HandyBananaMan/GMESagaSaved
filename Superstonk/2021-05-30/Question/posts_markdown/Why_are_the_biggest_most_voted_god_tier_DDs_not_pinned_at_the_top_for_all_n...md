@@ -1,5 +1,6 @@
-# Author: nwa1g
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nobj8p/why_are_the_biggest_most_voted_god_tier_dds_not/](https://www.reddit.com/r/Superstonk/comments/nobj8p/why_are_the_biggest_most_voted_god_tier_dds_not/)
+#Title: Why are the biggest most voted god tier DDs not pinned at the top for all new apes to see? Such as HOC123 or citadel etc. The search function is garbage.
+#Author: nwa1g
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nobj8p/why_are_the_biggest_most_voted_god_tier_dds_not/](https://www.reddit.com/r/Superstonk/comments/nobj8p/why_are_the_biggest_most_voted_god_tier_dds_not/)
 
 
 I’m just filling this space to meet character limits but as the title says is there a reason that the biggest DDs not being pinned at the top for everyone new to see?

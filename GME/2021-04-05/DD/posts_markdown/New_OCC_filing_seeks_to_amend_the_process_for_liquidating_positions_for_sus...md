@@ -1,10 +1,11 @@
-# Author: Scalpel_Jockey9965
-# Post URL: [https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/)
+#Title: New OCC filing seeks to amend the process for liquidating positions for suspended options clearing members (Citadel is an options clearing member) SR-OCC-2021-004
+#Author: Scalpel_Jockey9965
+#Post URL: [https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/](https://www.reddit.com/r/GME/comments/mkphuq/new_occ_filing_seeks_to_amend_the_process_for/)
 
 
 This rule is set to drop tomorrow (4/6/2021) on the federal register. You are able to see an unpublished versions of proposed rule changes.
 
-![https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
+[https://public-inspection.federalregister.gov/2021-06989.pdf](https://public-inspection.federalregister.gov/2021-06989.pdf)
 
 This new rule change amends the Options Clearing Corporation (OCC) Rule 1104. What's really interesting about this rule is that it provides an order of events in the case that an options clearing member is suspended. 
 

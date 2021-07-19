@@ -1,5 +1,6 @@
-# Author: Sassulu
-# Post URL: [https://www.reddit.com/r/GME/comments/npofmd/just_had_a_call_with_my_broker_bias_confirmed/](https://www.reddit.com/r/GME/comments/npofmd/just_had_a_call_with_my_broker_bias_confirmed/)
+#Title: Just had a call with my broker 🚀 *bias confirmed*
+#Author: Sassulu
+#Post URL: [https://www.reddit.com/r/GME/comments/npofmd/just_had_a_call_with_my_broker_bias_confirmed/](https://www.reddit.com/r/GME/comments/npofmd/just_had_a_call_with_my_broker_bias_confirmed/)
 
 
 **LATEST UPDATE**: The shares are unblocked again after checking. Even better 💎🦍🦧 Edit: Not that I would sell under $20‘000‘000 anyways.

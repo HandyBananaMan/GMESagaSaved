@@ -1,5 +1,6 @@
-# Author: Ginger_Libra
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh3ocf/why_are_we_being_left_in_the_dark_why_all_the/](https://www.reddit.com/r/Superstonk/comments/oh3ocf/why_are_we_being_left_in_the_dark_why_all_the/)
+#Title: Why are we being left in the dark? Why all the cryptic tweets? Why doesn’t Ryan Cohen just tell us what’s up? ……Enter the Standstill Agreement that doesn’t allow Ryan Cohen to speak openly about GameStop until 2022
+#Author: Ginger_Libra
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh3ocf/why_are_we_being_left_in_the_dark_why_all_the/](https://www.reddit.com/r/Superstonk/comments/oh3ocf/why_are_we_being_left_in_the_dark_why_all_the/)
 
 
 January bag holder here. We used to talk about this more in the other subs and I felt like it was common knowledge. I’m not smart enough to have research this myself but I looked it up again because there seems to be a lot of shit talking and confusion. 
@@ -9,7 +10,7 @@ Ryan Cohen and RC Ventures entered into a Standstill Agreement on January 10, 20
 Specifically, he is not allowed to influence voting or board votes and another long list of activities until about March 1, 2022. 
 
 
-![https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm](https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm)
+[https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm](https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_ex99-1.htm)
 
 So for everyone wondering why things are quiet, this is why. 
 

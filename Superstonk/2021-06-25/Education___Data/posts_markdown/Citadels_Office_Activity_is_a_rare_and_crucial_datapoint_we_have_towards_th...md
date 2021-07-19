@@ -1,5 +1,6 @@
-# Author: DerButterkex
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o7kcy4/citadels_office_activity_is_a_rare_and_crucial/](https://www.reddit.com/r/Superstonk/comments/o7kcy4/citadels_office_activity_is_a_rare_and_crucial/)
+#Title: Citadels Office Activity is a rare and crucial datapoint we have towards them
+#Author: DerButterkex
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o7kcy4/citadels_office_activity_is_a_rare_and_crucial/](https://www.reddit.com/r/Superstonk/comments/o7kcy4/citadels_office_activity_is_a_rare_and_crucial/)
 
 
 As many of you, I love seeing lit up buildings or google activity data from our SHF Citadel. Quick upfront: Europoor Ape who likes to make memes, works in emerging technology and studied Philosophy.

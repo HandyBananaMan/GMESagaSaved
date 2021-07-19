@@ -1,5 +1,6 @@
-# Author: andrewbiochem
-# Post URL: [https://www.reddit.com/r/GME/comments/mhfnv1/the_gamestop_youtube_channel_is_only_10k/](https://www.reddit.com/r/GME/comments/mhfnv1/the_gamestop_youtube_channel_is_only_10k/)
+#Title: The GameStop youtube channel is only 10k subscribers away from 100,000. Lets get them a 💎 diamond play button before the squeeze!
+#Author: andrewbiochem
+#Post URL: [https://www.reddit.com/r/GME/comments/mhfnv1/the_gamestop_youtube_channel_is_only_10k/](https://www.reddit.com/r/GME/comments/mhfnv1/the_gamestop_youtube_channel_is_only_10k/)
 
 
 https://m.youtube.com/user/GamestopVideo

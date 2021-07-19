@@ -1,5 +1,6 @@
-# Author: peruvian_bull
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)
+#Title: The Dollar Endgame PART 2.5 “The Ouroboros”
+#Author: peruvian_bull
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/](https://www.reddit.com/r/Superstonk/comments/o72fc1/the_dollar_endgame_part_25_the_ouroboros/)
 
 
 Apes, this is the second half of Part 2. [You can find the first half of Part 2 here](https://www.reddit.com/r/Superstonk/comments/o727oc/the_dollar_endgame_part_2_the_ouroboros/).
@@ -14,7 +15,7 @@ Say you’re in a casino and you want to make money off a poker game, but you ar
 
 Seeing your derivative bet, two other people get interested. They don’t want to bet on the game, rather they want to gamble on the outcome of your bet. They create their own bet, weighing probabilities and putting in funds accordingly. This is a second-order derivative. In the modern financial system, since derivatives are basically unregulated due to the [Commodities Futures Modernization Act](https://www.investopedia.com/terms/c/cfma.asp), (especially OTC derivatives or second-order or higher) this process can continue ad infinitum.
 
-[Derivative Bets](https://preview.redd.it/odmcqfd678771.png?width=615&format=png&auto=webp&s=c802a93608266848687f3444fbd9d4c9a80c3bbe)
+![Derivative Bets](https://preview.redd.it/odmcqfd678771.png?width=615&format=png&auto=webp&s=c802a93608266848687f3444fbd9d4c9a80c3bbe)
 
 In doing so, the "derivative" gamblers are essentially creating leverage on the poker game. What financial institutions do with derivatives is create these bets (Derivative\^2 for example) and then sell these bets to others. This is an IMMENSELY profitable business for them.
 
@@ -22,7 +23,7 @@ When creating a portfolio, most investors worry about their loss exposure. Buyin
 
 Let’s break it down. Say you are bullish on IBM. You go out and buy $50M of long dated [call options](https://www.investopedia.com/terms/c/calloption.asp) (commonly called [LEAPS](https://www.investopedia.com/terms/l/leaps.asp)) on IBM. Since you’re afraid of losing money in case IBM misses it’s earnings call, loses revenue, or experiences some other negative event while your position is open, you go and buy $40M of [put options ](https://www.investopedia.com/terms/p/putoption.asp)with the same expiry date. Thus, your new  Net exposure position is only $10M long.
 
-[Net Exposure Hedging](https://preview.redd.it/ope41no978771.png?width=642&format=png&auto=webp&s=2136a19ecc25ea5fa0bff0ec5d90e7ff2a95d96d)
+![Net Exposure Hedging](https://preview.redd.it/ope41no978771.png?width=642&format=png&auto=webp&s=2136a19ecc25ea5fa0bff0ec5d90e7ff2a95d96d)
 
 Using this mechanism, traders were able to hedge positions and reduce their theoretical risk. When you buy calls and puts, this net exposure is reduced, and at the same time, your assets increase. In the example above, your gross exposure (the gross value of the derivatives you own) will increase as you own both long calls and long puts. ((Don't get this confused with being long/short or bullish/bearish a stock!! **Long position for derivatives simply means YOU OWN the contract, short position means YOU OWE the contract. “Long/Short” is a general term in finance that can mean different things depending on the context!!** [**Read this if you’re confused**](https://www.investopedia.com/terms/l/long.asp)))
 
@@ -38,15 +39,15 @@ Since both these calls and puts have value that you paid for, and represent the 
 
 &#x200B;
 
-[Synthetic CDO Visualized](https://preview.redd.it/1i8vm7jd78771.png?width=406&format=png&auto=webp&s=08eb280d305046c39e23e456d1b25e392df179c9)
+![Synthetic CDO Visualized](https://preview.redd.it/1i8vm7jd78771.png?width=406&format=png&auto=webp&s=08eb280d305046c39e23e456d1b25e392df179c9)
 
 Let’s use the 2008 financial crisis as an example of an **underlying** failure. (W Homeowner goes out and gets a loan (original poker game). The bank then sells that loan to an investment bank who makes a CDO out of it (a bet on the game) which trades on the value of the underlying. Then, another bank comes along and makes a [synthetic CDO](https://en.wikipedia.org/wiki/Synthetic_CDO) (a bet on the bet), and then takes out a Credit Default Swap on it (bet on a bet on a bet). This creates insane leverage to the underlying, and horribly dangerous results if the underlying collapses. Our beloved Dr. Trimbath puts it like this: ([Naked, Short and Greedy](https://www.goodreads.com/book/show/49089890-naked-short-and-greedy?from_search=true&from_srp=true&qid=SnVODNfAhP&rank=1) (Ch 19))
 
-[Naked, Short and Greedy pg 221](https://preview.redd.it/5k5nddvi78771.png?width=379&format=png&auto=webp&s=7c257e43b6a4f9d5b9772753abcc3571c0f56ae2)
+![Naked, Short and Greedy pg 221](https://preview.redd.it/5k5nddvi78771.png?width=379&format=png&auto=webp&s=7c257e43b6a4f9d5b9772753abcc3571c0f56ae2)
 
 **A third way this system can blow up is due to cross-collateralization, where one asset is pledged to multiple entities, creating more claims than assets that exist.** This process is actually very common in the futures markets- bullion banks, for example, which hold gold and silver, will write between 2-10 futures contracts for every one oz of gold in the vaults.
 
-[One Asset pledged to multiple parties](https://preview.redd.it/l2musmvn78771.png?width=628&format=png&auto=webp&s=ea4697ebe3169000852eeb48a83c024c16fcf756)
+![One Asset pledged to multiple parties](https://preview.redd.it/l2musmvn78771.png?width=628&format=png&auto=webp&s=ea4697ebe3169000852eeb48a83c024c16fcf756)
 
 In the example above, the bullion bank (with the gold) writes 6 futures contracts (assume 1 oz per contract) and sells them to other financial institutions, but only has a single ounce of gold in the vault. They can do this since the vast majority of the futures (\~85-90%) [never get called](https://www.sciencedirect.com/science/article/abs/pii/S0927539804000842) in for [settlement](http://www.iotafinance.com/en/Financial-Definition-settlement.html), and are instead [rolled forward](https://www.investopedia.com/terms/r/rollforward.asp) (this basically means when the old contract is about to expire, the holder sells it for cash, and then uses this money to buy a new futures contract with a different expiration date).
 
@@ -85,7 +86,7 @@ But, his fund wasn’t the only firm affected- Credit Suisse was his counterpart
 
 The modern financial system is effectively a complex network of institutions, tied to each other through these complex derivative contracts. [GSIBs](https://www.fsb.org/2020/11/2020-list-of-global-systemically-important-banks-g-sibs/) (Globally Systemic Important Banks) are the largest entities in the system, tied directly to thousands of institutions, and indirectly to hundreds of thousands. Here’s a fascinating map from an [IMF White Paper on the GSIBs’ interconnectedness:](https://www.imf.org/~/media/Files/Publications/WP/2017/wp17210.ashx)
 
-[IMF White Paper, 2016. \(See legend for details\)](https://preview.redd.it/wyuqw4lx78771.png?width=546&format=png&auto=webp&s=dfa4c60bb2948d77953ac7c000b5080997d70194)
+![IMF White Paper, 2016. \(See legend for details\)](https://preview.redd.it/wyuqw4lx78771.png?width=546&format=png&auto=webp&s=dfa4c60bb2948d77953ac7c000b5080997d70194)
 
 The entire derivatives market is HUGE. The BIS estimated the total notional value of the [OTC derivatives market](https://www.bis.org/publ/otc_hy1911.htm) to be $640 Trillion in 2019! And that doesn't even include exchange-listed derivatives like most common option contracts. **More sober estimates put it somewhere north of $1 Quadrillion.** [**Visual Capitalist has a great graph that demonstrates the monstrosity of this number.** ](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/) **Numbers of this size are hard to wrap your head around- this is equivalent to a million billion, or a thousand trillion- for reference, the US economy is around** [**$22 Trillion**](https://www.thebalance.com/us-economy-facts-4067797) **and the world economy is estimated to be** [**$88 Trillion**](https://www.visualcapitalist.com/the-88-trillion-world-economy-in-one-chart/)**- thus the entire world economy could fit into the notional derivatives market 11x over and STILL not reach it. Every single bank is exposed, either directly or indirectly, to this market. For example,** [**Deutsche Bank ALONE has over $47 Trillion in Notional gross exposure**](https://www.wsj.com/articles/does-deutsche-bank-have-a-47-trillion-derivatives-problem-1475689629)**- TWICE the size of the entire US Economy!**
 
@@ -93,7 +94,7 @@ Through the magic of financial engineering, Deutsche is able to create a net exp
 
 **If the hedge funds with derivatives exposure (like Archegos) are the equivalent of an office rigged with nitroglycerin, the banks are stadiums full of 50 gallons drums of this shit- and the DTCC/ICC/OCC are the equivalent of a nuke. Counterparty risk, in the form of fuses, runs between all of them. What happens when enough factors on the system start to apply too much pressure? BOOM.**
 
-[Los Alamos Testing Grounds, Nuclear Bomb](https://preview.redd.it/5v1y6jl288771.png?width=619&format=png&auto=webp&s=5f5d79be62330c3b5d940e8291e5f09e8098df44)
+![Los Alamos Testing Grounds, Nuclear Bomb](https://preview.redd.it/5v1y6jl288771.png?width=619&format=png&auto=webp&s=5f5d79be62330c3b5d940e8291e5f09e8098df44)
 
 # 
 
@@ -105,7 +106,7 @@ This is the question most people ask themselves when they first learn about this
 
 Warren Buffet famously turned down calls to buy Lehman Brothers during the darkest days of the Financial Crisis- he understood a key concept, that derivatives (especially when they make up the majority of your fund (hey Kenny :) ) **are equivalent to Financial** [**Weapons of Mass Destruction**](https://www.prospectmagazine.co.uk/economics-and-finance/financial-weapons-of-mass-destruction-brexit-and-the-looming-derivatives-threat)**, able to destroy entire firms, and indeed entire systems, in one fell swoop.**
 
-[Quote from Berkshire Hathaway Shareholder Letter, 2002](https://preview.redd.it/7w246k8788771.png?width=520&format=png&auto=webp&s=eb53cda3ac21b700914e06661121670f92e2a858)
+![Quote from Berkshire Hathaway Shareholder Letter, 2002](https://preview.redd.it/7w246k8788771.png?width=520&format=png&auto=webp&s=eb53cda3ac21b700914e06661121670f92e2a858)
 
 In the tumultuous month of October 2008, this system was beginning to unravel. The money draining out of the financial system due to bank runs and frozen credit lending started to light fires in multiple financial institutions. The bombs that were Bear Sterns, AIG and Lehman had already blown up, and the fire was spreading through counterparty risk throughout the system. In fact, we were getting dangerously close to hitting the switch on the nuclear warhead- As Timothy Geitner (Pres of New York Fed) put it, “[We were a few days away from the ATMs not working](https://www.youtube.com/watch?v=QozGSS7QY_U)” (start video at 46:07). (Seriously, go watch this documentary. Its fucking AMAZING).
 
@@ -136,4 +137,4 @@ The modern international financial system, unhinged from the fetters of regulati
 
 *Nothing on this Post constitutes investment advice, performance data or any recommendation that any security, portfolio of securities, investment product, transaction or investment strategy is suitable for any specific person.  From reading my Post I cannot assess anything about your personal circumstances, your finances, or your goals and objectives, all of which are unique to you, so any opinions or information contained on this Post are just that – an opinion or information. Please consult a financial professional if you seek advice.*
 
-\*If you would like to learn more, check out my recommended reading list [here](https://docs.google.com/document/d/1nSw9odLoExaq0oEBqIHrCK1Xj5KfyjBkGQZ93LTh34g/edit?usp=sharing). This is a dummy google account, so feel free to share with friends- none of my personal information is attached. You can also check out a Google docs version of my![ Endgame Series here](https://docs.google.com/document/d/1552Gu7F2cJV5Bgw93ZGgCONXeenPdjKBbhbUs6shg6s/edit?usp=sharing).
+\*If you would like to learn more, check out my recommended reading list [here](https://docs.google.com/document/d/1nSw9odLoExaq0oEBqIHrCK1Xj5KfyjBkGQZ93LTh34g/edit?usp=sharing). This is a dummy google account, so feel free to share with friends- none of my personal information is attached. You can also check out a Google docs version of my[ Endgame Series here](https://docs.google.com/document/d/1552Gu7F2cJV5Bgw93ZGgCONXeenPdjKBbhbUs6shg6s/edit?usp=sharing).

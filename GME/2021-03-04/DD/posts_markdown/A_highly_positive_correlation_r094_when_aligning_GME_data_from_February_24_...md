@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/](https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/)
+#Title: A highly positive correlation (r=0.94) when aligning GME data from February 24 data to January 13 suggests we could see huge rallies in the next 5 days! 🚀🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/](https://www.reddit.com/r/GME/comments/lxq0f4/a_highly_positive_correlation_r094_when_aligning/)
 
 
 Hello again my fellow apes 🦍🦍🦍!
@@ -73,5 +74,5 @@ Ps., I’ve been told my posts have too many words so I put together some ‘Ali
 
 **CAVEATS ON DAILY SHORT VOLUME:**
 
-* This data does not include all daily volume, which is why total volume for today is lower than what you would see on your trading apps. Thanks to ![u/tri\_fire\_engineer](https://www.reddit.com/u/tri_fire_engineer/) for bringing this up last time and sending me the full data. **It actually** **showed that while the FINRA data is just a sample, its large enough to be considered representative of the full marke**t
+* This data does not include all daily volume, which is why total volume for today is lower than what you would see on your trading apps. Thanks to [u/tri\_fire\_engineer](https://www.reddit.com/u/tri_fire_engineer/) for bringing this up last time and sending me the full data. **It actually** **showed that while the FINRA data is just a sample, its large enough to be considered representative of the full marke**t
 * **Daily data does NOT equate to % of total shares that are shorted** as the same share could be shorted multiple time and there are other things that lenders do which could be considered 'shorting' but is not what we would usually define. The best data is the monthly FINRA data but that only comes out once a month but that’s no fun at all!

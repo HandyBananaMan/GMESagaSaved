@@ -1,5 +1,6 @@
-# Author: semprenobre88
-# Post URL: [https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/](https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/)
+#Title: How the MOASS won't happen!
+#Author: semprenobre88
+#Post URL: [https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/](https://www.reddit.com/r/GME/comments/mrzf24/how_the_moass_wont_happen/)
 
 
 Ok, fellow apes, i have to share this. I've  been searching in wich scenarios the MOASS won't happen, read all the counter DD's from shills, and came out with that list. Hope you won't think i'm a shill, but wanted to warn you. OK so now let's have a look on that list:
@@ -26,6 +27,6 @@ EDIT: Ok, first of all, thank you for all your upvotes and awards dear apes! Nev
 
 EDIT 2: Some of you apes told that would actually like to know in wich cases or what would need to happen for the MOASS to be off. I haven't find any of that, because it really seems the fundamentals are on our side. Nevertheless, I found this post from our fellow ape  [u/anonfthehfs](https://www.reddit.com/user/anonfthehfs/) , wich I think can really give some perspective towards what we're facing here.
 
-![https://www.reddit.com/r/Superstonk/comments/ms3ba5/opinion\_piece\_why\_the\_whales\_are\_not\_in\_a\_rush/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/ms3ba5/opinion_piece_why_the_whales_are_not_in_a_rush/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/Superstonk/comments/ms3ba5/opinion\_piece\_why\_the\_whales\_are\_not\_in\_a\_rush/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/ms3ba5/opinion_piece_why_the_whales_are_not_in_a_rush/?utm_source=share&utm_medium=web2x&context=3)
 
 EDIT 3: Well, after DFV legendary doubledown, i think that either the correct answer is the fifth option, or DFV is our MOASS in flesh!

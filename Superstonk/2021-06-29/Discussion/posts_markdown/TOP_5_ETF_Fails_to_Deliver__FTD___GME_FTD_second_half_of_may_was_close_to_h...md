@@ -1,5 +1,6 @@
-# Author: NyZuZ
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa4y5x/top_5_etf_fails_to_deliver_ftd_gme_ftd_second/](https://www.reddit.com/r/Superstonk/comments/oa4y5x/top_5_etf_fails_to_deliver_ftd_gme_ftd_second/)
+#Title: TOP 5 ETF Fails to Deliver ( FTD ) + GME FTD second half of may was close to half million
+#Author: NyZuZ
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa4y5x/top_5_etf_fails_to_deliver_ftd_gme_ftd_second/](https://www.reddit.com/r/Superstonk/comments/oa4y5x/top_5_etf_fails_to_deliver_ftd_gme_ftd_second/)
 
 
 Greetings, I have collected some data:

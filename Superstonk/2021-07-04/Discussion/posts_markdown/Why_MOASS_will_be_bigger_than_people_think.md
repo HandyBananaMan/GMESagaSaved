@@ -1,5 +1,6 @@
-# Author: jackdskis
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odm1ek/why_moass_will_be_bigger_than_people_think/](https://www.reddit.com/r/Superstonk/comments/odm1ek/why_moass_will_be_bigger_than_people_think/)
+#Title: Why MOASS will be bigger than people think
+#Author: jackdskis
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odm1ek/why_moass_will_be_bigger_than_people_think/](https://www.reddit.com/r/Superstonk/comments/odm1ek/why_moass_will_be_bigger_than_people_think/)
 
 
 Assuming that all theories are correct, MOASS will be squeezing during one of the largest market crashes in history. There will be one security (maybe more, depending on how many have been shorted into oblivion) that’ll be green in a sea of red. People will panic under immense losses and try to hedge. What’s the best hedge that they can think of? Oh, right. That one security that’s spiking to unimaginable levels. People buy in, thus

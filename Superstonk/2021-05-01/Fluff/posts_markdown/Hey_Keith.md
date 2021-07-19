@@ -1,0 +1,5 @@
+# Author: liburacci
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n2st1r/hey_keith/](https://www.reddit.com/r/Superstonk/comments/n2st1r/hey_keith/)
+
+
+I know you have been lurking and i do not know if this post gets to you. But i just want to say thank you from the bottom of my heart. Whether this thing shoots to the moon or not i want to take this opportunity to tell you how awesome of a human being you are. Despite the fact that you are on shackles with reaching out to your brother apes via social media you still take the risk of giving updates so we can shake off anxieties and depression. The act just shows how much you care and is a perfect example of selflessness. I hope you are staying perfectly healthy with both mind and body. You are not alone, we are all with you along the way. We gotchu brother! 🐒❤️🐈

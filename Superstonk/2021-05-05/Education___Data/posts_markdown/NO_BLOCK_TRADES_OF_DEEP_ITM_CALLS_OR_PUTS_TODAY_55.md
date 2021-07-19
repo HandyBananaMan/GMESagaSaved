@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5y83q/no_block_trades_of_deep_itm_calls_or_puts_today_55/](https://www.reddit.com/r/Superstonk/comments/n5y83q/no_block_trades_of_deep_itm_calls_or_puts_today_55/)
+#Title: NO BLOCK TRADES OF DEEP ITM CALLS OR PUTS TODAY (5/5)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5y83q/no_block_trades_of_deep_itm_calls_or_puts_today_55/](https://www.reddit.com/r/Superstonk/comments/n5y83q/no_block_trades_of_deep_itm_calls_or_puts_today_55/)
 
 
 How we doin Apes?

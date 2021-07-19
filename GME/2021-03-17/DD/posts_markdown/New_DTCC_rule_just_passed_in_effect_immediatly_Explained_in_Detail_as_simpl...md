@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/)
+#Title: New DTCC rule just passed, in effect immediatly. Explained in Detail, as simple as possible.
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/](https://www.reddit.com/r/GME/comments/m793h7/new_dtcc_rule_just_passed_in_effect_immediatly/)
 
 
 Edit: Typo in the title. It should be "immediately"
@@ -8,7 +9,7 @@ Edit: Typo in the title. It should be "immediately"
 
 I. **The DTCC just published a "new" SEC Regulatory Rule Filing**
 
-[https:\/\/www.dtcc.com\/legal\/sec-rule-filings](https://preview.redd.it/ww85de4x6nn61.png?width=967&format=png&auto=webp&s=752d216af1904a9a4f389249a1aa063d3af1fb1b)
+![https:\/\/www.dtcc.com\/legal\/sec-rule-filings](https://preview.redd.it/ww85de4x6nn61.png?width=967&format=png&auto=webp&s=752d216af1904a9a4f389249a1aa063d3af1fb1b)
 
 &#x200B;
 
@@ -58,7 +59,7 @@ Short DD, but I hope it helps. If there are any mistakes or I messed up somethin
 
 Very important remark by u/yosaso:
 
-[Page 10](https://preview.redd.it/xg6wh9hicnn61.png?width=582&format=png&auto=webp&s=1b479d9f74a4039023689ec26170d4f9fa2ddb4b)
+![Page 10](https://preview.redd.it/xg6wh9hicnn61.png?width=582&format=png&auto=webp&s=1b479d9f74a4039023689ec26170d4f9fa2ddb4b)
 
 **Conclusion: The DTCC sounds like they're making sure to cover themselves because it's going to spill over!!!**
 
@@ -66,4 +67,4 @@ Very important remark by u/yosaso:
 
 Link to the whole document:
 
-![https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf)
+[https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2021/DTC/SR-DTC-2021-003-Approval-Notice.pdf)

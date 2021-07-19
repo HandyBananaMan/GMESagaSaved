@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/](https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/)
+#Title: ETF lending and why Citadel is finished. Also, why I think today is important- IRRESPECTIVE OF SHARE PRICE.
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/](https://www.reddit.com/r/GME/comments/m8hrul/etf_lending_and_why_citadel_is_finished_also_why/)
 
 
 **ALL EDITS HAVE BEEN MOVED TO THE BOTTOM, APART FROM ONE. I am continually updating this post as more is learnt surrounding ETFs. Thanks for all your help you beautiful apes!**
@@ -24,7 +25,7 @@ I wanted to do some digging on ETFs and how exactly they rebalance their books a
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[Link at the bottom. XRT is further down.](https://preview.redd.it/a58y2hqt60o61.png?width=600&format=png&auto=webp&s=16522ca2a6c4478c67fad794bad481c25fd9aa10)
+![Link at the bottom. XRT is further down.](https://preview.redd.it/a58y2hqt60o61.png?width=600&format=png&auto=webp&s=16522ca2a6c4478c67fad794bad481c25fd9aa10)
 
 &#x200B;
 
@@ -32,7 +33,7 @@ I then opened ***'the liquidity dashboard'. (as of 02/28/2021)***
 
 &#x200B;
 
-[Lmao 141&#37;. Seriously Ken?](https://preview.redd.it/7yc9o3g860o61.png?width=294&format=png&auto=webp&s=91fb518c9865e68e8111e129b078788fce7903fd)
+![Lmao 141&#37;. Seriously Ken?](https://preview.redd.it/7yc9o3g860o61.png?width=294&format=png&auto=webp&s=91fb518c9865e68e8111e129b078788fce7903fd)
 
 &#x200B;
 
@@ -168,7 +169,7 @@ Edit - Regarding a rebalance, '***Effective before the opening of business on Mo
 
 **Edit 3 - So here are the dates for dividends for ETFs. The 25th is the date to pay up.**
 
-[That's next Thursday they have to be paid by.](https://preview.redd.it/52n6ptf7t0o61.png?width=1406&format=png&auto=webp&s=2016fc706a6a9712404813f11881c92af5b3de41)
+![That's next Thursday they have to be paid by.](https://preview.redd.it/52n6ptf7t0o61.png?width=1406&format=png&auto=webp&s=2016fc706a6a9712404813f11881c92af5b3de41)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -232,7 +233,7 @@ So what happened on the 19th? Well if it's anything to go by on their previous h
 
 My thoughts are the second one... want to know why?
 
-*Securities lending is not risk-free, even with the 2%-5% additional buffer required of collateral. If an ETF invests its collateral in overly risky instruments, the fund (and ultimately its investors) is responsible for covering any shortfall in returning the borrower's collateral. In this case, the risks assumed by the ETF provider and the ETF's investors are asymmetric:* ***The provider is not liable for losses, but is free to gamble with the shares and take a cut of any profits. As a*** ![***GAO report on securities lending***](http://www.gao.gov/assets/130/125767.pdf) ***pointed out, this arrangement gives incentive to securities-lending programs to invest collateral in an overly aggressive manner.***
+*Securities lending is not risk-free, even with the 2%-5% additional buffer required of collateral. If an ETF invests its collateral in overly risky instruments, the fund (and ultimately its investors) is responsible for covering any shortfall in returning the borrower's collateral. In this case, the risks assumed by the ETF provider and the ETF's investors are asymmetric:* ***The provider is not liable for losses, but is free to gamble with the shares and take a cut of any profits. As a*** [***GAO report on securities lending***](http://www.gao.gov/assets/130/125767.pdf) ***pointed out, this arrangement gives incentive to securities-lending programs to invest collateral in an overly aggressive manner.***
 
 *Loaned shares are also subject to the possibility of counterparty risk, or the risk that the borrower won't follow through with its obligation to return shares. Almost all ETF providers disclose very minimal information about their programs, which means investors could be taking on more risk in their portfolio than meets the eye. There are several cases of fund providers being sued by investors for not sufficiently disclosing risks and then losing money. A notable example was Lehman's bankruptcy, which meant entities that loaned securities to Lehman never saw their holdings again.*
 

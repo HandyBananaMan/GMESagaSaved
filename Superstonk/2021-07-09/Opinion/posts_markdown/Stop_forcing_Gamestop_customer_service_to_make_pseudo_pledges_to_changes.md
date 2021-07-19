@@ -1,5 +1,6 @@
-# Author: Congo_King
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogu6b6/stop_forcing_gamestop_customer_service_to_make/](https://www.reddit.com/r/Superstonk/comments/ogu6b6/stop_forcing_gamestop_customer_service_to_make/)
+#Title: Stop forcing Gamestop customer service to make pseudo pledges to changes
+#Author: Congo_King
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogu6b6/stop_forcing_gamestop_customer_service_to_make/](https://www.reddit.com/r/Superstonk/comments/ogu6b6/stop_forcing_gamestop_customer_service_to_make/)
 
 
 Look I understand giving ideas to a company you love. I understand you probably think the introduction of your favorite sock puppets to Gamestop will soar their revenue next quarter. I've been noticing a trend around here lately it looks something like this:

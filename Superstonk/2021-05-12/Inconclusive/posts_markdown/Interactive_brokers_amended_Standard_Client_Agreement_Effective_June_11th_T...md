@@ -1,12 +1,13 @@
-# Author: MrMoon1111
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/](https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/)
+#Title: Interactive brokers amended Standard Client Agreement!!! Effective June 11th. They are removing their liability and imposing EXTREMELY scary terms. This is damage control and preparation of impending market volatility - NEEDS EYES AND WRINKLE🧠GLOIDS
+#Author: MrMoon1111
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/](https://www.reddit.com/r/Superstonk/comments/nahddy/interactive_brokers_amended_standard_client/)
 
 
 I saw a post by [u/scwizard](https://www.reddit.com/user/scwizard/) about this SCA not long ago and thought if this a fresh Amendment (which it seems to be) to the Standard Client Agreement it needs apes attention asap, especially apes using IB!
 
 EDIT: Agreement was posted on 4/16 so many apes are likely already aware
 
-* link to the full written amended agreement ![https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
+* link to the full written amended agreement [https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
 
 &#x200B;
 
@@ -44,4 +45,4 @@ https://preview.redd.it/lzpzvsoggmy61.png?width=745&format=png&auto=webp&s=9e82e
 
 There is a lotttt more juice in this amended agreement and I highly suggest you read it in full🚀🌚🔜
 
-![https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)
+[https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration\_v2.formSampleView?formdb=3203](https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=3203)

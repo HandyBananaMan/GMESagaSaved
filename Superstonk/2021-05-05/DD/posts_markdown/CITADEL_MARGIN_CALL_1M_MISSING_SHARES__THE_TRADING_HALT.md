@@ -1,5 +1,6 @@
-# Author: Rugby97
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/](https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/)
+#Title: CITADEL, MARGIN CALL, 1M MISSING SHARES & THE TRADING HALT
+#Author: Rugby97
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/](https://www.reddit.com/r/Superstonk/comments/n5yl8r/citadel_margin_call_1m_missing_shares_the_trading/)
 
 
 ^(Sit the fuck down before you read this.)
@@ -32,13 +33,13 @@ In case you live under a rock and don't spend every minute during trading hours 
 
 &#x200B;
 
-[5 Minute Trading Halt - You can verify this yourself easily. credit to u\/harbinger2nd for image](https://preview.redd.it/xuya0jf61fx61.png?width=245&format=png&auto=webp&s=f42df2371301145ad94637af91eea42e8fdc0875)
+![5 Minute Trading Halt - You can verify this yourself easily. credit to u\/harbinger2nd for image](https://preview.redd.it/xuya0jf61fx61.png?width=245&format=png&auto=webp&s=f42df2371301145ad94637af91eea42e8fdc0875)
 
 &#x200B;
 
-[credit to u\/lnning for image](https://preview.redd.it/q0trxcpn1fx61.png?width=743&format=png&auto=webp&s=732ed6d6b2658bf83b8fbc45e096edeeef4919b4)
+![credit to u\/lnning for image](https://preview.redd.it/q0trxcpn1fx61.png?width=743&format=png&auto=webp&s=732ed6d6b2658bf83b8fbc45e096edeeef4919b4)
 
-[\*enhance\*](https://preview.redd.it/yccde1z42fx61.png?width=366&format=png&auto=webp&s=2b51580f50bb4354dc34d46a0b2b270539d821a9)
+![\*enhance\*](https://preview.redd.it/yccde1z42fx61.png?width=366&format=png&auto=webp&s=2b51580f50bb4354dc34d46a0b2b270539d821a9)
 
 &#x200B;
 
@@ -46,7 +47,7 @@ I was reading [This Post by Leenixus](https://www.reddit.com/r/Superstonk/commen
 
 &#x200B;
 
-[In the comments under his post u\/Wapata bought up an idea. So I ran some numbers](https://preview.redd.it/v2pzge6r2fx61.png?width=685&format=png&auto=webp&s=06db1dea504aefa97adfadcc4ec8c523125619cf)
+![In the comments under his post u\/Wapata bought up an idea. So I ran some numbers](https://preview.redd.it/v2pzge6r2fx61.png?width=685&format=png&auto=webp&s=06db1dea504aefa97adfadcc4ec8c523125619cf)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -58,21 +59,21 @@ I looked at what the volume was when the market got halted at 1127.
 
 &#x200B;
 
-[From 0930-1000 there was 441.53k volume](https://preview.redd.it/o87tsd373fx61.png?width=1112&format=png&auto=webp&s=b770e1ce2d26bacc3ef68cc5d15eb93ae8210363)
+![From 0930-1000 there was 441.53k volume](https://preview.redd.it/o87tsd373fx61.png?width=1112&format=png&auto=webp&s=b770e1ce2d26bacc3ef68cc5d15eb93ae8210363)
 
-[From 1000-1030 there was 254.76k volume](https://preview.redd.it/aa7brgbb3fx61.png?width=1109&format=png&auto=webp&s=2ec92131732951116d9004494795c48d0d91b3c6)
+![From 1000-1030 there was 254.76k volume](https://preview.redd.it/aa7brgbb3fx61.png?width=1109&format=png&auto=webp&s=2ec92131732951116d9004494795c48d0d91b3c6)
 
-[From 1030-1100 there was 169.95k volume](https://preview.redd.it/bg11uhxd3fx61.png?width=1118&format=png&auto=webp&s=b1aacfc647cb20802d9341787634a928395f8f4c)
+![From 1030-1100 there was 169.95k volume](https://preview.redd.it/bg11uhxd3fx61.png?width=1118&format=png&auto=webp&s=b1aacfc647cb20802d9341787634a928395f8f4c)
 
-[& Finally from 1100-1130 there was 150.43k volume](https://preview.redd.it/22p63eyh3fx61.png?width=1121&format=png&auto=webp&s=32c0cbddec3a2d3b1d1dce589bfbd5ded1f6698d)
+![& Finally from 1100-1130 there was 150.43k volume](https://preview.redd.it/22p63eyh3fx61.png?width=1121&format=png&auto=webp&s=32c0cbddec3a2d3b1d1dce589bfbd5ded1f6698d)
 
 Lets add this into a calculator
 
-[1M shares nearly on the fucking dot.](https://preview.redd.it/v7sukutm3fx61.png?width=770&format=png&auto=webp&s=51ce2fc0f015984981930d51a87dca8156ab7608)
+![1M shares nearly on the fucking dot.](https://preview.redd.it/v7sukutm3fx61.png?width=770&format=png&auto=webp&s=51ce2fc0f015984981930d51a87dca8156ab7608)
 
 Compare this to the AH candle again:
 
-[It's BARELY nudging over that 1M line. That looks a lot like 1.016M shares to me.](https://preview.redd.it/oqyutaqq3fx61.png?width=366&format=png&auto=webp&s=48fbe574e09aef26c014a6ca07675dc878f18118)
+![It's BARELY nudging over that 1M line. That looks a lot like 1.016M shares to me.](https://preview.redd.it/oqyutaqq3fx61.png?width=366&format=png&auto=webp&s=48fbe574e09aef26c014a6ca07675dc878f18118)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -84,13 +85,13 @@ Compare this to the AH candle again:
 
 Here's some pictures of the EOD volume not being at the "correct" 2.7M today during AH:
 
-[Webull](https://preview.redd.it/tsgl4u2q4fx61.png?width=1372&format=png&auto=webp&s=ce7f9d273c0fd8401987e45fb910721b837566cc)
+![Webull](https://preview.redd.it/tsgl4u2q4fx61.png?width=1372&format=png&auto=webp&s=ce7f9d273c0fd8401987e45fb910721b837566cc)
 
-[Yahoo @ 1718 EDT](https://preview.redd.it/qcamc0vr4fx61.png?width=1150&format=png&auto=webp&s=989e85da4b3dcf2061a376f31e9b8b299a48077d)
+![Yahoo @ 1718 EDT](https://preview.redd.it/qcamc0vr4fx61.png?width=1150&format=png&auto=webp&s=989e85da4b3dcf2061a376f31e9b8b299a48077d)
 
-[Wealthsimple at 1.22M??? \*by the way, it's at 1.23M now, it has not \\"corrected\\" like Yahoo & others. ????????? I've reached out to them, however replies usually take \~2 days](https://preview.redd.it/7pfinaot4fx61.png?width=818&format=png&auto=webp&s=03f73f15c474617f3842c5591c48c8b7180e0235)
+![Wealthsimple at 1.22M??? \*by the way, it's at 1.23M now, it has not \\"corrected\\" like Yahoo & others. ????????? I've reached out to them, however replies usually take \~2 days](https://preview.redd.it/7pfinaot4fx61.png?width=818&format=png&auto=webp&s=03f73f15c474617f3842c5591c48c8b7180e0235)
 
-[Yahoo correcting EOD Volume by end of AH back to 2.7M, many other sources did same](https://preview.redd.it/s78ex9j95fx61.png?width=902&format=png&auto=webp&s=37cce4ecf932e075780eebd4decf79eb35d430a0)
+![Yahoo correcting EOD Volume by end of AH back to 2.7M, many other sources did same](https://preview.redd.it/s78ex9j95fx61.png?width=902&format=png&auto=webp&s=37cce4ecf932e075780eebd4decf79eb35d430a0)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -100,11 +101,11 @@ Here's some pictures of the EOD volume not being at the "correct" 2.7M today dur
 
 At the end of the day we Todd Barker, the head of Citadel's Surveyor Capital step down.
 
-[Sorry to hear that, Todd.](https://preview.redd.it/c97h74xq7fx61.png?width=815&format=png&auto=webp&s=fab9d2fd4ebfd25b7d7c5392d25dda8ca4bdae19)
+![Sorry to hear that, Todd.](https://preview.redd.it/c97h74xq7fx61.png?width=815&format=png&auto=webp&s=fab9d2fd4ebfd25b7d7c5392d25dda8ca4bdae19)
 
 In [This Post by Leenixus](https://www.reddit.com/r/Superstonk/comments/n5trot/i_dont_to_tout_the_horn_without_knowing_anything/) they mentioned how todays price to get margin called is estimated\* to have been $161.19
 
-[That's above the estimated $161.19 margin call trigger. Coincidence?](https://preview.redd.it/2d4bc9td8fx61.png?width=992&format=png&auto=webp&s=4237f73919575b866a4958171794f79a8585f7f2)
+![That's above the estimated $161.19 margin call trigger. Coincidence?](https://preview.redd.it/2d4bc9td8fx61.png?width=992&format=png&auto=webp&s=4237f73919575b866a4958171794f79a8585f7f2)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -146,7 +147,7 @@ A very good point brought up by u/Jvic111 & my counter to it
 
 &#x200B;
 
-[Always encourage both sides of an argument! Thank you Jvic!](https://preview.redd.it/753iwdstgfx61.png?width=715&format=png&auto=webp&s=6bb4e7f23101a63cfe68b9b0c8a5f52719743927)
+![Always encourage both sides of an argument! Thank you Jvic!](https://preview.redd.it/753iwdstgfx61.png?width=715&format=png&auto=webp&s=6bb4e7f23101a63cfe68b9b0c8a5f52719743927)
 
 EDIT 3.1:
 
@@ -172,7 +173,7 @@ Well, I guess I'm not sleeping tonight:
 
 &#x200B;
 
-[are you](https://preview.redd.it/fs2cg74p4gx61.png?width=729&format=png&auto=webp&s=7937661f6dd8080317d9253ee0469d1e5f49e0b2)
+![are you](https://preview.redd.it/fs2cg74p4gx61.png?width=729&format=png&auto=webp&s=7937661f6dd8080317d9253ee0469d1e5f49e0b2)
 
 ![fucking kidding me](https://preview.redd.it/mvuf1bvp4gx61.png?width=1648&format=png&auto=webp&s=2a5210edcc9a1a7a82fea313e56ff7f544312db9)
 

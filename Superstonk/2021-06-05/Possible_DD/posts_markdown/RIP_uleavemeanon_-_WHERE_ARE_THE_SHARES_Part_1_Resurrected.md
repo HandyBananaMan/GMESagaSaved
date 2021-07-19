@@ -1,5 +1,6 @@
-# Author: VoxUmbra
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/](https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/)
+#Title: RIP /u/leavemeanon - WHERE ARE THE SHARES (Part 1) Resurrected
+#Author: VoxUmbra
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/](https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/)
 
 
 [\[Part 2\]](https://www.reddit.com/r/Superstonk/comments/nt8qzj/rip_uleavemeanon_where_are_the_shares_part_2/)
@@ -228,7 +229,7 @@ Another 1.3 million GME.
 
 *last but not least*
 
-![Wedbush back at it again with](https://www.stocklaw.com/securities-fraud-blog/2019/june/wedbushs-latest-penalty-is-an-8-1-million-sec-fi/) **GAMR** \- (1.42% GME) - **70.77m shares outstanding and 190,000 institutional ownership.**
+[Wedbush back at it again with](https://www.stocklaw.com/securities-fraud-blog/2019/june/wedbushs-latest-penalty-is-an-8-1-million-sec-fi/) **GAMR** \- (1.42% GME) - **70.77m shares outstanding and 190,000 institutional ownership.**
 
 Another million.
 

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mhrxtr/synopsis_for_04012021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mhrxtr/synopsis_for_04012021_what_we_need_to_know_before/)
+#Title: Synopsis for 04-01-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mhrxtr/synopsis_for_04012021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mhrxtr/synopsis_for_04012021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -28,7 +29,7 @@ I'd like to thank  u/SituationGoood for posting this for us.
 
 &#x200B;
 
-[the numbers Mason...](https://preview.redd.it/2lcdz4m6yiq61.png?width=1242&format=png&auto=webp&s=94f9fe008de51fbd88a0c86e0e5e8f77d6683b00)
+![the numbers Mason...](https://preview.redd.it/2lcdz4m6yiq61.png?width=1242&format=png&auto=webp&s=94f9fe008de51fbd88a0c86e0e5e8f77d6683b00)
 
 as you can see it's still cyclical so it seems their MO has not changed
 
@@ -148,7 +149,7 @@ at this point it's been stated so many times and people have not been able to di
 
 &#x200B;
 
-[now starring Kenny and Melvin](https://preview.redd.it/mwchxeo17jq61.png?width=960&format=png&auto=webp&s=fa8cfb352e3deacc440ccea689dcdcf47e89e499)
+![now starring Kenny and Melvin](https://preview.redd.it/mwchxeo17jq61.png?width=960&format=png&auto=webp&s=fa8cfb352e3deacc440ccea689dcdcf47e89e499)
 
 # Wen CEO?
 
@@ -273,6 +274,6 @@ https://preview.redd.it/0pxzh9brwjq61.png?width=1193&format=png&auto=webp&s=040e
 
 https://preview.redd.it/zfakzckswjq61.png?width=1064&format=png&auto=webp&s=30268b16b5e7ba89cb1213c981cbc7f82cb60291
 
-![https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20](https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20)
+[https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20](https://twitter.com/JohnnyDankseeds/status/1377585629970718720?s=20)
 
 &#x200B;

@@ -1,5 +1,6 @@
-# Author: akichi08
-# Post URL: [https://www.reddit.com/r/GME/comments/luxu61/gamestop_shortsellers_have_lost_19_billion_in/](https://www.reddit.com/r/GME/comments/luxu61/gamestop_shortsellers_have_lost_19_billion_in/)
+#Title: GameStop short-sellers have lost $1.9 billion in just 2 days amid the stock's latest spike!
+#Author: akichi08
+#Post URL: [https://www.reddit.com/r/GME/comments/luxu61/gamestop_shortsellers_have_lost_19_billion_in/](https://www.reddit.com/r/GME/comments/luxu61/gamestop_shortsellers_have_lost_19_billion_in/)
 
 
 This isn’t over guys! They are taking out more short positions because they NEVER learn their lesson! 

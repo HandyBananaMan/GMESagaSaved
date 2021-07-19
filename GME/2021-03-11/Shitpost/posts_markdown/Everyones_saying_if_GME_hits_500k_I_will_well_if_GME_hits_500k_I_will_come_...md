@@ -1,5 +1,6 @@
-# Author: TimelyKaleidoscope2
-# Post URL: [https://www.reddit.com/r/GME/comments/m2yptx/everyones_saying_if_gme_hits_500k_i_will_well_if/](https://www.reddit.com/r/GME/comments/m2yptx/everyones_saying_if_gme_hits_500k_i_will_well_if/)
+#Title: Everyone’s saying “if GME hits 500k I will...” well if GME hits 500k I will come out to my friends and family 🌈
+#Author: TimelyKaleidoscope2
+#Post URL: [https://www.reddit.com/r/GME/comments/m2yptx/everyones_saying_if_gme_hits_500k_i_will_well_if/](https://www.reddit.com/r/GME/comments/m2yptx/everyones_saying_if_gme_hits_500k_i_will_well_if/)
 
 
 Because I’ll be too fucking rich to care! 

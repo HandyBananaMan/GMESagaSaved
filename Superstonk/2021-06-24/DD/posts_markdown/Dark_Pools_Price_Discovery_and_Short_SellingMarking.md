@@ -1,5 +1,6 @@
-# Author: dlauer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/](https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/)
+#Title: Dark Pools, Price Discovery and Short Selling/Marking
+#Author: dlauer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/](https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/)
 
 
 Recently, and since I've joined this sub-reddit, there have been a ton of questions around the role that Dark Pools play in US equity market structure. I wanted to put together a post to clarify some things about how they operate, what they do, and what they cannot do.

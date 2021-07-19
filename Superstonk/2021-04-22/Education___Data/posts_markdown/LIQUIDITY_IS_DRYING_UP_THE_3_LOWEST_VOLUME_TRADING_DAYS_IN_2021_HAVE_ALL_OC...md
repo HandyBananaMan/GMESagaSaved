@@ -1,5 +1,6 @@
-# Author: kamayatzee
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwde2v/liquidity_is_drying_up_the_3_lowest_volume/](https://www.reddit.com/r/Superstonk/comments/mwde2v/liquidity_is_drying_up_the_3_lowest_volume/)
+#Title: LIQUIDITY IS DRYING UP! THE 3 LOWEST VOLUME TRADING DAYS IN 2021 HAVE ALL OCCURRED IN THE LAST 3 DAYS
+#Author: kamayatzee
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwde2v/liquidity_is_drying_up_the_3_lowest_volume/](https://www.reddit.com/r/Superstonk/comments/mwde2v/liquidity_is_drying_up_the_3_lowest_volume/)
 
 
 &#x200B;

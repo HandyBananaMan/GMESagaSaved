@@ -1,5 +1,6 @@
-# Author: DerButterkex
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/](https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/)
+#Title: THEORY: Robinhood is buying counterfeit shares from Citadel at inflated prices to move capital towards the mothership, trying to prevent the margin call
+#Author: DerButterkex
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/](https://www.reddit.com/r/Superstonk/comments/nh2lzv/theory_robinhood_is_buying_counterfeit_shares/)
 
 
 LAST EDIT; THIS THEORY HAS BEEN PARTIALLY DISPROVED BY DLAURER; [https://www.reddit.com/r/Superstonk/comments/nhtt04/cost\_basis\_and\_trade\_price\_issues/](https://www.reddit.com/r/Superstonk/comments/nhtt04/cost_basis_and_trade_price_issues/) 
@@ -66,16 +67,16 @@ https://preview.redd.it/rfj8znvpna071.png?width=1416&format=png&auto=webp&s=2590
 
 **EDIT 4**: Two good worth seeing by /u/David_BoBavid and /u/WisePhantom
 
-[I will have to check what \/u\/dlauer said about this, will get back to you ASAP](https://preview.redd.it/9qo0496zra071.png?width=1450&format=png&auto=webp&s=97d24fffbfd384447ea0a1367b2448faabd98f2f)
+![I will have to check what \/u\/dlauer said about this, will get back to you ASAP](https://preview.redd.it/9qo0496zra071.png?width=1450&format=png&auto=webp&s=97d24fffbfd384447ea0a1367b2448faabd98f2f)
 
-[Nr. 1 is what has happened and is no counter argument to my theory, in fact its the basis of it. About Nr. 2: the price increases in the open market would correlate to they prices paid by RH which it doesn't unless I am missing something. Maybe need to find authentic shares for the transfer, in that case they might be buying them from paper hands with sell orders at 300+](https://preview.redd.it/pdmxctt3sa071.png?width=1472&format=png&auto=webp&s=325dad3d9900e0e8aa7cab2b6e6409c5634a6d03)
+![Nr. 1 is what has happened and is no counter argument to my theory, in fact its the basis of it. About Nr. 2: the price increases in the open market would correlate to they prices paid by RH which it doesn't unless I am missing something. Maybe need to find authentic shares for the transfer, in that case they might be buying them from paper hands with sell orders at 300+](https://preview.redd.it/pdmxctt3sa071.png?width=1472&format=png&auto=webp&s=325dad3d9900e0e8aa7cab2b6e6409c5634a6d03)
 
-**EDIT 5: Fellow ape** /u/skybuff **has sent me screenshots of some of his RH GME shares being bought for around 600$!** [**https://imgur.com/a/LXy7GSY**](https://imgur.com/a/LXy7GSY)
+**EDIT 5: Fellow ape** /u/skybuff **has sent me screenshots of some of his RH GME shares being bought for around 600$!** ![**https://imgur.com/a/LXy7GSY**](https://imgur.com/a/LXy7GSY)
 
 &#x200B;
 
 https://preview.redd.it/92ko7hsf7b071.png?width=1080&format=png&auto=webp&s=40f89e072e65741ceb360e3b34e6312372c39fa1
 
-EDIT 6: Fellow Ape /u/HubKap1853 has posted the following article about the whole situation with the OCC: ![https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/)
+EDIT 6: Fellow Ape /u/HubKap1853 has posted the following article about the whole situation with the OCC: [https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/](https://tokenist.com/recent-occ-regulatory-moves-indicate-gme-amc-short-sellers-may-go-bust/)
 
 I just want to stress something: While we can agree with what is being said in this article, it is NOT an unbiased news source. The author works for an investment company that certainly has motivations. Possible conflict of interest here. Just saying, good news is good news but biased news are biased news.

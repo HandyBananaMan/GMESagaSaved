@@ -1,5 +1,6 @@
-# Author: Antioch_Orontes
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/)
+#Title: A BRIEF OVERVIEW OF RECENT FILINGS FROM THE DTC, NSCC, AND OCC FOR DIPSHITS WHO KNOW FUCKALL ABOUT SECURITIES LEGISLATION AND GET CONFUSED BY LETTERS AND NUMBERS
+#Author: Antioch_Orontes
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/)
 
 
 # EDIT: I have posted an updated, further-depth overview of all DTC filings [here](https://www.reddit.com/r/DDintoGME/comments/mtw35e/filings_from_the_dtc_whos_who_and_whats_what/), and will be posting NSCC and OCC filings this week.
@@ -28,4 +29,4 @@ NSCC-004 — Same as DTC-004
 
 [OCC-004](https://www.reddit.com/r/Superstonk/comments/mnpzu5/srocc2021004_why_this_proposed_rule_change_is/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) - Let’s make it easier for non-OCC members to buy up the holdings of a liquidated member for cheap (submitted for approval 3/31)
 
-edit: thank you to u/the_captain_slog for good clarifications on the ones that i got wrong in ![this comment](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/gut0keu/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3)!
+edit: thank you to u/the_captain_slog for good clarifications on the ones that i got wrong in [this comment](https://www.reddit.com/r/Superstonk/comments/msh5mt/a_brief_overview_of_recent_filings_from_the_dtc/gut0keu/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3)!

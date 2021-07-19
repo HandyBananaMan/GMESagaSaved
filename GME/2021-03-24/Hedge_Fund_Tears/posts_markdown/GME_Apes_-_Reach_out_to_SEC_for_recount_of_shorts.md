@@ -1,5 +1,6 @@
-# Author: RyanZaidi
-# Post URL: [https://www.reddit.com/r/GME/comments/mcd9qe/gme_apes_reach_out_to_sec_for_recount_of_shorts/](https://www.reddit.com/r/GME/comments/mcd9qe/gme_apes_reach_out_to_sec_for_recount_of_shorts/)
+#Title: GME Apes - Reach out to SEC for recount of shorts
+#Author: RyanZaidi
+#Post URL: [https://www.reddit.com/r/GME/comments/mcd9qe/gme_apes_reach_out_to_sec_for_recount_of_shorts/](https://www.reddit.com/r/GME/comments/mcd9qe/gme_apes_reach_out_to_sec_for_recount_of_shorts/)
 
 
 Do your part. I did. **Ask SEC for a recount of naked GME shorts**, how citadel is going around margin requirements, etc.
@@ -36,7 +37,7 @@ Do your part. I did. **Ask SEC for a recount of naked GME shorts**, how citadel 
 
 [**Division of Trading and Markets**](https://www.sec.gov/tm)**:** [**tradingandmarkets@sec.gov**](mailto:tradingandmarkets@sec.gov)
 
-[**Division of Economic and Risk Analysis**](https://www.sec.gov/dera) : ![**DERA@sec.gov**](mailto:DERA@sec.gov)
+[**Division of Economic and Risk Analysis**](https://www.sec.gov/dera) : [**DERA@sec.gov**](mailto:DERA@sec.gov)
 
 \- U.S. Securities and Exchange Commission Office of Investor Education and Advocacy 100 F Street, NE Washington, DC 20549-0213. Call us at 1-800-732-0330
 

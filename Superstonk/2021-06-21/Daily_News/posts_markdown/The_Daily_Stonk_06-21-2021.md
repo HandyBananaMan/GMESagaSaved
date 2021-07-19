@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4q456/the_daily_stonk_06212021/](https://www.reddit.com/r/Superstonk/comments/o4q456/the_daily_stonk_06212021/)
+#Title: The Daily Stonk 06-21-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4q456/the_daily_stonk_06212021/](https://www.reddit.com/r/Superstonk/comments/o4q456/the_daily_stonk_06212021/)
 
 
 &#x200B;
@@ -34,7 +35,7 @@ the "exponential floor" from u/jth1 it seems that we are still traveling bellow 
 
 &#x200B;
 
-[credit to  u\/CachitoVolador ](https://preview.redd.it/y2sa714cpk671.png?width=720&format=png&auto=webp&s=501e727115a063adca46ea24b1b6c5e01ef56ad1)
+![credit to  u\/CachitoVolador ](https://preview.redd.it/y2sa714cpk671.png?width=720&format=png&auto=webp&s=501e727115a063adca46ea24b1b6c5e01ef56ad1)
 
 &#x200B;
 
@@ -52,7 +53,7 @@ Larry Cheng, GME boardmember.
 
 &#x200B;
 
-[credit to  u\/Manonthemon ](https://preview.redd.it/nugyu7aeqk671.png?width=960&format=png&auto=webp&s=d814f8f5af0cc5522abc03bbbe90af88edb928ab)
+![credit to  u\/Manonthemon ](https://preview.redd.it/nugyu7aeqk671.png?width=960&format=png&auto=webp&s=d814f8f5af0cc5522abc03bbbe90af88edb928ab)
 
 # The NSCC 2021 002
 
@@ -80,11 +81,11 @@ Now I love pure data because once you have "all the data" you can see so much mo
 
 let's just say there is some weird stuff going on just by data alone
 
-[Overstock's graph](https://preview.redd.it/t55gv2i4sk671.png?width=5166&format=png&auto=webp&s=4f667955247ef8c596d50044783bc11eaf0112ff)
+![Overstock's graph](https://preview.redd.it/t55gv2i4sk671.png?width=5166&format=png&auto=webp&s=4f667955247ef8c596d50044783bc11eaf0112ff)
 
 &#x200B;
 
-[Gamestonk](https://preview.redd.it/674s7hb6sk671.png?width=4932&format=png&auto=webp&s=224539892efddd747b7e46d80fba71b7969093dc)
+![Gamestonk](https://preview.redd.it/674s7hb6sk671.png?width=4932&format=png&auto=webp&s=224539892efddd747b7e46d80fba71b7969093dc)
 
 &#x200B;
 
@@ -134,7 +135,7 @@ backups:
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)
 
 &#x200B;
 

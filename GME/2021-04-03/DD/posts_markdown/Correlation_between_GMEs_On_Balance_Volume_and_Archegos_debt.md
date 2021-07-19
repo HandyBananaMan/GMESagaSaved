@@ -1,5 +1,6 @@
-# Author: 33a
-# Post URL: [https://www.reddit.com/r/GME/comments/mjnjyp/correlation_between_gmes_on_balance_volume_and/](https://www.reddit.com/r/GME/comments/mjnjyp/correlation_between_gmes_on_balance_volume_and/)
+#Title: Correlation between GME's On Balance Volume and Archegos' debt
+#Author: 33a
+#Post URL: [https://www.reddit.com/r/GME/comments/mjnjyp/correlation_between_gmes_on_balance_volume_and/](https://www.reddit.com/r/GME/comments/mjnjyp/correlation_between_gmes_on_balance_volume_and/)
 
 
 FT today posted an article about Archegos' massive blow up that got some attention.  You can read a non-paywalled version of this article here:

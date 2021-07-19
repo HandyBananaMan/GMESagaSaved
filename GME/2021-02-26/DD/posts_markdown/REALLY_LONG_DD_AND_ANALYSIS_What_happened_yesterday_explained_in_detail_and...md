@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/](https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/)
+#Title: REALLY LONG DD AND ANALYSIS! What happened yesterday explained in detail and exposing the HFs obvious manipulation.
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/](https://www.reddit.com/r/GME/comments/lsve5j/really_long_dd_and_analysis_what_happened/)
 
 
 **THE POST IS NOW UP ON WSB! SHOW IT SOME LOVE THERE AND TRY TO REACH AS MANY PEOPLE AS POSSIBLE!;** [https://www.reddit.com/r/wallstreetbets/comments/lsvl8k/really\_long\_dd\_and\_analysis\_what\_happened/](https://www.reddit.com/r/wallstreetbets/comments/lsvl8k/really_long_dd_and_analysis_what_happened/)
@@ -84,7 +85,7 @@ Returning to our example, everything is the same except the part about borrowing
 
 &#x200B;
 
-**EDIT3(9:30AM): THE FEE TO BORROW GME SHARES WENT UP BY 12 % OVER NIGHT AND IS THEREFORE IN THE DOUBLE DIGITS FOR THE FIRST TIME SINCE 4 WEEKS! (**![**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**
+**EDIT3(9:30AM): THE FEE TO BORROW GME SHARES WENT UP BY 12 % OVER NIGHT AND IS THEREFORE IN THE DOUBLE DIGITS FOR THE FIRST TIME SINCE 4 WEEKS! (**[**https://iborrowdesk.com/report/GME**](https://iborrowdesk.com/report/GME)**)**
 
 &#x200B;
 

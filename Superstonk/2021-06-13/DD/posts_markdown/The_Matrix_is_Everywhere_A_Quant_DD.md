@@ -1,5 +1,6 @@
-# Author: BurnieSlander
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/](https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/)
+#Title: The Matrix is Everywhere. A Quant DD
+#Author: BurnieSlander
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/](https://www.reddit.com/r/Superstonk/comments/nzajpv/the_matrix_is_everywhere_a_quant_dd/)
 
 
 Greetings Apetards, hold on to your tits.
@@ -8,14 +9,14 @@ Why you should not take financial advice from me:
 
 1. I put things in my mouth that I shouldn't; play dough, brown crayolas (because keto).
 2. I drank from the gutter as a child and got giardia and my brain was affected.
-3. I ate [M](https://imgur.com/a/2hsRx5M)[achineel fruit](https://www.southernliving.com/garden/trees/manchineel-poison-tree) while on vacation 2 years ago because they taste good. But they make you feel very bad.
+3. I ate ![M](https://imgur.com/a/2hsRx5M)[achineel fruit](https://www.southernliving.com/garden/trees/manchineel-poison-tree) while on vacation 2 years ago because they taste good. But they make you feel very bad.
 4. Copious amounts of substances that have made my mind incompatible with normal life.
 
 Ever since u/HomeDepotHank69 rallied the Quant Apes and showed [increasing levels of correlation](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/) among a number of shorted stocks, I've been wondering- just how big is the House of Cards? This technical DD attempts to answer that question by mining price data for over 6K tickers and identifying stocks with similar price action to GME.
 
 As a salute to HD Hank's work with other Quant Apes, I ran my own independent correlation analysis and created a slightly more eyeball-friendly version of the results:
 
-[In 2020, these stocks had low correlation; which is typical in a free-ish market. In 2021, we see a huge surge in correlation rates. IMO, this is indicative of hedge funds using the same or highly similar HFT algorithms to manipulate prices.](https://preview.redd.it/8oc8uadoj4571.png?width=2002&format=png&auto=webp&s=883e5db6a01056b047c30f4ef67eeb3d38dcaa41)
+![In 2020, these stocks had low correlation; which is typical in a free-ish market. In 2021, we see a huge surge in correlation rates. IMO, this is indicative of hedge funds using the same or highly similar HFT algorithms to manipulate prices.](https://preview.redd.it/8oc8uadoj4571.png?width=2002&format=png&auto=webp&s=883e5db6a01056b047c30f4ef67eeb3d38dcaa41)
 
 Now that we know that shorted stocks have suddenly started moving together in 2021, we can hypothesize that there are even more stocks out there that are also correlated.
 
@@ -29,7 +30,7 @@ These numbers are interesting to me because it gives us some insight into the sc
 
 # OK, but the blip doesn't mean shit if "Shorts Have Covered"TM
 
-[Shorts have a lot more covering to do.](https://preview.redd.it/sxalstfqc4571.png?width=1278&format=png&auto=webp&s=14fcfea7182b84b309280719f82bb2f6d6b89b14)
+![Shorts have a lot more covering to do.](https://preview.redd.it/sxalstfqc4571.png?width=1278&format=png&auto=webp&s=14fcfea7182b84b309280719f82bb2f6d6b89b14)
 
 So let's look at only those stocks which have been able to **sustain** the gains made during the January blip. Of the 279 stocks that gained more than 100% during the blip:
 
@@ -46,11 +47,11 @@ So let's look at only those stocks which have been able to **sustain** the gains
 
 Of these sustained gains, **GME is the king at 2,463.86%**. AMC comes in second at 1,735.11%
 
-[\*Note that of these 135 stocks, there may be a few whose gains are unrelated to shorting\/hedgefuckery\/apes. That said, based on my criteria for this analysis, all 135 of these stocks experienced a big jump above their baseline in late January 2021 and have exhibited similar price action since, all while trending upwards far above their baseline while maintaining gains.](https://preview.redd.it/qs0qkcborz471.png?width=1306&format=png&auto=webp&s=187408c522c47c0de806639890f3c8e62f810bdf)
+![\*Note that of these 135 stocks, there may be a few whose gains are unrelated to shorting\/hedgefuckery\/apes. That said, based on my criteria for this analysis, all 135 of these stocks experienced a big jump above their baseline in late January 2021 and have exhibited similar price action since, all while trending upwards far above their baseline while maintaining gains.](https://preview.redd.it/qs0qkcborz471.png?width=1306&format=png&auto=webp&s=187408c522c47c0de806639890f3c8e62f810bdf)
 
 # Charting these stocks makes it pretty clear that the hedgies are losing control
 
-[Note what a normal market looks like on the left vs. where we are now.](https://preview.redd.it/mj5uu2ebd4571.png?width=3634&format=png&auto=webp&s=9eea5bd3ab14acc7d5938987d19d9f86adb597ee)
+![Note what a normal market looks like on the left vs. where we are now.](https://preview.redd.it/mj5uu2ebd4571.png?width=3634&format=png&auto=webp&s=9eea5bd3ab14acc7d5938987d19d9f86adb597ee)
 
 # TRUTH or FUD!
 
@@ -60,13 +61,13 @@ Of these sustained gains, **GME is the king at 2,463.86%**. AMC comes in second 
 
 IMO, **retail simply doesn't have the purchasing power to maintain 100% to 2,000% gains across 135 stocks.** Especially not in a post-pandemic world where nobody works and we all just gamble away our government teat-milk based on 2-star-quality wallstreetbets DD.
 
-[\*It's not that I hate my job it's just that I hate having to have a job](https://preview.redd.it/wxyuzh9m30571.png?width=718&format=png&auto=webp&s=b2ee2a9c4ec406443037e4f5ecf4a57f21289c79)
+![\*It's not that I hate my job it's just that I hate having to have a job](https://preview.redd.it/wxyuzh9m30571.png?width=718&format=png&auto=webp&s=b2ee2a9c4ec406443037e4f5ecf4a57f21289c79)
 
 This analysis again led me back to HD Hank & The Quant Apes work with price action correlations among groups of stocks. Taking the top 75 gainer-maintainers from the earlier exercise, I created a correlation matrix for those stocks across 2020 and 2021. We want to see if correlation increased in 2021.
 
 Greener cells indicate higher correlation.
 
-[\*The diagonal white line is a byproduct of how the matrix is constructed- disregard. Also, I chose the top 75 because I didn't want to wait 3 hours for my laptop to process the larger dataset.](https://preview.redd.it/neqpx9ijq4571.png?width=1632&format=png&auto=webp&s=770d7f5e9664dead065a9eb612936a47881cdbf4)
+![\*The diagonal white line is a byproduct of how the matrix is constructed- disregard. Also, I chose the top 75 because I didn't want to wait 3 hours for my laptop to process the larger dataset.](https://preview.redd.it/neqpx9ijq4571.png?width=1632&format=png&auto=webp&s=770d7f5e9664dead065a9eb612936a47881cdbf4)
 
 I know these just look like shitty QR codes, but the results are significant. ***The aggregate correlation value for this set of 75 stocks in 2020 is 22.19, while the aggregate in 2021 is 60.9 (hehe).***
 
@@ -92,7 +93,7 @@ https://preview.redd.it/bac2kx5m40571.png?width=960&format=png&auto=webp&s=f8bc7
 
 EDIT: Full list of gainers & maintainers here:
 
-![https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py\_tfl6JsSlQA8slZ6bWpwDJ\_f\_ds5ps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py_tfl6JsSlQA8slZ6bWpwDJ_f_ds5ps/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py\_tfl6JsSlQA8slZ6bWpwDJ\_f\_ds5ps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1WKPzllUsVD4Py_tfl6JsSlQA8slZ6bWpwDJ_f_ds5ps/edit?usp=sharing)
 
 &#x200B;
 

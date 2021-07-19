@@ -1,10 +1,11 @@
-# Author: StonkU2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/](https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/)
+#Title: 🎉 After 1 week of voting, 5 brackets, 128 submissions, over 420,000 total votes (👀 yes, really) - and - with almost 25,000 votes cast in the FINAL ROUND ... ... 😬 ... ... THE WINNER OF THE R/SUPERSTONK BANNER CONTEST IS ... 🖼🏆
+#Author: StonkU2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/](https://www.reddit.com/r/Superstonk/comments/mwdsmm/after_1_week_of_voting_5_brackets_128_submissions/)
 
 
 &#x200B;
 
-[Congratulations u\/woke0rthadox!! 🖼🏆 Resident Ape Artist Extraordinaire! ](https://preview.redd.it/ypoy3m3fyru61.jpg?width=1600&format=pjpg&auto=webp&s=775dff2c4e72baf6b99f2e1dbc858dd1a6f8753e)
+![Congratulations u\/woke0rthadox!! 🖼🏆 Resident Ape Artist Extraordinaire! ](https://preview.redd.it/ypoy3m3fyru61.jpg?width=1600&format=pjpg&auto=webp&s=775dff2c4e72baf6b99f2e1dbc858dd1a6f8753e)
 
 &#x200B;
 

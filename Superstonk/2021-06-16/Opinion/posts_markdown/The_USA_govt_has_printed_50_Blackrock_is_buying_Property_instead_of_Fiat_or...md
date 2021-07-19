@@ -1,5 +1,6 @@
-# Author: stsoup
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o12s3z/the_usa_govt_has_printed_50_blackrock_is_buying/](https://www.reddit.com/r/Superstonk/comments/o12s3z/the_usa_govt_has_printed_50_blackrock_is_buying/)
+#Title: The USA govt has printed 50%+, Blackrock is buying Property instead of Fiat or Stocks and Michael Burry (of The Big Short movie) is back with a vengence.
+#Author: stsoup
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o12s3z/the_usa_govt_has_printed_50_blackrock_is_buying/](https://www.reddit.com/r/Superstonk/comments/o12s3z/the_usa_govt_has_printed_50_blackrock_is_buying/)
 
 
 **The Greatest Financial Crash of all time?**

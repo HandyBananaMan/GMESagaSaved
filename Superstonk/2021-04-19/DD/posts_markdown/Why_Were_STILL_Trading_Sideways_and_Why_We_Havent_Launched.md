@@ -1,5 +1,6 @@
-# Author: c-digs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/)
+#Title: Why We're STILL Trading Sideways and Why We Haven't Launched
+#Author: c-digs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/](https://www.reddit.com/r/Superstonk/comments/mu9xed/why_were_still_trading_sideways_and_why_we_havent/)
 
 
 **~~EDIT May 12, 2021~~**~~:~~ [~~SR-OCC-2021-004 Is Scheduled to Finalize This Week~~](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/) ~~^(Also, I have been banned from Superstonk...)~~
@@ -20,7 +21,7 @@ On APR13, u/jamiegirl21 posted [this S-4 filing](https://www.sec.gov/Archives/ed
 
 Check out page 84:
 
-[\\"Apex, along with over 30 other brokerages...including...Citadel and DTCC engaged in a coordinated conspiracy...\\"](https://preview.redd.it/g3p76sl7n6u61.png?width=906&format=png&auto=webp&s=61d82b61305ceeb4bf9e4568b447c0887782e787)
+![\\"Apex, along with over 30 other brokerages...including...Citadel and DTCC engaged in a coordinated conspiracy...\\"](https://preview.redd.it/g3p76sl7n6u61.png?width=906&format=png&auto=webp&s=61d82b61305ceeb4bf9e4568b447c0887782e787)
 
 While this is *alleged* at the moment, what is clear is that some law firm(s) believes that there is a case against multiple entities -- including the DTCC -- for conspiring to shut down the JAN28 squeeze.
 
@@ -60,9 +61,9 @@ The fallout from this squeeze is that there are multiple DTCC members who are go
 
 During the squeeze, the DTCC will intervene and provide immediate liquidity when a member defaults.  In turn, DTCC will use the assets of the defaulting members as collateral for that liquidity (which itself may originate outside of DTCC).  Those assets from the defaulting member will then be auctioned off to recover those loans.
 
-[SR-OCC-2021-004 page 4: \\"OCC is proposing...to clarify and further facilitate the process of on-boarding Clearing Members and non-Clearing Members as potential bidders in future auctions of a suspended Clearing Member's remaining portfolio\\"](https://preview.redd.it/6lr1elrbn6u61.png?width=532&format=png&auto=webp&s=4c44a3b19bee31d50d2ea5e97963da4d377f2272)
+![SR-OCC-2021-004 page 4: \\"OCC is proposing...to clarify and further facilitate the process of on-boarding Clearing Members and non-Clearing Members as potential bidders in future auctions of a suspended Clearing Member's remaining portfolio\\"](https://preview.redd.it/6lr1elrbn6u61.png?width=532&format=png&auto=webp&s=4c44a3b19bee31d50d2ea5e97963da4d377f2272)
 
-[SR-DTC-2021-004 page 11: \\"...to address losses arising out of the default of a DTC Participant...\[t\]he proposed rule change would add a sentence...DTC may, in extreme circumstances, borrow net credits from Participants secured by collateral of the defaulting Participant\\"](https://preview.redd.it/jwcjavojn6u61.png?width=651&format=png&auto=webp&s=5e6b2d668b9106566a5442677b6d7c8338ab48dc)
+![SR-DTC-2021-004 page 11: \\"...to address losses arising out of the default of a DTC Participant...\[t\]he proposed rule change would add a sentence...DTC may, in extreme circumstances, borrow net credits from Participants secured by collateral of the defaulting Participant\\"](https://preview.redd.it/jwcjavojn6u61.png?width=651&format=png&auto=webp&s=5e6b2d668b9106566a5442677b6d7c8338ab48dc)
 
 If you are interested in diving deeper into this, [check out my earlier post on the topic](https://www.reddit.com/r/Superstonk/comments/mnpzu5/srocc2021004_why_this_proposed_rule_change_is/).
 
@@ -95,7 +96,7 @@ Then there's [the curious case of the increased short volume of BlackRock's IXG 
 
 What is important is to understand the difference between **short interest** and **short volume**.  [Squeezemetrics' white paper does a great job of explaining this](https://squeezemetrics.com/monitor/download/pdf/short_is_long.pdf):
 
-[\\"Thus short volume is actually representative of investor buying volume\\"](https://preview.redd.it/vrpqxaonn6u61.png?width=656&format=png&auto=webp&s=0f573ab8d8ebf5a1aa5fb31f70ceda5f4240e769)
+![\\"Thus short volume is actually representative of investor buying volume\\"](https://preview.redd.it/vrpqxaonn6u61.png?width=656&format=png&auto=webp&s=0f573ab8d8ebf5a1aa5fb31f70ceda5f4240e769)
 
 The purpose of a Market Maker is to provide liquidity.  Say you want to  buy a bunch of IXG.  Rather than waiting precisely for a seller of the  same exact block size to enter a sell order that mirrors your buy order,  they create the short (an "IOU") and hand you the shares and then close  the IOU when they can round up the shares.
 
@@ -115,13 +116,13 @@ How can we know which of those two scenarios above is more likely?  No one can s
 
 Tucked into SR-DTC-2021-004 is an interesting bit of text on page 12:
 
-[SR-DTC-2021-004 page 12: \\"in light of observations from simulation of  Participant defaults\\" and \\"multi-member closeout simulation exercise\\"](https://preview.redd.it/indix74rn6u61.png?width=676&format=png&auto=webp&s=7d0ed8ed4d943a3dd7d4db349d4e89221808fed4)
+![SR-DTC-2021-004 page 12: \\"in light of observations from simulation of  Participant defaults\\" and \\"multi-member closeout simulation exercise\\"](https://preview.redd.it/indix74rn6u61.png?width=676&format=png&auto=webp&s=7d0ed8ed4d943a3dd7d4db349d4e89221808fed4)
 
 They have an existing model that they can use to simulate market conditions and it is possible that they have already simulated the squeeze and the aftermath.  My assumption is that they also have some idea of the probabilities of which of their member entities are going to fail, when they will fail, how they will fail, and how much liquidity they need to contain these defaults.
 
 This proposed change would "*shift the timing of management's review of the Corridor Indicators and related metrics from annually to biennially*".  What are these Corridor Indicators?
 
-[SR-DTC-2021-004 page 12: \\"Corridor Indicators include, for example, the effectiveness and speed  of DTC's efforts to liquidate Collateral securities...due to any  Participant Default\\"](https://preview.redd.it/a1yz0estn6u61.png?width=753&format=png&auto=webp&s=b89ca4fe5a4dba1ae41fb57f8db5a109ea8578f1)
+![SR-DTC-2021-004 page 12: \\"Corridor Indicators include, for example, the effectiveness and speed  of DTC's efforts to liquidate Collateral securities...due to any  Participant Default\\"](https://preview.redd.it/a1yz0estn6u61.png?width=753&format=png&auto=webp&s=b89ca4fe5a4dba1ae41fb57f8db5a109ea8578f1)
 
 The key indicator called out as an example is *how quickly DTC can liquidate a defaulting member's collateral assets.*  *We* don't know who will default, but I think that DTCC members have an idea.  Think about that.
 
@@ -145,7 +146,7 @@ I had pointed out the timing and coordination of the two prior drops and now we 
 
 Now it appears we're back to sitting in a new Lagrange Point and trading sideways again.
 
-[Is this a Long Whale inflicting \\"max pain\\"?  Or simply multiple parties conspiring to establish \\"max stability\\"; to keep us in this Lagrange Point while waiting for all of the firewalls to be in place and positioning to profit from this event before we ignite the boosters?](https://preview.redd.it/vh5cer8dp6u61.png?width=1633&format=png&auto=webp&s=0ab005f0648da980401c786b4d9a06fecf3039d9)
+![Is this a Long Whale inflicting \\"max pain\\"?  Or simply multiple parties conspiring to establish \\"max stability\\"; to keep us in this Lagrange Point while waiting for all of the firewalls to be in place and positioning to profit from this event before we ignite the boosters?](https://preview.redd.it/vh5cer8dp6u61.png?width=1633&format=png&auto=webp&s=0ab005f0648da980401c786b4d9a06fecf3039d9)
 
 As I've stated before, I think that the variety of tools that we see at play are all part of the arsenal being deployed by multiple parties coordinating to keep this strapped down until the non-defaulting members are firewalled.  The deep ITM calls, the dark pool trades, all of it is plainly visible to DTCC and the SEC yet no action is being taken.
 
@@ -169,7 +170,7 @@ My conjecture has always been that we will be waiting for SR-OCC-2021-003 and SR
 
 In particular, SR-OCC-2021-004 has a very curious proposed change on page 5:
 
-[SR-OCC-2021-004 page 5:  \\"OCC proposes to eliminate the pre-qualification requirements related to non-Clearing Member's trading experience\\"](https://preview.redd.it/qm5jztiqp6u61.png?width=524&format=png&auto=webp&s=cd14cbf5b6642620e09959f55dd995c3666b4679)
+![SR-OCC-2021-004 page 5:  \\"OCC proposes to eliminate the pre-qualification requirements related to non-Clearing Member's trading experience\\"](https://preview.redd.it/qm5jztiqp6u61.png?width=524&format=png&auto=webp&s=cd14cbf5b6642620e09959f55dd995c3666b4679)
 
 Which basically blows the auction process wide open and allows [a much broader array of bidders to the auction](https://www.reddit.com/r/GME/comments/mit0eu/the_everything_shortcontinued_citadel_spacs_and/).  Remember: Fidelity and BlackRock are **NOT** members of OCC but now they get a streamlined path to the auction.
 
@@ -183,7 +184,7 @@ This is where it gets interesting.
 
 [Here's Larry Fink, CEO of BlackRock on CNBC talking about Reddit and GameStop](https://youtu.be/yEgo08b19E8?t=207):
 
-[\\"...reddit and gamestop and what does that mean with our clients either...\\"](https://preview.redd.it/imiyzrdvp6u61.png?width=911&format=png&auto=webp&s=e37b48653042d099e0e5d7c8cc5108b72ea3bdb1)
+![\\"...reddit and gamestop and what does that mean with our clients either...\\"](https://preview.redd.it/imiyzrdvp6u61.png?width=911&format=png&auto=webp&s=e37b48653042d099e0e5d7c8cc5108b72ea3bdb1)
 
 BlackRock knows what's going on at the highest levels.
 
@@ -197,7 +198,7 @@ I think that GME board will delay action as long as possible because the conditi
 
 [SR-DTC-2021-003](https://www.sec.gov/rules/sro/dtc/2021/34-91336.pdf) on MAR16:
 
-[SR-DTC-2021-003 was effective immediately on MAR16](https://preview.redd.it/g8vmwv64q6u61.png?width=695&format=png&auto=webp&s=7feae2d390ae84a43dbe9b3a9af01ad6de03e3b5)
+![SR-DTC-2021-003 was effective immediately on MAR16](https://preview.redd.it/g8vmwv64q6u61.png?width=695&format=png&auto=webp&s=7feae2d390ae84a43dbe9b3a9af01ad6de03e3b5)
 
 The key change is that DTC Participants were required to reconcile and confirm their records of their positions with the DTC's records of their positions on a **monthly** basis prior to SR-DTC-2021-003.  After SR-DTC-2021-003?  The Participants have to reconcile and confirm their positions on a **daily** basis.
 
@@ -212,21 +213,21 @@ And we have since then largely been in that sideways zone with a few days of mov
 
 This allowed all parties to see the deck that they are working with because previously, Citadel could try to "clean things up" before the monthly reconciliation.  Prior to SR-DTC-2021-003, this was to occur "*No later than the 10th business day after* ***the last Friday of the month***" (page 5).  You might be thinking now "what's the last Friday of January"?
 
-[January 29th was the last Friday.  Could the squeeze on the 28th been a result of Citadel starting to reconcile their positions with the DTC?](https://preview.redd.it/v4qq5taaq6u61.png?width=302&format=png&auto=webp&s=b85418a5fd90612ae4801a8665af9eb50255ec08)
+![January 29th was the last Friday.  Could the squeeze on the 28th been a result of Citadel starting to reconcile their positions with the DTC?](https://preview.redd.it/v4qq5taaq6u61.png?width=302&format=png&auto=webp&s=b85418a5fd90612ae4801a8665af9eb50255ec08)
 
 So the JAN28 event may have been caused by Citadel starting the process of reconciling their positions to submit and confirm with the DTC.  **After JAN28, all parties had a sense of the magnitude of this event but probably could not get enough transparency to make the right decisions**.
 
 Why wouldn't Citadel just continue to "fudge" their books?  There's something interesting on page 12 and 13 of SR-DTC-2021-003 which gets referenced again in SR-DTC-2021-004 which is filed 13 days later.  Here is the text of the existing member agreement on page 12:
 
-[SR-DTC-2021-003 page 12: the original text which gets replaced.](https://preview.redd.it/226il9qiq6u61.png?width=688&format=png&auto=webp&s=f9d0fd8e92d8861338401996d378f4a5b8d8e43c)
+![SR-DTC-2021-003 page 12: the original text which gets replaced.](https://preview.redd.it/226il9qiq6u61.png?width=688&format=png&auto=webp&s=f9d0fd8e92d8861338401996d378f4a5b8d8e43c)
 
 And the text that replaces it on page 13:
 
-[SR-DTC-2021-003 page 13: note the underlined text which was added.](https://preview.redd.it/abdhb4akq6u61.png?width=686&format=png&auto=webp&s=790adbd675869ed2f580316e307009121fa38333)
+![SR-DTC-2021-003 page 13: note the underlined text which was added.](https://preview.redd.it/abdhb4akq6u61.png?width=686&format=png&auto=webp&s=790adbd675869ed2f580316e307009121fa38333)
 
 Now let's look at a piece of text in SR-DTC-2021-004 on page 9:
 
-[SR-DTC-2021-004 page 9: notice the addition of the text \\"on the issuer's books and records\\"](https://preview.redd.it/6trdmuzqq6u61.png?width=732&format=png&auto=webp&s=b0420af2fad7640d602aae71f62f479b8870b0bc)
+![SR-DTC-2021-004 page 9: notice the addition of the text \\"on the issuer's books and records\\"](https://preview.redd.it/6trdmuzqq6u61.png?width=732&format=png&auto=webp&s=b0420af2fad7640d602aae71f62f479b8870b0bc)
 
 In other words, DTC is highlighting that it will only release dividends, interest, other distributions, and *redemption* for any securities it has on record.  003 and 004 fit together to clarify that DTC will not make payments for anything that is not reconciled with their systems.
 

@@ -1,12 +1,13 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/)
+#Title: The missing 🧩: Citadel’s Frenemies, PFOF, Michael Burry’s Twitter, and how they’re hiding deep ITM Options
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/)
 
 
-TL;DR: Susquehanna is [sus](http://imgur.com/a/EzZB2vv)
+TL;DR: Susquehanna is ![sus](http://imgur.com/a/EzZB2vv)
 
 Stay with me man I have a point I promise.
 
-🚨UPDATE: SMOKING GUN [Bloomberg today](http://imgur.com/a/ZsK2Rur) #6 🤔🧐
+🚨UPDATE: SMOKING GUN ![Bloomberg today](http://imgur.com/a/ZsK2Rur) #6 🤔🧐
 [Updated FINTEL from this morning! ](https://fintel.io/sob/us/gme) yet the price didn't move accordingly 🙃
 
 Many other wrinkly brain apes have done an excellent job on DD’ing Payment for Order Flow (PFOF). *If you are wrinkly brained, or are familiar with the top PFOF clients, skim on down to da apes.* 🦧
@@ -72,7 +73,7 @@ Dr. Michael Burry’s twitter is [gone.](https://twitter.com/BurryArchive?s=09) 
 
 I have [posted](https://www.reddit.com/r/GME/comments/mhh9kn/reading_the_everything_short_dd_and_michael/?utm_medium=android_app&utm_source=share) several times before about Dr. MJB. I guess it’s turning into an obsession, but this man is trying to tell us something and myself and a few other apes are dedicated to finding out wtf he’s trying to say, considering we apes are the only ones that will listen without scoffing. 
 
-On April 1, after having nuked his account but leaving us a little clue link in his bio, [he made a seemingly irrelevant post about a charity](http://imgur.com/a/pXK1DM1), The Fletcher Street Urban Riding Club. It was a link to a gofundme to “Help FSURC get back in the saddle!” So who is this organization? [Let’s look](http://fsurc.com/).
+On April 1, after having nuked his account but leaving us a little clue link in his bio, ![he made a seemingly irrelevant post about a charity](http://imgur.com/a/pXK1DM1), The Fletcher Street Urban Riding Club. It was a link to a gofundme to “Help FSURC get back in the saddle!” So who is this organization? [Let’s look](http://fsurc.com/).
 
 There's a documentary *based loosely on* this particular brand of hedgie fuckery on Netflix called [Concrete Cowboy](https://www.netflix.com/title/81368729?preventIntent=true). *Full disclosure- I haven't watched it yet, just stumbled on it in my research* History lesson aside, FSURC is a riding club for black youth in the Philadelphia area. I’m not going to go into the group’s mission itself, because that is irrelevant to this write up (but go look them up when you have time. Great group with an amazing mission.) But this group operates on land which is slated to be turned to a housing complex by the city of Philly. FSURC never owned this land upon which they graze, the city does. And in 2020, the land was sold for $1 to the Susquehanna Housing Authority, who plans to create affordable housing for seniors. Remember this land is located in North Philadelphia, PA.
 
@@ -99,6 +100,6 @@ Obligatory 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 Susquehanna International Group, LLP offers institutional brokerage services such as trading, quantitative research, technology, and fundamental research services, as well as offers trading dynamics, market structure, and risk management services. They are specialists in approximately 600 equity options and 45 index options. Their last 13F filing for Q4 in 2020 included $612,xxx,xxx,xxx in managed 13F securities.
 
-They also have large holdings in ![silver](https://finance.yahoo.com/quote/AG/holders/)
+They also have large holdings in [silver](https://finance.yahoo.com/quote/AG/holders/)
 
 And their biggest holding? TSLA. 57,415,900 in puts and 47, 178,800 in calls. Just an interesting aside to me. Updated: now holding lotsa new GME stuffs

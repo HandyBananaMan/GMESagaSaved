@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lvz837/synopsis_for_03022021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lvz837/synopsis_for_03022021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-02-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lvz837/synopsis_for_03022021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lvz837/synopsis_for_03022021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -124,7 +125,7 @@ We are ever more growing into a society where our digital lives and regular live
 
 &#x200B;
 
-[who's share is it anyway?](https://preview.redd.it/hbf9lhtmclk61.jpg?width=640&format=pjpg&auto=webp&s=20b5515ede02b943f85ca41423404e45504ad045)
+![who's share is it anyway?](https://preview.redd.it/hbf9lhtmclk61.jpg?width=640&format=pjpg&auto=webp&s=20b5515ede02b943f85ca41423404e45504ad045)
 
 So given all the previous information, taking all that into account, GameStop WAS a dying business, and short sellers rightly thought it was going to go bankrupt, and with COVID accelerating that, they thought it was a sure thing.
 

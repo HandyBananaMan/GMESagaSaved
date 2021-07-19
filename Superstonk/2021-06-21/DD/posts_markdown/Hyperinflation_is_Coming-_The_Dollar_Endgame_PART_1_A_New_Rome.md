@@ -1,5 +1,6 @@
-# Author: peruvian_bull
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/)
+#Title: Hyperinflation is Coming- The Dollar Endgame: PART 1, “A New Rome”
+#Author: peruvian_bull
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/o4w45f/hyperinflation_is_coming_the_dollar_endgame_part/)
 
 
 (this is a second half of Pt 1 of the endgame series, find the first half of Pt 1 [here](https://www.reddit.com/r/Superstonk/comments/o4vzau/hyperinflation_is_coming_the_dollar_endgame_part/))
@@ -16,7 +17,7 @@ This exact phenomenon played out during the[ Asian Financial Crisis](https://www
 
 &#x200B;
 
-[Thai Financial Crisis](https://preview.redd.it/fbnpc1k7nm671.png?width=777&format=png&auto=webp&s=717ebf418b3ee627e15013c5a3dfab22f9fb8c0a)
+![Thai Financial Crisis](https://preview.redd.it/fbnpc1k7nm671.png?width=777&format=png&auto=webp&s=717ebf418b3ee627e15013c5a3dfab22f9fb8c0a)
 
 Thailand’s hand was forced, and the Thai Central Bank decided to devalue its currency relative to the US dollar. This development, which followed months of speculative downward pressures on their currency that had substantially depleted Thailand’s official foreign exchange reserves, marked the beginning of a deep financial crisis across much of East Asia. 
 
@@ -24,7 +25,7 @@ In subsequent months, Thailand’s currency, equity, and property markets weaken
 
 &#x200B;
 
-[Asian Financial Crisis](https://preview.redd.it/0gh1phi9nm671.png?width=779&format=png&auto=webp&s=454d0bab7fd2d0b8df84b5fc600cb53253319d05)
+![Asian Financial Crisis](https://preview.redd.it/0gh1phi9nm671.png?width=779&format=png&auto=webp&s=454d0bab7fd2d0b8df84b5fc600cb53253319d05)
 
 As the president of Liberia, you see what can happen when a country, especially a small third-world country, doesn't have enough dollar reserves to defend its own currency. Rippling currency devaluations, inflation, social and political unrest, widening economic inequality- the beginning of a death spiral of a country if you aren’t careful. 
 
@@ -34,7 +35,7 @@ We’ve established the need for a small country to hold another currency on the
 
 &#x200B;
 
-[Dollar Recycling](https://preview.redd.it/ui054o3bnm671.png?width=806&format=png&auto=webp&s=53c4f55e236b5c840a59a67d974df35b085c294b)
+![Dollar Recycling](https://preview.redd.it/ui054o3bnm671.png?width=806&format=png&auto=webp&s=53c4f55e236b5c840a59a67d974df35b085c294b)
 
 **THIS** is what  French Finance Minister Valéry Giscard d’Estaing meant when during the 1960’s he had contemptuously [called](https://www.brookings.edu/blog/ben-bernanke/2016/01/07/the-dollars-international-role-an-exorbitant-privilege-2/) this benefit the US enjoyed *le privilège exorbitant*, or the “[Exorbitant privilege](https://en.wikipedia.org/wiki/Exorbitant_privilege)”. **He understood that the United States would never face a**[ **Balance of Payments**](https://en.wikipedia.org/wiki/Currency_crisis) **(currency) crisis (\*AS LONG AS THE USD IS THE WORLD RESERVE CURRENCY\*), nor a debt crisis, due to forced buying of Treasuries (from Central Banks) and Dollars (from Petrodollar systeem).** 
 
@@ -44,7 +45,7 @@ Effectively, the US can print money, and get real goods. This means we can impor
 
 &#x200B;
 
-[Exporting Inflation, importing goods](https://preview.redd.it/cdv48oqcnm671.png?width=782&format=png&auto=webp&s=919ec0bf7363987a0a9b0454db0fd3e7df5bcf2c)
+![Exporting Inflation, importing goods](https://preview.redd.it/cdv48oqcnm671.png?width=782&format=png&auto=webp&s=919ec0bf7363987a0a9b0454db0fd3e7df5bcf2c)
 
 As it is the WRC, other countries' Central Banks NEED to have US dollars on their balance sheet. Thus, the US has to run persistent [current account deficits](https://www.investopedia.com/ask/answers/010715/what-difference-between-current-account-deficit-and-trade-deficit.asp) in order to send out more dollars to the global system, on net, than it receives back. A major byproduct is [constant large and increasing trade deficits](https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/understanding-roots-trade-deficit) for the WRC holder (in a fiat money system).
 
@@ -54,7 +55,7 @@ As world trade grows, the current account deficit/trade deficit grows, and the b
 
 &#x200B;
 
-[US Trade Deficit broken down by Goods\/Services](https://preview.redd.it/pktv0cdfnm671.png?width=812&format=png&auto=webp&s=42ab9b7ea8502e518371bd8dcfc348d65344d040)
+![US Trade Deficit broken down by Goods\/Services](https://preview.redd.it/pktv0cdfnm671.png?width=812&format=png&auto=webp&s=42ab9b7ea8502e518371bd8dcfc348d65344d040)
 
 This is why I laughed out loud when I heard Trump rail against our trade deficits in one of the 2016 presidential debates. He clearly did not understand how our system works, and that this issue was beneficial in the short term, but detrimental in the long term. Our trade deficits were symptoms of our system working exactly as intended. 
 
@@ -64,7 +65,7 @@ Fast forward to today- After decades of this process playing out, Foreign Centra
 
 &#x200B;
 
-[Central Banks FX Reserves](https://preview.redd.it/m7vql2rinm671.png?width=780&format=png&auto=webp&s=4adf109f9687378684818d67db55c8f74f9fd92d)
+![Central Banks FX Reserves](https://preview.redd.it/m7vql2rinm671.png?width=780&format=png&auto=webp&s=4adf109f9687378684818d67db55c8f74f9fd92d)
 
 &#x200B;
 
@@ -74,13 +75,13 @@ USD is the preferred payment method within the system, thus forcing other countr
 
 &#x200B;
 
-[Most FX Reserves in Dollars](https://preview.redd.it/7tyu7klknm671.png?width=693&format=png&auto=webp&s=aefe74220376e881f9d9c0db859d0bca8247c85e)
+![Most FX Reserves in Dollars](https://preview.redd.it/7tyu7klknm671.png?width=693&format=png&auto=webp&s=aefe74220376e881f9d9c0db859d0bca8247c85e)
 
 When Chile and South Africa trade copper, for example, they have to transact in dollars, because a SWIFT member bank in South Africa will not accept Chilean Pesos as payment, as there is a smaller, less liquid market for it and it doesn't want to take a trading loss when converting to a more usable currency. The contract itself is priced in USD, so if that merchant bank wants to sell it, they can quickly find a buyer. In fact, SWIFT itself published a [report](https://www.swift.com/node/19186#:~:text=The%20US%20dollar%20dominates%20as,regional%20currency%20usage%20in%20value.) in 2014, and found that the USD accounts for almost 80% of all world trade! (see top left)
 
 &#x200B;
 
-[Currencies as a &#37; of Trade](https://preview.redd.it/fspge6omnm671.png?width=752&format=png&auto=webp&s=272a005bae77aee91dc1a83b9febdafb20b2dd2c)
+![Currencies as a &#37; of Trade](https://preview.redd.it/fspge6omnm671.png?width=752&format=png&auto=webp&s=272a005bae77aee91dc1a83b9febdafb20b2dd2c)
 
 This process is called dollarization, whereby the dollar is used as the medium of exchange for a contract, in place of some other currency, even between non-US trading partners (Iran and China for example). [Dollarization](https://www.investopedia.com/terms/d/dollarization.asp#:~:text=Dollarization%20is%20the%20term%20for,due%20to%20hyperinflation%20or%20instability.) (capital D) of a country occurs when a government switches from managing their own currency to just using the US dollar for trade settlement and tax revenue- like Ecuador, El Salvador, and Panama have [done](https://www.coha.org/examining-the-effects-of-dollarization-on-ecuador/).
 
@@ -90,13 +91,13 @@ Through this process, the United States was able to become the [largest and most
 
 &#x200B;
 
-[American Military Budget](https://preview.redd.it/smw5l4ugg1a71.png?width=822&format=png&auto=webp&s=b6d6d1b94957aa371040c66f188c456f20fa786d)
+![American Military Budget](https://preview.redd.it/smw5l4ugg1a71.png?width=822&format=png&auto=webp&s=b6d6d1b94957aa371040c66f188c456f20fa786d)
 
 At every turn, the US defended this system at all costs, even going so far as to directly invade and occupy the Middle East in the Gulf War in 1991 and the Iraq/Afghanistan War (2001-Present). As a result there are over [800](https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321#:~:text=Despite%20recently%20closing%20hundreds%20of,about%2030%20foreign%20bases%20combined.) US military [bases around the world](https://www.todaysmilitary.com/ways-to-serve/bases-around-world), in locales ranging from Turkey to Japan. American institutions like the Senate, Presidency, and Courts were modeled after their Roman antecedents, to the point that the American symbol, the Eagle, is the spitting image of the [Roman Aquila](https://en.wikipedia.org/wiki/Aquila_(Roman)) adorned on the [Standard](https://en.wikipedia.org/wiki/Roman_Empire_Standards) of the centurions.
 
 &#x200B;
 
-[Rome](https://preview.redd.it/ig1pp031g1a71.png?width=764&format=png&auto=webp&s=57ff0e910d0707cc6475c8e4c098eab0634b67fc)
+![Rome](https://preview.redd.it/ig1pp031g1a71.png?width=764&format=png&auto=webp&s=57ff0e910d0707cc6475c8e4c098eab0634b67fc)
 
 Most scholars tout the story of Rome as a tale of triumphalism; of valiant centurions battling in the steppes of Asia, of brilliant generals laying traps for enemy armies, of scheming senators fighting battles of political intrigue, and of a sophisticated and well-functioning empire that harnessed engineering to create marvels such as the Colosseum and the Roman Aqueducts. [**More sober historians**](https://www.goodreads.com/book/show/19400.The_Decline_and_Fall_of_the_Roman_Empire?from_search=true&from_srp=true&qid=oZSKjoDHpx&rank=1)**, however, point out that the story of Rome is one that also echoes a warning through the annals of history.**
 
@@ -135,4 +136,4 @@ We’ve gone over a brief history of the Bretton Woods system, and it’s transf
 
 *Nothing on this Post constitutes investment advice, performance data or any recommendation that any security, portfolio of securities, investment product, transaction or investment strategy is suitable for any specific person.  From reading my Post I cannot assess anything about your personal circumstances, your finances, or your goals and objectives, all of which are unique to you, so any opinions or information contained on this Post are just that – an opinion or information. Please consult a financial professional if you seek advice.*
 
-\*If you would like to learn more, check out my recommended reading list ![here](https://docs.google.com/document/d/1nSw9odLoExaq0oEBqIHrCK1Xj5KfyjBkGQZ93LTh34g/edit?usp=sharing)
+\*If you would like to learn more, check out my recommended reading list [here](https://docs.google.com/document/d/1nSw9odLoExaq0oEBqIHrCK1Xj5KfyjBkGQZ93LTh34g/edit?usp=sharing)

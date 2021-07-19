@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/)
+#Title: Part 2: Intra-Week Max Pain & the next FTD cycle bleedout days
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/)
 
 
 Hi ya'll,
@@ -12,7 +13,7 @@ Some nice pre-read DD's as shitposts if you'd like to read em.
 
 &#x200B;
 
-[Related, it's Shitadelic employees trying to manage FTD's from leaking out at the end of each FTD Reset Cycle.](https://preview.redd.it/ay4y4h5sc7571.jpg?width=450&format=pjpg&auto=webp&s=000d8630e5f01422e12aff3eb8a925d38cfcafa0)
+![Related, it's Shitadelic employees trying to manage FTD's from leaking out at the end of each FTD Reset Cycle.](https://preview.redd.it/ay4y4h5sc7571.jpg?width=450&format=pjpg&auto=webp&s=000d8630e5f01422e12aff3eb8a925d38cfcafa0)
 
 &#x200B;
 
@@ -111,7 +112,7 @@ Because you're a hedgie (market maker), you don't wanna be caught failing to del
 
 Source: [gme\_ftds\_october\_1\_2020\_to\_april\_14\_2021](https://www.reddit.com/r/Superstonk/comments/n1wh65/gme_ftds_october_1_2020_to_april_14_2021/)
 
-[Chart is related. It's the FTD Share Quantities since January. Notice how they're now \\"Managing\\" their FTD's. They don't want to attract unwanted attention.](https://preview.redd.it/8ogz8e4rk7571.png?width=960&format=png&auto=webp&s=1cc2e0b31536493976bd9512c4e3a8076497a999)
+![Chart is related. It's the FTD Share Quantities since January. Notice how they're now \\"Managing\\" their FTD's. They don't want to attract unwanted attention.](https://preview.redd.it/8ogz8e4rk7571.png?width=960&format=png&auto=webp&s=1cc2e0b31536493976bd9512c4e3a8076497a999)
 
 &#x200B;
 
@@ -147,7 +148,7 @@ So the question is, what comes next? How do i predict the future?
 
 **Actually that's NOT the right question.** The right question is, what happened before this big cluster of T+21's and T+35's.
 
-[That's right. Shorted on T+18 and T+33.](https://preview.redd.it/mmf96u6jo7571.png?width=1068&format=png&auto=webp&s=ec50ab88db0b73c608a499caadaec22b64718e7e)
+![That's right. Shorted on T+18 and T+33.](https://preview.redd.it/mmf96u6jo7571.png?width=1068&format=png&auto=webp&s=ec50ab88db0b73c608a499caadaec22b64718e7e)
 
 **THIS** is the hedgies (Market Makers) doing their thing right before the big cluster of FTD Cycle Bleed Out Days. You blinked and you missed it because you were too busy counting T+21's and T+35's to realize that you're supposed to kick the can BEFORE T+21 and T+35.
 
@@ -246,7 +247,7 @@ About the price movement, i want to say it's going to be upwards, but i don't kn
 
 Have a complimentary carton of Milk. Kudos to the ape who made this (I have no idea who he is).
 
-[WHERE THE F IS MY SR-DTC-2021-005 FINRA\/SEC\/FBI\/ WHITE HOUSE\/ ALL US AGENCIES????????????????????????????](https://preview.redd.it/zcju2p3jw7571.jpg?width=640&format=pjpg&auto=webp&s=940a6eb635dfa802df0a87f30a600a0f89ecd209)
+![WHERE THE F IS MY SR-DTC-2021-005 FINRA\/SEC\/FBI\/ WHITE HOUSE\/ ALL US AGENCIES????????????????????????????](https://preview.redd.it/zcju2p3jw7571.jpg?width=640&format=pjpg&auto=webp&s=940a6eb635dfa802df0a87f30a600a0f89ecd209)
 
 Tagging u/butffarm69 for posterity (or whatever).
 
@@ -254,7 +255,7 @@ Sorry for the long post.
 
 &#x200B;
 
-[\\"THIS IS AN OPINION, NOT DD\\" will say some. Well... isn't... everything... on... superstonk... an.... opinion???? We literally ain't got hard evidence on anything lol and nor can we get it unless you read Melvin's and Ken's books. So yeah, strawman argument right there... Spend the time you need to verify this DD and you'll see i'm right.](https://preview.redd.it/8qnqzjkxw7571.jpg?width=518&format=pjpg&auto=webp&s=2889b1e1ed3c4f32a2f396bae4e63fc27591cb29)
+![\\"THIS IS AN OPINION, NOT DD\\" will say some. Well... isn't... everything... on... superstonk... an.... opinion???? We literally ain't got hard evidence on anything lol and nor can we get it unless you read Melvin's and Ken's books. So yeah, strawman argument right there... Spend the time you need to verify this DD and you'll see i'm right.](https://preview.redd.it/8qnqzjkxw7571.jpg?width=518&format=pjpg&auto=webp&s=2889b1e1ed3c4f32a2f396bae4e63fc27591cb29)
 
 &#x200B;
 

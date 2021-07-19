@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/)
+#Title: The Jungle Beat- Monday 06-21-2021 🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/](https://www.reddit.com/r/Superstonk/comments/o54hl2/the_jungle_beat_monday_06212021/)
 
 
 &#x200B;
@@ -92,7 +93,7 @@ https://preview.redd.it/lvn687d8rn671.png?width=960&format=png&auto=webp&s=7713e
 
 &#x200B;
 
-[meme credit u\/bazmataz1380](https://preview.redd.it/pyn0evwfvn671.png?width=640&format=png&auto=webp&s=9a2a8a11d55682ea54ca83a6911b69877dceff4b)
+![meme credit u\/bazmataz1380](https://preview.redd.it/pyn0evwfvn671.png?width=640&format=png&auto=webp&s=9a2a8a11d55682ea54ca83a6911b69877dceff4b)
 
  
 
@@ -104,7 +105,7 @@ https://preview.redd.it/lvn687d8rn671.png?width=960&format=png&auto=webp&s=7713e
 
 &#x200B;
 
-[Matt Furlong, New CEO of Gamestop](https://preview.redd.it/zbm0hky0fn671.png?width=1024&format=png&auto=webp&s=62ce391d44e65bb573c4cc189deb8641c527c2e5)
+![Matt Furlong, New CEO of Gamestop](https://preview.redd.it/zbm0hky0fn671.png?width=1024&format=png&auto=webp&s=62ce391d44e65bb573c4cc189deb8641c527c2e5)
 
 &#x200B;
 
@@ -122,7 +123,7 @@ In the filings, Gamestop says Sherman's departure is  “not because of a disagr
 
 &#x200B;
 
-[Here comes the corporate revolution](https://preview.redd.it/q7rp78e2hn671.jpg?width=980&format=pjpg&auto=webp&s=0e6ef8d5457cf1f20909b8ea7fde2153c1ee633c)
+![Here comes the corporate revolution](https://preview.redd.it/q7rp78e2hn671.jpg?width=980&format=pjpg&auto=webp&s=0e6ef8d5457cf1f20909b8ea7fde2153c1ee633c)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -132,7 +133,7 @@ In the filings, Gamestop says Sherman's departure is  “not because of a disagr
 
 &#x200B;
 
-[credit u\/sososhibby](https://preview.redd.it/ud07hjfjpn671.png?width=731&format=png&auto=webp&s=e1ccbd06f5acaf2463e7189e89f8f33d1433922e)
+![credit u\/sososhibby](https://preview.redd.it/ud07hjfjpn671.png?width=731&format=png&auto=webp&s=e1ccbd06f5acaf2463e7189e89f8f33d1433922e)
 
 [Also worth noting, similar meetings were had just before Lehman Bros collapsed on September 15, 2008.](https://www.cnbc.com/2018/09/12/bernanke-paulson-and-geithner-say-they-bailed-out-wall-street-to-help-main-street.html) 
 
@@ -182,7 +183,7 @@ We are an awesome community built on friendship and support and a common love of
 
 &#x200B;
 
-[Pink is always here for comfort](https://preview.redd.it/k1qeiop5un671.jpg?width=340&format=pjpg&auto=webp&s=6f02f4b7e41f2478b41de18e6f6dedaab83fb105)
+![Pink is always here for comfort](https://preview.redd.it/k1qeiop5un671.jpg?width=340&format=pjpg&auto=webp&s=6f02f4b7e41f2478b41de18e6f6dedaab83fb105)
 
 &#x200B;
 
@@ -234,7 +235,7 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 **IF THERE IS SOMETHING BIG GOING ON WHILE THE OUTAGE IS HAPPENING WE MAY ALSO UTILIZE THE "EMERGENCY BROADCAST SYSTEM" TO RELAY INFO:**
 
-![SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

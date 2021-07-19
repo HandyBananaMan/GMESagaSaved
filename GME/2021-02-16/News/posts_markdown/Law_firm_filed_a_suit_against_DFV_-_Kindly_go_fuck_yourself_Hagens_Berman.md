@@ -1,5 +1,6 @@
-# Author: kahareddit
-# Post URL: [https://www.reddit.com/r/GME/comments/llmtba/law_firm_filed_a_suit_against_dfv_kindly_go_fuck/](https://www.reddit.com/r/GME/comments/llmtba/law_firm_filed_a_suit_against_dfv_kindly_go_fuck/)
+#Title: Law firm filed a suit against DFV - Kindly go fuck yourself Hagens Berman 🖕🏻
+#Author: kahareddit
+#Post URL: [https://www.reddit.com/r/GME/comments/llmtba/law_firm_filed_a_suit_against_dfv_kindly_go_fuck/](https://www.reddit.com/r/GME/comments/llmtba/law_firm_filed_a_suit_against_dfv_kindly_go_fuck/)
 
 
 

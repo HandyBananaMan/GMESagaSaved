@@ -1,10 +1,11 @@
-# Author: Alert_Piano341
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/)
+#Title: Knight Capital Group....the Precursor to Citadel (Part 1)
+#Author: Alert_Piano341
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/)
 
 
 &#x200B;
 
-[The past and the Future](https://preview.redd.it/zb2rs9811lx61.png?width=299&format=png&auto=webp&s=685679bf13dba98aeb620bfec8d7c4c0ffa719be)
+![The past and the Future](https://preview.redd.it/zb2rs9811lx61.png?width=299&format=png&auto=webp&s=685679bf13dba98aeb620bfec8d7c4c0ffa719be)
 
 Everyone should Read up on Knight Capital Group or KCP
 
@@ -50,7 +51,7 @@ lets look at some balance sheets!
 
 &#x200B;
 
-[Sold Not Yet Purchased](https://preview.redd.it/u4k15um2hlx61.png?width=936&format=png&auto=webp&s=b8af255dbf27a095371b1fcae4a30e21f699b0a5)
+![Sold Not Yet Purchased](https://preview.redd.it/u4k15um2hlx61.png?width=936&format=png&auto=webp&s=b8af255dbf27a095371b1fcae4a30e21f699b0a5)
 
 Ok we expect these to be increasing as there is more money in the market.
 
@@ -66,11 +67,11 @@ SUS first
 
 &#x200B;
 
-[Sus Sold not yet purchased end of 2020](https://preview.redd.it/x74pxffjhlx61.png?width=1083&format=png&auto=webp&s=573887c72fb562621d57355ddd7a5b4daa24c31f)
+![Sus Sold not yet purchased end of 2020](https://preview.redd.it/x74pxffjhlx61.png?width=1083&format=png&auto=webp&s=573887c72fb562621d57355ddd7a5b4daa24c31f)
 
 &#x200B;
 
-[SUS Sold Not yet purchased end of 2019](https://preview.redd.it/4k1x4tpnhlx61.png?width=1055&format=png&auto=webp&s=8a8d11f1784515148a270112bb1ce403bc7e590e)
+![SUS Sold Not yet purchased end of 2019](https://preview.redd.it/4k1x4tpnhlx61.png?width=1055&format=png&auto=webp&s=8a8d11f1784515148a270112bb1ce403bc7e590e)
 
 Large increase of selling options without purchasing them
 
@@ -78,7 +79,7 @@ Now Citadel
 
 &#x200B;
 
-[Sold Not yet Purchased end of 2020](https://preview.redd.it/9sqxnvsthlx61.png?width=775&format=png&auto=webp&s=c4578c7cb2d09662d60f08fe61f8573b44d1de1b)
+![Sold Not yet Purchased end of 2020](https://preview.redd.it/9sqxnvsthlx61.png?width=775&format=png&auto=webp&s=c4578c7cb2d09662d60f08fe61f8573b44d1de1b)
 
 ![Sold not yet Purchased 2019](https://preview.redd.it/k5xk6rkyhlx61.png?width=1376&format=png&auto=webp&s=8bf5cbcfbff516c08d07af727da192fb9c036f2f)
 

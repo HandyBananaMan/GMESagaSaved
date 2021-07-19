@@ -1,5 +1,6 @@
-# Author: inverseyourself
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/](https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/)
+#Title: Important: GME Bid-Ask Spread was $55,826 DURING MARKET HOURS today
+#Author: inverseyourself
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/](https://www.reddit.com/r/Superstonk/comments/mmi44q/important_gme_bidask_spread_was_55826_during/)
 
 
 I'm not sure what's more incredible; the trillion volume glitches or the $56k bid-ask spread on $GME.
@@ -14,7 +15,7 @@ Here's the data:
 
 Confirmed by another user:" Yes, if I’m correct I made this print screen on 3:27pm new york time. Apparently there are no sellers..."
 
-Source: ![https://chartexchange.com/symbol/nyse-gme/](https://chartexchange.com/symbol/nyse-gme/)
+Source: [https://chartexchange.com/symbol/nyse-gme/](https://chartexchange.com/symbol/nyse-gme/)
 
 What does it mean when there's a wide bid-ask spread? It means the difference between the price you can buy a stock from the price which you can sell it. In my view, this is one marker of volatility, which is why IV rose today. When these spreads widen, the stock can also experience sudden changes in price action.
 

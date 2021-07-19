@@ -1,5 +1,6 @@
-# Author: ChiefNorske
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/o49x2t/rrp_theory_and_why_the_time_bomb_is_ticking/](https://www.reddit.com/r/DDintoGME/comments/o49x2t/rrp_theory_and_why_the_time_bomb_is_ticking/)
+#Title: RRP Theory and Why The Time Bomb is Ticking Harder Than Ever.
+#Author: ChiefNorske
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/o49x2t/rrp_theory_and_why_the_time_bomb_is_ticking/](https://www.reddit.com/r/DDintoGME/comments/o49x2t/rrp_theory_and_why_the_time_bomb_is_ticking/)
 
 
 Hey there all beautiful people. This post I'm going to be explaining a couple RRP theories that i've been thinking about and analyzing, along with why the the end is imminent. 

@@ -1,5 +1,6 @@
-# Author: Wise-East2875
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n12lcr/just_called_degiro_theyve_been_so_swamped_with/](https://www.reddit.com/r/Superstonk/comments/n12lcr/just_called_degiro_theyve_been_so_swamped_with/)
+#Title: Just called DEGIRO. They've been so swamped with GameStop requests they are working on a "common platform solution" to let all DEGIRO GME shareholders vote. Proud of you Europoors!
+#Author: Wise-East2875
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n12lcr/just_called_degiro_theyve_been_so_swamped_with/](https://www.reddit.com/r/Superstonk/comments/n12lcr/just_called_degiro_theyve_been_so_swamped_with/)
 
 
 I called DEGIRO customer service right now to inquire how can I vote my shares ahead of the annual meeting. The customer service guy was very nice, but it was clear as day he's been swamped with this question before (the "Oooohhh yeah GameStop" reaction). 

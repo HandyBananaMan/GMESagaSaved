@@ -1,5 +1,6 @@
-# Author: c-digs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/)
+#Title: Why are we trading sideways? Why is the borrow rate so low? When will we moon? The Theory of EVERYTHING GME
+#Author: c-digs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/)
 
 
 Over the last few weeks, there have been some anomalies which have been bugging all of us.
@@ -35,13 +36,13 @@ I do not believe the shorts on their own have enough capital/tools to stabilize 
 
 **APR14 EDIT**: [The SEC filing for the Apex merger reveals an interesting lawsuit that confirms some of this](https://www.reddit.com/r/Superstonk/comments/mq4gfi/sec_filing_merger_with_brokarage_detailing/) ( u/jamiegirl21 )
 
-[\\"Apex, along with over 30 other brokerages...including...Citadel and DTCC engaged in a coordinated conspiracy\\"](https://preview.redd.it/0hkqx11ha5t61.png?width=909&format=png&auto=webp&s=dec1e70d8e6d2c25baed28104ce460f487500368)
+![\\"Apex, along with over 30 other brokerages...including...Citadel and DTCC engaged in a coordinated conspiracy\\"](https://preview.redd.it/0hkqx11ha5t61.png?width=909&format=png&auto=webp&s=dec1e70d8e6d2c25baed28104ce460f487500368)
 
 # Why Is the Borrow Rate So Low?
 
 The borrow rate is a function of risk for an institutional holder.  If you want to borrow 100,000 shares from Interactive Brokers (IB) and they are only showing 125,000 shares to borrow, should the fee be high?  Only if IB thinks that they won't be able to locate those borrowed shares to complete transactions.  We are now operating with extremely low volume so the risk of not being able to locate a share to fulfill a transaction and having to purchase at a premium on the open market is extremely low right now due to the low volume and volatility.  The fee is low because those shares are just sitting there with no one transacting them and no risk of IB not being able to fulfill a transaction.
 
-[One has to wonder why Interactive Brokers has been keeping the fee so low since 2021JAN28...Hmmmmm.  Almost like everyone had an \\"OH SHIT\\" moment.](https://preview.redd.it/pn563jl11ds61.png?width=1144&format=png&auto=webp&s=c578a0262171d9a3c002ced98f8366b2ffec60bb)
+![One has to wonder why Interactive Brokers has been keeping the fee so low since 2021JAN28...Hmmmmm.  Almost like everyone had an \\"OH SHIT\\" moment.](https://preview.redd.it/pn563jl11ds61.png?width=1144&format=png&auto=webp&s=c578a0262171d9a3c002ced98f8366b2ffec60bb)
 
 For reference, here is the volume leading up to the JAN28 compared to the last 3 days:
 
@@ -98,9 +99,9 @@ They won't be able to.  Citadel and GME shorts are not stabilizing the price; DT
 
 DTC and OCC members likely want to resolve this as much as we do.  Everyone knows the GME shorts are going to default.  That's why DTC-004, OCC-004, OCC-003 were created.  They have already accepted these defaults as a result of the impending scramble to cover, but they are bending the rules at the moment to set up their firewalls.
 
-[SR-OCC-2021-004 Page 2: \\"Following the suspension of any Clearing Member, OCC would...ensure that the Clearing Member's suspension is managed in an orderly fashion.\\"](https://preview.redd.it/3qaxkmy9vjr61.png?width=585&format=png&auto=webp&s=05acdd8c9ad545e354b87357c633cb2fabdd610d)
+![SR-OCC-2021-004 Page 2: \\"Following the suspension of any Clearing Member, OCC would...ensure that the Clearing Member's suspension is managed in an orderly fashion.\\"](https://preview.redd.it/3qaxkmy9vjr61.png?width=585&format=png&auto=webp&s=05acdd8c9ad545e354b87357c633cb2fabdd610d)
 
-[SR-OCC-2021-004 Page 4: \\"on-boarding of...non-Clearing Members as potential bidders in future auctions of suspended Clearing Member's remaining portfolio\\"](https://preview.redd.it/myto818ovjr61.png?width=591&format=png&auto=webp&s=7374eeb971106751cb3cb63ab393fc1e9effb369)
+![SR-OCC-2021-004 Page 4: \\"on-boarding of...non-Clearing Members as potential bidders in future auctions of suspended Clearing Member's remaining portfolio\\"](https://preview.redd.it/myto818ovjr61.png?width=591&format=png&auto=webp&s=7374eeb971106751cb3cb63ab393fc1e9effb369)
 
 Look at that last image right there.  Does that not look like a shark feeding frenzy to you?  Rich investors are about to get short HF assets at a discount.
 
@@ -108,15 +109,15 @@ Look at that last image right there.  Does that not look like a shark feeding fr
 
 They can delay OCC-003 (additional 90 days) and OCC-004 (additional 90 days).  Why would they do this?  To secure their own assets.  I would offer [the Citadel hiring of Heath Tabert](https://www.bloomberg.com/news/articles/2021-04-01/citadel-securities-hires-ex-cftc-chairman-tarbert-as-legal-chief) as the vehicle by which they will delay; his job is to get the SEC to delay enactment or negotiate the wind down as favorably as possible for Citadel shareholders and leadership.
 
-[OCC-003 45 days from filing \(2021FEB24\) and another 90 days if further information is requested \(page 26\)](https://preview.redd.it/b96sjpiirtr61.png?width=737&format=png&auto=webp&s=38703e6ec9aab68f82af46df5b90adbb2903e453)
+![OCC-003 45 days from filing \(2021FEB24\) and another 90 days if further information is requested \(page 26\)](https://preview.redd.it/b96sjpiirtr61.png?width=737&format=png&auto=webp&s=38703e6ec9aab68f82af46df5b90adbb2903e453)
 
-[OCC-004 45 days from filing \(2021MAR31\) and another 90 days if further information is requested \(page 12\)](https://preview.redd.it/8gsokjew9fr61.png?width=739&format=png&auto=webp&s=95bd214f01c1bfb04485ab28807082eadcade646)
+![OCC-004 45 days from filing \(2021MAR31\) and another 90 days if further information is requested \(page 12\)](https://preview.redd.it/8gsokjew9fr61.png?width=739&format=png&auto=webp&s=95bd214f01c1bfb04485ab28807082eadcade646)
 
 My sense is that it is more likely that GME shorts are collaborating with DTC, OCC, and SEC to avoid punishment.  DTC, OCC, and SEC are allowing them to play their FTD game to keep the price stable.
 
 # Why Doesn't The SEC Just Make OCC-003 and OCC-004 Effective?
 
-[Both DTC and OCC are Self Regulatory Organizations which is why the SEC doesn't \\"punish\\" them per se](https://preview.redd.it/ddoqu01u6gr61.png?width=720&format=png&auto=webp&s=c41359bc5c94979d64f8d31aa071d0aeecc702e6)
+![Both DTC and OCC are Self Regulatory Organizations which is why the SEC doesn't \\"punish\\" them per se](https://preview.redd.it/ddoqu01u6gr61.png?width=720&format=png&auto=webp&s=c41359bc5c94979d64f8d31aa071d0aeecc702e6)
 
 DTC and OCC are **SROs** (**Self Regulatory Organizations**).  Read those images above carefully.  DTC and OCC make their own rules, approve it on their own schedule.  They only need to show the SEC and let SEC comment or request further information.  SEC does not "approve" the rules; they can only "not object" and let the organizations implement their own rules.
 
@@ -124,7 +125,7 @@ The organizations themselves will make OCC-003 and OCC-004 effective when they a
 
 Why are they not effective yet?  I think there is still closed-door negotiations between the members themselves.  The short HFs have no more negotiating power after this starts so they need to get everything sorted now.  The non-defaulting members are working to recruit and qualify "non-Clearing Members" to bid on the assets during the liquidation:
 
-[SR-OCC-2021-004 Page 5: This is what is probably happening right now and when this is ready, 003 and 004 will be finalized and approved to start the process.](https://preview.redd.it/koyu5kor5kr61.png?width=592&format=png&auto=webp&s=d527ddad7c1c4bd93894ce11ff50350eae4547e6)
+![SR-OCC-2021-004 Page 5: This is what is probably happening right now and when this is ready, 003 and 004 will be finalized and approved to start the process.](https://preview.redd.it/koyu5kor5kr61.png?width=592&format=png&auto=webp&s=d527ddad7c1c4bd93894ce11ff50350eae4547e6)
 
 Fidelity.  BlackRock.  Other GME longs?  They're not OCC clearing members.  Guess who's going to be feeding at the table on these discount assets?
 
@@ -144,7 +145,7 @@ If you believe that BlackRock is working with RC on this, they have agreed that 
 
 I do not think that they have a mechanism to cap the price.  I think they have a model of the squeeze and have some approximations of the max share price we will hit, but I do not think they have a way to actually control the price once it squeezes.
 
-[SR-DTC-2021-004 page 12: My guess is that they have already simulated the squeeze with a variety of parameters including starting date, price, tranches of buying, etc.  Everything is being scheduled and planned according to a model that yields the best outcome that they can reasonably predict. ](https://preview.redd.it/6sn9v3xxujr61.png?width=598&format=png&auto=webp&s=8609004e0f74850c0e97f143b4e6214887ef96f6)
+![SR-DTC-2021-004 page 12: My guess is that they have already simulated the squeeze with a variety of parameters including starting date, price, tranches of buying, etc.  Everything is being scheduled and planned according to a model that yields the best outcome that they can reasonably predict. ](https://preview.redd.it/6sn9v3xxujr61.png?width=598&format=png&auto=webp&s=8609004e0f74850c0e97f143b4e6214887ef96f6)
 
 The current mechanism of price control is really simple:
 
@@ -236,4 +237,4 @@ The interesting questions are 1) what are the securities which are ***not*** "on
 
 [Follow along as we recap and dive one layer deeper into SR-OCC-2021-004](https://www.reddit.com/r/Superstonk/comments/mnpzu5/srocc2021004_why_this_proposed_rule_change_is/) and decipher [one of DFV's cryptic, recent tweets](https://twitter.com/TheRoaringKitty/status/1380196363774918657).
 
-The recent post by u/yosaso also examines the dynamics of the sides that are seemingly at play here: ![There is a WAR to control the DTCC and GME is the BATTLEGROUND](https://www.reddit.com/r/Superstonk/comments/mouj57/there_is_a_war_to_control_the_dtcc_and_gme_is_the/); really good research into the players and motivations of the players involved.
+The recent post by u/yosaso also examines the dynamics of the sides that are seemingly at play here: [There is a WAR to control the DTCC and GME is the BATTLEGROUND](https://www.reddit.com/r/Superstonk/comments/mouj57/there_is_a_war_to_control_the_dtcc_and_gme_is_the/); really good research into the players and motivations of the players involved.

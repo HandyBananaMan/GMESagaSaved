@@ -1,5 +1,6 @@
-# Author: weeknddev
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)
+#Title: Where in the world is SR-DTC-2021-005. We were told over 1 month ago it was taken down for formatting and would be replaced in no more than 2 weeks. Let's talk about it.
+#Author: weeknddev
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/](https://www.reddit.com/r/Superstonk/comments/ncnz1l/where_in_the_world_is_srdtc2021005_we_were_told/)
 
 
 Where in the world is ~~Carmen San Diego~~ SR-DTC-2021-005 otherwise known as "stop counting your shares twice" rule. We have passed record number of rules in the past month, and yet we have **still** not seen my (now second favorite to [SR-ICC-2021-007](https://www.sec.gov/rules/sro/icc/2021/34-91894.pdf)) rule come back in **any** form. It's gone, vamos, does not exist on the internet. **What the fucking** ***fuck***\*\*?\*\*
@@ -8,7 +9,7 @@ The contents cannot be found on the federal register: [Federal register with sea
 
 The file cannot be found on the DTCC rule filings:
 
-[Where in the world is DTC-005](https://preview.redd.it/06gy8vb3j6z61.png?width=904&format=png&auto=webp&s=722af39eb0b6ece1a6389c9f8da643864ac152ee)
+![Where in the world is DTC-005](https://preview.redd.it/06gy8vb3j6z61.png?width=904&format=png&auto=webp&s=722af39eb0b6ece1a6389c9f8da643864ac152ee)
 
 A smart ape copied it to the paste bin: [https://pastebin.com/adT3ZUZ0](https://pastebin.com/adT3ZUZ0) \- I have a copy of the PDF on my machine. Let's review what the **Purpose** of this rule filing was to be.
 
@@ -26,7 +27,7 @@ Let's review the **purpose** of the filing:
 
 &#x200B;
 
-[A pledge, ie. collateral to buy your shit](https://preview.redd.it/lfz45upfm6z61.png?width=652&format=png&auto=webp&s=35fd91b20cf4386e8d49488ebba55f597ba559ca)
+![A pledge, ie. collateral to buy your shit](https://preview.redd.it/lfz45upfm6z61.png?width=652&format=png&auto=webp&s=35fd91b20cf4386e8d49488ebba55f597ba559ca)
 
 \- **Pledgee:**  A Pledgee may but not need be a Participant. A Pledgee is required by DTC to sign a Pledgee’s Agreement unless it is also a Participant. ***This is the person who selling shit.***
 
@@ -38,11 +39,11 @@ Let's review the **purpose** of the filing:
 
 &#x200B;
 
-[Collateral is NOT RELEASED TO THEIR GENERAL ACCOUNT](https://preview.redd.it/p0w14o31n6z61.png?width=1215&format=png&auto=webp&s=c6475cca0fe26894a980945580a2a3f97a247419)
+![Collateral is NOT RELEASED TO THEIR GENERAL ACCOUNT](https://preview.redd.it/p0w14o31n6z61.png?width=1215&format=png&auto=webp&s=c6475cca0fe26894a980945580a2a3f97a247419)
 
 What else?
 
-[When you pledge your securities, they are NOT RELEASED BY THE DTC until they clear it.](https://preview.redd.it/erylgxvfn6z61.png?width=1283&format=png&auto=webp&s=a0b6faa0b2b6dbe8757a5256dce03dfbe3ed168a)
+![When you pledge your securities, they are NOT RELEASED BY THE DTC until they clear it.](https://preview.redd.it/erylgxvfn6z61.png?width=1283&format=png&auto=webp&s=a0b6faa0b2b6dbe8757a5256dce03dfbe3ed168a)
 
 **Break it down again**
 
@@ -56,13 +57,13 @@ What else?
 
 &#x200B;
 
-[Only a Pledgee can release a pledge - only if the seller agrees](https://preview.redd.it/lajomoe3p6z61.png?width=1012&format=png&auto=webp&s=df5a089cdc94248945adac517e8ff4e356c73cb2)
+![Only a Pledgee can release a pledge - only if the seller agrees](https://preview.redd.it/lajomoe3p6z61.png?width=1012&format=png&auto=webp&s=df5a089cdc94248945adac517e8ff4e356c73cb2)
 
 *Hard Pledge - sounds a lot like a Hard Locate.*
 
 Furthermore
 
-[The pledgor \(borrower,buyer\) is credited through the DTC but NOT released and the same for the pledgee.](https://preview.redd.it/anz6x6zfp6z61.png?width=1333&format=png&auto=webp&s=6fb096c9ea60b2790b3e33f214ea85ea4d973c8e)
+![The pledgor \(borrower,buyer\) is credited through the DTC but NOT released and the same for the pledgee.](https://preview.redd.it/anz6x6zfp6z61.png?width=1333&format=png&auto=webp&s=6fb096c9ea60b2790b3e33f214ea85ea4d973c8e)
 
 So this is like when you make a trade on your brokerage and the brokerage removes the funds from your account, but you still can't use them until the other person says they're happy with what they got and vis versa. *Still with me?*
 

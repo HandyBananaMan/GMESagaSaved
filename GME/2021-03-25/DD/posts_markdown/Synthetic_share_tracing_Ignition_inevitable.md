@@ -1,5 +1,6 @@
-# Author: neilandrew4719
-# Post URL: [https://www.reddit.com/r/GME/comments/mcvnnk/synthetic_share_tracing_ignition_inevitable/](https://www.reddit.com/r/GME/comments/mcvnnk/synthetic_share_tracing_ignition_inevitable/)
+#Title: Synthetic share tracing. Ignition inevitable
+#Author: neilandrew4719
+#Post URL: [https://www.reddit.com/r/GME/comments/mcvnnk/synthetic_share_tracing_ignition_inevitable/](https://www.reddit.com/r/GME/comments/mcvnnk/synthetic_share_tracing_ignition_inevitable/)
 
 
 &#x200B;

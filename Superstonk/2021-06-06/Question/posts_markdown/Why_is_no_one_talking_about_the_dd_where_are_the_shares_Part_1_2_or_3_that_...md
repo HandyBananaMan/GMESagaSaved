@@ -1,5 +1,6 @@
-# Author: k_joule
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu44sm/why_is_no_one_talking_about_the_dd_where_are_the/](https://www.reddit.com/r/Superstonk/comments/nu44sm/why_is_no_one_talking_about_the_dd_where_are_the/)
+#Title: Why is no one talking about the dd, "where are the shares?" Part 1, 2, or 3 that dropped over the weekend?
+#Author: k_joule
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu44sm/why_is_no_one_talking_about_the_dd_where_are_the/](https://www.reddit.com/r/Superstonk/comments/nu44sm/why_is_no_one_talking_about_the_dd_where_are_the/)
 
 
 Why is no one talking about the dd, "where are the shares?" Part 1, 2, or 3 that dropped over the weekend?  

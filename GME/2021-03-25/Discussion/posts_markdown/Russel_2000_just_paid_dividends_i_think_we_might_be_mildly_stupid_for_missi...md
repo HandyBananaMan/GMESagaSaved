@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/GME/comments/mctytm/russel_2000_just_paid_dividends_i_think_we_might/](https://www.reddit.com/r/GME/comments/mctytm/russel_2000_just_paid_dividends_i_think_we_might/)
+#Title: Russel 2000 just paid dividends... i think we might be mildly stupid for missing this...
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/GME/comments/mctytm/russel_2000_just_paid_dividends_i_think_we_might/](https://www.reddit.com/r/GME/comments/mctytm/russel_2000_just_paid_dividends_i_think_we_might/)
 
 
 Uuum, i just saw... The Russel 2000, the ETF that tracks GME and the other popular stocks and all these micro caps paid dividends today...

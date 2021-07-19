@@ -1,5 +1,6 @@
-# Author: Blanderson_Snooper
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/)
+#Title: The GME Masters' Guide: A DD Campaign for Apes Levels 1-20 (The GME Story in 100 DDs)
+#Author: Blanderson_Snooper
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/)
 
 
 Hi all, Blanderson here, back this time with all the DD you wanted in a story you didn't ask for.
@@ -597,4 +598,4 @@ plants69 - [The Imminent Liquidity Crisis and Reverse Repos Usage](https://www.r
 
 Criand - [DTC Preparing for Massive Defaults, Crypto May Keep Tanking](https://www.reddit.com/user/Criand/comments/njrbf4/dtc_icc_occ_passed_rules_this_week_to_prepare_for/) \- May 23
 
-Freadom6 - ![CEOs of Major Banks Testifying/Margin Debt at All-Time High](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/) \- May 23
+Freadom6 - [CEOs of Major Banks Testifying/Margin Debt at All-Time High](https://www.reddit.com/r/GME/comments/nj6iz0/ceos_of_major_banks_testifying_this_week_margin/) \- May 23

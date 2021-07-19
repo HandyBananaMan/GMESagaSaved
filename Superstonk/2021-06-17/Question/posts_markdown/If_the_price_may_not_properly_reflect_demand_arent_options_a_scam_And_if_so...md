@@ -1,5 +1,6 @@
-# Author: Shadizar88
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1w2rc/if_the_price_may_not_properly_reflect_demand/](https://www.reddit.com/r/Superstonk/comments/o1w2rc/if_the_price_may_not_properly_reflect_demand/)
+#Title: If the "price may not properly reflect demand", aren't options a scam? And if so, aren't there the basis for a class action after the declaration of the chief of NYSE?
+#Author: Shadizar88
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1w2rc/if_the_price_may_not_properly_reflect_demand/](https://www.reddit.com/r/Superstonk/comments/o1w2rc/if_the_price_may_not_properly_reflect_demand/)
 
 
 Maybe some wrinkled ape can answer this.

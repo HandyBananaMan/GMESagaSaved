@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/](https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/)
+#Title: The Daily Stonk 07-12-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/](https://www.reddit.com/r/Superstonk/comments/oiooh1/the_daily_stonk_07122021/)
 
 
 &#x200B;
@@ -20,7 +21,7 @@ https://preview.redd.it/gy7xdicc8ra71.png?width=680&format=png&auto=webp&s=448e0
 
 &#x200B;
 
-[me coming back after a few days only to realise everything is lego's now](https://i.redd.it/7elpz8qm8ra71.gif)
+![me coming back after a few days only to realise everything is lego's now](https://i.redd.it/7elpz8qm8ra71.gif)
 
 &#x200B;
 
@@ -28,7 +29,7 @@ The exponential floor
 
 &#x200B;
 
-[credit to u\/jth1](https://preview.redd.it/03525w9c9ra71.png?width=16384&format=png&auto=webp&s=7021fa33b433fbfcd865538be5e92893716c6bd1)
+![credit to u\/jth1](https://preview.redd.it/03525w9c9ra71.png?width=16384&format=png&auto=webp&s=7021fa33b433fbfcd865538be5e92893716c6bd1)
 
 The exponential floor seems to still not be on track, not sure on how or when a new theory is going to bring itself forward but it seems interesting nonetheless imo
 
@@ -186,7 +187,7 @@ backups:
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF)
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF)
 
 \-------------------------------------------------------------------------------------
 

@@ -1,5 +1,6 @@
-# Author: taranasus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/](https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/)
+#Title: Simple FTD math based on u/ChrisCraftTexasUSA post... GME appears to only have about 30 times more FTDs than TSLA... Just...
+#Author: taranasus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/](https://www.reddit.com/r/Superstonk/comments/obh3z3/simple_ftd_math_based_on_uchriscrafttexasusa_post/)
 
 
 # IMPORTANT EDIT
@@ -8,11 +9,11 @@
 
 Some people have expressed concerns that [sec.report](https://sec.report) doesn't seem like a legit website, or that user ChristCraftTexasUSA is showing bot behavior. While I admire and encourage people to always remain skeptical and vigilant, please double check before throwing such claims around.
 
-Per the bottom portion of the [sec.report](https://sec.report) website [https://imgur.com/a/xgdUY7a](https://imgur.com/a/xgdUY7a) \- It is just a data scraper / aggregator that presents this data from the [sec.gov](https://sec.gov) site in a more readable way.
+Per the bottom portion of the [sec.report](https://sec.report) website ![https://imgur.com/a/xgdUY7a](https://imgur.com/a/xgdUY7a) \- It is just a data scraper / aggregator that presents this data from the [sec.gov](https://sec.gov) site in a more readable way.
 
 The website is about 3 years old going by the age of its twitter account [https://twitter.com/EdgarInsider](https://twitter.com/EdgarInsider)
 
-And probably, most importantly, you can literally get the source data from the SEC website. Here I am showing the numbers for the June 14 date and where to find them. [https://i.imgur.com/AOIWpT1.png](https://i.imgur.com/AOIWpT1.png)
+And probably, most importantly, you can literally get the source data from the SEC website. Here I am showing the numbers for the June 14 date and where to find them. ![https://i.imgur.com/AOIWpT1.png](https://i.imgur.com/AOIWpT1.png)
 
 Feel free to verify the other two numbers (Oct for GME, Dec for TSLA) for yourself if you like.
 
@@ -58,6 +59,6 @@ TSLA FTD data [https://sec.report/fails.php?tc=TSLA](https://sec.report/fails.ph
 
 GME Outstanding Share Count data: [https://ycharts.com/companies/GME/shares\_outstanding](https://ycharts.com/companies/GME/shares_outstanding)
 
-TSLA Outstanding Share Count data: ![https://ycharts.com/companies/TSLA/shares\_outstanding](https://ycharts.com/companies/TSLA/shares_outstanding)
+TSLA Outstanding Share Count data: [https://ycharts.com/companies/TSLA/shares\_outstanding](https://ycharts.com/companies/TSLA/shares_outstanding)
 
 No fuckery going on here people....

@@ -1,5 +1,6 @@
-# Author: MrFerno
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndrsok/stop_watching_matt_kors_andrewmomoney_and_any/](https://www.reddit.com/r/Superstonk/comments/ndrsok/stop_watching_matt_kors_andrewmomoney_and_any/)
+#Title: STOP WATCHING MATT KORS, ANDREWMOMONEY and ANY OTHER YOUTUBE STREAMER. And warn those you love to do so as well.
+#Author: MrFerno
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndrsok/stop_watching_matt_kors_andrewmomoney_and_any/](https://www.reddit.com/r/Superstonk/comments/ndrsok/stop_watching_matt_kors_andrewmomoney_and_any/)
 
 
 **TITLE SHOULD READ: BE WARY OF YOUTUBERS. I’M NOT SAYING STOP WATCHING THEM BUT BE CAUTIOUS. BE ALERT. ESPECIALLY AFTER THIS WARDENELITE DRAMA.**

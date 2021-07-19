@@ -1,5 +1,6 @@
-# Author: Xxtheloo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n017yj/i_made_a_post_on_the_thread_before_discussing_my/](https://www.reddit.com/r/Superstonk/comments/n017yj/i_made_a_post_on_the_thread_before_discussing_my/)
+#Title: I made a post on the thread before discussing my positive experience with Fidelity. I just spoke with a rep from there and he said 8-10 million robinhood users have switched to Fidelity 🤯 we definitely own the float
+#Author: Xxtheloo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n017yj/i_made_a_post_on_the_thread_before_discussing_my/](https://www.reddit.com/r/Superstonk/comments/n017yj/i_made_a_post_on_the_thread_before_discussing_my/)
 
 
 Basically I was inquiring on voting procedures and whether my shares had been converted to cash. After he informed me of my details I asked him if Fidelity planned to update their UI in response to all us new poop slingers joining Fidelity. 

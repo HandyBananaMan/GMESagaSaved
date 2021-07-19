@@ -1,5 +1,6 @@
-# Author: Prof_Dankmemes
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/](https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/)
+#Title: 🚨 STOP THE MISINFO!!!! Ryan Cohen has NOT bought shares... (yet). 🚨
+#Author: Prof_Dankmemes
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/](https://www.reddit.com/r/Superstonk/comments/o22pn0/stop_the_misinfo_ryan_cohen_has_not_bought_shares/)
 
 
 There's screenshots going around that are incorrect.
@@ -17,7 +18,7 @@ You can check insider buys at these sites:
 
 #Everyone keeps reposting the same source, yet nobody is asking HOW THEY GOT THAT INFO. It's impossible. Let's look around and see if ANYTHING ELSE CONFIRMS THIS.
 
-[GAMESTOP itself has reported NOTHING!](https://preview.redd.it/uhubz3rs5v571.png?width=1420&format=png&auto=webp&s=28ffde0a3dc59705eba274a8e202a8a7be2b0d76)
+![GAMESTOP itself has reported NOTHING!](https://preview.redd.it/uhubz3rs5v571.png?width=1420&format=png&auto=webp&s=28ffde0a3dc59705eba274a8e202a8a7be2b0d76)
 
 &#x200B;
 

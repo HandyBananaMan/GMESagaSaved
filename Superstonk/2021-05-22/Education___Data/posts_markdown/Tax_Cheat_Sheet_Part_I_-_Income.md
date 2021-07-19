@@ -1,5 +1,6 @@
-# Author: areallygoodsandwhich
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/](https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/)
+#Title: Tax Cheat Sheet Part I - Income
+#Author: areallygoodsandwhich
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/](https://www.reddit.com/r/Superstonk/comments/niz85x/tax_cheat_sheet_part_i_income/)
 
 
 Howdy Everyone,
@@ -21,7 +22,7 @@ Few things first:
 
 &#x200B;
 
-[Serious Tax Picture](https://preview.redd.it/91i50eojcs071.png?width=500&format=png&auto=webp&s=3c1dad958bc582f54ebadce852c1249ca96a675a)
+![Serious Tax Picture](https://preview.redd.it/91i50eojcs071.png?width=500&format=png&auto=webp&s=3c1dad958bc582f54ebadce852c1249ca96a675a)
 
 Here's some basic terminology to make things easier:
 
@@ -62,7 +63,7 @@ The United States uses what’s called a **Marginal Tax Rate**. We have tax brac
 
 Here’s the 2021 tax bracket below:
 
-[I hated this part in college](https://preview.redd.it/wdr8s6ldds071.png?width=817&format=png&auto=webp&s=320fb96642764474a91740d2c3607e36ab9d84b5)
+![I hated this part in college](https://preview.redd.it/wdr8s6ldds071.png?width=817&format=png&auto=webp&s=320fb96642764474a91740d2c3607e36ab9d84b5)
 
 Looks scary. Here’s an example:
 
@@ -102,7 +103,7 @@ If you **hold a stock for** **more than one year**, you are in this bucket. Your
 
 Here are the current Long Term Capital Gains Rates (LTCG) for 2021:
 
-[LTCG](https://preview.redd.it/gmrhdjmjes071.png?width=695&format=png&auto=webp&s=64f5bdee18b384d163b55e17faaecdc570539808)
+![LTCG](https://preview.redd.it/gmrhdjmjes071.png?width=695&format=png&auto=webp&s=64f5bdee18b384d163b55e17faaecdc570539808)
 
 * Notice is that all of these rates are lower than the marginal income brackets for those income levels
 * Maximum LTCG is **20%** < Maximum Marginal Tax Rate is **37%**
@@ -161,7 +162,7 @@ I’m not sure if there’s a way you can check your brokerage account to see if
 
 Here’s a picture below to illustrate:
 
-[Wash Your Hands Kenny](https://preview.redd.it/x4mqkt50gs071.jpg?width=767&format=pjpg&auto=webp&s=8ed88f0ffe31df712558bb2035416f4b0ab74377)
+![Wash Your Hands Kenny](https://preview.redd.it/x4mqkt50gs071.jpg?width=767&format=pjpg&auto=webp&s=8ed88f0ffe31df712558bb2035416f4b0ab74377)
 
 Note that this person is not able to take a $100 loss since the stock was bought and sold for a loss within 30 days. Even though they didn’t buy the stock after 1/29/15, the 30-day rule applies to before. Basically, if you paper-handed for a loss this year and bought back in again within 30 days, ~~you WON’T be able to include that loss to lower your income.~~ **your loss will be ADDED BACK to your basis and there will be NO LOSS ALLOWED**
 
@@ -233,7 +234,7 @@ Lot's of great questions on Estimated Tax Payments! I will be getting to these o
 
 I haven't looked it over yet, but [u/CalamariAce](https://www.reddit.com/u/CalamariAce) made a which will probably point you in the right direction:
 
-![https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated\_taxes\_and\_why\_you\_probably\_wont\_need\_to/](https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated_taxes_and_why_you_probably_wont_need_to/)
+[https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated\_taxes\_and\_why\_you\_probably\_wont\_need\_to/](https://www.reddit.com/r/wallstreetbets/comments/mp6kuv/estimated_taxes_and_why_you_probably_wont_need_to/)
 
 &#x200B;
 

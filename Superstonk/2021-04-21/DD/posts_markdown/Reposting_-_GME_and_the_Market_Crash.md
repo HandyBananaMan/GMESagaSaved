@@ -1,5 +1,6 @@
-# Author: kekking_ass
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
+#Title: Reposting - GME and the Market Crash
+#Author: kekking_ass
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
 
 
 I posted this **almost 2 months ago** and folks thought I was wrong or fear mongering.  Look at all the DD now and tell me I'm wrong.  I wish I was wrong because this is a big deal as most of you have learned.  Either way, we are going to the fucking moon and beyond!!!  Enjoy your tendies when they come because you're going to be the apes who survived it and earned it for holding throughout all the bullshit so far.
@@ -98,4 +99,4 @@ The market was moving towards a crash even without GameStop but when it does fin
 
 \*\*Edit 17\*\* u/fortifier22 just released more [great information](https://www.reddit.com/r/Superstonk/comments/mvj8fz/where_there_is_smoke_there_is_fire/) in a recent post.
 
-\*\*Edit 18\*\*  [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) does a comparison of negative beta and distribution ![days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/).
+\*\*Edit 18\*\*  [u/According\_Bee2757](https://www.reddit.com/user/According_Bee2757/) does a comparison of negative beta and distribution [days](https://www.reddit.com/r/Superstonk/comments/n0htur/the_end_is_near_market_tops_distribution_days/).

@@ -1,5 +1,6 @@
-# Author: mybustersword
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/](https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/)
+#Title: a followup to the HoC DD- the "everything" in Everything Short. I present, RAGNAROK
+#Author: mybustersword
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/](https://www.reddit.com/r/Superstonk/comments/no14pt/a_followup_to_the_hoc_dd_the_everything_in/)
 
 
  Atobitt made some great DD. House of Cards 1-3. Everything Short. Classics. However, part 2 and 3 of HoC felt *incomplete*. No offense to the man, no offense to the data. I think it is spot on, i think we all know what to do. HODL.
@@ -56,7 +57,7 @@ Now, Amazon bought Whole Foods a few years back. Whole Foods largest competition
 
 Some more connections here: [https://www.businessinsider.com/amazon-deal-for-whole-foods-true-genius-hedge-fund-2017-7](https://www.businessinsider.com/amazon-deal-for-whole-foods-true-genius-hedge-fund-2017-7). "genius move" they called the acquisition. Remember when They killed the Rite Aid deal, and Target bought CVS?
 
-\[[https://www.wallstreetoasis.com/forums/7-best-long-term-stock-picks-by-morgan-stanley](https://www.wallstreetoasis.com/forums/7-best-long-term-stock-picks-by-morgan-stanley)\](Currently, Target's shares are trading at $51.70 and are expected to reach $64 by the end of 2012....Jonathan Jacobson's [Highfields Capital Management](http://www.insidermonkey.com/hedge-fund/highfields+capital+management/172/) doubled its stake in TGT during the third quarter to nearly $300 million.) TGT is in the top 50 of Citadel's holdings. ![https://docoh.com/company/1423053/citadel-advisors-llc](https://docoh.com/company/1423053/citadel-advisors-llc)
+\[[https://www.wallstreetoasis.com/forums/7-best-long-term-stock-picks-by-morgan-stanley](https://www.wallstreetoasis.com/forums/7-best-long-term-stock-picks-by-morgan-stanley)\](Currently, Target's shares are trading at $51.70 and are expected to reach $64 by the end of 2012....Jonathan Jacobson's [Highfields Capital Management](http://www.insidermonkey.com/hedge-fund/highfields+capital+management/172/) doubled its stake in TGT during the third quarter to nearly $300 million.) TGT is in the top 50 of Citadel's holdings. [https://docoh.com/company/1423053/citadel-advisors-llc](https://docoh.com/company/1423053/citadel-advisors-llc)
 
 Now, Look at the stock charts for Rite Aid (RAD), and compare it to GME. Interesting.
 

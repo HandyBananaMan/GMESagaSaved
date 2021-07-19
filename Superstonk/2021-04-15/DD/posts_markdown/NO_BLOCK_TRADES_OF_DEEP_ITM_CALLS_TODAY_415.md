@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mrr8zv/no_block_trades_of_deep_itm_calls_today_415/](https://www.reddit.com/r/Superstonk/comments/mrr8zv/no_block_trades_of_deep_itm_calls_today_415/)
+#Title: NO BLOCK TRADES OF DEEP ITM CALLS TODAY (4/15)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mrr8zv/no_block_trades_of_deep_itm_calls_today_415/](https://www.reddit.com/r/Superstonk/comments/mrr8zv/no_block_trades_of_deep_itm_calls_today_415/)
 
 
 What up Apes,

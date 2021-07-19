@@ -1,5 +1,6 @@
-# Author: ReBjorn65
-# Post URL: [https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/](https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/)
+#Title: NSSC-002 and NSSC-801 Update
+#Author: ReBjorn65
+#Post URL: [https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/](https://www.reddit.com/r/GME/comments/mbgn48/nssc002_and_nssc801_update/)
 
 
 I did not see a new post yet on this. 

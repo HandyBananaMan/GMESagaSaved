@@ -1,5 +1,6 @@
-# Author: jarofmy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/](https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/)
+#Title: Came for the Memes, Stayed for the Fundamentals: A Look into GME Without The Squeeze
+#Author: jarofmy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/](https://www.reddit.com/r/Superstonk/comments/nt31x2/came_for_the_memes_stayed_for_the_fundamentals_a/)
 
 
 # **Intro/Observation:
@@ -8,7 +9,7 @@ God damn, god damn! Some of us have really come a long ass way since January. Mi
 
 &#x200B;
 
-[Snorting god-tier DD, I said god damn!](https://i.redd.it/1qn8uqovkn371.gif)
+![Snorting god-tier DD, I said god damn!](https://i.redd.it/1qn8uqovkn371.gif)
 
 This thought occurred to me when talking to someone this past week about other rising stocks. They said: “if you inflate the value of (insert rising meme-stock) to drive out the short sellers but in the end you own a company that was struggling. What gives?”
 
@@ -34,13 +35,13 @@ Gamestop’s previous brick-and-mortar focused model limited the company’s acc
 
 &#x200B;
 
-[Brief History Lesson, Chewy was the Blueprint](https://preview.redd.it/7y3b6z8zkn371.jpg?width=512&format=pjpg&auto=webp&s=b4f4413c93d039dcc0125da7aabbd4e935da511f)
+![Brief History Lesson, Chewy was the Blueprint](https://preview.redd.it/7y3b6z8zkn371.jpg?width=512&format=pjpg&auto=webp&s=b4f4413c93d039dcc0125da7aabbd4e935da511f)
 
 Ryan Cohen founded Chewy in 2011, in the face of industry competition such as Petsmart, Petco, and Amazon. He began by poaching talents from Amazon, Petsmart, and Wayfair (any of this sound familiar?). In their first year, despite losing money in the first half year, Chewy had a $26 million dollar revenue. It is widely known that Ryan Cohen follows a business model that priorities customer experience.
 
 &#x200B;
 
-[\\"If you take a carload of this, you'll make more money. But if you take a carload of that, you'll make less money, but you'll keep the customer. So take a carload of that.\\" - Ryan's father](https://preview.redd.it/vr62shj1ln371.png?width=1574&format=png&auto=webp&s=7ab3ee8bdb1a4ca98104265e15d923c665ebdd8a)
+![\\"If you take a carload of this, you'll make more money. But if you take a carload of that, you'll make less money, but you'll keep the customer. So take a carload of that.\\" - Ryan's father](https://preview.redd.it/vr62shj1ln371.png?width=1574&format=png&auto=webp&s=7ab3ee8bdb1a4ca98104265e15d923c665ebdd8a)
 
 With a heavy focus on customer service and user experience, by 2017, Chewy was offered a merger deal by both Petco and Petsmart, and was finally acquired by Petsmart for $3.35 billion dollars, which at the time was the [largest merger acquisition](https://www.vox.com/2017/12/6/16681040/ryan-cohen-chewy-recode-100) of an e-commerce business. How’s it doing now? Thriving. Not only did Chewy survive against established industry players, Chewy now has a respectable portion of the pet industry market.
 
@@ -54,7 +55,7 @@ Market percentage: 30% of market
 
 &#x200B;
 
-[Gamestop's back alright!](https://i.redd.it/chwh6fj5ln371.gif)
+![Gamestop's back alright!](https://i.redd.it/chwh6fj5ln371.gif)
 
 # Where are we now?
 
@@ -96,7 +97,7 @@ Just think about this: The bear thesis of GME being undervalued implies that exp
 
 &#x200B;
 
-[So you're telling me expanding to a $1.9 trillion accessible market will decrease GME's value?](https://preview.redd.it/qg2cia78ln371.jpg?width=500&format=pjpg&auto=webp&s=14dee08399be0f8faf2b6e4646d88e802f7d4084)
+![So you're telling me expanding to a $1.9 trillion accessible market will decrease GME's value?](https://preview.redd.it/qg2cia78ln371.jpg?width=500&format=pjpg&auto=webp&s=14dee08399be0f8faf2b6e4646d88e802f7d4084)
 
 [**\*New Microsoft Deal:**](https://news.microsoft.com/2020/10/08/gamestop-announces-multiyear-strategic-partnership-with-microsoft/)
 
@@ -108,7 +109,7 @@ So on top of already leading video game retail revenue, and adding the expansion
 
 &#x200B;
 
-[Yo we heard you liked revenue, so we added revenue on your revenue on top of your revenue!](https://preview.redd.it/ublyks2aln371.jpg?width=622&format=pjpg&auto=webp&s=adab0189f62f3cb8fe3fd5842dd04f537c067c5e)
+![Yo we heard you liked revenue, so we added revenue on your revenue on top of your revenue!](https://preview.redd.it/ublyks2aln371.jpg?width=622&format=pjpg&auto=webp&s=adab0189f62f3cb8fe3fd5842dd04f537c067c5e)
 
 [**\*Service and Delivery:**](https://www.gamestop.com/collection/same-day-delivery)
 
@@ -118,7 +119,7 @@ By expanding their retail locations to act as mini-distribution centers, Gamesto
 
 &#x200B;
 
-[But wait, there's more!](https://i.redd.it/vevbawfbln371.gif)
+![But wait, there's more!](https://i.redd.it/vevbawfbln371.gif)
 
 [**\*eSports/Gaming:**](https://gspc.gg/)
 

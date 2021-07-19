@@ -1,5 +1,6 @@
-# Author: bobsmith808
-# Post URL: [https://www.reddit.com/r/GME/comments/mu6a4n/psa_remember_hfs_are_watching_us_dont_give_them/](https://www.reddit.com/r/GME/comments/mu6a4n/psa_remember_hfs_are_watching_us_dont_give_them/)
+#Title: PSA:. Remember HFs are watching us. Don't give them any data to work with and don't be a douche. Claim that victory with grace and munch some Tendies after.
+#Author: bobsmith808
+#Post URL: [https://www.reddit.com/r/GME/comments/mu6a4n/psa_remember_hfs_are_watching_us_dont_give_them/](https://www.reddit.com/r/GME/comments/mu6a4n/psa_remember_hfs_are_watching_us_dont_give_them/)
 
 
 If this weekend proves anything (other than HFs r Fuk), it shows just how closely HFs are watching us.

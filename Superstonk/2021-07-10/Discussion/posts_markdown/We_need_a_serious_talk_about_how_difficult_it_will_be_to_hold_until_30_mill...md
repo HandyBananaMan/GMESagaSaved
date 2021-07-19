@@ -1,5 +1,6 @@
-# Author: thesharkzone
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohnydk/we_need_a_serious_talk_about_how_difficult_it/](https://www.reddit.com/r/Superstonk/comments/ohnydk/we_need_a_serious_talk_about_how_difficult_it/)
+#Title: We need a serious talk about how difficult it will be to hold until $30 million plus when the squeeze happens...
+#Author: thesharkzone
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohnydk/we_need_a_serious_talk_about_how_difficult_it/](https://www.reddit.com/r/Superstonk/comments/ohnydk/we_need_a_serious_talk_about_how_difficult_it/)
 
 
 First of all... Congratulations on making through the months of crazy illegal and manipulative price phase of Pre-MOASS GME. You thought this was the tough part...? You are so wrong... Are you ready to talk about some uncomfortable truths about what we'll be facing during MOASS? Let's go...

@@ -1,12 +1,13 @@
-# Author: ZKShao
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
+#Title: Counter DD: NY Fed $400 bln reverse repos is not tied to margin calls. It's worse.
+#Author: ZKShao
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/](https://www.reddit.com/r/Superstonk/comments/nbt1sp/counter_dd_ny_fed_400_bln_reverse_repos_is_not/)
 
 
 # Changed May 16th: Please see Update at bottom of post.
 
 Today there is hype about an Italian financial news site reporting that the New York Fed has lent **400 billion** USD to 39 financial institutes over the past two days. It concludes that big Wall Street parties have been margin called and are panic borrowing from the Fed to make margin. Link: [https://www.money.it/Fed-repo-miliardi-Wall-Street](https://www.money.it/Fed-repo-miliardi-Wall-Street)
 
-[Google translated screenshot of the news article](https://preview.redd.it/x2vo22t7cyy61.png?width=697&format=png&auto=webp&s=8bdb221c2f8ba0330f3a9e5601463ce51a2b2c4b)
+![Google translated screenshot of the news article](https://preview.redd.it/x2vo22t7cyy61.png?width=697&format=png&auto=webp&s=8bdb221c2f8ba0330f3a9e5601463ce51a2b2c4b)
 
 **None of it is correct.**
 
@@ -39,7 +40,7 @@ So first off, what is this $400 billion figure coming from? Again look at the sh
 
 &#x200B;
 
-[The numbers are from reverse repos](https://preview.redd.it/phgs140fdyy61.png?width=1119&format=png&auto=webp&s=50cd1533a4e1000d7238f940ce59ad364e49fcdf)
+![The numbers are from reverse repos](https://preview.redd.it/phgs140fdyy61.png?width=1119&format=png&auto=webp&s=50cd1533a4e1000d7238f940ce59ad364e49fcdf)
 
 Take note that the page contains daily summaries of **repos** and **reverse repos**. Nothing is happening in terms of repos (.000 abound), the numbers are about **reverse repos**.
 
@@ -64,7 +65,7 @@ Moreover, the reverse repos involving the reported numbers are **overnight rever
 
 &#x200B;
 
-[Numbers are from same-day settlement reverse repos, i.e. 'overnight'](https://preview.redd.it/ygb2nqbrbyy61.png?width=599&format=png&auto=webp&s=26645b6faf328e475ad1436b39d351ab745e9d82)
+![Numbers are from same-day settlement reverse repos, i.e. 'overnight'](https://preview.redd.it/ygb2nqbrbyy61.png?width=599&format=png&auto=webp&s=26645b6faf328e475ad1436b39d351ab745e9d82)
 
 Until this part is just setting the record straight. I do have an alternative theory to propose.
 
@@ -80,7 +81,7 @@ If you look at the data again on the NY Fed site, numbers have been increasing s
 
 &#x200B;
 
-[All credit to u\/xpurplexamyx and her post at https:\/\/www.reddit.com\/r\/Superstonk\/comments\/nbbg13\/reverse\_repo\_loan\_amounts\_by\_day\_since\_january\/](https://preview.redd.it/wr801288eyy61.png?width=960&format=png&auto=webp&s=b4821e15abc01e14e0f4ea6401fe1cdbfe03daaa)
+![All credit to u\/xpurplexamyx and her post at https:\/\/www.reddit.com\/r\/Superstonk\/comments\/nbbg13\/reverse\_repo\_loan\_amounts\_by\_day\_since\_january\/](https://preview.redd.it/wr801288eyy61.png?width=960&format=png&auto=webp&s=b4821e15abc01e14e0f4ea6401fe1cdbfe03daaa)
 
 If you look at the graph, you can see the numbers start increasing rapidly after March 17. Well something very relevant happened on that day. Before March 17, any reverse repo (RRP) counter party could deposit up to 30 billion per day at the Fed. **On March 17, this changed to 80 billion.**
 
@@ -106,13 +107,13 @@ The incentive may be that when you park your cash at the Fed and get to hold on 
 
 I mean, look at what's been trending downwards:
 
-[Price of treasury bonds has been trending down](https://preview.redd.it/e2ply48ihyy61.png?width=853&format=png&auto=webp&s=85a103ff44d76ff96bec4f4498d2bf3878cd5bad)
+![Price of treasury bonds has been trending down](https://preview.redd.it/e2ply48ihyy61.png?width=853&format=png&auto=webp&s=85a103ff44d76ff96bec4f4498d2bf3878cd5bad)
 
 For more juicy cooking recipes with treasury bonds, please refer to the Everything Short by u/atobitt. I'm not saying the Everything Short and this here are the same argument, actually I need to reread it knowing everything I learned today. What I am saying is that **treasury bonds are shiny**.
 
 &#x200B;
 
-[And I don't even know what they look like!](https://preview.redd.it/vb55e9krpyy61.jpg?width=650&format=pjpg&auto=webp&s=028788f1a02e5299329a2d00b65f7ea253a5d148)
+![And I don't even know what they look like!](https://preview.redd.it/vb55e9krpyy61.jpg?width=650&format=pjpg&auto=webp&s=028788f1a02e5299329a2d00b65f7ea253a5d148)
 
 Since the value of treasury bonds is trending downward and these financial institutes can borrow treasury bonds from the Fed free of charge via reverse repos, that might explain why so many parties are participating in this reverse repo program and why daily cash deposited at the Fed is ever increasing. Although this mechanism was made by the Fed as a way to withhold money from the market, in effect they are lending out treasury bonds for free.
 
@@ -136,6 +137,6 @@ On the other side of the equation, u/jsmar18 stressed the role of the Fed in the
 
 u/HotBoyFF also remarked with his experience that it's likely not daily short selling, but it could be that the financial institutions desperately need treasury securities for something other, such as reporting reasons. u/jsmar18 in their reply also linked some good information on that. Treasuries are certainly used for 'window-dressing' (cooking books legally). I found this study on that subject if anyone is interested: [https://www.aeaweb.org/conference/2018/preliminary/paper/KdB9i9QE](https://www.aeaweb.org/conference/2018/preliminary/paper/KdB9i9QE)
 
-A popular question was: does this align with u/atobitt's [Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)? Now that I believe that it's mostly money market funds using the reverse repo program, who cannot directly in a legal way tunnel assets to hedge funds, I think it is more likely that hedge funds would just naked short over exploiting the reverse repo program. The original theory aligned with Everything Short, my updated stance just says: The NY Fed's reverse repo program is probably not an efficient way for hedgies to implement the Everything Short. Here is a little snack that does support the Everything Short, which is ![JPow's Q&A from April 27-28](https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210428.htm) time 47:00. "As you know at the beginning of this recent crisis, there was such a demand for selling treasuries, including by foreign central banks, that really the dealers could not handle the volume." Insane demand so the dealers couldn't handle it, could that have included naked short selling? Likely.
+A popular question was: does this align with u/atobitt's [Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)? Now that I believe that it's mostly money market funds using the reverse repo program, who cannot directly in a legal way tunnel assets to hedge funds, I think it is more likely that hedge funds would just naked short over exploiting the reverse repo program. The original theory aligned with Everything Short, my updated stance just says: The NY Fed's reverse repo program is probably not an efficient way for hedgies to implement the Everything Short. Here is a little snack that does support the Everything Short, which is [JPow's Q&A from April 27-28](https://www.federalreserve.gov/monetarypolicy/fomcpresconf20210428.htm) time 47:00. "As you know at the beginning of this recent crisis, there was such a demand for selling treasuries, including by foreign central banks, that really the dealers could not handle the volume." Insane demand so the dealers couldn't handle it, could that have included naked short selling? Likely.
 
 But while we should keep an eye on Citadel and any parties trying to short *attack* the US treasuries, I don't believe Citadel is overleveraged in naked shorting US treasuries because retail and whales catching a falling GME was the big surprise to them. In US treasuries, the 52wk high-low (for example TLT: 177 - 136) is much tighter than GME (483 - 3.77) and the market for treasuries is much more resilient. So US treasuries no squeeze potential in case you were considering it (and I know some of you apes did). The ball is still GME.

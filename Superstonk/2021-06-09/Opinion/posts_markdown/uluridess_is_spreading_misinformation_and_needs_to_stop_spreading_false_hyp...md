@@ -1,5 +1,6 @@
-# Author: dce_azzy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/](https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/)
+#Title: u/luridess is spreading misinformation and needs to stop spreading false hype
+#Author: dce_azzy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/](https://www.reddit.com/r/Superstonk/comments/nvz0dw/uluridess_is_spreading_misinformation_and_needs/)
 
 
 Majority means >50% .. this is standard, of course they were going to say this.
@@ -16,4 +17,4 @@ All we heard for 15 minutes was u/luridess's opinion, which was completely misgu
 
 Frankly, it was embarrassing. The community works so hard to build solid DD's, check each others work, and this is the example we're given by moderators ?
 
-EDIT 2 - Does this even need words... ![https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab\_channel=Superstonk](https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab_channel=Superstonk)
+EDIT 2 - Does this even need words... [https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab\_channel=Superstonk](https://www.youtube.com/watch?v=a4SicgRYTmk&t=4320s&ab_channel=Superstonk)

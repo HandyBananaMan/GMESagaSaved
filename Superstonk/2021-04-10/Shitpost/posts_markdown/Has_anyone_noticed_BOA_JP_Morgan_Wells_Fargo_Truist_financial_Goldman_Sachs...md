@@ -1,5 +1,6 @@
-# Author: cousineddie42
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mo29g4/has_anyone_noticed_boa_jp_morgan_wells_fargo/](https://www.reddit.com/r/Superstonk/comments/mo29g4/has_anyone_noticed_boa_jp_morgan_wells_fargo/)
+#Title: Has anyone noticed BOA, JP Morgan, Wells Fargo, Truist financial, Goldman Sachs, Blackrock, Citigroup all have earnings reports next week? ⛽️⛽️⛽️⛽️⛽️⛽️⛽️
+#Author: cousineddie42
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mo29g4/has_anyone_noticed_boa_jp_morgan_wells_fargo/](https://www.reddit.com/r/Superstonk/comments/mo29g4/has_anyone_noticed_boa_jp_morgan_wells_fargo/)
 
 
 Earnings season could be a positive catalyst you say?

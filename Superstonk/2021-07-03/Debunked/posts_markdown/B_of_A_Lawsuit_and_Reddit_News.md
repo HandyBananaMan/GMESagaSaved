@@ -1,5 +1,6 @@
-# Author: Bye_Triangle
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/](https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/)
+#Title: B of A Lawsuit and Reddit News
+#Author: Bye_Triangle
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/](https://www.reddit.com/r/Superstonk/comments/od48es/b_of_a_lawsuit_and_reddit_news/)
 
 
 Hello everyone,
@@ -15,7 +16,7 @@ Hello everyone,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 
-The mods got word on this a little bit ago, the circumstances are quite odd. That having been said, ![r/Superstonk](https://www.reddit.com/r/Superstonk/) is not going to be the place to discuss it, we apologize. We do not know anything about the BofA lawsuit with the Subreddit or Reddit itself-- no one does.
+The mods got word on this a little bit ago, the circumstances are quite odd. That having been said, [r/Superstonk](https://www.reddit.com/r/Superstonk/) is not going to be the place to discuss it, we apologize. We do not know anything about the BofA lawsuit with the Subreddit or Reddit itself-- no one does.
 
 I feel it is important to remind everyone of this rule:
 

@@ -1,5 +1,6 @@
-# Author: Diamond_Hands_10000
-# Post URL: [https://www.reddit.com/r/GME/comments/lzxz3r/this_is_big_regarding_the_new_dtcc_rules/](https://www.reddit.com/r/GME/comments/lzxz3r/this_is_big_regarding_the_new_dtcc_rules/)
+#Title: This is BIG! Regarding the new DTCC rules...
+#Author: Diamond_Hands_10000
+#Post URL: [https://www.reddit.com/r/GME/comments/lzxz3r/this_is_big_regarding_the_new_dtcc_rules/](https://www.reddit.com/r/GME/comments/lzxz3r/this_is_big_regarding_the_new_dtcc_rules/)
 
 
 At least I hope it is, as I understand it. Basically, when a notice is sent by the NSCC under this revision, the funds must be deposited within **1 HOUR!**

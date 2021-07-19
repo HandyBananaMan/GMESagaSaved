@@ -1,5 +1,6 @@
-# Author: GoldenSheriff
-# Post URL: [https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/](https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/)
+#Title: If you don't understand why GME could moon even though price is dropping. Please read this easy explanation. Not financial advice!
+#Author: GoldenSheriff
+#Post URL: [https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/](https://www.reddit.com/r/GME/comments/mcelm5/if_you_dont_understand_why_gme_could_moon_even/)
 
 
 There is a lot of wonderful DD out on this subreddit, and a lot of wonderful apes that have realised that if the apes hold, they moon. It doesn't matter whether or not the price is dropping. However, it is a huge bunch of technical and advanced theories that is required to understand why the MOASS is very likely to happen even though (or because) the price is dropping.
@@ -198,11 +199,11 @@ Now.. This sounds unrealistic. Institutional ownership cannot be more than a 100
 
 &#x200B;
 
-[COKE has 49&#37; institutional ownership](https://preview.redd.it/upiko90q21p61.png?width=605&format=png&auto=webp&s=1234dfb6aff547130393d2206ef8c927c254010b)
+![COKE has 49&#37; institutional ownership](https://preview.redd.it/upiko90q21p61.png?width=605&format=png&auto=webp&s=1234dfb6aff547130393d2206ef8c927c254010b)
 
 &#x200B;
 
-[TESLA has 45&#37; Institutional Ownership](https://preview.redd.it/9xrvv3yt21p61.png?width=605&format=png&auto=webp&s=565917116625a6c122c9ba160c4a67fa288e9ac4)
+![TESLA has 45&#37; Institutional Ownership](https://preview.redd.it/9xrvv3yt21p61.png?width=605&format=png&auto=webp&s=565917116625a6c122c9ba160c4a67fa288e9ac4)
 
 &#x200B;
 
@@ -210,7 +211,7 @@ Now how about gamestop?
 
 &#x200B;
 
-[GAMESTOP HAS 105&#37; INSTITUTIONAL OWNERSHIP?! WHAAT?](https://preview.redd.it/n85qxe8y21p61.png?width=605&format=png&auto=webp&s=fa93b75fa743a33c4f47c5fc985bb3f0cbd98891)
+![GAMESTOP HAS 105&#37; INSTITUTIONAL OWNERSHIP?! WHAAT?](https://preview.redd.it/n85qxe8y21p61.png?width=605&format=png&auto=webp&s=fa93b75fa743a33c4f47c5fc985bb3f0cbd98891)
 
 &#x200B;
 
@@ -220,11 +221,11 @@ This cant be right. Let's look at another source.
 
 &#x200B;
 
-[COKE has 58&#37;](https://preview.redd.it/manb2uf731p61.png?width=605&format=png&auto=webp&s=9647710e65a6d8327033cc88fc0b00619ad58188)
+![COKE has 58&#37;](https://preview.redd.it/manb2uf731p61.png?width=605&format=png&auto=webp&s=9647710e65a6d8327033cc88fc0b00619ad58188)
 
 &#x200B;
 
-[TESLA has 74&#37;](https://preview.redd.it/3u69hx5931p61.png?width=605&format=png&auto=webp&s=79b798131b02007fc80a038e78806af7dd1ab908)
+![TESLA has 74&#37;](https://preview.redd.it/3u69hx5931p61.png?width=605&format=png&auto=webp&s=79b798131b02007fc80a038e78806af7dd1ab908)
 
 &#x200B;
 
@@ -232,7 +233,7 @@ Now how about gamestop?
 
 &#x200B;
 
-[GAMESTOP HAS MORE THAN 200&#37; INSTITUTIONAL OWNERSHIP?!?!](https://preview.redd.it/9hbx188c31p61.png?width=605&format=png&auto=webp&s=26f951210770a1a8c92113a1c53cde31c13ada3f)
+![GAMESTOP HAS MORE THAN 200&#37; INSTITUTIONAL OWNERSHIP?!?!](https://preview.redd.it/9hbx188c31p61.png?width=605&format=png&auto=webp&s=26f951210770a1a8c92113a1c53cde31c13ada3f)
 
 &#x200B;
 
@@ -292,7 +293,7 @@ Now I will go back to eating a taasty crayon (I love the taste of the red ones) 
 
 &#x200B;
 
-**EDIT5 :**  ![**33a**](https://www.reddit.com/user/33a/) **the other kind ape pointed out another simplification in my post. This is the comment:**
+**EDIT5 :**  [**33a**](https://www.reddit.com/user/33a/) **the other kind ape pointed out another simplification in my post. This is the comment:**
 
 &#x200B;
 

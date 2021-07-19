@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)
+#Title: House of Cards - Part 3
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)
 
 
  ***Prerequisite DD:***
@@ -127,7 +128,7 @@ https://preview.redd.it/zdp3at43gk171.jpg?width=997&format=pjpg&auto=webp&s=8508
 
 Charter Communications had a whopping **241.8% short float in 2005**… **The ONLY way the manipulator could have escaped this was by bankrupting the company and relieving the obligation to repurchase those shares…**
 
-Guess what happened to Charter? They filed for ![bankruptcy](https://abcnews.go.com/Business/story?id=7189668&page=1) in 2009…
+Guess what happened to Charter? They filed for [bankruptcy](https://abcnews.go.com/Business/story?id=7189668&page=1) in 2009…
 
 However, unlike John’s example where naked short sellers were driving down the price without opposition, GameStop had extremely high demand from retail investors to counter this activity. As I have discussed with Dr. T and Carl Hagberg, the run-up in volume during January and February was largely conducted by naked short sellers in an attempt to suppress the share price. As I have shown in the example with Goldman Sachs, firms will short sell during a buy-in for the same exact reason. To stabilize the price, you must stabilize supply and demand. 
 

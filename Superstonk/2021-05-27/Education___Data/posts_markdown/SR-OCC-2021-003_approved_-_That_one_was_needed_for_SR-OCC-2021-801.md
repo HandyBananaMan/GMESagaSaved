@@ -1,5 +1,6 @@
-# Author: C3ll3
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/](https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/)
+#Title: SR-OCC-2021-003 approved - That one was needed for SR-OCC-2021-801
+#Author: C3ll3
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/](https://www.reddit.com/r/Superstonk/comments/nmjbov/srocc2021003_approved_that_one_was_needed_for/)
 
 
 First of all the link to the rulechange: [https://www.sec.gov/rules/sro/occ/2021/34-92038.pdf](https://www.sec.gov/rules/sro/occ/2021/34-92038.pdf)
@@ -24,6 +25,6 @@ But as in the last paragraph of SR-OCC-2021-801:
 
 https://preview.redd.it/qbaobco8nq171.png?width=928&format=png&auto=webp&s=4d86676ae04824e80b39cc89c03af2eed1243d96
 
-Here is the link to rule OCC-801 : ![https://www.sec.gov/rules/sro/occ/2021/34-91491.pdf](https://www.sec.gov/rules/sro/occ/2021/34-91491.pdf)
+Here is the link to rule OCC-801 : [https://www.sec.gov/rules/sro/occ/2021/34-91491.pdf](https://www.sec.gov/rules/sro/occ/2021/34-91491.pdf)
 
 Buy, hodl, vote (my 3 brokers won't let me)

@@ -1,5 +1,6 @@
-# Author: lol_alex
-# Post URL: [https://www.reddit.com/r/GME/comments/mc1swa/your_favorite_stock_is_on_sale_hands_up_if_youre/](https://www.reddit.com/r/GME/comments/mc1swa/your_favorite_stock_is_on_sale_hands_up_if_youre/)
+#Title: Your favorite stock is on sale! Hands up if you‘re buying more today!
+#Author: lol_alex
+#Post URL: [https://www.reddit.com/r/GME/comments/mc1swa/your_favorite_stock_is_on_sale_hands_up_if_youre/](https://www.reddit.com/r/GME/comments/mc1swa/your_favorite_stock_is_on_sale_hands_up_if_youre/)
 
 
 We all saw the hedgies try to stage a „Q4 earnings bad, time to sell“ after hours coup.

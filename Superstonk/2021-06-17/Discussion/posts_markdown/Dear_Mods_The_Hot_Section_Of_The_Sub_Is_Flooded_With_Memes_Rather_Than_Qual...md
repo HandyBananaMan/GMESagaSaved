@@ -1,5 +1,6 @@
-# Author: inaloop001
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o256qf/dear_mods_the_hot_section_of_the_sub_is_flooded/](https://www.reddit.com/r/Superstonk/comments/o256qf/dear_mods_the_hot_section_of_the_sub_is_flooded/)
+#Title: Dear Mods, The Hot Section Of The Sub Is Flooded With Memes Rather Than Quality DD; New Apes and Visitors Are Submerged In Shitposts Upon Arrival To The Sub, That Needs To Change
+#Author: inaloop001
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o256qf/dear_mods_the_hot_section_of_the_sub_is_flooded/](https://www.reddit.com/r/Superstonk/comments/o256qf/dear_mods_the_hot_section_of_the_sub_is_flooded/)
 
 
 Dear Mods, 

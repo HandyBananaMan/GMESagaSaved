@@ -1,5 +1,6 @@
-# Author: LongTimeGamer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/](https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/)
+#Title: Mapping .00 Appearances to the FTD Cycle and Why Apes Need to be Cautious about Data
+#Author: LongTimeGamer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/](https://www.reddit.com/r/Superstonk/comments/o632ht/mapping_00_appearances_to_the_ftd_cycle_and_why/)
 
 
 Hell.00 again! If you haven't heard of ".00 Guy", know I’m obsessed with the appearance of .00 Open, Close, High, and Low price points in GME.
@@ -37,7 +38,7 @@ I pulled FTD data from [https://gme.crazyawesomecompany.com/failures-to-deliver.
 
 I then marked critical FTD dates with the T+Cycles. I marked if the stock opened at a .00 price point. I tracked a 60-trading-day average for rate of .00 appearances. Finally, I marked the % change from that day’s open to the prior day.
 
-![You can view my data in Google Sheets here](https://docs.google.com/spreadsheets/d/1FHN6YvK8S3Iu5pCOaj5d0hVVo4wkLQCfffiVek6EUp0/edit?usp=sharing).
+[You can view my data in Google Sheets here](https://docs.google.com/spreadsheets/d/1FHN6YvK8S3Iu5pCOaj5d0hVVo4wkLQCfffiVek6EUp0/edit?usp=sharing).
 
 &#x200B;
 

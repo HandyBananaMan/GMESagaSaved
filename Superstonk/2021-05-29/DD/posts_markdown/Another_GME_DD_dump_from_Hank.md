@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/](https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/)
+#Title: Another GME DD dump from Hank
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/](https://www.reddit.com/r/Superstonk/comments/nnsfs6/another_gme_dd_dump_from_hank/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***
@@ -16,7 +17,7 @@ What happens after you eat five bags of flaming hot cheetos? **You take a dump.*
 
 And that brings me to my next point. DUMP. Yes, apes, this will be yet another DD dump. No main purpose or direction, just a few DD theories from your favorite guncle Hank. As always this is not financial advice and I am not a financial advisor.
 
-[Hankey the Christmas Poo for those of you who don't know](https://preview.redd.it/j62o5z1nd3271.png?width=1280&format=png&auto=webp&s=3fadd49ed2199aecd9c01ac7b217ef553c17e13e)
+![Hankey the Christmas Poo for those of you who don't know](https://preview.redd.it/j62o5z1nd3271.png?width=1280&format=png&auto=webp&s=3fadd49ed2199aecd9c01ac7b217ef553c17e13e)
 
 &#x200B;
 
@@ -40,11 +41,11 @@ Apes, this has been one of the most baffling things for me to research and it ha
 
 Here is an example of one:
 
-[Just to show you how pervasive this is, I went to a random day and found this one on my first try ](https://preview.redd.it/lf7an2osz2271.png?width=860&format=png&auto=webp&s=b7c852928a9c6543c79398ab6ca62e70ed56586c)
+![Just to show you how pervasive this is, I went to a random day and found this one on my first try ](https://preview.redd.it/lf7an2osz2271.png?width=860&format=png&auto=webp&s=b7c852928a9c6543c79398ab6ca62e70ed56586c)
 
 Here is an example of one that **IS NOT** one of these spikes:
 
-[Volume is far too low compared to other times in the day.](https://preview.redd.it/83uq0evwz2271.png?width=968&format=png&auto=webp&s=55d830e91024a94a4e9d80f3839712e16f01152d)
+![Volume is far too low compared to other times in the day.](https://preview.redd.it/83uq0evwz2271.png?width=968&format=png&auto=webp&s=55d830e91024a94a4e9d80f3839712e16f01152d)
 
 IMO it would be far too dificult to document literally every single one of these and run some data comparisons on it. However, after looking at many of these, here are my observations:
 
@@ -60,7 +61,7 @@ IMO it would be far too dificult to document literally every single one of these
 
 What do I take away from all of this? I said in my last post that I think they are covering during these times. That would make sense because 11-2:30 is usually the lowest volume of the trading day, so they want to cover when they can be positive that a HFT wont swoop in and screw them over on the price. They also don't want their trades to give the stock momentum during high volume times because that could cause a price spike.
 
-If you all rememeber that big beautiful FTD squeeze DD doc (I think it's from this website ![https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf](https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf) which is now defunct) they say that the GME shorting likely happened in 2017 or 2018 when they took on some debt and it was likely that they would default in 2020. Why did these midday spikes start increasing more in 2020? I'm guessing that the shorts piled on more naked shorts between March-May (when GME hit its all time lows) because they thought that it was going to go bankrupt because of covid. Once it got above $10, their positions got more and more expensive, so these midday FTD covers happened more and more. Now these midday covers seem like a mainstay, which IMO indicates that they are indeed fucked in their short positions.
+If you all rememeber that big beautiful FTD squeeze DD doc (I think it's from this website [https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf](https://iamnotafinancialadvisor.com/DD/GME/og/GMEv14.pdf) which is now defunct) they say that the GME shorting likely happened in 2017 or 2018 when they took on some debt and it was likely that they would default in 2020. Why did these midday spikes start increasing more in 2020? I'm guessing that the shorts piled on more naked shorts between March-May (when GME hit its all time lows) because they thought that it was going to go bankrupt because of covid. Once it got above $10, their positions got more and more expensive, so these midday FTD covers happened more and more. Now these midday covers seem like a mainstay, which IMO indicates that they are indeed fucked in their short positions.
 
 Sadly, there is far too much data for me to codify and find significance; however, I have done enough observations that I'm pretty confident my above findings are correct. So IMO, it appears that this is what we are looking at in terms of the FTD cycle:
 

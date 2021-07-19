@@ -1,14 +1,15 @@
-# Author: ShortaSqueezzzGoBRRR
-# Post URL: [https://www.reddit.com/r/GME/comments/mnpyep/deepfuckingvalue_post_decrypted/](https://www.reddit.com/r/GME/comments/mnpyep/deepfuckingvalue_post_decrypted/)
+#Title: DeepFuckingValue Post Decrypted
+#Author: ShortaSqueezzzGoBRRR
+#Post URL: [https://www.reddit.com/r/GME/comments/mnpyep/deepfuckingvalue_post_decrypted/](https://www.reddit.com/r/GME/comments/mnpyep/deepfuckingvalue_post_decrypted/)
 
 
 [https://twitter.com/TheRoaringKitty/status/1380611475757236226/photo/1](https://twitter.com/TheRoaringKitty/status/1380611475757236226/photo/1)
 
-[This is the picture](https://preview.redd.it/7jd7uhusi7s61.png?width=1239&format=png&auto=webp&s=dce0d071d4bed7c84368d2fede5b9e5afc0f0ce0)
+![This is the picture](https://preview.redd.it/7jd7uhusi7s61.png?width=1239&format=png&auto=webp&s=dce0d071d4bed7c84368d2fede5b9e5afc0f0ce0)
 
 &#x200B;
 
-[First](https://preview.redd.it/er47my6vi7s61.png?width=187&format=png&auto=webp&s=a6dcee4635b88151b4f6c30b8017b0b058568f30)
+![First](https://preview.redd.it/er47my6vi7s61.png?width=187&format=png&auto=webp&s=a6dcee4635b88151b4f6c30b8017b0b058568f30)
 
 2+1 -> 21
 
@@ -140,15 +141,11 @@ Open? unsure!
 
 &#x200B;
 
-[You can clearly see a C maybe a LC? No clue what it could mean!](https://preview.redd.it/rdljuc63m7s61.png?width=953&format=png&auto=webp&s=729f0faa2cf3714c1bc840b7e263fa3647d85480)
+![You can clearly see a C maybe a LC? No clue what it could mean!](https://preview.redd.it/rdljuc63m7s61.png?width=953&format=png&auto=webp&s=729f0faa2cf3714c1bc840b7e263fa3647d85480)
 
 &#x200B;
 
-[Added by u\/FoxieMail could be RC for Ryan Cohen ](https://preview.redd.it/uwotbmqro7s61.png?width=425&format=png&auto=webp&s=fdcc94fa87180dc80c25b78f9398bd326142aaec)
-
-&#x200B;
-
-&#x200B;
+![Added by u\/FoxieMail could be RC for Ryan Cohen ](https://preview.redd.it/uwotbmqro7s61.png?width=425&format=png&auto=webp&s=fdcc94fa87180dc80c25b78f9398bd326142aaec)
 
 &#x200B;
 
@@ -158,7 +155,11 @@ Open? unsure!
 
 &#x200B;
 
-[Chiwawa? Kitten? I DONT KNOW !](https://preview.redd.it/39tsx8bem7s61.png?width=324&format=png&auto=webp&s=5a93b038ff0aaa01e7854d97403977541eb7236e)
+&#x200B;
+
+&#x200B;
+
+![Chiwawa? Kitten? I DONT KNOW !](https://preview.redd.it/39tsx8bem7s61.png?width=324&format=png&auto=webp&s=5a93b038ff0aaa01e7854d97403977541eb7236e)
 
 &#x200B;
 
@@ -172,7 +173,7 @@ Open? unsure!
 
 https://preview.redd.it/twg78injm7s61.png?width=794&format=png&auto=webp&s=5f74a64d88560d7563d745ec954a94aef5522e29
 
-[Maybe a reference to the \\"All Seeing Rewards\\" spread across reddit](https://preview.redd.it/pz0x3e4im7s61.png?width=220&format=png&auto=webp&s=fc726963fb7c2bac897bca0e1daa5efc94588c85)
+![Maybe a reference to the \\"All Seeing Rewards\\" spread across reddit](https://preview.redd.it/pz0x3e4im7s61.png?width=220&format=png&auto=webp&s=fc726963fb7c2bac897bca0e1daa5efc94588c85)
 
 This is clearly copy and pasted
 
@@ -188,7 +189,7 @@ This is clearly copy and pasted
 
 &#x200B;
 
-[Maybe CEO?](https://preview.redd.it/ygzfzbcvm7s61.png?width=428&format=png&auto=webp&s=69190c66f7d2fc2ca3e8c136b4b2b1688f968182)
+![Maybe CEO?](https://preview.redd.it/ygzfzbcvm7s61.png?width=428&format=png&auto=webp&s=69190c66f7d2fc2ca3e8c136b4b2b1688f968182)
 
 &#x200B;
 

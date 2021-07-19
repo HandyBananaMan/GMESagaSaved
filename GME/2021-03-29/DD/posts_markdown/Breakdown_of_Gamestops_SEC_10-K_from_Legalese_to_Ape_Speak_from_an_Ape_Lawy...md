@@ -1,8 +1,9 @@
-# Author: luridess
-# Post URL: [https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/](https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/)
+#Title: Breakdown of Gamestop's SEC 10-K from Legalese to Ape Speak from an Ape Lawyer - PART 3: I'm even MORE confident that GME confirmed, in legalese, that the POTENTIAL MOASS hasn't happened yet despite the media/shill FUD (NOT FINANCIAL/LEGAL ADVICE)
+#Author: luridess
+#Post URL: [https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/](https://www.reddit.com/r/GME/comments/mfrvgq/breakdown_of_gamestops_sec_10k_from_legalese_to/)
 
 
-[luridess on her way to 🦍,🦍&🍌 LLP](https://iili.io/qwTNOx.jpg)
+![luridess on her way to 🦍,🦍&🍌 LLP](https://iili.io/qwTNOx.jpg)
 
 ***Edits:***
 
@@ -51,7 +52,7 @@
 
 * **GME confirmed that as of January 31, 2021,** **~~the stock was shorted over 100%~~** ***a large proportion of their stock has been AND MAY CONTINUE TO BE traded by short sellers which may increase the likelihood that*** **🍌🚀🌕**
 
-[Source: GME 2021 SEC 10-K](https://preview.redd.it/rwk67end8zp61.jpg?width=938&format=pjpg&auto=webp&s=b2fe737bd653fdbbba0e57f11dcfe15f23f19603)
+![Source: GME 2021 SEC 10-K](https://preview.redd.it/rwk67end8zp61.jpg?width=938&format=pjpg&auto=webp&s=b2fe737bd653fdbbba0e57f11dcfe15f23f19603)
 
 * thank you u/habitualpotatoes and u/Suspicious-Peach-440 for pointing out that Gamestop didn't confirm their SI was over 100% in numbers.
 * I jumped ahead of myself because what I initially stated above is actually my CONCLUSION based on the facts (legal and god-tier DD) available.
@@ -63,7 +64,7 @@
    * u/Suspicious-Peach-440 points out that [the filing refers to a short squeeze](https://www.reddit.com/r/GME/comments/mdzuuf/breakdown_of_gamestops_sec_10k_from_legalese_to/gshlasa?utm_source=share&utm_medium=web2x&context=3) at the end of fourth quarter fiscal 2020
    * Page 22 of the filing refers to a "short squeeze" that happened at the end of Fourth Quarter Fiscal 2020
 
-[Source: GME 2021 SEC 10-K page 22](https://preview.redd.it/gmxlav0dczp61.jpg?width=914&format=pjpg&auto=webp&s=428064287991224f62c5b8087ff5e6421155cdd2)
+![Source: GME 2021 SEC 10-K page 22](https://preview.redd.it/gmxlav0dczp61.jpg?width=914&format=pjpg&auto=webp&s=428064287991224f62c5b8087ff5e6421155cdd2)
 
 * You might be thinking - SO WHAT? We all know that the price spiked up in January. That's probably the short squeeze they're referring to that happened in the past.
 * what... oh wait? Does this mean that the MOASS all the wrinkly-brained apes have been talking about and referring to in their DD already happened and it's over, because they referred to the January squeeze?
@@ -75,7 +76,7 @@
 
 * **GME's 10-K ALSO referenced that ANOTHER SHORT SQUEEZE THAT MAY happen based on events up to and including March 17, 2021**
 
-[Source: GME 2021 SEC 10-K](https://preview.redd.it/oitm125z8zp61.jpg?width=930&format=pjpg&auto=webp&s=ad6de67cb68a0768202c7041ccd9c5517f250664)
+![Source: GME 2021 SEC 10-K](https://preview.redd.it/oitm125z8zp61.jpg?width=930&format=pjpg&auto=webp&s=ad6de67cb68a0768202c7041ccd9c5517f250664)
 
 * Not only that, but they also confirm that there have been no material changes up to and including March 17, 2021, to account for such price volatility
 * **🦍🦍 speak: we don't know what's going on but guys it's not us.**
@@ -138,13 +139,13 @@ UPDATE: u/JabbaLeSlut [asked an excellent question](https://www.reddit.com/r/GME
 * Another example of why words matter, especially in legalese.
 * Anyway, a lot of people are interpreting this paragraph of GME's SEC filing:
 
-[Source: GME 2021 SEC 10-k](https://preview.redd.it/s10kti2dvzp61.jpg?width=879&format=pjpg&auto=webp&s=da1b36860d6648d2b4dbf98f9c4dad550c740202)
+![Source: GME 2021 SEC 10-k](https://preview.redd.it/s10kti2dvzp61.jpg?width=879&format=pjpg&auto=webp&s=da1b36860d6648d2b4dbf98f9c4dad550c740202)
 
 * to automatically mean that GME is stating it's been shorted over 100%.
 
 BUT --> notice something in that huge block of text?
 
-[Source: GME 2021 SEC 10-K](https://preview.redd.it/p5c3jkqhvzp61.jpg?width=872&format=pjpg&auto=webp&s=ede552d3652ab099855f41484ac336d270f78f75)
+![Source: GME 2021 SEC 10-K](https://preview.redd.it/p5c3jkqhvzp61.jpg?width=872&format=pjpg&auto=webp&s=ede552d3652ab099855f41484ac336d270f78f75)
 
 **"To the Extent"**
 
@@ -203,7 +204,7 @@ Gamestop is saying: we're not telling you that our stock is currently shorted ov
 
 * ***This is not financial advice, this is not legal advice.***
 * ***I am NOT a securities lawyer.*** *I do not prepare and file SEC forms.*
-* ***I am a customs/duties/tariffs litigator***\*, dealing with international\* [*WTO hearings*](https://www.wto.org/english/tratop_e/dispu_e/dispu_status_e.htm) *and hearings similar to those at the* ![*USITC*](https://www.usitc.gov/)*.*
+* ***I am a customs/duties/tariffs litigator***\*, dealing with international\* [*WTO hearings*](https://www.wto.org/english/tratop_e/dispu_e/dispu_status_e.htm) *and hearings similar to those at the* [*USITC*](https://www.usitc.gov/)*.*
 * *SEC filings are a very important part of my practice because auditing and cross-examining a company's financials, including their SEC filings, is a key part in determining whether or not there has been injury caused by dumped/subsidized goods.*
 * *My job is to read/review SEC forms, litigate them, find the loopholes, find the errors, find the language/terminology that can either support or not support a potential claim, and that includes cross-examining those who are responsible for them (CEO, CFO, COO, etc, depending on the case and who is available etc).*
 * *This is also a learning exercise for me. The reason that I started looking this stuff up was because I was personally fascinated with what was going on, and I wanted to learn more. I decided to share what I've found out, and my personal thoughts, with everyone. I am on a learning journey and just taking you along for the ride. If I find something later in my research that is different than what I've said here, I will of course update this and provide explanations.*

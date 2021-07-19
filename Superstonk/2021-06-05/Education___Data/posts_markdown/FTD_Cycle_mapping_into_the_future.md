@@ -1,5 +1,6 @@
-# Author: bobsmith808
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/](https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/)
+#Title: FTD Cycle mapping into the future.
+#Author: bobsmith808
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/](https://www.reddit.com/r/Superstonk/comments/nsyw3k/ftd_cycle_mapping_into_the_future/)
 
 
 Hi everyone, bob here. I know we have been watching the FTD cycle a lot lately and it's looking like a solid predictive tool, so I thought I'd map it out for the next 5ish cycles to see if we can make some predictions since I have only seen this done retroactively so far.  If it already exists, please let me know and i'll remove the duplicate content.
@@ -36,9 +37,9 @@ When we plug these dates into a matrix, it looks like this:
 
 &#x200B;
 
-[Bolded dates = wambo combo possibility](https://preview.redd.it/3c9bcz7iwb771.png?width=645&format=png&auto=webp&s=544ab41cd55e68d6d53e6060e9d94b0e3c238953)
+![Bolded dates = wambo combo possibility](https://preview.redd.it/3c9bcz7iwb771.png?width=645&format=png&auto=webp&s=544ab41cd55e68d6d53e6060e9d94b0e3c238953)
 
-When things line up closer, we seem to get bigger jumps, historically speaking in the price, but there's been more than enough DD on this, and I'm a forward thinking kind of ape at the moment so we'll do dates but no prices. In the words of our forefather, ![u/deepfuckingvalue](https://www.reddit.com/user/deepfuckingvalue):
+When things line up closer, we seem to get bigger jumps, historically speaking in the price, but there's been more than enough DD on this, and I'm a forward thinking kind of ape at the moment so we'll do dates but no prices. In the words of our forefather, [u/deepfuckingvalue](https://www.reddit.com/user/deepfuckingvalue):
 
 https://preview.redd.it/otswbcw8d2471.png?width=356&format=png&auto=webp&s=64e013126afe0a011c5f59ec8f134458736b7f8c
 

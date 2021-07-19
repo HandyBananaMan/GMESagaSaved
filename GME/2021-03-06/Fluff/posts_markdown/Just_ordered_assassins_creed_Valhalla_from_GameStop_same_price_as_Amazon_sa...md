@@ -1,5 +1,6 @@
-# Author: Maxpowerjunior
-# Post URL: [https://www.reddit.com/r/GME/comments/lz8tdr/just_ordered_assassins_creed_valhalla_from/](https://www.reddit.com/r/GME/comments/lz8tdr/just_ordered_assassins_creed_valhalla_from/)
+#Title: Just ordered assassins creed Valhalla from GameStop same price as Amazon same day delivery. Cohen can really turn this store around. GME 🚀🚀🚀🚀
+#Author: Maxpowerjunior
+#Post URL: [https://www.reddit.com/r/GME/comments/lz8tdr/just_ordered_assassins_creed_valhalla_from/](https://www.reddit.com/r/GME/comments/lz8tdr/just_ordered_assassins_creed_valhalla_from/)
 
 
 *just delivered <2 hours*

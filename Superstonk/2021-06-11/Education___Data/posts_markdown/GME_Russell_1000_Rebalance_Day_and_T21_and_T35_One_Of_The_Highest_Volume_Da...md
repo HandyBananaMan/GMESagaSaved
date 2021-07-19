@@ -1,5 +1,6 @@
-# Author: vierzehnter
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/](https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/)
+#Title: GME Russell 1000 Rebalance Day and T+21 and T+35: One Of The Highest Volume Days Of The Year. Every time any of the indices add or delete a stock, the funds must also buy or sell the stock.
+#Author: vierzehnter
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/](https://www.reddit.com/r/Superstonk/comments/nxjvpg/gme_russell_1000_rebalance_day_and_t21_and_t35/)
 
 
 *Edit 1: Coincidence or not, CNBC wants us to sell our shares in 2 weeks, a few days before rebalancing day:* [*If you’re thinking of riding the next meme stock mania, be sure to sell in about 2 weeks*](https://www.cnbc.com/2021/06/09/if-youre-thinking-of-riding-the-next-meme-stock-mania-be-sure-to-sell-in-about-2-weeks.html)
@@ -52,7 +53,7 @@ Each year in May and June, the Russell Indexes release an updated list [\[7\]](h
 
 &#x200B;
 
-[2021 Reconstitution calendar for the Russell US Indexes \[7\]](https://preview.redd.it/dwvv41zzhn471.jpg?width=943&format=pjpg&auto=webp&s=59d53dc221aa6deb5808f69f671b531c99d84707)
+![2021 Reconstitution calendar for the Russell US Indexes \[7\]](https://preview.redd.it/dwvv41zzhn471.jpg?width=943&format=pjpg&auto=webp&s=59d53dc221aa6deb5808f69f671b531c99d84707)
 
 *Today, June 11th, the mentioned preliminary lists was updated.*
 
@@ -66,11 +67,11 @@ When Zoom eligibility was revisited in June 2020, it was a changed world in many
 
 https://preview.redd.it/ir0jmjofzs471.png?width=619&format=png&auto=webp&s=bfaa044b083da8503cd0594292397c465617ede2
 
-[ZM prices before and after Reconstruction Day 07\/29\/20](https://preview.redd.it/xtt848ej0t471.jpg?width=1920&format=pjpg&auto=webp&s=0e44c91c7546310c2b86f6e4c418f596607b1dff)
+![ZM prices before and after Reconstruction Day 07\/29\/20](https://preview.redd.it/xtt848ej0t471.jpg?width=1920&format=pjpg&auto=webp&s=0e44c91c7546310c2b86f6e4c418f596607b1dff)
 
-[u\/onlyhereforthelmaos research on companies that moved from R2k to R1k \[10,11\]](https://preview.redd.it/706rlrcykp471.jpg?width=855&format=pjpg&auto=webp&s=05b120a9d84af12b1cadc38c68802ad47b23c104)
+![u\/onlyhereforthelmaos research on companies that moved from R2k to R1k \[10,11\]](https://preview.redd.it/706rlrcykp471.jpg?width=855&format=pjpg&auto=webp&s=05b120a9d84af12b1cadc38c68802ad47b23c104)
 
-[TSLA price when it was added to S&P 500 12\/21\/20](https://preview.redd.it/i5kkcl2v8o471.jpg?width=1920&format=pjpg&auto=webp&s=b2de67bab2cba3ecd798bce50c27e2832b42a1ec)
+![TSLA price when it was added to S&P 500 12\/21\/20](https://preview.redd.it/i5kkcl2v8o471.jpg?width=1920&format=pjpg&auto=webp&s=b2de67bab2cba3ecd798bce50c27e2832b42a1ec)
 
 .
 
@@ -78,7 +79,7 @@ https://preview.redd.it/ir0jmjofzs471.png?width=619&format=png&auto=webp&s=bfaa0
 
 **For investors, the run-up to the rebalancing presents an opportunity to get ahead of some of the fund flows into and out of stocks that are joining or leaving the indexes.**
 
-[Buying and selling pressure of companies added\/ leaving the Index](https://preview.redd.it/lvyz7qob2t471.jpg?width=633&format=pjpg&auto=webp&s=a873a825572c753196ba14447a18b9c5fe03deee)
+![Buying and selling pressure of companies added\/ leaving the Index](https://preview.redd.it/lvyz7qob2t471.jpg?width=633&format=pjpg&auto=webp&s=a873a825572c753196ba14447a18b9c5fe03deee)
 
 Private-equity firm KKR (ticker: KKR), for example, has cited Russell index inclusion in 2020 as a strategic priority. **If added to the Russell 1000, KKR shares could see $644 million worth of buying pressure from exchange-traded funds and passive investors, equal to almost seven trading days of average volume for the stock**, estimates Jefferies equity strategist Steven DeSanctis.
 
@@ -90,7 +91,7 @@ Traders and hedge funds approach the rebalancing several months before with mult
 
 *Nobody fully knows what will happen with GME. But as* u/dlauer *states* [here](https://www.reddit.com/r/Superstonk/comments/nvnslz/have_we_downplayed_the_importance_of_gme_entering/h15susc/?context=3)*, "the announcement is usually bullish because it adds buying pressure."*
 
-[u\/dlauer on Russell Rebalance Day](https://preview.redd.it/l7hu03ruin471.jpg?width=712&format=pjpg&auto=webp&s=3f3957884f89ee1679388ad9bfbb05d82792e08a)
+![u\/dlauer on Russell Rebalance Day](https://preview.redd.it/l7hu03ruin471.jpg?width=712&format=pjpg&auto=webp&s=3f3957884f89ee1679388ad9bfbb05d82792e08a)
 
 The annual reconstitution is one of the most significant drivers of short-term shifts in supply and demand for US equities, often leading to sizable price movements and volatility in individual company names or industry sectors. **The final day of the reconstitution is typically one of the highest trading-volume days of the year in US equity markets.**
 
@@ -192,7 +193,7 @@ Notice the word "could" each time. This is a series of possible events that coul
 
 .
 
-*and... just putting this here:* ![*https://www.gmefloor.com/*](https://www.gmefloor.com/)
+*and... just putting this here:* [*https://www.gmefloor.com/*](https://www.gmefloor.com/)
 
 .
 

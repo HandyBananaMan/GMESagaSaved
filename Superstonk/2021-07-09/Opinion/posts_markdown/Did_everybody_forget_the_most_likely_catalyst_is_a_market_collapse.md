@@ -1,5 +1,6 @@
-# Author: Shagspeare
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohazbb/did_everybody_forget_the_most_likely_catalyst_is/](https://www.reddit.com/r/Superstonk/comments/ohazbb/did_everybody_forget_the_most_likely_catalyst_is/)
+#Title: Did everybody forget the most likely catalyst is a market collapse?
+#Author: Shagspeare
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohazbb/did_everybody_forget_the_most_likely_catalyst_is/](https://www.reddit.com/r/Superstonk/comments/ohazbb/did_everybody_forget_the_most_likely_catalyst_is/)
 
 
 Yes, NFTs and crypto shit is cool, but lets not forget the entire financial system is held together with string and shitty glue.

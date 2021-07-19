@@ -1,5 +1,6 @@
-# Author: hunting_snipes
-# Post URL: [https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/](https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/)
+#Title: I think BlackRock added something to the Russell prospectuses relating to a MOASS payout?
+#Author: hunting_snipes
+#Post URL: [https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/](https://www.reddit.com/r/GME/comments/oam5dm/i_think_blackrock_added_something_to_the_russell/)
 
 
 EDIT: I'm working on some clarifying DD right now -- I understand why they put in these redemption clauses better now. I don't think I explained well and there's been some misunderstandings. I don't think they're saying IWM is shorted, **I think this was BlackRock's way of cockblocking SHFs that were using Russell 2000 ETFs to fuck with GME** \[and possibly other shorted stocks\].
@@ -52,6 +53,6 @@ Curious if any wrinkles have more insight on this or want to ping someone who mi
 
 Edit: Gee thanks strangers! My first Reddit awards and it's two All-Seeing Eyes!
 
-Edit again: If those stocks were considered "threshold securities" \![a number of consecutive days of FTDs in a row\] they would be forced to cover on.... **July 14**. Unfortunately I can't do ftp files but if someone wants to check the [Historical Threshold Lists](http://www.nasdaqtrader.com/trader.aspx?id=regshothreshold) for Nasdaq especially week of Russell rebalancing I think that's where we'd find if it was in fact a threshold security.
+Edit again: If those stocks were considered "threshold securities" \[a number of consecutive days of FTDs in a row\] they would be forced to cover on.... **July 14**. Unfortunately I can't do ftp files but if someone wants to check the [Historical Threshold Lists](http://www.nasdaqtrader.com/trader.aspx?id=regshothreshold) for Nasdaq especially week of Russell rebalancing I think that's where we'd find if it was in fact a threshold security.
 
 The **good news...** I don't think they could hide FTDs of the ETFs themselves the way they've been hiding GME FTDs but correct me if I'm wrong. If this is what I think it is, it's a fucking infinity chess move. BR + RC: "Oh you want to use our ETFs to keep shorting GME? Psych, we're gonna force you to cover FTDs on our ETFs and thus buy GME. Now S my D"

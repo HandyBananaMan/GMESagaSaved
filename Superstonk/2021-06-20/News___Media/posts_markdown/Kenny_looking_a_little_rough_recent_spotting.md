@@ -1,5 +1,6 @@
-# Author: bostonvikinguc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o43t9r/kenny_looking_a_little_rough_recent_spotting/](https://www.reddit.com/r/Superstonk/comments/o43t9r/kenny_looking_a_little_rough_recent_spotting/)
+#Title: Kenny looking a little rough recent spotting
+#Author: bostonvikinguc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o43t9r/kenny_looking_a_little_rough_recent_spotting/](https://www.reddit.com/r/Superstonk/comments/o43t9r/kenny_looking_a_little_rough_recent_spotting/)
 
 
 https://youtu.be/SVf_phQO7Z8 see 7:05 mark

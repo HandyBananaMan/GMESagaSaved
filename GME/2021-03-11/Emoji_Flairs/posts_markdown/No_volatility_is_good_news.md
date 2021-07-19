@@ -1,5 +1,6 @@
-# Author: matthegc
-# Post URL: [https://www.reddit.com/r/GME/comments/m2ytok/no_volatility_is_good_news/](https://www.reddit.com/r/GME/comments/m2ytok/no_volatility_is_good_news/)
+#Title: No volatility is good news...
+#Author: matthegc
+#Post URL: [https://www.reddit.com/r/GME/comments/m2ytok/no_volatility_is_good_news/](https://www.reddit.com/r/GME/comments/m2ytok/no_volatility_is_good_news/)
 
 
 Given all the theatrics of the past couple of weeks, some might be a bit addicted to the adrenaline and feel like no news is bad news, it's not.  The plan of shorting GME yesterday, coordinated with the media onslaught of only bad news articles, was meant to cause a panic.  It did not.

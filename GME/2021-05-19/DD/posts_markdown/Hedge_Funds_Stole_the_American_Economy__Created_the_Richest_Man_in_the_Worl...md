@@ -1,5 +1,6 @@
-# Author: AvidTreesFan
-# Post URL: [https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/](https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/)
+#Title: Hedge Funds Stole the American Economy & Created the Richest Man in the World
+#Author: AvidTreesFan
+#Post URL: [https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/](https://www.reddit.com/r/GME/comments/ngafr3/hedge_funds_stole_the_american_economy_created/)
 
 
 Oh, hey, let me just finish up this game of Smash Bros, grab a coffee, smoke a bowl real quick, watch a few episodes of Twilight Zone, then let's deep dive into this DD. It's a certified smooth-brained wall of text I promise.
@@ -8,7 +9,7 @@ I hope this write-up finds you well. Don't mind me. Just a playdoh-munching ape 
 
 So... let us journey to a simpler time; before the AMZN.
 
-[Former V.P of Hedge Fund D.E Shaw: Jeff Bezos](https://preview.redd.it/k0zfv9ins3071.jpg?width=1200&format=pjpg&auto=webp&s=111dac518a6ec1b30f08ca40319c573114e97d63)
+![Former V.P of Hedge Fund D.E Shaw: Jeff Bezos](https://preview.redd.it/k0zfv9ins3071.jpg?width=1200&format=pjpg&auto=webp&s=111dac518a6ec1b30f08ca40319c573114e97d63)
 
 To put it bluntly; ***HEDGE FUNDS STOLE THE AMERICAN RETAIL ECONOMY. ahem, I will explain...***
 
@@ -56,7 +57,7 @@ Bezos was known for his ability to fundraise and meet with venture capital and l
 
 &#x200B;
 
-[David E. Shaw Circa 2009](https://preview.redd.it/u316hew0t3071.jpg?width=250&format=pjpg&auto=webp&s=e5a709959d69aff46eb537c2595bf60a0b175def)
+![David E. Shaw Circa 2009](https://preview.redd.it/u316hew0t3071.jpg?width=250&format=pjpg&auto=webp&s=e5a709959d69aff46eb537c2595bf60a0b175def)
 
 **UNDERSTANDING D.E SHAW & THE ADVANTAGE OF KNOWING THE WINNER BEFORE THE RACE STARTS + THE CONFIDENTIAL ADVANTAGE:**
 
@@ -92,7 +93,7 @@ Oh, and **Citadel Securities (long time AMZN investor) is one of the other "top 
 
 &#x200B;
 
-[In 2015, the largest private equity fund managed $87B, 1 year later, the largest private equity fund managed $140B. Modern day the largest fund (Blackstone Capital) manages $211B.](https://preview.redd.it/xzs37ae5t3071.png?width=593&format=png&auto=webp&s=cfc2e476614ed1bb11a85b6fe76bdc4776765b05)
+![In 2015, the largest private equity fund managed $87B, 1 year later, the largest private equity fund managed $140B. Modern day the largest fund (Blackstone Capital) manages $211B.](https://preview.redd.it/xzs37ae5t3071.png?width=593&format=png&auto=webp&s=cfc2e476614ed1bb11a85b6fe76bdc4776765b05)
 
 Bridgewater was the largest hedge fund in the world in 2016 managing $140B AUM. The Blackstone Group, currently the largest private equity conglomerate by AUM; manages an absolutely absurd $211B through Blackstone Capital Partners. **This loops back to property acquisition of AMZN competitors as Blackstone owned at least one entity in every single acquisition of an AMZN competitor. Blackstone owned Bain Capital (Toys R' Us lender) in the Toys R Us acquisition, Bain Capital had input on whether or not Toys R' Us would declare bankruptcy:**
 
@@ -136,7 +137,7 @@ Oh yeah, **In 2013, D.E Shaw violating short selling regulations.**
 
 "On five occasions, from May 2010 through March 2012, D. E. Shaw bought offered shares from an underwriter or broker or dealer participating in a follow-on public offering after having sold short the same security during the restricted period. The violations resulted in profits of $447,794. "
 
-[MFW I realize the SEC has allowed hedge funds to avoid reporting positions through 13F reports by applying for confidentiality exemptions. Then, finding out these same hedge funds violate short selling regulations.](https://preview.redd.it/efrrr1yat3071.jpg?width=1200&format=pjpg&auto=webp&s=62359acf5fc0c64808792bbbc3178211799371da)
+![MFW I realize the SEC has allowed hedge funds to avoid reporting positions through 13F reports by applying for confidentiality exemptions. Then, finding out these same hedge funds violate short selling regulations.](https://preview.redd.it/efrrr1yat3071.jpg?width=1200&format=pjpg&auto=webp&s=62359acf5fc0c64808792bbbc3178211799371da)
 
 ***Citadel, Melvin, Point 72 & Susquehanna aren't the first hedge funds to fuck up catastrophically:***
 
@@ -148,7 +149,7 @@ When it comes to quantitative funds, Ponzi schemes and Insider Trading grifts ar
 
 This highlights the value of knowing the future on Wall Street. If you know AMZN competitors stock price will drop and AMZN stock will appreciate, you can structure shares and options portfolios with ridiculous leverage (just ask Bill Hwang) and insane gain potential while keeping it completely confidential.
 
-[Former Sears store signage circa 2012](https://preview.redd.it/l97ti4oet3071.jpg?width=450&format=pjpg&auto=webp&s=a85944b753c054bf22145f8caf2b7c7e42d719ba)
+![Former Sears store signage circa 2012](https://preview.redd.it/l97ti4oet3071.jpg?width=450&format=pjpg&auto=webp&s=a85944b753c054bf22145f8caf2b7c7e42d719ba)
 
 It would make sense, if private equity hedge funds intentionally exercised their relationships and capital to destroy Amazon competitors deliberately (through leveraged buyouts and naked shorting) so Amazon could capture their market share while The Blackstone Group and KKR consumed their real estate assets.
 
@@ -194,7 +195,7 @@ Because the "people only shop online" narrative is over-embellished and AMZN was
 
 **Examining the (resourceful) Amazon's Board of Directors:**
 
-[This graphic does not include U.S Army General Keith B. Alexander, who joined the BOD in September 2020](https://preview.redd.it/zjq6nc6ht3071.jpg?width=1200&format=pjpg&auto=webp&s=8a637b0cc56810ad86ba13fb4c019852dfb640f5)
+![This graphic does not include U.S Army General Keith B. Alexander, who joined the BOD in September 2020](https://preview.redd.it/zjq6nc6ht3071.jpg?width=1200&format=pjpg&auto=webp&s=8a637b0cc56810ad86ba13fb4c019852dfb640f5)
 
 As of September 2020 the Amazon Board of Director's includes:
 
@@ -220,7 +221,7 @@ Gates' Cascade Investments and Alberg's Madrona provided unique relationships an
 
 **PRIVATE EQUITY PURCHASES THE COMPETIOR, HEDGE FUNDS NAKED SHORT THE COMPETITOR, HEDGE FUNDS PUT PROCEEDS OF NAKED SHORT SALES INTO AMAZON STOCK.**
 
-[Henry Kravis of KKR: All around scumbag and pioneer of the private equity Leveraged Buyout; starting with RJR Nabisco in 1989. At the time the buyout was described in the book \\"Barbarians at the Gate\\" as a preeminent example of corporate and executive greed.](https://preview.redd.it/utb0pk8lt3071.jpg?width=474&format=pjpg&auto=webp&s=c9d6c327a47a8f6376dd346f29a10f715391c19b)
+![Henry Kravis of KKR: All around scumbag and pioneer of the private equity Leveraged Buyout; starting with RJR Nabisco in 1989. At the time the buyout was described in the book \\"Barbarians at the Gate\\" as a preeminent example of corporate and executive greed.](https://preview.redd.it/utb0pk8lt3071.jpg?width=474&format=pjpg&auto=webp&s=c9d6c327a47a8f6376dd346f29a10f715391c19b)
 
 **KKR purchased Toys R Us by way of leveraged buyout in 2005 (and abandoned that debt to schmuck fund; Solos Alternative Asset Management and eventually the taxpayer), you can read about this saga here:**
 
@@ -304,7 +305,7 @@ I believe Bezos and Gates understand that the current market environment is peri
 
 [https://www.reddit.com/r/DDintoGME/comments/mwc62t/blackhole\_of\_coverage\_biased\_narrative\_and\_the/](https://www.reddit.com/r/DDintoGME/comments/mwc62t/blackhole_of_coverage_biased_narrative_and_the/)
 
-Couple that DD with this article: ![https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html](https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html) Credit: u/Slow_learner04
+Couple that DD with this article: [https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html](https://www.cnbc.com/2018/11/07/billionaires-are-buying-media-companies-new-york-times-not-for-sale.html) Credit: u/Slow_learner04
 
 Bezos and Wall Street have the resources to disseminate narratives.
 

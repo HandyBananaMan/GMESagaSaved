@@ -1,5 +1,6 @@
-# Author: realDeegzScotland
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o974s1/quadruple_factor_hype_discussion_hegies_r_fuk/](https://www.reddit.com/r/Superstonk/comments/o974s1/quadruple_factor_hype_discussion_hegies_r_fuk/)
+#Title: Quadruple factor hype discussion. Hegies r fuk!!! 🚀🚀🚀Russell 1000 buy pressure incoming 🚀🚀🚀 T - 21 week 🚀🚀🚀 Rule 002 in effect to stop fckery (for the rest of time mwhahahahaha) 🚀🚀🚀 GME is HOT again for 10 million members of another sub #fomo🚀🚀🚀
+#Author: realDeegzScotland
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o974s1/quadruple_factor_hype_discussion_hegies_r_fuk/](https://www.reddit.com/r/Superstonk/comments/o974s1/quadruple_factor_hype_discussion_hegies_r_fuk/)
 
 
 What do you all think about the 4 factors? 

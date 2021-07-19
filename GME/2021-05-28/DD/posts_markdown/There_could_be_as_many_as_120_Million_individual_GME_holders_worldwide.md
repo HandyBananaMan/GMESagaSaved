@@ -1,5 +1,6 @@
-# Author: harambe_go_brrr
-# Post URL: [https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/](https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/)
+#Title: There could be as many as 120 Million individual GME holders worldwide!
+#Author: harambe_go_brrr
+#Post URL: [https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/](https://www.reddit.com/r/GME/comments/nmudte/there_could_be_as_many_as_120_million_individual/)
 
 
 **Edit: So it's been pointed out by a few in the comments that the 1.5% could be referring to the** **outstanding or overall float rather than the shareholders of GME. My reasoning that I don't think this is likely is that it does clearly say shareholders (although I could concede this is an error in wording)But my main issue with that argument is that 1.5% of the full 70mil float is only 1.05mil shares. eToro is the biggest broker in Europe and has 20 mil users.**
@@ -22,7 +23,7 @@ Okay, so first thing I should say is I'm almost completely smooth in brain and b
 
 So whilst I was lurking over at Superstonk this morning, peering in through the window with one hand on my banana I saw this post by  u/Silver-Reserve-3764  [https://www.reddit.com/r/Superstonk/comments/nmos5k/what\_the\_actual\_fuck\_did\_etoro\_just\_say/](https://www.reddit.com/r/Superstonk/comments/nmos5k/what_the_actual_fuck_did_etoro_just_say/)
 
-[etoro users account for around 1.5&#37; of all GME shareholders](https://preview.redd.it/b8bctq3ott171.png?width=1920&format=png&auto=webp&s=40e8e211a329de952020b864d116989b25b6546b)
+![etoro users account for around 1.5&#37; of all GME shareholders](https://preview.redd.it/b8bctq3ott171.png?width=1920&format=png&auto=webp&s=40e8e211a329de952020b864d116989b25b6546b)
 
 Now we know eToro claim to have 20 million users worldwide.[https://www.etoro.com/news-and-analysis/etoro-updates/20m-users/#:\~:text=We%20can%20now%20say%20it,20%20million%20registered%20users%20worldwide](https://www.etoro.com/news-and-analysis/etoro-updates/20m-users/#:~:text=We%20can%20now%20say%20it,20%20million%20registered%20users%20worldwide)
 
@@ -32,7 +33,7 @@ This post from  u/socrates6210  from 3 months ago [https://www.reddit.com/r/GME/
 
 This post from  u/Anthony-Bluebeard  from 2 months ago[https://www.reddit.com/r/GME/comments/m82afl/909\_of\_etoros\_20\_mil\_users\_holding\_gme/](https://www.reddit.com/r/GME/comments/m82afl/909_of_etoros_20_mil_users_holding_gme/)states that 9.09% of eToro investors hold GME
 
-and this post from  u/circusmonkey89  from 1 month ago![https://www.reddit.com/r/GME/comments/mw09f7/etoro\_user\_stats\_for\_gme\_good\_hodling\_apes/](https://www.reddit.com/r/GME/comments/mw09f7/etoro_user_stats_for_gme_good_hodling_apes/)states that 8.31% of eToro investors hold GME
+and this post from  u/circusmonkey89  from 1 month ago[https://www.reddit.com/r/GME/comments/mw09f7/etoro\_user\_stats\_for\_gme\_good\_hodling\_apes/](https://www.reddit.com/r/GME/comments/mw09f7/etoro_user_stats_for_gme_good_hodling_apes/)states that 8.31% of eToro investors hold GME
 
 **EDIT: I have deleted the old calculations and replaced them with the more accurate ones based on todays eToro figures for GME holders. That figure has been quoted several times in the comments as 6.47% so let's work from that.**
 

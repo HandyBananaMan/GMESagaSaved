@@ -1,5 +1,6 @@
-# Author: Link_Slater
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyosij/the_medias_turn_on_naked_shorts_isnt_about/](https://www.reddit.com/r/Superstonk/comments/nyosij/the_medias_turn_on_naked_shorts_isnt_about/)
+#Title: The Media’s turn on Naked Shorts isn’t about “Covering Their Asses” or ratings. It’s called “Getting Into Your Circle Of Trust.”
+#Author: Link_Slater
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyosij/the_medias_turn_on_naked_shorts_isnt_about/](https://www.reddit.com/r/Superstonk/comments/nyosij/the_medias_turn_on_naked_shorts_isnt_about/)
 
 
 One of the easier ways to gain a consumer’s trust is acknowledging one facet of story, especially a “hard truth” or admission of guilt, then springboarding off of that to control how the rest of the story is presented. I do it with customers. I do it with management. I do it with my crew. It’s the easiest thing in the world to execute and it works every time. 

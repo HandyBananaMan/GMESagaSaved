@@ -1,6 +1,11 @@
-# Author: stormshawty
-# Post URL: [https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/](https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/)
+#Title: $115 BILLION CORRELATION + FTD COVERAGE SPECULATION THREAD, ENDGAME.
+#Author: stormshawty
+#Post URL: [https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/](https://www.reddit.com/r/GME/comments/mfmlfd/115_billion_correlation_ftd_coverage_speculation/)
 
+
+![7/14-7/16](https://i.imgur.com/u63ZqPN.png)
+
+&#x200B;
 
 # 182
 
@@ -84,7 +89,7 @@ https://i.imgur.com/piVCLtL.png
 
 >**10:49 AM EST**
 >
-> [This is hilarious.](https://i.imgur.com/ymXXLwI.png) 
+> ![This is hilarious.](https://i.imgur.com/ymXXLwI.png) 
 >
 > https://imgur.com/a/DhPJosy
 >
@@ -94,14 +99,14 @@ https://i.imgur.com/piVCLtL.png
 
 >**10:35 AM EST**
 >
-> [Reloaded](https://i.imgur.com/JY6gwJA.png) 
+> ![Reloaded](https://i.imgur.com/JY6gwJA.png) 
 > 😳... not
 
 &#x200B;
 
 >**10:25 AM EST**
 >
-> [Huh?](https://i.imgur.com/V8TFqGa.png) 
+> ![Huh?](https://i.imgur.com/V8TFqGa.png) 
 >
 > [Also I heard Vanguard is having issues, anyone confirm?](https://youtu.be/cAgHK47Y1-o?t=30)
 >
@@ -111,7 +116,7 @@ https://i.imgur.com/piVCLtL.png
 
 >**9:58 AM EST**
 >
-> [Very cute, fake as always.](https://imgur.com/a/jt9qi1D) 
+> ![Very cute, fake as always.](https://imgur.com/a/jt9qi1D) 
 
 &#x200B;
 
@@ -130,7 +135,7 @@ No advice, we could be wrong, read it, believe it, or don't.
 
 &#x200B;
 
-We posted this information for you guys to put the pieces together, don't bet your life savings on our **predictions** which are labeled as **speculations** because anything can change at [anytime, never underestimate your enemy.](https://i.imgur.com/j0xQHtK.png).
+We posted this information for you guys to put the pieces together, don't bet your life savings on our **predictions** which are labeled as **speculations** because anything can change at ![anytime, never underestimate your enemy.](https://i.imgur.com/j0xQHtK.png).
 
 &#x200B;
 
@@ -435,4 +440,4 @@ https://www.youtube.com/watch?v=LyYBrywHmvg
 
 &#x200B;
 
-![WHALE WATCH SEASON](https://youtu.be/pWh4O6ujK4o?t=75)
+[WHALE WATCH SEASON](https://youtu.be/pWh4O6ujK4o?t=75)

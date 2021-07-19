@@ -1,5 +1,6 @@
-# Author: ThePatternDaytrader
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt6bju/why_banks_randomly_decided_to_sell_billions_in/](https://www.reddit.com/r/Superstonk/comments/mt6bju/why_banks_randomly_decided_to_sell_billions_in/)
+#Title: Why Banks Randomly Decided to Sell Billions in Bonds
+#Author: ThePatternDaytrader
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt6bju/why_banks_randomly_decided_to_sell_billions_in/](https://www.reddit.com/r/Superstonk/comments/mt6bju/why_banks_randomly_decided_to_sell_billions_in/)
 
 
 Hey there! 👋 
@@ -18,7 +19,7 @@ Yeah, I know it’s from MarketWatch. Bear with me (pun not intended).
 
 Okay, so that seems like a suspiciously large amount of money that they “suddenly” needed on Friday (announced after market close, standard fuckery manuever used during the 2008 crisis). They apparently needed it for “general corporate reasons.” Or maybe...
 
-[March Bloomberg Terminal Drop](https://preview.redd.it/p9f1c97762p61.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=697cfd5c71e0fa2dade4f5e8e5fef0b50f7907cb)
+![March Bloomberg Terminal Drop](https://preview.redd.it/p9f1c97762p61.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=697cfd5c71e0fa2dade4f5e8e5fef0b50f7907cb)
 
 Courtesy of u/RogueYorkShire, this Bloomberg terminal drop shows put positions reported in December. AFAIK, these are reported quarterly and I don’t have access to a BB terminal to show this quarters so this is what I had to work with.
 
@@ -34,9 +35,9 @@ But that was just one bank that sold a bunch of bonds and coincidentally had a h
 
 But wait! There’s more!
 
-[More institutions with GME puts](https://preview.redd.it/qjzidc7762p61.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=7b9c4422d1788a1c03c905615727d41e05cd706c)
+![More institutions with GME puts](https://preview.redd.it/qjzidc7762p61.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=7b9c4422d1788a1c03c905615727d41e05cd706c)
 
-![JP Morgan Chase sells $13 billion in bonds](https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/jpmorgan-sell-13-billion-bonds-184602000.html)
+[JP Morgan Chase sells $13 billion in bonds](https://www.google.com/amp/s/finance.yahoo.com/amphtml/news/jpmorgan-sell-13-billion-bonds-184602000.html)
 
 JP Morgan Chase is #29 on the list! They had puts on GME too!
 

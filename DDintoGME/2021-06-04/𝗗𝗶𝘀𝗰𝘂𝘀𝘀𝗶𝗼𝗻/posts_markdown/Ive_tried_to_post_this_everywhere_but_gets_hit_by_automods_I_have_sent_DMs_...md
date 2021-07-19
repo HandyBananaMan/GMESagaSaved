@@ -1,5 +1,6 @@
-# Author: StorageMinimum6460
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/](https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/)
+#Title: Ive tried to post this everywhere, but gets hit by automods. I have sent DMs, and no response. I think this needs exposure, and this is my last try.
+#Author: StorageMinimum6460
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/](https://www.reddit.com/r/DDintoGME/comments/nsmhre/ive_tried_to_post_this_everywhere_but_gets_hit_by/)
 
 
 So, I'm finally allowed to share something that I feel if it at least gets to one person and gets one more vote, then I'll be happy I tried. My buddy and I both bought back into GME on Apr 22nd. At the time I was in RobbingHood. I was reading some DD one day and saw someone post about searching the word proxy in email, and for shit and giggles I did. After TONS of lurking (not a social media fan) and reading and learning, I thought that if I hadn't got the shares be the 15th, that I didn't get a vote, so I never even tried or thought about it. To my surprise, RH had in fact sent me a proxy to vote with, and my friend as well.
@@ -16,7 +17,7 @@ Edit 1 - If anyone would like to take this info to a place it could possibly get
 
 &#x200B;
 
-[Dates of RH buys](https://preview.redd.it/3v2ohgq073471.jpg?width=1171&format=pjpg&auto=webp&s=07fff416e7b047c7f603ea2616bd4439dd738a31)
+![Dates of RH buys](https://preview.redd.it/3v2ohgq073471.jpg?width=1171&format=pjpg&auto=webp&s=07fff416e7b047c7f603ea2616bd4439dd738a31)
 
 &#x200B;
 
@@ -28,7 +29,7 @@ https://preview.redd.it/i1uslhzd63471.jpg?width=1454&format=pjpg&auto=webp&s=6cf
 
 &#x200B;
 
-[RH EMAIL](https://preview.redd.it/xrciiiapid371.jpg?width=799&format=pjpg&auto=webp&s=2d71bf475bc2d8eb4396262a45ad3bbeea1f06f4)
+![RH EMAIL](https://preview.redd.it/xrciiiapid371.jpg?width=799&format=pjpg&auto=webp&s=2d71bf475bc2d8eb4396262a45ad3bbeea1f06f4)
 
 &#x200B;
 

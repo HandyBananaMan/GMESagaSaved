@@ -1,5 +1,6 @@
-# Author: theubertuber
-# Post URL: [https://www.reddit.com/r/GME/comments/lztren/what_the_new_dtcc_rules_really_mean/](https://www.reddit.com/r/GME/comments/lztren/what_the_new_dtcc_rules_really_mean/)
+#Title: What the new DTCC rules really mean
+#Author: theubertuber
+#Post URL: [https://www.reddit.com/r/GME/comments/lztren/what_the_new_dtcc_rules_really_mean/](https://www.reddit.com/r/GME/comments/lztren/what_the_new_dtcc_rules_really_mean/)
 
 
 After their new regulations go into effect another short squeeze of ANY MAGNITUDE will be nearly IMPOSSIBLE!!

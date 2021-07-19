@@ -1,10 +1,11 @@
-# Author: bobsmith808
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/](https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/)
+#Title: Update on T+21 Cycles, and DD on DD by u/criand and u/dentisttft because...
+#Author: bobsmith808
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/](https://www.reddit.com/r/Superstonk/comments/o32geb/update_on_t21_cycles_and_dd_on_dd_by_ucriand_and/)
 
 
 &#x200B;
 
-[Gotta have more DD - Christopher Walken](https://preview.redd.it/etc6x1qko9671.png?width=622&format=png&auto=webp&s=e37dd0262ea3ca1050ce7a877bdded647dffd7de)
+![Gotta have more DD - Christopher Walken](https://preview.redd.it/etc6x1qko9671.png?width=622&format=png&auto=webp&s=e37dd0262ea3ca1050ce7a877bdded647dffd7de)
 
 Hi apes, Bob again. yay [gamestop.com](https://gamestop.com)
 
@@ -31,13 +32,13 @@ I like to think so…  It's been pretty consistent.   Also, I think it's not jus
 
 &#x200B;
 
-[T+35 into infinity loop T+21 can kicking by Mr Mayo](https://preview.redd.it/3j4nrazno9671.png?width=2831&format=png&auto=webp&s=297017663692fa40a3c1e4a7402a93442c37989d)
+![T+35 into infinity loop T+21 can kicking by Mr Mayo](https://preview.redd.it/3j4nrazno9671.png?width=2831&format=png&auto=webp&s=297017663692fa40a3c1e4a7402a93442c37989d)
 
 # Is T+35 FTD cycle a thing?
 
 I think so too, but in a different way.  The T+35 FTDs look to be eyeball-correlated (this is a technical term of course) to be largely pre-emptive movers in and of themselves, but aren't very consistent.   Volume on the trading days matter a lot more than these IMHO, but they do contribute, as that's the settlement date that needs to be met, so these generally add to the buying pressure.  You might ask why on these specific days? Well, it's because Mr Mayo et al don't want to rip off the Band-Aid, so they keep it on as long as possible, allowing it to fester and grow into a bigger problem before being forced to take care of it at the very last second.
 
-[T+35 FTD cycles.  Data represented was cross-checked against u\/dentisttft 's data](https://preview.redd.it/y70vt3ppo9671.png?width=2829&format=png&auto=webp&s=95ba49cf7f0db733080a9c01052995ce924ea072)
+![T+35 FTD cycles.  Data represented was cross-checked against u\/dentisttft 's data](https://preview.redd.it/y70vt3ppo9671.png?width=2829&format=png&auto=webp&s=95ba49cf7f0db733080a9c01052995ce924ea072)
 
 # What does this look like as a full picture?
 
@@ -47,7 +48,7 @@ Oh, I promised a full picture, but before we go there, **let's look at SLDs...**
 
 What's an STD, you say? Well, to that, I'd say ask your wife's boyfriend - he would know, but you don't have to worry about it.  SLDs, on the other hand are Supplemental Liquidity Requirements  and mean that once a month sHFs have less money to play with while they settle up on their options activities, and we all know how they love options. There is a [fantastic post about SLDs and liquid shits](https://www.reddit.com/r/Superstonk/comments/njgs66/rc_tweet_analysis_part_2_dumb_and_dumber_turbolax/) by, you guessed it, u/dentisttft.  It took me a few reads and a non-half assed (Ron Swanson) approach to learning how this worked, and I'm glad I did, because I think this might be one of the keys to understanding this whole thing.
 
-[SLDs line up pretty fuckin well to price improvements and all the major jumps for GME \(or at least the start of them\) since January 2021. ](https://preview.redd.it/fgk5pwuro9671.png?width=2834&format=png&auto=webp&s=0f9a05b1bdbd5d8b6f77eb36e264337c78016d84)
+![SLDs line up pretty fuckin well to price improvements and all the major jumps for GME \(or at least the start of them\) since January 2021. ](https://preview.redd.it/fgk5pwuro9671.png?width=2834&format=png&auto=webp&s=0f9a05b1bdbd5d8b6f77eb36e264337c78016d84)
 
 # Putting everything together.
 
@@ -57,7 +58,7 @@ https://preview.redd.it/83lh02buo9671.png?width=600&format=png&auto=webp&s=6eaa3
 
 &#x200B;
 
-[Click to open - it's detailed with some explanations and further below.](https://preview.redd.it/w0fa4divo9671.png?width=2828&format=png&auto=webp&s=b151d07e5a01a2adb5259c22dc47ac1aef156ba9)
+![Click to open - it's detailed with some explanations and further below.](https://preview.redd.it/w0fa4divo9671.png?width=2828&format=png&auto=webp&s=b151d07e5a01a2adb5259c22dc47ac1aef156ba9)
 
 If we dig into this eyeball-based correlation (**statistical analysis will come in a later post**), it seems like something is going on here, but it's not 100% - That shy cycle on 3/15 ruined everything... or did it?  you remember that kickass post from u/dentisttft that you read and understood completely?  No? Go re-read and understand that the SLDs take money away from the sHFs for a period of time, which makes it that much harder to suppress GME.  When the stars align, and by stars, i mean all the things I'm tracking, we see big bumps!  **With a little more buying pressure at those times, we might finally see the rocket launch!**
 

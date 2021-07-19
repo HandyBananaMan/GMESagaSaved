@@ -1,5 +1,6 @@
-# Author: albanak
-# Post URL: [https://www.reddit.com/r/GME/comments/m7bfzb/question_who_wants_a_real_documentary_about_whats/](https://www.reddit.com/r/GME/comments/m7bfzb/question_who_wants_a_real_documentary_about_whats/)
+#Title: QUESTION: Who wants a REAL documentary about what's going on? 🚀
+#Author: albanak
+#Post URL: [https://www.reddit.com/r/GME/comments/m7bfzb/question_who_wants_a_real_documentary_about_whats/](https://www.reddit.com/r/GME/comments/m7bfzb/question_who_wants_a_real_documentary_about_whats/)
 
 
 &#x200B;
@@ -10,7 +11,7 @@
 
 &#x200B;
 
-![NEW POST/UPDATE](https://www.reddit.com/r/GME/duplicates/mgoo4a/update_question_who_wants_a_real_documentary/)
+[NEW POST/UPDATE](https://www.reddit.com/r/GME/duplicates/mgoo4a/update_question_who_wants_a_real_documentary/)
 
 &#x200B;
 

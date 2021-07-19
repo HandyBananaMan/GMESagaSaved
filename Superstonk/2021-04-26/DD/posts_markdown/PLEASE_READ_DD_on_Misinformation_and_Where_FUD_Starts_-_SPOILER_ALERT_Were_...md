@@ -1,5 +1,6 @@
-# Author: ColCrabs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/](https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/)
+#Title: PLEASE READ: DD on Misinformation and Where FUD Starts - SPOILER ALERT: We're Accidentally Spreading our own FUD.
+#Author: ColCrabs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/](https://www.reddit.com/r/Superstonk/comments/myu5ye/please_read_dd_on_misinformation_and_where_fud/)
 
 
 This is a combination of DD, Discussion, and Opinion.  I've given it the DD flair because I think the topic is important as is the actual DD within it. I'm also reposting this because I think it's important that we address the FUD that we're accidentally spreading ourselves, stuff like asking everyone to email the SEC but then delaying the SEC because they have to read every comment. 
@@ -92,7 +93,7 @@ However, there are posts like this that are claiming, with absolutely zero evide
 
 &amp;#x200B;
 
-[If you see responses like this to requests for proof, DOWNVOTE!](https://preview.redd.it/unov8wws3hv61.png?width=1242&amp;format=png&amp;auto=webp&amp;s=321e91ae7d743c6af1bf05919f877f382e9a24cd)
+![If you see responses like this to requests for proof, DOWNVOTE!](https://preview.redd.it/unov8wws3hv61.png?width=1242&amp;format=png&amp;auto=webp&amp;s=321e91ae7d743c6af1bf05919f877f382e9a24cd)
 
 The most important part about this is that you might actually miss out on your voting material because you ignored an email that you thought was a phishing attempt.  [Here is a good guide using MVIS as an example with information on how certain brokers send the materials](https://www.reddit.com/r/MVIS/comments/iip2re/proxy_vote_guide_here_is_why_to_vote_for_and_how/?utm_source=share&amp;utm_medium=web2x&amp;context=3).  It is important to do this research yourself and find out what firm is supply your brokers with proxy information.  [Robinhood uses Mediant](https://robinhood.com/us/en/support/articles/shareholder-meetings-and-elections/), others use [Compushare, Broadridge, or D.F. King](https://www.fidelity.com/mutual-funds/information/proxy-voting-faq).
 
@@ -219,7 +220,7 @@ I'm also asking mods to enforce their duplicate post rules more aggressively or 
 
 EDIT:
 
-Just to add in an even more recent example of exactly what I’m pointing out in this post. The ![new Daily Post](https://www.reddit.com/r/Superstonk/comments/myuecm/superstonk_daily_04262021/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) just included an entire section on the idea that GME is urging people to vote this year. THIS IS FALSE. 
+Just to add in an even more recent example of exactly what I’m pointing out in this post. The [new Daily Post](https://www.reddit.com/r/Superstonk/comments/myuecm/superstonk_daily_04262021/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) just included an entire section on the idea that GME is urging people to vote this year. THIS IS FALSE. 
 
 Again, it’s false information getting picked up and spread around. 
 

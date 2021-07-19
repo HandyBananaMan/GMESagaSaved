@@ -1,12 +1,13 @@
-# Author: Dwellerofthecrags
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/](https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/)
+#Title: MARGIN CALL VS. FORCED LIQUIDATION
+#Author: Dwellerofthecrags
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/](https://www.reddit.com/r/Superstonk/comments/ni0xmw/margin_call_vs_forced_liquidation/)
 
 
 Over the past several weeks I've noticed several posts or comments that lead me to believe there may be a bit of a misunderstanding about what a MARGIN CALL is. Because I love all of my fellow HODLers, I am not going to single out any of the posts or comments.
 
 &#x200B;
 
-[https:\/\/pbs.twimg.com\/media\/ERNu7C-W4AAleb4.jpg](https://preview.redd.it/x6wbwddgzi071.jpg?width=800&format=pjpg&auto=webp&s=b65d44ff3b998ee4f2dcd65212a83312771ac210)
+![https:\/\/pbs.twimg.com\/media\/ERNu7C-W4AAleb4.jpg](https://preview.redd.it/x6wbwddgzi071.jpg?width=800&format=pjpg&auto=webp&s=b65d44ff3b998ee4f2dcd65212a83312771ac210)
 
 I know that I, like many of you, have added a bunch a wrinkles since January thanks to many of the brilliant Apes writing DD and the Silverbacks coming and doing AMAs and I'm hoping that you, like me, never get tired of adding more. Since there seems to be a little bit of a misunderstanding about what a margin call actually is, I thought it would be good to provide some clarification and add a few more wrinkles to all of our smooth brains.
 
@@ -34,7 +35,7 @@ More in depth description about what a margin call is here: [https://www.investo
 
 DO NOT DAY TRADE GME! DO NOT FALL FOR ANY OF THESE OTHER PUMPED SECURITIES/CRYPTO! DON'T FEED THE BEARS, THEY'LL EAT YOU!
 
-[https:\/\/i.redd.it\/9llkyh6lvo141.jpg](https://preview.redd.it/msscs7u5ij071.jpg?width=960&format=pjpg&auto=webp&s=0b0bc230858c6cce5120bc04910073938c0d0528)
+![https:\/\/i.redd.it\/9llkyh6lvo141.jpg](https://preview.redd.it/msscs7u5ij071.jpg?width=960&format=pjpg&auto=webp&s=0b0bc230858c6cce5120bc04910073938c0d0528)
 
 &#x200B;
 
@@ -50,7 +51,7 @@ THIS IS THE SPECIFIC TYPE OF LIQUIDATION WE ARE WAITING FOR:
 
 "The opposite of forced selling in a margin account is a forced buy-in. This occurs in a short seller’s account when the original lender of the shares recalls them or when the broker is no longer able to borrow shares for the shorted position. When a forced buy-in is triggered, shares are bought back to close the short position. The account holder might not be given notice prior to the act."
 
-[https:\/\/news.ewingirrigation.com\/wp-content\/uploads\/2015\/07\/MISC-Ice-Melting1.jpg](https://preview.redd.it/k7xbxtn60j071.jpg?width=500&format=pjpg&auto=webp&s=39079ad5c8e5f5054c711212c0045fa5ba28b747)
+![https:\/\/news.ewingirrigation.com\/wp-content\/uploads\/2015\/07\/MISC-Ice-Melting1.jpg](https://preview.redd.it/k7xbxtn60j071.jpg?width=500&format=pjpg&auto=webp&s=39079ad5c8e5f5054c711212c0045fa5ba28b747)
 
 &#x200B;
 
@@ -80,4 +81,4 @@ Edit 2:  u/InvincibearREAL pointed out that I forgot to include the most obvious
 
 # "Margin call is a shart. It stinks and can be a little messy, but it's really just a warning. If you don't heed that warning and take care of your business in a timely fashion, you'll shit your pants in a forced liquidation."
 
-Edit 4: Created ![visual TL;DR Post](https://www.reddit.com/r/Superstonk/comments/ni9oc1/margin_call_vs_forced_liquidation_in_ape_ape/)
+Edit 4: Created [visual TL;DR Post](https://www.reddit.com/r/Superstonk/comments/ni9oc1/margin_call_vs_forced_liquidation_in_ape_ape/)

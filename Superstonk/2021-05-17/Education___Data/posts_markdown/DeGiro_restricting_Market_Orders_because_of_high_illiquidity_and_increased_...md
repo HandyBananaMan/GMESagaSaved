@@ -1,5 +1,6 @@
-# Author: psych_ing_invest
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/neeoyk/degiro_restricting_market_orders_because_of_high/](https://www.reddit.com/r/Superstonk/comments/neeoyk/degiro_restricting_market_orders_because_of_high/)
+#Title: DeGiro restricting Market Orders because of high "illiquidity" and "increased risk" - They are not planning on restricting trades because of high volatility or because of liquitidy issues on their side 🚀🚀 Bullish for me ma friends! 🍌🍌Europoors doin there duty!
+#Author: psych_ing_invest
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/neeoyk/degiro_restricting_market_orders_because_of_high/](https://www.reddit.com/r/Superstonk/comments/neeoyk/degiro_restricting_market_orders_because_of_high/)
 
 
 As an Europoor I have all my holdings in DeGiro. Some of you may know this brokers others not. I really appreciate DeGiro in regards of transaction fees and support. The interface is quite basic since there only is a webtrade. But nevermind - cutting the slack.

@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ocds1m/the_dtcc_depository_that_clears_counterfeits_is/](https://www.reddit.com/r/Superstonk/comments/ocds1m/the_dtcc_depository_that_clears_counterfeits_is/)
+#Title: The DTCC (Depository That Clears Counterfeits) is finished. They covered up the fraud that enables naked short selling and are why we will MOASS to epic proportions.
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ocds1m/the_dtcc_depository_that_clears_counterfeits_is/](https://www.reddit.com/r/Superstonk/comments/ocds1m/the_dtcc_depository_that_clears_counterfeits_is/)
 
 
 **Edit - Due to my misunderstanding of crypto, NFT dividend has been changed to 'Non-standard'. The point I'm conveying is that a dividend that can't easily be obtained by short sellers to cover.**
@@ -14,7 +15,7 @@
 
 &#x200B;
 
-![**Docs link**](https://docs.google.com/document/d/e/2PACX-1vSsrsCvdsDUQK-yapdQllwk0PqzN6jZgG-ykDi6csJfJC3fvFrnpp5sZuMa8oQneUhLDY3z78vVFd8s/pub)
+[**Docs link**](https://docs.google.com/document/d/e/2PACX-1vSsrsCvdsDUQK-yapdQllwk0PqzN6jZgG-ykDi6csJfJC3fvFrnpp5sZuMa8oQneUhLDY3z78vVFd8s/pub)
 
 &#x200B;
 

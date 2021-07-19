@@ -1,5 +1,6 @@
-# Author: zhishy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8c7q/gamestop_理论基础_2_卡牌之屋_iii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oa8c7q/gamestop_理论基础_2_卡牌之屋_iii_simplified_chinese/)
+#Title: GameStop 理论基础 #2 -- 卡牌之屋 III [Simplified Chinese Translation: House of Cards - Part 3, u/atobitt]
+#Author: zhishy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa8c7q/gamestop_理论基础_2_卡牌之屋_iii_simplified_chinese/](https://www.reddit.com/r/Superstonk/comments/oa8c7q/gamestop_理论基础_2_卡牌之屋_iii_simplified_chinese/)
 
 
 原文标题：House of Cards - Part 3, u/atobitt
@@ -34,13 +35,13 @@ PDF 版本：[https://drive.google.com/drive/folders/1fY7UXelAvvqdWvpGhuZ4zZ\_9G
 
 Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.sec.gov/news/pressrelease/2016-128.html) \[2\]。2016 年，美林因使用客户账户中持有的证券来支付自己的交易而被罚款 [415,000,000 美元](https://files.brokercheck.finra.org/firm/firm_16139.pdf)（违规行为 3）\[3\]。请看看我从那个案例中截取的截图：
 
-[\[图 1\]](https://preview.redd.it/iyqkjzcdi7871.png?width=1115&format=png&auto=webp&s=462afd4ce95d009f19607c8fb584261f9a7c67c4)
+![\[图 1\]](https://preview.redd.it/iyqkjzcdi7871.png?width=1115&format=png&auto=webp&s=462afd4ce95d009f19607c8fb584261f9a7c67c4)
 
 还记得我们在 Apex 的案例中提到的 [SEA 15c3-3](https://www.finra.org/sites/default/files/SEA.Rule_.15c3-3.pdf) \[4\] 吗？那个案件中，Apex 要求客户将空头头寸记录到现金账户或空头保证金账户中，而 SEA 15c3-3 旨在保护这些客户，以免经纪商被允许借出客户现金账户中的证券……
 
 然后，美林 TMD 完全当这法规不存在似的...
 
-[\[图 2\]](https://preview.redd.it/6s7kku4fi7871.png?width=1129&format=png&auto=webp&s=9bd23fe2c72bbbb112dc7b85c5a45ce04dae8d9f)
+![\[图 2\]](https://preview.redd.it/6s7kku4fi7871.png?width=1129&format=png&auto=webp&s=9bd23fe2c72bbbb112dc7b85c5a45ce04dae8d9f)
 
 美林让他们的客户准备金账户中的所需存款看起来比实际金额低得多。如果将金额降低到最低资本要求以下，梅林便将无法使用这笔现金了。因此，美林找到了一种能够捏造数字的方法。而这么做之后，美林不仅可以规避监管机构发出的警报，还可以获得高风险“机会”的好处。如果美林在那段时间申请破产，那些客户肯定会一脸蒙 B。
 
@@ -48,11 +49,11 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 看看[加拿大皇家银行 (Royal Bank of Canada)](https://files.brokercheck.finra.org/firm/firm_31194.pdf) \[5\] 都做了些什么：
 
-[\[图 3\]](https://preview.redd.it/23ugbfjgi7871.png?width=812&format=png&auto=webp&s=d06a925f79d8c8bf5e804adcbe764f1438535d83)
+![\[图 3\]](https://preview.redd.it/23ugbfjgi7871.png?width=812&format=png&auto=webp&s=d06a925f79d8c8bf5e804adcbe764f1438535d83)
 
 我再次被震惊了。然而，还是[高盛 (Goldman Sachs)](https://files.brokercheck.finra.org/firm/firm_361.pdf) \[6\] 牛 B 一些：
 
-[\[图 4\]](https://preview.redd.it/01xkgk7ii7871.png?width=1031&format=png&auto=webp&s=48833170397f570a509083185977faab0631497b)
+![\[图 4\]](https://preview.redd.it/01xkgk7ii7871.png?width=1031&format=png&auto=webp&s=48833170397f570a509083185977faab0631497b)
 
 高盛在 4 个月内有 68 次未能履行未能交割的义务... 而其中 45 次，高盛\***继续**\*从客户那里接受仍有未能交割义务的证券卖空订单...
 
@@ -60,7 +61,7 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 其中一个方法就是在买入前卖空\***一大堆**\*股票... 既然我们正谈论高盛，我们就来看看它在这方面多么有经验吧。
 
-[\[图 5\]](https://preview.redd.it/w6zh468mi7871.png?width=1049&format=png&auto=webp&s=710bda6911adec2715406627146d4c35e76969df)
+![\[图 5\]](https://preview.redd.it/w6zh468mi7871.png?width=1049&format=png&auto=webp&s=710bda6911adec2715406627146d4c35e76969df)
 
 相信我，事实就是这么 TMD 直白...
 
@@ -70,7 +71,7 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 高盛还有一个违规行为记录，而这记录活生生地展示了什么叫 TMD 有钱就能任性。看到此违规纪录后，我不相信任何人还能说什么证券借贷业务不存在系统性风险... 请看下图：
 
-[\[图 6\]](https://preview.redd.it/mzip3pgni7871.png?width=940&format=png&auto=webp&s=98d77c65b76e1209a866be463fb73513f5742db9)
+![\[图 6\]](https://preview.redd.it/mzip3pgni7871.png?width=940&format=png&auto=webp&s=98d77c65b76e1209a866be463fb73513f5742db9)
 
 那 5 年来，高盛依靠一个 10-12 人的团队来定位客户用于卖空的股票。该团队被称为“需求团队”。随着定位请求不断增多，很自然地，该团队正确记录所有定位请求的工作也会变得越发困难。然而，虽然\***每日**\*定位请求量在需求达到顶峰时可达 20,000 个，但团队规模仍保持不变。
 
@@ -78,7 +79,7 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 是的 -- TMD “F3” 键... 此按键可激活一个自动填充系统，而该系统完成了高盛 \***98% 的股票定位请求**\*。
 
-[\[图 7\]](https://preview.redd.it/mgmq6ijoi7871.png?width=964&format=png&auto=webp&s=e714028c9dd304d4d3c5c45acf8c8a90d2d6aa53)
+![\[图 7\]](https://preview.redd.it/mgmq6ijoi7871.png?width=964&format=png&auto=webp&s=e714028c9dd304d4d3c5c45acf8c8a90d2d6aa53)
 
 高盛的自动填充系统的问题在于，它使用了当天开始时可供借入的股票数量，而【根据该自动填充系统本身的机制，】这些股票是被视为“已耗尽”的。启用自动定位功能后，需求团队甚至没有验证自动填充功能的准确性，也没有记录每个订单的股票是用哪种方法来定位的... 而这个问题持续了 5 年...
 
@@ -86,7 +87,7 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 既然讲到高盛，我就再讲一个高盛的卖空特殊符号相关违规行为吧... 请先做好心理准备，因为这...
 
-[\[图 8\]](https://preview.redd.it/mcfdr7opi7871.png?width=1082&format=png&auto=webp&s=61fbcd29ffffe39ddc4d403d4260e4416608e51d)
+![\[图 8\]](https://preview.redd.it/mcfdr7opi7871.png?width=1082&format=png&auto=webp&s=61fbcd29ffffe39ddc4d403d4260e4416608e51d)
 
 我... 你 TM 还能再骚一点么... 此违规行为延续了长达 4 年，并涉及超过 380,000,000 个空头头寸... 当然，高盛还因许多其他空头头寸违规行为而被罚，但这么严重的一次违规行为，FINRA 居然用了区区 10 行的篇幅就把它带过了... 我猜相关的监管者应该是饿急了，等着吃午饭吧...
 
@@ -108,7 +109,7 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 然而，当一些公司正裸空一家公司以使其破产时，他们会留下明确的“足迹”。通过这些足迹，就能找到他们恶意裸空的证据...
 
-[\[图 9\]](https://preview.redd.it/4u973a7ri7871.png?width=1072&format=png&auto=webp&s=1f6e2d84ae7505134b4fce228b8595e41f681a33)
+![\[图 9\]](https://preview.redd.it/4u973a7ri7871.png?width=1072&format=png&auto=webp&s=1f6e2d84ae7505134b4fce228b8595e41f681a33)
 
 就问你这味儿熟不熟悉？
 
@@ -118,17 +119,17 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 如果这还不算异常成交量，那我也没什么可说的了。此外，在此期间，GameStop 的未能交割量也极其疯狂：
 
-[\[图 10\]](https://preview.redd.it/v7bq737si7871.png?width=1625&format=png&auto=webp&s=a3c1371b17f77e27bab8fd4a1d0cfff4007abe57)
+![\[图 10\]](https://preview.redd.it/v7bq737si7871.png?width=1625&format=png&auto=webp&s=a3c1371b17f77e27bab8fd4a1d0cfff4007abe57)
 
 &#x200B;
 
-[\[图 11\]](https://preview.redd.it/y5rpzhati7871.png?width=1038&format=png&auto=webp&s=3b733f4064c7a1d228ee6448e66a0b067e87f881)
+![\[图 11\]](https://preview.redd.it/y5rpzhati7871.png?width=1038&format=png&auto=webp&s=3b733f4064c7a1d228ee6448e66a0b067e87f881)
 
 &#x200B;
 
 请注意以上内容：\***如果**\*【被做空】公司的股票因破产而被注销，操纵者的补仓义务将被免除。该 PDF 文件第一个截图中的第 65 和 66 号脚注引用了一家他用于分析此问题的公司...
 
-[\[图 12\]](https://preview.redd.it/toah2o4ui7871.png?width=997&format=png&auto=webp&s=09676b157960e6248c829055d8ca06f91df108e7)
+![\[图 12\]](https://preview.redd.it/toah2o4ui7871.png?width=997&format=png&auto=webp&s=09676b157960e6248c829055d8ca06f91df108e7)
 
 2005 年，Charter Communications 的空头流通量高达 \***241.8%**\*... 操纵者逃脱的\***唯一**\*方法就是把该公司搞破产以免除回购这些股票的义务...
 
@@ -162,4 +163,4 @@ Wes 博士提到的另一个例子是[美林证券 (Merrill Lynch)](https://www.
 
 \[8\] [https://www.sec.gov/comments/s7-08-08/s70808-318.pdf](https://www.sec.gov/comments/s7-08-08/s70808-318.pdf)
 
-\![9\] [https://abcnews.go.com/Business/story?id=7189668&page=1](https://abcnews.go.com/Business/story?id=7189668&page=1)
+\[9\] [https://abcnews.go.com/Business/story?id=7189668&page=1](https://abcnews.go.com/Business/story?id=7189668&page=1)

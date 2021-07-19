@@ -1,5 +1,6 @@
-# Author: Yonsei
-# Post URL: [https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/](https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/)
+#Title: Technicals Show GME is Going Much Higher. Analysis on Volume, MACD, and Short Availability. 🚀🚀🚀
+#Author: Yonsei
+#Post URL: [https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/](https://www.reddit.com/r/GME/comments/m0ob9u/technicals_show_gme_is_going_much_higher_analysis/)
 
 
 **TLDR; Volume, MACD, and Short Availability are all extremely bullish for GME. HODL 🚀🚀🚀🚀.**
@@ -14,7 +15,7 @@ Secondly, since Mar 3, we have seen increasing volume with higher prices. This i
 
 &#x200B;
 
-[Wow, look at this set-up](https://preview.redd.it/yutvew3azul61.jpg?width=467&format=pjpg&auto=webp&s=c45a49ab8722ca5a1e287f70e8952e6ec00354e6)
+![Wow, look at this set-up](https://preview.redd.it/yutvew3azul61.jpg?width=467&format=pjpg&auto=webp&s=c45a49ab8722ca5a1e287f70e8952e6ec00354e6)
 
 **Case 2 : MACD**
 
@@ -22,7 +23,7 @@ MACD  stands for Moving Average Convergence Divergence and essentially shows  th
 
 &#x200B;
 
-[MACD looks bullish](https://preview.redd.it/v2797p7czul61.jpg?width=493&format=pjpg&auto=webp&s=51982ef08fc93dc8e47b3a1a09d13223212af3c1)
+![MACD looks bullish](https://preview.redd.it/v2797p7czul61.jpg?width=493&format=pjpg&auto=webp&s=51982ef08fc93dc8e47b3a1a09d13223212af3c1)
 
 **Case 3 : AVAILABLE SHARES TO SHORT**
 

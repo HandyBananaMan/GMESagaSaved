@@ -1,5 +1,6 @@
-# Author: Dannyboi93
-# Post URL: [https://www.reddit.com/r/GME/comments/m962a8/this_isnt_a_get_rich_once_move_this_is_a_get_rich/](https://www.reddit.com/r/GME/comments/m962a8/this_isnt_a_get_rich_once_move_this_is_a_get_rich/)
+#Title: 🚨🚨THIS ISN'T A GET RICH ONCE MOVE, THIS IS A GET RICH TWICE, AND THEN AGAIN, AND AGAIN MOVE🚨🚨This rocket ship is gonna travel far beyond the known reaches of the observable universe. So pay attention to this. 🚀🚀🚀🚀🚀🚀
+#Author: Dannyboi93
+#Post URL: [https://www.reddit.com/r/GME/comments/m962a8/this_isnt_a_get_rich_once_move_this_is_a_get_rich/](https://www.reddit.com/r/GME/comments/m962a8/this_isnt_a_get_rich_once_move_this_is_a_get_rich/)
 
 
 This has been my plan all along, but people need to realise one thing, GME is a legitimately good company.

@@ -1,5 +1,6 @@
-# Author: oaf_king
-# Post URL: [https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/](https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/)
+#Title: Statistical Analysis: March 4 update - pricing correlation is strengthened
+#Author: oaf_king
+#Post URL: [https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/](https://www.reddit.com/r/GME/comments/lxwv8r/statistical_analysis_march_4_update_pricing/)
 
 
 Hi all,
@@ -12,7 +13,7 @@ Based on [the post I made after market close yesterday](https://www.reddit.com/r
 
 Here's my input data for calculating ~~Spearmint Rhino~~ Spearman's Rho:
 
-[Between my original post and this re-post attempt, I was able to adjust the closing price and final volume for today's activity.](https://preview.redd.it/m8vo9iev33l61.png?width=1211&format=png&auto=webp&s=433c468a043089c8bfb64a4ae7d90ed27731fd4b)
+![Between my original post and this re-post attempt, I was able to adjust the closing price and final volume for today's activity.](https://preview.redd.it/m8vo9iev33l61.png?width=1211&format=png&auto=webp&s=433c468a043089c8bfb64a4ae7d90ed27731fd4b)
 
 # Results
 
@@ -21,13 +22,13 @@ Here's my input data for calculating ~~Spearmint Rhino~~ Spearman's Rho:
 
 In graph form:
 
-[Today's price increase continues the trend from January's run-up, further increasing the correlation between data sets.](https://preview.redd.it/v4pk4q0o43l61.png?width=896&format=png&auto=webp&s=1ccb11d49af250c768a4bc088dece68f5ed62e9d)
+![Today's price increase continues the trend from January's run-up, further increasing the correlation between data sets.](https://preview.redd.it/v4pk4q0o43l61.png?width=896&format=png&auto=webp&s=1ccb11d49af250c768a4bc088dece68f5ed62e9d)
 
-[Volume remained low, creating a deviation from the pattern seen in January. As such, correlation was somewhat reduced.](https://preview.redd.it/6onw918x43l61.png?width=942&format=png&auto=webp&s=475fafdd94d386d0e3ff6a964fe08e2ad76dc660)
+![Volume remained low, creating a deviation from the pattern seen in January. As such, correlation was somewhat reduced.](https://preview.redd.it/6onw918x43l61.png?width=942&format=png&auto=webp&s=475fafdd94d386d0e3ff6a964fe08e2ad76dc660)
 
 # Analysis
 
-While we ended the day at a higher price, therefore continuing the pattern from the first run-up (to the point where the p-value is **bloody\* zero!**), the jump was not as dramatic as the change from January 21 to January 22. This should not be a surprise, as volume remained relatively low today. See my post from this morning for ![expanded notes](https://www.reddit.com/r/GME/comments/lxhatz/some_additional_thoughts_on_statistical_analysis/) (particularly at the end, addressing volume).
+While we ended the day at a higher price, therefore continuing the pattern from the first run-up (to the point where the p-value is **bloody\* zero!**), the jump was not as dramatic as the change from January 21 to January 22. This should not be a surprise, as volume remained relatively low today. See my post from this morning for [expanded notes](https://www.reddit.com/r/GME/comments/lxhatz/some_additional_thoughts_on_statistical_analysis/) (particularly at the end, addressing volume).
 
 *\** *I try to write in a straight-forward manner, but it needs to be said: this is amazing to witness. We in effect have two date ranges in which the following occurred:*
 

@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)
+#Title: A House of Cards - Part 1
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)
 
 
 **TL;DR- The DTC has been taken over by big money. They transitioned from a manual to  a computerized ledger system in the 80s, and it played a significant role in the 1987 market crash. In 2003, several issuers with the DTC wanted to remove their securities from the DTC's deposit account because the DTC's participants were naked short selling their securities. Turns out, they were right. The DTC and it's participants have created a market-sized naked short selling scheme. All of this is made possible by the DTC's enrollee- Cede & Co.**
@@ -54,7 +55,7 @@ One year later they adopted [NYSE Rule 387](https://www.finra.org/rules-guidance
 
 If you're wondering where the birthplace of High Frequency Trading (HFT) came from, look no further. The same machines that automated the exhaustively manual reconciliation process were also to blame for amplifying the fire sale of 1987.
 
-[https:\/\/historynewsnetwork.org\/article\/895](https://preview.redd.it/3l08f1ud6bu61.png?width=810&format=png&auto=webp&s=2331f409fb4f60b3d62e475c58cf44211b4122a3)
+![https:\/\/historynewsnetwork.org\/article\/895](https://preview.redd.it/3l08f1ud6bu61.png?width=810&format=png&auto=webp&s=2331f409fb4f60b3d62e475c58cf44211b4122a3)
 
 The last sentence indicates a much more pervasive issue was at play, here. The fact that we still have trouble explaining the calculus is even more alarming. The effects were so pervasive that it was dubbed the [1st global financial crisis](https://www.federalreservehistory.org/essays/stock-market-crash-of-1987)
 
@@ -100,11 +101,11 @@ Everything was relatively calm after the crash of 1987.... until we hit 2003..
 
 The DTC started receiving several requests from issuers to pull their securities from the DTC's depository. I don't think the DTC was prepared for this because they didn't have a written policy to address it, let alone an official rule. Here's the half-assed response from the DTC:
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm \(section II\)](https://preview.redd.it/1ctpj263zdu61.png?width=788&format=png&auto=webp&s=6ff2e2d543f53a6ece6d95c334ed995fe67f9c8d)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm \(section II\)](https://preview.redd.it/1ctpj263zdu61.png?width=788&format=png&auto=webp&s=6ff2e2d543f53a6ece6d95c334ed995fe67f9c8d)
 
 Realizing this situation was heating up, the DTC proposed [SR-DTC-2003-02](https://www.sec.gov/rules/sro/34-47978.htm#P19_6635)..
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/io22id3n7eu61.png?width=774&format=png&auto=webp&s=424ef5b6a70d073c62a47f6a1b82cd739b527b88)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/io22id3n7eu61.png?width=774&format=png&auto=webp&s=424ef5b6a70d073c62a47f6a1b82cd739b527b88)
 
 Honestly, they were better of WITHOUT the new proposal.
 
@@ -116,11 +117,11 @@ It became an even BIGGER deal when word got about the proposed rule change. Natu
 
 As outlined in the DTC's opening remarks:
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/eq9q8mcubeu61.png?width=1028&format=png&auto=webp&s=eee6231336e398b0d53299a2a7639fdfd333af8c)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/eq9q8mcubeu61.png?width=1028&format=png&auto=webp&s=eee6231336e398b0d53299a2a7639fdfd333af8c)
 
 *OK... see footnote 4.....*
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/v884rfqwbeu61.png?width=1053&format=png&auto=webp&s=6fe5db76c9c6fd5e596bbe3c3c64bc6feb64fd97)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635](https://preview.redd.it/v884rfqwbeu61.png?width=1053&format=png&auto=webp&s=6fe5db76c9c6fd5e596bbe3c3c64bc6feb64fd97)
 
 **UHHHHHHH WHAT!??!** Yeah! I'd be pretty pissed, too! Have my shares deposited in a clearing company to take advantage of their computerized trades just to get kicked to the curb with NO WAY of getting my securities back... AND THEN find out that the big-d\*ck "participants" at your fancy DTC party are literally short selling my shares without me knowing....?!
 
@@ -132,7 +133,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-89.pdf](https://preview.redd.it/ds068omndeu61.png?width=894&format=png&auto=webp&s=7958cbf3fde10e1bbb81c6adeb87f2bfc5dc8fde)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-89.pdf](https://preview.redd.it/ds068omndeu61.png?width=894&format=png&auto=webp&s=7958cbf3fde10e1bbb81c6adeb87f2bfc5dc8fde)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -142,7 +143,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/rsrondeau052003.txt](https://preview.redd.it/953v7l47feu61.png?width=884&format=png&auto=webp&s=83c2d1998b3c111da7cb31b183b83c62abbe353b)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/rsrondeau052003.txt](https://preview.redd.it/953v7l47feu61.png?width=884&format=png&auto=webp&s=83c2d1998b3c111da7cb31b183b83c62abbe353b)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -152,7 +153,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/msondow040403.txt](https://preview.redd.it/pkifz41sqeu61.png?width=804&format=png&auto=webp&s=733a219050239012a2b6b29c1985bdbd1df60303)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/msondow040403.txt](https://preview.redd.it/pkifz41sqeu61.png?width=804&format=png&auto=webp&s=733a219050239012a2b6b29c1985bdbd1df60303)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -160,7 +161,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 *All of the comments I checked were participants and classified as market makers and other major financial institutions... go f\*cking figure.*
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-82.pdf](https://preview.redd.it/myk7675zseu61.png?width=617&format=png&auto=webp&s=94c622511fc3392bacca6f1c34375920612bc9bb)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-82.pdf](https://preview.redd.it/myk7675zseu61.png?width=617&format=png&auto=webp&s=94c622511fc3392bacca6f1c34375920612bc9bb)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -170,7 +171,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-81.pdf](https://preview.redd.it/ouwx18qmteu61.png?width=692&format=png&auto=webp&s=39dcaabcc228e60ba5e472353285aa330c13ea0a)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/srdtc200302-81.pdf](https://preview.redd.it/ouwx18qmteu61.png?width=692&format=png&auto=webp&s=39dcaabcc228e60ba5e472353285aa330c13ea0a)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -180,7 +181,7 @@ The DTC asked for feedback from all issuers and participants to gather a consens
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/rbcdain042303.pdf](https://preview.redd.it/xpzt606pueu61.png?width=600&format=png&auto=webp&s=79685c694f661b9c7d03093a8908eebe6cad421e)
+![https:\/\/www.sec.gov\/rules\/sro\/dtc200302\/rbcdain042303.pdf](https://preview.redd.it/xpzt606pueu61.png?width=600&format=png&auto=webp&s=79685c694f661b9c7d03093a8908eebe6cad421e)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -215,7 +216,7 @@ Several comment letters asked the DTC to investigate the claims of naked shortin
 
 NOW, wanna know the WORST part?
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P99\_35478](https://preview.redd.it/q6jk7as8rfu61.png?width=1057&format=png&auto=webp&s=c66aac021818993e6c23bb7fe96382de8cc9fe7e)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P99\_35478](https://preview.redd.it/q6jk7as8rfu61.png?width=1057&format=png&auto=webp&s=c66aac021818993e6c23bb7fe96382de8cc9fe7e)
 
 The DTC passed that rule change....
 
@@ -239,13 +240,13 @@ It was critically important for me to paint that background.
 
 Remember when I mentioned the DTC's enrollee- Cede & Co.?
 
-[https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635 \(section II\)](https://preview.redd.it/97z3b2k9pju61.png?width=283&format=png&auto=webp&s=67ad209f338a0ccebfaee09cd43944730ac35279)
+![https:\/\/www.sec.gov\/rules\/sro\/34-47978.htm#P19\_6635 \(section II\)](https://preview.redd.it/97z3b2k9pju61.png?width=283&format=png&auto=webp&s=67ad209f338a0ccebfaee09cd43944730ac35279)
 
 I'll admit it: I didn't think they were that relevant. I focused so much on the DTC that I didn't think to check into their enrollee...
 
 ..Wish I did....
 
-[https:\/\/www.americanbanker.com\/news\/you-dont-really-own-your-securities-can-blockchains-fix-that](https://preview.redd.it/oqpj59jypju61.png?width=830&format=png&auto=webp&s=a7de5c100699c85132b531b501b79a8bafcdfa18)
+![https:\/\/www.americanbanker.com\/news\/you-dont-really-own-your-securities-can-blockchains-fix-that](https://preview.redd.it/oqpj59jypju61.png?width=830&format=png&auto=webp&s=a7de5c100699c85132b531b501b79a8bafcdfa18)
 
 That's right.... Cede & Co. hold a "master certificate" in their vault, which **NEVER** leaves. Instead, they issue an *IOU* for that master certificate..
 
@@ -255,9 +256,9 @@ Didn't we JUST finish talking about why this is such a major flaw in our system.
 
 **Here comes the mind f\*ck**
 
-[https:\/\/smithonstocks.com\/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks\/](https://preview.redd.it/o4xemx63rju61.png?width=1117&format=png&auto=webp&s=26f60bceb160cefcd95b0d55d2b375f4058981e2)
+![https:\/\/smithonstocks.com\/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks\/](https://preview.redd.it/o4xemx63rju61.png?width=1117&format=png&auto=webp&s=26f60bceb160cefcd95b0d55d2b375f4058981e2)
 
-[https:\/\/smithonstocks.com\/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks\/](https://preview.redd.it/1yfr9x0arju61.png?width=1109&format=png&auto=webp&s=066cac93b0c8fb05e617c81e9fc63eeacb847d4f)
+![https:\/\/smithonstocks.com\/part-8-illegal-naked-shorting-series-who-or-what-is-cede-and-what-role-does-cede-play-in-the-trading-of-stocks\/](https://preview.redd.it/1yfr9x0arju61.png?width=1109&format=png&auto=webp&s=066cac93b0c8fb05e617c81e9fc63eeacb847d4f)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -265,7 +266,7 @@ Now.....
 
 You wanna know the BEST part???
 
-*I found a list of all the DTC* ![*participants*](https://www.dtcc.com/-/media/Files/Downloads/client-center/DTC/alpha.pdf) *that are responsible for this mess..*
+*I found a list of all the DTC* [*participants*](https://www.dtcc.com/-/media/Files/Downloads/client-center/DTC/alpha.pdf) *that are responsible for this mess..*
 
 **I've got your name, number, and I'm coming for you-** ***ALL OF YOU***
 

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oc6lop/the_daily_stonk_07022021/](https://www.reddit.com/r/Superstonk/comments/oc6lop/the_daily_stonk_07022021/)
+#Title: The Daily Stonk 07-02-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oc6lop/the_daily_stonk_07022021/](https://www.reddit.com/r/Superstonk/comments/oc6lop/the_daily_stonk_07022021/)
 
 
 &#x200B;
@@ -28,7 +29,7 @@ https://preview.redd.it/02x2wp5ilr871.png?width=685&format=png&auto=webp&s=61072
 
 &#x200B;
 
-[credit to  u\/ChemicalFist ](https://preview.redd.it/dpfzd8n1qr871.png?width=1200&format=png&auto=webp&s=a30b00c91c2d1428b9baf6e1f2829ca2e680c576)
+![credit to  u\/ChemicalFist ](https://preview.redd.it/dpfzd8n1qr871.png?width=1200&format=png&auto=webp&s=a30b00c91c2d1428b9baf6e1f2829ca2e680c576)
 
 # Gamestop changes logo
 
@@ -52,7 +53,7 @@ Letsgo!
 
 &#x200B;
 
-[credit to u\/apatisda ](https://preview.redd.it/1whn7o05qr871.png?width=700&format=png&auto=webp&s=35f13f644004c031cfe756297a3bd5ed7ba9d602)
+![credit to u\/apatisda ](https://preview.redd.it/1whn7o05qr871.png?width=700&format=png&auto=webp&s=35f13f644004c031cfe756297a3bd5ed7ba9d602)
 
 # Vlad the stock impaler is in trouble.
 
@@ -78,7 +79,7 @@ And with their IPO documents more came out, like how Citadel owns 1/3rd of them.
 
 &#x200B;
 
-[source: Zerohedge](https://preview.redd.it/wjzw3pa0or871.png?width=1130&format=png&auto=webp&s=5a8c5d2a11de42a228df375bb3985f6a90e7cefa)
+![source: Zerohedge](https://preview.redd.it/wjzw3pa0or871.png?width=1130&format=png&auto=webp&s=5a8c5d2a11de42a228df375bb3985f6a90e7cefa)
 
 &#x200B;
 
@@ -106,7 +107,7 @@ But wait the main underwriters for Robinhoods IPO are Goldman, JP morgan, Barcla
 
 &#x200B;
 
-[credit to  u\/Christothetee ](https://preview.redd.it/ntktmyxbqr871.png?width=1188&format=png&auto=webp&s=34c0ed8793375ab12cc531a2016bf53d3c8c8b3c)
+![credit to  u\/Christothetee ](https://preview.redd.it/ntktmyxbqr871.png?width=1188&format=png&auto=webp&s=34c0ed8793375ab12cc531a2016bf53d3c8c8b3c)
 
 # After hour spikes
 
@@ -170,6 +171,6 @@ Edit 1:
 
 &#x200B;
 
-![https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg](https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg)
+[https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg](https://www.youtube.com/channel/UCKrIi5L8o5JFdjR1UlwLidg)
 
 This is a live stream of $GME on Bookmap trading application that measures liquidity in the market.  The green triangles (Calls) and red triangles (Puts) are live options trades with the contract size in the center. The bottom line indicator in green (HIRO Cumulative) is an accumulation of those options as a hedging pressure. An upward trend on the green line when it crosses the red is a (Bullish) signal as HFs have to short stock, buy futures, or use options to hedge the line to flatten out representing delta neutral. The green and red lines are live buy's and sells coming in between the candle sticks which allow us to see double bottoms or topping patterns. ​Lastly, you can see order book flow on the right when strong buying is coming in and volume at the top right and bottom of each candle. 

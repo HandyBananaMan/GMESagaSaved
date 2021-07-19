@@ -1,5 +1,6 @@
-# Author: thr0wthis4ccount4way
-# Post URL: [https://www.reddit.com/r/GME/comments/msgp0z/im_stepping_down_as_moderator_more/](https://www.reddit.com/r/GME/comments/msgp0z/im_stepping_down_as_moderator_more/)
+#Title: I'm Stepping Down As Moderator & More
+#Author: thr0wthis4ccount4way
+#Post URL: [https://www.reddit.com/r/GME/comments/msgp0z/im_stepping_down_as_moderator_more/](https://www.reddit.com/r/GME/comments/msgp0z/im_stepping_down_as_moderator_more/)
 
 
 I joined GME in January like most of us after WSB's overnight coup and crypto scam surfaced while being infiltrated with unmoderated shills. I had a lot of time on my hands back then before the baby was born - I was hunting down & reading every single piece of DD related to GME, but everything I read was going out the window when shill waves pushed FUD. I never sold but noticed how panic creeps in and I forget all that knowledge. So I started collecting everything that I read to not forget what I learned when FUD kicks in and balance the pros vs the cons during panic. It made a huge difference to my morale on bad days, to the point that I could easily manage to clear the minds of those that were falling for FUD and panicking.

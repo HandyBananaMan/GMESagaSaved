@@ -1,5 +1,6 @@
-# Author: kiki_YH_KOR
-# Post URL: [https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/](https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/)
+#Title: (Daily Discussion) Robinhood, Citadel, And,, DARKPOOL. Not financial advice!
+#Author: kiki_YH_KOR
+#Post URL: [https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/](https://www.reddit.com/r/GME/comments/mcqmkc/daily_discussion_robinhood_citadel_and_darkpool/)
 
 
 Hello, I’m korean ape. from South korea. 🚀🚀🚀🚀🚀🚀 (I'm not a financial advisor)
@@ -10,7 +11,7 @@ its awesome to meet you!
 
 \->   I heard that the morning data is about otc, not darkpool. This is just one hypothesis. 
 
-(link: ![https://otctransparency.finra.org/otctransparency/Agreement](https://otctransparency.finra.org/otctransparency/Agreement))
+(link: [https://otctransparency.finra.org/otctransparency/Agreement](https://otctransparency.finra.org/otctransparency/Agreement))
 
 Before read, I can be not smart and not accurate.
 

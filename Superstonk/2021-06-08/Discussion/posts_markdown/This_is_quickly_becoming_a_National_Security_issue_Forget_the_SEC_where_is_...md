@@ -1,5 +1,6 @@
-# Author: Ok_Entrepreneur_5833
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/](https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/)
+#Title: 🚨This is quickly becoming a National Security issue. Forget the SEC where is DHS?🚨
+#Author: Ok_Entrepreneur_5833
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/](https://www.reddit.com/r/Superstonk/comments/nv9c1p/this_is_quickly_becoming_a_national_security/)
 
 
 These economic terrorists at Citadel and Susquehanna have shown quite clearly that they will stop at nothing short of disrupting our communications platforms in order to prevent themselves from losing money while gambling on the stock market.
@@ -24,7 +25,7 @@ Look, in 2015 China kicked Citadel out of their country for shady activities rev
 
 "In addition to Citadel Securities and the four domestic investment firms, three local brokerages that facilitated the trades for Citadel Securities were fined an additional 416 million yuan ($60 million) for **margin financing violations and short selling**. The CSRC later cleared the brokerages but issued fines totaling 15.2 million yuan ($2.1 million) on four domestic firms involved in the probe. 
 
-The $97 million settlement for Citadel Securities is “more than 40 times the combined” fee paid by domestic firms implicated in the probe, according to the FT, and four times the ![$22 million settlement](https://www.bloomberg.com/news/articles/2019-04-24/goldman-agrees-to-22-million-settlement-with-china-regulator) Goldman Sachs paid for similar 2015 trading infractions."
+The $97 million settlement for Citadel Securities is “more than 40 times the combined” fee paid by domestic firms implicated in the probe, according to the FT, and four times the [$22 million settlement](https://www.bloomberg.com/news/articles/2019-04-24/goldman-agrees-to-22-million-settlement-with-china-regulator) Goldman Sachs paid for similar 2015 trading infractions."
 
 They were kicked out of fricking CHINA for being too corrupt!  Think about that and let it sink in.
 

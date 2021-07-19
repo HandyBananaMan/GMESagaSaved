@@ -1,5 +1,6 @@
-# Author: Freadom6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/](https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/)
+#Title: Calls/Puts Confirmed As Unreported Synthetic Short Shares - FINRA; Unsuccessful Attempt by MM/HF to Death Spiral GME Shows Correlation to Margin Debt
+#Author: Freadom6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/](https://www.reddit.com/r/Superstonk/comments/oh09v7/callsputs_confirmed_as_unreported_synthetic_short/)
 
 
 Obligatory: Not financial advice. I am merely pointing out some items I have stumbled across during my late nights reading regulatory documents. Much of what I will discuss is my speculative opinion on information I am reading and using deductive reasoning to put this information together.
@@ -40,7 +41,7 @@ But what would happen if a company so severely shorted reimagined itself, found 
 
 &#x200B;
 
-[Margin Debt 1997 - Current \(Source: FINRA\)](https://preview.redd.it/6zyntbass7a71.jpg?width=558&format=pjpg&auto=webp&s=1ccb5a9307aeab561438a541af100e8794207275)
+![Margin Debt 1997 - Current \(Source: FINRA\)](https://preview.redd.it/6zyntbass7a71.jpg?width=558&format=pjpg&auto=webp&s=1ccb5a9307aeab561438a541af100e8794207275)
 
 ![S&P Share Price 1997 - May 2021 \(Source: https:\/\/www.multpl.com\/s-p-500-historical-prices\/table\/by-month\)](https://preview.redd.it/1j6w8gf4t7a71.jpg?width=555&format=pjpg&auto=webp&s=30ecc48bbca580af33be9fb090e09cf92323f5b4)
 

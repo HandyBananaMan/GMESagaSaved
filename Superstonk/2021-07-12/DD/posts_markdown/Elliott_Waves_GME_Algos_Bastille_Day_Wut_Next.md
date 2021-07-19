@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/](https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/)
+#Title: Elliott Waves, GME, Algos, Bastille Day, Wut Next?
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/](https://www.reddit.com/r/Superstonk/comments/oj56f6/elliott_waves_gme_algos_bastille_day_wut_next/)
 
 
 Sup apes
@@ -8,7 +9,7 @@ Not financial advice.
 
 &#x200B;
 
-[you know this](https://preview.redd.it/clodo6u3jva71.png?width=1280&format=png&auto=webp&s=57ca6a86449f83d1e6c7cccca430b275361ed4d8)
+![you know this](https://preview.redd.it/clodo6u3jva71.png?width=1280&format=png&auto=webp&s=57ca6a86449f83d1e6c7cccca430b275361ed4d8)
 
 What an exciting week we have ahead of us!
 
@@ -24,11 +25,11 @@ To those that say EW is gibberish, I can understand that argument, but it is a c
 
 Primary:
 
-[30m](https://preview.redd.it/gdbsr3e9kva71.png?width=2244&format=png&auto=webp&s=6a2074cae0f2ef5806823f8a7755876366c39c8f)
+![30m](https://preview.redd.it/gdbsr3e9kva71.png?width=2244&format=png&auto=webp&s=6a2074cae0f2ef5806823f8a7755876366c39c8f)
 
 alt:
 
-[30m](https://preview.redd.it/lskxf1kzjva71.png?width=1142&format=png&auto=webp&s=25291cf8ffcc0b4af80bc78e528187cdefef261c)
+![30m](https://preview.redd.it/lskxf1kzjva71.png?width=1142&format=png&auto=webp&s=25291cf8ffcc0b4af80bc78e528187cdefef261c)
 
 obviously, these are intraday counts, so they don't matter much. I'm gonna go over the primary first. I see the move from our low of 177 to our high of 194.2 as a wave 1. What followed is a correction different than your typical zig zag abc. What appears to have happened is a regular **flat correction.** in essence, a flat correction is when you a and c wave hit the same level (double bottom in technical trader speak) and you b wave hits the same high as wave 1.
 
@@ -36,7 +37,7 @@ Visualized below are the 3 types of flat corrections:
 
 &#x200B;
 
-[flats](https://preview.redd.it/7twddxfrkva71.png?width=1024&format=png&auto=webp&s=084ce5dbdda547ee6adb11cca9b39cc1f01919f8)
+![flats](https://preview.redd.it/7twddxfrkva71.png?width=1024&format=png&auto=webp&s=084ce5dbdda547ee6adb11cca9b39cc1f01919f8)
 
 Pay attention to this visual as I will circle back to it in regards to my alt count.
 
@@ -54,7 +55,7 @@ This count cannot be a running flat, (a and c are 1:1, b breaks above 1) as toda
 
 &#x200B;
 
-[invalidated running flat ](https://preview.redd.it/26mhji48nva71.png?width=2240&format=png&auto=webp&s=a8640f262dc99cfbd95bf72a852966faa26fe3d7)
+![invalidated running flat ](https://preview.redd.it/26mhji48nva71.png?width=2240&format=png&auto=webp&s=a8640f262dc99cfbd95bf72a852966faa26fe3d7)
 
 That being said, the possible end targets for our expanded flat going into tomorrow are the fib levels you see above. For your convenience, the levels are 183.81, 182.18, and 179,54. The highest is the most likely but we can't rule out lower targets. The structure is valid if any of them hit.
 
@@ -68,13 +69,13 @@ Dumbed down for your viewing pleasure:
 
 &#x200B;
 
-[daily](https://preview.redd.it/y44yj4bznva71.png?width=1784&format=png&auto=webp&s=543073510e800affdc0ec3c8b860143cfed08c0f)
+![daily](https://preview.redd.it/y44yj4bznva71.png?width=1784&format=png&auto=webp&s=543073510e800affdc0ec3c8b860143cfed08c0f)
 
 Targets remain the same. This cycle is targeting a minimum high of 405.32, though any of the targets above are possibilities. We simply don't know yet, though as the move progresses we can re assess the general strength of the move and have more precise end wave 3 targets.
 
 Just go get you mega jacked, if shit gets crazy and we see a hyperextension (4.236:1), that level comes out to...
 
-[nice. ](https://preview.redd.it/inrvasycova71.png?width=1788&format=png&auto=webp&s=945e168860af9e4013c646751537449bf4d2f62c)
+![nice. ](https://preview.redd.it/inrvasycova71.png?width=1788&format=png&auto=webp&s=945e168860af9e4013c646751537449bf4d2f62c)
 
 Pre squeeze, keep in mind.
 
@@ -82,7 +83,7 @@ Just to confirm your bias even more, I saw a post by a user from fidelity, showi
 
 &#x200B;
 
-[DD confirmed!!!!!](https://preview.redd.it/crgaovb2pva71.png?width=828&format=png&auto=webp&s=d7c38daf03a87b14e852118d31c083786c0b910a)
+![DD confirmed!!!!!](https://preview.redd.it/crgaovb2pva71.png?width=828&format=png&auto=webp&s=d7c38daf03a87b14e852118d31c083786c0b910a)
 
 To everyone that says ew is nonsense, fidelity disagrees 😎
 
@@ -104,19 +105,19 @@ looking at feb-march run, i took fibs to measure how deep wave 2 retraced after 
 
 &#x200B;
 
-[23.15&#37; off of .786](https://preview.redd.it/r2csr04erva71.png?width=2370&format=png&auto=webp&s=c79e488f25f1fc299c5562bad90d14a0d6568b20)
+![23.15&#37; off of .786](https://preview.redd.it/r2csr04erva71.png?width=2370&format=png&auto=webp&s=c79e488f25f1fc299c5562bad90d14a0d6568b20)
 
 In the recent run, illustrated below, if the bottom comes out to 177, this is **29.69%** off of the .786 target
 
 &#x200B;
 
-[29.69&#37; \(nice\) off of .786](https://preview.redd.it/uhp0ak3hrva71.png?width=1954&format=png&auto=webp&s=b2e29c112153a0198931c1ea05b109de663489a0)
+![29.69&#37; \(nice\) off of .786](https://preview.redd.it/uhp0ak3hrva71.png?width=1954&format=png&auto=webp&s=b2e29c112153a0198931c1ea05b109de663489a0)
 
 Take from this what you will, not sure this constitutes statistical significance but still an interesting find when comparing the cycles to each other.
 
 WEN MOON? whenever we get a catalyst that forces closure of short positions. My money is on a dividend, as to when that gets **announced and distributed** is anyone's guess. If 7/14 passes and nothing changes, the only thing that changes with me is my share count, as I will buy more.
 
-As always, if you like intraday analysis I post on my [twitter](https://twitter.com/gavinmayreal) all day, and I did a ![video breakdown](https://www.youtube.com/watch?v=3n5g_B1WXMY&t=560s) of SPY and GME yesterday if anyone is interested in seeing how to apply ew step by step.
+As always, if you like intraday analysis I post on my [twitter](https://twitter.com/gavinmayreal) all day, and I did a [video breakdown](https://www.youtube.com/watch?v=3n5g_B1WXMY&t=560s) of SPY and GME yesterday if anyone is interested in seeing how to apply ew step by step.
 
 Thanks for reading! I'm Jacked as shit and I'm gonna go get high af and stare at fib levels, my definition of a great Monday night.
 

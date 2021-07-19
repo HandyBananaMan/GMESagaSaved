@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/](https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/)
+#Title: 04/02/2021 - THE DAILY FUD REPORT FROM THE FUD PATROL - Today's FUD, the positive media narrative and why all may not be as it seems!
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/](https://www.reddit.com/r/GME/comments/miiuy3/04022021_the_daily_fud_report_from_the_fud_patrol/)
 
 
 *This post was previously removed for breaking sub rules. It has been amended and the previous post deleted. I apologise for doing so and aim to be more vigilant in the future.*
@@ -38,7 +39,7 @@ But I know some of you apes are here lurking, looking for that sweet sweet necta
 
 &#x200B;
 
-[Let's just put this one in our calendars.](https://preview.redd.it/0uveedv8yqq61.png?width=300&format=png&auto=webp&s=1bf519f624841737cda5cc0c3829ef4e00de1d90)
+![Let's just put this one in our calendars.](https://preview.redd.it/0uveedv8yqq61.png?width=300&format=png&auto=webp&s=1bf519f624841737cda5cc0c3829ef4e00de1d90)
 
 &#x200B;
 
@@ -74,7 +75,7 @@ But I know some of you apes are here lurking, looking for that sweet sweet necta
 
 &#x200B;
 
-[I just typed \\"breakdown\\" into google and this was first image, I swear](https://preview.redd.it/vou6h7rkyqq61.png?width=220&format=png&auto=webp&s=73205061408d28cc49dc19393feb39bdabc3bbe0)
+![I just typed \\"breakdown\\" into google and this was first image, I swear](https://preview.redd.it/vou6h7rkyqq61.png?width=220&format=png&auto=webp&s=73205061408d28cc49dc19393feb39bdabc3bbe0)
 
 &#x200B;
 
@@ -88,7 +89,7 @@ But I know some of you apes are here lurking, looking for that sweet sweet necta
 
 # 1. The media are protecting themselves (possible)
 
-I'll keep this short. This is one is obvious. The media have access to exactly the same DD on ![r/GME](https://www.reddit.com/r/GME/) that we do and in fact, they possibly have just a little more info.
+I'll keep this short. This is one is obvious. The media have access to exactly the same DD on [r/GME](https://www.reddit.com/r/GME/) that we do and in fact, they possibly have just a little more info.
 
 They (like us) know the market is going to crash harder than the Wall St. pavement and one of the few stocks to come out alive positively afterwards, will be GME.
 
@@ -139,13 +140,13 @@ The overriding motive is to talk truthfully about current events to **gain trust
 
 &#x200B;
 
-['tHeY MuSt bE TeLLiNG tHe TrUth'](https://preview.redd.it/0ecy85u21rq61.png?width=3880&format=png&auto=webp&s=603b4e3212d946ee22c4ba5018a172ac82b9b374)
+!['tHeY MuSt bE TeLLiNG tHe TrUth'](https://preview.redd.it/0ecy85u21rq61.png?width=3880&format=png&auto=webp&s=603b4e3212d946ee22c4ba5018a172ac82b9b374)
 
 &#x200B;
 
 **This balanced narrative is usually an act. The whole media is an act (but let's stay focused).**
 
-**So when your mother, father, caretaker, zookeeper, friends** ***(that aren't on*** ![r/GME](https://www.reddit.com/r/GME/)) **or anyone else for that matter, shows you that everyone is now bullish about GME, show them why! BUT TELL THEM TO BEWARE OF THE POSSIBLE SHILLING THAT MAY FOLLOW.**
+**So when your mother, father, caretaker, zookeeper, friends** ***(that aren't on*** [r/GME](https://www.reddit.com/r/GME/)) **or anyone else for that matter, shows you that everyone is now bullish about GME, show them why! BUT TELL THEM TO BEWARE OF THE POSSIBLE SHILLING THAT MAY FOLLOW.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -1,5 +1,6 @@
-# Author: C2theC
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nn370o/why_i_am_ecstatic_gme_is_taking_a_dump_and_the/](https://www.reddit.com/r/Superstonk/comments/nn370o/why_i_am_ecstatic_gme_is_taking_a_dump_and_the/)
+#Title: Why I am Ecstatic GME is Taking a Dump, and the Possible Correlation with AMC and Crypto
+#Author: C2theC
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nn370o/why_i_am_ecstatic_gme_is_taking_a_dump_and_the/](https://www.reddit.com/r/Superstonk/comments/nn370o/why_i_am_ecstatic_gme_is_taking_a_dump_and_the/)
 
 
 Apes, lend me your ears.

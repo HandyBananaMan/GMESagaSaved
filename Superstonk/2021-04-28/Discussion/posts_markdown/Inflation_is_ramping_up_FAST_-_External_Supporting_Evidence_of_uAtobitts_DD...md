@@ -1,5 +1,6 @@
-# Author: ThatGuySizemore
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0gai4/inflation_is_ramping_up_fast_external_supporting/](https://www.reddit.com/r/Superstonk/comments/n0gai4/inflation_is_ramping_up_fast_external_supporting/)
+#Title: Inflation is ramping up FAST - External Supporting Evidence of u/Atobitt’s DDs
+#Author: ThatGuySizemore
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0gai4/inflation_is_ramping_up_fast_external_supporting/](https://www.reddit.com/r/Superstonk/comments/n0gai4/inflation_is_ramping_up_fast_external_supporting/)
 
 
 I work for a medium-sized Software Company as a manager in the Technical Support department. I specifically work with software in the distribution unit. Today, we had our monthly division update meeting, which is usually just information on financials, stats, and some industry trends. Casually, they slipped in some information on a huge trend:

@@ -1,5 +1,6 @@
-# Author: RobinGoods
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5z8vc/working_theory_the_shf_white_square_that_just/](https://www.reddit.com/r/Superstonk/comments/o5z8vc/working_theory_the_shf_white_square_that_just/)
+#Title: Working Theory: The SHF (White Square) that just went bust is a burner Hedge Fund (and has over 7% of GME float)
+#Author: RobinGoods
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5z8vc/working_theory_the_shf_white_square_that_just/](https://www.reddit.com/r/Superstonk/comments/o5z8vc/working_theory_the_shf_white_square_that_just/)
 
 
 None of this is my original findings just not seeing much on this sub about White Square that closed down from taking double digit losses from GME. 

@@ -1,8 +1,9 @@
-# Author: thr0wthis4ccount4way
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/)
+#Title: The Ape's Guide to the Galaxy - A Compilation of DDs, News, Announcements, Alerts, Tools & Resources
+#Author: thr0wthis4ccount4way
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/](https://www.reddit.com/r/DDintoGME/comments/mnss65/the_apes_guide_to_the_galaxy_a_compilation_of_dds/)
 
 
-[thr0w's recommended reading list](https://preview.redd.it/ecwfkdsmntt61.png?width=1600&format=png&auto=webp&s=7a0d663f1ee82a38fe435b6576b2997b2f919ad3)
+![thr0w's recommended reading list](https://preview.redd.it/ecwfkdsmntt61.png?width=1600&format=png&auto=webp&s=7a0d663f1ee82a38fe435b6576b2997b2f919ad3)
 
 # Important Links
 
@@ -185,4 +186,4 @@ Short-Sellers:
 *Market Crash / Economic Crisis*
 
 * [So much is going on that it might all be connected and a crash may be on the horizon](https://www.reddit.com/r/Superstonk/comments/mvj8fz/where_there_is_smoke_there_is_fire/)
-* ![Indications of market crash related to GME](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)
+* [Indications of market crash related to GME](https://www.reddit.com/r/Superstonk/comments/mvaaa7/reposting_gme_and_the_market_crash/)

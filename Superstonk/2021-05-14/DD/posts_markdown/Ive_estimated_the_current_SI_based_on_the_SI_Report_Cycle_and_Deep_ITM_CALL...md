@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/)
+#Title: I've estimated the current SI% based on the SI Report Cycle and Deep ITM CALL purchases.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/)
 
 
 # 0. Preface
@@ -30,11 +31,11 @@ I've posted a few DDs in the past, and have basically come to the conclusion of 
    * **ITM CALLs = Used by shorters to filter synthetic shares through and satisfy FTDs**. These purchases occur a lot when FTDs pile up. I believe that they continue to use this in conjunction with Citadel in order to fulfil FTDs because there is no liquidity. These options have an effect on price because they are immediately exercised so that the shares can be delivered. **Supporting Data: Figure 3, ITM Call Volumes Versus FTDs. Deep ITM CALL volume skyrockets when FTDs increase**.
 * And my most important finding: **shorts r fuk**
 
-[Figure 1: PUT OI Versus SI&#37;](https://preview.redd.it/bz6rqprd70z61.png?width=1848&format=png&auto=webp&s=6af2d251b49b225cfc94a8b8ecdfbda05b371e87)
+![Figure 1: PUT OI Versus SI&#37;](https://preview.redd.it/bz6rqprd70z61.png?width=1848&format=png&auto=webp&s=6af2d251b49b225cfc94a8b8ecdfbda05b371e87)
 
-[Figure 2: PUT OI For Options, March 9 to March 11](https://preview.redd.it/br8zshfy70z61.png?width=792&format=png&auto=webp&s=17a336296450a063c9d656891fc0ce95cc74ab56)
+![Figure 2: PUT OI For Options, March 9 to March 11](https://preview.redd.it/br8zshfy70z61.png?width=792&format=png&auto=webp&s=17a336296450a063c9d656891fc0ce95cc74ab56)
 
-[Figure 3: ITM Call Volumes Versus FTDs](https://preview.redd.it/8haclqqp80z61.png?width=1894&format=png&auto=webp&s=ea99b5a40cd13293e51f68e9a99e3a15e70a5196)
+![Figure 3: ITM Call Volumes Versus FTDs](https://preview.redd.it/8haclqqp80z61.png?width=1894&format=png&auto=webp&s=ea99b5a40cd13293e51f68e9a99e3a15e70a5196)
 
 # 1. There Are No Shares Left. Every Share Being Bought Is Synthetic
 
@@ -76,7 +77,7 @@ So we can say that between each Settlement Date is a loop where they'll have new
 
 And what exactly goes on between each loop? Let me bring up my handy-dandy chart again before continuing. I've plotted the Settlement Dates here and boxed volatility moments. You'll see that **there is ALWAYS a volatile move up and a volatile move down between these dates**.
 
-[Figure 4: SI Report Loop And Volatility](https://preview.redd.it/il7rvu09d0z61.png?width=1423&format=png&auto=webp&s=e80d44e1b085ef132070f37c5cc45171519ca58e)
+![Figure 4: SI Report Loop And Volatility](https://preview.redd.it/il7rvu09d0z61.png?width=1423&format=png&auto=webp&s=e80d44e1b085ef132070f37c5cc45171519ca58e)
 
 Here's what I am assuming happens:
 

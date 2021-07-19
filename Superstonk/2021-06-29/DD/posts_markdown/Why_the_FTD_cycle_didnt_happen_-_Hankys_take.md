@@ -1,10 +1,11 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/](https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/)
+#Title: Why the FTD cycle didn't happen - Hanky's take
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/](https://www.reddit.com/r/Superstonk/comments/oailkx/why_the_ftd_cycle_didnt_happen_hankys_take/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***
 
-Greetings apes, it's been a while. I've been a busy autist and have taken a break from DDs, so I'm sorry for my absence. I'm not sure when the next time I'll be posting another big DD is, but I am still lurking, commenting, and keeping up to date, so it'll happen. Today's post is a mini DD that inspired by a message from an ape. An ape by the name of ![u/emu\_fake](https://www.reddit.com/u/emu_fake/) messaged me and asked what I thought about the ATM offering that GME did right after earnings having an effect on the FTD cycle. Well, here are my thoughts on it.
+Greetings apes, it's been a while. I've been a busy autist and have taken a break from DDs, so I'm sorry for my absence. I'm not sure when the next time I'll be posting another big DD is, but I am still lurking, commenting, and keeping up to date, so it'll happen. Today's post is a mini DD that inspired by a message from an ape. An ape by the name of [u/emu\_fake](https://www.reddit.com/u/emu_fake/) messaged me and asked what I thought about the ATM offering that GME did right after earnings having an effect on the FTD cycle. Well, here are my thoughts on it.
 
 As well all know, the FTD cycle happens every 35 calendar days which comes out to about every 21 trading days. The idea is that because this is the latest possible day that a HF might have to cover, they do it at the very last minute. We have seen a substantial positive volume and price increase consistently for months now. However, we didn't see one on 6/24, which was supposed to be an FTD cycle day as well. At first, when I heard what this ape had to say, I didn't think much of it.... until I remembered another day: 4/26. This was also an FTD cycle date but many of us have noted that it could barely be considered an FTD cycle day because it's volume and price increase were not that substantial. Guess what GME did right before that date? That's right, a share offering. They announced this offering as being complete on 4/26 (so they actually sold it before then). That offering was for 3.5m shares, which is 30% fewer than this most recent offering.
 

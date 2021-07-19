@@ -1,5 +1,6 @@
-# Author: puppetjustice
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mlle06/new_fud_wave_how_we_all_hodl_for_the_highest/](https://www.reddit.com/r/Superstonk/comments/mlle06/new_fud_wave_how_we_all_hodl_for_the_highest/)
+#Title: NEW FUD WAVE. How we all hodl for the highest price DD. Please read and spread for fellow Apes. Shills using new tactics to reduce floor limit.I welcome the shill downvotes as they try to hide this.
+#Author: puppetjustice
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mlle06/new_fud_wave_how_we_all_hodl_for_the_highest/](https://www.reddit.com/r/Superstonk/comments/mlle06/new_fud_wave_how_we_all_hodl_for_the_highest/)
 
 
   

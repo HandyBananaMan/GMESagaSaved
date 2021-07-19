@@ -1,5 +1,6 @@
-# Author: lighthouse30130
-# Post URL: [https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/](https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/)
+#Title: THE SEC KNOWS SINCE 2013 THAT HEDGE FUND CAN HIDE THEIR SHORT IN ITM CALLS - WE NEED TO TELL THEM THIS IS WHAT HAPPENING WITH GME
+#Author: lighthouse30130
+#Post URL: [https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/](https://www.reddit.com/r/GME/comments/mhwxtk/the_sec_knows_since_2013_that_hedge_fund_can_hide/)
 
 
 # The only way to appear as if the Hedge Fund covered their short is with deep ITM calls option.
@@ -34,7 +35,7 @@ I read the memo, very interesting, but it does not say much about how we/they ca
 
 "This options trading activity poses regulatory and reputational risks for broker-dealers and their correspondent clearing firms. The criteria and techniques listed above could be helpful in protecting a broker-dealer or clearing firm from these risks. If you believe that this activity is occurring with customers at your brokerage or your trading firm, or if you have seen this activity occurring on your exchange, please feel free to contact the Commission Tip line at the address below.
 
-![http://www.sec.gov/complaint/info\_tipscomplaint.shtml](http://www.sec.gov/complaint/info_tipscomplaint.shtml)
+[http://www.sec.gov/complaint/info\_tipscomplaint.shtml](http://www.sec.gov/complaint/info_tipscomplaint.shtml)
 
 &#x200B;
 

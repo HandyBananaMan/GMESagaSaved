@@ -1,5 +1,6 @@
-# Author: nostbp1
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nue8rd/apes_the_narrative_has_shifted_from_69_being_the/](https://www.reddit.com/r/Superstonk/comments/nue8rd/apes_the_narrative_has_shifted_from_69_being_the/)
+#Title: Apes! The narrative has shifted from 6/9 being the catalyst to now expecting a flash crash! It is good to expect nothing BUT this narrative has gone too far the other way, and I think it is FUD. Here's why:
+#Author: nostbp1
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nue8rd/apes_the_narrative_has_shifted_from_69_being_the/](https://www.reddit.com/r/Superstonk/comments/nue8rd/apes_the_narrative_has_shifted_from_69_being_the/)
 
 
 Yes yes yes, we know. Media attention picking up. People talking about naked shorts. It seems like the perfect set up to jack all of our tits and then tank it, shaking off a ton of apes. 

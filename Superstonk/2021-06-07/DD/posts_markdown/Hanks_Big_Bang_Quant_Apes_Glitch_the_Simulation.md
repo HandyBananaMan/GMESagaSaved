@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/)
+#Title: Hank's Big Bang: Quant Apes Glitch the Simulation
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/](https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/)
 
 
 **\*\*\*\*\*\*\*\*\*\* I am not a financial advisor, this is not financial advice \*\*\*\*\*\*\*\*\*\***
@@ -30,7 +31,7 @@ https://preview.redd.it/sfs0rlgprt371.png?width=1626&format=png&auto=webp&s=f285
 
 https://preview.redd.it/ckanpxbqrt371.png?width=1652&format=png&auto=webp&s=553e7ceae6eddd1a387febf88e0e1a3ffe03e117
 
-[\(Credit for above three charts to u\/Ivorypetal\) ](https://preview.redd.it/6wb6ze0rrt371.png?width=1624&format=png&auto=webp&s=46a16bda7b06735d23ed2b6cb9def15472d53703)
+![\(Credit for above three charts to u\/Ivorypetal\) ](https://preview.redd.it/6wb6ze0rrt371.png?width=1624&format=png&auto=webp&s=46a16bda7b06735d23ed2b6cb9def15472d53703)
 
 **A visualization of what you already assumed**
 
@@ -38,7 +39,7 @@ This is a visualization of what we already know but haven't been able prove: the
 
 https://preview.redd.it/92ks0y4trt371.png?width=860&format=png&auto=webp&s=03932694664e27f9dbfde8042d03f3be181a2559
 
-[\(Credit to u\/phalanxhydra\)](https://preview.redd.it/hbahq3rtrt371.png?width=862&format=png&auto=webp&s=328a0b47ad63faae068e12c847dacdc1df2ef9bb)
+![\(Credit to u\/phalanxhydra\)](https://preview.redd.it/hbahq3rtrt371.png?width=862&format=png&auto=webp&s=328a0b47ad63faae068e12c847dacdc1df2ef9bb)
 
 As you can see, the difference between all time and the last year is striking. The above decimals are called correlation coefficients. They go up to 1 (which means they are identically correlated). Anything above 0.7 is considered a strong correlation. As you can see all of them except for NAKD and NOK have a strong correlation to GME. What really struck me was the VIX. Because the market usually goes down when the VIX goes up, the fact that GME and the VIX have such a strong correlation in the past year is extremely important for our thesis that HFs are actively acting against it.
 
@@ -46,7 +47,7 @@ As you can see, the difference between all time and the last year is striking. T
 
 The chart below takes the OTC data from FINRA and plots it for each of the meme stocks. Notice how they all seem to follow a pattern of spiking every few weeks (FTD cycle) except for the blue one. The blue one is not a meme stock, it's Apple. I used Apple as a reference security so you can contrast how weird this is. Sadly, we don't have FINRA data before 2019, so it's difficult to analyze this in terms of when it started, but you can definitely see a related pattern of abnormality:
 
-[\(Credit to all of the quant apes who made this customizable program that allowed me to do this\)](https://preview.redd.it/psbp9arwrt371.png?width=2766&format=png&auto=webp&s=1286b2fb12123ba6bf01eaf408917a7f47915530)
+![\(Credit to all of the quant apes who made this customizable program that allowed me to do this\)](https://preview.redd.it/psbp9arwrt371.png?width=2766&format=png&auto=webp&s=1286b2fb12123ba6bf01eaf408917a7f47915530)
 
 &#x200B;
 
@@ -54,7 +55,7 @@ The chart below takes the OTC data from FINRA and plots it for each of the meme 
 
 Squeezes are rare. Extremely rare. Whether you think the January price run up was a short squeeze, a gamma squeeze, or just a big price increase does not matter because, in asking the quant apes to find the exact number of short squeezes that have occurred in the stock market, I gave them VERY broad parameters. The parameters I gave them were: any stock that has doubled in price within a week. Because of this, this is undoubtedly a gross overestimate of the number of short squeezes in the history of the market (i.e. some little known penny stock getting FDA approval and going 4x overnight). The numbers that they found show us just how rare a short squeeze is, and remember, even this is an overestimate, so they’re probably even rarer. The quant apes used the major exchanges NYSE, NASDAQ, and AMEX. Here are the results:
 
-[\(Credit to u\/jyzaya\) ](https://preview.redd.it/o1rcuupyrt371.png?width=2032&format=png&auto=webp&s=a16b8200dde9417a18b25c4eed0e353557879555)
+![\(Credit to u\/jyzaya\) ](https://preview.redd.it/o1rcuupyrt371.png?width=2032&format=png&auto=webp&s=a16b8200dde9417a18b25c4eed0e353557879555)
 
 If you can't understand that data, here's the point: they are rare, even with parameters that purposefully overestimate it. They are so rare that you could call them an anomaly because that's what they are. Remember that’s a purposeful overestimate that allows small stocks getting good news, IPOs, etc. to be considered. So yes, short squeezes are rare. Multiple squeezes following the same pattern and all squeezing at the exact same time? Some might call it improbable, but we all know what we call it.
 
@@ -72,13 +73,13 @@ Now that I’ve left you with that cliff hanger and probably a half chub, it’s
 
 First, let's start with a brief summary and update on the FTD cycle. The FTD cycle is the idea that because of SEC regulations requiring market makers to cover FTDs within 35 calendar days, there is a predictable increase in price and volume every 21ish trading days or 35 calendar days. So far, it has continued to repeat itself. The idea is that shorts are in so deep that they are doing the bare minimum to cover and continue to dig themselves in a deeper hole by kicking the can down the road. It is currently increasing exponentially, which indicates that it is getting more and more expensive for shorts to stay in the game.
 
-[Orange line represents FTD cycle increases each month. Yellow lines are FTD cycles. Disregard the red lines, those were my trend lines before we broke out](https://preview.redd.it/pgikvf01st371.png?width=1412&format=png&auto=webp&s=8eecc3c7176aa22a77b37c302a9d57bc197f7477)
+![Orange line represents FTD cycle increases each month. Yellow lines are FTD cycles. Disregard the red lines, those were my trend lines before we broke out](https://preview.redd.it/pgikvf01st371.png?width=1412&format=png&auto=webp&s=8eecc3c7176aa22a77b37c302a9d57bc197f7477)
 
 **SI by the charts**
 
 Below is a chart that the quant apes gathered from Ortex showing the SI of the meme stocks over time. Many of you will say that this is inaccurate because the real SI is hidden. While we have many instances of that being true, this is the best concrete data that we can gather (much better than Fintel and FINRA), so it’s what we must use to avoid speculation. So, yes these numbers are probably an understatement but that’s a good thing because we do not want to speculate. If we can find significant results on incomplete data, our thesis is strengthened:
 
-[\(Credit to u\/orangecatmasterrace\)](https://preview.redd.it/88i9r528st371.png?width=1750&format=png&auto=webp&s=89c540227a2e8d7f969d110a7d0ef60042ec423b)
+![\(Credit to u\/orangecatmasterrace\)](https://preview.redd.it/88i9r528st371.png?width=1750&format=png&auto=webp&s=89c540227a2e8d7f969d110a7d0ef60042ec423b)
 
 I noticed some very interesting things from this chart. First, I noticed that the SI of most of the meme stocks markedly increased in mid 2019. GME had an exceptional increase (I think because of their issuance of bonds, shorts saw that as a debt death sentence). There was also a slight, but noticeable, rise in SI of most of these in mid 2016 as well. Hmmmmmm. My original thesis was that they were all heavily shorted after the covid crash because HFs predicted a bad economy and the destruction of brick and mortars, so they used the low interest rate and low liquidity environment to their advantage. That is still probably true as I bet they did it with naked shorts, but this chart made me think even more. What happened before Covid that could’ve led to these SI increases.
 
@@ -106,11 +107,11 @@ https://preview.redd.it/79rg4j9gst371.png?width=1284&format=png&auto=webp&s=33e2
 
 https://preview.redd.it/3qzw1f0hst371.png?width=1274&format=png&auto=webp&s=5b591b0a0bfe04debd67f0561a971ac797651e78
 
-[\(User wished to remain anonymous for this\)](https://preview.redd.it/y9iekcuist371.png?width=1284&format=png&auto=webp&s=39b9bc492e20a346bdeef2ab210cdf6d9196303a)
+![\(User wished to remain anonymous for this\)](https://preview.redd.it/y9iekcuist371.png?width=1284&format=png&auto=webp&s=39b9bc492e20a346bdeef2ab210cdf6d9196303a)
 
 The above charts show GME's FTD cycle increases after a certain number of days. I put TSLA and MSFT in there so that you could see how abnormal GME is. Even compared to a volatile stock like TSLA, GME has a way more recognizable pattern, which gives us further statistical evidence of the FTD cycle. Also, note that there were many other users in different posts on this sub who found the FTD cycle statistically significant, this is another view to add to the body of work. Below shows the short interest of the meme stocks in relation to each other, so you can see when they started and how they've increased together:
 
-[\(credit to u\/orangecatmasterrace\) ](https://preview.redd.it/765vp0kqst371.png?width=510&format=png&auto=webp&s=03d70c989c96d63c0d3321acdd8e081b9ed903c8)
+![\(credit to u\/orangecatmasterrace\) ](https://preview.redd.it/765vp0kqst371.png?width=510&format=png&auto=webp&s=03d70c989c96d63c0d3321acdd8e081b9ed903c8)
 
 Keep the above chart in mind while reading below.
 
@@ -192,7 +193,7 @@ u/sudoshu (Special thanks to him as he was the organizer of the group. If you ar
 
 **Mods:** many of these users do not have the karma requirements to comment on posts. If you could somehow waive that requirement for the listed users, I think it would really benefit the sub because the amount of knowledge that these apes possess is amazing. They put so much time into this and gathered so much data (I literally couldn't even show close to all of it) and I believe that they will be integral to the continued success of this sub.
 
-Finally, the quant apes have created a website: ![https://www.superstonkquant.org/](https://www.superstonkquant.org/)
+Finally, the quant apes have created a website: [https://www.superstonkquant.org/](https://www.superstonkquant.org/)
 
 They are still currently working on the mechanics of it but I encourage you to monitor it in the future because I have witnessed first hand what they are capable of and it is nothing short of amazing.
 

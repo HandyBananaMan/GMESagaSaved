@@ -1,5 +1,6 @@
-# Author: plants69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/](https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/)
+#Title: THE BIG PICTURE DD - A comprehensive DD suitable for new and old apes alike that broadly covers the entire GME saga to date.
+#Author: plants69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/](https://www.reddit.com/r/Superstonk/comments/mt62vm/the_big_picture_dd_a_comprehensive_dd_suitable/)
 
 
 EDIT: some people had a problem with my claim about how the high institutional ownership is indicative of naked shorting so I rephrased that part. Although, I think it's unlikely institutional ownership can be as high as it is without the presence of naked shorting, and this does not even factor in retail ownership.
@@ -34,11 +35,11 @@ https://preview.redd.it/m0b2e285qut61.png?width=1490&format=png&auto=webp&s=d20c
 
 &#x200B;
 
-[RC has hand-selected a dream team at Gamestop!](https://preview.redd.it/ea5bo3d8qut61.png?width=1376&format=png&auto=webp&s=e471f6a2518ec98a8d06d576a0fc772786d866fb)
+![RC has hand-selected a dream team at Gamestop!](https://preview.redd.it/ea5bo3d8qut61.png?width=1376&format=png&auto=webp&s=e471f6a2518ec98a8d06d576a0fc772786d866fb)
 
 &#x200B;
 
-[No more debt!](https://preview.redd.it/jxxf3hhcqut61.png?width=2054&format=png&auto=webp&s=45d9369dfac32e45b217e797313abfd96954c09a)
+![No more debt!](https://preview.redd.it/jxxf3hhcqut61.png?width=2054&format=png&auto=webp&s=45d9369dfac32e45b217e797313abfd96954c09a)
 
 # Why does the debt repayment matter?
 
@@ -52,7 +53,7 @@ https://preview.redd.it/j11ebgmpqut61.png?width=1188&format=png&auto=webp&s=5986
 
 &#x200B;
 
-[From DOMO Capital Management. Key takeaways underlined in red.](https://preview.redd.it/w7w3471xqut61.jpg?width=1164&format=pjpg&auto=webp&s=c13eac6b5444155f1198dfa7f962843e0e93d8be)
+![From DOMO Capital Management. Key takeaways underlined in red.](https://preview.redd.it/w7w3471xqut61.jpg?width=1164&format=pjpg&auto=webp&s=c13eac6b5444155f1198dfa7f962843e0e93d8be)
 
 * Debt repayment provides flexibility, allowing Gamestop to engage in mergers, make better use of their real estate assets, and perhaps most importantly: **declare a dividend.**
 * The importance of the dividend will be covered in greater depth during the short theory section.
@@ -182,7 +183,7 @@ https://preview.redd.it/b6rnd3ynxut61.png?width=2130&format=png&auto=webp&s=ada6
 
 &#x200B;
 
-[      ](https://preview.redd.it/69acnknoxut61.png?width=1156&format=png&auto=webp&s=890d6e84b11af65e84e693d963fb7832e3eac132)
+![      ](https://preview.redd.it/69acnknoxut61.png?width=1156&format=png&auto=webp&s=890d6e84b11af65e84e693d963fb7832e3eac132)
 
 * On April 15th, news broke that JPMorgan sold $13bil in bonds to break records and only the next day does BOFA come in and shatter that record with $15bil bond deal.
 * All of this coincides with a new sec ruling:
@@ -192,7 +193,7 @@ https://preview.redd.it/b6rnd3ynxut61.png?width=2130&format=png&auto=webp&s=ada6
 * **This rule is to be implemented on 4/22/21. This means lenders have until this date to secure additional capital or else risk being margin called and liquidated**, triggering a chain reaction that could lead to wide-spread institutional collapse.
 * If shorts do not have the capital to cover their positions, they must either raise capital or close out of some of these positions, but they can’t close out of these positions without the security prices spiraling out of their control. Game over.
 * Wow... the SEC is actually cracking down on these guys? Yes that’s thanks to **Gary Gensler, recently appointed chairman of the SEC. About him: “Progressives expect him to look into digital currencies, the GameStop trading mania and how corporate America prioritizes environmental, social and governance issues.”**
-   * ![**https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html**](https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html)
+   * [**https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html**](https://www.cnbc.com/2021/04/14/gary-gensler-confirmed-to-lead-the-sec.html)
 
 # What’s going to happen to our economy? What about my life savings and 401k?
 

@@ -1,5 +1,6 @@
-# Author: Get-It-Got
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/](https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/)
+#Title: Using Randomized, Representative Surveying Data to Model $GME Ownership Among the U.S. Adult Population
+#Author: Get-It-Got
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/](https://www.reddit.com/r/Superstonk/comments/o2cnd4/using_randomized_representative_surveying_data_to/)
 
 
 \*\*\*PLEASE DON'T LAUNCH YOUR OWN SURVEY FOR THE U.S. USING GCS ... A LOT OF PEOPLE ARE DOING THIS AND IT MAY OVER-SATURATE THE PLATFORM AND START IMPACTING RESULTS.\*\*\*
@@ -130,7 +131,7 @@ That said, this research includes the participation of 300 individuals. Assuming
 
 But it is never my intent that this be the final data set. In fact, I’ve already launched a separate survey, targeting another 400 samples. Below is a snapshot of this second survey in progress. As you can see, the results are strikingly similar to the results of the previous 300 samples. Ownership is clocking in at 6.45% (compared to initial results of 5.33%) and average shares owned of 34.18 (compared to initial results of 35.66). I will combine these results with the original 300 and update this post once this second survey completes (I'd guess 3-5 days from now).
 
-[Round 2 In Progress ... Here are the first 217 of 400 responses being collected now.](https://preview.redd.it/mhsv6jlb3x571.png?width=1988&format=png&auto=webp&s=434c6cd44d25531e4f2c6cad4c9446530d711188)
+![Round 2 In Progress ... Here are the first 217 of 400 responses being collected now.](https://preview.redd.it/mhsv6jlb3x571.png?width=1988&format=png&auto=webp&s=434c6cd44d25531e4f2c6cad4c9446530d711188)
 
 Furthermore, I encourage anyone who is interested in this project to consider conducting their own surveying using GCS. It only requires a Google account and a credit card. Each sample is $.10, so $10 per 100 samples. Not only will this provide individuals with the data to validate my results, but individuals can also choose to send their data my way. I can validate it against mine, and if it checks out, I can then add to the 700 responses I will soon have in hand, thus increasing the overall dataset (and lowering an already low margin of error). If this is something you are interested in doing, please first reach out to me and I will coordinate interested parties as we don’t want to overwhelm the GCS platform with GameStop surveys.
 
@@ -232,7 +233,7 @@ Currently running survey:
 
 Just make sure you view the unweighted (raw) results. Simply click on the survey, then click the Raw Slider:
 
-[We only want the Raw counts ... we're not concerned with weighted results for this specific research.](https://preview.redd.it/aeq5dok4x7671.png?width=1188&format=png&auto=webp&s=57c9f3d427e578414fd7a7a774c436b1efda6898)
+![We only want the Raw counts ... we're not concerned with weighted results for this specific research.](https://preview.redd.it/aeq5dok4x7671.png?width=1188&format=png&auto=webp&s=57c9f3d427e578414fd7a7a774c436b1efda6898)
 
 I also had several people reach out with idea of running this survey in different countries, or for a different stock ($AMC specifically). I think both of these ideas are good, although I am probably tapped on the resources I'm putting toward this (honestly, I've already seen all I need to see -- this is conclusive evidence in my mind). As I mentioned in my note back to this particular individual, it will be important to adjust the buckets logically for another stock according to its total outstanding shares as compared to GME (i.e., AMC has something like 8X the outstanding shares as $GME, so the first questions should be 40 or few shares, and of course, all other share buckets would have to be adjusted accordingly).
 
@@ -260,7 +261,7 @@ This would also affect the ownership %, which should be cut in half. So use 2.66
 
 Edit #5: Numbers For Netherlands from u/Fast_Sandwich6034
 
-![https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
+[https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=w2wr6hjmiac53nv7sxyowta3hy&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
 
 Using an adult population of 13.3MM, reduced to 8.8MM (to account for coupled households) \* ownership of 7.5%, reduced to 5% (coupled-households) = 440,000 GME owners \* average shares of 22.3= 
 

@@ -1,5 +1,6 @@
-# Author: ItsAllJustASickGame
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl4jqk/ive_been_in_the_game_industry_for_over_10_years/](https://www.reddit.com/r/Superstonk/comments/nl4jqk/ive_been_in_the_game_industry_for_over_10_years/)
+#Title: I've been in the game industry for over 10 years and a gamer for a lot longer than that. I've been a Steam loyalist since OG Half Life. A second hand digital games market will turn me into a GameStop digital games loyalist overnight. See ya later, Steam. I HAVE ONE REQUEST RYAN!
+#Author: ItsAllJustASickGame
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl4jqk/ive_been_in_the_game_industry_for_over_10_years/](https://www.reddit.com/r/Superstonk/comments/nl4jqk/ive_been_in_the_game_industry_for_over_10_years/)
 
 
 This is going to make the fundamentals of Gamestop incredible. I would buy every, single, game, ever, on their platform if I could resell it when I was done.

@@ -1,5 +1,6 @@
-# Author: TheSadBantha
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/](https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/)
+#Title: I have been looking at the 10Yr Treasure bond data over the last couple of decades, The 10yr Bonds entered the Overbought area in the RSI indicator, The last time this happened was the week before the 19th of October in 1987, otherwise known as Black Monday
+#Author: TheSadBantha
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/](https://www.reddit.com/r/Superstonk/comments/mtvxzx/i_have_been_looking_at_the_10yr_treasure_bond/)
 
 
 So as we know the CDO's that caused the market crash of 2008 were backed by worthless Mortgages loans,This time we have CLO's backed by Treasury Bonds, so I decided to look up the behaviour of this bond.
@@ -8,13 +9,13 @@ Not financial advisor just an ape with internet, and somehow more journalistic i
 
 So lets dive in,
 
-[as you can see in the RSI we entered the overbought area. 19-04-2021](https://preview.redd.it/5wp5d8s973u61.png?width=1709&format=png&auto=webp&s=c254cb70bc2e070d2a6f1fda0ba490c72dad17f8)
+![as you can see in the RSI we entered the overbought area. 19-04-2021](https://preview.redd.it/5wp5d8s973u61.png?width=1709&format=png&auto=webp&s=c254cb70bc2e070d2a6f1fda0ba490c72dad17f8)
 
 Lets go a couple of years back in the past, till the last time this happened.
 
 &#x200B;
 
-[This day is also know as Black Monday, 19-10-1987 the worst day in stock market history.](https://preview.redd.it/2clmyhsj73u61.png?width=1706&format=png&auto=webp&s=55c50a2b6719a87416f8d8d9d008a183057f998d)
+![This day is also know as Black Monday, 19-10-1987 the worst day in stock market history.](https://preview.redd.it/2clmyhsj73u61.png?width=1706&format=png&auto=webp&s=55c50a2b6719a87416f8d8d9d008a183057f998d)
 
 so 33,5 years ago to the date...What does this mean? I dont have a fucking clue, I am not that smart.What I can tell you that it is a disturbing pattern, that other smarter apes may disect further.
 
@@ -68,7 +69,7 @@ Taken from article : [https://moneyweek.com/473408/heres-what-happened-the-last-
 
 An apette u/G_KG with more brains did an amazing and scary write up of what I stumbled over during my monday morning coffee: [~~https://www.reddit.com/r/wallstreetbets/comments/mtxrfy/crayonbrained\_manifesto\_banks\_are\_unloading\_their/?utm\_source=share&utm\_medium=mweb~~](https://www.reddit.com/r/wallstreetbets/comments/mtxrfy/crayonbrained_manifesto_banks_are_unloading_their/?utm_source=share&utm_medium=mweb)
 
-Nothing to see here just got deleted of WSB -> new link : ![https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained\_manifesto\_banks\_are\_unloading\_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
+Nothing to see here just got deleted of WSB -> new link : [https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained\_manifesto\_banks\_are\_unloading\_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
 
 **TADR; it looks like the last time the vault of banana's was this overbought all the bananas went brown the week after.**
 

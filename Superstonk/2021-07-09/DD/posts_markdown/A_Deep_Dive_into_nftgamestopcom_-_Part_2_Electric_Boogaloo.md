@@ -1,10 +1,11 @@
-# Author: schismsaints
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/](https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/)
+#Title: A Deep Dive into nft.gamestop.com - Part 2: Electric Boogaloo
+#Author: schismsaints
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/](https://www.reddit.com/r/Superstonk/comments/oh0zfe/a_deep_dive_into_nftgamestopcom_part_2_electric/)
 
 
 &#x200B;
 
-[Hi, I'm Troy McClu...err, \/u\/schismsaints](https://preview.redd.it/lzsb9ky2h7a71.png?width=225&format=png&auto=webp&s=8d709e3952f111fa21f696a57a2c7a0104475412)
+![Hi, I'm Troy McClu...err, \/u\/schismsaints](https://preview.redd.it/lzsb9ky2h7a71.png?width=225&format=png&auto=webp&s=8d709e3952f111fa21f696a57a2c7a0104475412)
 
 You might remember me from my reddit hits such as "Why does AutoMod hate everything I do?", or [my most recent post from a couple of days ago](https://www.reddit.com/r/Superstonk/comments/of20ou/a_deep_dive_into_nftgamestopcom/).
 
@@ -20,7 +21,7 @@ Edit: Mandatory disclaimer - *don't be a dummy and buy random alt coins that jus
 
 https://preview.redd.it/tcf7cmqnr7a71.png?width=256&format=png&auto=webp&s=c4e2a7928d64cbbfc523ab59b7ade084dba3eef4
 
-[\\"The missing link\\"](https://preview.redd.it/ami03a1ur7a71.png?width=249&format=png&auto=webp&s=72c594892dfb607b865f03f9ef8f28755837fe9d)
+![\\"The missing link\\"](https://preview.redd.it/ami03a1ur7a71.png?width=249&format=png&auto=webp&s=72c594892dfb607b865f03f9ef8f28755837fe9d)
 
 * [ERC-20 GME GameStop Token](https://etherscan.io/token/0x5b7d043ecb3a694069cc01e763159ea1bde0541d) \- Thanks to several of the commenters on my last post(s), I went through a deeper dive into the ERC-20 GME ('fake 1337420' address) token and agree that it is likely a scam.
    * The two most solid pieces of evidence identifying the scam are:
@@ -28,9 +29,10 @@ https://preview.redd.it/tcf7cmqnr7a71.png?width=256&format=png&auto=webp&s=c4e2a
       * [More than one address holding the confirmed scam token as well as this one](https://etherscan.io/tokenholdings?a=0xfb5484a510c48c307fd0253ee4d0a0866950f9a3)
    * [There is one address](https://etherscan.io/address/0x7f8c1877ed0da352f78be4fe4cda58bb804a30df) which has ties to some potentially relevant blockchain companies (Cudo primarily) that had me doubting early on whether it was a scam, but on further research I've found a lot of links to Nigeria, Dubai, etc which, while not red flags in and of themselves, certainly don't line up with GameStop corporate hiring their own domestic blockchain team.
 
-[Largest single GME ERC-20 Token holder address](https://preview.redd.it/1wimkjrp48a71.png?width=738&format=png&auto=webp&s=313c9516cfef292f5a4570e971a292ddce3810f7)
+![Largest single GME ERC-20 Token holder address](https://preview.redd.it/1wimkjrp48a71.png?width=738&format=png&auto=webp&s=313c9516cfef292f5a4570e971a292ddce3810f7)
 
-* [ERC-20 GME Coin Token](https://etherscan.io/token/0xd4596454a0e145842d1319d6921399e8e1622ad7) \- I have identified [an external account](https://etherscan.io/address/0x503828976d22510aad0201ac7ec88293211d23da) involved in funding the GME Coin address, but the trail went cold after that.  I can't confirm or deny that it is legitimate at this point; in either event, whoever created it went through more effort to hide their tracks than the other tokens.  It does not appear to have been sold/swapped anywhere as of yet.
+* [ERC-20 GME Coin Token](https://etherscan.io/token/0xd4596454a0e145842d1319d6921399e8e1622ad7) \- I have identified [an external account](https://etherscan.io/address/0x503828976d22510aad0201ac7ec88293211d23da) involved in funding the GME Coin address, but the trail went cold after that.  I can't confirm or deny that it is legitimate at this point; in either event, whoever created it went through more effort to hide their tracks than the other tokens.  It does not appear to have been sold/swapped anywhere as of yet. 
+   * Edit: Listed on Uniswap, scam city most likely here as well
 * [ERC-721 GME GameStop Token ("The One and Only")](https://etherscan.io/token/0x13374200c29C757FDCc72F15Da98fb94f286d71e) \- I suspect this will be the only one of its kind minted, either as a teaser or POC token for further NFT work.
    * One interesting possibility came to mind that - while not a crypto dividend per-se - could still have some interesting applications to securities exchanges or implications for the MOASS.  Caution: Speculation/theorycrafting inbound
       * Consider the scenario involved with shareholder voting, where each shareholder receives a control number on each brokerage where they hold shares.  Each control number is associated with the number of shares held at a point in time snapshot.
@@ -46,7 +48,7 @@ https://preview.redd.it/tcf7cmqnr7a71.png?width=256&format=png&auto=webp&s=c4e2a
 * [https://www.reddit.com/r/Superstonk/comments/ofiev4/the\_man\_with\_the\_plan/](https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/)
    * The timeline here including Overstock was an excellent read, but the part I really want to call out is this
 
-[This is in line with my thoughts on timing - NFT platform launch on 7\/14, announcement of dividend\/crypto play on 7\/14, and record date for a crypto based dividend on 7\/24](https://preview.redd.it/olsculkf38a71.png?width=678&format=png&auto=webp&s=dbdaefd50c398f333896a14a204bafaa79334fd2)
+![This is in line with my thoughts on timing - NFT platform launch on 7\/14, announcement of dividend\/crypto play on 7\/14, and record date for a crypto based dividend on 7\/24](https://preview.redd.it/olsculkf38a71.png?width=678&format=png&auto=webp&s=dbdaefd50c398f333896a14a204bafaa79334fd2)
 
 * And here: [https://www.reddit.com/r/Superstonk/comments/ocvqlp/the\_rules\_dont\_matter/](https://www.reddit.com/r/Superstonk/comments/ocvqlp/the_rules_dont_matter/)
 
@@ -56,7 +58,7 @@ Edit: The 7/14 date's significance has been potentially debunked
 
 &#x200B;
 
-[I felt a great disturbance in the Force, as if millions of apes cried out in terror and had their tits suddenly deflated](https://preview.redd.it/38ex38jzh9a71.png?width=592&format=png&auto=webp&s=c8bc7969700a59428e93a0cdc90934ef3fa433c2)
+![I felt a great disturbance in the Force, as if millions of apes cried out in terror and had their tits suddenly deflated](https://preview.redd.it/38ex38jzh9a71.png?width=592&format=png&auto=webp&s=c8bc7969700a59428e93a0cdc90934ef3fa433c2)
 
 This is a great post from /u/Hey_Madie that goes into more detail on EIP-1559 and this tweet
 
@@ -70,7 +72,7 @@ This is a great post from /u/Hey_Madie that goes into more detail on EIP-1559 an
 
 I've drawn out these relations on the long format diagram, shown below
 
-[Adding approving parties\/other devs to the owner\/approval list](https://preview.redd.it/507nrqd258a71.png?width=530&format=png&auto=webp&s=26992c61f9346de0a90cc46bea65c17011018810)
+![Adding approving parties\/other devs to the owner\/approval list](https://preview.redd.it/507nrqd258a71.png?width=530&format=png&auto=webp&s=26992c61f9346de0a90cc46bea65c17011018810)
 
 Huge credit to /u/HandyBananaMan for being almost as obsessed with the transaction logs as me and pointing me toward several bread crumbs along the way.
 

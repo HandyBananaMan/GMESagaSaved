@@ -1,5 +1,6 @@
-# Author: StringUnited5589
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n61567/written_testimony_from_nscc_verifies_that_they/](https://www.reddit.com/r/Superstonk/comments/n61567/written_testimony_from_nscc_verifies_that_they/)
+#Title: WRITTEN TESTIMONY FROM NSCC VERIFIES THAT THEY "FUCKED US IN JANUARY". NOW IT IS PAYBACK TIME!!! DO NOT SETTLE FOR LESS THAN THEIR BANKRUPTCY!!
+#Author: StringUnited5589
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n61567/written_testimony_from_nscc_verifies_that_they/](https://www.reddit.com/r/Superstonk/comments/n61567/written_testimony_from_nscc_verifies_that_they/)
 
 
 &#x200B;

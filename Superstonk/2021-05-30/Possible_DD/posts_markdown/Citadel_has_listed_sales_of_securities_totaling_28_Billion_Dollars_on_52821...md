@@ -1,5 +1,6 @@
-# Author: Chemical-Pop-8576
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nopm6v/citadel_has_listed_sales_of_securities_totaling/](https://www.reddit.com/r/Superstonk/comments/nopm6v/citadel_has_listed_sales_of_securities_totaling/)
+#Title: Citadel has listed sales of securities totaling $28 Billion Dollars on 5/28/21 -
+#Author: Chemical-Pop-8576
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nopm6v/citadel_has_listed_sales_of_securities_totaling/](https://www.reddit.com/r/Superstonk/comments/nopm6v/citadel_has_listed_sales_of_securities_totaling/)
 
 
 Happy Sunday Evening Apes!
@@ -38,7 +39,7 @@ The filings themselves are checked as "amendments" in some cases to securities d
 
 [https://www.sec.gov/edgar/search/#/q=%2522CITADEL%2522&dateRange=30d&category=custom&forms=D](https://www.sec.gov/edgar/search/#/q=%2522CITADEL%2522&dateRange=30d&category=custom&forms=D)
 
-[The security above appears to have been first entered in April of 2008.  All of these appear to be long positions that have been closed.  ](https://preview.redd.it/9qqu4gex0d271.png?width=2518&format=png&auto=webp&s=8488e9470ac90cdd37e0de883b8b8b720af7c186)
+![The security above appears to have been first entered in April of 2008.  All of these appear to be long positions that have been closed.  ](https://preview.redd.it/9qqu4gex0d271.png?width=2518&format=png&auto=webp&s=8488e9470ac90cdd37e0de883b8b8b720af7c186)
 
 I'm not an attorney, expert at legal shit, or even an internet sleuth.  I'm just a regular Ape that likes the stonk.
 
@@ -69,7 +70,7 @@ https://preview.redd.it/uqo9s28n6d271.png?width=1703&format=png&auto=webp&s=be75
 Edit 2: 12:04 AM EST 5/31/21 
 
 There are lots of Apes assuming that this is a yearly filing.  I also have wondered if this was an annual liquidation/selloff of assets.  However, that doesn't appear to be the case.    
-When I scroll through each of the 11 different funds, I see different dates (and multiple sales) in some years.  Image below is one example from Citadel Equities Fund II ![https://docoh.com/company/1727632/citadel-equities-fund-ltd](https://docoh.com/company/1727632/citadel-equities-fund-ltd)
+When I scroll through each of the 11 different funds, I see different dates (and multiple sales) in some years.  Image below is one example from Citadel Equities Fund II [https://docoh.com/company/1727632/citadel-equities-fund-ltd](https://docoh.com/company/1727632/citadel-equities-fund-ltd)
 
 &#x200B;
 

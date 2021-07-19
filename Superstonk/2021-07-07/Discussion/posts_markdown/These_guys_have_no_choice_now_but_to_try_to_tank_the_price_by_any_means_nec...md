@@ -1,5 +1,6 @@
-# Author: Stonkinator3000
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofy8jp/these_guys_have_no_choice_now_but_to_try_to_tank/](https://www.reddit.com/r/Superstonk/comments/ofy8jp/these_guys_have_no_choice_now_but_to_try_to_tank/)
+#Title: These guys have no choice now but to try to tank the price by any means necessary. If it runs up big again it’s likely forced liquidation. If it trades sideways they’ll bleed while continued positive catalysts and improved earnings prove irresistible, creating the buy pressure to make it run up big.
+#Author: Stonkinator3000
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofy8jp/these_guys_have_no_choice_now_but_to_try_to_tank/](https://www.reddit.com/r/Superstonk/comments/ofy8jp/these_guys_have_no_choice_now_but_to_try_to_tank/)
 
 
 They’ve created an aura of power and invincibility by design but you better believe they’re on the clock. Because Cohen and company aren’t wasting any time transforming the company. 

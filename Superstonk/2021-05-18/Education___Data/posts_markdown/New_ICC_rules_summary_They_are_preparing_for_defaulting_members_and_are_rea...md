@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/](https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/)
+#Title: New ICC rules summary. They are preparing for defaulting members and are ready to pull the plug.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/](https://www.reddit.com/r/Superstonk/comments/nfl69o/new_icc_rules_summary_they_are_preparing_for/)
 
 
 # 0. Preface
@@ -68,7 +69,7 @@ Quote from [this comment by Ridn2Lo](https://www.reddit.com/r/Superstonk/comment
 
 &#x200B;
 
-**SR-ICC-2021-005 -** ![Link](https://www.sec.gov/rules/sro/icc/2021/34-91806.pdf)
+**SR-ICC-2021-005 -** [Link](https://www.sec.gov/rules/sro/icc/2021/34-91806.pdf)
 
 * Already in effect as of Friday, May 14, 11:59PM EST. Literally last minute filing.
 * This is basically the DTC-004 equivalent for ICC. This is their unwinding plan in the event of extreme market stress in order to remain afloat by wiping out members with high risk positions.

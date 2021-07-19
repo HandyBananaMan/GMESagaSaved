@@ -1,5 +1,6 @@
-# Author: ihatedmyboss
-# Post URL: [https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/](https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/)
+#Title: New CFO to be announced by FRIDAY 3/26. Here's why Daddy Cohen wants "20th Century" CEO gone 🚀🚀🚀
+#Author: ihatedmyboss
+#Post URL: [https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/](https://www.reddit.com/r/GME/comments/mcdsu6/new_cfo_to_be_announced_by_friday_326_heres_why/)
 
 
 Ladies and Gentleapes 🦍,
@@ -82,7 +83,7 @@ This shiznitz is mooning one way or another.
 
 &#x200B;
 
-[When Roaring Kitty lands](https://preview.redd.it/sfknr3qeo0p61.jpg?width=533&format=pjpg&auto=webp&s=4e5331a4ec91a4e911a28a0227e31c527ad58b5b)
+![When Roaring Kitty lands](https://preview.redd.it/sfknr3qeo0p61.jpg?width=533&format=pjpg&auto=webp&s=4e5331a4ec91a4e911a28a0227e31c527ad58b5b)
 
 &#x200B;
 
@@ -144,7 +145,7 @@ Apes, without further ado, let me introduce you to **GameStop's New COO-**
 
 &#x200B;
 
-[Aunty Jenna](https://preview.redd.it/tp2acegko0p61.jpg?width=372&format=pjpg&auto=webp&s=30fd81c8c5e23f6a2fd998fbe3a0f4853322c731)
+![Aunty Jenna](https://preview.redd.it/tp2acegko0p61.jpg?width=372&format=pjpg&auto=webp&s=30fd81c8c5e23f6a2fd998fbe3a0f4853322c731)
 
 &#x200B;
 
@@ -171,7 +172,7 @@ He's the JCPenny/Sears of CEO's in the age of digital transformation. Grandpa cl
 
 &#x200B;
 
-[2 down, 1 to go](https://preview.redd.it/8t24orano0p61.png?width=750&format=png&auto=webp&s=e14125993c03ef74f77a58c78f5abbf5621024bd)
+![2 down, 1 to go](https://preview.redd.it/8t24orano0p61.png?width=750&format=png&auto=webp&s=e14125993c03ef74f77a58c78f5abbf5621024bd)
 
 &#x200B;
 
@@ -221,7 +222,7 @@ Trust the process apes!
 
 &#x200B;
 
-[Sista Neda](https://preview.redd.it/gj6d4f6fp0p61.jpg?width=386&format=pjpg&auto=webp&s=59e9eca546ae65fc9a8541bcb10bf9d2d07eb907)
+![Sista Neda](https://preview.redd.it/gj6d4f6fp0p61.jpg?width=386&format=pjpg&auto=webp&s=59e9eca546ae65fc9a8541bcb10bf9d2d07eb907)
 
 &#x200B;
 
@@ -253,7 +254,7 @@ https://preview.redd.it/our6ugngp0p61.jpg?width=1200&format=pjpg&auto=webp&s=019
 
 &#x200B;
 
-[Uncle Suzuki](https://preview.redd.it/akqv53ykp0p61.jpg?width=400&format=pjpg&auto=webp&s=482795beb37a615fe642bad0ace8fa17aea0911b)
+![Uncle Suzuki](https://preview.redd.it/akqv53ykp0p61.jpg?width=400&format=pjpg&auto=webp&s=482795beb37a615fe642bad0ace8fa17aea0911b)
 
 &#x200B;
 
@@ -279,13 +280,13 @@ His role will help cut down on GME's expenses and deliver products/services fast
 
 &#x200B;
 
-[Daddy](https://preview.redd.it/5y0dhrcop0p61.jpg?width=500&format=pjpg&auto=webp&s=4cc865cc1e36b0a142c08efb50a52059c029fa4b)
+![Daddy](https://preview.redd.it/5y0dhrcop0p61.jpg?width=500&format=pjpg&auto=webp&s=4cc865cc1e36b0a142c08efb50a52059c029fa4b)
 
 &#x200B;
 
 As DFV pointed out in his livestream, RC usually says NO to 99.9% of opportunities, but **he said YES to GameStop!**
 
-~~Guys~~ Apes, the HF's are sh\*tting in their ![Depends](https://www.target.com/p/depend-night-defense-incontinence-underwear-for-men-overnight-large-14ct/-/A-79330408#lnk=sametab) right now.
+~~Guys~~ Apes, the HF's are sh\*tting in their [Depends](https://www.target.com/p/depend-night-defense-incontinence-underwear-for-men-overnight-large-14ct/-/A-79330408#lnk=sametab) right now.
 
 It costs us NOTHING to hold, but it's costing them millions upon millions every-single-f\*cking-day.
 

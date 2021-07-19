@@ -1,5 +1,6 @@
-# Author: Schekelstein
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/obx30h/tomorrow_gamestop_will_reveal_new_logo_branding/](https://www.reddit.com/r/Superstonk/comments/obx30h/tomorrow_gamestop_will_reveal_new_logo_branding/)
+#Title: Tomorrow GameStop will reveal new logo, branding or even a new name.
+#Author: Schekelstein
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/obx30h/tomorrow_gamestop_will_reveal_new_logo_branding/](https://www.reddit.com/r/Superstonk/comments/obx30h/tomorrow_gamestop_will_reveal_new_logo_branding/)
 
 
 Facts: GameStop Twitter account just gone black and Facebook is dead gray.  

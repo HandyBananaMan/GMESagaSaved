@@ -1,12 +1,13 @@
-# Author: G_KG
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
+#Title: CRAYON-BRAINED MANIFESTO: BANKS ARE UNLOADING THEIR DEBT ONTO OUR PARENTS' RETIREMENT ACCOUNTS. Call your parents and ask them how much of their retirement savings is allocated to BONDS.
+#Author: G_KG
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/)
 
 
 Apes- first, this is not financial advice, I have been snorting crayons non-stop for 48 hours straight and am about to go full-on RICK JAMES, BITCH mode all over your couch. 🖍
 
 ***Edit: The information in the following post has been officially verified by the moderators of WallStreetBets!!  This is like getting an "AAA" credit rating on one's DD, I am honored.***
 
-[Nothing to see here... move along.... not like anyone would be interested in buying puts on these big banks, right??????   After all, this IS a Wendy's.](https://preview.redd.it/kmty0xb156u61.png?width=741&format=png&auto=webp&s=fda2759ac83f0319096a66498750710c182d33fc)
+![Nothing to see here... move along.... not like anyone would be interested in buying puts on these big banks, right??????   After all, this IS a Wendy's.](https://preview.redd.it/kmty0xb156u61.png?width=741&format=png&auto=webp&s=fda2759ac83f0319096a66498750710c182d33fc)
 
 If you or your parents have their retirement accounts **PASSIVELY MANAGED BY BIG BANKS OR INSTITUTIONS**, as opposed to actively-manages funds or having independent financial advisors, PLEASE LISTEN.  A passively managed account [explained by investopedia here](https://www.investopedia.com/ask/answers/040315/what-difference-between-passive-and-active-portfolio-management.asp) means the bank or institution will invest your savings "according to a strategy" instead of you having full control:
 
@@ -18,33 +19,33 @@ If you or your parents have their retirement accounts **PASSIVELY MANAGED BY BIG
 
 Passive strategies are not "actively managed" for best results, but people trust that big banks have the smartest minds managing portfolios, and "[fiduciary obligations](https://www.investopedia.com/terms/f/fiduciary.asp)" will require them to use those minds to act in my best interests, right??
 
-[from investopedia](https://preview.redd.it/tf1suw87x3u61.png?width=547&format=png&auto=webp&s=1a1674346ccf4f28c990086841be008d38df1f3c)
+![from investopedia](https://preview.redd.it/tf1suw87x3u61.png?width=547&format=png&auto=webp&s=1a1674346ccf4f28c990086841be008d38df1f3c)
 
 Well, over the past 4 months of intense brain wrinkling, I learned that many brilliant minds think that a market crash is unavoidable in the near future. [As he states here,](https://twitter.com/BurryArchive/status/1362635795052421123) **Dr. Brrrrry believes that a market crash is inevitable, inflation will happen, and both b$tco$n and gold will suffer due to governments directly competing with them for currency.**  [He linked to an article here on TIPS,](https://www.nationalreview.com/2021/01/the-feds-tipsy-portfolio-and-inflation-expectations/amp/?__twitter_impression=true) "treasury inflation-protected securities." It explains that they may not be safe from inflation after all *and* the Fed is buying up almost all of what the Treasury is issuing.  [About 1/5th of **ALL** U.S. dollars currently in existence were printed last year](https://www.federalreserve.gov/releases/h6/current/default.htm), and the [debt-to-GDP ratio is near its historical high](https://www.macrotrends.net/1381/debt-to-gdp-ratio-historical-chart), having jumped from 107% to 129% *in the last year alone.*  That's *as big of an increase as 2009-2020*\- all in the last year.  [Margin debt carried by big banks](https://www.finra.org/investors/learn-to-invest/advanced-investing/margin-statistics) is up almost double from last year and near historical highs, and that's just the tip of the iceberg.  The [Q4 Report on Bank Trading and Derivatives Activities](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/index-quarterly-report-on-bank-trading-and-derivatives-activities.html) shows the big banks are currently trading, mainly with derivatives bought on margin debt....
 
-[appendix table 1](https://preview.redd.it/jivbnb89x3u61.png?width=1472&format=png&auto=webp&s=64b732b67dd8591e4cd9732a2b475033bb0813ba)
+![appendix table 1](https://preview.redd.it/jivbnb89x3u61.png?width=1472&format=png&auto=webp&s=64b732b67dd8591e4cd9732a2b475033bb0813ba)
 
-[appendix table 2](https://preview.redd.it/29sy2nvax3u61.png?width=1543&format=png&auto=webp&s=0a3779b9eca426fd5c938c8f9c89a0c49e23db5a)
+![appendix table 2](https://preview.redd.it/29sy2nvax3u61.png?width=1543&format=png&auto=webp&s=0a3779b9eca426fd5c938c8f9c89a0c49e23db5a)
 
 Reading is really hard so I had to use my crayons, but that says banks own over $163 **T**rillion in derivatives based on $19 Trillion of assets, and *Holding Companies* own over $218 **T**rillion in derivatives based on $17 Trillion of assets.  [Check out an infographic on all of the world's money here](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/) if you want, I can't add that high.
 
 Dr. Brrrry posted the following chart on investments that have historically protected one from inflation by rising in value directly proportional to amount of inflation, [source:](https://twitter.com/BurryArchive/status/1363909572243705859)
 
-[ApespeeK: dollar go down, bond go down, these go up.  \(see above about gold\)](https://preview.redd.it/k45f7mjcx3u61.png?width=466&format=png&auto=webp&s=cc32682e3b72718569b5d964ec8f1d61878f9059)
+![ApespeeK: dollar go down, bond go down, these go up.  \(see above about gold\)](https://preview.redd.it/k45f7mjcx3u61.png?width=466&format=png&auto=webp&s=cc32682e3b72718569b5d964ec8f1d61878f9059)
 
 The Q4 filings showing what Warren Buffet has been up to convinced me that all of this is real, [summarized on this webpage.](https://www.dataroma.com/m/m_activity.php?m=BRK&typ=a)  Buffet, the guy who says "our favorite holding period is forever" and has always loved bank stocks, just sold huge amounts of stock- 100% out of some positions- here are some of the biggest sells:
 
-[Q4](https://preview.redd.it/e5hh3selx3u61.png?width=655&format=png&auto=webp&s=758014c89ff2444f94473d7921c76d66c66a5beb)
+![Q4](https://preview.redd.it/e5hh3selx3u61.png?width=655&format=png&auto=webp&s=758014c89ff2444f94473d7921c76d66c66a5beb)
 
-[Q3](https://preview.redd.it/ikn5wzdmx3u61.png?width=660&format=png&auto=webp&s=d82ccd86ac2896596d52430e5e5497a808d6f62f)
+![Q3](https://preview.redd.it/ikn5wzdmx3u61.png?width=660&format=png&auto=webp&s=d82ccd86ac2896596d52430e5e5497a808d6f62f)
 
-[Q2](https://preview.redd.it/o1tzshbnx3u61.png?width=645&format=png&auto=webp&s=49d2c06a49b435f7f8a260037becf01698e118b3)
+![Q2](https://preview.redd.it/o1tzshbnx3u61.png?width=645&format=png&auto=webp&s=49d2c06a49b435f7f8a260037becf01698e118b3)
 
 He made some very significant buys as well:
 
-[Q3](https://preview.redd.it/qerodihpx3u61.png?width=620&format=png&auto=webp&s=a744926732227a876cb7d988f9a6b86039ff809c)
+![Q3](https://preview.redd.it/qerodihpx3u61.png?width=620&format=png&auto=webp&s=a744926732227a876cb7d988f9a6b86039ff809c)
 
-[Q4](https://preview.redd.it/8mc5mywqx3u61.png?width=613&format=png&auto=webp&s=ab1ee403ec5f14f99ec61bcc76a7808158672353)
+![Q4](https://preview.redd.it/8mc5mywqx3u61.png?width=613&format=png&auto=webp&s=ab1ee403ec5f14f99ec61bcc76a7808158672353)
 
 His buys match up nearly perfectly with things that rise in value along with inflation according to Dr. Brrrrry's table.  His sells match up nearly perfectly with all the banks and companies that will suffer if Brrrry's thesis about debt bubble bursting + inflation is correct.  *Including selling off 100% of his position in gold.*
 
@@ -70,11 +71,11 @@ Yet here were *my* parents, having chosen low levels of risk, having their money
 
 If you check out [J.P. Morgan's retirement guide here,](https://am.jpmorgan.com/us/en/asset-management/adv/insights/retirement-insights/guide-to-retirement/) they actually recommend a portfolio of **60% bonds** if you have "medium-term goals" like college or home loans.
 
-[JP's retirement strat](https://preview.redd.it/fjqxcegux3u61.png?width=493&format=png&auto=webp&s=47f256d57d7ed8260a5d863a99bcd1d3662ca9b1)
+![JP's retirement strat](https://preview.redd.it/fjqxcegux3u61.png?width=493&format=png&auto=webp&s=47f256d57d7ed8260a5d863a99bcd1d3662ca9b1)
 
 [Goldman Sach's retirement guide](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-literature/brochure/brochure-model-portfolio.pdf?sa=n&rd=n) is similar, explaining that the lowest-risk portfolios are those with the most money into bonds.
 
-[\\"Fixed income\\" means bonds allocation](https://preview.redd.it/0q8igmowx3u61.png?width=453&format=png&auto=webp&s=204955e93627074386c5bba37871c8dc16e70ce6)
+![\\"Fixed income\\" means bonds allocation](https://preview.redd.it/0q8igmowx3u61.png?width=453&format=png&auto=webp&s=204955e93627074386c5bba37871c8dc16e70ce6)
 
 So.... according to the sacks at Sachs, my husband's retired parents have their money in the "highest risk" portfolio possible.  Which doesn't make sense based on everything I know and have linked above, *especially* if there's a debt bubble about to burst, and one good catalyst could trigger it.
 
@@ -84,11 +85,11 @@ https://preview.redd.it/nxk2z0wzx3u61.png?width=526&format=png&auto=webp&s=855c8
 
 [This bloomberg article goes further into the "capital break"](https://www.bloomberg.com/news/articles/2021-03-19/fed-to-end-covid-19-capital-break-it-granted-wall-street-banks) that's now expired.  It includes this fun little bar chart:
 
-[Lots of gassy references.  If it's true that \\"where there is smoke, there is fire,\\" does that ALSO mean that \\"where there is gas, there is bullshit\\"?? Discuss.](https://preview.redd.it/rerp9f41y3u61.png?width=554&format=png&auto=webp&s=ed8546e6b89eb5e1e5cb27e304e4d86d1fade420)
+![Lots of gassy references.  If it's true that \\"where there is smoke, there is fire,\\" does that ALSO mean that \\"where there is gas, there is bullshit\\"?? Discuss.](https://preview.redd.it/rerp9f41y3u61.png?width=554&format=png&auto=webp&s=ed8546e6b89eb5e1e5cb27e304e4d86d1fade420)
 
 Which led me to remember *THIS* fun little list from the [Q4 banking derivatives statement](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/pub-derivatives-quarterly-qtr4-2020.pdf):
 
-[SACKS](https://preview.redd.it/yj44hy18y3u61.png?width=1242&format=png&auto=webp&s=5d7aa01556539c120dbeafc16dbdbc46f1fda2bb)
+![SACKS](https://preview.redd.it/yj44hy18y3u61.png?width=1242&format=png&auto=webp&s=5d7aa01556539c120dbeafc16dbdbc46f1fda2bb)
 
 Strong correlation between debt over-exposure and the banks that Warren Buffet sold 100% of.  So- why are banks rapidly unloading debt while ***clearly*** over-leveraged to debt while ***keeping*** debt in their *"low-risk"* retirement funds?  Fiduciary responsibility my ass...
 
@@ -100,7 +101,7 @@ Strong correlation between debt over-exposure and the banks that Warren Buffet s
 
 I'd also personally be pretty comfortable investing in BRK.B and letting Buffet do the brain-work 😆
 
-**Infoz about GOLD:**  this is complicated and I won't pretend there aren't many different factors that will affect the price.  [Investopedia page on what makes gold plummet.](https://www.investopedia.com/articles/investing/071414/when-and-why-do-gold-prices-plummet.asp)  Also, [an awesome wrinkle-brained comment here](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/gv3cynn?utm_source=share&utm_medium=web2x&context=3) by u/kavaman68 points out that big banks can heavily manipulate the price of gold.  Here's what ![Q4 2020 bank derivatives](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/pub-derivatives-quarterly-qtr4-2020.pdf) says about what banks have in gold/precious metals:
+**Infoz about GOLD:**  this is complicated and I won't pretend there aren't many different factors that will affect the price.  [Investopedia page on what makes gold plummet.](https://www.investopedia.com/articles/investing/071414/when-and-why-do-gold-prices-plummet.asp)  Also, [an awesome wrinkle-brained comment here](https://www.reddit.com/r/Superstonk/comments/mtxtib/crayonbrained_manifesto_banks_are_unloading_their/gv3cynn?utm_source=share&utm_medium=web2x&context=3) by u/kavaman68 points out that big banks can heavily manipulate the price of gold.  Here's what [Q4 2020 bank derivatives](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/pub-derivatives-quarterly-qtr4-2020.pdf) says about what banks have in gold/precious metals:
 
 appendix graph 11.  Notional value of "gold and fx contracts" Banks own = $30 Trilllion.
 

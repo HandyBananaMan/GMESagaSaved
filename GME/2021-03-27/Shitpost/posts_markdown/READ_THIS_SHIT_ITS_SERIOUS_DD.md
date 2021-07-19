@@ -1,5 +1,6 @@
-# Author: InvinctusSs
-# Post URL: [https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/](https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/)
+#Title: READ THIS SHIT ITS SERIOUS DD
+#Author: InvinctusSs
+#Post URL: [https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/](https://www.reddit.com/r/GME/comments/merl62/read_this_shit_its_serious_dd/)
 
 
 GUYS, NOTHING THATS HAPPENING RIGHT NOW IS JUST A COINCIDENCE.
@@ -14,7 +15,7 @@ According to FINRA ownership reports Blackrock reported on 28th of JAN 14.1 mill
 
 The fact G Sachs and M Stanley sold FUCKING billions of dollars of stocks in one day ([https://www.reddit.com/r/GME/comments/men5ta/something\_big\_is\_going\_to\_happen/](https://www.reddit.com/r/GME/comments/men5ta/something_big_is_going_to_happen/)), which i think its the increased margin required by the sec after we've seen GME rise up from 110 to 200 to 180 because apparently this guys are clearing houses for some headgies
 
-Also check the fuckery about that astronomical buy order from level 2.(![https://www.reddit.com/r/GME/comments/mbx43o/could\_the\_new\_tos\_glitch\_number\_signal\_a\_price\_to/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbx43o/could_the_new_tos_glitch_number_signal_a_price_to/?utm_source=share&utm_medium=web2x&context=3)). Last time that happened has seen us jump from 45 to 350  really fucking quick. RIght now were more or less exactly there.
+Also check the fuckery about that astronomical buy order from level 2.([https://www.reddit.com/r/GME/comments/mbx43o/could\_the\_new\_tos\_glitch\_number\_signal\_a\_price\_to/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/GME/comments/mbx43o/could_the_new_tos_glitch_number_signal_a_price_to/?utm_source=share&utm_medium=web2x&context=3)). Last time that happened has seen us jump from 45 to 350  really fucking quick. RIght now were more or less exactly there.
 
 Also everybudy fucking know about the certainty of the annual meeting and the obligatory share callback.
 

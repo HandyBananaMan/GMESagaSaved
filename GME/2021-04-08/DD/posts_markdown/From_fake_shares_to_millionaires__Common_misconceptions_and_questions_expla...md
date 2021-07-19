@@ -1,5 +1,6 @@
-# Author: BinBender
-# Post URL: [https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/](https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/)
+#Title: From fake shares to millionaires! 🚀 Common misconceptions and questions explained for apes! 🦍 + My theory for the best exit strategy! 💎🚀🌙
+#Author: BinBender
+#Post URL: [https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/](https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/)
 
 
 Okay fellow apes, I see a lot of confusion and worries about all sorts of stuff, especially all this mess with real, fake and synthetic shares, what exactly short sellers need to do to cover, and also when it comes to selling your shares, a topic we don't discuss too much, because apes only know how to BUY and HODL! 💎🤲🏼
@@ -37,7 +38,7 @@ I'll use the following 4-step illustrating to explain this stuff. (You don't nee
 
 &#x200B;
 
-[4-step illustration of short selling](https://preview.redd.it/x50tp2fm7xr61.png?width=2765&format=png&auto=webp&s=ea40db4bbb9681aa778ca4870c8641902fceba2b)
+![4-step illustration of short selling](https://preview.redd.it/x50tp2fm7xr61.png?width=2765&format=png&auto=webp&s=ea40db4bbb9681aa778ca4870c8641902fceba2b)
 
 **Step 1:** There are 70M shares issued by the company (the shares outstanding), no shares are sold short, and no apes are confused.
 
@@ -198,7 +199,7 @@ Even if you don't completely buy my theory, I believe there are some general gui
 * **Trust your fellow apes!** Apes together strong! In the end, squeezing those Shits is a collective effort, and the peak of the squeeze will be determined by the collective effort of all apes. If you trust that your fellow apes are holding, you will hold too!
 * **Don't listen to anyone saying the squeeze is over until it is over!** The MSM, maybe even our subs, will be overrun by people telling you to "cash in before it's too late", or anything that will convince you that the squeeze is over, and all other apes are selling. **Don't you dare believe them!** Stay calm, stick to your plan, and follow all the above guidelines. This is not over until it's over!
 
-If you want to read more about exit strategy, I recommend ![Warden's post](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/). You will also find more links in the compilation of all DD in r/GME.
+If you want to read more about exit strategy, I recommend [Warden's post](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/). You will also find more links in the compilation of all DD in r/GME.
 
 **What did we learn?**
 

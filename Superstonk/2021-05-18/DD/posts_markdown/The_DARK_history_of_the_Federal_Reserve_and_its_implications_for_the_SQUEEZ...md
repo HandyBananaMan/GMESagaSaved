@@ -1,5 +1,6 @@
-# Author: Clashroyaleclanman
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/](https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/)
+#Title: The DARK history of the Federal Reserve and its implications for the SQUEEZE! Citadel, Melvin and and Robinhood are just puppets! Part 1
+#Author: Clashroyaleclanman
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/](https://www.reddit.com/r/Superstonk/comments/nfa1t3/the_dark_history_of_the_federal_reserve_and_its/)
 
 
 TL;DR Repost with different title for visibility! The Fed controls our country and us in every way shape and form, nothing bad in our country has happened by accident. Money is the root of all evil. Check the video if your not a reader...[https://youtu.be/dw4xZKM9T4c](https://youtu.be/dw4xZKM9T4c)
@@ -34,7 +35,7 @@ I think you all prolly get the point by now, but if not let's elaborate. In 1775
 
 &#x200B;
 
-[Sound Familiar?](https://preview.redd.it/6f3iritalvz61.png?width=259&format=png&auto=webp&s=9e9ed50bda5e714ffdcac56d710ce463440f1d6d)
+![Sound Familiar?](https://preview.redd.it/6f3iritalvz61.png?width=259&format=png&auto=webp&s=9e9ed50bda5e714ffdcac56d710ce463440f1d6d)
 
 Flash forward to 1783, America has won it's Independence from England! However, it's battle with the Central Bank (CB) concept and the corruption associated with it had just begun. Just in case I am leaving so of you behind, a CB is an institution that manages the [currency](https://en.wikipedia.org/wiki/Currency) and [monetary policy](https://en.wikipedia.org/wiki/Monetary_policy) of a [state](https://en.wikipedia.org/wiki/State_(polity)) or formal monetary union. Based on historical precedent, a CB has two major forms of power: **Interest Rates** and **Inflation** (Money Supply).
 
@@ -114,7 +115,7 @@ https://preview.redd.it/0a75cp03lvz61.png?width=297&format=png&auto=webp&s=c4328
 
 https://preview.redd.it/fxgokcw0lvz61.png?width=225&format=png&auto=webp&s=a17f4ecdfafd179af3e763a208142912464432d6
 
-[ In 1933 the highlighted phrase was removed from the money in circulation and the Gold Standard was abolished. ](https://preview.redd.it/2ty37a8ykvz61.png?width=818&format=png&auto=webp&s=a948e9f36a6741019b7d5071d68c9ad4c54d4202)
+![ In 1933 the highlighted phrase was removed from the money in circulation and the Gold Standard was abolished. ](https://preview.redd.it/2ty37a8ykvz61.png?width=818&format=png&auto=webp&s=a948e9f36a6741019b7d5071d68c9ad4c54d4202)
 
 Now our dollars are backed and limited by nothing and therefore in full control of the Federal Reserve.
 

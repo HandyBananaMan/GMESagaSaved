@@ -1,5 +1,6 @@
-# Author: G_KG
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/](https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/)
+#Title: The Inter-market Sweep; a.k.a the "straight up-and-down thingies" that are definitely NOT a glitch
+#Author: G_KG
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/](https://www.reddit.com/r/Superstonk/comments/ok1bta/the_intermarket_sweep_aka_the_straight_upanddown/)
 
 
 Hello all you glorious apes and apettes, I'm back after a break for more psychological abuse!  Actually I can't get enough....  the thought of Gabe Plotkin scouring my message board is....  brb sec cold shower time  (source: [https://finance.yahoo.com/news/melvin-t-shake-reddit-attack-205148761.html](https://finance.yahoo.com/news/melvin-t-shake-reddit-attack-205148761.html) )
@@ -16,7 +17,7 @@ It was pointed out that a whole lot of stocks did this "straight DOWN thingy" al
 
 A.K.A. The most common thing that you never knew existed in the market. WHY?  Because fuck retail investors, why would we need to know anything??? as usual.  From [https://ibkr.info/node/1734](https://ibkr.info/node/1734) :
 
-[They happen All.  The.  Time.](https://preview.redd.it/q9vshtglj5b71.png?width=1088&format=png&auto=webp&s=a0b8f2a83f7de8c38ee85bef03c7fe401eebbb52)
+![They happen All.  The.  Time.](https://preview.redd.it/q9vshtglj5b71.png?width=1088&format=png&auto=webp&s=a0b8f2a83f7de8c38ee85bef03c7fe401eebbb52)
 
 Let's explain why this is not a "common" trading technique, first.  So, there's a group of rules called "regulation NMS" that defines what is and is not "legal" to do while trading. From [https://www.investopedia.com/terms/r/regulation-nms.asp](https://www.investopedia.com/terms/r/regulation-nms.asp) :
 
@@ -70,7 +71,7 @@ Our platforms will average out the sweeps as soon as you refresh or change the t
 
 Only the hedgies performing them know, and we can only guess. Sites will say "because speed is valued over price," but that means.... nothing??  What I have noticed ANECDOTALLY (Read- this is THEORY until I get confirmation) is that sweeps are used when bull whales and short whales are fighting over a stock's price-  If you've watched level 2 data ever, I'm sure you've noticed "buy walls"  and "sell walls," a huuuuuge # of orders at one particular price just  beyond the best bid/offer, that sort of buffers the price: [This Site does a nice job of explaining](https://www.yurikoval.com/blog/2018/10/understanding-buy-and-sell-walls.html)
 
-[Credit: https:\/\/www.yurikoval.com\/blog\/2018\/10\/understanding-buy-and-sell-walls.html](https://preview.redd.it/lnxtk9bpk5b71.png?width=960&format=png&auto=webp&s=d8ccc62a4918aabf6f840e7b5b411f22acec7135)
+![Credit: https:\/\/www.yurikoval.com\/blog\/2018\/10\/understanding-buy-and-sell-walls.html](https://preview.redd.it/lnxtk9bpk5b71.png?width=960&format=png&auto=webp&s=d8ccc62a4918aabf6f840e7b5b411f22acec7135)
 
 When a sweep  order is filled, it "sweeps the lvl 2 book" as described above,  obliterating any buy or sell walls that have been put up  instantaneously. So THAT is what I think they're using it for..... A  really expensive way to instantly evaporate all of your enemies' defenses. With no buy/sell wall active any more, the price may be influenced far more easily.
 

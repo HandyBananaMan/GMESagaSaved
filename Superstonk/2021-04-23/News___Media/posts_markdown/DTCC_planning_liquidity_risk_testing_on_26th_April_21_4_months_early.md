@@ -1,5 +1,6 @@
-# Author: bosh023
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc_planning_liquidity_risk_testing_on_26th/](https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc_planning_liquidity_risk_testing_on_26th/)
+#Title: DTCC planning liquidity risk testing on 26th April 21 (4 months early)
+#Author: bosh023
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc_planning_liquidity_risk_testing_on_26th/](https://www.reddit.com/r/Superstonk/comments/mww2ah/dtcc_planning_liquidity_risk_testing_on_26th/)
 
 
 What's interesting here is, this is an annual test which was last completed 24th Aug20, this test has effectively been brought forward to 26th April 21. The 2019 test was conducted on 26th Aug 2019. I feel it adds to the general conscious that something is brewing behind the scenes relating to leverage. 
@@ -12,4 +13,4 @@ Capped Contingency Liquidity Facility (“CCLF®”) is an integral part of the 
 
 **AUG20 - notice to all members** 
 
-![https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf](https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf)
+[https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf](https://www.dtcc.com/-/media/Files/pdf/2020/6/24/MBS861-20.pdf)

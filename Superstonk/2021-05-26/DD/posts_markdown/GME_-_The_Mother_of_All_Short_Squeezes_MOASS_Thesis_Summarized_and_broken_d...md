@@ -1,8 +1,9 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/)
+#Title: $GME - The Mother of All Short Squeezes (MOASS) Thesis. Summarized and broken down in a way for all (or most) to understand. We are in the end-game everyone, and this rocket is taking off with or without you. If you want to understand that whole "GME thing" this is my best shot at explaining it
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/)
 
 
->Not Fincical Advice, I am not a financial advisor[.](https://i.redd.it/xrcur2axv4571.jpg)
+>Not Fincical Advice, I am not a financial advisor![.](https://i.redd.it/xrcur2axv4571.jpg)
 
 [French Translation, Courtesy of "The Bagguette Guy"](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -37,12 +38,9 @@ I have found myself more active on [Twitter](https://twitter.com/intent/user?scr
    * If you want to follow SuperStonk Mods Active on Twitter:
       * u/RedChessQueen99 \- [Follow](https://twitter.com/intent/user?screen_name=RedChessQueen99)
       * u/Rensole \- [Follow](https://twitter.com/intent/user?screen_name=Rensole)
-      * u/pinkcatsonacid \- [Follow](https://twitter.com/intent/user?screen_name=pinkcatsonacid)
       * u/Bye_Triangle \- [Follow](https://twitter.com/intent/user?screen_name=ByeTriangle)
       * u/sharkbaitlol \- [Follow](https://twitter.com/intent/user?screen_name=u_sharkbaitlol)
       * u/Bradduck_Flyntmoore \- [Follow](https://twitter.com/intent/user?screen_name=BradduckF)
-      * u/grungromp \- [Follow](https://twitter.com/intent/user?screen_name=grungromp)
-      * u/Hey_Madie \- [Follow](https://twitter.com/intent/user?screen_name=MetaMadie)
 
 # IV. TL;DR (Also at bottom)
 
@@ -482,7 +480,7 @@ At this point, if you are still reading this, know that it is up to you to decid
 5. The manipulators are at the mercy of a vicious trade cycle (t+21 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
 7. Eventually, the prices of GME will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be able to satisfy due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default and get forcibly liquidated by their prime broker
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
 # IX. Hedgies, velkommen til helvete. Vi kommer for tårene dine.

@@ -1,5 +1,6 @@
-# Author: Wiezgie
-# Post URL: [https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/](https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/)
+#Title: WSB is banning users spreading positive/reinforcing DD, Robinhood shares are being used to sell to short sellers behind your back if you do not downgrade to a Cash acouunt, GME is FAR from over!
+#Author: Wiezgie
+#Post URL: [https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/](https://www.reddit.com/r/GME/comments/letjv3/wsb_is_banning_users_spreading/)
 
 
 Every share you purchase off Robinhood is through margin, even if you dont have gold or margin turned on.
@@ -20,7 +21,7 @@ People who have tried to speak out:
 
 [https://www.reddit.com/r/wallstreetbets/comments/lel3zx/check\_your\_acount\_status\_now\_shady\_brokers/](https://www.reddit.com/r/wallstreetbets/comments/lel3zx/check_your_acount_status_now_shady_brokers/)
 
-![https://www.reddit.com/r/wallstreetbets/comments/lec568/please\_read\_i\_work\_at\_fidelity\_investments\_in\_the/](https://www.reddit.com/r/wallstreetbets/comments/lec568/please_read_i_work_at_fidelity_investments_in_the/)
+[https://www.reddit.com/r/wallstreetbets/comments/lec568/please\_read\_i\_work\_at\_fidelity\_investments\_in\_the/](https://www.reddit.com/r/wallstreetbets/comments/lec568/please_read_i_work_at_fidelity_investments_in_the/)
 
  
 

@@ -1,5 +1,6 @@
-# Author: YouShallSource
-# Post URL: [https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/](https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/)
+#Title: Some Citadel employees are leaving while Citadel is hiring head of flow trading
+#Author: YouShallSource
+#Post URL: [https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/](https://www.reddit.com/r/GME/comments/mmwpjg/some_citadel_employees_are_leaving_while_citadel/)
 
 
 tldr:
@@ -11,4 +12,4 @@ Citadel is hiring a new head of flow trading. (Flow trading:  Engaging in flow t
 sources:   
 [https://www.efinancialcareers.com/news/2021/04/quant-jobs-technology-jobs-hedge-funds](https://www.efinancialcareers.com/news/2021/04/quant-jobs-technology-jobs-hedge-funds)
 
-![https://www.efinancialcareers.com/news/2021/04/david-kim-bank-of-america-citadel](https://www.efinancialcareers.com/news/2021/04/david-kim-bank-of-america-citadel)
+[https://www.efinancialcareers.com/news/2021/04/david-kim-bank-of-america-citadel](https://www.efinancialcareers.com/news/2021/04/david-kim-bank-of-america-citadel)

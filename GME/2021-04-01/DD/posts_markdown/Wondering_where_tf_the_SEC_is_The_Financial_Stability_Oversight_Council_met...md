@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
+#Title: Wondering where tf the SEC is? The Financial Stability Oversight Council met yesterday, including the HEDGE FUND WORKING GROUP, and why I think it confirms the Everything Short DD.
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/](https://www.reddit.com/r/GME/comments/mhw44x/wondering_where_tf_the_sec_is_the_financial/)
 
 
 DISCLAIMER: POLITICS ARE DISCUSSED, BUT ONLY ON AN UNBIASED, FACTUAL LEVEL. NO PARTISAN POLITICS HERE! I’m even leaving some details out to avoid saying certain names to trigger argument or auto mod. Anyways...
@@ -12,7 +13,7 @@ Now, the mainstream media keeps saying that the focus of this meeting was [clima
 
 Now, the good shit... The climate change part was an open meeting. But the meeting’s agenda included a [closed door deliberation](https://www.bloomberg.com/news/articles/2021-03-31/yellen-signals-scrutinizing-hedge-funds-is-a-renewed-fsoc-focus-kmxuj4hu) on open end mutual funds and hedge fund activities. Janet Yellen said she is re-establishing the “Hedge Fund Working Group”- a ~~Pres. O~~ era team of high officials within the council that will *scrutinize hedge funds in particular*, and will also look at ways of making funding markets that serve as the lifeblood of the financial sector more resilient. THE LAST TIME THIS GROUP MET WAS IN 2016.
 
-![Here's the press release ](https://s.wsj.net/public/resources/documents/TreasuryStatement.pdf)
+[Here's the press release ](https://s.wsj.net/public/resources/documents/TreasuryStatement.pdf)
 
 Also of note from the document: 
 

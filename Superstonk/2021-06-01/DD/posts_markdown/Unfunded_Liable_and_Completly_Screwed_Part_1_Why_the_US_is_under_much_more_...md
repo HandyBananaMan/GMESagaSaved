@@ -1,5 +1,6 @@
-# Author: Magistricide
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/](https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/)
+#Title: Unfunded, Liable and Completly Screwed Part 1: Why the US is under much more debt than you think
+#Author: Magistricide
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/](https://www.reddit.com/r/Superstonk/comments/nq22pe/unfunded_liable_and_completly_screwed_part_1_why/)
 
 
 A lot of people have been saying "What if the government shuts down the squeeze? What if they're afraid of economic turmoil?" I brought up trade agreement violations and loss of trust, but those aren't very convincing. So I'd like to bring up why I know the government won't stop the squeeze. **A huge short squeeze would be MUCH better than the alternative economic turmoil they will experience.** And no, I'm not going to talk about "loss of faith" or "trade agreement violations." This DD is about unfunded liabilities, and how the squeeze will be the ONLY option left to pay them back, avoiding hyperinflation and bankruptcy. (TLDR at bottom)
@@ -16,7 +17,7 @@ So why am I talking about unfunded liabilities? Well. . . the US has a lot of th
 
 This mostly comes from Social Security and Medicare, but also excess spending and military. As we all know, the US's medical system is corrupt and only favours those with an extreme amount of money. When the government foots the bill, that's not a light one. However, it's not JUST "Big pharma" taking the government's money. The government has been fucking up too.
 
-[But fuck Big Pharma too, this is the shit they do.](https://preview.redd.it/ouyswx063p271.jpg?width=591&format=pjpg&auto=webp&s=c9092dcebfa08f7e889199cfe1626ec8bb9c5eec)
+![But fuck Big Pharma too, this is the shit they do.](https://preview.redd.it/ouyswx063p271.jpg?width=591&format=pjpg&auto=webp&s=c9092dcebfa08f7e889199cfe1626ec8bb9c5eec)
 
 Source [here](https://www.snopes.com/fact-check/alex-smith-died-couldnt-afford-insulin/).
 
@@ -28,11 +29,11 @@ But if the problem with medical expenses is the lack of government interest, Soc
 
 Let me preface this by saying that for 57% of people, social security accounts for a majority of their income. [Even the shills at CNBC agree](https://www.cnbc.com/2020/12/01/why-social-security-may-run-out-of-cash-really-soon.html). Yet, in this same article, you'll see that social security is. . . running out? How is this possible? They blame it on ageing demographics. But that's not the full picture. [People benefiting usually take out more than they put in](https://www.cbpp.org/research/social-security/understanding-the-social-security-trust-funds-0), even accounting for inflation. Take a look between 1982's demographics and 2019 demographics.
 
-[1982 Population pyramid for the US](https://preview.redd.it/u91yn2zczo271.jpg?width=635&format=pjpg&auto=webp&s=80c8750648aa502b4aed78dfcd834f1819f9ac20)
+![1982 Population pyramid for the US](https://preview.redd.it/u91yn2zczo271.jpg?width=635&format=pjpg&auto=webp&s=80c8750648aa502b4aed78dfcd834f1819f9ac20)
 
 So it seems like there are many more younger people working and paying for social security, and only a few people taking that money out. In this system, social security works.
 
-[2019 Population Pyramid for US](https://preview.redd.it/nlf4deng0p271.jpg?width=661&format=pjpg&auto=webp&s=3f032b76e68709ef82405e8920e93ac9a14fa005)
+![2019 Population Pyramid for US](https://preview.redd.it/nlf4deng0p271.jpg?width=661&format=pjpg&auto=webp&s=3f032b76e68709ef82405e8920e93ac9a14fa005)
 
 Well, it seems there are far more people taking social security payments compared to the people paying in. Considering that people tend to take more than they put in, it's no wonder why it's failing.
 
@@ -50,7 +51,7 @@ The numbers differ so much because of the way unfunded liabilities are calculate
 
 &#x200B;
 
-[Laurence Kotlikoff, the man behind the numbers](https://preview.redd.it/as8j5kn14p271.jpg?width=217&format=pjpg&auto=webp&s=6ba6a07317efb6a62088a2bca9b6f7568fbb4dd2)
+![Laurence Kotlikoff, the man behind the numbers](https://preview.redd.it/as8j5kn14p271.jpg?width=217&format=pjpg&auto=webp&s=6ba6a07317efb6a62088a2bca9b6f7568fbb4dd2)
 
 I'll spare you the complex math these Nobel Laureates used to calculate infinite horizon, but basically, the further out in years you go, the less the costs and income matters. So a debt worth 10 trillion in the future may only be worth 1 trillion in the calculation.
 
@@ -66,13 +67,13 @@ I'm honestly struggling to find a good source to find out who borrowed what amou
 
 &#x200B;
 
-[Bill Clinton may have had sexual relations with a women, but at least he didn't add to debt](https://preview.redd.it/so4w3vcl7p271.jpg?width=799&format=pjpg&auto=webp&s=f20f5c76b6d424a92ad71ac2adac56ca6b7122fc)
+![Bill Clinton may have had sexual relations with a women, but at least he didn't add to debt](https://preview.redd.it/so4w3vcl7p271.jpg?width=799&format=pjpg&auto=webp&s=f20f5c76b6d424a92ad71ac2adac56ca6b7122fc)
 
 Regardless of where you borrowed from, it's a fact that they love borrowing.
 
 If you search it up, you just get blasted with "No, the government isn't stealing from you." No one gives a shit if the government says they're "borrowing", if they don't plan on paying it back, it doesn't matter. The problem is that with the unfunded liabilities, they may not pay it back. They're putting up a strawman argument and tearing that apart. **Kinda similar to the GME situation, don't you think?**
 
-[CNBC with pretty much everything](https://preview.redd.it/owlrcs9h4p271.jpg?width=596&format=pjpg&auto=webp&s=d31e892638f5ecd5b5854b660fb49f2d9ee6d69b)
+![CNBC with pretty much everything](https://preview.redd.it/owlrcs9h4p271.jpg?width=596&format=pjpg&auto=webp&s=d31e892638f5ecd5b5854b660fb49f2d9ee6d69b)
 
 So the government has incentives to keep borrowing, both parties have borrowed tons of money, and they want to be able to continue borrowing, so no one talks about it.
 
@@ -86,7 +87,7 @@ Privatization of health care have lead to rampant cost increases, about [twice a
 
 People take more than they put in, especially with longer life expectancy.
 
-The 1% are barely taxed for social security, the maximum you can be taxed for social security is $8,537.40, ![regardless of what you own](https://www.adp.com/spark/articles/2020/08/social-security-wage-base-for-2020-announced.aspx) (wow, more tax benefits for the 1%).
+The 1% are barely taxed for social security, the maximum you can be taxed for social security is $8,537.40, [regardless of what you own](https://www.adp.com/spark/articles/2020/08/social-security-wage-base-for-2020-announced.aspx) (wow, more tax benefits for the 1%).
 
 To be honest, this doesn't even convince me. I have some speculation on what's happening, but since I can't prove it with sources, I won't elaborate.
 

@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/](https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/)
+#Title: TWO LARGE PURCHASES OF DEEP ITM CALLS TODAY (4/26) AND NONE LAST FRIDAY (4/23)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/](https://www.reddit.com/r/Superstonk/comments/mzaygp/two_large_purchases_of_deep_itm_calls_today_426/)
 
 
 Good Afternoon Apes,
@@ -8,7 +9,7 @@ Sorry for no post last Friday but everyone needs an off day once in awhile. I wi
 
 There were two large block purchases of DEEP ITM calls today at the same time (3:18pm) out of PHLX (Philadelphia): 400 of the $15 calls with expiration 4/30/21 and 280 of the $5 calls expiring 1/20/23. If these were all purchased (i.e. none were sold) this would amount to a $10,758,800 transaction.
 
-[GME Biggest Options Trades 4\/26\/21](https://preview.redd.it/ph97ls8golv61.jpg?width=1226&format=pjpg&auto=webp&s=a90447ff3870f29505b4db81bc92a6330bff826b)
+![GME Biggest Options Trades 4\/26\/21](https://preview.redd.it/ph97ls8golv61.jpg?width=1226&format=pjpg&auto=webp&s=a90447ff3870f29505b4db81bc92a6330bff826b)
 
 I'm curious if we will see another large wave of these appearing this week and historically some of the largest purchases of these DEEP ITM calls has occurred on Wednesdays and Fridays.  It will be interesting to see how things shape up this week and my TITS ARE JACKED to say the least.
 

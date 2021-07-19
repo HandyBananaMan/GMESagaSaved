@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/](https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/)
+#Title: The Daily Stonk 05-26-2021
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/](https://www.reddit.com/r/Superstonk/comments/nlcyfx/the_daily_stonk_05262021/)
 
 
 &#x200B;
@@ -50,7 +51,7 @@ I'm hardly an expert or someone who is allowed to use scissors without supervisi
 
 Yeah this feels like another "Bear Stearns" situation to me.
 
-[reverse Repo going up again](https://preview.redd.it/7brl8wioof171.png?width=857&format=png&auto=webp&s=4debd99f223a76f9f53a544b2dc6ee32ecfb7869)
+![reverse Repo going up again](https://preview.redd.it/7brl8wioof171.png?width=857&format=png&auto=webp&s=4debd99f223a76f9f53a544b2dc6ee32ecfb7869)
 
 &#x200B;
 
@@ -228,7 +229,7 @@ https://preview.redd.it/ttjgz0y8ag171.png?width=828&format=png&auto=webp&s=cc8a9
 
 [https://en.m.wikipedia.org/wiki/Bastille\_Day](https://en.m.wikipedia.org/wiki/Bastille_Day)
 
-This was found by  u/jakksquat7 in his thread ![here](https://www.reddit.com/r/Superstonk/comments/nl2vld/july_14th_the_date_of_the_gme_crypto_coin_launch/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+This was found by  u/jakksquat7 in his thread [here](https://www.reddit.com/r/Superstonk/comments/nl2vld/july_14th_the_date_of_the_gme_crypto_coin_launch/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 \------------------------------------------------------------
 

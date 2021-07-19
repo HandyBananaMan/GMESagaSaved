@@ -1,5 +1,6 @@
-# Author: pdwp90
-# Post URL: [https://www.reddit.com/r/GME/comments/mlhfd5/ive_been_scraping_data_used_by_hedge_funds_for/](https://www.reddit.com/r/GME/comments/mlhfd5/ive_been_scraping_data_used_by_hedge_funds_for/)
+#Title: I've been scraping data used by hedge funds for over a year now to make it freely available to everyone. I think I might start doing regular data reports on $GME on here if there's interest, let me know if you have any feedback on the report below.
+#Author: pdwp90
+#Post URL: [https://www.reddit.com/r/GME/comments/mlhfd5/ive_been_scraping_data_used_by_hedge_funds_for/](https://www.reddit.com/r/GME/comments/mlhfd5/ive_been_scraping_data_used_by_hedge_funds_for/)
 
 
 This report is primarily comprised of "alternative data" which can be loosely thought of as data that comes from outside of traditional sources like earnings reports. The reason this type of data gets me so jacked is because it's data that retail investors (you guys) often have an edge over Wall Street in interpreting.
@@ -16,13 +17,13 @@ Here's a graph of the twitter following of GameStop Corporate (@gamestopcorp) ov
 
 &#x200B;
 
-[GameStop Corporate Twitter following over time](https://preview.redd.it/drcz07neclr61.png?width=1586&format=png&auto=webp&s=dcb597cee47d341d7ef7fb31c5e5b671678c3e58)
+![GameStop Corporate Twitter following over time](https://preview.redd.it/drcz07neclr61.png?width=1586&format=png&auto=webp&s=dcb597cee47d341d7ef7fb31c5e5b671678c3e58)
 
 # [Off-Exchange Activity](https://www.quiverquant.com/offexchange/GME)
 
 Yesterday, 5.13 million shares of GME were traded off-exchange and 2.48 million of those shares were sold short, giving GME a DPI of approximately .48. Below is a graph of the cumulative net off-exchange short volume since 2010:
 
-[$GME cumulative net OTC short volume](https://preview.redd.it/oh50okh4clr61.png?width=1322&format=png&auto=webp&s=92ac7000546394d8a53cecdf8a705d2042ffb560)
+![$GME cumulative net OTC short volume](https://preview.redd.it/oh50okh4clr61.png?width=1322&format=png&auto=webp&s=92ac7000546394d8a53cecdf8a705d2042ffb560)
 
 # [Wikipedia](https://www.quiverquant.com/sources/wikipedia/GME)
 
@@ -40,7 +41,7 @@ The discussion around $GME has a sentiment score of .576, which is the highest i
 
 "Insider trading" used in this context just means trading reported by company insiders, not the illegal trading. Over the last 6 months, GameStop's directors and management have bought 2.79M shares of $GME and sold 226k.
 
-# ![Trading by US Congressmen](https://www.quiverquant.com/sources/senatetrading)
+# [Trading by US Congressmen](https://www.quiverquant.com/sources/senatetrading)
 
 There haven't been any trades of $GME in the last week by congressmen.
 

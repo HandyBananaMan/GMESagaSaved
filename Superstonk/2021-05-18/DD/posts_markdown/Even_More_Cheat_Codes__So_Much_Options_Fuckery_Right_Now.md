@@ -1,5 +1,6 @@
-# Author: Get-It-Got
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nfczb2/even_more_cheat_codes_so_much_options_fuckery/](https://www.reddit.com/r/Superstonk/comments/nfczb2/even_more_cheat_codes_so_much_options_fuckery/)
+#Title: Even More Cheat Codes — So Much Options Fuckery Right Now!!!
+#Author: Get-It-Got
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nfczb2/even_more_cheat_codes_so_much_options_fuckery/](https://www.reddit.com/r/Superstonk/comments/nfczb2/even_more_cheat_codes_so_much_options_fuckery/)
 
 
 It seems to me like the only thing options are good for right now is giving bad actors the option to pull off some master fuckery in the markets, and maybe even wiggle their way out of the inevitable margin calls and liquidations that should be coming their way — all because of some overly greedy, piss-poor, and possibly even illegal, trading activities.
@@ -86,8 +87,8 @@ Edit #1: #BanOptionsTrading
 
 **Spread this far and wide, my fellow apes.**
 
-[Smells like ... desperation.](https://preview.redd.it/vpkbi9nrnwz61.png?width=1942&format=png&auto=webp&s=918c538c831f3149fa0641a799c6641f5aff247c)
+![Smells like ... desperation.](https://preview.redd.it/vpkbi9nrnwz61.png?width=1942&format=png&auto=webp&s=918c538c831f3149fa0641a799c6641f5aff247c)
 
 **Edit #3: Nevermind the above ... I think this was triggered because I included a link about Alex Kearns in one of my comments. Let's not forget Alex Kearns!**
 
-**Edit #4:** ![https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent\_ape\_still\_complaining\_about\_gme/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent_ape_still_complaining_about_gme/?utm_source=share&utm_medium=web2x&context=3)
+**Edit #4:** [https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent\_ape\_still\_complaining\_about\_gme/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nfn5jo/vincent_ape_still_complaining_about_gme/?utm_source=share&utm_medium=web2x&context=3)

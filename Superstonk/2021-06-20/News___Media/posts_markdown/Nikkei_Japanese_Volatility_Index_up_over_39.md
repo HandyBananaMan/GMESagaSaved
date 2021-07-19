@@ -1,5 +1,6 @@
-# Author: CeryxiaXII
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o4lv1t/nikkei_japanese_volatility_index_up_over_39/](https://www.reddit.com/r/Superstonk/comments/o4lv1t/nikkei_japanese_volatility_index_up_over_39/)
+#Title: Nikkei (Japanese) Volatility Index: up over 39%
+#Author: CeryxiaXII
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o4lv1t/nikkei_japanese_volatility_index_up_over_39/](https://www.reddit.com/r/Superstonk/comments/o4lv1t/nikkei_japanese_volatility_index_up_over_39/)
 
 
 https://i.redd.it/d185fcxhej671.png

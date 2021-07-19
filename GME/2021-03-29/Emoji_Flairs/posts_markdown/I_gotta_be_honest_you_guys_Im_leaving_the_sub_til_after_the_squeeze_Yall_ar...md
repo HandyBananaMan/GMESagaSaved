@@ -1,5 +1,6 @@
-# Author: -ordinary
-# Post URL: [https://www.reddit.com/r/GME/comments/mfujgv/i_gotta_be_honest_you_guys_im_leaving_the_sub_til/](https://www.reddit.com/r/GME/comments/mfujgv/i_gotta_be_honest_you_guys_im_leaving_the_sub_til/)
+#Title: I gotta be honest you guys. I’m leaving the sub til after the squeeze. Y’all are trippin.
+#Author: -ordinary
+#Post URL: [https://www.reddit.com/r/GME/comments/mfujgv/i_gotta_be_honest_you_guys_im_leaving_the_sub_til/](https://www.reddit.com/r/GME/comments/mfujgv/i_gotta_be_honest_you_guys_im_leaving_the_sub_til/)
 
 
 I’ve transcended my worries. And I know what I need to do (BUY and HOLD). What else is there? I can wait this bitch out as long as need be. 

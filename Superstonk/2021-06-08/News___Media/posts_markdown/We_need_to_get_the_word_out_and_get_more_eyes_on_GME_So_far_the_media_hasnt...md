@@ -1,5 +1,6 @@
-# Author: Bombxing
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/](https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/)
+#Title: We need to get the word out and get more eyes on GME. So far the media hasn't done a great job at it so I've decided to take action. Tomorrow, June 9th, The Tendieman will be broadcast to radio stations AROUND THE WORLD for all to hear. BUT I NEED YOUR HELP!
+#Author: Bombxing
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/](https://www.reddit.com/r/Superstonk/comments/nv8y63/we_need_to_get_the_word_out_and_get_more_eyes_on/)
 
 
 **TL:DR I have now registered my song, The Tendieman, to be played on the radio. I am in contact with a fellow ape (** u/HelloYouBeautiful **) who has contacted radio stations AROUND THE WORLD to play this song for all to hear on Wednesday 6/9 (P.S. He and I have a non-monetized agreement). BUT this is where I need a hand. We need people to contact these stations telling them that YOU WANT TO HEAR MORE TENDIEMAN. We can only convince the stations to play the song initially. Contact info, times, and radio stations will be listed at the bottom of this post. You can also call in to your own local stations and request they play The Tendieman as well. More calls = higher chance of it being played.**
@@ -10,7 +11,7 @@ I made The Tendieman ([https://www.youtube.com/watch?v=b9oI\_8YG6Vs](https://www
 
 &#x200B;
 Surprised pikachu
-[u\/jkz69](https://preview.redd.it/6rf0f2u412471.png?width=959&format=png&auto=webp&s=8c71400405694183fe16cd3bbe10037091385347)
+![u\/jkz69](https://preview.redd.it/6rf0f2u412471.png?width=959&format=png&auto=webp&s=8c71400405694183fe16cd3bbe10037091385347)
 
 SO, to help spread the truth or at least bring more of the public's eyes on this, I will be submitting The Tendieman to radio stations around the world to play on the day of the shareholder's meeting. Not all of the stations we've contacted were keen to play it BUT YOU CAN STILL REQUEST THIS SONG FROM YOUR LOCAL RADIO STATION. The more requests, the more likely they will play it. @ them on Twitter with #Tendieman and maybe we can get it trending!
 
@@ -34,7 +35,7 @@ SO, to help spread the truth or at least bring more of the public's eyes on this
 
 **Blunt Radio UK Digital Only - (Times below)**
 
-[Blunt Radio times](https://preview.redd.it/19ps6edd12471.png?width=323&format=png&auto=webp&s=31f2abe0eb196a7003313e8f5de06241ec9d3a24)
+![Blunt Radio times](https://preview.redd.it/19ps6edd12471.png?width=323&format=png&auto=webp&s=31f2abe0eb196a7003313e8f5de06241ec9d3a24)
 
 They will be playing the song 11 times tomorrow AT 20 PAST DURING EACH OF THESE HOURS!  EVERYONE WILL GET THEIR 4:20! Tune in live here [https://www.bluntradio.co.uk/listen-live-blunt-radio-uk](https://www.bluntradio.co.uk/listen-live-blunt-radio-uk)
 
@@ -69,9 +70,9 @@ This station covers a very large area in both Alabama and Georgia. From Atlanta 
 
 **Live562 - Long Beach, California (4:20PM PST, 7:20PM EST)**
 
-[This was their first reation when we contacted them. These guys are APEs. \(They also moved out of Robinhood\)](https://preview.redd.it/z2f2u88o12471.png?width=1080&format=png&auto=webp&s=e4137ac911d967a8f356eef2cb7f5d13bcd47f6b)
+![This was their first reation when we contacted them. These guys are APEs. \(They also moved out of Robinhood\)](https://preview.redd.it/z2f2u88o12471.png?width=1080&format=png&auto=webp&s=e4137ac911d967a8f356eef2cb7f5d13bcd47f6b)
 
-[Nice](https://preview.redd.it/9a0xxmnw12471.png?width=1080&format=png&auto=webp&s=c1493e95ef958fd961a9b4b3c6acf4771818a1dc)
+![Nice](https://preview.redd.it/9a0xxmnw12471.png?width=1080&format=png&auto=webp&s=c1493e95ef958fd961a9b4b3c6acf4771818a1dc)
 
 Live562 couldn't stop complaining about a certain *bulgarian boy* owned broker, so they agreed to air this at 4:20PM, LA time. Please tune in a bit before, as I've heard some rumours that the DJ has some words he wants to say to you guys. They have also promised to keep the song in rotation the next 5 days (minimum).
 
@@ -137,7 +138,7 @@ Listen live at http://player.listenlive.co/38431 or tune into 98.3 Wili-FM local
 
 **Kiss FM (Perú)**
 
-* Website: ![https://radioparallevar.com/kissfm/](https://radioparallevar.com/kissfm/)
+* Website: [https://radioparallevar.com/kissfm/](https://radioparallevar.com/kissfm/)
 
 &#x200B;
 

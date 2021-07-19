@@ -1,5 +1,6 @@
-# Author: sydneyfriendlycub
-# Post URL: [https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+#Title: [1/3] The Ultimate DD guide to the moon!!. Crazy Melon
+#Author: sydneyfriendlycub
+#Post URL: [https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/](https://www.reddit.com/r/GME/comments/n2hgxq/13_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 
 **Hey everyone!!!** It’s the crazy 🍉🍉🍉🍉 here!
@@ -159,7 +160,7 @@ I’ll explain a bit more about those TRUST BONDS SOON! Very important
 
 Buy out the competition!
 
-Right after they bought IMC, [they sued The SEC for approving a new “D-limit” order type for IEX](https://i.imgur.com/h2QMqV3.png).
+Right after they bought IMC, ![they sued The SEC for approving a new “D-limit” order type for IEX](https://i.imgur.com/h2QMqV3.png).
 
 **Boom Money Washed!**
 
@@ -295,7 +296,7 @@ CONTINUE IN [PART 2](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimat
 
 [PART 3](https://www.reddit.com/r/GME/comments/n2hjnk/33_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
-![https://www.reddit.com/r/GME/comments/n2hhhn/23\_the\_ultimate\_dd\_guide\_to\_the\_moon\_crazy\_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
+[https://www.reddit.com/r/GME/comments/n2hhhn/23\_the\_ultimate\_dd\_guide\_to\_the\_moon\_crazy\_melon/](https://www.reddit.com/r/GME/comments/n2hhhn/23_the_ultimate_dd_guide_to_the_moon_crazy_melon/)
 
 Lets go!
 

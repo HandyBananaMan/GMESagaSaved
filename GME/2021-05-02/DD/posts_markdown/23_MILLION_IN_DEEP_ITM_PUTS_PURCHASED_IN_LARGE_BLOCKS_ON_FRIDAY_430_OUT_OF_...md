@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/n3fgt1/23_million_in_deep_itm_puts_purchased_in_large/](https://www.reddit.com/r/GME/comments/n3fgt1/23_million_in_deep_itm_puts_purchased_in_large/)
+#Title: $23 MILLION IN DEEP ITM PUTS PURCHASED IN LARGE BLOCKS ON FRIDAY (4/30) OUT OF CBOE (CHICAGO) AND EMLD (MIAMI) EXCHANGES
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/n3fgt1/23_million_in_deep_itm_puts_purchased_in_large/](https://www.reddit.com/r/GME/comments/n3fgt1/23_million_in_deep_itm_puts_purchased_in_large/)
 
 
  Happy Sunday Apes,

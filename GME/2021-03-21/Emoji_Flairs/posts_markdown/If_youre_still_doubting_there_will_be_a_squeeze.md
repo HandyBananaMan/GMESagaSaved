@@ -1,5 +1,6 @@
-# Author: Asvard
-# Post URL: [https://www.reddit.com/r/GME/comments/ma06hh/if_youre_still_doubting_there_will_be_a_squeeze/](https://www.reddit.com/r/GME/comments/ma06hh/if_youre_still_doubting_there_will_be_a_squeeze/)
+#Title: If you're still doubting there will be a squeeze...
+#Author: Asvard
+#Post URL: [https://www.reddit.com/r/GME/comments/ma06hh/if_youre_still_doubting_there_will_be_a_squeeze/](https://www.reddit.com/r/GME/comments/ma06hh/if_youre_still_doubting_there_will_be_a_squeeze/)
 
 
 Then ask youself:  

@@ -1,8 +1,9 @@
-# Author: Evorus_Krayde
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxpve5/remember_citadel_sued_the_sec_last_year_over_its/](https://www.reddit.com/r/Superstonk/comments/nxpve5/remember_citadel_sued_the_sec_last_year_over_its/)
+#Title: REMEMBER: Citadel sued the SEC last year over its decision to approve a new mechanism for trading stocks at upstart exchange operator IEX Group Inc. Usually business isn't personal, but something tells me the SEC would be happy to have a go at Kenny after he cried foul and caused a ruckus.
+#Author: Evorus_Krayde
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxpve5/remember_citadel_sued_the_sec_last_year_over_its/](https://www.reddit.com/r/Superstonk/comments/nxpve5/remember_citadel_sued_the_sec_last_year_over_its/)
 
 
-![Shitadel sues SEC over its decision to approve a new mechanism for trading stocks at upstart exchange operator IEX Group Inc.](https://www.google.ca/amp/s/mobile.reuters.com/article/amp/idUSKBN27201E)
+[Shitadel sues SEC over its decision to approve a new mechanism for trading stocks at upstart exchange operator IEX Group Inc.](https://www.google.ca/amp/s/mobile.reuters.com/article/amp/idUSKBN27201E)
 
 **EDIT: UNLESS I'M READING THIS WRONG, CITADEL WAS PISSY PANTS THAT RETAIL WOULD HAVE MORE PROTECTION OVER UNFAVORABLE PRICE MOVES:**
 

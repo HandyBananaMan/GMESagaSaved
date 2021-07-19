@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/](https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/)
+#Title: Never a Borrower Be: A synopsis of GME's 1% Borrow Rate
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/](https://www.reddit.com/r/Superstonk/comments/ntpkuy/never_a_borrower_be_a_synopsis_of_gmes_1_borrow/)
 
 
 Hello Superstonk!
@@ -50,7 +51,7 @@ This led me to the thought
 
 It could be if the lenders can make it lucrative for the SHFs to short why would they stop so I started building a scenario in my head what if the deal looks something like this.
 
-[ Incentivized borrowing agreement ](https://preview.redd.it/5xm15c5r6o371.png?width=1300&format=png&auto=webp&s=eb18908ca4ca150abc6725bea4786ee5b3179e75)
+![ Incentivized borrowing agreement ](https://preview.redd.it/5xm15c5r6o371.png?width=1300&format=png&auto=webp&s=eb18908ca4ca150abc6725bea4786ee5b3179e75)
 
 So the lender lays out a deal where simply by posting the cash collateral the SHF is able to short the stock at no fee while earning the interest or profits off the cash held in collateral. This incentivizes the SHF to continue shorting the stock as the are making profits while accumulating larger and larger short positions. While the Lender accrues more and more collateral.
 

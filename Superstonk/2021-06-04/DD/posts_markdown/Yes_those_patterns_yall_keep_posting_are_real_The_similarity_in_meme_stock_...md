@@ -1,5 +1,6 @@
-# Author: squirrel_of_fortune
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/](https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/)
+#Title: Yes, those patterns y'all keep posting are real! The similarity in meme stock price movement is statistically significant and differs significantly from a control group of boomer stocks (answer to u/HomeDepotHank69).
+#Author: squirrel_of_fortune
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/](https://www.reddit.com/r/Superstonk/comments/ns8dhk/yes_those_patterns_yall_keep_posting_are_real_the/)
 
 
 So, this post is in response to u/HomeDepotHank69 ‘s request for DD into correlation between stock price movements.
@@ -25,11 +26,11 @@ See picture below: normalising the daily high price to the highest price over th
 
 &#x200B;
 
-[This is the high price, after normalisation to the higher price seen in the last year to date. I don't wanna lead you apes, but I would say that the boomer stocks \(dashed\) look different to the meme stocks \(non-dashed\). But that is not scientific enough!](https://preview.redd.it/glxb4bjuk9371.png?width=815&format=png&auto=webp&s=c3260c91c53b7919792481bd61364514a87c72fb)
+![This is the high price, after normalisation to the higher price seen in the last year to date. I don't wanna lead you apes, but I would say that the boomer stocks \(dashed\) look different to the meme stocks \(non-dashed\). But that is not scientific enough!](https://preview.redd.it/glxb4bjuk9371.png?width=815&format=png&auto=webp&s=c3260c91c53b7919792481bd61364514a87c72fb)
 
 Next picture: after the normalisation described in the methods section below to remove the general background movement of the stock market. I did not expect KOSS to be that similar. Maybe Hank did. The numbers in this plot are large due to the normalisation, but we don't care about the exact numbers we care about the patterns here. This graph shows us that GME and its friends are doing something really fucking odd this year to date!
 
-[Normalised as described to remove the NASDAC background](https://preview.redd.it/g85bn2a6l9371.png?width=832&format=png&auto=webp&s=84af213daa4b5c9857416b8691766e128f283a2b)
+![Normalised as described to remove the NASDAC background](https://preview.redd.it/g85bn2a6l9371.png?width=832&format=png&auto=webp&s=84af213daa4b5c9857416b8691766e128f283a2b)
 
 **Question 1. Are meme stocks similar to each other? Would they be clustered together?**
 
@@ -39,7 +40,7 @@ How to 'read' these pictures, the grey lines are the stocks over the time period
 
 **Before (in 2020):**
 
-[Stonks behaving normally. Note AMC and GME are in different clusters. Cluster 1 is stocks that go down, cluster 2 is stocks that go up. This is for the June 2020 to Dec 2020](https://preview.redd.it/hfgwsop9m9371.png?width=539&format=png&auto=webp&s=2bd45d3443dcd41e46fbd395ee4a4b2aee8dfeac)
+![Stonks behaving normally. Note AMC and GME are in different clusters. Cluster 1 is stocks that go down, cluster 2 is stocks that go up. This is for the June 2020 to Dec 2020](https://preview.redd.it/hfgwsop9m9371.png?width=539&format=png&auto=webp&s=2bd45d3443dcd41e46fbd395ee4a4b2aee8dfeac)
 
 The best answer is **2** clusters: 
 
@@ -53,7 +54,7 @@ The two measures gave the best answer 2 clusters and four clusters.
 
 The two cluster answer:
 
-[Meme stonks in cluster 1, boomer stocks in cluster 2, roughly. \(y axis is mislabelled sorry, these are low prices\). This is Jan 2021-June 2021](https://preview.redd.it/05djchs4n9371.png?width=539&format=png&auto=webp&s=fcc287bcdf9b010c49df232ecaa990412e486c58)
+![Meme stonks in cluster 1, boomer stocks in cluster 2, roughly. \(y axis is mislabelled sorry, these are low prices\). This is Jan 2021-June 2021](https://preview.redd.it/05djchs4n9371.png?width=539&format=png&auto=webp&s=fcc287bcdf9b010c49df232ecaa990412e486c58)
 
 *2 clusters (best on one measure)*
 
@@ -67,7 +68,7 @@ The 4 cluster answer
 
 &#x200B;
 
-[Cluster 1. Some meme stocks and GM, peak around Jan, cluster 4, GME and AMC, doing their squeeze thing? Cluster 2 and 3, normal stocks doing normal things. \(Again mislabelled y axis, sorry, is defo low prices\). Jan 2021- June 2021](https://preview.redd.it/o1jdl6vcn9371.png?width=802&format=png&auto=webp&s=720b780ca6a28d6db78c354b6f3eff8c9fc59ad3)
+![Cluster 1. Some meme stocks and GM, peak around Jan, cluster 4, GME and AMC, doing their squeeze thing? Cluster 2 and 3, normal stocks doing normal things. \(Again mislabelled y axis, sorry, is defo low prices\). Jan 2021- June 2021](https://preview.redd.it/o1jdl6vcn9371.png?width=802&format=png&auto=webp&s=720b780ca6a28d6db78c354b6f3eff8c9fc59ad3)
 
 **Cluster 1: \['KOSS', 'NAKD', 'BBBY', 'GM'\]**
 
@@ -207,7 +208,7 @@ After normalisation, datasets were tested for how correlated they were using the
 
 We want to find similar patterns in the stock movements without assuming a. that we would see exact changes at the exact same time point and b, that the changes will be the same size. We cope with assumption a by using dynamic time warping distance metric (and b was the reason we did some of that normalisation). We use a machine learning clustering algorithm that can work with time-series data and compare the stonks using this dynamic time warping stuff. We test from 1 cluster up to 7 clusters using standard methods to determine which cluster is the best (inertia+elbow method and silhouette score), then we look at the clusters and see which stocks were put where. 
 
-(see [https://github.com/tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) ![https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3](https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3))
+(see [https://github.com/tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) [https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3](https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3))
 
 We do all this with each of the data dimensions (i.e. high, low, open, close, adjusted close and volume) and also with ALL OF THEM. And get pretty much the same results, btw, only LOW data is covered in this write up.
 

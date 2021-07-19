@@ -1,5 +1,6 @@
-# Author: sharkbaitlol
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/](https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/)
+#Title: CHAOS THEORY - The EVERYTHING Connection [Reposted]
+#Author: sharkbaitlol
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/](https://www.reddit.com/r/Superstonk/comments/moswde/chaos_theory_the_everything_connection_reposted/)
 
 
 EDIT 1: THE MODS DID NOT TAKE DOWN THE POST. THIS WAS A RESULT OF ME ATTEMPTING TO INCLUDE THE STORY BELOW IN EDIT 4 FROM A BLACKLISTED SITE ARTICLE WHICH CAUSED THE AUTOMOD TO DELETE THE POST. I hoped that the removal of the link fixed the text but it didn't, this is a Reddit issue, not a mod one. LAY OFF THE MOD NARRATIVE
@@ -14,7 +15,7 @@ EDIT 5: It is not my intention to make this community appear as a team of conspi
 
 EDIT 6: Look I get it, some of you feel that the fact we have tax havens around the world AREN'T a big deal. What is interesting however is that all these players are registered to the same place, and it appears that the government wants to do something about it
 
-EDIT 7 (April 12th, 2021): We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: ![https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
+EDIT 7 (April 12th, 2021): We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: [https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
 
 &#x200B;
 
@@ -64,7 +65,7 @@ My name is [/u/sharkbaitlol](https://www.reddit.com/user/sharkbaitlol) and over 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-As we know **Sus**quehanna has been of interest in recent weeks due to their suspicious nature of their position within the GME saga. This suspicion grew quickly when some Redditors pointed out that Dr. Burry may have been pointing a finger at Susquehanna through a hidden message on [Twitter](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/) (whether this is really what was happening is up to you) - now we have **Sus** attempting to [appeal new DTCC regulations](https://www.reddit.com/r/Wallstreetbetsnew/comments/mmh5jb/susquehanna_is_sus_part_2_elia_the_occ801_rule/) **SR-OCC-2021-003** to make things even weirder. Their growing position prompted me me to start doing a deep dive on their positions across the market; particularly how they've [DOUBLED](https://i.imgur.com/KEE1ZQl.png) in size since the start of the pandemic, parties of association, and conflict of interest across the stock market. What I was able to find has left me baffled at how interconnected all this actually is. **Remember this throughout this post, THERE ARE NO COINCINDICES.**
+As we know **Sus**quehanna has been of interest in recent weeks due to their suspicious nature of their position within the GME saga. This suspicion grew quickly when some Redditors pointed out that Dr. Burry may have been pointing a finger at Susquehanna through a hidden message on [Twitter](https://www.reddit.com/r/Superstonk/comments/mlf82b/the_missing_citadels_frenemies_pfof_michael/) (whether this is really what was happening is up to you) - now we have **Sus** attempting to [appeal new DTCC regulations](https://www.reddit.com/r/Wallstreetbetsnew/comments/mmh5jb/susquehanna_is_sus_part_2_elia_the_occ801_rule/) **SR-OCC-2021-003** to make things even weirder. Their growing position prompted me me to start doing a deep dive on their positions across the market; particularly how they've ![DOUBLED](https://i.imgur.com/KEE1ZQl.png) in size since the start of the pandemic, parties of association, and conflict of interest across the stock market. What I was able to find has left me baffled at how interconnected all this actually is. **Remember this throughout this post, THERE ARE NO COINCINDICES.**
 
 We begin by looking at **Sus**quehanna's filings to the SEC. We're able to figure out that they break down into multiple connections with the following:
 
@@ -266,7 +267,7 @@ As I was compiling this information look for no further than the POTUS himself f
 
 >*I've also proposed a global minimum tax... Let me tell you what the means, that means companies won't be able to hide their incomes in places like the Cayman Islands or Bermuda*
 
-**EDIT (April 12th, 2021):** We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: ![https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
+**EDIT (April 12th, 2021):** We now have the inclusion of **Mr. Gary Gensler** to the mix who will be heading the SEC starting the 19th of April (talk about timing huh). He specializes in cryptocurrencies and darkpools - but more importantly he was the only that finally called on the banks during the 2008 recession: [https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/](https://tax.thomsonreuters.com/news/senate-set-to-approve-gary-gensler-nomination-for-sec-chairman-but-likely-for-brief-term/)
 
 &#x200B;
 

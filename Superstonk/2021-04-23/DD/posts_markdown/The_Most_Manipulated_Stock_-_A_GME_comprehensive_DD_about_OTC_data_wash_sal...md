@@ -1,5 +1,6 @@
-# Author: plants69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/](https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/)
+#Title: The Most Manipulated Stock - A GME comprehensive DD about OTC data, wash sales, married puts, FTDs & dark pools
+#Author: plants69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/](https://www.reddit.com/r/Superstonk/comments/mx25li/the_most_manipulated_stock_a_gme_comprehensive_dd/)
 
 
 It's not at all new information that GME is being f\*cked with in about every single way imaginable. This is a comprehensive DD that combs through key data and looks at Citadel's prior infractions in order to make connections with how Shitadel and friends have been influencing $GME price action.
@@ -32,18 +33,18 @@ Contents:
 
 # January OTC Data
 
-[The total shares volume for GME was 525,247,645 in OTC January data. ](https://preview.redd.it/hgwtn2gfvyu61.png?width=2260&format=png&auto=webp&s=5800c80722c5df9333ea6d21bb6fb6f5610af605)
+![The total shares volume for GME was 525,247,645 in OTC January data. ](https://preview.redd.it/hgwtn2gfvyu61.png?width=2260&format=png&auto=webp&s=5800c80722c5df9333ea6d21bb6fb6f5610af605)
 
 * **Citadel traded around 250 million shares in about 2.5 million trades, meaning each trade had about an average of 100 shares.** This low volume per trade signals that Citadel is likely using OTC trades to route small retail orders and the recently published February data is even more damning.
 
 # February OTC Data
 
-[The average of Citadel volume per trade shrunk to 115mil\/2.6mil per trade or roughly 44 shares per average trade of GME OTC. ](https://preview.redd.it/8x362sjhvyu61.png?width=2276&format=png&auto=webp&s=ddeb05cb689599834bb56081628ddea520a68d5a)
+![The average of Citadel volume per trade shrunk to 115mil\/2.6mil per trade or roughly 44 shares per average trade of GME OTC. ](https://preview.redd.it/8x362sjhvyu61.png?width=2276&format=png&auto=webp&s=ddeb05cb689599834bb56081628ddea520a68d5a)
 
 * How can monthly trading volume on the OTC be this high if the float of GME is so much smaller? Where is this liquidity coming from?
 * Let’s have a look at Robinhood’s GME OTC data from February once we scroll down this list.
 
-[In February 2021, Robinhood Securities LLC exchanged 774,632 shares over the OTC in about 772,023 trades. Let that sink in. ](https://preview.redd.it/dplj2c3kvyu61.png?width=2260&format=png&auto=webp&s=6e66ea03aa942e5b39d94ea6b2a8fe09c6d8af99)
+![In February 2021, Robinhood Securities LLC exchanged 774,632 shares over the OTC in about 772,023 trades. Let that sink in. ](https://preview.redd.it/dplj2c3kvyu61.png?width=2260&format=png&auto=webp&s=6e66ea03aa942e5b39d94ea6b2a8fe09c6d8af99)
 
 * **THE AVERAGE SHARES PER GME OTC TRADE UNDER ROBINHOOD WAS ONE SHARE!! YOU REALLY CAN’T MAKE THIS UP!!!**
 * This is significant because Robinhood is a **retail broker** & retail investors have been overwhelmingly buying shares through its platform (Not anymore I hope. GTFO of Robinhood). Low volume per trade signifies that Robinhood is routing even its smallest orders through OTC & dark pools in order to suppress $GME price. 
@@ -80,7 +81,7 @@ Date, see January or February of 2021 or new months if available
 * "A dark pool is a privately organized financial forum or exchange for trading securities. Dark pools allow institutional investors to trade without exposure until after the trade has been executed and reported. **Dark pools are a type of alternative trading system (ATS) that give certain investors the opportunity to place large orders and make trades without publicly revealing their intentions during the search for a buyer or seller."**
 * Dark pools are meant for certain investors to place **LARGE ORDERS** with almost no transparency.
 
-[Source: WS on Parade ](https://preview.redd.it/l18eixfyvyu61.jpg?width=489&format=pjpg&auto=webp&s=64bd2e93edb7bac4269502083174e7249d1f75c5)
+![Source: WS on Parade ](https://preview.redd.it/l18eixfyvyu61.jpg?width=489&format=pjpg&auto=webp&s=64bd2e93edb7bac4269502083174e7249d1f75c5)
 
 * "During the week of that big spike in share price, the week of January 25, two of the biggest names on Wall Street used their Dark Pools to trade big amounts of GameStop shares. **UBS’s Dark Pool ranked number one in both share volume and the number of trades. It traded 10.66 million shares of GameStop in a total of 217,118 trades. One of JPMorgan Chase’s Dark Pools, JPM-X (the SEC allows it to have two Dark Pools) ranked number two for the week with 5.15 million shares of GameStop traded in a total of 30,835 trades."**
 * "But here’s what doesn’t make sense about those numbers. Both UBS and JPMorgan Chase focus on institutional and high net worth clients. If you divide the January 25 weekly share volume for UBS by the number of trades, it works out to an **average trade size of approximately 49 shares – an odd lot. If you do the same for JPMorgan’s Dark Pool, it works out to an average trade of 167 shares."**
@@ -89,7 +90,7 @@ Institutions will typically place orders between **1,000 and 10,000 shares** thr
 
 **Chart: Weekly Average GME Shares per Trade via ATS/Dark Pools**
 
-[Source: Finra's public ATS data on GME. ](https://preview.redd.it/uasaz1f4wyu61.png?width=750&format=png&auto=webp&s=a96579d89832d06ca2c75fea62029cc5dd8e1231)
+![Source: Finra's public ATS data on GME. ](https://preview.redd.it/uasaz1f4wyu61.png?width=750&format=png&auto=webp&s=a96579d89832d06ca2c75fea62029cc5dd8e1231)
 
 * Notice how the average of shares per trade decreases after GME's big spike and stays low.
 * Some Dark Pools work as intended. For example: in week 2/1/21 **Blackrock's dark pool traded 189,312 shares of GME in 19 trades for an average of 9,963 shares per trade.** In this same week BIDS traded 99800 shares over 196 trades for an average of 509 shares of GME per trade.
@@ -159,7 +160,7 @@ The Welborn article describes the case for \[stock\], but the implications remai
    * Disclaimer: Some of this post is speculative, but I still think the data presented is really interesting and definitely worth a read if you haven't seen it yet.
    * TLDR: OP built an AI that detected 140 million FTDs via Deep ITM calls, married puts, and other dark pool trading data.
    * Deep ITM calls were purchased and immediately exercised in order to "deliver" counterfeit shares to reset the FTD cycle. Another excellent post that dissects this:
-      * ![https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
+      * [https://www.reddit.com/r/GME/comments/mhv22h/the\_si\_is\_fake\_i\_found\_44000000\_million\_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
 
 # Do the SEC & DTCC know that missing FTDs can be obscured?
 

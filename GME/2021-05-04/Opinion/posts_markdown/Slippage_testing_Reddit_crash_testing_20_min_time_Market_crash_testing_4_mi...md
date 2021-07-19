@@ -1,5 +1,6 @@
-# Author: FarLingonberry2498
-# Post URL: [https://www.reddit.com/r/GME/comments/n504qd/slippage_testing_reddit_crash_testing_20_min_time/](https://www.reddit.com/r/GME/comments/n504qd/slippage_testing_reddit_crash_testing_20_min_time/)
+#Title: Slippage testing, Reddit crash testing 20 min time, Market crash testing 4 min time. this is testing week for HF
+#Author: FarLingonberry2498
+#Post URL: [https://www.reddit.com/r/GME/comments/n504qd/slippage_testing_reddit_crash_testing_20_min_time/](https://www.reddit.com/r/GME/comments/n504qd/slippage_testing_reddit_crash_testing_20_min_time/)
 
 
 Looks like HF are preparing for end game.

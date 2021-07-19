@@ -1,5 +1,6 @@
-# Author: Particular-Salt146
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/](https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/)
+#Title: It's time to expose DTCC FINRA and all this gang of corrupt people OURSELVES and ICIJ can help us.
+#Author: Particular-Salt146
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/](https://www.reddit.com/r/Superstonk/comments/nyrzfb/its_time_to_expose_dtcc_finra_and_all_this_gang/)
 
 
 &#x200B;
@@ -18,6 +19,6 @@ It is time for all of this to explode, let us count only on ourselves to lead th
 
 Please dear mods, consider this opportunity u/atobitt u/pinkcatsonacid u/rensole
 
-The link to ICIJ is here : ![https://www.icij.org/](https://www.icij.org/)
+The link to ICIJ is here : [https://www.icij.org/](https://www.icij.org/)
 
 PS: Forgive the mistakes, I am only a French ape in your beautiful forest.

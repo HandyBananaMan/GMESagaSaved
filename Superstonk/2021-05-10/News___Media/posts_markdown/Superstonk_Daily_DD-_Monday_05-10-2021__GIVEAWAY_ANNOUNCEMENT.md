@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/](https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/)
+#Title: Superstonk Daily DD- Monday 05-10-2021 🍌🐈 GIVEAWAY ANNOUNCEMENT!! 🍌🐈
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/](https://www.reddit.com/r/Superstonk/comments/n91bjp/superstonk_daily_dd_monday_05102021_giveaway/)
 
 
 &#x200B;
 
-[Banner submission by u\/JoQuinoa](https://preview.redd.it/fnldxzy897y61.png?width=1920&format=png&auto=webp&s=51903b84e33bed34a0f883b1940880c6f739af74)
+![Banner submission by u\/JoQuinoa](https://preview.redd.it/fnldxzy897y61.png?width=1920&format=png&auto=webp&s=51903b84e33bed34a0f883b1940880c6f739af74)
 
 # Good Morning Superstonk!!!
 
@@ -16,7 +17,7 @@ By the time you're reading this, we'll probably be at 275,000 members!! 🚀🚀
 
 *pro tip because I've seen some comments: every word you see that's underlined and blue is a live link to my source material!*
 
-[🚀🚀🚀🚀🚀](https://preview.redd.it/wbeql6emm7y61.jpg?width=740&format=pjpg&auto=webp&s=f46d8ecf5c569a19e1b02dec84a2ed1a22c90d4e)
+![🚀🚀🚀🚀🚀](https://preview.redd.it/wbeql6emm7y61.jpg?width=740&format=pjpg&auto=webp&s=f46d8ecf5c569a19e1b02dec84a2ed1a22c90d4e)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -36,7 +37,7 @@ There's been a lot of posts floating around this weekend pertaining to the new [
 
 **IT DOES NOT** eliminate the extension already implemented on 002 or any others.
 
-[not it](https://preview.redd.it/08044elpw6y61.jpg?width=1100&format=pjpg&auto=webp&s=7a45785911869b39ec6abcfe7e156bcda2b0fac0)
+![not it](https://preview.redd.it/08044elpw6y61.jpg?width=1100&format=pjpg&auto=webp&s=7a45785911869b39ec6abcfe7e156bcda2b0fac0)
 
 # THIS RULING DOES NOTHING FOR MOASS AS A STANDALONE RULE
 
@@ -52,7 +53,7 @@ There's been a lot of posts floating around this weekend pertaining to the new [
 
 &#x200B;
 
-[Where go?](https://preview.redd.it/d9sm8mpbv6y61.png?width=924&format=png&auto=webp&s=e4152f7c81d43c45d1dd76da8f6002361fc77bac)
+![Where go?](https://preview.redd.it/d9sm8mpbv6y61.png?width=924&format=png&auto=webp&s=e4152f7c81d43c45d1dd76da8f6002361fc77bac)
 
 Remember when I posted last week [about the -1million volume anomaly](https://www.reddit.com/r/Superstonk/comments/n5pk8v/negative_1_million_volume_after_hours/?utm_medium=android_app&utm_source=share) that happened on May 5 and I said it was most likely due to a CTS server reboot that caused a glitch? [Well, IT HAPPENED AGAIN.](https://www.reddit.com/r/Superstonk/comments/n728ty/it_happened_again_last_night_2_million_volume/?utm_source=share&utm_medium=web2x&context=3) This time for -2 million. And once is an anomaly. Twice is something else entirely.
 
@@ -68,7 +69,7 @@ Totally trippin' Pink Cats theory 👽 : The dark pool orders being unable to ex
 
 &#x200B;
 
-[Carl Hagberg, OG Ape ](https://preview.redd.it/ddayumr4d7y61.png?width=226&format=png&auto=webp&s=9f5e3906475b194e85efd0a5eaab7afbd168d1c7)
+![Carl Hagberg, OG Ape ](https://preview.redd.it/ddayumr4d7y61.png?width=226&format=png&auto=webp&s=9f5e3906475b194e85efd0a5eaab7afbd168d1c7)
 
 # [The official Carl Hagberg AMA question thread is LIVE NOW!](https://www.reddit.com/r/Superstonk/comments/n8qq8v/official_ama_carl_hagberg_retail_shareholder/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -92,7 +93,7 @@ Well we gotchu fam. Carl is literally THE OG EXPERT. [We love Carl](https://www.
 
 **THIS COULD BE THE MOST IMPORTANT ELECTION OF YOUR LIFE TO VOTE IN!!**
 
-[Exercise your right to VOTE!!! \(artwork by u\/Bye-Triangle\) ](https://preview.redd.it/5ydvqyicz6y61.png?width=1000&format=png&auto=webp&s=5e5e43b553b195db7971ea6feacbf2219414c21c)
+![Exercise your right to VOTE!!! \(artwork by u\/Bye-Triangle\) ](https://preview.redd.it/5ydvqyicz6y61.png?width=1000&format=png&auto=webp&s=5e5e43b553b195db7971ea6feacbf2219414c21c)
 
 # And while we're talking about voting...
 
@@ -104,7 +105,7 @@ I know so many of you still haven't gotten your flairs, I am so sorry!! Some of 
 
 HUGE shoutout to u/redchessqueen99 for coding this bad boy and saving the whole mod team some clicks!
 
-[!apevote!](https://preview.redd.it/ppv9cbsj77y61.jpg?width=660&format=pjpg&auto=webp&s=34f82c401fadc9972d95d5650865346f702daea7)
+![!apevote!](https://preview.redd.it/ppv9cbsj77y61.jpg?width=660&format=pjpg&auto=webp&s=34f82c401fadc9972d95d5650865346f702daea7)
 
 # [You can ](https://www.reddit.com/r/Superstonk/comments/n6isp6/rock_the_vote_proxy_voting_101_the_most_important/?utm_source=share&utm_medium=web2x&context=3)[read the Rock the Vote post here to learn the steps for voting! VOTE ASAP!!](https://www.reddit.com/r/Superstonk/comments/n6isp6/rock_the_vote_proxy_voting_101_the_most_important/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -112,7 +113,7 @@ HUGE shoutout to u/redchessqueen99 for coding this bad boy and saving the whole 
 
 # Kenny doesn't know how to use a VPN
 
-[The 1 area in Chicago googling \\"Superstonk\\" ](https://preview.redd.it/9d111webe7y61.png?width=2732&format=png&auto=webp&s=8230164480dd0b42d9c4506314bbb96e7ff0cc91)
+![The 1 area in Chicago googling \\"Superstonk\\" ](https://preview.redd.it/9d111webe7y61.png?width=2732&format=png&auto=webp&s=8230164480dd0b42d9c4506314bbb96e7ff0cc91)
 
 # [For those that don't know, here is the location of Citadel HQ (zoom out a bit)](https://goo.gl/maps/MhgSBQhR9njtv5K38)
 
@@ -165,7 +166,7 @@ Many American apes are asking for information/websites/links on how to contact t
 
 # [Report Fraud to the FTC](https://www.ftc.gov/faq/consumer-protection/submit-consumer-complaint-ftc)
 
-[But imma keep doing it anyway](https://preview.redd.it/9vcoe657b7y61.jpg?width=540&format=pjpg&auto=webp&s=102e874a1437684ce8f9326932799b0cedd14bcb)
+![But imma keep doing it anyway](https://preview.redd.it/9vcoe657b7y61.jpg?width=540&format=pjpg&auto=webp&s=102e874a1437684ce8f9326932799b0cedd14bcb)
 
 Also, here's a message from [u/redchessqueen99](https://www.reddit.com/u/redchessqueen99/):
 
@@ -185,7 +186,7 @@ This is the 1 corner of the internet where everyone is equal and none of that di
 
 # 📢📦INTERNATIONAL GIVEAWAY ANNOUNCEMENT!! 📢📦
 
-[Gamestop Limited Edition Bananya Cat Squeezy Plush](https://preview.redd.it/4ajzaoagb7y61.png?width=1300&format=png&auto=webp&s=dc40dc61f9b48fea3afcb8c20427907a2784c60b)
+![Gamestop Limited Edition Bananya Cat Squeezy Plush](https://preview.redd.it/4ajzaoagb7y61.png?width=1300&format=png&auto=webp&s=dc40dc61f9b48fea3afcb8c20427907a2784c60b)
 
 **I've seen y'all posting about the GME bananya cat and talking about how AMAZING it is (because it is.. it's so SQUEEZY!!!!) but the comments from international apes that couldn't order one got me big sad :'(**
 
@@ -195,7 +196,7 @@ This is the 1 corner of the internet where everyone is equal and none of that di
 
 **They will even come with a Roaring Kitty red headband just like mine has!!**
 
-[SQEEEEEEzy](https://preview.redd.it/vmb0gczjb7y61.png?width=640&format=png&auto=webp&s=29ec44f557cd0d011ffff62a0677d27019cf5f82)
+![SQEEEEEEzy](https://preview.redd.it/vmb0gczjb7y61.png?width=640&format=png&auto=webp&s=29ec44f557cd0d011ffff62a0677d27019cf5f82)
 
 I'm also going to use this giveaway to bring some Gamestop corporate attention to twitter, to show how big the demand is for international sales!! [I will be blasting this contest on twitter @ Gamestopcorp et. al](https://twitter.com/PinkCatsOnAcid) to try to get some big eyeballs on the issue!!
 
@@ -245,7 +246,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[Tweet from EB Games Australia ](https://preview.redd.it/vxy7pjt9k7y61.png?width=1125&format=png&auto=webp&s=d68bf2385a0eaa9bf6fd464457fc151e92df0bb5)
+![Tweet from EB Games Australia ](https://preview.redd.it/vxy7pjt9k7y61.png?width=1125&format=png&auto=webp&s=d68bf2385a0eaa9bf6fd464457fc151e92df0bb5)
 
 **Reddit down, wot do?**
 
@@ -263,4 +264,4 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 # 
 
-# Edit: I removed my earlier piece about dark pools as it was determined to be misinformation. Please see ![this response by Dave Lauer](https://www.reddit.com/r/Superstonk/comments/n9331h/dave_lauer_clears_things_up_about_the_dark_pool/?utm_source=share&utm_medium=web2x&context=3) to explain.
+# Edit: I removed my earlier piece about dark pools as it was determined to be misinformation. Please see [this response by Dave Lauer](https://www.reddit.com/r/Superstonk/comments/n9331h/dave_lauer_clears_things_up_about_the_dark_pool/?utm_source=share&utm_medium=web2x&context=3) to explain.

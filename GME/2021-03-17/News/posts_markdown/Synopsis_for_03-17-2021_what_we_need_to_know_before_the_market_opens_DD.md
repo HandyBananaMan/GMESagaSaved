@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-17-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m6x3w5/synopsis_for_03172021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -207,7 +208,7 @@ Negative Beta is now even higher at -8
 
 This is fucking insane
 
-![https://www.reddit.com/r/GME/comments/m6mje0/gme\_beta\_from\_bloomberg\_and\_ownership\_update/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m6mje0/gme_beta_from_bloomberg_and_ownership_update/?utm_medium=android_app&utm_source=share)
+[https://www.reddit.com/r/GME/comments/m6mje0/gme\_beta\_from\_bloomberg\_and\_ownership\_update/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/GME/comments/m6mje0/gme_beta_from_bloomberg_and_ownership_update/?utm_medium=android_app&utm_source=share)
 
 &#x200B;
 

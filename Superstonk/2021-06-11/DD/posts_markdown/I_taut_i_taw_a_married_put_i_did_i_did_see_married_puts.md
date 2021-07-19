@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/](https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/)
+#Title: I taut i taw a married put... i did, i did see married puts...
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/](https://www.reddit.com/r/Superstonk/comments/nxgcu5/i_taut_i_taw_a_married_put_i_did_i_did_see/)
 
 
 &#x200B;
@@ -19,7 +20,7 @@ Yesterday June 10 they telegraphed their moves as clear as day when they perform
 
 Here's their 2 large moves. We're going to anal-yze them further below.
 
-[\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/2mzmc506tm471.png?width=1617&format=png&auto=webp&s=6a55b98516da3b035a83b5940b31413a89cd6097)
+![\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/2mzmc506tm471.png?width=1617&format=png&auto=webp&s=6a55b98516da3b035a83b5940b31413a89cd6097)
 
 &#x200B;
 
@@ -27,7 +28,7 @@ Here's their 2 large moves. We're going to anal-yze them further below.
 
 Let's check those 2 trade spikes for 3000 contracts on the PUT & Call Sides. Looks suspiciously a lot like married puts and/or creation of synthetics.
 
-[\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/ouvjh8f8um471.png?width=1616&format=png&auto=webp&s=bd8facc0b3da83d5bc3c5044dfe0c919794d3783)
+![\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/ouvjh8f8um471.png?width=1616&format=png&auto=webp&s=bd8facc0b3da83d5bc3c5044dfe0c919794d3783)
 
 &#x200B;
 
@@ -39,9 +40,9 @@ Let's check those 2 trade spikes for 3000 contracts on the PUT & Call Sides. Loo
 
 &#x200B;
 
-[\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/rbnljgjlum471.png?width=1616&format=png&auto=webp&s=3de11a1510cbb84779aa8ccaef19611585daaa3b)
+![\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/rbnljgjlum471.png?width=1616&format=png&auto=webp&s=3de11a1510cbb84779aa8ccaef19611585daaa3b)
 
-[\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/oqpaeh65vm471.png?width=2349&format=png&auto=webp&s=3bbd5fbf06b919d1a98044e0741900f2e4f7c9d9)
+![\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/oqpaeh65vm471.png?width=2349&format=png&auto=webp&s=3bbd5fbf06b919d1a98044e0741900f2e4f7c9d9)
 
 LOOK AT THIS SHIT. CLEAR AS FUCKING DAY. ( ͡o ͜ʖ ͡o)
 
@@ -51,7 +52,7 @@ LOOK AT THIS SHIT. CLEAR AS FUCKING DAY. ( ͡o ͜ʖ ͡o)
 
 # GME Minute Chart - Orders Execution Point
 
-[\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/x65y33uoxm471.png?width=2106&format=png&auto=webp&s=498a029ebbbbb3d1cb12f982fddf4899d12f43d1)
+![\( ͡o ͜ʖ ͡o\)](https://preview.redd.it/x65y33uoxm471.png?width=2106&format=png&auto=webp&s=498a029ebbbbb3d1cb12f982fddf4899d12f43d1)
 
 But wait. The price of GME was already dropping before they even did those orders. Why? ( ͡o ͜ʖ ͡o)
 
@@ -71,7 +72,7 @@ Right here i'm going even deeper, into intra-hour(Intra-Day really) Max Pain and
 
 **June 10 - Hourly Max Pain**
 
-[Sorry for the sloppy graph, but i wanted to get this shit out as soon as possible. Some other ape can visualize it better for you. ](https://preview.redd.it/1kku2s6a1n471.png?width=1616&format=png&auto=webp&s=38531b2f0f164a21ab3f69ac5501ac4463060584)
+![Sorry for the sloppy graph, but i wanted to get this shit out as soon as possible. Some other ape can visualize it better for you. ](https://preview.redd.it/1kku2s6a1n471.png?width=1616&format=png&auto=webp&s=38531b2f0f164a21ab3f69ac5501ac4463060584)
 
 The gist of it is that above you're seeing the max pain price based on option open interest for EACH HOUR in the DAY. The Max Pain range here as you see matches almost perfectly yesterday's trading prices.
 
@@ -114,11 +115,11 @@ I have conflicting information on whether married puts are legal or illegal. So 
 
 &#x200B;
 
-[Random SR-DTC-2021-005 Shitpost](https://preview.redd.it/v3nhyt593n471.jpg?width=640&format=pjpg&auto=webp&s=0b8b0552b2dce52344b2e0dce09af24ba705bdd8)
+![Random SR-DTC-2021-005 Shitpost](https://preview.redd.it/v3nhyt593n471.jpg?width=640&format=pjpg&auto=webp&s=0b8b0552b2dce52344b2e0dce09af24ba705bdd8)
 
 Tagging u/buttfarm69 for posterity.
 
-Also, my ![Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
+Also, my [Jacques\_Tits](https://en.wikipedia.org/wiki/Jacques_Tits)
 
 ( ͡o ͜ʖ ͡o) (Related, it's my face throughout finding what i found and writing this post)
 

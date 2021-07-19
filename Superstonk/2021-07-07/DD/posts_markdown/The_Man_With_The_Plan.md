@@ -1,5 +1,6 @@
-# Author: No-Fox-1400
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/](https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/)
+#Title: The Man With The Plan
+#Author: No-Fox-1400
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/](https://www.reddit.com/r/Superstonk/comments/ofiev4/the_man_with_the_plan/)
 
 
 In my last DD I started out with pointing out why I did not think that any of the new financial institutions’ rules will have an effect on MOASS.  I went on to loosely describe what I thought was the plan from RC and how a few concepts people have talked about come into an overall plan.  Here’s the link
@@ -20,7 +21,7 @@ I believe that I have figured out the entire plan that RC had when he started, i
 
 &#x200B;
 
-[The chair man himself](https://preview.redd.it/r3y3x0ifgs971.jpg?width=420&format=pjpg&auto=webp&s=4c65745434157fe7df1509c7b875df92f5fdcb74)
+![The chair man himself](https://preview.redd.it/r3y3x0ifgs971.jpg?width=420&format=pjpg&auto=webp&s=4c65745434157fe7df1509c7b875df92f5fdcb74)
 
 # Prologue
 
@@ -154,7 +155,7 @@ The countdown comes to who blinks first at this point. The hedgies can blink by 
 
 This is why I believe that the final solution will be individual nft tokens of some kind.  A fungible item is by definition interchangeable and divisible for payment in kind. While digital tokens can be non replicable and declared that it has no street value, or whatever mechanism would make it fungible, but non transferable, the fact remains that the DTCC has a precedent of declaring that digital tokens have inherent cash value for payment in lieu of a dividend. Yes there may be workarounds like having to approve any substitute payments, but RC is not risking any of this on the effort of any other person or group to do the right thing.  This plan is doable with only the effort of RC and his team.  No one else has to be involved to cause MOASS.
 
-This link from today I feel back up the multiple wallet theory.  1 GME NFT.  Not the one and only fungible dividends or NFT's.  ![Just a little confirmation bias](https://www.reddit.com/r/Superstonk/comments/of1444/just_a_little_confirmation_bias_gamestops/)  1 GME NFT that wraps up all of the wallets.  And the DTCC won't get access to the wallet until they submit a complete list of beneficial owners all accounted for.
+This link from today I feel back up the multiple wallet theory.  1 GME NFT.  Not the one and only fungible dividends or NFT's.  [Just a little confirmation bias](https://www.reddit.com/r/Superstonk/comments/of1444/just_a_little_confirmation_bias_gamestops/)  1 GME NFT that wraps up all of the wallets.  And the DTCC won't get access to the wallet until they submit a complete list of beneficial owners all accounted for.
 
 The End Begins on July 14th.  The dividend will be announced as the first NFT on the new platform.  The short positions will be contractually obligated to close by someone, or RC takes his ball and goes wherever he wants.  This still causes MOASS.
 

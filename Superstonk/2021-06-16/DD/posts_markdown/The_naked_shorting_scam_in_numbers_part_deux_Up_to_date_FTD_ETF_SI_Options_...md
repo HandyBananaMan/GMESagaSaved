@@ -1,12 +1,13 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/](https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/)
+#Title: The naked shorting scam in numbers part deux: Up to date FTD, ETF, SI, Options & Dark Pool Data. GME is the shorted to shit unicorn that can never happen again.
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/](https://www.reddit.com/r/Superstonk/comments/o14ccz/the_naked_shorting_scam_in_numbers_part_deux_up/)
 
 
 EDIT: This is an important update! I made a mistake with the KOSS ETFs. When searching for ETFs containing this stock I ended up on the page for KOS [https://www.etf.com/stock/KOS](https://www.etf.com/stock/KOS). So all my KOSS ETF plots were wrong. This is just a small part of the post but it does mean that IWM alone can't be driving price in all these meme stocks. And KOSS has no options trading. So weird that it moves with the others, could this be a sign of massive Archegos style exposure in the shadowy unregulated Swaps market??
 
 # Introduction
 
-Since my last major post a lot's happened with our favourite stonk. Top DD apes like u/criand and u/HomeDepotHank69 have dug into how the FTD cycle impacts price down the road. u/RocketApes managed to build a model to predict GME price movements. And we saw another big price movement up to the edge of $350[.](https://preview.redd.it/vd301zksol571.png?width=4500&format=png&auto=webp&s=fc0e1e050248189449d35e7cb5f498a39bb694d3)
+Since my last major post a lot's happened with our favourite stonk. Top DD apes like u/criand and u/HomeDepotHank69 have dug into how the FTD cycle impacts price down the road. u/RocketApes managed to build a model to predict GME price movements. And we saw another big price movement up to the edge of $350![.](https://preview.redd.it/vd301zksol571.png?width=4500&format=png&auto=webp&s=fc0e1e050248189449d35e7cb5f498a39bb694d3)
 
 The purpose of this post is to update a lot of the figures I've shared previously while adding a few more observations. I'll give brief descriptions of what each figure is showing but I'll not go into deep speculation here. Instead I'll possibly work on a follow up theory post in the coming days but already make all the data in this post available to the community.
 
@@ -33,19 +34,19 @@ I don't have the answer to these but I'll put out a bunch of data that might hel
 
 &#x200B;
 
-[Total FTDs for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/vd301zksol571.png?width=4500&format=png&auto=webp&s=fc0e1e050248189449d35e7cb5f498a39bb694d3)
+![Total FTDs for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/vd301zksol571.png?width=4500&format=png&auto=webp&s=fc0e1e050248189449d35e7cb5f498a39bb694d3)
 
 Fails in GME dropped off after the January mini-squeeze but were transferred over to GME containing ETFs from February onwards. IWM and XRT are the most popular ETFs to naked short and fail on. In mid-May IWM, the *iShares Russell 2000 ETF*, had a massive 4 million share spike in FTDs. GME price began to rise steadily shortly after.
 
 &#x200B;
 
-[Total FTDs for GME and all ETFs combined in 2021 with GME close price overlaid.](https://preview.redd.it/12jl7hzuol571.png?width=4500&format=png&auto=webp&s=d2cde3c0a6237ea464cb419c6664b5b9fba393ce)
+![Total FTDs for GME and all ETFs combined in 2021 with GME close price overlaid.](https://preview.redd.it/12jl7hzuol571.png?width=4500&format=png&auto=webp&s=d2cde3c0a6237ea464cb419c6664b5b9fba393ce)
 
 Although I only selected the top 19 GME containing ETFs for most of the analyses (first figure), when I grouped all GME containing ETFs together (more than 70 of them) we see that the pattern of FTDs in 2021 is very similar. This means that the selected 19 ETFs contain almost all of the interesting FTD info.
 
 &#x200B;
 
-[Total FTDs for GME and selected ETFs in since Jan 2020 with GME close price overlaid.](https://preview.redd.it/wb6gjdhzll571.png?width=4500&format=png&auto=webp&s=cdf92de9dbaebbd1542211b936f8ade353235cc9)
+![Total FTDs for GME and selected ETFs in since Jan 2020 with GME close price overlaid.](https://preview.redd.it/wb6gjdhzll571.png?width=4500&format=png&auto=webp&s=cdf92de9dbaebbd1542211b936f8ade353235cc9)
 
 Looking back on GME and ETF FTDs since Jan 2020 we see that the recent large spike in IWM FTDs is actually relatively small compared to some of the FTD spikes seen in 2020. On 3 separate occasions in 2020 IWM FTDs spiked to over 8 million shares.
 
@@ -57,7 +58,7 @@ Here's a figure I put together covering up to the end of May 2021. Clear correla
 
 &#x200B;
 
-[2021 price movements for GME and 2 other well known 'meme' stocks](https://preview.redd.it/0oeky4jf5m571.jpg?width=2414&format=pjpg&auto=webp&s=3fb2229a8e39b33b8e9cd7475ab6c2febb67b7c7)
+![2021 price movements for GME and 2 other well known 'meme' stocks](https://preview.redd.it/0oeky4jf5m571.jpg?width=2414&format=pjpg&auto=webp&s=3fb2229a8e39b33b8e9cd7475ab6c2febb67b7c7)
 
 Since I made this figure the movie stock has diverged from the GME trend. But why? Here are some figures to compare and some basic speculation.
 
@@ -69,15 +70,15 @@ These plots take a look at total fail values for meme stocks and associated ETFs
 
 &#x200B;
 
-[Total Value of FTD fails for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/jf8ckih0pl571.png?width=4500&format=png&auto=webp&s=18d9d3ad79f57ed2b9e9c91523f37a255abee1d1)
+![Total Value of FTD fails for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/jf8ckih0pl571.png?width=4500&format=png&auto=webp&s=18d9d3ad79f57ed2b9e9c91523f37a255abee1d1)
 
 &#x200B;
 
-[Total Value of FTD fails for movie-stock and selected ETFs in 2021 with close price overlaid.](https://preview.redd.it/36ip4ow4pl571.png?width=4500&format=png&auto=webp&s=c64a8b6b2019578e71414cddd1c7cb0e722b2dff)
+![Total Value of FTD fails for movie-stock and selected ETFs in 2021 with close price overlaid.](https://preview.redd.it/36ip4ow4pl571.png?width=4500&format=png&auto=webp&s=c64a8b6b2019578e71414cddd1c7cb0e722b2dff)
 
 &#x200B;
 
-[Total Value of FTD fails for headphone-stock and selected ETFs in 2021 with close price overlaid.](https://preview.redd.it/ugipwpabez571.png?width=4500&format=png&auto=webp&s=e82e4bfd5975a016545709f4e265df7630895148)
+![Total Value of FTD fails for headphone-stock and selected ETFs in 2021 with close price overlaid.](https://preview.redd.it/ugipwpabez571.png?width=4500&format=png&auto=webp&s=e82e4bfd5975a016545709f4e265df7630895148)
 
 What do we notice? Well the value of fails for movie-stock has always been relatively small with just a single day in January with large $100+ million dollar fails. GME has larger fail values in Jan across multiple days but has then dropped off in following months. Headphone stock is a smaller company with direct fails never going above $20 million.
 
@@ -95,15 +96,15 @@ Now we've looked at FTDs in these meme stocks let's take a look at reported shor
 
 &#x200B;
 
-[Total value of reported SI for GME and selected ETFs.](https://preview.redd.it/pcnirq7lpl571.png?width=4500&format=png&auto=webp&s=fe4db101d80512e6893f3556bf013cbaea7581bb)
+![Total value of reported SI for GME and selected ETFs.](https://preview.redd.it/pcnirq7lpl571.png?width=4500&format=png&auto=webp&s=fe4db101d80512e6893f3556bf013cbaea7581bb)
 
 &#x200B;
 
-[Total value of reported SI for movie-stock and selected ETFs.](https://preview.redd.it/ww7elprnql571.png?width=4500&format=png&auto=webp&s=8f655b223c2d571cf593e298c7819b1d40780daf)
+![Total value of reported SI for movie-stock and selected ETFs.](https://preview.redd.it/ww7elprnql571.png?width=4500&format=png&auto=webp&s=8f655b223c2d571cf593e298c7819b1d40780daf)
 
 &#x200B;
 
-[Total value of reported SI for headphone-stock and selected ETFs.](https://preview.redd.it/u347qtsjfz571.png?width=4500&format=png&auto=webp&s=c1727636350be5590f36707dfb5d47d3a17ab720)
+![Total value of reported SI for headphone-stock and selected ETFs.](https://preview.redd.it/u347qtsjfz571.png?width=4500&format=png&auto=webp&s=c1727636350be5590f36707dfb5d47d3a17ab720)
 
 Movie-stock SI value owed is almost exclusively coming from IWM. Since the recent run up the reported SI for the movie-stock has also increased to a similar value owed for current GME reported SI value.
 
@@ -125,11 +126,11 @@ Here I'll compare open option interest for GME and the movie-stock. Headphone-st
 
 &#x200B;
 
-[Total open interest for puts & calls for GME since Jan 2020.](https://preview.redd.it/za8mj3bexl571.png?width=4032&format=png&auto=webp&s=3d0dd92c078bf8fba10cb2c4e542788a7d098610)
+![Total open interest for puts & calls for GME since Jan 2020.](https://preview.redd.it/za8mj3bexl571.png?width=4032&format=png&auto=webp&s=3d0dd92c078bf8fba10cb2c4e542788a7d098610)
 
 &#x200B;
 
-[Total open interest for puts & calls for the movie-stock since Jan 2020.](https://preview.redd.it/ozvo22ffxl571.png?width=4032&format=png&auto=webp&s=aea9d6aa5a6fcb77a45467dc49add853196c7e8e)
+![Total open interest for puts & calls for the movie-stock since Jan 2020.](https://preview.redd.it/ozvo22ffxl571.png?width=4032&format=png&auto=webp&s=aea9d6aa5a6fcb77a45467dc49add853196c7e8e)
 
 &#x200B;
 
@@ -165,13 +166,13 @@ The following plots show relative differences in OTC trading based on each share
 
 &#x200B;
 
-[Normalised OCT trading volumes for 'Squeeze' stocks and other typical stocks.](https://preview.redd.it/4ilrlxa7ul571.png?width=4500&format=png&auto=webp&s=ed29834cb0cbe1ad488e59e687438ef10df52d02)
+![Normalised OCT trading volumes for 'Squeeze' stocks and other typical stocks.](https://preview.redd.it/4ilrlxa7ul571.png?width=4500&format=png&auto=webp&s=ed29834cb0cbe1ad488e59e687438ef10df52d02)
 
 Through January and early Feb the squeeze stocks saw a spike in OTC trading volume on average compared to a typical stock. The total shares traded OTC were not substantially different to other stocks before or after the January period.
 
 &#x200B;
 
-[Normalised OCT trading volumes for 'Squeeze' stocks and other typical stocks.](https://preview.redd.it/g5emeccotl571.png?width=4500&format=png&auto=webp&s=76d9229b8cdfffef0e2286f523c19e3998dc74a5)
+![Normalised OCT trading volumes for 'Squeeze' stocks and other typical stocks.](https://preview.redd.it/g5emeccotl571.png?width=4500&format=png&auto=webp&s=76d9229b8cdfffef0e2286f523c19e3998dc74a5)
 
 When we look at average shares per trade the picture is different. Note that because the data is normalised we are just looking at the relative changes over time for the squeeze stock and typical stock groups.
 
@@ -181,7 +182,7 @@ Some of this could be because of retail taking part in more trades and PFOF issu
 
 EDIT: Adding some more plots specifically to show OTC trade data for GME and the movie stock.
 
-[Normalised OCT trading volumes for GME and the movie stock](https://preview.redd.it/5w47cav14o571.png?width=4500&format=png&auto=webp&s=a90f46991a39f35fa77cc838dc639d04be1a6b5f)
+![Normalised OCT trading volumes for GME and the movie stock](https://preview.redd.it/5w47cav14o571.png?width=4500&format=png&auto=webp&s=a90f46991a39f35fa77cc838dc639d04be1a6b5f)
 
 &#x200B;
 

@@ -1,10 +1,11 @@
-# Author: TDETLES
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/](https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/)
+#Title: ANTI-FUD. Questions for yourself if you are feeling any doubt. Questions you can ask a shill too, if you want to break their brain.
+#Author: TDETLES
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/](https://www.reddit.com/r/Superstonk/comments/oiqeop/antifud_questions_for_yourself_if_you_are_feeling/)
 
 
 &#x200B;
 
-[An example of a broken brain when they provided the shittiest answers to some of these questions.](https://preview.redd.it/sf73377bzra71.jpg?width=1079&format=pjpg&auto=webp&s=3024b039b74db2cfe8b14435bb3ad86b92e4edca)
+![An example of a broken brain when they provided the shittiest answers to some of these questions.](https://preview.redd.it/sf73377bzra71.jpg?width=1079&format=pjpg&auto=webp&s=3024b039b74db2cfe8b14435bb3ad86b92e4edca)
 
 When the buy button was shut off by brokers in January, if SHFs were covering their short positions why did the price drop rather than continuing to increase? We know they had to buy the entire float of shares back and then some, past squeezes tell us no one can do this would be impossible to do in one day.
 
@@ -61,7 +62,7 @@ What happened to the FTDs? Before the January run-up we have millions of FTDs so
 
 &#x200B;
 
-[Pre-January run-up with millions of FTDs a day.](https://preview.redd.it/rewviucp0sa71.png?width=1661&format=png&auto=webp&s=d5494c595d844a6011c139748104c43321bc3782)
+![Pre-January run-up with millions of FTDs a day.](https://preview.redd.it/rewviucp0sa71.png?width=1661&format=png&auto=webp&s=d5494c595d844a6011c139748104c43321bc3782)
 
 &#x200B;
 

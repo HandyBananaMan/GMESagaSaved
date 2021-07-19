@@ -1,5 +1,6 @@
-# Author: Ren3666
-# Post URL: [https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/](https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/)
+#Title: The Great Reset - The laundry machine of the Government, hyperprocrastination of the Future & the Bond Market
+#Author: Ren3666
+#Post URL: [https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/](https://www.reddit.com/r/GME/comments/mjv3oj/the_great_reset_the_laundry_machine_of_the/)
 
 
 Disclaimer: This not my style. Skip this whole part entirely and just go down to enjoy your bullish DD on GME below, because anything hereafter is just my stomach turning around. >!And that´s it. I literally want to stop writing at this point. I even considered how I phrase this. This is the beginning of this DD and I have no strength left. It´s not even due to GME, for the curious Ape´s that couldn´t follow my advice, but no matter how much I Ape this down, use Emojis you all like or idk what stuff you would like to see, but this topic...idk. I am currently sitting in front of my PC and I hope I am delusional, because I am realizing a scheme that shouldn´t exist. And I don´t mean naked shorting. Every dot I input is literally me taking a break.!<
@@ -142,7 +143,7 @@ And for convenience sake I will just create my own logo for it. Because if the g
 
 &#x200B;
 
-[ My own Debt Denomination Logo  ](https://preview.redd.it/rueietixd5r61.png?width=164&format=png&auto=webp&s=0784bf1c313194127751ff4fd853b0290e1af82f)
+![ My own Debt Denomination Logo  ](https://preview.redd.it/rueietixd5r61.png?width=164&format=png&auto=webp&s=0784bf1c313194127751ff4fd853b0290e1af82f)
 
 So what you need to understand is that bonds are our national debt, which works the same everywhere (worldwide) and these I.O.U.s will be paid by the public, everyone who is taxed (Tax Havens make a whole lot more sense now).
 

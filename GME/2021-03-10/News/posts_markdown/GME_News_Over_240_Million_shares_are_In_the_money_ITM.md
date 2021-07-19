@@ -1,5 +1,6 @@
-# Author: CoastalHotDog835
-# Post URL: [https://www.reddit.com/r/GME/comments/m1yp2o/gme_news_over_240_million_shares_are_in_the_money/](https://www.reddit.com/r/GME/comments/m1yp2o/gme_news_over_240_million_shares_are_in_the_money/)
+#Title: $GME News: Over 2.40 Million shares are In the money (ITM) 🚀🚀
+#Author: CoastalHotDog835
+#Post URL: [https://www.reddit.com/r/GME/comments/m1yp2o/gme_news_over_240_million_shares_are_in_the_money/](https://www.reddit.com/r/GME/comments/m1yp2o/gme_news_over_240_million_shares_are_in_the_money/)
 
 
 *HiHi, Before I get down to showing the data I just want to state that I'm taking on a new approach in posting and will uploading daily options flow data, as well as comparing it to the previous day. This is intended for informational purposes and acts as more news than DD.* 
@@ -12,7 +13,7 @@
 
 # Calls
 
-[A brief snippet of the options chain. Blue highlight ITM calls](https://preview.redd.it/yf4kg5a4i7m61.png?width=1337&format=png&auto=webp&s=07c54bfec21171cea39237c3a5812d1d36f94b62)
+![A brief snippet of the options chain. Blue highlight ITM calls](https://preview.redd.it/yf4kg5a4i7m61.png?width=1337&format=png&auto=webp&s=07c54bfec21171cea39237c3a5812d1d36f94b62)
 
 * **Over 24k calls are still open** 
 * **24k calls = 2.40 million shares (1 option = 100 shares)**

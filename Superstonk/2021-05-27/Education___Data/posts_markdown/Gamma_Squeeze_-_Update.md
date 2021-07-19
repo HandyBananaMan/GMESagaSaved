@@ -1,5 +1,6 @@
-# Author: yelyah2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/](https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/)
+#Title: Gamma Squeeze - Update
+#Author: yelyah2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/](https://www.reddit.com/r/Superstonk/comments/nmj0vf/gamma_squeeze_update/)
 
 
 TLDR: GME had the right conditions for a gamma squeeze today, but attention/ equity volume was diverted to AMC, which made the GME momentum slow down. However, the current higher price is being supported by other indicators, so hopefully we can build on it from here and be ready for the next opportunity.
@@ -16,7 +17,7 @@ Today, we made solid gains in the price, but not a squeeze. The gamma neutral pr
 
 &#x200B;
 
-[GME 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/c10okn6ufq171.png?width=910&format=png&auto=webp&s=9df3cb0e1f21e991887bf8b557b692602a5faf76)
+![GME 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/c10okn6ufq171.png?width=910&format=png&auto=webp&s=9df3cb0e1f21e991887bf8b557b692602a5faf76)
 
 The good news here, is that the delta neutral price had a meaningful increase for the first time since March. The Delta Neutral price is important for creating a price floor, and acts as a resistance if the price drops. As you can see above, the price often stays above the delta neutral, with the gamma neutral creating some resistance between the underlying and delta neutral. The price often bounces off it if it gets too close, and if the price goes under the delta neutral, then pressure is created that shoots the price up when released (like what happened in February).
 
@@ -32,7 +33,7 @@ As a reference, here is a lead-up to the big January squeeze:
 
 &#x200B;
 
-[GME 12\/1\/2020 - 1\/26\/2021](https://preview.redd.it/1si7dsjzhq171.png?width=910&format=png&auto=webp&s=fddab7d3a61c00a55bac20678f948c527486de99)
+![GME 12\/1\/2020 - 1\/26\/2021](https://preview.redd.it/1si7dsjzhq171.png?width=910&format=png&auto=webp&s=fddab7d3a61c00a55bac20678f948c527486de99)
 
 You can see that the drop in the gamma neutral doesn't mean it's over, and the increase in the delta neutral helps support the new price levels.
 
@@ -42,7 +43,7 @@ As a reference, and especially because GME/AMC are connected. Here's AMC's graph
 
 &#x200B;
 
-[AMC 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/uj4wsktsiq171.png?width=910&format=png&auto=webp&s=d9cf54594a10848798f00bc08f5c6f1d19bbb5af)
+![AMC 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/uj4wsktsiq171.png?width=910&format=png&auto=webp&s=d9cf54594a10848798f00bc08f5c6f1d19bbb5af)
 
 As you can see, AMC spikes a lot! It has also generally been in one long spike since 5/13, and fed by very high underlying volume. There was a small drop in the gamma neutral/volume between 5/19 - 5/21, before resuming again with progressively higher volume each day this week.
 
@@ -52,15 +53,15 @@ If you're interested, here are a few of the other stocks I called out yesterday 
 
 &#x200B;
 
-[RCL 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/nk0qs3i5kq171.png?width=910&format=png&auto=webp&s=939cd4adba8e2b8a8aa9a8e633e31f424856e8d7)
+![RCL 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/nk0qs3i5kq171.png?width=910&format=png&auto=webp&s=939cd4adba8e2b8a8aa9a8e633e31f424856e8d7)
 
 &#x200B;
 
-[FUBO 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/cw7rwacbkq171.png?width=910&format=png&auto=webp&s=bc7761da0d5391c891541379b4838e399df41b8c)
+![FUBO 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/cw7rwacbkq171.png?width=910&format=png&auto=webp&s=bc7761da0d5391c891541379b4838e399df41b8c)
 
 &#x200B;
 
-[SFIX 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/lff3i49mkq171.png?width=910&format=png&auto=webp&s=54bcca9ad47f3d126ef9fc092b601344b82bbab6)
+![SFIX 1\/4\/2021 - 5\/27\/2021](https://preview.redd.it/lff3i49mkq171.png?width=910&format=png&auto=webp&s=54bcca9ad47f3d126ef9fc092b601344b82bbab6)
 
 &#x200B;
 

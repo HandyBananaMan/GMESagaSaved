@@ -1,5 +1,6 @@
-# Author: pepsodont
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/](https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/)
+#Title: Theory: The SLGG merger IS happening, it's a MOASS launching button and RC has been pointing it out for a long time (TODAY AS WELL ♥)
+#Author: pepsodont
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/](https://www.reddit.com/r/Superstonk/comments/ngdwjj/theory_the_slgg_merger_is_happening_its_a_moass/)
 
 
 I think it might be apparent from my posts now that I'm not wrinkle-brained in financials, chart reading and other ~~boring~~ important stuff but I like finding patterns. I've been working as a psychologist and a marketer for a long time, so believe me when I tell you there's a lot to be uncovered by understanding behavior patterns or just patterns of things that look unrelated, but really aren't.
@@ -46,21 +47,21 @@ Boy, would it be fortunate if such a company was aro....oh fuck me Ryan, where e
 
 **5. RC was near SLGG HQ and he tweeted about it**
 
-[Why would you pinpoint where you are Ryan?](https://preview.redd.it/o9lwxqvcp5071.png?width=1507&format=png&auto=webp&s=f08bd9a69f46f5094c7a85985d2c316db526603a)
+![Why would you pinpoint where you are Ryan?](https://preview.redd.it/o9lwxqvcp5071.png?width=1507&format=png&auto=webp&s=f08bd9a69f46f5094c7a85985d2c316db526603a)
 
 &#x200B;
 
-[Oh that's why!](https://preview.redd.it/puf08k8fp5071.png?width=967&format=png&auto=webp&s=77f5e8eac8974c2b6d58f82e5dfd08a480b4e737)
+![Oh that's why!](https://preview.redd.it/puf08k8fp5071.png?width=967&format=png&auto=webp&s=77f5e8eac8974c2b6d58f82e5dfd08a480b4e737)
 
 **6. RC tweeted an ice-cream and a frog pointing at Ann Hand, CEO of SLGG**
 
-[I was there, 3000 years ago...](https://preview.redd.it/yvw3kl3ip5071.png?width=603&format=png&auto=webp&s=bd5b09f8fcc79eca28bbe14cbe22cc5938bd9a36)
+![I was there, 3000 years ago...](https://preview.redd.it/yvw3kl3ip5071.png?width=603&format=png&auto=webp&s=bd5b09f8fcc79eca28bbe14cbe22cc5938bd9a36)
 
 Yeah, the famous ice-cream and a frog tweet. I don't think any of the theories as of to its significance paid off so let me offer one of the less popular ones.
 
 Check out where did Ann Hand, the CEO of SLGG work before.
 
-[Coincidences, huh?](https://preview.redd.it/7swu9s1pp5071.png?width=796&format=png&auto=webp&s=3d421bcdf96bf5f2ca0faeb564c0f6ba0ad82088)
+![Coincidences, huh?](https://preview.redd.it/7swu9s1pp5071.png?width=796&format=png&auto=webp&s=3d421bcdf96bf5f2ca0faeb564c0f6ba0ad82088)
 
 &#x200B;
 
@@ -100,4 +101,4 @@ It's also up by 15% or so AH so yay for the power of Superstonk I guess?
 
 **EDIT 4:** No I don't have a damn clue what's going on with the All Seeing Awards. Maybe DFV's mouse button got stuck and he needs help with the mouse since he's not a cat?
 
-**EDIT 5:** For those who STILL don't believe this is an organic post, here are the screenshots ( [https://i.imgur.com/naiRTJP.png](https://i.imgur.com/naiRTJP.png) and ![https://i.imgur.com/f3CEioL.png](https://i.imgur.com/f3CEioL.png) ) of how the idea originated in our private Discord and that should be the end of it or I swear to Wendy's tendies I will turn into a vibrator from so much shaking of my head.
+**EDIT 5:** For those who STILL don't believe this is an organic post, here are the screenshots ( ![https://i.imgur.com/naiRTJP.png](https://i.imgur.com/naiRTJP.png) and ![https://i.imgur.com/f3CEioL.png](https://i.imgur.com/f3CEioL.png) ) of how the idea originated in our private Discord and that should be the end of it or I swear to Wendy's tendies I will turn into a vibrator from so much shaking of my head.

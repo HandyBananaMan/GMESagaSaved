@@ -1,5 +1,6 @@
-# Author: Glittering-Lead-9228
-# Post URL: [https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/](https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/)
+#Title: PROOF SHILLS ARE WRONG: ARCHEGOS IS LIQUIDATING/MARGIN CALLED
+#Author: Glittering-Lead-9228
+#Post URL: [https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/](https://www.reddit.com/r/GME/comments/mf29mw/proof_shills_are_wrong_archegos_is/)
 
 
 EDIT: LOL, getting so many downvotes. Call me bias, but every downvote is a confirmation downvote. Was at 357 upvotes 30 secs ago, now only 352... .
@@ -12,11 +13,11 @@ Feel this is GME related as this is PROOF that one major event that tightens the
 
 &#x200B;
 
-[Google search ](https://preview.redd.it/nlrooksr9sp61.png?width=843&format=png&auto=webp&s=b6dd1c35a4fa55471d287be56a9365430426ef72)
+![Google search ](https://preview.redd.it/nlrooksr9sp61.png?width=843&format=png&auto=webp&s=b6dd1c35a4fa55471d287be56a9365430426ef72)
 
-[Caption from TD Amritrade](https://preview.redd.it/fso54n5w9sp61.png?width=1104&format=png&auto=webp&s=404a6d3ddb1b40e846adea72d0c8024beb1b958b)
+![Caption from TD Amritrade](https://preview.redd.it/fso54n5w9sp61.png?width=1104&format=png&auto=webp&s=404a6d3ddb1b40e846adea72d0c8024beb1b958b)
 
-![https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page](https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page)
+[https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page](https://www.tdameritrade.com/td-ameritrade-trading-restrictions-stocks.page)
 
 BUT THERE IS NO GME STONK LIQUIDATED
 

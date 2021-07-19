@@ -1,12 +1,13 @@
-# Author: See_Reality
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/](https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/)
+#Title: OTM Puts (married puts) Disappearing???
+#Author: See_Reality
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/](https://www.reddit.com/r/Superstonk/comments/ns5hq4/otm_puts_married_puts_disappearing/)
 
 
 Hi everybody
 
 Is it just me or there are OTM puts disappearing?
 
-[OTM puts \(married puts\) disappearing?](https://preview.redd.it/5ksxe5vg69371.png?width=2658&format=png&auto=webp&s=cf801074e1885d69e386dfdfe7ff49aa8ae153af)
+![OTM puts \(married puts\) disappearing?](https://preview.redd.it/5ksxe5vg69371.png?width=2658&format=png&auto=webp&s=cf801074e1885d69e386dfdfe7ff49aa8ae153af)
 
 It is my believe that 2021-07-16 we had \~300k+ OTM puts and 2022-01-21 we had \~200k+ OTM puts.
 
@@ -28,7 +29,7 @@ BEGIN
 
 u/[Itschyaboiii](https://www.reddit.com/user/Itschyaboiii/) have shared an great question in a financial stackexchange forum:
 
-![https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option](https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option)
+[https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option](https://money.stackexchange.com/questions/39586/exercise-an-out-of-the-money-option)
 
 There we can read that it is possible to exercise OTM option contracts and one of the reasons for that is:
 

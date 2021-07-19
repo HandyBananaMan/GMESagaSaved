@@ -1,5 +1,6 @@
-# Author: peruvian_bull
-# Post URL: [https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/](https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/)
+#Title: Connecting the Dots- Citadel's Treasury Market Short
+#Author: peruvian_bull
+#Post URL: [https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/](https://www.reddit.com/r/GME/comments/nhz9n9/connecting_the_dots_citadels_treasury_market_short/)
 
 
 So I've been looking into the **MASSIVE** amounts of Reverse Repo lending and I think I came up with a theory that ties Shitadel into all of this. This is all speculation, so take this all with a big grain of salt....
@@ -14,7 +15,7 @@ Ok, so what does this mean for us smoothbrains? Some of you may not know, but is
 
 *This morning, the Fed sold* ***$351 billion in Treasury securities*** *via overnight reverse repos to 48 counter parties, thereby blowing past the brief spike at the end of March 2020, and more than replacing yesterday’s $294 billion in Treasury securities that it has sold via reverse repos to 43 counterparties and that matured and unwound this morning."*
 
-[Overnight Reverse Repo Rates](https://preview.redd.it/37dtwe8kgi071.png?width=574&format=png&auto=webp&s=26b5508106211e2af8a83901e2ad9594812bc276)
+![Overnight Reverse Repo Rates](https://preview.redd.it/37dtwe8kgi071.png?width=574&format=png&auto=webp&s=26b5508106211e2af8a83901e2ad9594812bc276)
 
 That figure is MASSIVE. Fifth largest RRP transaction in the last decade, during a period of apparent relative calm in financial markets.
 
@@ -30,7 +31,7 @@ But now, the FED is selling treasuries-effectively withdrawing liquidity from th
 
 I was reading through some comments when I found this gem:
 
-[uhh WHAT](https://preview.redd.it/l5cvjk7bhi071.jpg?width=1080&format=pjpg&auto=webp&s=8f3e2a11e367542d5fc6357003064787f15b19be)
+![uhh WHAT](https://preview.redd.it/l5cvjk7bhi071.jpg?width=1080&format=pjpg&auto=webp&s=8f3e2a11e367542d5fc6357003064787f15b19be)
 
 Then it clicked. Remember u/atobitt's godlike DD [The Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/)? I am drawn to a specific paragraph from Step 4:
 
@@ -60,7 +61,7 @@ Check out this section from an article written by Pimco, one of the largest fixe
 
 &#x200B;
 
-[Deteriorating Liquidity \(written March 22\) ](https://preview.redd.it/7n2gw9necj071.png?width=708&format=png&auto=webp&s=f8f36d3f3351fd12399e556d3820f89d9b58b5f1)
+![Deteriorating Liquidity \(written March 22\) ](https://preview.redd.it/7n2gw9necj071.png?width=708&format=png&auto=webp&s=f8f36d3f3351fd12399e556d3820f89d9b58b5f1)
 
 DO YOU GUYS UNDERSTAND HOW CRITICAL THIS IS? Treasuries are NOT normal fixed income instruments. They are literally the **backbone of the entire financial system. Almost every other price is indirectly derived from treasuries: LIBOR (used for lending), WACC Discount (used to price stocks), ARMs (adjustable rate mortgages), Credit cards, auto loans, venture loans, Lines of Credit, etc etc.**
 
@@ -82,4 +83,4 @@ edit2: grammatical error
 
 edit3: cleaned up first repo section, adding context. added link to WSJ video on repos  ([https://www.youtube.com/watch?v=gzCkXNrjFQM](https://www.youtube.com/watch?v=gzCkXNrjFQM)). added context for importance of treasury market.
 
-edit 4: WOW this blew up much more than I thought. Thank you all for the awards, everyone! Also, for you nerds out there, for this DD I also read this paper from the SEC released in February of this year: ![https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf](https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf). Check it out if you're interested :)
+edit 4: WOW this blew up much more than I thought. Thank you all for the awards, everyone! Also, for you nerds out there, for this DD I also read this paper from the SEC released in February of this year: [https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf](https://www.sec.gov/files/mmfs-and-the-repo-market-021721.pdf). Check it out if you're interested :)

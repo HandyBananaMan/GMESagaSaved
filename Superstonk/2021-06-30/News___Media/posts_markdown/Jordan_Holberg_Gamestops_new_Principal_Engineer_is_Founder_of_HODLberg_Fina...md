@@ -1,5 +1,6 @@
-# Author: warheadhs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob7xnw/jordan_holberg_gamestops_new_principal_engineer/](https://www.reddit.com/r/Superstonk/comments/ob7xnw/jordan_holberg_gamestops_new_principal_engineer/)
+#Title: Jordan Holberg, Gamestop's new Principal Engineer, is Founder of "HODLberg Financial"
+#Author: warheadhs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob7xnw/jordan_holberg_gamestops_new_principal_engineer/](https://www.reddit.com/r/Superstonk/comments/ob7xnw/jordan_holberg_gamestops_new_principal_engineer/)
 
 
 Check out the LinkedIn of GameStop's new Principal Engineer - founder (and sole proprietor) of  **Hodl**berg Financial since February of this year.

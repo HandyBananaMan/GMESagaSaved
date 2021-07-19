@@ -1,5 +1,6 @@
-# Author: frugihoyi
-# Post URL: [https://www.reddit.com/r/GME/comments/mk46c5/the_mother_of_all_gme_summaries_for_the_smooth/](https://www.reddit.com/r/GME/comments/mk46c5/the_mother_of_all_gme_summaries_for_the_smooth/)
+#Title: THE MOTHER OF ALL GME SUMMARIES FOR THE SMOOTH BRAINED
+#Author: frugihoyi
+#Post URL: [https://www.reddit.com/r/GME/comments/mk46c5/the_mother_of_all_gme_summaries_for_the_smooth/](https://www.reddit.com/r/GME/comments/mk46c5/the_mother_of_all_gme_summaries_for_the_smooth/)
 
 
 **BACKGROUND AND DISCLAIMER**  

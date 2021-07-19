@@ -1,5 +1,6 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhub0p/gamestop_gme_is_the_worst_kept_secret_on_wall/](https://www.reddit.com/r/Superstonk/comments/nhub0p/gamestop_gme_is_the_worst_kept_secret_on_wall/)
+#Title: GameStop (GME) is the worst kept secret on Wall Street with blatant market manipulation in plain sight. I've been asking around to my banking/industry friends. EVERYONE knows this is a fucking mess. The DTCC, SEC, FINRA, HF's, Institutions, Banks, and slowly the public is learning the truth!!!!
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhub0p/gamestop_gme_is_the_worst_kept_secret_on_wall/](https://www.reddit.com/r/Superstonk/comments/nhub0p/gamestop_gme_is_the_worst_kept_secret_on_wall/)
 
 
 # 

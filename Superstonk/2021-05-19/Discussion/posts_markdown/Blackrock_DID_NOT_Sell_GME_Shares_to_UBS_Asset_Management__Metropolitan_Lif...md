@@ -1,5 +1,6 @@
-# Author: Slickrickkk
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngi92v/blackrock_did_not_sell_gme_shares_to_ubs_asset/](https://www.reddit.com/r/Superstonk/comments/ngi92v/blackrock_did_not_sell_gme_shares_to_ubs_asset/)
+#Title: Blackrock DID NOT Sell GME Shares to UBS Asset Management & Metropolitan Life Insurance for $95,000 dollars
+#Author: Slickrickkk
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngi92v/blackrock_did_not_sell_gme_shares_to_ubs_asset/](https://www.reddit.com/r/Superstonk/comments/ngi92v/blackrock_did_not_sell_gme_shares_to_ubs_asset/)
 
 
 I'm referring to this post. https://www.reddit.com/r/Superstonk/comments/nggu0y/blackrock_sells_62876_shares_and_ubsmetlife/

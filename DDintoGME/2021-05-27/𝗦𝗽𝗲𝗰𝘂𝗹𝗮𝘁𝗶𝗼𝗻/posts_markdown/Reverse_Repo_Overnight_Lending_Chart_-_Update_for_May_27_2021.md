@@ -1,5 +1,6 @@
-# Author: HODLTheLineMyFriend
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nmcn1e/reverse_repo_overnight_lending_chart_update_for/](https://www.reddit.com/r/DDintoGME/comments/nmcn1e/reverse_repo_overnight_lending_chart_update_for/)
+#Title: Reverse Repo Overnight Lending Chart - Update for May 27 2021
+#Author: HODLTheLineMyFriend
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nmcn1e/reverse_repo_overnight_lending_chart_update_for/](https://www.reddit.com/r/DDintoGME/comments/nmcn1e/reverse_repo_overnight_lending_chart_update_for/)
 
 
 Latest from the NY Fed Desk, $485B in reverse repo treasury lending with 50 counterparties. The update exactly matched the curve from the last few days, with R^(2) increasing to 0.95 from 0.93. Showing $1T by June 10. See below for what this means and how it \*might\* relate to GME.
@@ -27,7 +28,7 @@ Keep on HODLin', friends! 🚀🚀🚀
 
 Edit:
 
-Our friend u/wehadmagnets was kind enough to get the walled FT article for me "US investors park cash at Fed as market wrestles with negative yields" from here: ![https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f](https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f).
+Our friend u/wehadmagnets was kind enough to get the walled FT article for me "US investors park cash at Fed as market wrestles with negative yields" from here: [https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f](https://www.ft.com/content/cdec7f2e-6129-412c-b118-8906a2a0f92f).
 
 TA;DR:
 

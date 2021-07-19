@@ -1,5 +1,6 @@
-# Author: mrdoggiedog
-# Post URL: [https://www.reddit.com/r/GME/comments/m8uitu/i_met_a_real_hedgie_manager_at_work_today/](https://www.reddit.com/r/GME/comments/m8uitu/i_met_a_real_hedgie_manager_at_work_today/)
+#Title: I met a real hedgie manager at work today
+#Author: mrdoggiedog
+#Post URL: [https://www.reddit.com/r/GME/comments/m8uitu/i_met_a_real_hedgie_manager_at_work_today/](https://www.reddit.com/r/GME/comments/m8uitu/i_met_a_real_hedgie_manager_at_work_today/)
 
 
 I work at a gym and this guy comes in asking about his account with us, we’re sitting at my desk talking and I see him on his phone looking at stocks, he tells me sorry in advance if i feel like he’s not paying attention to what I’m saying, he was busy with his options trades expiring today. 

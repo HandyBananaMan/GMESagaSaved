@@ -1,5 +1,6 @@
-# Author: SpinCharm
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/](https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/)
+#Title: DTC-2021-005 is supposed to be the regulatory change that will curtail naked short selling. It was removed from the DTCC website last month under the guise of ‘final formatting changes’. I don’t think it’s coming back. Here’s why.
+#Author: SpinCharm
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/](https://www.reddit.com/r/Superstonk/comments/ntg2ya/dtc2021005_is_supposed_to_be_the_regulatory/)
 
 
 Edit 15 June:  I’m glad to see that the DTCC have released the 005 regulation change today.  And very glad to be proven wrong!
@@ -49,7 +50,7 @@ It has now been over a month since its disappearance, and has yet to reappear.  
 
 My reasoning is that that there is very likely extreme pressure from within and without the DTCC to not enact DTC-2021-005.  Almost certainly there will be political pressure as well, to the highest levels of US government. 
 
-Naked short selling can be immensely profitable to sellers, and has a core strategic value.  As [reported](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/) by our honorary ape ![Lucy Komisar](https://en.m.wikipedia.org/wiki/Lucy_Komisar) (love ya, baby!), Ken Griffin, CEO of Citadel LLC, one of the largest market makers, said to the House Financial Services Committee in February, 
+Naked short selling can be immensely profitable to sellers, and has a core strategic value.  As [reported](https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/) by our honorary ape [Lucy Komisar](https://en.m.wikipedia.org/wiki/Lucy_Komisar) (love ya, baby!), Ken Griffin, CEO of Citadel LLC, one of the largest market makers, said to the House Financial Services Committee in February, 
 
 ”Hedge funds have to borrow shares to short sales,”, and added,
 

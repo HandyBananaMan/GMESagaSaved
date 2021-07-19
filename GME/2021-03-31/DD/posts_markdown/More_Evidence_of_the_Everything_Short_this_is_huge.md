@@ -1,5 +1,6 @@
-# Author: RichHodler
-# Post URL: [https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/](https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/)
+#Title: More Evidence of the Everything Short, this is huge
+#Author: RichHodler
+#Post URL: [https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/](https://www.reddit.com/r/GME/comments/mhnn3i/more_evidence_of_the_everything_short_this_is_huge/)
 
 
 This post is regarding the link on Michael Burry's Twitter. It is a long read, but I have found some parallels with [The EVERYTHING Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/). Really recommend reading the whole thing it if you have time.
@@ -24,7 +25,7 @@ Did I read that right, 7 times as many treasury security backed assets as they o
 
 https://preview.redd.it/522gn9j8nhq61.jpg?width=408&format=pjpg&auto=webp&s=f963eceba95828408aba0ce2391f43b738cdd3ed
 
-So this part about the eSLR rule is interesting, but it didn't hold up. Next I will show some 2020 data from the same author which shows the collateral multiplier back up around 9 in April 2020.Source: ![https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf](https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf)
+So this part about the eSLR rule is interesting, but it didn't hold up. Next I will show some 2020 data from the same author which shows the collateral multiplier back up around 9 in April 2020.Source: [https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf](https://www.federalreserve.gov/econres/feds/files/2020103pap.pdf)
 
 &#x200B;
 

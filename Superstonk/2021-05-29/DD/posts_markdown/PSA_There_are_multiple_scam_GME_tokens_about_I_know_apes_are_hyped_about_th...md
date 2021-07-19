@@ -1,5 +1,6 @@
-# Author: Safisynai
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/](https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/)
+#Title: PSA: There are multiple scam GME tokens about. I know apes are hyped about the GME NFT but please be careful.
+#Author: Safisynai
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/](https://www.reddit.com/r/Superstonk/comments/nnmf9b/psa_there_are_multiple_scam_gme_tokens_about_i/)
 
 
 **Mods:** I flaired this DD, but please let me know if another flair would be more appropriate.
@@ -26,7 +27,7 @@ You can send a token to any address on the network. The receiving address does n
 
 **Finally:**
 
-At the time of writing this message, no legitimate GME NFT units exist; a token contract has been deployed, one unit was created in the [same transaction](https://etherscan.io/tx/0x89df343d7e245d42a09de2c790c8c471a0956f32b55631a53a15268c56a74c2d) as the deployment of the contract (likely either a mistake or a test), and was ![burnt](https://etherscan.io/tx/0x39cc33bf2eb46bb2dc483c9f685e5f04307ebb9526f6be9027f71bdb71e3e6b6) (permanently, irrevocably destroyed) shortly thereafter.
+At the time of writing this message, no legitimate GME NFT units exist; a token contract has been deployed, one unit was created in the [same transaction](https://etherscan.io/tx/0x89df343d7e245d42a09de2c790c8c471a0956f32b55631a53a15268c56a74c2d) as the deployment of the contract (likely either a mistake or a test), and was [burnt](https://etherscan.io/tx/0x39cc33bf2eb46bb2dc483c9f685e5f04307ebb9526f6be9027f71bdb71e3e6b6) (permanently, irrevocably destroyed) shortly thereafter.
 
 **Anyone trying to sell your any kind of "GME" token at this point in time is almost certainly trying to scam you.**
 

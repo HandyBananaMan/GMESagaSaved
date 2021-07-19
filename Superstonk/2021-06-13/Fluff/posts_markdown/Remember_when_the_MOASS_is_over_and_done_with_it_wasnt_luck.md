@@ -1,5 +1,6 @@
-# Author: sukkitrebek
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nytt2i/remember_when_the_moass_is_over_and_done_with_it/](https://www.reddit.com/r/Superstonk/comments/nytt2i/remember_when_the_moass_is_over_and_done_with_it/)
+#Title: Remember when the MOASS is over and done with, it wasn’t luck
+#Author: sukkitrebek
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nytt2i/remember_when_the_moass_is_over_and_done_with_it/](https://www.reddit.com/r/Superstonk/comments/nytt2i/remember_when_the_moass_is_over_and_done_with_it/)
 
 
 I know a lot of us are ridiculed by our family/peers that think we are just following a cult-like meme promising fake riches in a dying company.

@@ -1,5 +1,6 @@
-# Author: Worstdad69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oatqxt/fck_it_my_wife_cheated_on_me_im_ready_to_ride/](https://www.reddit.com/r/Superstonk/comments/oatqxt/fck_it_my_wife_cheated_on_me_im_ready_to_ride/)
+#Title: F*ck it. My wife cheated on me, im ready to ride this Rocket out of depression
+#Author: Worstdad69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oatqxt/fck_it_my_wife_cheated_on_me_im_ready_to_ride/](https://www.reddit.com/r/Superstonk/comments/oatqxt/fck_it_my_wife_cheated_on_me_im_ready_to_ride/)
 
 
 Im a poor ape holding xx. 

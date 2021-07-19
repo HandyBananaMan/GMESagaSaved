@@ -1,3 +1,4 @@
+<h1>Title: Math error in 8-k filing. Possible a typo that confirms votes were adjusted. Need wrinkle brains to weigh in please.</h1>
 <h1>Author: Rimigo42</h1>
 <h1>Post URL: <a href="https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/">https://www.reddit.com/r/GME/comments/nw9sl1/math_error_in_8k_filing_possible_a_typo_that/</a></h1>
 <p><strong>TL;DR</strong></p>
@@ -7,9 +8,9 @@
 <p>By now we all know that the 8-k was adjusted. I think I’ve found definitive proof of that. I found a math error in the 8-k filing that might (maybe) mean something (maybe). I've double checked for typos/errors and it looks like I got it right, but please confirm my math and check for typos.</p>
 <p>The total vote count (which was not shown on the 8-k) for every member and every proposal was 55,541,279 shares. EXCEPT for Larry Cheng (see image below, highlighted cell). He got 1 extra vote.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/to7f8iev4g471.png?width=575&amp;format=png&amp;auto=webp&amp;s=192fbfee21a26e7aa642599380c62606f3bcc631">Transcribed vote numbers by hand from the 8-K filing</a></p>
+<p><img alt="Transcribed vote numbers by hand from the 8-K filing" src="https://preview.redd.it/to7f8iev4g471.png?width=575&amp;format=png&amp;auto=webp&amp;s=192fbfee21a26e7aa642599380c62606f3bcc631" /></p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/a3k87myx4g471.png?width=624&amp;format=png&amp;auto=webp&amp;s=f264665948ad4fec7c207772ebce71018285ea11">Snip of 8-K filing to compare numbers. I double checked, but typos happen.</a></p>
+<p><img alt="Snip of 8-K filing to compare numbers. I double checked, but typos happen." src="https://preview.redd.it/a3k87myx4g471.png?width=624&amp;format=png&amp;auto=webp&amp;s=f264665948ad4fec7c207772ebce71018285ea11" /></p>
 <p><strong>Background on me</strong></p>
 <p>I'm an estimator for a construction company. I live in Microsoft Excel, and I do math for a living. Rounding errors are my enemy, so I'm adamant about double/triple checking for them prior to submitting a bid/tender/quote. I always take price tables and calculate by hand to check for typos.</p>
 <p><strong>My smooth-brained speculation</strong></p>
@@ -24,11 +25,11 @@
 <p>&#x200B;</p>
 <p>Edit 2: An example for some clarity on how this rounding error might occur. Please remember that I made these #s up and I have no idea what the actual vote count is.</p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/b08m0wjwdd471.png?width=635&amp;format=png&amp;auto=webp&amp;s=f6e616683a9657dcf8f7fb6057773c52f4133e10">Let's assume they got 400M votes</a></p>
+<p><img alt="Let's assume they got 400M votes" src="https://preview.redd.it/b08m0wjwdd471.png?width=635&amp;format=png&amp;auto=webp&amp;s=f6e616683a9657dcf8f7fb6057773c52f4133e10" /></p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/i64d3nnzdd471.png?width=637&amp;format=png&amp;auto=webp&amp;s=8d2217cfeaeda8365d124964871dae4797b8b8fd">Here's what that looks like as a &#37; (matches the actual votes on the 8-K filing to 5 decimal places.</a></p>
+<p><img alt="Here's what that looks like as a &#37; (matches the actual votes on the 8-K filing to 5 decimal places." src="https://preview.redd.it/i64d3nnzdd471.png?width=637&amp;format=png&amp;auto=webp&amp;s=8d2217cfeaeda8365d124964871dae4797b8b8fd" /></p>
 <p>&#x200B;</p>
-<p><a href="https://preview.redd.it/ayv4h1u5ed471.png?width=636&amp;format=png&amp;auto=webp&amp;s=8fbc28cda7a77b8f6a7e63a65cd0e8d33f7f1b28">Everything looks good here, all votes total to 55,541,279 as expected. No we need to get  rid of those decimals.</a></p>
+<p><img alt="Everything looks good here, all votes total to 55,541,279 as expected. No we need to get  rid of those decimals." src="https://preview.redd.it/ayv4h1u5ed471.png?width=636&amp;format=png&amp;auto=webp&amp;s=8fbc28cda7a77b8f6a7e63a65cd0e8d33f7f1b28" /></p>
 <p>&#x200B;</p>
 <p><img alt="Using the ROUND function in excel, now we have an error for Larry Cheng's vote total." src="https://preview.redd.it/b3edwwoaed471.png?width=636&amp;format=png&amp;auto=webp&amp;s=8529b61672f3da92f11c2b898584b7865490d6aa" /></p>
 <p>PART 4 is the result we see. I used the actual votes from the 8-K so you could see exactly how this rounding error might occur.Larry Cheng had 3 vote counts with numbers that are over 0.5 for the decimal but not too much over. That's important, because now it rounds up ALL 3 of those numbers. That's where the error occurs. Now our rounding function gave Larry 1 extra vote.There's no way someone just cast 1 vote for Larry because that would have added 1 abstention to everyone else, making the vote count increase by 1 for every proposal.</p>

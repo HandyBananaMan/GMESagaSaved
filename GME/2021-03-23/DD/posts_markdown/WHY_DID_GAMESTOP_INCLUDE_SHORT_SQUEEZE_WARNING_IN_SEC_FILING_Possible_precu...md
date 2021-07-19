@@ -1,5 +1,6 @@
-# Author: Dwellerofthecrags
-# Post URL: [https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/](https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/)
+#Title: WHY DID GAMESTOP INCLUDE SHORT SQUEEZE WARNING IN SEC FILING? Possible precursor to their next move...🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+#Author: Dwellerofthecrags
+#Post URL: [https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/](https://www.reddit.com/r/GME/comments/mbso04/why_did_gamestop_include_short_squeeze_warning_in/)
 
 
 First of all, the following is not financial advice and I'm not a financial advisor.
@@ -44,4 +45,4 @@ Edit 4:  u/budgetdiamondhands put this in the comments and I thought it was both
 
 https://preview.redd.it/rmb83ir96wo61.png?width=2048&format=png&auto=webp&s=e6adaa312ab1574e969264cc73ebeefef721a504
 
-Edit 5: Great points made about the official confirmation that over 100% of the float is shorted and further explanation that this paragraph was not just about checking the box and doing a CYA. Thanks u/ancient_wis for your [post](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/) and u/coalkitten for your ![comment](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/grzi15q?utm_source=share&utm_medium=web2x&context=3). Linking both here for additional exposure.
+Edit 5: Great points made about the official confirmation that over 100% of the float is shorted and further explanation that this paragraph was not just about checking the box and doing a CYA. Thanks u/ancient_wis for your [post](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/) and u/coalkitten for your [comment](https://www.reddit.com/r/GME/comments/mbqdgv/official_gamestop_sec_filing_short_squeeze_may/grzi15q?utm_source=share&utm_medium=web2x&context=3). Linking both here for additional exposure.

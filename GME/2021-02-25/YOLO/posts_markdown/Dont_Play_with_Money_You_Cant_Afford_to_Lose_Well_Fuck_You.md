@@ -1,5 +1,6 @@
-# Author: DatgirlwitAss
-# Post URL: [https://www.reddit.com/r/GME/comments/lsnw1d/dont_play_with_money_you_cant_afford_to_lose_well/](https://www.reddit.com/r/GME/comments/lsnw1d/dont_play_with_money_you_cant_afford_to_lose_well/)
+#Title: "Don't Play with Money You Can't Afford to Lose". Well, Fuck You.
+#Author: DatgirlwitAss
+#Post URL: [https://www.reddit.com/r/GME/comments/lsnw1d/dont_play_with_money_you_cant_afford_to_lose_well/](https://www.reddit.com/r/GME/comments/lsnw1d/dont_play_with_money_you_cant_afford_to_lose_well/)
 
 
 I'm a black woman in America. This is my only chance to make things right for my black children's futures. If these fuckers keep playing these games, I sure as hell will start playing with money I can't afford to lose.

@@ -1,5 +1,6 @@
-# Author: Doom_Douche
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/](https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/)
+#Title: How Synthetic Shares Can Destroy Proxy Voting - (Smooth Brain Edition)
+#Author: Doom_Douche
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/](https://www.reddit.com/r/Superstonk/comments/n1qhtb/how_synthetic_shares_can_destroy_proxy_voting/)
 
 
 First off, huge shout out to u/TheeHumanMeat for finding the article Dr. Trimbath mentioned using The Way Back Machine. Find his post here :
@@ -114,6 +115,6 @@ https://i.redd.it/01q2q0ht38w61.gif
 
 Go read the actual PDF to catch up on historic examples and some more FIRE Dr. Trimbath Quotes
 
-And the link to the actual PDF here: ![https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf](https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf)
+And the link to the actual PDF here: [https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf](https://web.archive.org/web/20060421085925/http://www.rgm.com/articles/FalseProxies.pdf)
 
 **EDIT 1:** Getting a lot of questions about apes with "Portfolio Diversity" having shares at multiple brokerages. **ABSOLUTELY VOTE WITH EACH BROKERAGE.** They have no idea how many shares you have split between the platforms.

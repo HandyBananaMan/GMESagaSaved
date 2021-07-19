@@ -1,8 +1,9 @@
-# Author: cdgullo
-# Post URL: [https://www.reddit.com/r/GME/comments/mbqpvx/gamestops_new_sec_filing_gme_shorts_may/](https://www.reddit.com/r/GME/comments/mbqpvx/gamestops_new_sec_filing_gme_shorts_may/)
+#Title: GameStop's new SEC Filing: GME Shorts may "DRAMATICALLY INCREASE THE PRICE OF SHARES" until they are repurchased
+#Author: cdgullo
+#Post URL: [https://www.reddit.com/r/GME/comments/mbqpvx/gamestops_new_sec_filing_gme_shorts_may/](https://www.reddit.com/r/GME/comments/mbqpvx/gamestops_new_sec_filing_gme_shorts_may/)
 
 
-![https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593) (pg. 15)
+[https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593](https://news.gamestop.com/static-files/55a92a3e-144e-4d2b-8ee6-930db9045593) (pg. 15)
 
 Everything below is a direct quote from the report, with bold emphasis and formatting added by me.
 

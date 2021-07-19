@@ -1,5 +1,6 @@
-# Author: CM_MOJO
-# Post URL: [https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
+#Title: How I See The GME End Game Playing Out
+#Author: CM_MOJO
+#Post URL: [https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/](https://www.reddit.com/r/GME/comments/m584h0/how_i_see_the_gme_end_game_playing_out/)
 
 
 This post contains total speculation about how I THINK this GME end game will play out.
@@ -64,7 +65,7 @@ The second significant development is that GameStop is having its Q4 earnings ca
 
 I think the earnings call will be really positive and GME will pop big time on Wednesday.
 
-Why is waiting for after the earnings call good for the LWs? Plausible deniability (![https://en.wikipedia.org/wiki/Plausible\_deniability](https://en.wikipedia.org/wiki/Plausible_deniability)). When all of this has played out, there is going to be A LOT of finger pointing and claims of market manipulation. Hell, this is already starting to happen. I think we can all agree that the SHFs have definitely been manipulating the stock price of GME. I also think though that the LWs have been manipulating it as well to play out their end game strategy how they want. If the LWs wait until after the earnings call and the stock’s subsequent ‘pop’, they can just say the earnings call was fantastic, that made everyone even more bullish on the stock. This is what caused the price to go up. It wasn’t us manipulating the market.
+Why is waiting for after the earnings call good for the LWs? Plausible deniability ([https://en.wikipedia.org/wiki/Plausible\_deniability](https://en.wikipedia.org/wiki/Plausible_deniability)). When all of this has played out, there is going to be A LOT of finger pointing and claims of market manipulation. Hell, this is already starting to happen. I think we can all agree that the SHFs have definitely been manipulating the stock price of GME. I also think though that the LWs have been manipulating it as well to play out their end game strategy how they want. If the LWs wait until after the earnings call and the stock’s subsequent ‘pop’, they can just say the earnings call was fantastic, that made everyone even more bullish on the stock. This is what caused the price to go up. It wasn’t us manipulating the market.
 
 This ‘pop’ I feel will just be too much upward pressure on the stock and that the gamma squeeze will begin that Friday, March 26th with the MOASS happening the following week or the week after that.
 

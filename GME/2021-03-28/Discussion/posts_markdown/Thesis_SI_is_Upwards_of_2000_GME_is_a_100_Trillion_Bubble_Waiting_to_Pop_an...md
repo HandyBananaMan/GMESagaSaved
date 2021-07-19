@@ -1,5 +1,6 @@
-# Author: Unowned-Instruction
-# Post URL: [https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/](https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/)
+#Title: Thesis: SI is Upwards of 2000%, GME is a $100 Trillion Bubble Waiting to Pop, and DTCC is Attempting to Crash the Entire Market to Socialize Losses. Change My Mind.
+#Author: Unowned-Instruction
+#Post URL: [https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/](https://www.reddit.com/r/GME/comments/mewkf8/thesis_si_is_upwards_of_2000_gme_is_a_100/)
 
 
 # Thesis Statement / AKA TLDR
@@ -53,7 +54,7 @@ For my own protection, I am using a burner Reddit account and a VPN to post. I w
 
 &#x200B;
 
-[DTCC mid-March, 2021](https://preview.redd.it/ygly4d4piop61.png?width=624&format=png&auto=webp&s=61691ce29f3ffe2abe223f2c3ac3a7ed870ea13d)
+![DTCC mid-March, 2021](https://preview.redd.it/ygly4d4piop61.png?width=624&format=png&auto=webp&s=61691ce29f3ffe2abe223f2c3ac3a7ed870ea13d)
 
 To begin, a quick summary of the previous 6 months. Since I was not here for most of this, I will briefly summarize the events as I see them in hindsight (with little sprinkles of speculation thrown in).
 
@@ -79,7 +80,7 @@ To start, WTF even is DTCC?
 
 &#x200B;
 
-[Unrelated Picture](https://preview.redd.it/zyxa96wxnop61.png?width=624&format=png&auto=webp&s=b6669920d38be33dcb128517e814295192a136dc)
+![Unrelated Picture](https://preview.redd.it/zyxa96wxnop61.png?width=624&format=png&auto=webp&s=b6669920d38be33dcb128517e814295192a136dc)
 
 Well, let us start with a copy pasta definition that I think I took from Investopedia:
 
@@ -167,7 +168,7 @@ Soooooo, how the hell am I getting 2000% SI as a conservative estimate? Well, it
 
 &#x200B;
 
-[Sorry the boxes aren't actually black. Credibility -69](https://preview.redd.it/pnz2f1r5top61.png?width=1280&format=png&auto=webp&s=05e40c13a8ea15eb74d179b9c145655b00814190)
+![Sorry the boxes aren't actually black. Credibility -69](https://preview.redd.it/pnz2f1r5top61.png?width=1280&format=png&auto=webp&s=05e40c13a8ea15eb74d179b9c145655b00814190)
 
 &#x200B;
 
@@ -182,7 +183,7 @@ So, let us look at the chart and see. Just FYI this is the 4-hour chart.
 
 &#x200B;
 
-[I can't even fucking read](https://preview.redd.it/pu1rwnohtop61.png?width=1280&format=png&auto=webp&s=b8ba60d2991f700aec444efadc02f6e5dfe1b151)
+![I can't even fucking read](https://preview.redd.it/pu1rwnohtop61.png?width=1280&format=png&auto=webp&s=b8ba60d2991f700aec444efadc02f6e5dfe1b151)
 
 I don’t know about you, but my confirmation bias just did a six to midnight. In this chart, we see immense buying pressure push the stock from roughly $45 to reconsolidating above $100 after the buying pressure wore off. Furthermore, we see the buying pressure fall off a cliff once 94M total volume is met (with a bit of FOMO into after market). In my opinion, this is too damn convenient to be coincidence.
 
@@ -216,7 +217,7 @@ In my opinion, these numbers should not be that surprising when you consider Cit
 
 &#x200B;
 
-[Apparently there’s dark pools with hundreds of millions of GME shares trading in them.](https://preview.redd.it/o1ergi37wop61.png?width=624&format=png&auto=webp&s=51a87172d2f60ee5367a73e7a68e2535a086460d)
+![Apparently there’s dark pools with hundreds of millions of GME shares trading in them.](https://preview.redd.it/o1ergi37wop61.png?width=624&format=png&auto=webp&s=51a87172d2f60ee5367a73e7a68e2535a086460d)
 
 As history has proven, these financial bubbles are often significantly bigger than anyone realizes before it pops; thus, I consider 2000% SI to be conservative.
 
@@ -226,7 +227,7 @@ As history has proven, these financial bubbles are often significantly bigger th
 
 &#x200B;
 
-[Hopefully](https://preview.redd.it/8xy2udjswop61.png?width=624&format=png&auto=webp&s=9a09ee762ba50d29d1736a6f6b0a0d44cd9bb661)
+![Hopefully](https://preview.redd.it/8xy2udjswop61.png?width=624&format=png&auto=webp&s=9a09ee762ba50d29d1736a6f6b0a0d44cd9bb661)
 
 &#x200B;
 
@@ -298,7 +299,7 @@ And the image from that DD so you don't actually have to click the link:
 
 &#x200B;
 
-[Holy Shit this picture is big. Too bad I have no idea how to resize it. Credibility -420](https://preview.redd.it/pddmzw8z5pp61.png?width=640&format=png&auto=webp&s=effd1864014086b09aea7a133dfa5fde854f9618)
+![Holy Shit this picture is big. Too bad I have no idea how to resize it. Credibility -420](https://preview.redd.it/pddmzw8z5pp61.png?width=640&format=png&auto=webp&s=effd1864014086b09aea7a133dfa5fde854f9618)
 
 &#x200B;
 
@@ -312,7 +313,7 @@ I suspect when DTCC peered into the short positions of Citadel and company they 
 
 I noticed a weird change in available shorts starting in the middle of quadruple witching week. Until that week the available shorts had been slowly but steadily showing a general trend of approaching zero. However, that week they actually hit zero, but the interest to borrow stayed low. Due to supply and demand, the rate to borrow should only increase as the available shares to borrow decreases. This activity simply makes no logical sense. The following is a great example of the borrowable shares as I'm typing this.
 
-[Huh?](https://preview.redd.it/u94n2h11bpp61.png?width=898&format=png&auto=webp&s=3d91c09e549947a69b9302af1acb8b2eb8a10788)
+![Huh?](https://preview.redd.it/u94n2h11bpp61.png?width=898&format=png&auto=webp&s=3d91c09e549947a69b9302af1acb8b2eb8a10788)
 
 At the lowest, we see 10,000 shares available with a meager 1% interest rate. Since this makes no logical sense due to supply and demand, allow me to speculate on the actual play happening here.
 
@@ -394,7 +395,7 @@ In my opinion, there's too many new tactics that conveniently started popping up
 
 [The Wallstreet Conspiracy](https://www.youtube.com/watch?v=Kpyhnmd-ZbU)
 
-![Who Really Owns Your Money](https://seekingalpha.com/article/98297-who-really-owns-your-money-part-i-the-dtcc)
+[Who Really Owns Your Money](https://seekingalpha.com/article/98297-who-really-owns-your-money-part-i-the-dtcc)
 
 &#x200B;
 

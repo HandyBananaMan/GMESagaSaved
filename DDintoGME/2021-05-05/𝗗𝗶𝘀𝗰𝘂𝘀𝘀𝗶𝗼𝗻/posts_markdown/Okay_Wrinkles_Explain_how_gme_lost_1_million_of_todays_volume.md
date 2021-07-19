@@ -1,5 +1,6 @@
-# Author: Teraskikkeli
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n5r8bu/okay_wrinkles_explain_how_gme_lost_1_million_of/](https://www.reddit.com/r/DDintoGME/comments/n5r8bu/okay_wrinkles_explain_how_gme_lost_1_million_of/)
+#Title: Okay Wrinkles! Explain how gme lost 1 million of today's volume
+#Author: Teraskikkeli
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n5r8bu/okay_wrinkles_explain_how_gme_lost_1_million_of/](https://www.reddit.com/r/DDintoGME/comments/n5r8bu/okay_wrinkles_explain_how_gme_lost_1_million_of/)
 
 
 https://i.redd.it/lcbdslxvedx61.jpg

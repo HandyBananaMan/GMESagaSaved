@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
+#Title: Citadel Has No Clothes
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/](https://www.reddit.com/r/GME/comments/m4c0p4/citadel_has_no_clothes/)
 
 
 EDIT: This is not financial advice. Everything disclosed in the post was done by myself, with public information. I came to my own conclusions, as should you.
@@ -52,7 +53,7 @@ We've all heard Jimmy Cramer's bedtime stories: *"It's important to create a nar
 
 EDIT: Credit to u/[JohnnyGrey](https://www.reddit.com/user/JohnnyGrey) for the deeper-dive, here..
 
-[Out of the $32,236,000,000 increase in shorts during 2020,  $22,740,000,000 \(70.5&#37;\) were increases in financial derivatives \(options\)... ](https://preview.redd.it/nwght79ayvm61.png?width=870&format=png&auto=webp&s=3bad63929dbaf3449cde0784fce8f98657cd9a32)
+![Out of the $32,236,000,000 increase in shorts during 2020,  $22,740,000,000 \(70.5&#37;\) were increases in financial derivatives \(options\)... ](https://preview.redd.it/nwght79ayvm61.png?width=870&format=png&auto=webp&s=3bad63929dbaf3449cde0784fce8f98657cd9a32)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -96,7 +97,7 @@ Naked shorts, failure to provide documentation to SEC, short selling on trade ha
 
 Let's look at some recent events that occurred with trading halts in $GME. On March 10 2021 (Mar10 Day) we watched the stock rise until 12:30pm when an *unbelievable* drop triggered at least 4 circuit breaker events (probably more but I walked away for a bit).
 
-[Price drop of 40&#37; in about 25 minutes](https://preview.redd.it/00b5hrc96tm61.png?width=359&format=png&auto=webp&s=ac4247e1bf857c4e94d0479b5fe32a8b49c9799a)
+![Price drop of 40&#37; in about 25 minutes](https://preview.redd.it/00b5hrc96tm61.png?width=359&format=png&auto=webp&s=ac4247e1bf857c4e94d0479b5fe32a8b49c9799a)
 
 Now... I do not believe retail traders did this.. most importantly, the market was totally frozen for the majority of that 25 minutes. Even if people were putting in orders to sell, there were just as many people trying to buy the dip.
 
@@ -153,7 +154,7 @@ https://preview.redd.it/mf7j96xmstm61.png?width=726&format=png&auto=webp&s=30a83
 
 "UHHHHHH ACTUALLY, THE DTCC & FRIENDS OWN OUR PHYSICAL SHARES".....
 
-Well that's just terrific, because the DTCC just implemented ![SRCC 801](https://www.dtcc.com/Globals/PDFs/2021/March/05/SR-NSCC-2021-801) which means they **DON'T** have your f\*cking shares... I've seriously never seen so much finger pointing and ass-covering in my LIFE....
+Well that's just terrific, because the DTCC just implemented [SRCC 801](https://www.dtcc.com/Globals/PDFs/2021/March/05/SR-NSCC-2021-801) which means they **DON'T** have your f\*cking shares... I've seriously never seen so much finger pointing and ass-covering in my LIFE....
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

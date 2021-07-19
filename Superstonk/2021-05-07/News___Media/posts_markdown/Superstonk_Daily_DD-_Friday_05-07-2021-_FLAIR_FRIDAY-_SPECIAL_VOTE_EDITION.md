@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/](https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/)
+#Title: Superstonk Daily DD- Friday 05-07-2021- FLAIR FRIDAY- SPECIAL VOTE EDITION!! 🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/](https://www.reddit.com/r/Superstonk/comments/n6vep1/superstonk_daily_dd_friday_05072021_flair_friday/)
 
 
 &#x200B;
 
-[Banner submission by u\/Kidette](https://preview.redd.it/n7gc6x4lcmx61.png?width=1600&format=png&auto=webp&s=6efab1f1d6231c3e2e6f3c1139cb88d7582c0a55)
+![Banner submission by u\/Kidette](https://preview.redd.it/n7gc6x4lcmx61.png?width=1600&format=png&auto=webp&s=6efab1f1d6231c3e2e6f3c1139cb88d7582c0a55)
 
 # Good Morning Superstonk!!!
 
@@ -24,7 +25,7 @@ It's Friggin Flair Friday!! But not just any flairs...
 
 # 
 
-[More time to buy the dip ](https://preview.redd.it/8g25svjrqpx61.png?width=2000&format=png&auto=webp&s=27de1765464eaf61e7b86ab6e568821354094bd2)
+![More time to buy the dip ](https://preview.redd.it/8g25svjrqpx61.png?width=2000&format=png&auto=webp&s=27de1765464eaf61e7b86ab6e568821354094bd2)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -40,7 +41,7 @@ It's Friggin Flair Friday!! But not just any flairs...
 
 &#x200B;
 
-[iiiit's been... 3 weeks](https://preview.redd.it/8ncacq0memx61.png?width=640&format=png&auto=webp&s=08974e095c3672312fe2c1a78930c3bba1167023)
+![iiiit's been... 3 weeks](https://preview.redd.it/8ncacq0memx61.png?width=640&format=png&auto=webp&s=08974e095c3672312fe2c1a78930c3bba1167023)
 
 # Quick rundown:
 
@@ -54,7 +55,7 @@ It's Friggin Flair Friday!! But not just any flairs...
 * [Rashida Tlaib says the word "Citadel" like 11 times in 5 minutes](https://www.reddit.com/r/Superstonk/comments/n6g388/rep_rashida_tlaib_raises_really_good_points_about/?utm_source=share&utm_medium=web2x&context=3)
 * [Dennis Kelleher is an OG like always and deserves a follow on Twitter](https://www.reddit.com/r/Superstonk/comments/n6f6do/can_everyone_go_to_twitter_and_show_dennis/?utm_source=share&utm_medium=web2x&context=3)
 
-[That'll do!](https://preview.redd.it/s7jphsmiomx61.jpg?width=950&format=pjpg&auto=webp&s=3a7b4341a434e6db67165dae698d1c4f08f7e39d)
+![That'll do!](https://preview.redd.it/s7jphsmiomx61.jpg?width=950&format=pjpg&auto=webp&s=3a7b4341a434e6db67165dae698d1c4f08f7e39d)
 
 **Here's** u/Bye_Triangle\*\*'s take on Gary Gensler:\*\*
 
@@ -74,7 +75,7 @@ After all of the rumors that Gary Gensler was gonna' be our guy, I was pleased w
 
 &#x200B;
 
-[GG's got our back](https://preview.redd.it/3kxcl49rmmx61.png?width=720&format=png&auto=webp&s=a0fe683c1cb073848ab104a97bf62a52293a3760)
+![GG's got our back](https://preview.redd.it/3kxcl49rmmx61.png?width=720&format=png&auto=webp&s=a0fe683c1cb073848ab104a97bf62a52293a3760)
 
 I am extremely excited to hear more about this "meme stocks report" that the SEC is going to put out "in the summer", that is where the really juicy stuff is going to come from the SEC...
 
@@ -88,7 +89,7 @@ NOT FINANCIAL ADVICE🚨
 
 # Back to you, u/PinkCatsonAcid! 🦄🐈💎🚀
 
-[We love u\/Dlauer ](https://preview.redd.it/lh1c691p5mx61.png?width=602&format=png&auto=webp&s=be53011914dc49535fd3d2196bdb902c4f0e2aa7)
+![We love u\/Dlauer ](https://preview.redd.it/lh1c691p5mx61.png?width=602&format=png&auto=webp&s=be53011914dc49535fd3d2196bdb902c4f0e2aa7)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -151,7 +152,7 @@ Keep in mind some brokers just haven't issued them yet. And some are anticipatin
 
 &#x200B;
 
-[Oh Lawd they Votin](https://preview.redd.it/wcqbux30vlx61.png?width=900&format=png&auto=webp&s=3c1161f45cf24edf40a13319a003bfd20c2f4cac)
+![Oh Lawd they Votin](https://preview.redd.it/wcqbux30vlx61.png?width=900&format=png&auto=webp&s=3c1161f45cf24edf40a13319a003bfd20c2f4cac)
 
 **As with anything, nothing changes if you don't VOTE!! 💪**
 
@@ -169,7 +170,7 @@ Keep in mind some brokers just haven't issued them yet. And some are anticipatin
 
 &#x200B;
 
-[OG Carl](https://preview.redd.it/i1u4c075vlx61.png?width=1024&format=png&auto=webp&s=222e4c304ced8bddd12c2120bd7153928369b472)
+![OG Carl](https://preview.redd.it/i1u4c075vlx61.png?width=1024&format=png&auto=webp&s=222e4c304ced8bddd12c2120bd7153928369b472)
 
 *"Mr. Hagberg is considered to be one of the nation’s leading experts on individual stock ownership programs. He has helped over 100 companies (including companies and government agencies in several Eastern European and Central Asian countries) to launch, improve or remarket programs aimed at customers, employees, existing stockholders and other affinity groups.* ***He is also considered to be a leading expert on the proxy voting process and has served as Independent Inspector of Election, both in contested and uncontested situations, at over 300 annual and special meetings of shareholders."***
 
@@ -197,7 +198,7 @@ After speaking with Carl, Ato had this to say "I'm literally not worried about a
 
 # Change is coming
 
-[Artwork by u\/Bye\_Triangle ](https://preview.redd.it/ak07heqwtlx61.png?width=1000&format=png&auto=webp&s=9dbbfdd6ecaaae239bbec6de68287df2c1c0ae58)
+![Artwork by u\/Bye\_Triangle ](https://preview.redd.it/ak07heqwtlx61.png?width=1000&format=png&auto=webp&s=9dbbfdd6ecaaae239bbec6de68287df2c1c0ae58)
 
 # Good Vibes from Pink Cat ☮✌💖🚀🌝🐈
 
@@ -245,7 +246,7 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[Have a nice fuckin weekend!! ](https://preview.redd.it/cyzt4f6nnmx61.jpg?width=539&format=pjpg&auto=webp&s=a8e2d358d42f20de4c45443adf72b9d99d189370)
+![Have a nice fuckin weekend!! ](https://preview.redd.it/cyzt4f6nnmx61.jpg?width=539&format=pjpg&auto=webp&s=a8e2d358d42f20de4c45443adf72b9d99d189370)
 
 **Reddit down, wot do?**
 
@@ -255,7 +256,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://mobile.twitter.com/pinkcatsonacid](https://mobile.twitter.com/pinkcatsonacid)
 
-![SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperStonk. YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 # 🚨 ... AND VOTE!!! 🚨
 

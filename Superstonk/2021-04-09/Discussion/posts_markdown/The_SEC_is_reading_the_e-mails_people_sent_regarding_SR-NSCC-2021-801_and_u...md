@@ -1,5 +1,6 @@
-# Author: friedmice
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/](https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/)
+#Title: The SEC is reading the e-mails people sent regarding SR-NSCC-2021-801, and updated (probably still counting) the numbers on their official website.
+#Author: friedmice
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/](https://www.reddit.com/r/Superstonk/comments/mnps2e/the_sec_is_reading_the_emails_people_sent/)
 
 
 # IF YOU E-MAILED THE SEC AND ARE WORRIED, EVERYTHING IS OKAY!
@@ -32,7 +33,7 @@ Thank you for your time & consideration in this matter.
 
 People mentioned that flooding the SEC with these e-mails all of a sudden (since this was an event yesterday) could possibly delay the rule being put in place because they are required to read ALL these e-mails (a conservative number would be easily 10,000+ e-mails with the amount of apes there are), **but the SEC made it easier for themselves to read these:**
 
-[https:\/\/www.sec.gov\/rules\/submitcomments.htm ](https://preview.redd.it/5xk3j4rnf7s61.png?width=950&format=png&auto=webp&s=c95f1b725d75d5171fd897c0472b69f6c0b5ad98)
+![https:\/\/www.sec.gov\/rules\/submitcomments.htm ](https://preview.redd.it/5xk3j4rnf7s61.png?width=950&format=png&auto=webp&s=c95f1b725d75d5171fd897c0472b69f6c0b5ad98)
 
 Oh word, so they're saying **if there's a lot of e-mails that are identical, they take the first OG copy, and then just add up how many e-mails that were identical to that**.
 
@@ -48,7 +49,7 @@ ANSWER: **Over 9000.**
 
 &#x200B;
 
-[https:\/\/www.sec.gov\/comments\/sr-nscc-2021-801\/srnscc2021801.htm Edit 1: Trimmed the webpage for visibility](https://preview.redd.it/1djm9s79x8s61.png?width=966&format=png&auto=webp&s=b9be310e4da4641dff038160a0b7bfaf1ecdefa7)
+![https:\/\/www.sec.gov\/comments\/sr-nscc-2021-801\/srnscc2021801.htm Edit 1: Trimmed the webpage for visibility](https://preview.redd.it/1djm9s79x8s61.png?width=966&format=png&auto=webp&s=b9be310e4da4641dff038160a0b7bfaf1ecdefa7)
 
 &#x200B;
 

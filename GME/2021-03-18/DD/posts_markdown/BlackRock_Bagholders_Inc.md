@@ -1,5 +1,6 @@
-# Author: atobitt
-# Post URL: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
+#Title: BlackRock Bagholders, Inc.
+#Author: atobitt
+#Post URL: [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/)
 
 
 EDIT: FMR is Fidelity. I've updated this below.
@@ -114,7 +115,7 @@ In addition to the number of autists hodling shares, his purchase GUARANTEED tha
 
 Wrong. BlackRock is not an investment bank- they manage assets. Their primary business is to network and gather large amounts of money, then package it within various investment vehicles. Their total revenue for 2020 was $16,205,000,000 (with a B) and while this sounds impressive, it's peanuts compared to the $8 trillion in assets on their balance sheet. In fact, the actual net income attributable to BlackRock was less than $5,000,000,000 (with a B).... Imagine BlackRock as a giant tendie warehouse, but without a distribution network.... That's where Bridgewater and Citadel Securities step in.
 
-[BlackRock, LLC 2020 10K](https://preview.redd.it/4qp4mne0ern61.jpg?width=547&format=pjpg&auto=webp&s=476a699098b444bd1f3b0a3018fe9bd16354b93e)
+![BlackRock, LLC 2020 10K](https://preview.redd.it/4qp4mne0ern61.jpg?width=547&format=pjpg&auto=webp&s=476a699098b444bd1f3b0a3018fe9bd16354b93e)
 
 So where does this leave us now...
 
@@ -124,7 +125,7 @@ This turbulence between BlackRock and Citadel can only end poorly for them... Bl
 
 Speaking of which....
 
-Citadel has owned shares of BlackRock (BLK) since Q3 of 2008. Their business relationship started at a rather *peculiar* time if you ask me. Although it has fluctuated since at least Q4 2018 (earliest I can see) , they just sold off ![48.31%](https://fintel.io/so/us/blk/citadel-advisors-llc) of their BLK portfolio and own 206,500 BLK puts to 135,700 BLK calls (1.52 put/call).. For those who don't know... 1.52 is an EXTREMELY high put ratio. They've actually had a large put ratio on BlackRock for quite a while... anything over 0.7 signals bearish, and anything over 1 is treated like a dumpster fire. It's like Citadel knows that BlackRock is screwed without a mule like Citadel Securities.
+Citadel has owned shares of BlackRock (BLK) since Q3 of 2008. Their business relationship started at a rather *peculiar* time if you ask me. Although it has fluctuated since at least Q4 2018 (earliest I can see) , they just sold off [48.31%](https://fintel.io/so/us/blk/citadel-advisors-llc) of their BLK portfolio and own 206,500 BLK puts to 135,700 BLK calls (1.52 put/call).. For those who don't know... 1.52 is an EXTREMELY high put ratio. They've actually had a large put ratio on BlackRock for quite a while... anything over 0.7 signals bearish, and anything over 1 is treated like a dumpster fire. It's like Citadel knows that BlackRock is screwed without a mule like Citadel Securities.
 
 *"Want to know what you get out of it? You get the ice cream, the hot fudge, the banana, and the nuts. Right now, I get the sprinkles, and yeah, if this goes through, I get the cherry. But you get the Sundae, Vinnie. You get the sundae"*
 

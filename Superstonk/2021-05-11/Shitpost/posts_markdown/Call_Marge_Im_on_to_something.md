@@ -1,5 +1,6 @@
-# Author: ThatsOneSpicyTaco
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/naa3jo/call_marge_im_on_to_something/](https://www.reddit.com/r/Superstonk/comments/naa3jo/call_marge_im_on_to_something/)
+#Title: Call Marge. I'm on to something.
+#Author: ThatsOneSpicyTaco
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/naa3jo/call_marge_im_on_to_something/](https://www.reddit.com/r/Superstonk/comments/naa3jo/call_marge_im_on_to_something/)
 
 
 WTF guys.

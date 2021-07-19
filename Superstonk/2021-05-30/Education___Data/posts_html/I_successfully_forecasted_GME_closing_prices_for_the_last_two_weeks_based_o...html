@@ -1,0 +1,58 @@
+<h1>Author: RocketApes</h1>
+<h1>Post URL: <a href="https://www.reddit.com/r/Superstonk/comments/noih5m/i_successfully_forecasted_gme_closing_prices_for/">https://www.reddit.com/r/Superstonk/comments/noih5m/i_successfully_forecasted_gme_closing_prices_for/</a></h1>
+<p><em>edit2: Fixed broken links.</em></p>
+<p><em>edit1: Formatting. Proof for successful predictions now better visible.</em></p>
+<p>Hi to all the apes out there,</p>
+<p>I do data stuff for a living and since I basically spend my work hours staring at green and red GME dildos since January I thought:</p>
+<p><em>"Why not try to predict GME movement for today?"</em></p>
+<p>So I did. And it worked, I predicted the general movement of the last two weeks including last weeks crazy price action pretty accurately. That is why I am accused of witchcraft in the German Sub where I published my forecasts ;)</p>
+<p>Don´t believe me? Neither would I. But I will deliver proof.</p>
+<p><em>Before I start: I am a data scientist, but not financial expert or advisor. Don´t base investments  on anything you see here, a model can always fail. If you really want, I can be your wifes boyfriend, though.</em></p>
+<p>That is how it looks:</p>
+<p>&#x200B;</p>
+<p><a href="https://preview.redd.it/3ce2pe9p6b271.png?width=913&amp;format=png&amp;auto=webp&amp;s=562b5bccbd0ed527e0f87aebab74f61eccd747fa">GME price vs. my forecast</a></p>
+<p>&#x200B;</p>
+<p>Want proof? Alright, the forecasts where announced in the German <em>Unter</em> <a href="https://www.reddit.com/r/spielstopp/">r/spielstopp</a> in the following posts or comments (model was improved over time, old descriptions are not up to date):</p>
+<p>&#x200B;</p>
+<p>&#x200B;</p>
+<p>|Date|Forecast|Link / Proof|
+|:-|:-|:-|
+|2020-05-17|5 to 7.5%|<a href="https://www.reddit.com/r/Spielstopp/comments/ne9vhn/neues_kursmodell_zur_vorhersage_f%C3%BCr_euch_zum/">Here</a>|
+|2020-05-18|-6 to -9%|<a href="https://www.reddit.com/r/Spielstopp/comments/nf4mgo/kursmodell_20_und_offenlegung_von_daten_und_modell/">Here</a>|
+|2020-05-19|-5 to -8%|<a href="https://www.reddit.com/r/Spielstopp/comments/nfz5x7/ich_habe_euch_entt%C3%A4uscht_gebt_mir_noch_ne_chance/">Here</a>|
+|2020-05-20|0 to 2.5% (Model 1)|<a href="https://www.reddit.com/r/Spielstopp/comments/ngoyj4/t%C3%A4glicher_spielstopp_sammelfaden_20052021/gysw3ug?utm_source=share&amp;utm_medium=web2x&amp;context=3">Here</a>|
+|2020-05-21|2.5 to 5% (Model 2)|<a href="https://www.reddit.com/r/Spielstopp/comments/nhihrz/t%C3%A4glicher_spielstopp_sammelfaden_21052021/gyx9xad?utm_source=share&amp;utm_medium=web2x&amp;context=3">Here</a>|
+|2020-05-24 to 2020-05-28 (whole week because I was on vacation)|Longterm forecast (NOT up to date)|<a href="https://www.reddit.com/r/Spielstopp/comments/ngyrai/langfristige_kursvorhersage_von_spielstopp/">Here</a>|</p>
+<p>&#x200B;</p>
+<p><em>Alright, what did I do? (You can skip this part if you like)</em></p>
+<p>I developed a relatively simple linear regression model and optimized it with a little Monte-Carlo-Simulation to improve the forecast. R² is 0.62, overfitting was hopefully countered by stepwise reduction of variables.</p>
+<p>I am sure there are smart apes out there who could improve the model by adding non-linear regression terms, time series analysis and so on, but I had no time for that yet ;) If I chose to share my model, I would be happy to assist with improvements.</p>
+<p><strong><em>Why should I care? I am just an ape who buy and holds? (DONT skip this part!)</em></strong></p>
+<p>I will tell you why! Because I can proof some DDs floating around here right.<strong>And, most importantly, the fact that GME price movements especially in this week were predictable, shows that we are still in the "Hedgie manipulated area", no covering of shorts or crazy staff has yet happened!</strong></p>
+<p>What variables did I include in my model (bold ones are of greater significance)?</p>
+<ol>
+<li><strong>Volume und Price movements of afterhours previous day and first hour of the premarket (prediction for the day is therefore available at 5am EST or 10am my time ;))</strong></li>
+<li><strong>FTD cycle.</strong> Hell yeah, this one IS important, we saw that last week. Hank and all the other´s theories seem to be right</li>
+<li>Day of week (NOT that important, also no special movements on fridays (options) or tuesday (option hedging) to be seen)</li>
+<li>SPY movement (previous day)</li>
+<li>Price movement of 10Y US treasuries</li>
+<li>Price movement B...Coin (previous day)</li>
+<li>Price movement of a certain Cinema (previous day). Not that important as a predictor but of course still correlated to GME!</li>
+<li>Change in max pain price (not that important either)</li>
+<li>Did RC tweet (previous day)? For the lulz, also not that important</li>
+<li><strong>RSI (Relative strength index) at the end of previous day</strong></li>
+<li><strong>3 month, 4 week, 2 week and 1 week beta. VERY relevant and, to be clear, betas are POSITIVE most of the time</strong></li>
+<li><strong>SI settlement dates as described in</strong> <a href="https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/">this</a> <strong>DD are extremely relevant</strong></li>
+</ol>
+<p><strong>(So why did the price go up this week? in simple terms: FTD+21 plus SI settlement dates plus a little FOMO)</strong></p>
+<p>You can find more explanation at my github: <a href="https://github.com/rocketapes123/GMEmodel">https://github.com/rocketapes123/GMEmodel</a> or in a little pastebin: <a href="https://controlc.com/9e895bdb">https://controlc.com/9e895bdb</a></p>
+<p>I set the project to private temporarily, though. Why? Read on.</p>
+<p><strong><em>Ok, now to the most important question? Should I publish the model and / or forecasts? To be clear, I don´t want to farm karma, I am not going to monetize, stream, ask for funding or similar bullshit. I just want to share my findings.</em></strong></p>
+<p>Whats stops me from doing it? What are my doubts?</p>
+<ol>
+<li>Hedgies can read this, too. My model shows that DD here is on spot. (Counter argument: They not it anyways)</li>
+<li>A model is a model. It can be wrong, there can be new factors, fuckery or FOMO it can not predict. If people rely on it too much, a wrong prediction could spread doubt.</li>
+<li>Danger of "self-fulfilling prophecy": If I, lets say, predict that price is going to drop 5% tomorrow, some people may sell their shares and accelerate a decline</li>
+</ol>
+<p><strong>What do you say? Mods and wrinkly apes, I need your input:</strong></p>
+<p><a href="https://www.reddit.com/u/rensole/">u/rensole</a>**,** <a href="https://www.reddit.com/u/redchessqueen99/">u/redchessqueen99</a>**,** <a href="https://www.reddit.com/u/dlauer/">u/dlauer</a>**,** <img alt="u/atobitt" src="https://www.reddit.com/u/atobitt/" /></p>

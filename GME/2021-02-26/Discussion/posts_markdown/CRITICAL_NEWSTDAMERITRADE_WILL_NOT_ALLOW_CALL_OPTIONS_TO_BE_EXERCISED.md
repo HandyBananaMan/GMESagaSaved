@@ -1,5 +1,6 @@
-# Author: laura031619
-# Post URL: [https://www.reddit.com/r/GME/comments/lt07m3/critical_newstdameritrade_will_not_allow_call/](https://www.reddit.com/r/GME/comments/lt07m3/critical_newstdameritrade_will_not_allow_call/)
+#Title: CRITICAL NEWS...TDAMERITRADE WILL NOT ALLOW CALL OPTIONS TO BE EXERCISED
+#Author: laura031619
+#Post URL: [https://www.reddit.com/r/GME/comments/lt07m3/critical_newstdameritrade_will_not_allow_call/](https://www.reddit.com/r/GME/comments/lt07m3/critical_newstdameritrade_will_not_allow_call/)
 
 
 &#x200B;

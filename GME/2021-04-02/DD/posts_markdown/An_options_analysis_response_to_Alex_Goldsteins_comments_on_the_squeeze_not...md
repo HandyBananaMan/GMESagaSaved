@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/](https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/)
+#Title: An options analysis response to Alex Goldstein's comments on the squeeze not happening. Why we are actually better positioned for a short squeeze now than January.
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/](https://www.reddit.com/r/GME/comments/misbn2/an_options_analysis_response_to_alex_goldsteins/)
 
 
 **This is not financial advice. These are opinions. Seek an financial professional for investment advice.**
@@ -52,7 +53,7 @@ What evidence do we have? Well on Wednesday, 3/31, we saw an anomaly appear that
 
 So ask yourself, why would they need to reset FTDs, if SI is low? That wouldn't make sense, because that would result in fewer synthetic/counterfeit shares. Therefore, I can assume they still have a massive problem with their short position and conclude that SI is still extremely high. Lastly, I believe they have concealed their short interest via options. There are many ways to do this, and this would explain the low short interest Fintel is reporting.
 
-[data courtesy of https:\/\/www.optionsonar.com\/unusual-option-activity\/GME\/latest-trades](https://preview.redd.it/r5aaka08gtq61.png?width=2456&format=png&auto=webp&s=16ead90413676805c759197c191493e25cf8db8d)
+![data courtesy of https:\/\/www.optionsonar.com\/unusual-option-activity\/GME\/latest-trades](https://preview.redd.it/r5aaka08gtq61.png?width=2456&format=png&auto=webp&s=16ead90413676805c759197c191493e25cf8db8d)
 
 What about institutional ownership? In the Bloomberg terminal, it shows that before January, the institutional ownership was 194%. Now it's 130%. It's probably a bit higher because of how Fidelity filed their position change. I think they moved their 9 million shares to a different alias. So it could be around 140-150%.
 
@@ -92,7 +93,7 @@ https://preview.redd.it/xb7kad89gtq61.png?width=2139&format=png&auto=webp&s=aaf9
 
 There was even an article on it.
 
-![https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote](https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote)
+[https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote](https://seekingalpha.com/article/4336290-gamestop-shareholders-must-call-in-shares-april-20th-to-vote)
 
 In the article, Justin Dopierala, the President and Founder of DOMO Capital states:
 

@@ -1,14 +1,15 @@
-# Author: Bye_Triangle
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/)
+#Title: 🚨📺 STONKY NEWS ~SPECIAL REPORT 📺🚨 Dr. Susanne Trimbath AMA Transcription and summary, with supporting materials (and memes)
+#Author: Bye_Triangle
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/)
 
 
 This may be our most ambitious crossover event... 
 
-[ Dr. Susanne Trimbath AMA Transcription. Summaries, supporting materials, punctuation and memes brought to you by u\/Bye\_Triangle, u\/Luridess, u\/Leaglese & u\/Cuttingwater\_](https://preview.redd.it/c3zziltwmbw61.jpg?width=1432&format=pjpg&auto=webp&s=557fd27d4f535f9214ce7ff6b10c05900b0d53dc)
+![ Dr. Susanne Trimbath AMA Transcription. Summaries, supporting materials, punctuation and memes brought to you by u\/Bye\_Triangle, u\/Luridess, u\/Leaglese & u\/Cuttingwater\_](https://preview.redd.it/c3zziltwmbw61.jpg?width=1432&format=pjpg&auto=webp&s=557fd27d4f535f9214ce7ff6b10c05900b0d53dc)
 
 **I'm Brick and I do news, I come to you with SPECIAL REPORT**
 
-[u\/Bye\_Triangle](https://preview.redd.it/o1raj2noqbw61.jpg?width=1200&format=pjpg&auto=webp&s=c6a2d48257078b6c63e9d741c931090e6de6bd18)
+![u\/Bye\_Triangle](https://preview.redd.it/o1raj2noqbw61.jpg?width=1200&format=pjpg&auto=webp&s=c6a2d48257078b6c63e9d741c931090e6de6bd18)
 
 **First off, I would like to say a massive THANK YOU to Dr. T. It was out of the kindness of her heart and her passion for justice that she decided to come to speak with us,** ***for free,*** **I might add. Dr. T is a busy woman, so it is an honor that she spent even an hour of her time with us. I for one, am really hoping that we get the opportunity to speak with her again because that was probably our most insightful AMA yet!**   
 **The following is the transcribed conversation between** u/atobitt **and Dr.T, accompanying it are summaries that break down the sections into more digestible pieces.** [**The video of the stream is also available on the r/superstonk official youtube channel if you cannot read.**](https://www.youtube.com/watch?v=fGVY2Kco8ng&ab_channel=Superstonk) **Thank you for being such behaved Apes while Dr.T was here, you are amazing.  💎💙**
@@ -17,7 +18,7 @@ This may be our most ambitious crossover event...
 
 **INTRODUCTION**
 
-[ Kenny G trying to short our AMA less than 2 minutes in. 😂 credit: u\/stellarEVH ](https://preview.redd.it/mnvgpiiymbw61.jpg?width=936&format=pjpg&auto=webp&s=2c686294c302e62a45916e6940b2a968fb822c58)
+![ Kenny G trying to short our AMA less than 2 minutes in. 😂 credit: u\/stellarEVH ](https://preview.redd.it/mnvgpiiymbw61.jpg?width=936&format=pjpg&auto=webp&s=2c686294c302e62a45916e6940b2a968fb822c58)
 
 * Atobitt:
    * Thank you everyone for joining us, this is our first r/Superstonk live AMA. AMA stands for Ask Me Anything
@@ -351,7 +352,7 @@ that happens “backstage at Wall Street”.
    * And then afterward when we post the follow up which will be posted after this these people will be able to see these questions and shout those people out but we had a lot of questions on this with the regulation and I think a lot of people don’t know that these people are SROs, Self Regulatory Organisations and they don’t fall under the realm of things like the Dodd-Frank and some other regulatory acts 
    * So, it is just overwhelming the things you have put in your book to address this, like the triumvirate of trouble but how this is allowed to be this pervasive and the system actually *allows these people to* fail to deliver which is something, as you mentioned, we need to raise the pitchforks about.
 
-[u\/mortz232 Pitchfork Army is here ](https://preview.redd.it/5mg0z9k4qbw61.jpg?width=1156&format=pjpg&auto=webp&s=6f8bbe7bd0b7b19f1f4ef17dc1e796a86bde5d62)
+![u\/mortz232 Pitchfork Army is here ](https://preview.redd.it/5mg0z9k4qbw61.jpg?width=1156&format=pjpg&auto=webp&s=6f8bbe7bd0b7b19f1f4ef17dc1e796a86bde5d62)
 
 **TL:DR 🦍 Summary:**
 
@@ -393,7 +394,7 @@ that happens “backstage at Wall Street”.
 
 **TL:DR 🦍 Summary:**
 
-* Actionable steps that could be taken include, visiting ![https://www.nasaa.org/](https://www.nasaa.org/) and contacting their local securities administrator as *they* will pay attention, as her friend Patrick did. These are the people that want to know about this stuff.
+* Actionable steps that could be taken include, visiting [https://www.nasaa.org/](https://www.nasaa.org/) and contacting their local securities administrator as *they* will pay attention, as her friend Patrick did. These are the people that want to know about this stuff.
 * Dr. T’s position is that overvoting is a huge problem, and it is ***not*** solely confined to stocks such as GME. In fact, even now 85% of stocks are over-voted and that’s because of the influence of a company who deals in trying to fix it, before, 100% of stocks in 200+ test cases were regularly overvoted.
 * Where a stock is over-voted, this provides *proof* the stock is naked short sold and/or has a high number of FTDs. A problem prevalent throughout the industry.
 

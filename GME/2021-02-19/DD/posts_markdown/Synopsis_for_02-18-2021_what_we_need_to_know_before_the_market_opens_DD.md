@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/lnd3t5/synopsis_for_02182021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lnd3t5/synopsis_for_02182021_what_we_need_to_know_before/)
+#Title: Synopsis for 02-18-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/lnd3t5/synopsis_for_02182021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/lnd3t5/synopsis_for_02182021_what_we_need_to_know_before/)
 
 
 Goodmorning everyone,

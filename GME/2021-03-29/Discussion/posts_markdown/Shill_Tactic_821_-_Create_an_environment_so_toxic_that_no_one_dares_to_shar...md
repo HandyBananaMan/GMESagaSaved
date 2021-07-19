@@ -1,5 +1,6 @@
-# Author: ObiJuanJabroni
-# Post URL: [https://www.reddit.com/r/GME/comments/mg82iw/shill_tactic_821_create_an_environment_so_toxic/](https://www.reddit.com/r/GME/comments/mg82iw/shill_tactic_821_create_an_environment_so_toxic/)
+#Title: Shill Tactic #821 - Create an environment so toxic that no one dares to share DD or analysis
+#Author: ObiJuanJabroni
+#Post URL: [https://www.reddit.com/r/GME/comments/mg82iw/shill_tactic_821_create_an_environment_so_toxic/](https://www.reddit.com/r/GME/comments/mg82iw/shill_tactic_821_create_an_environment_so_toxic/)
 
 
 With the recent backlash against Warden, I've noticed a lot more shills going commenting in the daily thread and on DD posts crucifying Pixel and Warden, accusing them of selling out, not having the balls to stand by what they said, spreading FUD, creating unnecessary drama, not believing in the squeeze etc. and let me tell you that this is the next and possibly most effective strategy because it's going to discourage a lot of smart apes out there from posting DD, effectively killing intelligent discussion in this subreddit.

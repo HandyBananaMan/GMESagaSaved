@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mmo57p/synopsis_for_04082021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mmo57p/synopsis_for_04082021_what_we_need_to_know_before/)
+#Title: Synopsis for 04-08-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mmo57p/synopsis_for_04082021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mmo57p/synopsis_for_04082021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -32,7 +33,7 @@ Also some good reading that goes along with this [here](https://www.reddit.com/r
 
 &#x200B;
 
-[One community, multiple trees \<3](https://preview.redd.it/t6i1fi1s3xr61.png?width=640&format=png&auto=webp&s=a5269b0c4b1759ccedc53e6bd8aa7b763119d8a6)
+![One community, multiple trees \<3](https://preview.redd.it/t6i1fi1s3xr61.png?width=640&format=png&auto=webp&s=a5269b0c4b1759ccedc53e6bd8aa7b763119d8a6)
 
 # SEC meeting
 
@@ -91,7 +92,7 @@ Great thread, won't TLDR it but it's something you should read imo
 
 &#x200B;
 
-[Fanmade :\< hoped this was real](https://preview.redd.it/k630w4rx3xr61.png?width=375&format=png&auto=webp&s=706de5a059e1e28b722086a42f8790bd2e33b8a3)
+![Fanmade :\< hoped this was real](https://preview.redd.it/k630w4rx3xr61.png?width=375&format=png&auto=webp&s=706de5a059e1e28b722086a42f8790bd2e33b8a3)
 
 Now before I go I want to touch on one simple thing, it's about one specific tweet DFV made.
 
@@ -165,7 +166,7 @@ Edit 1:
 
 and the 8k filing!
 
-![https://gamestop.gcs-web.com/node/18776/html](https://gamestop.gcs-web.com/node/18776/html)
+[https://gamestop.gcs-web.com/node/18776/html](https://gamestop.gcs-web.com/node/18776/html)
 
  
 

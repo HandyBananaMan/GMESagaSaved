@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m2mnvw/synopsis_for_03112021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m2mnvw/synopsis_for_03112021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-11-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m2mnvw/synopsis_for_03112021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m2mnvw/synopsis_for_03112021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -32,15 +33,15 @@ plus some news outlets did a fucky wucky and posted this before the crash happen
 
 &#x200B;
 
-[The first trading halt going down was at 12:41:05](https://preview.redd.it/760ivl8x1dm61.jpg?width=640&format=pjpg&auto=webp&s=8c07278a389323400fd787d590e1c6a00903e3da)
+![The first trading halt going down was at 12:41:05](https://preview.redd.it/760ivl8x1dm61.jpg?width=640&format=pjpg&auto=webp&s=8c07278a389323400fd787d590e1c6a00903e3da)
 
 &#x200B;
 
-[article posted within 2 minutes](https://preview.redd.it/g211piu82dm61.jpg?width=1920&format=pjpg&auto=webp&s=b40eb8b121352e53f9f61f98de945e571235b090)
+![article posted within 2 minutes](https://preview.redd.it/g211piu82dm61.jpg?width=1920&format=pjpg&auto=webp&s=b40eb8b121352e53f9f61f98de945e571235b090)
 
 &#x200B;
 
-[Marketwatch even did it a lot earlier ... which is impressive](https://preview.redd.it/rpg5u9qc2dm61.jpg?width=750&format=pjpg&auto=webp&s=5986a834b56191d17f352f2d9324bc765293b3d5)
+![Marketwatch even did it a lot earlier ... which is impressive](https://preview.redd.it/rpg5u9qc2dm61.jpg?width=750&format=pjpg&auto=webp&s=5986a834b56191d17f352f2d9324bc765293b3d5)
 
 So like I said yesterday, they're trying to pull the rug out from underneath us and start to spread FUD. and they did alright, we had so many bots we kicked off the board since that happened.
 
@@ -162,7 +163,7 @@ Either you believe in this and you're in this or you're out, and I rather have p
 
 &#x200B;
 
-[this is the chart of 2021](https://preview.redd.it/opsxs911bdm61.png?width=1569&format=png&auto=webp&s=c90c1673f9fbb909f8a385786603932c8a90d9a5)
+![this is the chart of 2021](https://preview.redd.it/opsxs911bdm61.png?width=1569&format=png&auto=webp&s=c90c1673f9fbb909f8a385786603932c8a90d9a5)
 
 that's a big ass cup and handle
 
@@ -270,4 +271,4 @@ Edit 5:
 
 Because people asked about the psychology stuff here is the link:
 
-![https://www.reddit.com/r/GME/comments/lemt4r/psychology\_2\_electric\_boogaloo/](https://www.reddit.com/r/GME/comments/lemt4r/psychology_2_electric_boogaloo/)
+[https://www.reddit.com/r/GME/comments/lemt4r/psychology\_2\_electric\_boogaloo/](https://www.reddit.com/r/GME/comments/lemt4r/psychology_2_electric_boogaloo/)

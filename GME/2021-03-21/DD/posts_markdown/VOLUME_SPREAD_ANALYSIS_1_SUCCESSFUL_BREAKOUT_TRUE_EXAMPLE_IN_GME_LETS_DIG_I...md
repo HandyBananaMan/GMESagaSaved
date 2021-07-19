@@ -1,5 +1,6 @@
-# Author: AeterSatyr
-# Post URL: [https://www.reddit.com/r/GME/comments/ma72nj/volume_spread_analysis_1_successful_breakout_true/](https://www.reddit.com/r/GME/comments/ma72nj/volume_spread_analysis_1_successful_breakout_true/)
+#Title: VOLUME SPREAD ANALYSIS (1) SUCCESSFUL BREAKOUT, TRUE EXAMPLE IN GME LET'S DIG IN DEEP TECHNICAL ANALYSIS.
+#Author: AeterSatyr
+#Post URL: [https://www.reddit.com/r/GME/comments/ma72nj/volume_spread_analysis_1_successful_breakout_true/](https://www.reddit.com/r/GME/comments/ma72nj/volume_spread_analysis_1_successful_breakout_true/)
 
 
 Y'ALL WHATS'UP! I HOPE YOU HAD A GREAT WEEKEND! ARE YOU READY FOR EXCITING WEEK AHEAD? HELL YEAH I CAN'T WAIT TO SEE SOMETHING NICE!!
@@ -56,7 +57,7 @@ https://preview.redd.it/rpw9877ocgo61.png?width=1920&format=png&auto=webp&s=c157
 
 (3) 184$ showed a real strength and for me personally I think the test has been successfully passed. The low volume and narrow spread Down bars near a support line are signs of strength, it means the supply has been dried out and no selling pressure left to resist the up movement.
 
-So far so good, I expected the Market could fall even further to lower prices last week and I mentioned that in a post  ![Ant dip is coming, prepare some pennies to catch it! : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m31puh/ant_dip_is_coming_prepare_some_pennies_to_catch_it/) but people obviously didn't understand What I meant, I hope now the picture is clear enough to understand the science behind the market.
+So far so good, I expected the Market could fall even further to lower prices last week and I mentioned that in a post  [Ant dip is coming, prepare some pennies to catch it! : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m31puh/ant_dip_is_coming_prepare_some_pennies_to_catch_it/) but people obviously didn't understand What I meant, I hope now the picture is clear enough to understand the science behind the market.
 
 Test signals are extremely important in VSA and I'll explain one by one later on. Testing in a rising market and testing in a falling market. You should understand all the principles to be Pro trader and Pro in reading the chart.
 

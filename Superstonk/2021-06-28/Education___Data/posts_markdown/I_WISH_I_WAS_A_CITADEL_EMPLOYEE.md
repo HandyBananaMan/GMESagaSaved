@@ -1,5 +1,6 @@
-# Author: justtheentiredick
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9u2ep/i_wish_i_was_a_citadel_employee/](https://www.reddit.com/r/Superstonk/comments/o9u2ep/i_wish_i_was_a_citadel_employee/)
+#Title: I WISH I WAS A CITADEL EMPLOYEE
+#Author: justtheentiredick
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9u2ep/i_wish_i_was_a_citadel_employee/](https://www.reddit.com/r/Superstonk/comments/o9u2ep/i_wish_i_was_a_citadel_employee/)
 
 
 # I WISH I COULD BE A CITADEL EMPLOYEE RIGHT NOW.

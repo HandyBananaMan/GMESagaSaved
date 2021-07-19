@@ -1,5 +1,6 @@
-# Author: Shaqqygotit
-# Post URL: [https://www.reddit.com/r/GME/comments/oga80e/just_bought_5_shares_for_my_parents_and_i_wont/](https://www.reddit.com/r/GME/comments/oga80e/just_bought_5_shares_for_my_parents_and_i_wont/)
+#Title: Just bought 5 shares for my parents and I won’t tell them until I sell it and hand them a cheque
+#Author: Shaqqygotit
+#Post URL: [https://www.reddit.com/r/GME/comments/oga80e/just_bought_5_shares_for_my_parents_and_i_wont/](https://www.reddit.com/r/GME/comments/oga80e/just_bought_5_shares_for_my_parents_and_i_wont/)
 
 
 Sorry I had to share this with someone and nobody better than my fellow apes. My parents are in financial distress due to covid and personal health problems. Their small business is going under due to their business partner screwing them over. 

@@ -1,5 +1,6 @@
-# Author: lickybum
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n763vq/dtcc_members_are_having_a_liquidity_check_may_13th/](https://www.reddit.com/r/Superstonk/comments/n763vq/dtcc_members_are_having_a_liquidity_check_may_13th/)
+#Title: DTCC Members are having a liquidity check May 13th
+#Author: lickybum
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n763vq/dtcc_members_are_having_a_liquidity_check_may_13th/](https://www.reddit.com/r/Superstonk/comments/n763vq/dtcc_members_are_having_a_liquidity_check_may_13th/)
 
 
 As per page 6 on the NSCC-002 rule filing...

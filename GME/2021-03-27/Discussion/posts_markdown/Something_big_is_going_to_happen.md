@@ -1,5 +1,6 @@
-# Author: FexMax
-# Post URL: [https://www.reddit.com/r/GME/comments/men5ta/something_big_is_going_to_happen/](https://www.reddit.com/r/GME/comments/men5ta/something_big_is_going_to_happen/)
+#Title: Something big is going to happen.
+#Author: FexMax
+#Post URL: [https://www.reddit.com/r/GME/comments/men5ta/something_big_is_going_to_happen/](https://www.reddit.com/r/GME/comments/men5ta/something_big_is_going_to_happen/)
 
 
 Goldman Sachs won’t liquidate such huge volume of equities for no reason. 

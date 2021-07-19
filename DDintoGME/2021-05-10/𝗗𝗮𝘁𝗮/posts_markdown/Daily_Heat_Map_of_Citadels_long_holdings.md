@@ -1,5 +1,6 @@
-# Author: HODLTheLineMyFriend
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n9jrif/daily_heat_map_of_citadels_long_holdings/](https://www.reddit.com/r/DDintoGME/comments/n9jrif/daily_heat_map_of_citadels_long_holdings/)
+#Title: Daily Heat Map of Citadel's long holdings
+#Author: HODLTheLineMyFriend
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n9jrif/daily_heat_map_of_citadels_long_holdings/](https://www.reddit.com/r/DDintoGME/comments/n9jrif/daily_heat_map_of_citadels_long_holdings/)
 
 
 It occurred to me that one way to see if Citadel is starting to feel the squeeze by having to liquidate to stay ahead of margin requirements on their shorts is to watch the movement on their biggest holdings. If they're trying to increase liquidity, they're likely to shave off parts of all their holdings, but I suspect, given their media control and general fuckery, that they will pick certain sectors and shave only those, so boomers can read in MarketWatch that tech stocks are down today, or there's a drop in consumer cyclical with some line about WHY it happened. That way it blends into the overall market and doesn't spook other investors.
@@ -23,4 +24,4 @@ I did notice that EEM was on their list, and it also saw it in today's list of t
 Someone asked for the 13F link, so I'll share my links here:[https://whalewisdom.com/filer/citadel-advisors-llc#tabholdings\_tab\_link](https://whalewisdom.com/filer/citadel-advisors-llc#tabholdings_tab_link)[https://www.holdingschannel.com/13f/citadel-advisors-llc-top-holdings/](https://www.holdingschannel.com/13f/citadel-advisors-llc-top-holdings/)
 
 Edit 2: Not sure the best way to share the next days' update, but I'll just add a link here for May 11:  
-![https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily\_heat\_map\_of\_citadel\_and\_melvins\_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)
+[https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily\_heat\_map\_of\_citadel\_and\_melvins\_long/](https://www.reddit.com/r/DDintoGME/comments/na9xwb/daily_heat_map_of_citadel_and_melvins_long/)

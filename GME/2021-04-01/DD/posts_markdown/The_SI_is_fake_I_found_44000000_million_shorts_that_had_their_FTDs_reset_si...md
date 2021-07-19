@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
+#Title: The SI% is fake. I found 44,000,000 million shorts that had their FTDs reset since January 1st using DEEP ITM CALLS. Identifying call option types used for this practice and timeline of events.
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/](https://www.reddit.com/r/GME/comments/mhv22h/the_si_is_fake_i_found_44000000_million_shorts/)
 
 
 **APR1 Edit: 708,000 more shares laundered today, we have officially entered the new cycle of whatever this is, new data:** [https://www.reddit.com/r/GME/comments/mi31m6/deep\_itm\_calls\_activity\_pt2\_april\_1st\_708000\_ftds/](https://www.reddit.com/r/GME/comments/mi31m6/deep_itm_calls_activity_pt2_april_1st_708000_ftds/)
@@ -28,11 +29,11 @@ I used these clues to trace back days with a lot of activity in these particular
 
 # The 'deep ITM call anomalies' are back MARCH 31.
 
-[Call option spending March31 from OptionSonar: https:\/\/www.optionsonar.com\/unusual-option-activity\/GME\/latest-trades,](https://preview.redd.it/pfkjtozgghq61.png?width=1197&format=png&auto=webp&s=98d5b8c5e25b50f9d7ba503691d4f39afdd96f66)
+![Call option spending March31 from OptionSonar: https:\/\/www.optionsonar.com\/unusual-option-activity\/GME\/latest-trades,](https://preview.redd.it/pfkjtozgghq61.png?width=1197&format=png&auto=webp&s=98d5b8c5e25b50f9d7ba503691d4f39afdd96f66)
 
-[ Yahoo Finance shows they used APR16s for 7-19Cs, 21JAN 2022 4.5Cs, and 19 NOV for the 3Cs. The 1:58pm timestamp was on all the relevant transactions \(I hit the screenshot limit I can't show ya\)](https://preview.redd.it/btv60bqjghq61.png?width=672&format=png&auto=webp&s=53d338e6463ca0fb325394ea924d0c6cc87176fd)
+![ Yahoo Finance shows they used APR16s for 7-19Cs, 21JAN 2022 4.5Cs, and 19 NOV for the 3Cs. The 1:58pm timestamp was on all the relevant transactions \(I hit the screenshot limit I can't show ya\)](https://preview.redd.it/btv60bqjghq61.png?width=672&format=png&auto=webp&s=53d338e6463ca0fb325394ea924d0c6cc87176fd)
 
-[ Checking the OptionSonar and Yahoo Finance data against each other, we can verify that approximately 303900 FTDs were reset using this technique today. ](https://preview.redd.it/o5dtpfbkghq61.png?width=743&format=png&auto=webp&s=8d4013f8f9fc310104c316ceda13ae67149efe20)
+![ Checking the OptionSonar and Yahoo Finance data against each other, we can verify that approximately 303900 FTDs were reset using this technique today. ](https://preview.redd.it/o5dtpfbkghq61.png?width=743&format=png&auto=webp&s=8d4013f8f9fc310104c316ceda13ae67149efe20)
 
 None of the previous days have shown this activity. But we have seen it before.
 
@@ -46,9 +47,9 @@ So following the two favorites, APR16 12c and 15c, there were clear patterns tha
 
 &#x200B;
 
-[ APR16 12C - aka Citadel's Delight - 24052 contracts traded while Open Interest changes by 3 - between FEB 25 and MAR 12, or 2.405m FTDs reset. ](https://preview.redd.it/75lp0kjf8kq61.png?width=652&format=png&auto=webp&s=c72fecef886780df2966ae05f3591e9eed057ec1)
+![ APR16 12C - aka Citadel's Delight - 24052 contracts traded while Open Interest changes by 3 - between FEB 25 and MAR 12, or 2.405m FTDs reset. ](https://preview.redd.it/75lp0kjf8kq61.png?width=652&format=png&auto=webp&s=c72fecef886780df2966ae05f3591e9eed057ec1)
 
-[ APR16 15C - aka Melvin's Truffle - 10732 contracts traded between FEB 25 and MAR 11, or 1.073m FTDs reset. ](https://preview.redd.it/wyi815ig8kq61.png?width=649&format=png&auto=webp&s=ad7de2ecd8d22be28bdcac4db60d4ef9e0308227)
+![ APR16 15C - aka Melvin's Truffle - 10732 contracts traded between FEB 25 and MAR 11, or 1.073m FTDs reset. ](https://preview.redd.it/wyi815ig8kq61.png?width=649&format=png&auto=webp&s=ad7de2ecd8d22be28bdcac4db60d4ef9e0308227)
 
 # But there are way, way, more.
 
@@ -74,11 +75,11 @@ https://preview.redd.it/i9r1lhmaflq61.png?width=960&format=png&auto=webp&s=45b2f
 
 https://preview.redd.it/hqeiaec69kq61.png?width=960&format=png&auto=webp&s=142b6106a5b8824006906f3604af2d779e551165
 
-[ Full spreadsheet of all the relevant calls. Some of the ones I have identified above might be missing from the final cut, if I found something that pointed to organic volume or another confounding variable. I just forgot about the FEB5 expiries too, and I'm not gonna redo all the charts now. :\) What's a 100,000 FTDs either way between friends? ](https://preview.redd.it/u5krgfu7akq61.png?width=1626&format=png&auto=webp&s=e290f52bc030dfa06a27f47b98b5c0481c8dbbbf)
+![ Full spreadsheet of all the relevant calls. Some of the ones I have identified above might be missing from the final cut, if I found something that pointed to organic volume or another confounding variable. I just forgot about the FEB5 expiries too, and I'm not gonna redo all the charts now. :\) What's a 100,000 FTDs either way between friends? ](https://preview.redd.it/u5krgfu7akq61.png?width=1626&format=png&auto=webp&s=e290f52bc030dfa06a27f47b98b5c0481c8dbbbf)
 
 # Let's look at the full timeline of this activity:
 
-[Volume of 'deep ITM call anomalies' The thin blue line is you guessed it - SEC Fail to Delivers!](https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f)
+![Volume of 'deep ITM call anomalies' The thin blue line is you guessed it - SEC Fail to Delivers!](https://preview.redd.it/rgc2ebma9kq61.png?width=1279&format=png&auto=webp&s=7ec68c1d5dedb0dfef4e6c3129c9f3b0a662ac5f)
 
 # You may think that this volume of call options around the squeeze time may have been to do with people who diamond handed them selling them or exercising?
 
@@ -92,11 +93,11 @@ https://preview.redd.it/1brnyn1d9kq61.png?width=1062&format=png&auto=webp&s=eac8
 
 &#x200B;
 
-[https:\/\/twitter.com\/ihors3\/status\/1370416875490971651](https://preview.redd.it/mbqeq93h9kq61.png?width=433&format=png&auto=webp&s=2cea946724b098b2f534e986b8cf92b8cf55b57d)
+![https:\/\/twitter.com\/ihors3\/status\/1370416875490971651](https://preview.redd.it/mbqeq93h9kq61.png?width=433&format=png&auto=webp&s=2cea946724b098b2f534e986b8cf92b8cf55b57d)
 
 # SUPERIMPOSE!
 
-[ Huge drop in reported short interest correlates with huge volume of 'deep ITM call anomalies' in January. As soon as the 'anomalies' disappear, publicly announced short volume stabilizes. Little blips of 'anomalies' correlate to small drops in SI. The reappearance of anomalies from Feb25 correlates with SI 'decreasing'. ](https://preview.redd.it/30cu5hgl9kq61.png?width=1416&format=png&auto=webp&s=87a01c600fa76a2737bb50c84d9bb52d2bade2f3)
+![ Huge drop in reported short interest correlates with huge volume of 'deep ITM call anomalies' in January. As soon as the 'anomalies' disappear, publicly announced short volume stabilizes. Little blips of 'anomalies' correlate to small drops in SI. The reappearance of anomalies from Feb25 correlates with SI 'decreasing'. ](https://preview.redd.it/30cu5hgl9kq61.png?width=1416&format=png&auto=webp&s=87a01c600fa76a2737bb50c84d9bb52d2bade2f3)
 
 I believe we can also see a correlation with the price.
 
@@ -145,6 +146,6 @@ Here is a quote from their 2013 paper:
 >  
 >Assuming that XYZ is a hard to borrow security, and that Trader A, or its broker-dealer, is unable (or unwilling) to borrow shares to make delivery on the short sale of actual shares, the short sale may result in a fail to deliver position at Trader A’s clearing firm. Rather than paying the borrowing fee on the shares to make delivery, or unwinding the position by purchasing the shares in the market, Trader A might next enter into a trade that gives the appearance of satisfying the broker-dealer’s close-out requirement, but in reality allows Trader A to maintain its short position without ever delivering on the short sale. Most often, this is done through the use of a buy-write trade, but may also be done as a married put and may incorporate the use of  short term FLEX options. These trades are commonly referred to as “reset transactions,” in that they have the effect of resetting the time that the broker-dealer must purchase or borrow the stock to close-out a fail. The transactions could be designed solely to give the appearance of delivering the shares, when in reality the trader has no intention of meeting his delivery obligations. The buy-writes may be (but are not always) prearranged trades between market makers or parties claiming to be market makers. The price in these transactions is determined so that the short seller pays a small price to the other market-maker for the trade, resulting in no economic benefit to the short seller for the reset transaction other than to give the appearance of meeting his delivery obligations. Such transactions were alleged by the Commission to be sham transactions in recent enforcement cases.30 Such transactions between traders or any market participants have also been found to constitute a violation of a clearing firm’s responsibility to close out a failure to deliver.
 
-![^(https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)
+[^(https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)](https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf)
 
 # If one ape can figure it out by signing up for a free trial of Market Chameleon, what are the regulators doing?

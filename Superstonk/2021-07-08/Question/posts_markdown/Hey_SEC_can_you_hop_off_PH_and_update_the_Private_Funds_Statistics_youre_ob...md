@@ -1,5 +1,6 @@
-# Author: leisure_rules
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/](https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/)
+#Title: Hey SEC, can you hop off PH and update the Private Funds Statistics you're obligated to share every quarter...? You're 3 quarters behind now...
+#Author: leisure_rules
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/](https://www.reddit.com/r/Superstonk/comments/ogc4wf/hey_sec_can_you_hop_off_ph_and_update_the_private/)
 
 
 As the title implies, the SEC - or specifically, Division of Investment Management’s Analytics Office - is supposed to share the quarterly update of [*Private Funds Statistics*](https://www.sec.gov/divisions/investment/private-funds-statistics.shtml)
@@ -13,11 +14,11 @@ Filings are grouped by their report date within their reported year: 
 * (Q3): August 15 to November 14 
 * (Q4): November 15 to February 14
 
-Here's the last one filed for Q3 2020, released back in December, but reflects data from Fourth Calendar Quarter 2018 through Third Calendar Quarter 2020: ![https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
+Here's the last one filed for Q3 2020, released back in December, but reflects data from Fourth Calendar Quarter 2018 through Third Calendar Quarter 2020: [https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
 
 &#x200B;
 
-[donde?](https://preview.redd.it/qwluskzay0a71.png?width=993&format=png&auto=webp&s=d1e22395c643e4338c579a788469bcd09ee00100)
+![donde?](https://preview.redd.it/qwluskzay0a71.png?width=993&format=png&auto=webp&s=d1e22395c643e4338c579a788469bcd09ee00100)
 
 **EDIT**: submitted a request and sent an email to the Records Management Office of the SEC:
 
@@ -92,7 +93,7 @@ I will still update regarding any response from the people I contacted, which ho
 
 Additionally, the date on the latest Q3 2020 Report has been updated to **May 5, 2021**
 
-![https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
+[https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf](https://www.sec.gov/divisions/investment/private-funds-statistics/private-funds-statistics-2020-q3.pdf)
 
 **edit to the edit:** 
 

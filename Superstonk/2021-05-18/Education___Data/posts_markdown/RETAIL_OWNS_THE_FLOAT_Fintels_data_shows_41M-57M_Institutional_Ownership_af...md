@@ -1,5 +1,6 @@
-# Author: theApeDescendant
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nffb5n/retail_owns_the_float_fintels_data_shows_41m57m/](https://www.reddit.com/r/Superstonk/comments/nffb5n/retail_owns_the_float_fintels_data_shows_41m57m/)
+#Title: RETAIL OWNS THE FLOAT!!! Fintel's data shows 41M-57M Institutional Ownership after latest filings. 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+#Author: theApeDescendant
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nffb5n/retail_owns_the_float_fintels_data_shows_41m57m/](https://www.reddit.com/r/Superstonk/comments/nffb5n/retail_owns_the_float_fintels_data_shows_41m57m/)
 
 
 Disclaimer: First of all I am a lazy ape, I did not analyze anything. Everything is copied from Fintel's website and let excel do all the work.
@@ -42,7 +43,7 @@ Music playing in the background: "You've Really Got a Hold on Me" - The Miracles
 
 Sing it with me, lyrics below if you don't know
 
-![https://www.reddit.com/r/Superstonk/comments/nf062l/ryan\_cohen\_twee\_solved/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/Superstonk/comments/nf062l/ryan\_cohen\_twee\_solved/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nf062l/ryan_cohen_twee_solved/?utm_source=share&utm_medium=web2x&context=3)
 
 💎💎💎💎💎💎💎💎💎💎💎💎💎🙌🙌🙌🙌🙌🙌🙌🙌🙌💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎HOLD HOLD HOLD HOLD💎💎💎💎💎💎💎💎💎💎💎💎💎
 

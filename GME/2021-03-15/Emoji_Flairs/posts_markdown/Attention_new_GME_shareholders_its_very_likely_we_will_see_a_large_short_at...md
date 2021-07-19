@@ -1,5 +1,6 @@
-# Author: donkeydougie
-# Post URL: [https://www.reddit.com/r/GME/comments/m5ls4c/attention_new_gme_shareholders_its_very_likely_we/](https://www.reddit.com/r/GME/comments/m5ls4c/attention_new_gme_shareholders_its_very_likely_we/)
+#Title: Attention new GME shareholders, it's very likely we will see a large short attack by HFs in the first half of this week to try and shake shares from new diamond-hands-in-the-making who just bought. Remember not to set any stop loss or limit order sells. That's how they will get you.
+#Author: donkeydougie
+#Post URL: [https://www.reddit.com/r/GME/comments/m5ls4c/attention_new_gme_shareholders_its_very_likely_we/](https://www.reddit.com/r/GME/comments/m5ls4c/attention_new_gme_shareholders_its_very_likely_we/)
 
 
 This is not financial advice as I am not a financial advisor! Just my personal observations.

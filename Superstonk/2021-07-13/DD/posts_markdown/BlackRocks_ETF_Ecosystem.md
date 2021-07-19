@@ -1,5 +1,6 @@
-# Author: Horror_Veterinar
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrdhq/blackrocks_etf_ecosystem/](https://www.reddit.com/r/Superstonk/comments/ojrdhq/blackrocks_etf_ecosystem/)
+#Title: BlackRock's ETF Ecosystem
+#Author: Horror_Veterinar
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrdhq/blackrocks_etf_ecosystem/](https://www.reddit.com/r/Superstonk/comments/ojrdhq/blackrocks_etf_ecosystem/)
 
 
 Hello apes. Link to video for directly related to this post can be found on SLIDE one of the PowerPoint below.
@@ -68,7 +69,7 @@ So this post is referring to a resource available at the iShares website:
 
 &#x200B;
 
-[ETFs Explained, Slide 1](https://preview.redd.it/jbmfia8332b71.png?width=1431&format=png&auto=webp&s=1564151474a3de32550a79535ece05583b1a88b2)
+![ETFs Explained, Slide 1](https://preview.redd.it/jbmfia8332b71.png?width=1431&format=png&auto=webp&s=1564151474a3de32550a79535ece05583b1a88b2)
 
 &#x200B;
 
@@ -90,11 +91,11 @@ Okay, so now that we know that IJR, the ETF with the most exposure to GME (9.6 M
 
 &#x200B;
 
-[Basically, AP's, or Banks, such as JP Morgan, manage creation or redemption of ETF shares, which manages the shares outstanding.  The Market Makers, Jane Street and Citadel, provide a key role by providing liquidity to the ETF Ecosystem that ensure \\"CONTINUOUS AND EFFICIENT ETF TRADING IN THE SECONDARY MARKET\\" They are BOTH NEEDED for this process to work, but APs and Market Makers can play both roles in \\"certain ETFs\\".](https://preview.redd.it/pkdc36d142b71.png?width=933&format=png&auto=webp&s=7ebe69e0bbadf7a68660c8f2c870dd55ce5e0f76)
+![Basically, AP's, or Banks, such as JP Morgan, manage creation or redemption of ETF shares, which manages the shares outstanding.  The Market Makers, Jane Street and Citadel, provide a key role by providing liquidity to the ETF Ecosystem that ensure \\"CONTINUOUS AND EFFICIENT ETF TRADING IN THE SECONDARY MARKET\\" They are BOTH NEEDED for this process to work, but APs and Market Makers can play both roles in \\"certain ETFs\\".](https://preview.redd.it/pkdc36d142b71.png?width=933&format=png&auto=webp&s=7ebe69e0bbadf7a68660c8f2c870dd55ce5e0f76)
 
 &#x200B;
 
-[Shows the Ecosystem, with some ape-speak added in.  Outside square is the creation process, and the smaller square is the redemption process.](https://preview.redd.it/kgqy4koi42b71.png?width=907&format=png&auto=webp&s=b789738effa1f41f74d6f333c65590bcac8b67b4)
+![Shows the Ecosystem, with some ape-speak added in.  Outside square is the creation process, and the smaller square is the redemption process.](https://preview.redd.it/kgqy4koi42b71.png?width=907&format=png&auto=webp&s=b789738effa1f41f74d6f333c65590bcac8b67b4)
 
 Okay, so now we know that Banks, Hedge funds, and the Issuer, being BlackRock in this case, are all REQUIRED to make this process work smoothly.
 
@@ -106,7 +107,7 @@ So according to BlackRock, this there's TWO ways you can go about the creation p
 
 &#x200B;
 
-[\(full picture in powerpoint\)](https://preview.redd.it/9nml6fe952b71.png?width=778&format=png&auto=webp&s=a94531ce7c60881d3dd59e1057e034b743f1ab42)
+![\(full picture in powerpoint\)](https://preview.redd.it/9nml6fe952b71.png?width=778&format=png&auto=webp&s=a94531ce7c60881d3dd59e1057e034b743f1ab42)
 
 So it says here, that when DEMAND for ETF shares exceeds the supply of shares available in the market, APs (Banks and/or Market Makers) work with ETF providers (BlackRock) to create additional shares.
 
@@ -169,7 +170,7 @@ So we know the demand is already overinflated based on the shares outstanding. W
 
 &#x200B;
 
-[This last caption concludes where I've left off, and where I'm starting to dig more.](https://preview.redd.it/nps40dyz82b71.png?width=1454&format=png&auto=webp&s=07aabc4f87c6751b346c5179e423c7810058a1c6)
+![This last caption concludes where I've left off, and where I'm starting to dig more.](https://preview.redd.it/nps40dyz82b71.png?width=1454&format=png&auto=webp&s=07aabc4f87c6751b346c5179e423c7810058a1c6)
 
 If you notice, XJR has a much lower amount of shares outstanding, as well as a much lower exposure to GME.
 

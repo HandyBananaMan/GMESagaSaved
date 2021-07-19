@@ -1,5 +1,6 @@
-# Author: THC_Is_Me
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/](https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/)
+#Title: Firm of billionaire Griffin sells Miami Beach condo at loss for $11M
+#Author: THC_Is_Me
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/](https://www.reddit.com/r/Superstonk/comments/ob0deh/firm_of_billionaire_griffin_sells_miami_beach/)
 
 
 TL:DR Hedgies are Fucked. Buy and Hold. This is not financial advice. If you notice I use the letter I alot, it’s because I JUST LIKE THE STOCK. 😉
@@ -63,7 +64,7 @@ Wasn’t Joe Biden VP during that time? Are you blind Joe? I don’t think so. D
 
 “Discuss climate change”. You think I’m stupid, right Joe? YEAH FUCKING RIGHT BITCH. Why is your administration silent about it? Speak up motherfucker, I can’t hear you.
 
-[Just think apes](https://imgur.com/gallery/rC8F9Qp), imagine the predicament they find themselves in. These corrupt pieces of shit have been taking money from Wall Street to look the other way for DECADES. If I'm mad now when I don't have any power or money, just fucking wait until I do. Wait until the X holders have money.  They are HORRIFIED that they will finally be held accountable.
+![Just think apes](https://imgur.com/gallery/rC8F9Qp), imagine the predicament they find themselves in. These corrupt pieces of shit have been taking money from Wall Street to look the other way for DECADES. If I'm mad now when I don't have any power or money, just fucking wait until I do. Wait until the X holders have money.  They are HORRIFIED that they will finally be held accountable.
 
 I found this information on my free time, sometimes while I was high. I never went to college, so I find it HILARIOUS, with all their wealth and their years in University, that they are LOSING, to someone like me. [I know you're a little short on this stock, Bill Gates](https://www.reddit.com/r/Superstonk/comments/o6drqi/bill_gates_gme_interview_in_jan_the_section/). I KNOW you're not the only one. Whats the matter Bill, you afraid of some infinite loss potential? Oh what’s that? You may lose it all? 🤣🤣🤣
 
@@ -75,7 +76,7 @@ We got you by the balls, and I'm loving every second of it.
 
 I could be wrong. BUT,IF IM RIGHT, the government is probably telling Reddit to do whatever it can to divert traffic from this post.
 
-If it’s one thing I’m good at, it’s ![putting myself in other peoples shoes](https://youtu.be/wTa14Sui7mw). Perspective is everything.
+If it’s one thing I’m good at, it’s [putting myself in other peoples shoes](https://youtu.be/wTa14Sui7mw). Perspective is everything.
 
 That is all. DIAMOND HANDS MOTHERFUCKERS. I WILL HOLD THIS STOCK, TILL DEATH DO US PART.
 

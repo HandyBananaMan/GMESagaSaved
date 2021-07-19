@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mpquk6/update_412_monday_no_large_block_trades_of_deep/](https://www.reddit.com/r/Superstonk/comments/mpquk6/update_412_monday_no_large_block_trades_of_deep/)
+#Title: UPDATE 4/12 (MONDAY) NO LARGE BLOCK TRADES OF DEEP ITM CALLS TODAY
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mpquk6/update_412_monday_no_large_block_trades_of_deep/](https://www.reddit.com/r/Superstonk/comments/mpquk6/update_412_monday_no_large_block_trades_of_deep/)
 
 
 Good evening Apes I hope this post finds you well,

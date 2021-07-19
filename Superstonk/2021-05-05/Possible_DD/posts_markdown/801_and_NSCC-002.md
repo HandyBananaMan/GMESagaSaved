@@ -1,10 +1,11 @@
-# Author: MoonTellsMeASecret
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/](https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/)
+#Title: 801 and NSCC-002
+#Author: MoonTellsMeASecret
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/](https://www.reddit.com/r/Superstonk/comments/n5idj9/801_and_nscc002/)
 
 
 CREDIT TO u/FATJUUL FOR STRUCTURE AND INFO
 
-June 21st Edit: ![Passed and effective Wednesday](https://www.reddit.com/r/Superstonk/comments/o50ks7/follow_up_to_my_nscc_002_and_801_post/)
+June 21st Edit: [Passed and effective Wednesday](https://www.reddit.com/r/Superstonk/comments/o50ks7/follow_up_to_my_nscc_002_and_801_post/)
 
 MAY 7th Edit: They have postponed the ruling until June 21st, please see my followup post: https://www.reddit.com/r/Superstonk/comments/n6zgng/nsc002_delayed_for_longer_period_of_comment_and/
 

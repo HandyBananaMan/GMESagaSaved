@@ -1,5 +1,6 @@
-# Author: KosmicKanuck
-# Post URL: [https://www.reddit.com/r/GME/comments/naerve/exit_strategy_idea_minimizing_your_negative/](https://www.reddit.com/r/GME/comments/naerve/exit_strategy_idea_minimizing_your_negative/)
+#Title: Exit Strategy Idea: Minimizing Your Negative Impact on the MOASS
+#Author: KosmicKanuck
+#Post URL: [https://www.reddit.com/r/GME/comments/naerve/exit_strategy_idea_minimizing_your_negative/](https://www.reddit.com/r/GME/comments/naerve/exit_strategy_idea_minimizing_your_negative/)
 
 
 Something I haven't seen mentioned yet that I think could help the MOASS reach its full potential is to sell on the most unique numbers possible. The human brain is attracted to simplified, rounded numbers and, unfortunately, apes are very closely related to humans. If you are planning on selling a share at $15,000,000 how many other apes will likely do the same? This could cause a stall or dip that may potentially be avoided if apes were to pick more unique numbers like $15,000,137.86 

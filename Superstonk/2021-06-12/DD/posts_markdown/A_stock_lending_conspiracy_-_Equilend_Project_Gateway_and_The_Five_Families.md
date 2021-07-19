@@ -1,5 +1,6 @@
-# Author: Piece-Friendly
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nybmng/a_stock_lending_conspiracy_equilend_project/](https://www.reddit.com/r/Superstonk/comments/nybmng/a_stock_lending_conspiracy_equilend_project/)
+#Title: A stock lending conspiracy - Equilend, Project Gateway and ‘The Five Families’
+#Author: Piece-Friendly
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nybmng/a_stock_lending_conspiracy_equilend_project/](https://www.reddit.com/r/Superstonk/comments/nybmng/a_stock_lending_conspiracy_equilend_project/)
 
 
 Good morning, good afternoon and good evening all you lovely apes. My name is u/piece-friendly and I’m a crayon eating apetard.

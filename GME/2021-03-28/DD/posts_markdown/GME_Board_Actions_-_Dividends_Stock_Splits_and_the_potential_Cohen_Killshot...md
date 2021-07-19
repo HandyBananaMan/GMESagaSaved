@@ -1,5 +1,6 @@
-# Author: Leaglese
-# Post URL: [https://www.reddit.com/r/GME/comments/mf6xef/gme_board_actions_dividends_stock_splits_and_the/](https://www.reddit.com/r/GME/comments/mf6xef/gme_board_actions_dividends_stock_splits_and_the/)
+#Title: GME Board Actions - Dividends, Stock Splits and the potential 'Cohen Killshot' DD
+#Author: Leaglese
+#Post URL: [https://www.reddit.com/r/GME/comments/mf6xef/gme_board_actions_dividends_stock_splits_and_the/](https://www.reddit.com/r/GME/comments/mf6xef/gme_board_actions_dividends_stock_splits_and_the/)
 
 
 Welcome to yet another in my legal series DD, where GME has a few tricks up its sleeve, and to them, the shorties don't matter.

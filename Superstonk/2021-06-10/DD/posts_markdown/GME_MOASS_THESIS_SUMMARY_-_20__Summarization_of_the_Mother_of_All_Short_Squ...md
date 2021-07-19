@@ -1,5 +1,6 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/](https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/)
+#Title: GME MOASS THESIS SUMMARY - 2.0 | Summarization of the Mother of All Short Squeezes Thesis and the Market Concepts/Mechanics behind it. Buckle Up 🚀💎🙌
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/](https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/)
 
 
 >This is refined and reformatted version of my previous [MOASS Thesis Summary](https://www.reddit.com/r/Superstonk/comments/nletnn/gme_the_mother_of_all_short_squeezes_moass_thesis/?utm_source=share&utm_medium=web2x&context=3) that can be found in the [DD Beginners Guide Page](https://www.reddit.com/r/Superstonk/comments/njwv6n/the_gme_masters_guide_a_dd_campaign_for_apes/?utm_medium=android_app&utm_source=share), and includes some new formatting and concepts. This one will replace it if it is well-received (either the post of the contents, either way, the link will take you to the right info).  
@@ -434,7 +435,7 @@ Added google drive link but switched with one drive so it wouldn't display who i
 
 edit: 6/10/21 1:08PM ET
 Updated link to a onedrive anonymously shared link (shouldn't show who is viewing it, but you might consider accessing the link via an incognito window).
-![https://onedrive.live.com/?authkey=%21AF%2D4Ar3%2DZkRC6ZE&cid=A204BFD088578646&id=A204BFD088578646%21106&parId=A204BFD088578646%21103&o=OneUp](https://onedrive.live.com/?authkey=%21AF%2D4Ar3%2DZkRC6ZE&cid=A204BFD088578646&id=A204BFD088578646%21106&parId=A204BFD088578646%21103&o=OneUp)
+[https://onedrive.live.com/?authkey=%21AF%2D4Ar3%2DZkRC6ZE&cid=A204BFD088578646&id=A204BFD088578646%21106&parId=A204BFD088578646%21103&o=OneUp](https://onedrive.live.com/?authkey=%21AF%2D4Ar3%2DZkRC6ZE&cid=A204BFD088578646&id=A204BFD088578646%21106&parId=A204BFD088578646%21103&o=OneUp)
 
 edit: 6/10/21 1:51PM ET
 Minor typo (extra bullet). Removed from 3.4 (prime brokers).

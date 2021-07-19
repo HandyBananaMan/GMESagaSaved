@@ -1,5 +1,6 @@
-# Author: Leenixus
-# Post URL: [https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/](https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/)
+#Title: No one even remotely interested in the upcoming Russel 1000 ranking day and the possibility that GME might be joining it?
+#Author: Leenixus
+#Post URL: [https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/](https://www.reddit.com/r/GME/comments/mh7eul/no_one_even_remotely_interested_in_the_upcoming/)
 
 
 I seriously just might start shitposting my DD at this point since no one gives this stuff any attention.
@@ -16,4 +17,4 @@ https://preview.redd.it/u2rt5tenjdq61.png?width=1899&format=png&auto=webp&s=63cd
 
 **EDIT:** Adding my previous DD about this here since this shitpost got so much attention...
 
-![https://www.reddit.com/r/GME/comments/mdau40/gme\_possibly\_moving\_from\_russel\_2000\_to\_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)
+[https://www.reddit.com/r/GME/comments/mdau40/gme\_possibly\_moving\_from\_russel\_2000\_to\_russel/](https://www.reddit.com/r/GME/comments/mdau40/gme_possibly_moving_from_russel_2000_to_russel/)

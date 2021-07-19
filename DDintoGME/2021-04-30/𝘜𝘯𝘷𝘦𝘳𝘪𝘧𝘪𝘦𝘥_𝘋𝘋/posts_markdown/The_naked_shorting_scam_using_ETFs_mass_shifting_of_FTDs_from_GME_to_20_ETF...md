@@ -1,8 +1,9 @@
-# Author: broccaaa
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/](https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/)
+#Title: The naked shorting scam using ETFs: mass shifting of FTDs from GME to 20+ ETFs & 27+ billion dollars still owed in remaining SI
+#Author: broccaaa
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/](https://www.reddit.com/r/DDintoGME/comments/n1x75w/the_naked_shorting_scam_using_etfs_mass_shifting/)
 
 
-[.](https://preview.redd.it/yeq3jm7tqbw61.png?width=4500&format=png&auto=webp&s=d28e4cac7cdb395aa6e758d4b79dafe9847dfc20)
+![.](https://preview.redd.it/yeq3jm7tqbw61.png?width=4500&format=png&auto=webp&s=d28e4cac7cdb395aa6e758d4b79dafe9847dfc20)
 
 In my recent post [The naked shorting scam in numbers](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) I looked at options activity that could be used for mass naked short selling (Deep ITM calls and married put trades) and weird OTC trade data for GME in 2021. Since then I've taken another look at the ETF data to help complete the picture.
 
@@ -24,7 +25,7 @@ I selected GME and 19 ETFs containing GME. I chose to only look at the ETFs that
 
 &#x200B;
 
-[Total FTDs for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/g392vdc74cw61.png?width=4500&format=png&auto=webp&s=3063cb1822e05c741c4a39fbf408444ba501e396)
+![Total FTDs for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/g392vdc74cw61.png?width=4500&format=png&auto=webp&s=3063cb1822e05c741c4a39fbf408444ba501e396)
 
 Notice in this plot that GME made up most of the total fails throughout Jan 2021. As price spiked during the Jan mini-squeeze GME FTDs decreased but FTDs in all ETFs spiked.
 
@@ -32,7 +33,7 @@ Interestingly XRT and IWM had the most fails throughout Feb. After the apes lear
 
 &#x200B;
 
-[Total Value of FTD fails for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/4jihm7t84cw61.png?width=4500&format=png&auto=webp&s=95a9d8b592cabf005fbe0d693e33224e06bfcc60)
+![Total Value of FTD fails for GME and selected ETFs in 2021 with GME close price overlaid.](https://preview.redd.it/4jihm7t84cw61.png?width=4500&format=png&auto=webp&s=95a9d8b592cabf005fbe0d693e33224e06bfcc60)
 
 This plot is similar to the previous one but now looks at the total value of FTD fails in dollars. Here we see that even though GME FTDs were very low in March the total value of ETF fails was comparable with the total fails seen in early Jan.
 
@@ -40,13 +41,13 @@ Could the massive spike in IWM fails at the end of Feb be what led to the price 
 
 &#x200B;
 
-[Total FTDs for GME and selected ETFs since Jan 2020 with GME close price overlaid.](https://preview.redd.it/uni2sz4b4cw61.png?width=4500&format=png&auto=webp&s=ea4081e6bb153db5ec35e6fb67ed85511245c0c1)
+![Total FTDs for GME and selected ETFs since Jan 2020 with GME close price overlaid.](https://preview.redd.it/uni2sz4b4cw61.png?width=4500&format=png&auto=webp&s=ea4081e6bb153db5ec35e6fb67ed85511245c0c1)
 
 Here we see the GME and ETF FTDs since Jan 2020. Because there has been such an exponential change in GME share price over the last year I'm using a log scale here.
 
 &#x200B;
 
-[Total FTDs for GME since Jan 2020 with GME close price overlaid.](https://preview.redd.it/c4kt5yad4cw61.png?width=4500&format=png&auto=webp&s=3a230e156f5d601070f88188608d7ad81bf489b0)
+![Total FTDs for GME since Jan 2020 with GME close price overlaid.](https://preview.redd.it/c4kt5yad4cw61.png?width=4500&format=png&auto=webp&s=3a230e156f5d601070f88188608d7ad81bf489b0)
 
 This plot is the same as before but just focuses on GME to make some of the observations clearer.
 
@@ -66,19 +67,19 @@ These plots take a look at reported SI for GME and the selected GME containing E
 
 &#x200B;
 
-[Reported SI as number of shares sold short for GME and selected ETFs.](https://preview.redd.it/dgld9ngf4cw61.png?width=4500&format=png&auto=webp&s=6e061ca3f8014692653e35059e5dff9d8251eca8)
+![Reported SI as number of shares sold short for GME and selected ETFs.](https://preview.redd.it/dgld9ngf4cw61.png?width=4500&format=png&auto=webp&s=6e061ca3f8014692653e35059e5dff9d8251eca8)
 
 The total number of shares reported to be sold short for GME and ETFs remained fairly consistent throughout 2020. At the end of Jan 2021 GME SI was reported to drop significantly but at the exact same time we see an increase in the number of IWM shares sold short.
 
 &#x200B;
 
-[Total value of reported SI for GME and selected ETFs.](https://preview.redd.it/ntm48ohh4cw61.png?width=4500&format=png&auto=webp&s=9f1e2518e23657f2cea955bc9a2a10a1dfe67de1)
+![Total value of reported SI for GME and selected ETFs.](https://preview.redd.it/ntm48ohh4cw61.png?width=4500&format=png&auto=webp&s=9f1e2518e23657f2cea955bc9a2a10a1dfe67de1)
 
 With the shift of SI in GME to IWM the actual value of reported SI has not decreased in any meaningful way. Approx 27 billion dollars worth of shares are reported to be sold short for GME and the selected ETFs.
 
 # Bonus: Exponential price increases since RC declared his GME position on Aug 18th 2020
 
-[Exponential price increases in GME since Ryan Cohen revealed his GME position.](https://preview.redd.it/j4ktocel4cw61.png?width=3343&format=png&auto=webp&s=618d42bbfa4b9114a63787cf7185dbba0bfb06ee)
+![Exponential price increases in GME since Ryan Cohen revealed his GME position.](https://preview.redd.it/j4ktocel4cw61.png?width=3343&format=png&auto=webp&s=618d42bbfa4b9114a63787cf7185dbba0bfb06ee)
 
 This plot isn't related to ETFs but I thought it was interesting enough to include.
 
@@ -86,7 +87,7 @@ In the first half of 2020 GME share price remained pretty flat, even slowly decr
 
 # ETFs with GME in April 2021
 
-[ETFs containing GME. Total dollar value of GME and &#37; allocated to GME.](https://preview.redd.it/jesl8blo4cw61.png?width=5400&format=png&auto=webp&s=53b5121963aa38703a1cffed055df395fd77ac32)
+![ETFs containing GME. Total dollar value of GME and &#37; allocated to GME.](https://preview.redd.it/jesl8blo4cw61.png?width=5400&format=png&auto=webp&s=53b5121963aa38703a1cffed055df395fd77ac32)
 
 Not much to say about this plot but it contains info on all GME containing ETFs as of April 2021. Could be useful for other people to use when starting a DD.
 
@@ -96,6 +97,6 @@ This data appears to show a shift of short positions from GME to related ETFs af
 
 As well as FTDs being shifted we see evidence of SI being shifted from GME to ETFs. The main ETF used here appears to be IWM. Total remains as high as ever at 27+ billion dollars owed.
 
-The short fuckery being done with ETFs as well as ![what we've seen using options trades](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) paints a clear picture of manipulation on the short side. All of these efforts reek of desperation from the shorts as their only hope of escape is making apes scared or bored. But I ain't going anywhere. ***I like the stonk***.
+The short fuckery being done with ETFs as well as [what we've seen using options trades](https://www.reddit.com/r/Superstonk/comments/mvdgf5/the_naked_shorting_scam_in_numbers_ai_detection/) paints a clear picture of manipulation on the short side. All of these efforts reek of desperation from the shorts as their only hope of escape is making apes scared or bored. But I ain't going anywhere. ***I like the stonk***.
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀

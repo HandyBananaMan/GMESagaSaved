@@ -1,5 +1,6 @@
-# Author: HeyItsPixeL
-# Post URL: [https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
+#Title: Endgame DD: How last weeks actions all come together to one specific Date. All the data analyzed.
+#Author: HeyItsPixeL
+#Post URL: [https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/](https://www.reddit.com/r/GME/comments/ltua0n/endgame_dd_how_last_weeks_actions_all_come/)
 
 
 Q: What about today?! YOU SAID WE WILL GO TO THE MOON 10000000 %!!!!!!!A: [https://twitter.com/HeyItsPixel1/status/1372996149825703939](https://twitter.com/HeyItsPixel1/status/1372996149825703939)
@@ -130,7 +131,7 @@ MY POST FROM 24THFEB:
 
 So, we have a few hints that institutions jumped in for some fun.
 
-• There are lot of buy orders with 3 to 4 decimals being made, driving the price up bit by bit. That kind of trading is not possible for retail. ([https://imgur.com/a/26y2B8Z](https://imgur.com/a/26y2B8Z))
+• There are lot of buy orders with 3 to 4 decimals being made, driving the price up bit by bit. That kind of trading is not possible for retail. (![https://imgur.com/a/26y2B8Z](https://imgur.com/a/26y2B8Z))
 
 • Someone prepared Call-Chains to set up GME for a Gamma Squeeze, possibly starting the short squeeze ([https://finance.yahoo.com/quote/GME/options?p=GME](https://finance.yahoo.com/quote/GME/options?p=GME)) (Also:[https://www.reddit.com/r/GME/comments/lq5tnh/gme\_a\_whale\_is\_setting\_up\_a\_gamma\_squeeze\_this/](https://www.reddit.com/r/GME/comments/lq5tnh/gme_a_whale_is_setting_up_a_gamma_squeeze_this/))
 
@@ -150,7 +151,7 @@ What supports me in my theory is: After the price dropped <$50, there was a batt
 
 &#x200B;
 
-**EDIT: ANOTHER HINT TO FURTHER SUPPORT MY THEORY**: The $50 mark battle had insane volume. After HF shorted GME twice and UI battled around that price, the volume died down to 10 - 20 % of what it was around that mark ([https://imgur.com/a/s5lY3Hr](https://imgur.com/a/s5lY3Hr)). For me it looks like they just tested each other to see how far the other party will go in order to reach their goal and are now waiting for what I wrote above.
+**EDIT: ANOTHER HINT TO FURTHER SUPPORT MY THEORY**: The $50 mark battle had insane volume. After HF shorted GME twice and UI battled around that price, the volume died down to 10 - 20 % of what it was around that mark (![https://imgur.com/a/s5lY3Hr](https://imgur.com/a/s5lY3Hr)). For me it looks like they just tested each other to see how far the other party will go in order to reach their goal and are now waiting for what I wrote above.
 
 &#x200B;
 
@@ -406,7 +407,7 @@ Quadruple witching is similar to the triple witching dates, when three out of th
 
 &#x200B;
 
-**6**. **Gamestop Q4 Earnings are released** **~~4~~** **(EDIT 03/14. Apparently the date moved up to 03/23, so it's 2 Business Days) Business Days after March 19th**, that’ll be another catalyst to keep the flame going for a few days. Because Q4 is the the quarter, where retail makes their most revenue. ![https://www.nasdaq.com/market-activity/stocks/gme/earnings#:\~:text=Earnings%20announcement\*%20for%20GME%3A%20Mar%2025%2C%202021 HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"& HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%241.27](https://www.nasdaq.com/market-activity/stocks/gme/earnings).
+**6**. **Gamestop Q4 Earnings are released** **~~4~~** **(EDIT 03/14. Apparently the date moved up to 03/23, so it's 2 Business Days) Business Days after March 19th**, that’ll be another catalyst to keep the flame going for a few days. Because Q4 is the the quarter, where retail makes their most revenue. [https://www.nasdaq.com/market-activity/stocks/gme/earnings#:\~:text=Earnings%20announcement\*%20for%20GME%3A%20Mar%2025%2C%202021 HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"& HYPERLINK "https://www.nasdaq.com/market-activity/stocks/gme/earnings"text=According%20to%20Zacks%20Investment%20Research,quarter%20last%20year%20was%20%241.27](https://www.nasdaq.com/market-activity/stocks/gme/earnings).
 
 &#x200B;
 

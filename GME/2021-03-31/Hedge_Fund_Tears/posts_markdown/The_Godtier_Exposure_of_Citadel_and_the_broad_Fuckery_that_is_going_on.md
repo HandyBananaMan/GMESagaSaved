@@ -1,5 +1,6 @@
-# Author: dielinho90
-# Post URL: [https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/](https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/)
+#Title: The Godtier Exposure of Citadel and the broad Fuckery that is going on
+#Author: dielinho90
+#Post URL: [https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/](https://www.reddit.com/r/GME/comments/mh15lr/the_godtier_exposure_of_citadel_and_the_broad/)
 
 
 My fellow ape brothers and sisters,
@@ -16,7 +17,7 @@ The Masterpieces:
 
 [Blackrock Bagholders](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
-![The Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+[The Everything Short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 These DDs are of immeasurable value for us. Especially because we’re probably only scratching on the surface of the fuckery that is going on.
 

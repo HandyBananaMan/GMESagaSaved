@@ -1,5 +1,6 @@
-# Author: phoenixfenix
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/)
+#Title: Shitadel and Friends are Shorting Innovative EV Companies for Liquidity to Fight GME
+#Author: phoenixfenix
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/)
 
 
 This is a series I am writing up about why I believe ALL short selling, not just naked short selling, should be banned. 
@@ -11,7 +12,7 @@ This is a series I am writing up about why I believe ALL short selling, not just
 [Part 2](https://www.reddit.com/r/Superstonk/comments/oew4hl/why_capital_intensive_technology_companies_are/?) [Part 2.5](https://www.reddit.com/r/Superstonk/comments/oew76n/why_capital_intensive_technology_companies_are/?): Why capital intensive technology companies are prime targets of shorting
 &nbsp;
 
-![Part 3](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/): Shitadel and Friends are Shorting Innovative EV Companies for Liquidity to Fight GME
+[Part 3](https://www.reddit.com/r/Superstonk/comments/of8o42/shitadel_and_friends_are_shorting_innovative_ev/): Shitadel and Friends are Shorting Innovative EV Companies for Liquidity to Fight GME
 &nbsp;
 
 Part 4: How Superstonk is putting a stop to the game (see what I did there?)

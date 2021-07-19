@@ -1,5 +1,6 @@
-# Author: wiseoldmeme
-# Post URL: [https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/](https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/)
+#Title: Herbert Sukenik the greatest Diamond Hands of all - Weekend Story Time
+#Author: wiseoldmeme
+#Post URL: [https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/](https://www.reddit.com/r/GME/comments/mf6hqp/herbert_sukenik_the_greatest_diamond_hands_of_all/)
 
 
 Gather round, all my fellow autists, and let me tell you the incredible story of Herbert Sukenik, one of the greatest diamond hands of all time. 
@@ -32,4 +33,4 @@ sources:
 
 [A Stubborn NYC Tenant Held Out For An Absolutely Insane Amount Of Money To Finally Leave His Rent-Controlled Apartment by Brian Warner](https://www.celebritynetworth.com/articles/entertainment-articles/stubborn-tenant-holds-absolutely-insane-amount-money-finally-leave-rent-controlled-nyc-apartment/)
 
-![The High-Rise Holdout, New York Style by Randy Kutz](https://www.scotworkusa.com/negotiation-blog/2019/the-high-rise-holdout-new-york-style/)
+[The High-Rise Holdout, New York Style by Randy Kutz](https://www.scotworkusa.com/negotiation-blog/2019/the-high-rise-holdout-new-york-style/)

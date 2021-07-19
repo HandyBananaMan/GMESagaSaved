@@ -1,5 +1,6 @@
-# Author: bwritter
-# Post URL: [https://www.reddit.com/r/GME/comments/ly25ph/im_yolo_holding_for_500k_because_the_government/](https://www.reddit.com/r/GME/comments/ly25ph/im_yolo_holding_for_500k_because_the_government/)
+#Title: I'm YOLO holding for $500k because the government has failed my father.
+#Author: bwritter
+#Post URL: [https://www.reddit.com/r/GME/comments/ly25ph/im_yolo_holding_for_500k_because_the_government/](https://www.reddit.com/r/GME/comments/ly25ph/im_yolo_holding_for_500k_because_the_government/)
 
 
 He gets hurt at work, tries to shrug it off, but can't.  

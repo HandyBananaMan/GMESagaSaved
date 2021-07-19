@@ -1,5 +1,6 @@
-# Author: BluPrince
-# Post URL: [https://www.reddit.com/r/GME/comments/o1jeht/ubuttfarm69s_chairman_cohen_is_69_days_old_today/](https://www.reddit.com/r/GME/comments/o1jeht/ubuttfarm69s_chairman_cohen_is_69_days_old_today/)
+#Title: u/ButtFarm69’s Chairman Cohen is 69 days old today. Happy Niceversary.
+#Author: BluPrince
+#Post URL: [https://www.reddit.com/r/GME/comments/o1jeht/ubuttfarm69s_chairman_cohen_is_69_days_old_today/](https://www.reddit.com/r/GME/comments/o1jeht/ubuttfarm69s_chairman_cohen_is_69_days_old_today/)
 
 
 https://i.redd.it/c8aqb24a4yr61.jpg

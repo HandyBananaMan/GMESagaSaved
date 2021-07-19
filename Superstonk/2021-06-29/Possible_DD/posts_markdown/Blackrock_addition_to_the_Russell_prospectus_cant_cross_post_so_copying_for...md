@@ -1,5 +1,6 @@
-# Author: SPAClivesmatter
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/](https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/)
+#Title: Blackrock addition to the Russell prospectus… can’t cross post so copying for visibility. NEED AN ADULT HERE!
+#Author: SPAClivesmatter
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/](https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/)
 
 
 Copied on my phone so I apologize for the formatting. Credit to u/hunting_snipes for the post. I think this is worth a look!
@@ -23,7 +24,7 @@ I got excited at first, thinking maybe BlackRock added this as an amendment, sin
 
 HOWEVER...
 
-The ![latest SAI](https://www.blackrock.com/us/individual/literature/sai/sai-brindexfunds-smallcapindex-intlindexfunds-us.pdf) for the iShares index funds themselves pertains only to iShares Russell 2000 Small-Cap Index Fund and iShares MSCI EAFE International Index Fund. It includes a Redemption of Shares section **that is unique to this SAI**, last dated April 30, 2021 \[*the day after RC's Mr. Hanky tweet, for anyone who's wearing their tinfoil*\].
+The [latest SAI](https://www.blackrock.com/us/individual/literature/sai/sai-brindexfunds-smallcapindex-intlindexfunds-us.pdf) for the iShares index funds themselves pertains only to iShares Russell 2000 Small-Cap Index Fund and iShares MSCI EAFE International Index Fund. It includes a Redemption of Shares section **that is unique to this SAI**, last dated April 30, 2021 \[*the day after RC's Mr. Hanky tweet, for anyone who's wearing their tinfoil*\].
 
 The first part of that section basically says hey, normally we'll redeem shares for cash, but we have the right to redeem some or all of them in-kind \[securities/assets instead of cash\] **under unusual circumstances** to protect the interests of the remaining shareholders. But we'll do cash if it's less than $250,000 total over three months per person. Hmm, okay...
 

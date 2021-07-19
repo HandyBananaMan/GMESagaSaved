@@ -1,5 +1,6 @@
-# Author: condods
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojnuhi/moass_is_obviously_in_ryan_cohen_and_the_companys/](https://www.reddit.com/r/Superstonk/comments/ojnuhi/moass_is_obviously_in_ryan_cohen_and_the_companys/)
+#Title: MOASS is obviously in Ryan Cohen and the company's best interests
+#Author: condods
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojnuhi/moass_is_obviously_in_ryan_cohen_and_the_companys/](https://www.reddit.com/r/Superstonk/comments/ojnuhi/moass_is_obviously_in_ryan_cohen_and_the_companys/)
 
 
 I'm seeing debates around whether Ryan Cohen or the company would be the catalyst and why that would or wouldn't be the case. 

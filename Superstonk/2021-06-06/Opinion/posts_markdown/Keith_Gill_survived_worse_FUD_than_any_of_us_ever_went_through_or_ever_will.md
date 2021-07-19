@@ -1,5 +1,6 @@
-# Author: Z0mbies8mywife
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ntzgty/keith_gill_survived_worse_fud_than_any_of_us_ever/](https://www.reddit.com/r/Superstonk/comments/ntzgty/keith_gill_survived_worse_fud_than_any_of_us_ever/)
+#Title: Keith Gill survived worse FUD than any of us ever went through or ever will
+#Author: Z0mbies8mywife
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ntzgty/keith_gill_survived_worse_fud_than_any_of_us_ever/](https://www.reddit.com/r/Superstonk/comments/ntzgty/keith_gill_survived_worse_fud_than_any_of_us_ever/)
 
 
 FUD will continue to get worse and worse as time progresses. The shills are evolving and getting better at creating FUD that looks like a legit post. This is absolutely nothing compared to what DFV has dealt with because we now have support. He didn't have support for a very long time. 

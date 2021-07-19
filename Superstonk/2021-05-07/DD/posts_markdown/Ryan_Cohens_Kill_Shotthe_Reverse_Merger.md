@@ -1,16 +1,17 @@
-# Author: Alert_Piano341
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
+#Title: Ryan Cohens Kill Shot....the Reverse Merger
+#Author: Alert_Piano341
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
 
 
 **What's RC plan, does he have a plan?**
 
 &#x200B;
 
-[This Guy Fucks](https://preview.redd.it/u187w1yyxrx61.png?width=512&format=png&auto=webp&s=eba4369c1f55655cae2c4603de8d74fa4dd2c44b)
+![This Guy Fucks](https://preview.redd.it/u187w1yyxrx61.png?width=512&format=png&auto=webp&s=eba4369c1f55655cae2c4603de8d74fa4dd2c44b)
 
 Here is what I think Ryan Cohens plan is
 
-[REVERSE Merger](https://preview.redd.it/e7c3rodiyrx61.png?width=1264&format=png&auto=webp&s=356944c81ec0e08be4da473605260def8e819f75)
+![REVERSE Merger](https://preview.redd.it/e7c3rodiyrx61.png?width=1264&format=png&auto=webp&s=356944c81ec0e08be4da473605260def8e819f75)
 
 Ok I have heard allot of talk about stock splits, reverse splits, dividends or crypto dividends ect on how RC can shake the shorts.
 
@@ -50,7 +51,7 @@ Now the reverse split or the reverse merger has been tried before and it does sq
 
 but what if there is a ton of **NAKED SHORTS,** then those **SHORTS ARE FUCKED.**  If they sold a bunch of shares naked and kept doing it without ever thinking they would need to be returned they would be foreced to buy a TON of GME under the new CUSIP #
 
-[There goal was never to cover](https://preview.redd.it/rcjd1rbu3sx61.png?width=1027&format=png&auto=webp&s=94a30a8b7979391f95da12571a11c17212049340)
+![There goal was never to cover](https://preview.redd.it/rcjd1rbu3sx61.png?width=1027&format=png&auto=webp&s=94a30a8b7979391f95da12571a11c17212049340)
 
 I have been writing a DD where I believe that Citadel and SUS has been stashing their Naked options sales or Naked short sales in [Sold not yet purchased liabilities](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/) which are Ballooning.
 
@@ -78,7 +79,7 @@ He sold CHewy for Billions....he bought two stocks Apple and Wells fargo (we don
 
 Do you like apples?
 
-[Ryan Cohen owns 6.2 million shares of Apple How do you like them apples?](https://preview.redd.it/yx4fhnni0sx61.png?width=853&format=png&auto=webp&s=acecc5de4bd90ec5f9954cf3521f0c1cca8f88c3)
+![Ryan Cohen owns 6.2 million shares of Apple How do you like them apples?](https://preview.redd.it/yx4fhnni0sx61.png?width=853&format=png&auto=webp&s=acecc5de4bd90ec5f9954cf3521f0c1cca8f88c3)
 
 **Tinfoil Hat time-**
 
@@ -96,13 +97,13 @@ yeah crazy theory
 
 &#x200B;
 
-[Apple Dipped in march](https://preview.redd.it/upodiaca6sx61.png?width=1072&format=png&auto=webp&s=29e37b1a8cce286ee975db6237fea537941885cc)
+![Apple Dipped in march](https://preview.redd.it/upodiaca6sx61.png?width=1072&format=png&auto=webp&s=29e37b1a8cce286ee975db6237fea537941885cc)
 
 &#x200B;
 
 &#x200B;
 
-[Is Ryan Bluffing.....Citadels about to find out](https://preview.redd.it/rhyt5ueg7sx61.png?width=782&format=png&auto=webp&s=e3c2b3dd492f84109a3250ec7454066731b2bf4c)
+![Is Ryan Bluffing.....Citadels about to find out](https://preview.redd.it/rhyt5ueg7sx61.png?width=782&format=png&auto=webp&s=e3c2b3dd492f84109a3250ec7454066731b2bf4c)
 
 &#x200B;
 
@@ -122,11 +123,11 @@ yeah crazy theory
 
 &#x200B;
 
-[RC points out they are being shorted](https://preview.redd.it/9cdlcnszmrx61.png?width=660&format=png&auto=webp&s=7e2484774d51eb4f04717fbfcf5778088790cae9)
+![RC points out they are being shorted](https://preview.redd.it/9cdlcnszmrx61.png?width=660&format=png&auto=webp&s=7e2484774d51eb4f04717fbfcf5778088790cae9)
 
 &#x200B;
 
-[Ends the letter by saying you will not buy me off with one board seat](https://preview.redd.it/zbwbki57nrx61.png?width=721&format=png&auto=webp&s=7ee342586d2f18d1d2c04392b99511aca7b310fb)
+![Ends the letter by saying you will not buy me off with one board seat](https://preview.redd.it/zbwbki57nrx61.png?width=721&format=png&auto=webp&s=7ee342586d2f18d1d2c04392b99511aca7b310fb)
 
 \- On 12-21-2021 RC aquires more [GME](https://sec.report/Document/0001193805-20-001571/) he now owns 12.9%, [DFV](https://twitter.com/TheRoaringKitty/status/1341074590534152192) eagle eyes it a notes Ryan switched attorneys, thanks DFV you look at everything
 
@@ -134,15 +135,15 @@ yeah crazy theory
 
  
 
-[Basically he cant say much during the standstill period](https://preview.redd.it/yd73uunuprx61.png?width=1624&format=png&auto=webp&s=d1fcb33279f19180016899e26c7985ab47c48f53)
+![Basically he cant say much during the standstill period](https://preview.redd.it/yd73uunuprx61.png?width=1624&format=png&auto=webp&s=d1fcb33279f19180016899e26c7985ab47c48f53)
 
 the standstill provision last until 120 days after the annual meeting (unless they amend or terminate it)
 
-[Standstill period for stock ownership, and it changes the definition of an interested stockholder from 15&#37; to 20&#37;.  it notes that an interested stockholder would be restricted on any business combination for 3 years after they reach 20&#37; \(changed from 15&#37;\)](https://preview.redd.it/l0jpu8o6rrx61.png?width=1649&format=png&auto=webp&s=28b7feeae5c4196c6c8da7d117d78a86922f5cb5)
+![Standstill period for stock ownership, and it changes the definition of an interested stockholder from 15&#37; to 20&#37;.  it notes that an interested stockholder would be restricted on any business combination for 3 years after they reach 20&#37; \(changed from 15&#37;\)](https://preview.redd.it/l0jpu8o6rrx61.png?width=1649&format=png&auto=webp&s=28b7feeae5c4196c6c8da7d117d78a86922f5cb5)
 
 &#x200B;
 
-[203 approval, he has approval to buy up to 20&#37; of the stock](https://preview.redd.it/0b5p08rdrrx61.png?width=1643&format=png&auto=webp&s=d7fd82608601775e596b1b46ca5f69b39cc06fd0)
+![203 approval, he has approval to buy up to 20&#37; of the stock](https://preview.redd.it/0b5p08rdrrx61.png?width=1643&format=png&auto=webp&s=d7fd82608601775e596b1b46ca5f69b39cc06fd0)
 
 \-James Bell Resigns 2/23
 
@@ -156,13 +157,13 @@ the standstill provision last until 120 days after the annual meeting (unless th
 
 &#x200B;
 
-[ohh thats interesting. it was at 10&#37; which sucks and now they can do cool shit](https://preview.redd.it/uj064b2iwrx61.png?width=1547&format=png&auto=webp&s=c5d8a416efddec1808b860f02e1623027d6dd293)
+![ohh thats interesting. it was at 10&#37; which sucks and now they can do cool shit](https://preview.redd.it/uj064b2iwrx61.png?width=1547&format=png&auto=webp&s=c5d8a416efddec1808b860f02e1623027d6dd293)
 
 GME 4/19/21- Announces CEO succession plan ( I don't think it matters if its Ryan or not, Ryan is steering the ship another person would just bring in added brain power and experience)
 
 GME 4/26/21- Gme Complete At the market equity offering program (21 days) Sells 3,500,000 shares for $551,000,000
 
-GME 4/30/21 Retired the debt and announced the opening of a new ![Fulfillment](https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york) center
+GME 4/30/21 Retired the debt and announced the opening of a new [Fulfillment](https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york) center
 
 Ryan Cohen buys in August, wrights a letter in November and in less than 6 months he has
 

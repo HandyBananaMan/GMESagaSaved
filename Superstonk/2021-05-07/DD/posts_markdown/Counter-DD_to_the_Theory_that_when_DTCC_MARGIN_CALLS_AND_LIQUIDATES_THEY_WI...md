@@ -1,5 +1,6 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/](https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/)
+#Title: Counter-DD to the Theory that when DTCC MARGIN CALLS AND LIQUIDATES ,THEY WILL LET THEIR COMPUTERS GO HAM AT ANY PRICE UNTIL 100% COMPLETE/COVERED (EVEN IF THEY START USING THEIR MONEY). THESIS TO PROVE/DISPROVE IS WHETHER DTCC/NSCC WILL CHANGE APPROACH WHEN THE LIQUIDATED COLLECTOR IS ALL GONE
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/](https://www.reddit.com/r/Superstonk/comments/n6zw24/counterdd_to_the_theory_that_when_dtcc_margin/)
 
 
 START TOP EDIT
@@ -45,7 +46,7 @@ START: FLUFF and non-DD CONTEXT
 
 &#x200B;
 
-[the day my life changed, - $GME GO BRRR - u\/SomeGuyInDeutchland](https://preview.redd.it/my369gtwipx61.png?width=624&format=png&auto=webp&s=7785c98c777763514153f910c17cc1e4c9ffa21c)
+![the day my life changed, - $GME GO BRRR - u\/SomeGuyInDeutchland](https://preview.redd.it/my369gtwipx61.png?width=624&format=png&auto=webp&s=7785c98c777763514153f910c17cc1e4c9ffa21c)
 
 I know many of you are in the same situation as me, but I just wanted to mention that this \^\^ was the day I got into the GME infinity war (and honestly legitimately into reddit for that matter), and like many of you, I have learned so much about finance and markets since Jan that my tits are permanently jacked, my brain is smooth, my tendies are baking, and I helped my wife find her boyfriend(s). Oh, and most importantly: hedgies r fuk.
 
@@ -116,7 +117,7 @@ Is there a Kenneth Griffin in the house? His mom or somebody is calling looking 
 
 &#x200B;
 
-[\(I'm not here\) u\/MrFerno with one of my favs](https://preview.redd.it/qk470r9qipx61.png?width=376&format=png&auto=webp&s=0a1dd635e68771848c23e7dbf583848ab8881ce2)
+![\(I'm not here\) u\/MrFerno with one of my favs](https://preview.redd.it/qk470r9qipx61.png?width=376&format=png&auto=webp&s=0a1dd635e68771848c23e7dbf583848ab8881ce2)
 
 &#x200B;
 
@@ -136,7 +137,7 @@ I call It DD but, what I really mean me trying to read a small percentage of mul
 
 &#x200B;
 
-[an ape who actually stood a chance against these docs](https://preview.redd.it/ezzjssvthpx61.png?width=425&format=png&auto=webp&s=3cc57b58198ae95a85d354652e2b2fa72b75c91e)
+![an ape who actually stood a chance against these docs](https://preview.redd.it/ezzjssvthpx61.png?width=425&format=png&auto=webp&s=3cc57b58198ae95a85d354652e2b2fa72b75c91e)
 
 Shortly after learning to read earlier in the night, I tried reading the [DTCC's Recovery and Wind-down Plan](https://www.dtcc.com/-/media/Files/Downloads/legal/rule-filings/2018/NSCC/SR-NSCC-2017-017-Amendment.pdf), and was slightly perplexed by this page (page 13/283 second and third paragraph), along with the reference 28 which is at the bottom of 13 and 14.
 
@@ -146,13 +147,13 @@ Part of my knowledge gap is around the concept of this Crisis Continuum. My sing
 
 &#x200B;
 
-[wot?](https://preview.redd.it/mb7i876vhpx61.png?width=624&format=png&auto=webp&s=86683d3bdbd623749fb9d1451a126122f441604d)
+![wot?](https://preview.redd.it/mb7i876vhpx61.png?width=624&format=png&auto=webp&s=86683d3bdbd623749fb9d1451a126122f441604d)
 
 It seems like my original thought was a little different. Below is a real Crisis Continuum
 
 &#x200B;
 
-[The Short's Version of the Crisis Continuum](https://preview.redd.it/7dwgtwurhpx61.png?width=392&format=png&auto=webp&s=4db010a2d0b4ad1eb99e5e7c7715608872773ae3)
+![The Short's Version of the Crisis Continuum](https://preview.redd.it/7dwgtwurhpx61.png?width=392&format=png&auto=webp&s=4db010a2d0b4ad1eb99e5e7c7715608872773ae3)
 
 Just a little more copy/paste-able detail:
 
@@ -164,11 +165,11 @@ Perhaps a similar situation?
 
 &#x200B;
 
-[hmm? something not quite right?](https://preview.redd.it/3ibf8gkqhpx61.png?width=397&format=png&auto=webp&s=1e1a54a283dcf06c30b527621fd9821f65f75a6f)
+![hmm? something not quite right?](https://preview.redd.it/3ibf8gkqhpx61.png?width=397&format=png&auto=webp&s=1e1a54a283dcf06c30b527621fd9821f65f75a6f)
 
 &#x200B;
 
-[Ah okay. yeah dont worry NSCC, it is definitely wrong. It is missing some zeros at the end 😎](https://preview.redd.it/023j9rophpx61.png?width=397&format=png&auto=webp&s=3eb4373b12f05981088e89138be6daa2c62963a0)
+![Ah okay. yeah dont worry NSCC, it is definitely wrong. It is missing some zeros at the end 😎](https://preview.redd.it/023j9rophpx61.png?width=397&format=png&auto=webp&s=3eb4373b12f05981088e89138be6daa2c62963a0)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -210,7 +211,7 @@ I also wanted to note that the second paragraph of section 5 at least indicates 
 
 &#x200B;
 
-[found a coloring area](https://preview.redd.it/bhnn90iwhpx61.png?width=624&format=png&auto=webp&s=ab82c7be44a26a42218928a9348624da518b9d41)
+![found a coloring area](https://preview.redd.it/bhnn90iwhpx61.png?width=624&format=png&auto=webp&s=ab82c7be44a26a42218928a9348624da518b9d41)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

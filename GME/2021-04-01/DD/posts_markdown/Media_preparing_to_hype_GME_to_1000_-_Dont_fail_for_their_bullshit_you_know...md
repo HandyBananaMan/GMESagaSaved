@@ -1,8 +1,9 @@
-# Author: JuneAWolf
-# Post URL: [https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/](https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/)
+#Title: Media preparing to hype GME to 1,000 - Don't fail for their bullshit you know what it's worth.
+#Author: JuneAWolf
+#Post URL: [https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/](https://www.reddit.com/r/GME/comments/mid55h/media_preparing_to_hype_gme_to_1000_dont_fail_for/)
 
 
-![https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/](https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/)
+[https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/](https://investorplace.com/2021/04/the-case-for-gamestop-hitting-1000-this-year/)
 
 &#x200B;
 

@@ -1,12 +1,13 @@
-# Author: RocketApes
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/](https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/)
+#Title: GME price development decoded: A final update on GME price prediction
+#Author: RocketApes
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/](https://www.reddit.com/r/DDintoGME/comments/nxyul2/gme_price_development_decoded_a_final_update_on/)
 
 
 *edit3: Concerning* [this](https://www.reddit.com/r/Superstonk/comments/nzkwkf/part_2_intraweek_max_pain_the_next_ftd_cycle/) *DD where several new T+18-21 and T+35 dates are given: I updated my model. T+21 is a thing after days with more than 15% down, but not T+18-20, also not T+33-35. But a little improvement. Tagging OP* /u/Leenixus
 
 *edit2: You asked for pictures, I give you a picture:*
 
-[Variable influence. Bold area is 90&#37; percentile. Variables not crossing the 0-line are significant, influence on GME price change in percent at x-axis. Example: VIXPD \(Vix, previous day\) has a positive and almost significant influence on GME price](https://preview.redd.it/ygzikkivbv471.png?width=864&format=png&auto=webp&s=687ba1a0b09b08d5a6527e6e82248a2ac02ea1e6)
+![Variable influence. Bold area is 90&#37; percentile. Variables not crossing the 0-line are significant, influence on GME price change in percent at x-axis. Example: VIXPD \(Vix, previous day\) has a positive and almost significant influence on GME price](https://preview.redd.it/ygzikkivbv471.png?width=864&format=png&auto=webp&s=687ba1a0b09b08d5a6527e6e82248a2ac02ea1e6)
 
 *edit: Forgot to add, buy and hold. I am not a financial advisor or your mummy (say hello if you meet her!), but daytrading based on any of this stuff could be a very bad idea: Firstly, the model is not ALWAYS correct, secondly if only lasts for a day and who knows what is tomorrow. You could miss stuff like DFV returning or the MOASS. Just buy and hold, I´d say.*
 
@@ -72,7 +73,7 @@ Alright, this was long, sorry for that. But as a transparent community, I would 
 
 Model details
 
-You find all the model details here: ![https://github.com/rocketapes123/GMEmodel](https://github.com/rocketapes123/GMEmodel)
+You find all the model details here: [https://github.com/rocketapes123/GMEmodel](https://github.com/rocketapes123/GMEmodel)
 
 With a linear model, you can model a variable (in this case: GME price change to previous day in percent) as simple equation:
 

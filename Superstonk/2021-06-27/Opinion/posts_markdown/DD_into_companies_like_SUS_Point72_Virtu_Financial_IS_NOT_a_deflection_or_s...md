@@ -1,5 +1,6 @@
-# Author: jakksquat7
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o91jx3/dd_into_companies_like_sus_point72_virtu/](https://www.reddit.com/r/Superstonk/comments/o91jx3/dd_into_companies_like_sus_point72_virtu/)
+#Title: DD into companies like SUS, Point72, Virtu Financial, IS NOT a deflection or some type of FUD.
+#Author: jakksquat7
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o91jx3/dd_into_companies_like_sus_point72_virtu/](https://www.reddit.com/r/Superstonk/comments/o91jx3/dd_into_companies_like_sus_point72_virtu/)
 
 
 I’ve seen a lot of comments, posts, and memes to suggest that the recent focus on the companies listed above is some type of deflection or the work of shills. I don’t think that could be further from the truth. 

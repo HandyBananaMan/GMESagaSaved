@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/GME/comments/mhv9qj/live_charting_for_412021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mhv9qj/live_charting_for_412021_predicting_the_days/)
+#Title: Live Charting for 4/1/2021, predicting the day's price action in detail with Warden. WHALE WATCHING EDITION
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/GME/comments/mhv9qj/live_charting_for_412021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mhv9qj/live_charting_for_412021_predicting_the_days/)
 
 
 **This is not financial nor investment advice. These are ideas and opinions for information purposes only.**
@@ -54,7 +55,7 @@ If the MMs have a delta positive position, they can write those Puts without sel
 
 Shorts are having none of it. They've flooded in their Puts finally.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/z2j2g7j0zlq61.png?width=2497&format=png&auto=webp&s=4238a614dc76e58b6e32c353378a5d0f5d29b045)
+![data courtesy of optionsonar.com](https://preview.redd.it/z2j2g7j0zlq61.png?width=2497&format=png&auto=webp&s=4238a614dc76e58b6e32c353378a5d0f5d29b045)
 
 **Edit 27 2:38PM:**
 
@@ -68,7 +69,7 @@ https://preview.redd.it/ook3gzj9ulq61.png?width=623&format=png&auto=webp&s=92e6c
 
 A load of calls getting put in. Seems the action isn't quite over yet. Possible upside incoming.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/5yoiwgpitlq61.png?width=2458&format=png&auto=webp&s=44839012867fc28f0f314e55a1d3391892eac9c3)
+![data courtesy of optionsonar.com](https://preview.redd.it/5yoiwgpitlq61.png?width=2458&format=png&auto=webp&s=44839012867fc28f0f314e55a1d3391892eac9c3)
 
 **Edit 24 2:12PM:**
 
@@ -78,7 +79,7 @@ A moment of silence for those who got caught in this bull trap.
 
 190 Calls keeping us up for now.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/rqfzi3zeqlq61.png?width=2483&format=png&auto=webp&s=0a907f1aed196cfa81c55d2ece2ff01a80918766)
+![data courtesy of optionsonar.com](https://preview.redd.it/rqfzi3zeqlq61.png?width=2483&format=png&auto=webp&s=0a907f1aed196cfa81c55d2ece2ff01a80918766)
 
 **Edit 22 1:57PM:**
 
@@ -92,7 +93,7 @@ I don't believe I've ever seen them do Deep ITM Calls twice in a row before.
 
 Another anomaly. I will investigate.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/zwats1eqnlq61.png?width=2457&format=png&auto=webp&s=8c2f7f7dc5947add706f48215ceb6f16cd06bd75)
+![data courtesy of optionsonar.com](https://preview.redd.it/zwats1eqnlq61.png?width=2457&format=png&auto=webp&s=8c2f7f7dc5947add706f48215ceb6f16cd06bd75)
 
 **Edit 19 1:31PM:**
 
@@ -112,7 +113,7 @@ https://preview.redd.it/5xtgesq3klq61.png?width=2141&format=png&auto=webp&s=1ebe
 
 Bull trap.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/52xrq8yrjlq61.png?width=2479&format=png&auto=webp&s=80f8998855a8cb1158a930661dde2094ce3dbdb9)
+![data courtesy of optionsonar.com](https://preview.redd.it/52xrq8yrjlq61.png?width=2479&format=png&auto=webp&s=80f8998855a8cb1158a930661dde2094ce3dbdb9)
 
 **Edit 15 1:06PM:**
 
@@ -144,7 +145,7 @@ The only person that I know has data on those 65 strike Calls (edit: is gone). D
 
 Puts slowly increasing. These shorts are too easy to read.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/tfjejfr8tkq61.png?width=2465&format=png&auto=webp&s=7607ee61cf4ca791c41556c4cb4e9fd92072b570)
+![data courtesy of optionsonar.com](https://preview.redd.it/tfjejfr8tkq61.png?width=2465&format=png&auto=webp&s=7607ee61cf4ca791c41556c4cb4e9fd92072b570)
 
 https://preview.redd.it/3ejgj5szskq61.png?width=2139&format=png&auto=webp&s=450870fa8f706adac4fd9606c2ffafcb16b3af34
 
@@ -156,13 +157,13 @@ Does anyone have optionsonar data for 3/19? This will be very helpful in my inve
 
 Anomaly detected. These were 65 strike Calls bought. I'm investigating.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/12gji3r0qkq61.png?width=2500&format=png&auto=webp&s=c9bb808da406e9fb1c32741f5b783f79c68c98f9)
+![data courtesy of optionsonar.com](https://preview.redd.it/12gji3r0qkq61.png?width=2500&format=png&auto=webp&s=c9bb808da406e9fb1c32741f5b783f79c68c98f9)
 
 **Edit 7 10:21AM:**
 
 Very very soon, we should see an increase in the amount of Melvin's Puts. This will drag the price back down for Fire Sale #2 towards the end of the day.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/2kng4czwmkq61.png?width=2463&format=png&auto=webp&s=b6d8c01068998d12840d45c300ac70a64df0aa0e)
+![data courtesy of optionsonar.com](https://preview.redd.it/2kng4czwmkq61.png?width=2463&format=png&auto=webp&s=b6d8c01068998d12840d45c300ac70a64df0aa0e)
 
 **Edit 6 10:19AM:**
 
@@ -174,13 +175,13 @@ https://preview.redd.it/obyhe8zcmkq61.png?width=2138&format=png&auto=webp&s=195e
 
 Melvin's Puts rolling in.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/lndite00lkq61.png?width=2478&format=png&auto=webp&s=e2a9a974679a9cf246c5d10ae8aedb1afa766ea0)
+![data courtesy of optionsonar.com](https://preview.redd.it/lndite00lkq61.png?width=2478&format=png&auto=webp&s=e2a9a974679a9cf246c5d10ae8aedb1afa766ea0)
 
 **Edit 4 10:09AM:**
 
 Call options rolling in pushing the price up.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/wc40tk1okkq61.png?width=2440&format=png&auto=webp&s=1b047e557bc5e2f3b5d382a2387aa8a7be0823ae)
+![data courtesy of optionsonar.com](https://preview.redd.it/wc40tk1okkq61.png?width=2440&format=png&auto=webp&s=1b047e557bc5e2f3b5d382a2387aa8a7be0823ae)
 
 **Edit 3 9:39AM:**
 

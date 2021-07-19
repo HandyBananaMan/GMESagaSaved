@@ -1,5 +1,6 @@
-# Author: LongTimeGamer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/](https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/)
+#Title: I processed 16 years of data across 8 stocks to prove something no one cares about: GME's price is ending in .00 10X more than it should be.
+#Author: LongTimeGamer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/](https://www.reddit.com/r/Superstonk/comments/o1gn2u/i_processed_16_years_of_data_across_8_stocks_to/)
 
 
 I’m back and so is my fondness of the .00. I spent all week trying to shake the thought of it... but just as the return of 005 was, the return of .00 is inevitable.
@@ -12,7 +13,7 @@ Now, before you come at me with **why** the frequency of .00 price points are in
 
 Earlier this week I succumbed to my madness and had to see if my own noticing of .00 key (open, close, high, and low) price points was *frequency illusions* or fact. Frequency illusion, or [Baader-Meinhof Phenomenon](https://en.wikipedia.org/wiki/Frequency_illusion), is your internal bias that causes something to appear more often only after learning or noticing that thing for the first time.
 
-Before now, I thought I was simply seeing what I wanted to see. You can check out ![my previous post](https://www.reddit.com/r/Superstonk/comments/o002rs/feel_like_gme_closing_prices_are_ending_in_00/) to see what started it all, but a quick recap is that in 2021 GME has a 61.06% rate of having a key price point during a trading day end in .00. The average for the 18 prior years is 9.25%, last year was 5.14%. GME is seeing key price points at .00 more often, and the rate is increasing.
+Before now, I thought I was simply seeing what I wanted to see. You can check out [my previous post](https://www.reddit.com/r/Superstonk/comments/o002rs/feel_like_gme_closing_prices_are_ending_in_00/) to see what started it all, but a quick recap is that in 2021 GME has a 61.06% rate of having a key price point during a trading day end in .00. The average for the 18 prior years is 9.25%, last year was 5.14%. GME is seeing key price points at .00 more often, and the rate is increasing.
 
 I appreciate the love my first post on .00 received. I also appreciate the perspective that other apes were able to provide as my brain is smoother than the gelato my wife treats me to once a month. Since then, I’ve quadrupled my research in an attempt to directly address some of the top reasonings for .00 price points to determine if GME is following a trend that exists across all stocks or is a **1.00-of-a-kind** in just another way.
 

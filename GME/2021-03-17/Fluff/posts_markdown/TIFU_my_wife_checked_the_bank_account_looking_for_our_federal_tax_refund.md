@@ -1,5 +1,6 @@
-# Author: CrapStainedKnickers
-# Post URL: [https://www.reddit.com/r/GME/comments/m761jn/tifu_my_wife_checked_the_bank_account_looking_for/](https://www.reddit.com/r/GME/comments/m761jn/tifu_my_wife_checked_the_bank_account_looking_for/)
+#Title: TIFU: my wife checked the bank account looking for our federal tax refund...
+#Author: CrapStainedKnickers
+#Post URL: [https://www.reddit.com/r/GME/comments/m761jn/tifu_my_wife_checked_the_bank_account_looking_for/](https://www.reddit.com/r/GME/comments/m761jn/tifu_my_wife_checked_the_bank_account_looking_for/)
 
 
 ...but instead she saw multiple transfers to fidelity. 

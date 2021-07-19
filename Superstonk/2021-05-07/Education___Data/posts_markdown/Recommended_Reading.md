@@ -1,5 +1,6 @@
-# Author: dlauer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n6z8rs/recommended_reading/](https://www.reddit.com/r/Superstonk/comments/n6z8rs/recommended_reading/)
+#Title: Recommended Reading
+#Author: dlauer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n6z8rs/recommended_reading/](https://www.reddit.com/r/Superstonk/comments/n6z8rs/recommended_reading/)
 
 
 When I first got a job trading, my boss recommended a couple of books - everyone in the industry has read them. Many of you probably have too, but just in case I thought I'd post this list. I'd love to hear other recommendations in the comments - most of what I read is sci-fi, history, physics and AI.
@@ -22,6 +23,6 @@ I'll also link to the Strand, because it's the best book store, and wherever pos
 * Honorable mentions:
    * [The Predictors](https://www.strandbooks.com/product/9780805057577?title=predictors_how_a_band_of_maverick_physicists_used_chaos_theory_to_trade_their_way_to_a_fortune_on_wall_street), Bass - I read this book in the midst of learning about complex systems and chaos theory, it's the perfect complement to that if you're interested in the intersection of trading and chaos theory.
    * [Dark Pools](https://www.strandbooks.com/product/9780307887184?title=dark_pools_the_rise_of_the_machine_traders_and_the_rigging_of_the_us_stock_market), Patterson - One of the more accessible takes on modern market structure, Scott does a great job of illustrating the influence of HFT, broker-owned dark pools, and electronic trading. He also wrote [this article](https://www.wsj.com/articles/SB10000872396390443890304578006603819735098) about me, so he's cool.
-   * ![My Life as a Quant](https://www.strandbooks.com/product/9780470192733?title=my_life_as_a_quant_reflections_on_physics_and_finance), Derman - A fun read about the origins of quantitative trading, the precursor to HFT.
+   * [My Life as a Quant](https://www.strandbooks.com/product/9780470192733?title=my_life_as_a_quant_reflections_on_physics_and_finance), Derman - A fun read about the origins of quantitative trading, the precursor to HFT.
 
 There are a couple of other much deeper books that get into market structure, execution cost analysis, and other more esoteric topics, but the books above are accessible for everyone and I think are generally great reads.

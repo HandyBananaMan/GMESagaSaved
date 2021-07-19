@@ -1,5 +1,6 @@
-# Author: SmoothBrainGorilla
-# Post URL: [https://www.reddit.com/r/GME/comments/n1z97c/8lbs_4oz_just_had_a_little_girl_and_wanted_to/](https://www.reddit.com/r/GME/comments/n1z97c/8lbs_4oz_just_had_a_little_girl_and_wanted_to/)
+#Title: 8lbs 4oz; Just had a little girl and wanted to spread the news.
+#Author: SmoothBrainGorilla
+#Post URL: [https://www.reddit.com/r/GME/comments/n1z97c/8lbs_4oz_just_had_a_little_girl_and_wanted_to/](https://www.reddit.com/r/GME/comments/n1z97c/8lbs_4oz_just_had_a_little_girl_and_wanted_to/)
 
 
 Didn't really have a lot of people to tell, so I figured I'd tell my fellow apes.

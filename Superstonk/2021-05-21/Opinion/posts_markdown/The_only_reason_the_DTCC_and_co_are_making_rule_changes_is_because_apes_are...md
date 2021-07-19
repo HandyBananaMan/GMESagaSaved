@@ -1,5 +1,6 @@
-# Author: midwestmiller
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhw1qq/the_only_reason_the_dtcc_and_co_are_making_rule/](https://www.reddit.com/r/Superstonk/comments/nhw1qq/the_only_reason_the_dtcc_and_co_are_making_rule/)
+#Title: The only reason the DTCC and co. are making rule changes is because apes are getting profits this time.
+#Author: midwestmiller
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhw1qq/the_only_reason_the_dtcc_and_co_are_making_rule/](https://www.reddit.com/r/Superstonk/comments/nhw1qq/the_only_reason_the_dtcc_and_co_are_making_rule/)
 
 
 1929 market crash, 1987 Black Monday, 2001 dotcom bubble and 2008 housing market crash. (Speculation here but another housing crash is most likely going to happen once people can start getting evicted for not paying when the covid eviction restrictions expire.)

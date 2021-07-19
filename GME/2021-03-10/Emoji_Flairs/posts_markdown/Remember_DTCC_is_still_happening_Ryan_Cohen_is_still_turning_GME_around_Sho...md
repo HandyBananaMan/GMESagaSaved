@@ -1,5 +1,6 @@
-# Author: the_Rei
-# Post URL: [https://www.reddit.com/r/GME/comments/m243ob/remember_dtcc_is_still_happening_ryan_cohen_is/](https://www.reddit.com/r/GME/comments/m243ob/remember_dtcc_is_still_happening_ryan_cohen_is/)
+#Title: Remember: DTCC is still happening, Ryan Cohen is still turning GME around, Shorts & Calls still have to cover - so stop helping them cover at cheaper prices
+#Author: the_Rei
+#Post URL: [https://www.reddit.com/r/GME/comments/m243ob/remember_dtcc_is_still_happening_ryan_cohen_is/](https://www.reddit.com/r/GME/comments/m243ob/remember_dtcc_is_still_happening_ryan_cohen_is/)
 
 
 Here’s a PSA for you: Market Makers (Citadel and co) have a free-pass to naked short with the excuse that they’re “providing liquidity and taming volatility”.

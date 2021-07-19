@@ -1,5 +1,6 @@
-# Author: AaronJamesArq
-# Post URL: [https://www.reddit.com/r/GME/comments/m232k4/if_you_cant_hold_from_350_to_240_how_are_you/](https://www.reddit.com/r/GME/comments/m232k4/if_you_cant_hold_from_350_to_240_how_are_you/)
+#Title: If you can't hold from 350 to 240, how are you gonna hold to 500,000? Diamond hands babyyyyy
+#Author: AaronJamesArq
+#Post URL: [https://www.reddit.com/r/GME/comments/m232k4/if_you_cant_hold_from_350_to_240_how_are_you/](https://www.reddit.com/r/GME/comments/m232k4/if_you_cant_hold_from_350_to_240_how_are_you/)
 
 
 Edit: Dropped to 197... are they trying to scare us one last time?

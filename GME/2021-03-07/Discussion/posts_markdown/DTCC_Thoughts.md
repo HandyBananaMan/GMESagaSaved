@@ -1,5 +1,6 @@
-# Author: Which_Stable4699
-# Post URL: [https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/](https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/)
+#Title: DTCC Thoughts
+#Author: Which_Stable4699
+#Post URL: [https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/](https://www.reddit.com/r/GME/comments/m053rh/dtcc_thoughts/)
 
 
 Hi my fellow apes, I just wanted to quickly talk about the new DD that was posted today about the DTCC. Let me start by saying I was already bullish AF on GME. I'm not a whale by any stretch of the imagination, but I do hold a sizeable position and will be adding more Monday. That said, lets talk about the new DTCC rules. Here is my take:
@@ -20,7 +21,7 @@ I am currently invested $250k in GME, starting in the upper $200s lower 300 rang
 
 **\*\*\*Edit\*\*\***
 
-Well it turns out I don't quite have 400k in GME, \~23k in other positions. Due to the pre-market this morning there is a bit of green though. In any case, as promised ![https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/](https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/)
+Well it turns out I don't quite have 400k in GME, \~23k in other positions. Due to the pre-market this morning there is a bit of green though. In any case, as promised [https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/](https://www.reddit.com/r/wallstreetbets/comments/m0ggt0/yolo/)
 
 \*\*\*Edit 2 \*\*\*
 

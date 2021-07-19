@@ -1,5 +1,6 @@
-# Author: bosshax
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/](https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/)
+#Title: The NBBO (best price) is only determined by round lots (100 shares and more). This means single share buys do squat all in setting market price. This means retail traders trading a lower volume don't impact the price as they should and high price stocks (AMZN) require a lot of volume to move price
+#Author: bosshax
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/](https://www.reddit.com/r/Superstonk/comments/nhtg1p/the_nbbo_best_price_is_only_determined_by_round/)
 
 
 **Many retail investors assume that if there is ONE SHARE exchanged at $10,000,000 then that price will be set as the Market Price. THIS IS WRONG!**
@@ -58,13 +59,13 @@ But there is a good reason to have round lots in a stock like GE, where 100 shar
 
 &#x200B;
 
-[In short AS the stock price rises there are naturally MORE and MORE ODD LOT PROBLEMS. In GME this is compounded because you have retail that typically buy in small lots anyway and then you have the potential for GME shares to go to $10,000+. ](https://preview.redd.it/kdpqvsn4ah071.png?width=813&format=png&auto=webp&s=c825c26b8ebee18648b115ae02b35948b165dd14)
+![In short AS the stock price rises there are naturally MORE and MORE ODD LOT PROBLEMS. In GME this is compounded because you have retail that typically buy in small lots anyway and then you have the potential for GME shares to go to $10,000+. ](https://preview.redd.it/kdpqvsn4ah071.png?width=813&format=png&auto=webp&s=c825c26b8ebee18648b115ae02b35948b165dd14)
 
 &#x200B;
 
 &#x200B;
 
-[THE SEC realized this is not always an efficient solution for traders, so they proposed to change how Round Lots are determined and can set the NBBO](https://preview.redd.it/vkx82az9ah071.png?width=737&format=png&auto=webp&s=aa1b3311e458dadb716609d87acf61efd7044d3f)
+![THE SEC realized this is not always an efficient solution for traders, so they proposed to change how Round Lots are determined and can set the NBBO](https://preview.redd.it/vkx82az9ah071.png?width=737&format=png&auto=webp&s=aa1b3311e458dadb716609d87acf61efd7044d3f)
 
 TLDR: SEC realized this is not efficient as there may be buyers who want to buy 10 shares of Amazon at $22,000 (current price $20,000) and since it is less than 100 round lots it would not set a new NBBO. This also works vice versa for a lower price.
 
@@ -116,7 +117,7 @@ This whole idea is VERY complex and I am not a financial expert. It's entirely p
 
 &#x200B;
 
->**" A better solution involves a market where all orders count equally, and the lit quote is as competitive and inclusive as possible, while also ensuring spreads are deep enough to fill most orders. "**\-Source: ![https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/](https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/)
+>**" A better solution involves a market where all orders count equally, and the lit quote is as competitive and inclusive as possible, while also ensuring spreads are deep enough to fill most orders. "**\-Source: [https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/](https://www.tradersmagazine.com/am/nms-ii-doesnt-fix-the-odd-lot-problem/)
 
 EDIT 1: We are SO LUCKY to have amazing Honorable Gentlemen like u/dlauer in this community.   
 

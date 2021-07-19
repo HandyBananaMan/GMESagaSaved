@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/)
+#Title: Live Charting for 3/24/2021, predicting the day's price action in detail with Warden. Understanding earnings, and preparing for the wild volatility ahead. FIRESALE EDITION.
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/](https://www.reddit.com/r/GME/comments/mc5lwo/live_charting_for_3242021_predicting_the_days/)
 
 
 This is not financial nor investment advice. These are ideas and opinions for information purposes only.
@@ -40,7 +41,7 @@ We're net bullish now in terms of options activity. Still down for the day, but 
 
 Yes we're down a lot today. There is a dissonance between the price and the earnings call though. Keep that in mind. Earnings suggests a P/E increase while we're seeing a maneuver for a P/E decrease. On OptionSonar I'm seeing a flow of Calls trickling. Very interesting to me.
 
-[data courtesy of optionsonar.com](https://preview.redd.it/228q8ebe41p61.png?width=2426&format=png&auto=webp&s=73a98288ce8a41668a636426b70fa23b3a563630)
+![data courtesy of optionsonar.com](https://preview.redd.it/228q8ebe41p61.png?width=2426&format=png&auto=webp&s=73a98288ce8a41668a636426b70fa23b3a563630)
 
 I am still **holding**.
 
@@ -170,7 +171,7 @@ https://preview.redd.it/vpf7mt81ozo61.png?width=2140&format=png&auto=webp&s=f019
 
 I'm on AndrewMoMoney! Sorry forgot to update you guys!
 
-![https://www.youtube.com/watch?v=KIEBHyvKw4A&ab\_channel=AndrewMoMoney](https://www.youtube.com/watch?v=KIEBHyvKw4A&ab_channel=AndrewMoMoney)
+[https://www.youtube.com/watch?v=KIEBHyvKw4A&ab\_channel=AndrewMoMoney](https://www.youtube.com/watch?v=KIEBHyvKw4A&ab_channel=AndrewMoMoney)
 
 **Edit 3 9:36AM:**
 

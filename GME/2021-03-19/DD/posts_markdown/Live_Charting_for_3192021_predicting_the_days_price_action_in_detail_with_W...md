@@ -1,5 +1,6 @@
-# Author: WardenElite2
-# Post URL: [https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/)
+#Title: Live Charting for 3/19/2021, predicting the day's price action in detail with Warden. PREPARE FOR WAR EDITION
+#Author: WardenElite2
+#Post URL: [https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/](https://www.reddit.com/r/GME/comments/m8gn1h/live_charting_for_3192021_predicting_the_days/)
 
 
 **This is not financial nor investment advice. These are ideas and opinions for information purposes only. Seek a certified financial professional for investment advice.**
@@ -401,7 +402,7 @@ It seems our fellow wrinkle brain [u/Quiet-Finish7848](https://www.reddit.com/us
 
 https://preview.redd.it/hn4tc15adzn61.png?width=1992&format=png&auto=webp&s=462441f9cbeb8004fe5952c87a13591193d6eacf
 
-You can check on ![OptionSonar.com](https://OptionSonar.com) for this chart (they require you to pay though for up to date data).
+You can check on [OptionSonar.com](https://OptionSonar.com) for this chart (they require you to pay though for up to date data).
 
 # Premarket Analysis
 

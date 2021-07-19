@@ -1,5 +1,6 @@
-# Author: OverlordHippo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/](https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/)
+#Title: OBV and Beta definitively show that the price is heavily suppressed and that GME is the ultimate hedge against market volatility
+#Author: OverlordHippo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/](https://www.reddit.com/r/Superstonk/comments/n9mkoj/obv_and_beta_definitively_show_that_the_price_is/)
 
 
 Hey there, dildos and dildettes. I normally keep my DD to myself and my friends, but if I can convince my cautious anchor to reality that GME is going to the moon, maybe I can help you do the same. 
@@ -12,17 +13,17 @@ OBV = On Balance Volume and typically it follows the price movement closer than 
 
 Here's the OBV on some stocks that mean something to normal bipedal hominids:
 
-[FB](https://imgur.com/gallery/4IMydAK)
+![FB](https://imgur.com/gallery/4IMydAK)
 
-[NIO](https://imgur.com/gallery/KUbCzyN)
+![NIO](https://imgur.com/gallery/KUbCzyN)
 
-[AAPL](https://imgur.com/gallery/e8smoN5)
+![AAPL](https://imgur.com/gallery/e8smoN5)
 
-[SPY](https://imgur.com/gallery/ucCmYAY)
+![SPY](https://imgur.com/gallery/ucCmYAY)
 
 Very clearly you can see that the price movement and the OBV need to get a room. Now let's look at the OBV of GME. It should have the same line as the one on your RH homepage right?
 
-[DatBoi OBV](https://imgur.com/gallery/mldjnYn)
+![DatBoi OBV](https://imgur.com/gallery/mldjnYn)
 
 Fuckin WRONG. Now I know what you're thinking:
 
@@ -52,7 +53,7 @@ In there you'll find such classics as *Johnson and Johnson* and *Proctor and Gam
 
 That's the extreme outlier of stocks considered relevant.
 
-![Here's GME](https://www.infrontanalytics.com/fe-EN/34916NU/GameStop-Corp-/Beta)
+[Here's GME](https://www.infrontanalytics.com/fe-EN/34916NU/GameStop-Corp-/Beta)
 
 -5.62... Not just 0.069, not -4.20, but -5.62.
 

@@ -1,5 +1,6 @@
-# Author: NomNomNommy
-# Post URL: [https://www.reddit.com/r/GME/comments/lzq4dk/dont_put_your_stimmy_into_the_stock_market/](https://www.reddit.com/r/GME/comments/lzq4dk/dont_put_your_stimmy_into_the_stock_market/)
+#Title: 'Don't put your stimmy into the stock market, especially GME' says Suze Orman
+#Author: NomNomNommy
+#Post URL: [https://www.reddit.com/r/GME/comments/lzq4dk/dont_put_your_stimmy_into_the_stock_market/](https://www.reddit.com/r/GME/comments/lzq4dk/dont_put_your_stimmy_into_the_stock_market/)
 
 
 Does anyone else find it incredibly irritating and insulting that this boomer is sitting in the Bahamas telling us not to invest our stimmy in GME? The audacity of this bitch.

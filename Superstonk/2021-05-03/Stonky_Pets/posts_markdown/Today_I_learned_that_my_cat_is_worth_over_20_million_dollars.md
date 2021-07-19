@@ -1,5 +1,6 @@
-# Author: zylon0217
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n4gdgh/today_i_learned_that_my_cat_is_worth_over_20/](https://www.reddit.com/r/Superstonk/comments/n4gdgh/today_i_learned_that_my_cat_is_worth_over_20/)
+#Title: Today I learned that my cat is worth over 20 million dollars.
+#Author: zylon0217
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n4gdgh/today_i_learned_that_my_cat_is_worth_over_20/](https://www.reddit.com/r/Superstonk/comments/n4gdgh/today_i_learned_that_my_cat_is_worth_over_20/)
 
 
 My cat started vomiting up blood for no reason, and I had to take her to the pet ER. I only had 10 dollars to my name, and had to paper hand two shares to pay for her treatment. My credit cards are maxed, and I had no other choice. But she’s been with me for five years, and I’d paper hand another share if I had to for her. 

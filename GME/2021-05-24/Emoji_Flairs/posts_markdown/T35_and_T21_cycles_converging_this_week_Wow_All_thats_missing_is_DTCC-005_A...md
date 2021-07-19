@@ -1,5 +1,6 @@
-# Author: AndyLee168
-# Post URL: [https://www.reddit.com/r/GME/comments/nk4hqd/t35_and_t21_cycles_converging_this_week_wow_all/](https://www.reddit.com/r/GME/comments/nk4hqd/t35_and_t21_cycles_converging_this_week_wow_all/)
+#Title: T+35 and T+21 cycles converging this week! Wow! All that’s missing is DTCC-005. Asking a super dumb question: in reverse logic, was DTCC-005 purposely missing this week in order to not detonate the house of cards this trading week?
+#Author: AndyLee168
+#Post URL: [https://www.reddit.com/r/GME/comments/nk4hqd/t35_and_t21_cycles_converging_this_week_wow_all/](https://www.reddit.com/r/GME/comments/nk4hqd/t35_and_t21_cycles_converging_this_week_wow_all/)
 
 
 Ape Andy is a dumb ape and asked: 

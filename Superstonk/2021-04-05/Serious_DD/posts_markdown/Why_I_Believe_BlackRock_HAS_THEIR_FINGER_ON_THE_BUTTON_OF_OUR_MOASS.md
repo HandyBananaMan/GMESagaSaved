@@ -1,5 +1,6 @@
-# Author: mhcase22
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mksku6/why_i_believe_blackrock_has_their_finger_on_the/](https://www.reddit.com/r/Superstonk/comments/mksku6/why_i_believe_blackrock_has_their_finger_on_the/)
+#Title: Why I Believe BlackRock HAS THEIR FINGER ON THE BUTTON OF OUR MOASS...
+#Author: mhcase22
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mksku6/why_i_believe_blackrock_has_their_finger_on_the/](https://www.reddit.com/r/Superstonk/comments/mksku6/why_i_believe_blackrock_has_their_finger_on_the/)
 
 
 From previous DD, we've discovered
@@ -52,4 +53,4 @@ ADDENDUM II
 
 Read this excellent breakdown of our current market mechanics, the shorts, naked shorts, how the ETF (Eee Tee Eff) market has serious exposure potential, the Bank of Japan as a test case for what we won't be doing.
 
-![https://www.reddit.com/r/Superstonk/comments/ml1er1/a\_gme\_saga\_the\_two\_towers/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/ml1er1/a_gme_saga_the_two_towers/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+[https://www.reddit.com/r/Superstonk/comments/ml1er1/a\_gme\_saga\_the\_two\_towers/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/Superstonk/comments/ml1er1/a_gme_saga_the_two_towers/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)

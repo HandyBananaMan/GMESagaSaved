@@ -1,5 +1,6 @@
-# Author: LemonSnowBro
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/monw1o/why_the_fake_squeeze_talk_is_absolutely_dangerous/](https://www.reddit.com/r/Superstonk/comments/monw1o/why_the_fake_squeeze_talk_is_absolutely_dangerous/)
+#Title: Why the "fake squeeze" talk is absolutely dangerous.
+#Author: LemonSnowBro
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/monw1o/why_the_fake_squeeze_talk_is_absolutely_dangerous/](https://www.reddit.com/r/Superstonk/comments/monw1o/why_the_fake_squeeze_talk_is_absolutely_dangerous/)
 
 
 If people believe there will be a fake squeeze, they will be tempted to daytrade. "

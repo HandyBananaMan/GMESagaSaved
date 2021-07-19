@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/)
+#Title: SOME DEEP ITM CALLS WERE BOUGHT TODAY: THE FINAL HURRAH
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/](https://www.reddit.com/r/GME/comments/mmjy19/some_deep_itm_calls_were_bought_today_the_final/)
 
 
 Hello you goddamn beautiful ~~people~~ apes,
@@ -8,7 +9,7 @@ u/dan_bren back with the late night special edition. Wanted to provide you all w
 
 &#x200B;
 
-[ GME Biggest Trades 4-7-2021 ](https://preview.redd.it/27ua8vqjmvr61.jpg?width=1218&format=pjpg&auto=webp&s=52af84f7382502188576d704803f4efcedf6d5a7)
+![ GME Biggest Trades 4-7-2021 ](https://preview.redd.it/27ua8vqjmvr61.jpg?width=1218&format=pjpg&auto=webp&s=52af84f7382502188576d704803f4efcedf6d5a7)
 
 12:47pm 550 $12 calls were bought for 167.95 ($16795) each = $9,237,250
 
@@ -20,7 +21,7 @@ For starters I want to point out that this is an incredibly small amount relativ
 
 &#x200B;
 
-[ GME Biggest Trades 4-4-2021 ](https://preview.redd.it/yua35eqlmvr61.jpg?width=1222&format=pjpg&auto=webp&s=56846474c85b772f6803299beaa243029d728bc7)
+![ GME Biggest Trades 4-4-2021 ](https://preview.redd.it/yua35eqlmvr61.jpg?width=1222&format=pjpg&auto=webp&s=56846474c85b772f6803299beaa243029d728bc7)
 
 Take a look at April 4th where nearly 6x the DEEP ITM calls were traded.  Many people in the comments ask how we can know that this is always the same people and a few things make this quite clear. For starters these block trades are all coming out of the same PHLX exchange, this is the first indicator. The second indicator is the rarity of the specific option that is being traded. An option that is $160 deep into the money when the price of the stock is only $180 is absurd. This is an option that theoretically would otherwise never be traded. For reference on another \~$200 stock such as Disney you aren't even able to trade anything below the $95 strike price. This can only be them.
 

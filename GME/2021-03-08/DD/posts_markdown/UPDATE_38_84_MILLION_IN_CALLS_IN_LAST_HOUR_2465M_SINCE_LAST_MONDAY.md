@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/)
+#Title: UPDATE (3/8): $84 MILLION IN CALLS IN LAST HOUR; 246.5M SINCE LAST MONDAY
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/](https://www.reddit.com/r/GME/comments/m0pvlc/update_38_84_million_in_calls_in_last_hour_2465m/)
 
 
 **New Post is UP 3/9:** [https://www.reddit.com/r/GME/comments/m1hejz/quick\_update\_additional\_40\_million\_deep\_itm\_calls/](https://www.reddit.com/r/GME/comments/m1hejz/quick_update_additional_40_million_deep_itm_calls/)
@@ -8,11 +9,11 @@ My fellow crayon eaters,
 
 **Update 3/8(3):** 3:50pm 1800 more calls from PHLX (1200 $12c 4/16/21 and 600 $15c 4/16/21)(underlying share price - $196.71) for $33 million
 
-[https://imgur.com/gallery/uHnjFPp](https://imgur.com/gallery/uHnjFPp)
+![https://imgur.com/gallery/uHnjFPp](https://imgur.com/gallery/uHnjFPp)
 
 **Update 3/8(2):** 3:34pm 1800 more calls from PHLX (1200 $12c 4/16/21 and 600 $15c 4/16/21)(underlying share price - $188.76) for $31.8 million
 
-[https://imgur.com/gallery/5Seid1k](https://imgur.com/gallery/5Seid1k)
+![https://imgur.com/gallery/5Seid1k](https://imgur.com/gallery/5Seid1k)
 
 **Update 3/8:** 2:58pm an additional 1100 calls from PHLX (4/16/21) $12 call for $19.1 million (underlying share price - $185)
 
@@ -30,7 +31,7 @@ Salutations Future 1% Apes,
 
 **UPDATE 3/5:** 3:16pm an additional 2500 calls purchased from PHLX exchange totaling **$31.49 million**
 
-[https://imgur.com/gallery/G4JgzgP](https://imgur.com/gallery/G4JgzgP)
+![https://imgur.com/gallery/G4JgzgP](https://imgur.com/gallery/G4JgzgP)
 
 Interestingly this is the first we've seen the buyer purchase 3/19/21 calls (400 @ 20c strike)
 
@@ -46,15 +47,15 @@ Good evening Lady Apes and GMEtlemen,
 
 UPDATE 3/4: 3:28pm 2,500 more calls purchased out of the PHLX exchange totaling 31.12 million
 
-[https://imgur.com/a/zPNFMi9](https://imgur.com/a/zPNFMi9)
+![https://imgur.com/a/zPNFMi9](https://imgur.com/a/zPNFMi9)
 
 Good afternoon my fellow tendiemen,
 
 I bring fantastic news to all the bagholding crayon eaters on this sub. This post is an update to the original post by [u/tapakip](https://www.reddit.com/u/tapakip/).
 
-(3/1) Monday someone out of the PHLX exchange (Philadelphia) purchased roughly $45MM worth of deep ITM calls ($12 and $15 strike) [https://imgur.com/a/8ZCd3b9](https://imgur.com/a/8ZCd3b9) = 3415 calls
+(3/1) Monday someone out of the PHLX exchange (Philadelphia) purchased roughly $45MM worth of deep ITM calls ($12 and $15 strike) ![https://imgur.com/a/8ZCd3b9](https://imgur.com/a/8ZCd3b9) = 3415 calls
 
-(3/2) Tuesday same exchange another $20 million in deep ITM calls [https://imgur.com/gallery/Qp2phEm](https://imgur.com/gallery/Qp2phEm) = 1800 calls
+(3/2) Tuesday same exchange another $20 million in deep ITM calls ![https://imgur.com/gallery/Qp2phEm](https://imgur.com/gallery/Qp2phEm) = 1800 calls
 
 (3/3) Wednesday another massive purchase of deep ITM calls from PHLX $45 million expiring 4/16/21
 

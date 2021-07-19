@@ -1,5 +1,6 @@
-# Author: ddak1998
-# Post URL: [https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/](https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/)
+#Title: Why Shorting the Russ2000 is a Terrible, Desperate Idea
+#Author: ddak1998
+#Post URL: [https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/](https://www.reddit.com/r/GME/comments/md68ze/why_shorting_the_russ2000_is_a_terrible_desperate/)
 
 
 If people are actually shorting IWM up to 35% just to get to GME things are about to get crazy.
@@ -20,7 +21,7 @@ IWM is one of the largest, most well known ETFs out there. ETFs generally don't 
 
 &#x200B;
 
-[Citadel Positions from 13F: they play both sides to maximize profits](https://preview.redd.it/8z0wkqvr08p61.png?width=1855&format=png&auto=webp&s=797d01b9b35a77e20044852ef5c885468e4e69a8)
+![Citadel Positions from 13F: they play both sides to maximize profits](https://preview.redd.it/8z0wkqvr08p61.png?width=1855&format=png&auto=webp&s=797d01b9b35a77e20044852ef5c885468e4e69a8)
 
 The people shorting IWM right now: their hand is out for everyone to see and they're minnows compared to the true money movers and I haven't even included banks yet.  This only ends two ways:
 
@@ -36,7 +37,7 @@ This is more anecdotal, but seems to be a sentiment among the investing communit
 
 &#x200B;
 
-[Russ 2000 Daily Chart](https://preview.redd.it/j5gkyo8u28p61.png?width=1531&format=png&auto=webp&s=3ead59254b92db6c4f03fa9c1802f91b6e787281)
+![Russ 2000 Daily Chart](https://preview.redd.it/j5gkyo8u28p61.png?width=1531&format=png&auto=webp&s=3ead59254b92db6c4f03fa9c1802f91b6e787281)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: MystikxHaze
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkpdfb/all_the_hype_youll_ever_need/](https://www.reddit.com/r/Superstonk/comments/nkpdfb/all_the_hype_youll_ever_need/)
+#Title: All the Hype you'll ever need!
+#Author: MystikxHaze
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkpdfb/all_the_hype_youll_ever_need/](https://www.reddit.com/r/Superstonk/comments/nkpdfb/all_the_hype_youll_ever_need/)
 
 
 Like Hype Videos? I know I do. That's why I spent hours scrolling through r/Superstonk, r/GME, and r/wallstreetbets to put this list together. This was originally posted on Friday evening at like 11pm, but then I realized most Apes aren't going to be on then after watching the stonk all week. I have roughly 70 in this collection so far, but if I missed your favorite, let me know... they kinda start blending together after 40 videos or so. We have some incredibly talented Apes and Apettes in this group and I can't wait to change the world with you retards 🦍🦍🦍🦍🦍🦍
@@ -199,7 +200,7 @@ Like Hype Videos? I know I do. That's why I spent hours scrolling through r/Supe
 
 and finally, an homage to my bartending roots:
 
-![Diamond Hands Cocktail](https://www.reddit.com/r/wallstreetbets/comments/mi5at0/diamond_hands_cocktail/) (1:13)
+[Diamond Hands Cocktail](https://www.reddit.com/r/wallstreetbets/comments/mi5at0/diamond_hands_cocktail/) (1:13)
 
 &#x200B;
 

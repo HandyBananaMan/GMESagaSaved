@@ -1,5 +1,6 @@
-# Author: Xen0Coke
-# Post URL: [https://www.reddit.com/r/GME/comments/nf2fto/get_ready_for_fuckery_as_glacial_capital_is/](https://www.reddit.com/r/GME/comments/nf2fto/get_ready_for_fuckery_as_glacial_capital_is/)
+#Title: Get ready for fuckery as glacial capital is obviously a front meant to be sacrificed to make us think that the domino effect of margin calls is happening.
+#Author: Xen0Coke
+#Post URL: [https://www.reddit.com/r/GME/comments/nf2fto/get_ready_for_fuckery_as_glacial_capital_is/](https://www.reddit.com/r/GME/comments/nf2fto/get_ready_for_fuckery_as_glacial_capital_is/)
 
 
 Edit* this is purely speculation.  I apologize for the title making it seem like fact.  Also do not attempt to day trade as nobody really knows how the price action will until well it happens and selling will only aid the constant short attacks that keep the price below 180 as of rn.

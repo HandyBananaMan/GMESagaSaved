@@ -1,5 +1,6 @@
-# Author: myFIREjourney
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/](https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/)
+#Title: NOTICE OF LIQUIDATION (i.e. Morgan Stanley and JPMorgan) - How do you best tell a fund or company is going to be liquidated?
+#Author: myFIREjourney
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/](https://www.reddit.com/r/Superstonk/comments/n0i5et/notice_of_liquidation_ie_morgan_stanley_and/)
 
 
 **Edit:** Marked as Discussion for now. Let me know if flair needs to be updated. Also will try to update with more info on the filings including CIK details so everyone can find the filings. Added images in the body of the post in case you guys couldn't see the various examples from the Imgur link.
@@ -14,17 +15,17 @@ Any tips of other things to look for to try to spot a company under financial â€
 
 &#x200B;
 
-Image Source: [https://imgur.com/gallery/jOMYThR](https://imgur.com/gallery/jOMYThR)
+Image Source: ![https://imgur.com/gallery/jOMYThR](https://imgur.com/gallery/jOMYThR)
 
 &#x200B;
 
-[2. JPMorgan International Advantage Fund](https://preview.redd.it/bsf2hajw2yv61.png?width=828&format=png&auto=webp&s=c090a642df938a455bd8e603d1e6cc70cd7f9cfe)
+![2. JPMorgan International Advantage Fund](https://preview.redd.it/bsf2hajw2yv61.png?width=828&format=png&auto=webp&s=c090a642df938a455bd8e603d1e6cc70cd7f9cfe)
 
 &#x200B;
 
 &#x200B;
 
-[3. Absolut Shares Trust](https://preview.redd.it/it3tksk13yv61.png?width=828&format=png&auto=webp&s=39192ca3cee7cfbc91510248057d67e82889108d)
+![3. Absolut Shares Trust](https://preview.redd.it/it3tksk13yv61.png?width=828&format=png&auto=webp&s=39192ca3cee7cfbc91510248057d67e82889108d)
 
 &#x200B;
 

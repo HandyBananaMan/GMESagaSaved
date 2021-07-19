@@ -1,10 +1,11 @@
-# Author: flaming_pope
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/](https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/)
+#Title: ||The Endgame ||- connecting the dots.
+#Author: flaming_pope
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/](https://www.reddit.com/r/Superstonk/comments/ob9s4s/the_endgame_connecting_the_dots/)
 
 
 &#x200B;
 
-[It's all coming together!](https://preview.redd.it/plzxtv2zqh871.jpg?width=1112&format=pjpg&auto=webp&s=2ebb298b1ec7f8ca6b1b36b3f632fffa743f008e)
+![It's all coming together!](https://preview.redd.it/plzxtv2zqh871.jpg?width=1112&format=pjpg&auto=webp&s=2ebb298b1ec7f8ca6b1b36b3f632fffa743f008e)
 
 **Here I try to combine all the great DD found here on this sub, and try to distill the final endgame from the available DD.**
 
@@ -229,7 +230,7 @@ So if we assume the GameCoin will be used as a dividend, when does GameStop need
 
 10 calendar days prior to date of record - July 4th.
 
-[Solve the Anagrams, Win a prize!](https://preview.redd.it/3g70o8r8rh871.png?width=598&format=png&auto=webp&s=0b91f4f32348122b51e49c64ecf16848e9fa3758)
+![Solve the Anagrams, Win a prize!](https://preview.redd.it/3g70o8r8rh871.png?width=598&format=png&auto=webp&s=0b91f4f32348122b51e49c64ecf16848e9fa3758)
 
 //
 
@@ -243,7 +244,7 @@ https://preview.redd.it/4ogw319arh871.png?width=921&format=png&auto=webp&s=83a28
 
 **TECHNICAL REASONS FOR MOASS**
 
-I want to give a shout out to Reddit-censored youtuber\*\*. Who's most of the time down to earth. In one of his more recent summaries found ![here](https://www.youtube.com/watch?v=WCSb61wD7aM) he made an interesting observation.
+I want to give a shout out to Reddit-censored youtuber\*\*. Who's most of the time down to earth. In one of his more recent summaries found [here](https://www.youtube.com/watch?v=WCSb61wD7aM) he made an interesting observation.
 
 There are bullish technical indicators all around indicating huge suppression and fuckery, as of late.
 

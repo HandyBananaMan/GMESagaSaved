@@ -1,5 +1,6 @@
-# Author: BuddyTheDog92
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n20qxs/13_million_dollars_in_deep_itm_puts_were_just/](https://www.reddit.com/r/Superstonk/comments/n20qxs/13_million_dollars_in_deep_itm_puts_were_just/)
+#Title: 13 million dollars in deep ITM puts were just bought. This likely explains the drop from 180 to 175
+#Author: BuddyTheDog92
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n20qxs/13_million_dollars_in_deep_itm_puts_were_just/](https://www.reddit.com/r/Superstonk/comments/n20qxs/13_million_dollars_in_deep_itm_puts_were_just/)
 
 
 I've been watching options chain all day and someone just spent over 13 millions dollars in deep in the money puts ($300 puts expiring today). This probably explains the drop from 180 to 175. Hopefully we see a reversal of that trend in power hour!

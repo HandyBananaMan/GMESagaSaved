@@ -1,5 +1,6 @@
-# Author: iLoveCramer
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nw8a72/the_gme_board_just_gave_themselves_an_infinite/](https://www.reddit.com/r/DDintoGME/comments/nw8a72/the_gme_board_just_gave_themselves_an_infinite/)
+#Title: The GME board just gave themselves an infinite money glitch.
+#Author: iLoveCramer
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nw8a72/the_gme_board_just_gave_themselves_an_infinite/](https://www.reddit.com/r/DDintoGME/comments/nw8a72/the_gme_board_just_gave_themselves_an_infinite/)
 
 
 This is just a theory and speculation as such, feel free to post your opinions as to whether it's right or not. 

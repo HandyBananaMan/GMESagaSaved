@@ -1,5 +1,6 @@
-# Author: myplayprofile
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/)
+#Title: 6/1/2021 Trading - Deeper Dive Into the Tape and Updated Analysis from 5/27
+#Author: myplayprofile
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/](https://www.reddit.com/r/Superstonk/comments/nq5xf8/612021_trading_deeper_dive_into_the_tape_and/)
 
 
 The correlation between the movies and GME continues to breakdown. I originally posted on 5/27 taking a look into this, and have made an update to the models since then. I've copied the original analysis and included the original post at the end. This does mention the movies, but is very much a GME story, and in no way is financial advice. My 🧠 is smooth.
@@ -10,7 +11,7 @@ Since the 5/26 close, AMC has significantly outperformed GME and other "meme" st
 
 &#x200B;
 
-[6\/1 Update - Plot of AMC and GME closing prices - R\(square\)= .625](https://preview.redd.it/0hl7n1nazp271.png?width=726&format=png&auto=webp&s=51b088cc255891714c87fa7dfe76e2ccb30177fe)
+![6\/1 Update - Plot of AMC and GME closing prices - R\(square\)= .625](https://preview.redd.it/0hl7n1nazp271.png?width=726&format=png&auto=webp&s=51b088cc255891714c87fa7dfe76e2ccb30177fe)
 
 This is a massive decrease in the strong correlation that has held all year over the last three trading days and will have lasting implications to HF risk management, especially a fund that is short GME. I will touch on Kenny/Shitadel in a bit, but it is important to understand they are not the only fund short GME, and after 3 straight days of the correlation between the two stonks breaking down, **any fund using AMC as a hedge against a GME short will now have to either reduce their short GME exposure by 20%, increase AMC long by 20%, or some combination of the 2 to avoid blowing out their VaR (Value at Risk).** It's important to realize, this type of risk management adjustment is more applicable to HF that take positions for short to intermediate/long term trades, and not to high frequency trading shops that take positions for microseconds at a time, such as 💩a🔔 and other MM with HFT algos.
 
@@ -18,7 +19,7 @@ This is a massive decrease in the strong correlation that has held all year over
 
 Now, what has caught my attention over the last few days is the impact of after hours/pre market moves that have contributed to the outperformance of AMC over GME, and during regular trading hours the algos are still very much tuned to maintain almost a tick for tick movement in AMC and GME. Even more interesting, **AMC seemed to lead each area I have circled in pink below** \-
 
-[6\/1 Minute Candles of GME & AMC, Pink Circles Highlight Algo Control](https://preview.redd.it/cik94qa63q271.png?width=762&format=png&auto=webp&s=ced056a2917d50aa727edec577ad81088e6127b8)
+![6\/1 Minute Candles of GME & AMC, Pink Circles Highlight Algo Control](https://preview.redd.it/cik94qa63q271.png?width=762&format=png&auto=webp&s=ced056a2917d50aa727edec577ad81088e6127b8)
 
 So, what does this mean? There is clear evidence in the tape that market makers, aka SHITADEL, are still VERY interested in maintaining the trading correlation between the two securities. I believe this is a primary function of the legacy correlation between the 2 stonks that held up until last week combined with AMC's massive volume compared to GME and the fact the HFT algo's can sniff out incoming GME price spikes because they handle 50% of all retail orders. They use that info to front run AMC higher to remain indirectly hedged against their GME short to keep Marge from picking up her 🍌 phone that has 💩a🔔 on speed dial. Also, I think the reason the MSM has been ALL OVER the AMC rally and continues to pump the story is to keep GME FOMO somewhat at bay.
 
@@ -32,7 +33,7 @@ EDIT1: Forgot to include chart of GME modeled price using AMC price input. Notic
 
 &#x200B;
 
-[Actual GME Price Shown by Solid Black, Modeled Price in Dashed Blue;    GME\(model\)=\(AMC\)\*11.751+29.3](https://preview.redd.it/jii3dzxicq271.png?width=748&format=png&auto=webp&s=8da361c2175caa34112ae57bcf6460ae498add26)
+![Actual GME Price Shown by Solid Black, Modeled Price in Dashed Blue;    GME\(model\)=\(AMC\)\*11.751+29.3](https://preview.redd.it/jii3dzxicq271.png?width=748&format=png&auto=webp&s=8da361c2175caa34112ae57bcf6460ae498add26)
 
 &#x200B;
 
@@ -48,7 +49,7 @@ Now its time for the tea. It is widely accepted by 🦍 and onlookers that GME h
 
 &#x200B;
 
-[Plot of AMC and GME closing prices - R\^2 = .7163](https://preview.redd.it/r5krynlkwp271.png?width=726&format=png&auto=webp&s=22f30cc851f4bd5a46ec61d9a9370dca111e596d)
+![Plot of AMC and GME closing prices - R\^2 = .7163](https://preview.redd.it/r5krynlkwp271.png?width=726&format=png&auto=webp&s=22f30cc851f4bd5a46ec61d9a9370dca111e596d)
 
 &#x200B;
 
@@ -56,7 +57,7 @@ AMC is not the only other "meme" stock that looks like this. Here is another exa
 
 &#x200B;
 
-[Plot of KOSS and GME Closing Prices - R\^2 = .6368](https://preview.redd.it/0pbwvaymwp271.png?width=729&format=png&auto=webp&s=27ecec85d4435b9a79ca6f7be602af99b7556747)
+![Plot of KOSS and GME Closing Prices - R\^2 = .6368](https://preview.redd.it/0pbwvaymwp271.png?width=729&format=png&auto=webp&s=27ecec85d4435b9a79ca6f7be602af99b7556747)
 
 &#x200B;
 
@@ -64,7 +65,7 @@ I'll come back to KOSS soon, but for now I am going to dig a bit deeper into wha
 
 &#x200B;
 
-[Actual GME Price Shown by Solid Black, Modeled Price in Dashed Blue](https://preview.redd.it/001vwgvowp271.png?width=748&format=png&auto=webp&s=0fe8bc6c98924efe2249b4ee2bcaa864eed82b8a)
+![Actual GME Price Shown by Solid Black, Modeled Price in Dashed Blue](https://preview.redd.it/001vwgvowp271.png?width=748&format=png&auto=webp&s=0fe8bc6c98924efe2249b4ee2bcaa864eed82b8a)
 
 &#x200B;
 
@@ -76,7 +77,7 @@ Now this is just theory, but if it looks like 💩, smells like 💩, and trades
 
 &#x200B;
 
-[Citadel 13F showing 724,599 AMC shares](https://preview.redd.it/r4n1qhc5jq271.png?width=2509&format=png&auto=webp&s=37f8dde0e63e97d19d75b82bdd8ce486575ff332)
+![Citadel 13F showing 724,599 AMC shares](https://preview.redd.it/r4n1qhc5jq271.png?width=2509&format=png&auto=webp&s=37f8dde0e63e97d19d75b82bdd8ce486575ff332)
 
 &#x200B;
 
@@ -84,7 +85,7 @@ Interestingly, I wanted to drill down a bit more on what the AMC-GME relationshi
 
 &#x200B;
 
-[Plot of AMC and GME closing prices - R\^2 = .7932](https://preview.redd.it/988uo3s3jq271.png?width=726&format=png&auto=webp&s=9cd4eb5cfb5292cc13162e9924dae9ec2b5c95fd)
+![Plot of AMC and GME closing prices - R\^2 = .7932](https://preview.redd.it/988uo3s3jq271.png?width=726&format=png&auto=webp&s=9cd4eb5cfb5292cc13162e9924dae9ec2b5c95fd)
 
 &#x200B;
 

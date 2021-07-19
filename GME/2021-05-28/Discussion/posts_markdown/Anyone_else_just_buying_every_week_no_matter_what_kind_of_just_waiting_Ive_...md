@@ -1,5 +1,6 @@
-# Author: Post2016Sucks
-# Post URL: [https://www.reddit.com/r/GME/comments/nn1ch2/anyone_else_just_buying_every_week_no_matter_what/](https://www.reddit.com/r/GME/comments/nn1ch2/anyone_else_just_buying_every_week_no_matter_what/)
+#Title: Anyone else just buying every week no matter what, kind of just waiting? I’ve read so much DD I’m just waiting for my 25 million per share payout.
+#Author: Post2016Sucks
+#Post URL: [https://www.reddit.com/r/GME/comments/nn1ch2/anyone_else_just_buying_every_week_no_matter_what/](https://www.reddit.com/r/GME/comments/nn1ch2/anyone_else_just_buying_every_week_no_matter_what/)
 
 
 Literally the title. 

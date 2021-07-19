@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
+#Title: THE MOTHER OF ALL WEDGES: AN ENDGAME DD. Technical and Fundamental Analysis with Warden. Where we are now, where we are headed. When might the MOASS begin?
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/](https://www.reddit.com/r/Superstonk/comments/n5me5g/the_mother_of_all_wedges_an_endgame_dd_technical/)
 
 
 Hey everyone! It's Warden. I'm taking a brief moment to write a chart analysis post because **I feel that we are nearing a critical junction point**. The volume today has been extremely low, currently sitting at around 1.7 million, and I feel that a lot of people are sensing that something big is coming. I've emptied the rest of my bank account into the dip today to buy more tickets to the moon.
@@ -62,11 +63,11 @@ Notice how throughout the entire duration of this triangle, OBV is flat. On Bala
 
 Take a look at a normal stock like Palantir. When a short thesis is valid, the price breaks out to the downside after the Apex. Palantir in the below picture, was a short side success. **Notice how OBV falls during a short side success.**
 
-[PLTR](https://preview.redd.it/s5d0jawj4cx61.png?width=2067&format=png&auto=webp&s=6b2ca4791a1926035b777a5bdb783853333482ac)
+![PLTR](https://preview.redd.it/s5d0jawj4cx61.png?width=2067&format=png&auto=webp&s=6b2ca4791a1926035b777a5bdb783853333482ac)
 
 Or Activision. In this case, **OBV goes up when the longs win.**
 
-[ATVI](https://preview.redd.it/vf7mgxbz3cx61.png?width=2061&format=png&auto=webp&s=b7ad83288ae0ff764c1127ace082cb58edfb8d31)
+![ATVI](https://preview.redd.it/vf7mgxbz3cx61.png?width=2061&format=png&auto=webp&s=b7ad83288ae0ff764c1127ace082cb58edfb8d31)
 
 **I challenge you to find a stock that doesn't follow these rules on a macro level timescale.**
 
@@ -76,7 +77,7 @@ When there is an imbalance of buyers and sellers, at the Apex of the triangle, t
 
 So what about a flat OBV?
 
-[GME](https://preview.redd.it/0cidbb045cx61.png?width=2061&format=png&auto=webp&s=f79cf98e9860e4b76b95632c0d12fbb8cae66c1b)
+![GME](https://preview.redd.it/0cidbb045cx61.png?width=2061&format=png&auto=webp&s=f79cf98e9860e4b76b95632c0d12fbb8cae66c1b)
 
 I believe it means that throughout the duration of the wedge starting 2/24, nobody was f\*king selling. It was almost exclusively shorts short selling combined by less covering than shorting and retail buying in.
 
@@ -96,7 +97,7 @@ The problem is we see consistent higher buy:sell ratio, meaning that more people
 
 Furthermore, what's even worse, is that the daily short volume percent is greater than 50% on average.
 
-u/dinghino crunched FINRA's own short volume numbers and concluded that the majority of daily volume was short selling. Here's his tool for grabbing historical data: ![https://github.com/dinghino/stocks-historical-data](https://github.com/dinghino/stocks-historical-data)
+u/dinghino crunched FINRA's own short volume numbers and concluded that the majority of daily volume was short selling. Here's his tool for grabbing historical data: [https://github.com/dinghino/stocks-historical-data](https://github.com/dinghino/stocks-historical-data)
 
 https://preview.redd.it/f9ofzm1x7cx61.png?width=2098&format=png&auto=webp&s=1370117bc4f55b069038b4c670422e01e3175ff1
 

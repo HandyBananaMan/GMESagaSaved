@@ -1,5 +1,6 @@
-# Author: beltandsuspenders1
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n3w8cn/gamestop_expands_fulfillment_network_with_new/](https://www.reddit.com/r/DDintoGME/comments/n3w8cn/gamestop_expands_fulfillment_network_with_new/)
+#Title: GameStop Expands Fulfillment Network with New Facility in York, Pennsylvania
+#Author: beltandsuspenders1
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n3w8cn/gamestop_expands_fulfillment_network_with_new/](https://www.reddit.com/r/DDintoGME/comments/n3w8cn/gamestop_expands_fulfillment_network_with_new/)
 
 
 New 700,000 Square Foot Site to Support Transformation
@@ -29,4 +30,4 @@ or
 
 Profile  
 Greg Marose / Charlotte Kiaie  
-![gamestop@profileadvisors.com](https://www.globenewswire.com/Tracker?data=EUqtudzJfxdpho_lBo8bSjVEb0MNuMI3Tt8EInoitvKaJ-bzxYDFmWif_p8lEUbGYGe0AOenhfDtsHWaVXZRZ5KxvvJfpzgSHgoABJqI1YlcAcyHYXx-80V-sa71r6W9)
+[gamestop@profileadvisors.com](https://www.globenewswire.com/Tracker?data=EUqtudzJfxdpho_lBo8bSjVEb0MNuMI3Tt8EInoitvKaJ-bzxYDFmWif_p8lEUbGYGe0AOenhfDtsHWaVXZRZ5KxvvJfpzgSHgoABJqI1YlcAcyHYXx-80V-sa71r6W9)

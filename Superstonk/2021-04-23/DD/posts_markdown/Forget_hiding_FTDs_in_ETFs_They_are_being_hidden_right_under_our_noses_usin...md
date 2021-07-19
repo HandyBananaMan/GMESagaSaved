@@ -1,5 +1,6 @@
-# Author: Metro_Jocks
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwx5nk/forget_hiding_ftds_in_etfs_they_are_being_hidden/](https://www.reddit.com/r/Superstonk/comments/mwx5nk/forget_hiding_ftds_in_etfs_they_are_being_hidden/)
+#Title: Forget hiding FTD's in ETF's. They are being hidden right under our noses using the Continuous Net Settlement System.
+#Author: Metro_Jocks
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwx5nk/forget_hiding_ftds_in_etfs_they_are_being_hidden/](https://www.reddit.com/r/Superstonk/comments/mwx5nk/forget_hiding_ftds_in_etfs_they_are_being_hidden/)
 
 
 So I just finished watching The Wall Street Conspiracy and I decided I wanted to dig a bit deeper to understand how naked short selling works. I highly suggest you watch the documentary as I found it really helpful to understand how hedge funds attack companies to achieve the Bankruptcy Jackpot. Link [https://www.youtube.com/watch?v=Kpyhnmd-ZbU&amp;ab\_channel=Alven1111](https://www.youtube.com/watch?v=Kpyhnmd-ZbU&amp;ab_channel=Alven1111)
@@ -24,7 +25,7 @@ So 52% FTD in 2003 and they were only forced to buy in 0.12% of the time (rememb
 
 &amp;#x200B;
 
-[I believe the T+3 is out of date and it's now T+2](https://preview.redd.it/fjhow3lkcxu61.png?width=733&amp;format=png&amp;auto=webp&amp;s=8db102a7ad5b736e054ac0bb8ae626357b02eabc)
+![I believe the T+3 is out of date and it's now T+2](https://preview.redd.it/fjhow3lkcxu61.png?width=733&amp;format=png&amp;auto=webp&amp;s=8db102a7ad5b736e054ac0bb8ae626357b02eabc)
 
 &amp;#x200B;
 
@@ -70,7 +71,7 @@ The worst part about this whole thing is that the big boys are fucking around in
 
 Link to full article
 
-![https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf](https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf)
+[https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf](https://csbweb01.uncw.edu/people/moffettc/about/Research%20Papers/IIJ-JOT-BROOKS.pdf)
 
 As usual, the real DD will be in the comments so please discuss, correct and criticise!
 

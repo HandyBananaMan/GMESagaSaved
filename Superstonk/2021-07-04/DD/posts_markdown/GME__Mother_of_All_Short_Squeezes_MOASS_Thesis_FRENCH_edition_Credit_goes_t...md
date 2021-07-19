@@ -1,5 +1,6 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/)
+#Title: $GME – “Mother of All Short Squeezes” (MOASS) Thesis, FRENCH edition. Credit goes to a rogue lurker ape that I was to only refer to publicly as "The Baguette Guy". So, for our French Audience, you have The Baguette Guy to thank for this translation. Prendre Plaisir (Enjoy) 😎
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/](https://www.reddit.com/r/Superstonk/comments/odpdde/gme_mother_of_all_short_squeezes_moass_thesis/)
 
 
 [Marianne Jacked to the Tits](https://images.app.goo.gl/Kc53NoW8amUEY7QJ6)
@@ -556,7 +557,7 @@ ce qui les met en défaut
 
 8. Les [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp)
 
-Si les Prime Brokers ne peuvent pas les couvrir et sont également en défaut, la NSCC sera la suivante à tenter de régler toutes les positions restantes sur la base de son ![plan de redressement et de liquidation (p42).](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+Si les Prime Brokers ne peuvent pas les couvrir et sont également en défaut, la NSCC sera la suivante à tenter de régler toutes les positions restantes sur la base de son [plan de redressement et de liquidation (p42).](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 
 9. Si la NSCC ne peut pas se permettre de tout clôturer avec l'argent réservé à ce type de situation, la Fed doit gérer les positions restantes (potentiellement via l'impression d'argent/le renflouement).
 

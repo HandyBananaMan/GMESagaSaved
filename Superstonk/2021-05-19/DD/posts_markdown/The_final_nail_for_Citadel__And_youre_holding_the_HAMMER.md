@@ -1,5 +1,6 @@
-# Author: gmorgan99
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/)
+#Title: The final nail for Citadel – And you’re holding the HAMMER!!! 🚀
+#Author: gmorgan99
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/](https://www.reddit.com/r/Superstonk/comments/nghov2/the_final_nail_for_citadel_and_youre_holding_the/)
 
 
 This is a summary of what we have discovered:
@@ -154,7 +155,7 @@ A 41% increase before they blew up and were liquidated.
 
 005 rule shows up and Bitcoin tanks. ([coinmarketcap.com](http://coinmarketcap.com/))
 
-![https://mf.freddiemac.com/about/our-leaders.html#koontzModal](https://mf.freddiemac.com/about/our-leaders.html#koontzModal)
+[https://mf.freddiemac.com/about/our-leaders.html#koontzModal](https://mf.freddiemac.com/about/our-leaders.html#koontzModal)
 
 TLDR: Citadel go DUURRRR. GME go BRRRR.For more please, It is strongly recommended that you continue to do research, as this information is so broad to try and cover, and understand. Knowledge and transparency is highly encouraged🦍🦍🦍🦍❤️🍌🚀
 

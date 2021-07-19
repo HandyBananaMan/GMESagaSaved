@@ -1,5 +1,6 @@
-# Author: Pop-Tart_Rabies_Monk
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/)
+#Title: Beware of Passive Investing (Index Funds and ETFs) Post-MOASS - Growing Wrinkles with Michael Burry, weekend of June 11th 2021
+#Author: Pop-Tart_Rabies_Monk
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/](https://www.reddit.com/r/Superstonk/comments/ny9rxv/beware_of_passive_investing_index_funds_and_etfs/)
 
 
 APES. What a week it has been. We saw some gains. We had them taken away. [We felt woozy.](https://mobile.twitter.com/TheRoaringKitty/status/1403060736889344004) But we HODLd. And we dealt with some serious uncertainty with the shareholder meeting on Wednesday, and the flurry of new info from GameStop. I don't know about you, but it felt pretty shilly in here. Give the shills credit - they tried sooo hard! But we apes are strong together.
@@ -16,7 +17,7 @@ We begin this week, just as we did last week, with a tweet by Burry.
 
 &#x200B;
 
-[February 21st Tweet](https://preview.redd.it/urkvn2b0lu471.jpg?width=1100&format=pjpg&auto=webp&s=b3070056e7884a100e9bcbb7ffb05ef1999c379c)
+![February 21st Tweet](https://preview.redd.it/urkvn2b0lu471.jpg?width=1100&format=pjpg&auto=webp&s=b3070056e7884a100e9bcbb7ffb05ef1999c379c)
 
 There's a lot going on in this one. Look at it as long as you need to. Took me a while too.
 
@@ -26,7 +27,7 @@ I looked up the version of this chart that has been updated as of April 2021. He
 
 &#x200B;
 
-[S&P 500 vs Margin Debt](https://preview.redd.it/319eyr6olu471.png?width=1379&format=png&auto=webp&s=d222cf2abf998786a7bdf2da33f352c55628eae2)
+![S&P 500 vs Margin Debt](https://preview.redd.it/319eyr6olu471.png?width=1379&format=png&auto=webp&s=d222cf2abf998786a7bdf2da33f352c55628eae2)
 
 Now, at first glance this set off a couple of bells in my mind. First was an [interview I heard with Steve Eisman](https://youtu.be/NJodqhzqPKQ) (the real-life Mark Baum from The Big Short - the part in question starts around 13:00). He said that, leading up to 2008, the biggest of the idiots "mistook leverage for genius." Leverage, by the way, = margin debt. Is it concerning to you that the S&P 500, which is one of the key indices of the stock market, only seems to go up on the strength of margin debt? Doesn't seem like the best foundation for financial growth, IDK. And margin debt is spiking like crazy ever since the end of 2020, as the chart shows (sidenote: what situation do we know of that has seen big players in Wall Street taking on tons and tons of margin debt? And I can't remember, does that situation seem to have an inverse relationship with the S&P 500? 🤔)
 
@@ -52,7 +53,7 @@ Well, dear ape, let me put it to you this way. Look at the chart of the S&P 500 
 
 &#x200B;
 
-[Ruh roh](https://preview.redd.it/ctv95wgqqu471.png?width=1549&format=png&auto=webp&s=19461c245c1989cb8654e5ed872d664e36213eec)
+![Ruh roh](https://preview.redd.it/ctv95wgqqu471.png?width=1549&format=png&auto=webp&s=19461c245c1989cb8654e5ed872d664e36213eec)
 
 See how right after the Covid dip, the price starts to take a parabolic turn north? Does that look natural to you? Can you think of anything natural in the economy that would have happened since then to bring about that growth? Or does it seem more likely to you that it is just the result of quantitative easing, inflation, and stimulus checks trapped in the market? (sidenote: I am NOT placing the blame for this on either of the parties that introduced stimulus checks into the economy, nor am I placing blame on people like you and me who invested them into the market. I am just saying that it is delaying the inevitable.) Does that look like a natural recovery, or does it look like the market was given a shot of a steroid and now it feels great even though it is dying? (dark, I know... sorry)
 
@@ -64,13 +65,13 @@ ETFs and Index funds hurt price discovery in the market because the businesses i
 
 &#x200B;
 
-[Technology](https://preview.redd.it/515d36poru471.png?width=994&format=png&auto=webp&s=fd009526e6a8b00f01e274d6223bcc707c70b32d)
+![Technology](https://preview.redd.it/515d36poru471.png?width=994&format=png&auto=webp&s=fd009526e6a8b00f01e274d6223bcc707c70b32d)
 
-[Energy](https://preview.redd.it/00v3e4rsru471.png?width=990&format=png&auto=webp&s=34395dedf841a62efafad015d607a662679f6e8d)
+![Energy](https://preview.redd.it/00v3e4rsru471.png?width=990&format=png&auto=webp&s=34395dedf841a62efafad015d607a662679f6e8d)
 
-[Airline](https://preview.redd.it/alnhlbuxru471.png?width=1025&format=png&auto=webp&s=f89fd9dc4927e3bd944155200594321b87e691c1)
+![Airline](https://preview.redd.it/alnhlbuxru471.png?width=1025&format=png&auto=webp&s=f89fd9dc4927e3bd944155200594321b87e691c1)
 
-[Manufacturing](https://preview.redd.it/zsibrimvru471.png?width=1020&format=png&auto=webp&s=4adb3fcc71341df58db32d90e5309c4cb94ad69b)
+![Manufacturing](https://preview.redd.it/zsibrimvru471.png?width=1020&format=png&auto=webp&s=4adb3fcc71341df58db32d90e5309c4cb94ad69b)
 
 ![Retail](https://preview.redd.it/nswxamgzru471.png?width=1073&format=png&auto=webp&s=5e2ca05a6da8dfb73ed636101a8a4b6bb192d850)
 

@@ -1,5 +1,6 @@
-# Author: ahh_soy
-# Post URL: [https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/](https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/)
+#Title: Serious Researchers Needed Now: I think I know What Happened
+#Author: ahh_soy
+#Post URL: [https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/](https://www.reddit.com/r/GME/comments/ljwo3v/serious_researchers_needed_now_i_think_i_know/)
 
 
 **SCROLL DOWN FOR THE ORIGINAL POST**
@@ -52,7 +53,7 @@ Also, Coraua in the comments section mentioned a great interview with a Billiona
 
 &#x200B;
 
-[Data Gathered and Image created by u\/overTheCounterHustle](https://preview.redd.it/kqcj6lyirsh61.png?width=1064&format=png&auto=webp&s=5b8cec520723c05673ec2215a50b2d8b660bf4e1)
+![Data Gathered and Image created by u\/overTheCounterHustle](https://preview.redd.it/kqcj6lyirsh61.png?width=1064&format=png&auto=webp&s=5b8cec520723c05673ec2215a50b2d8b660bf4e1)
 
 Notice if you will how the outstanding shares in XRT went down dramatically during the spike. That means the amount of shares that exist decreased. They chopped up shares to get the GME out. Then they bought GME back and created more and then shorted the hell out of it.
 
@@ -62,7 +63,7 @@ Like I said before about the boys on Wall Street: balls of steel. But while they
 
 Next on our list is this little gem...
 
-[Sent to me by another redditor whose name I lost. Please contact me if you want credit for this find. Sorry about that, it gets confusing with so much going on.](https://preview.redd.it/dhcfkktetsh61.png?width=2076&format=png&auto=webp&s=09e8a3d2b8b59bb02c0ae8d3da18e40b6f0dcec6)
+![Sent to me by another redditor whose name I lost. Please contact me if you want credit for this find. Sorry about that, it gets confusing with so much going on.](https://preview.redd.it/dhcfkktetsh61.png?width=2076&format=png&auto=webp&s=09e8a3d2b8b59bb02c0ae8d3da18e40b6f0dcec6)
 
 Anyway, in case there was any doubt that the GME spike was indeed causing the ETF's that it is in to move with it. These are all ETF's with GME in them except for AMC at the top. Why does AMC behave the same way? We still don't know!
 
@@ -112,7 +113,7 @@ Next Update we'll look at the theory about counterfeiting shares and all of that
 
 &#x200B;
 
-[Battle of GameStop](https://preview.redd.it/r9zqwv1jysh61.jpg?width=1200&format=pjpg&auto=webp&s=7a889f68bfe6e79565f405e7f5d98d34e17aa55f)
+![Battle of GameStop](https://preview.redd.it/r9zqwv1jysh61.jpg?width=1200&format=pjpg&auto=webp&s=7a889f68bfe6e79565f405e7f5d98d34e17aa55f)
 
 check out my personal sub if you want it's called
 
@@ -212,7 +213,7 @@ Now, there is a thing called an AP which means an Authorized Participant.
 
 A ETF's AP is allowed to buy the underlying stocks that make up the ETF and then create new shares of  that ETF, but they are also allowed to  take existing shares of the ETF and liquidate them back into their   original stocks. Read this:
 
-![https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf)
+[https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf](https://jacobslevycenter.wharton.upenn.edu/wp-content/uploads/2018/08/ETF-Short-Interest-and-Failures-to-Deliver.pdf)
 
 Now, XRT went ON the threshold list on January \[edit: 29th\] and has remained there to this very day! That is the same day that the hedgefunds supposedly covered most of their short positions and the GME spike started to drop as well as about the same time the brokers stopped letting us buy!
 

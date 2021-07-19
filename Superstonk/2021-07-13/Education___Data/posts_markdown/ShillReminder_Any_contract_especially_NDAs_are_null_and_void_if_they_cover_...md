@@ -1,5 +1,6 @@
-# Author: kerenski667
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrkhd/shillreminder_any_contract_especially_ndas_are/](https://www.reddit.com/r/Superstonk/comments/ojrkhd/shillreminder_any_contract_especially_ndas_are/)
+#Title: ShillReminder: Any contract, especially NDAs are null and void if they cover criminal activity. SEC whistleblower awards are quite handsome. So why be shillin when you could be chillin (with a couple million $)?
+#Author: kerenski667
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrkhd/shillreminder_any_contract_especially_ndas_are/](https://www.reddit.com/r/Superstonk/comments/ojrkhd/shillreminder_any_contract_especially_ndas_are/)
 
 
 As the title says, this one goes out once again to all the shills in the rafters.
@@ -12,7 +13,7 @@ Under the SEC Whistleblower Program, the SEC is required to pay awards to eligib
 
 So why get paid pennies on the $ for browsing reddit spreading FUD, when you could just be browsing reddit, but in your very own mansion?
 
-![Would you like to know more?](https://www.sec.gov/whistleblower/frequently-asked-questions)
+[Would you like to know more?](https://www.sec.gov/whistleblower/frequently-asked-questions)
 
 Also, a hearty fuck you <3
 

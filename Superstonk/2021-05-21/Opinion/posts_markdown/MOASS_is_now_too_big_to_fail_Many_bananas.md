@@ -1,5 +1,6 @@
-# Author: WeaselStink
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ni83i9/moass_is_now_too_big_to_fail_many_bananas/](https://www.reddit.com/r/Superstonk/comments/ni83i9/moass_is_now_too_big_to_fail_many_bananas/)
+#Title: MOASS is now too big to fail. Many bananas.
+#Author: WeaselStink
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ni83i9/moass_is_now_too_big_to_fail_many_bananas/](https://www.reddit.com/r/Superstonk/comments/ni83i9/moass_is_now_too_big_to_fail_many_bananas/)
 
 
 **People all over the WORLD have made the MOASS too big to fail.**

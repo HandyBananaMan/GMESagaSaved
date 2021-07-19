@@ -1,5 +1,6 @@
-# Author: taliskergunn
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/](https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/)
+#Title: How much volume are you hiding in your shorts? A history of GME’s biggest events on a minute-by-minute scale
+#Author: taliskergunn
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/](https://www.reddit.com/r/Superstonk/comments/of8tvx/how_much_volume_are_you_hiding_in_your_shorts_a/)
 
 
  Hello everyone!   
@@ -186,7 +187,7 @@ Volume - 93.4 Million - 1% = 934k
 
 This has to be one of my favourite pictures of all time
 
-[Minute - Open - High - Low - Close - Volume](https://preview.redd.it/yzpda2d0co971.jpg?width=1242&format=pjpg&auto=webp&s=c789e217c3020e00e527df7070d438155128998f)
+![Minute - Open - High - Low - Close - Volume](https://preview.redd.it/yzpda2d0co971.jpg?width=1242&format=pjpg&auto=webp&s=c789e217c3020e00e527df7070d438155128998f)
 
 Yeah just your casual price spread of $185.47, no big deal, classic GME am I right?
 
@@ -236,7 +237,7 @@ None for the rest of the day and we close out pretty high - this shit is weak an
 
 &#x200B;
 
-[The weekend came, that's kinda boring huh, can't believe weekends are now the not fun part of the week](https://preview.redd.it/qb4cnkjvjo971.jpg?width=225&format=pjpg&auto=webp&s=8f69a0d82c1a194061b3f9915baac83f2575e1f1)
+![The weekend came, that's kinda boring huh, can't believe weekends are now the not fun part of the week](https://preview.redd.it/qb4cnkjvjo971.jpg?width=225&format=pjpg&auto=webp&s=8f69a0d82c1a194061b3f9915baac83f2575e1f1)
 
 AND WE'RE BACK, AND IT'S FEBRUARY
 
@@ -285,7 +286,7 @@ The Squeeze was finishe-
 
 &#x200B;
 
-[ slàinte everybody](https://i.redd.it/1hh26o8rno971.gif)
+![ slàinte everybody](https://i.redd.it/1hh26o8rno971.gif)
 
 ***Part 2 - Deep Fucking Value***
 

@@ -1,5 +1,6 @@
-# Author: AJDillonsMiddleLeg
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkbo5z/a_short_tale_how_shfs_may_be_staving_off_a_margin/](https://www.reddit.com/r/Superstonk/comments/nkbo5z/a_short_tale_how_shfs_may_be_staving_off_a_margin/)
+#Title: A "Short" Tale: How SHFs may be staving off a margin call
+#Author: AJDillonsMiddleLeg
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkbo5z/a_short_tale_how_shfs_may_be_staving_off_a_margin/](https://www.reddit.com/r/Superstonk/comments/nkbo5z/a_short_tale_how_shfs_may_be_staving_off_a_margin/)
 
 
 Something clicked when I was looking at the IBKR short data that u/mendobreadth shared today, and I wanted to share with the class.

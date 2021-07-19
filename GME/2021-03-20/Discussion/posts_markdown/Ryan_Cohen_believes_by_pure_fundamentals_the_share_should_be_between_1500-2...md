@@ -1,5 +1,6 @@
-# Author: SirAlejo
-# Post URL: [https://www.reddit.com/r/GME/comments/m9bm9n/ryan_cohen_believes_by_pure_fundamentals_the/](https://www.reddit.com/r/GME/comments/m9bm9n/ryan_cohen_believes_by_pure_fundamentals_the/)
+#Title: Ryan Cohen believes by pure fundamentals the share should be between 1500-2000 USD.
+#Author: SirAlejo
+#Post URL: [https://www.reddit.com/r/GME/comments/m9bm9n/ryan_cohen_believes_by_pure_fundamentals_the/](https://www.reddit.com/r/GME/comments/m9bm9n/ryan_cohen_believes_by_pure_fundamentals_the/)
 
 
 According to RC's letter https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf He believes the share by pure fundamentals should be between 1500-2000 USD.

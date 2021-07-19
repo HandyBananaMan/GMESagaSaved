@@ -1,12 +1,13 @@
-# Author: LetsBeatTheStreet
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/](https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/)
+#Title: GameStop’s NFT Lead Designer Spike ... WAAAAYYYYYY beyond Runner game ...Check This Out!!
+#Author: LetsBeatTheStreet
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/](https://www.reddit.com/r/Superstonk/comments/ny3dkx/gamestops_nft_lead_designer_spike_waaaayyyyyy/)
 
 
-[https://i.redd.it/rd1v5lic6t471.gif](https://i.redd.it/rd1v5lic6t471.gif)
+![https://i.redd.it/rd1v5lic6t471.gif](https://i.redd.it/rd1v5lic6t471.gif)
 
 THIS! **Power to the Creators** … Runner (the DFV inspired cat game on the NFT site) only gave us a small tease of the capability they are building. Keep in mind these guys have been at this for only 2 months or so, just take a look at what the GameStop NFT Lead Designer (Spike) shared. Twitter comment from u/groovycj69 pretty funny in that reply  tweet … Apes not paying attention … come on!  Looks like Spike has few things in mind regarding NFT utility and metaverse :).
 
-Source:   ![https://twitter.com/nftspike/status/1402722217474117637](https://twitter.com/nftspike/status/1402722217474117637)
+Source:   [https://twitter.com/nftspike/status/1402722217474117637](https://twitter.com/nftspike/status/1402722217474117637)
 
 **ELIA:** 
 

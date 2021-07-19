@@ -1,5 +1,6 @@
-# Author: AnnihilationGod
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/](https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/)
+#Title: AnnihilationGod presents: The Big Short Data Collection for Everyone - Or: How to data proof irregularities in GMEs trading history for everyone (AGods GME Mastersheet + Full collection Download link at the end)
+#Author: AnnihilationGod
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/](https://www.reddit.com/r/Superstonk/comments/o3e9kg/annihilationgod_presents_the_big_short_data/)
 
 
 &#x200B;
@@ -15,7 +16,7 @@ A big issue in this whole GME situation is a lack of data. Retails just have acc
 
 I spend the last month learning everything I could about data, what data is available and how to get this free data.
 
-[Thx to  u\/hamzah604  for this great meme! :D ](https://preview.redd.it/xcsho42eb7671.jpg?width=500&format=pjpg&auto=webp&s=e0885a916b7d0d61c585208849b267e5ee30a5dd)
+![Thx to  u\/hamzah604  for this great meme! :D ](https://preview.redd.it/xcsho42eb7671.jpg?width=500&format=pjpg&auto=webp&s=e0885a916b7d0d61c585208849b267e5ee30a5dd)
 
 Yeah, RegSho. Everyone knows RegSho. But the data just goes back as far as 1 year and thats it.
 
@@ -47,9 +48,9 @@ I further organised my whole data collection, zipped it and **uploaded it on Meg
 
 One chart from the Mastersheet shall be displayed here to raise your attention for data:
 
-[Timeframe 2015-2020 - Does anyone else see a pattern? \(Source: Mastersheet\)](https://preview.redd.it/33vqk8rwi7671.png?width=2015&format=png&auto=webp&s=b084e9e2e603011ace9b5dda290b063ea2a5c737)
+![Timeframe 2015-2020 - Does anyone else see a pattern? \(Source: Mastersheet\)](https://preview.redd.it/33vqk8rwi7671.png?width=2015&format=png&auto=webp&s=b084e9e2e603011ace9b5dda290b063ea2a5c737)
 
-[Because my first calculation was like: WTF GME? This doesnt make any sense - Should compare!  \(thx to the discord dudes giving me this stock names for a comparison\). The results are - interesting - And like: WTF?](https://preview.redd.it/63t4ssmvi7671.png?width=928&format=png&auto=webp&s=d0de8c44bc70e3f9977ac0f303e49a16a46baec9)
+![Because my first calculation was like: WTF GME? This doesnt make any sense - Should compare!  \(thx to the discord dudes giving me this stock names for a comparison\). The results are - interesting - And like: WTF?](https://preview.redd.it/63t4ssmvi7671.png?width=928&format=png&auto=webp&s=d0de8c44bc70e3f9977ac0f303e49a16a46baec9)
 
 I dont know if this data set is enough to proof naked short selling with data, but if this is the case, I really would like this SEC Award! :D SEC pls?
 
@@ -69,7 +70,7 @@ Contains my entire data collection  - have fun! And pls, share it with every com
 
 &#x200B;
 
-[To the Moon!!! ](https://preview.redd.it/p2aeqok3f7671.png?width=1182&format=png&auto=webp&s=9268bc219dfd78277936ebab2edfbabd7b8835b0)
+![To the Moon!!! ](https://preview.redd.it/p2aeqok3f7671.png?width=1182&format=png&auto=webp&s=9268bc219dfd78277936ebab2edfbabd7b8835b0)
 
 Thats the part a youtuber would ask for your financial support, but I have another request:If you make money because of this data collection, you already made a fortune in stocks and you are happy to finally have some quality data - **give some money to charity.**
 
@@ -123,7 +124,7 @@ Thx SC!;) I owe you a beer!
 
 [https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article\_id=224548&navigationaction=industrynews&newssection=industry](https://www.securitiesfinancetimes.com/securitieslendingnews/industryarticle.php?article_id=224548&navigationaction=industrynews&newssection=industry)
 
-[Perhaps someone who already downloaded the collection could crosscheck this pls?](https://preview.redd.it/6ualqyhiba671.png?width=478&format=png&auto=webp&s=fc3ac5612b14a7869a9b5fe404a8dbf69a398737)
+![Perhaps someone who already downloaded the collection could crosscheck this pls?](https://preview.redd.it/6ualqyhiba671.png?width=478&format=png&auto=webp&s=fc3ac5612b14a7869a9b5fe404a8dbf69a398737)
 
 &#x200B;
 
@@ -133,6 +134,6 @@ https://preview.redd.it/9ldmzz9g8h671.jpg?width=633&format=pjpg&auto=webp&s=9c13
 
 I looked deeper into the data to understand the relationship between regular volume and short volume better. This is the result for the Timeframe 2010-2021. I am trying to increase my data collection tonight and will try to find out, if the balance had been positiv before 2010.
 
-[Chart GME](https://preview.redd.it/co0zp2cfkh671.jpg?width=4932&format=pjpg&auto=webp&s=122e4b939fb5b55473b7136e6dc4896442e66bff)
+![Chart GME](https://preview.redd.it/co0zp2cfkh671.jpg?width=4932&format=pjpg&auto=webp&s=122e4b939fb5b55473b7136e6dc4896442e66bff)
 
 ![Chart OSTK - I though it would be a good idea to use OSTK again because i already compared it above with GME. ](https://preview.redd.it/s4vay0et8i671.jpg?width=5166&format=pjpg&auto=webp&s=3a1f4b2085642b9ca0efae345e97b161c1add7cb)

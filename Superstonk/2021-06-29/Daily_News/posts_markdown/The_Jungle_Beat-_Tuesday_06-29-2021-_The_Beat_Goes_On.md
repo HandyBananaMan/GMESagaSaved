@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/](https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/)
+#Title: The Jungle Beat- Tuesday 06-29-2021- The Beat Goes On 🦍🥁💎🙌🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/](https://www.reddit.com/r/Superstonk/comments/oagesp/the_jungle_beat_tuesday_06292021_the_beat_goes_on/)
 
 
 *The Jungle Beat will be posted at 4:20 pm NYSE time every trading day!*
@@ -52,7 +53,7 @@ The apes of [r/Superstonk](https://www.reddit.com/r/Superstonk/) sincerely appre
 
 &#x200B;
 
-[credit u\/pctracer ](https://preview.redd.it/ehf9rguoh9871.png?width=718&format=png&auto=webp&s=aeec2b71eaf62016a8ec5effc9ee69734e084b7d)
+![credit u\/pctracer ](https://preview.redd.it/ehf9rguoh9871.png?width=718&format=png&auto=webp&s=aeec2b71eaf62016a8ec5effc9ee69734e084b7d)
 
 &#x200B;
 
@@ -82,7 +83,7 @@ First of all, it is in the ToA as their client that they can lend your shares. T
 
 &#x200B;
 
-[credit u\/J5T94 ](https://preview.redd.it/rs7od0n8c9871.png?width=960&format=png&auto=webp&s=1fff3acd948aee5c9ce9a7efae2c039d4300ca77)
+![credit u\/J5T94 ](https://preview.redd.it/rs7od0n8c9871.png?width=960&format=png&auto=webp&s=1fff3acd948aee5c9ce9a7efae2c039d4300ca77)
 
 &#x200B;
 
@@ -126,7 +127,7 @@ Citadel REEAAALLLLLYYYYY hates IEX apparently. This is a comment they left with 
 
 &#x200B;
 
-[credit u\/Key\_Coffee4941 ](https://preview.redd.it/egz7ymf1l8871.png?width=1125&format=png&auto=webp&s=7eb7f46863976c9efd07caf183801576caeccca3)
+![credit u\/Key\_Coffee4941 ](https://preview.redd.it/egz7ymf1l8871.png?width=1125&format=png&auto=webp&s=7eb7f46863976c9efd07caf183801576caeccca3)
 
 &#x200B;
 
@@ -208,7 +209,7 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 **IF THERE IS SOMETHING BIG GOING ON WHILE THE OUTAGE IS HAPPENING WE MAY ALSO UTILIZE THE "EMERGENCY BROADCAST SYSTEM" TO RELAY INFO:**
 
-![SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -1,18 +1,19 @@
-# Author: InForTheSqueeze
-# Post URL: [https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/](https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/)
+#Title: DD: I did the math, there is literally NO DOUBT that we own >100% of the remaining float (could be up to 1000% or even more), SHARE THIS ! 🚀
+#Author: InForTheSqueeze
+#Post URL: [https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/](https://www.reddit.com/r/GME/comments/m7x2gq/dd_i_did_the_math_there_is_literally_no_doubt/)
 
 
 Okay fellow apes, listen up, here is some fresh DD straight out of the oven to feed your confirmation bias. 🚀
 
 &#x200B;
 
-[actual footage of me feeding my confirmation bias](https://preview.redd.it/jlivhj2mttn61.png?width=454&format=png&auto=webp&s=1aa1145e82687682b56b14ab315fbb0734d47e30)
+![actual footage of me feeding my confirmation bias](https://preview.redd.it/jlivhj2mttn61.png?width=454&format=png&auto=webp&s=1aa1145e82687682b56b14ab315fbb0734d47e30)
 
 I stumbled across [this sweet little screenshot from eToro](https://www.reddit.com/r/GME/comments/m7r42a/everyone_on_etoro_is_long_on_gme/) posted by u/kapein which shows that **9.11%** of all eToro users are holding GME. (Update as of 30/03/2021: still standing at 9.02%)
 
 &#x200B;
 
-[credits to u\/kapein](https://preview.redd.it/oqd5jj2prtn61.png?width=386&format=png&auto=webp&s=0bd0a24b23e1da28f023594848891bd3a781bb46)
+![credits to u\/kapein](https://preview.redd.it/oqd5jj2prtn61.png?width=386&format=png&auto=webp&s=0bd0a24b23e1da28f023594848891bd3a781bb46)
 
 So i thought to myself, why don't we take this percentage and try to get an estimation about how many apes in total are holding GME right now and see where some variables regarding shares per ape get us. Are you exicted? Because **I AM**, LETS GO! 🚀🚀🚀
 
@@ -30,13 +31,13 @@ Okay, now that we have a vague feeling of how many GME retail investors we are, 
 
 **Scenario 1: GME-ownership of 10% for neo-brokers and 1.5% for classic investment platforms:**
 
-[&#37; of remaining float that is held by retail \(Scenario 1\)](https://preview.redd.it/eb99z717i8o61.png?width=1170&format=png&auto=webp&s=75a7195987db9ed41b8407eaa0c1e3cacc56a627)
+![&#37; of remaining float that is held by retail \(Scenario 1\)](https://preview.redd.it/eb99z717i8o61.png?width=1170&format=png&auto=webp&s=75a7195987db9ed41b8407eaa0c1e3cacc56a627)
 
 &#x200B;
 
 **Scenario 2: GME-ownership of 5% for neo-brokers and 1.5% for classic investment platforms:**
 
-[&#37; of remaining float that is held by retail \(Scenario 2\)](https://preview.redd.it/i8fahnkgi8o61.png?width=1170&format=png&auto=webp&s=0849de187deb52bafb8604c8566def34cb819714)
+![&#37; of remaining float that is held by retail \(Scenario 2\)](https://preview.redd.it/i8fahnkgi8o61.png?width=1170&format=png&auto=webp&s=0849de187deb52bafb8604c8566def34cb819714)
 
 &#x200B;
 
@@ -50,7 +51,7 @@ MELVIN AND SHITADEL WILL FUCKING EXPLODE! THERE IS **NO WAY OUT**! 🚀🚀🚀
 
 &#x200B;
 
-[retail whale has entered the chat](https://preview.redd.it/wzqwxg1s4vn61.png?width=453&format=png&auto=webp&s=17f4324686bb3fde2911574f86051e24e7e376c2)
+![retail whale has entered the chat](https://preview.redd.it/wzqwxg1s4vn61.png?width=453&format=png&auto=webp&s=17f4324686bb3fde2911574f86051e24e7e376c2)
 
 **IMPORTANT:** If you have access to more detailed data regarding number of users or even GME-ownership for a specific broker, please let me know via dm. There are too many comments here and it's hard to keep track of all of them. And please add your source (link or screenshot) so I can publish this here as well.
 
@@ -102,4 +103,4 @@ Sources:
 
 [https://www.wealthsimple.com/en-ca/magazine/gme-data](https://www.wealthsimple.com/en-ca/magazine/gme-data)
 
-![https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20](https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20)
+[https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20](https://www.interest.co.nz/personal-finance/108826/thousands-nzers-partake-gamestop-movement-sharesies-users-alone-make-20)

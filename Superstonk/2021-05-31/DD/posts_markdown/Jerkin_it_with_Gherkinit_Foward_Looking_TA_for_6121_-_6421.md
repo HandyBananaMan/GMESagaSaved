@@ -1,5 +1,6 @@
-# Author: gherkinit
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/](https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/)
+#Title: Jerkin' it with Gherkinit Foward Looking TA for 6/1/21 - 6/4/21
+#Author: gherkinit
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/](https://www.reddit.com/r/Superstonk/comments/npfa6w/jerkin_it_with_gherkinit_foward_looking_ta_for/)
 
 
 Hello Superstonk!
@@ -20,11 +21,11 @@ Ok, let's do this...
 
 This week I expect a continuation of the uptrend that began on May 11^(th). As we can see our uptrend is beginning to form a [broadening formation](https://www.investopedia.com/terms/b/broadeningformation.asp) as volume and volatility began top pick up. Normally this is a bearish signal, but in the case of GME the interesting thing is that due to sell pressure being low, and short inflation being high this broadening formation is also defined by an ascending channel. This implies that buyers are willing to buy higher, shorting is not profitable, and potential sellers are not taking profits (GME undervalued, hedgies are fuk, and apes hodl)
 
-[Ascending broadening formation on the 4h Timescale](https://preview.redd.it/d4jxv4hozi271.png?width=1604&format=png&auto=webp&s=5ea29292bc7d96dcbbd5fcb0e3bea5b218558add)
+![Ascending broadening formation on the 4h Timescale](https://preview.redd.it/d4jxv4hozi271.png?width=1604&format=png&auto=webp&s=5ea29292bc7d96dcbbd5fcb0e3bea5b218558add)
 
 Another thing to note here is that we can see there was very little short pressure this week before we broke to the upside of the bull flag that began forming last Tuesday. And even though we experienced increased downward pressure on Friday we are still well within the lower resistance of that flag.
 
-[Visualization of short pressure over the last few weeks 4h timescale](https://preview.redd.it/dqsht4lh0j271.png?width=1600&format=png&auto=webp&s=0d905f55bca1138ce86e0debaed43af7907b7cac)
+![Visualization of short pressure over the last few weeks 4h timescale](https://preview.redd.it/dqsht4lh0j271.png?width=1600&format=png&auto=webp&s=0d905f55bca1138ce86e0debaed43af7907b7cac)
 
 Due to this I think tomorrow we may see additional movement down to a bounce off that lower resistance around $212.50 to 217.50 before continuing upward.
 
@@ -46,13 +47,13 @@ This is speculative as we have no way of knowing for sure, but ties into some ru
 
 MACD is continuing it's divergence I expect it will continue to diverge throughout this week as price action increases
 
-[MACD on the 1D timescale](https://preview.redd.it/yod6kr9z3j271.png?width=1418&format=png&auto=webp&s=ef6dd55300b57f9ad39dc1ccd3cadb45e9900ca1)
+![MACD on the 1D timescale](https://preview.redd.it/yod6kr9z3j271.png?width=1418&format=png&auto=webp&s=ef6dd55300b57f9ad39dc1ccd3cadb45e9900ca1)
 
 **II. BBKC / TTM Squeeze**
 
 We are now sitting on four green signals and the expansion of the Bollinger Bands outside of the Keltner Channel is beginning. I think we will see increasing volume and volatility as our 31 trading day consolidation begins to unwind. I cannot express in words how primed this looks to just blow up. So I guess I'll just have to show you.
 
-[BBKC\/TTM on the 1D timescale...WTF?](https://preview.redd.it/gwvrzb6e6j271.png?width=2445&format=png&auto=webp&s=aa68f07207359afc3506b874e675991bc22414c8)
+![BBKC\/TTM on the 1D timescale...WTF?](https://preview.redd.it/gwvrzb6e6j271.png?width=2445&format=png&auto=webp&s=aa68f07207359afc3506b874e675991bc22414c8)
 
 **III. CV-VWAP**
 
@@ -82,4 +83,4 @@ As always thank you for the support
 
 \**This is not Financial advice. The ideas and opinions expressed here are for educational and entertainment purposes only.*
 
-\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* ![*Learn more*](https://suicidepreventionlifeline.org/)
+\* *No position is worth your life and debt can always be repaid. Please if you need help reach out this community is here for you. Also the NSPL Phone: 800-273-8255 Hours: Available 24 hours. Languages: English, Spanish.* [*Learn more*](https://suicidepreventionlifeline.org/)

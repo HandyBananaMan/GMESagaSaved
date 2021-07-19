@@ -1,5 +1,6 @@
-# Author: HCMF_MaceFace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/](https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/)
+#Title: The Infinity Squeeze Thesis Summary and Breakdown of the Market Concepts/Mechanics That Make it Possible
+#Author: HCMF_MaceFace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/](https://www.reddit.com/r/Superstonk/comments/ny8mk8/the_infinity_squeeze_thesis_summary_and_breakdown/)
 
 
 This is a stripped version of the [GME MOASS Thesis](https://www.reddit.com/r/Superstonk/comments/nwqaj0/gme_moass_thesis_summary_20_summarization_of_the/?utm_medium=android_app&utm_source=share) I wrote a while back and refined recently. It is AMC/GME agnostic and is beneficial and relevant to apes on both sides. 
@@ -37,7 +38,7 @@ I have found myself more active on [Twitter](https://twitter.com/intent/user?scr
 5. The manipulators are at the mercy of a vicious trade cycle (t+21 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
 7. Eventually, the prices of GME/AMC will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be affordable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
 # V. KEY CONCEPTS
@@ -366,7 +367,7 @@ The main point of the post is to read and understand section V, but here is sect
 5. The manipulators are at the mercy of a vicious trade cycle (t+21 FTD Cycle) that is forcing those with naked short positions to perform actions to [cover](https://www.investopedia.com/terms/s/shortcovering.asp) (buy back shares that are short), or risk regulatory consequences
 6. This act of rapid covering drives up the price, making it more expensive to cover during the next cycle if the share price continues to increase week over week
 7. Eventually, the prices of GME/AMC will get so high that prime brokers/clearing houses will have no choice but to [Margin Call](https://www.investopedia.com/terms/m/margincall.asp) these participants which most likely will not be affordable due to the nature of [Short Squeezes](https://www.investopedia.com/terms/s/shortsqueeze.asp), causing them to default
-8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their ![Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
+8. The [Prime-Brokers](https://www.investopedia.com/terms/p/primebrokerage.asp) will then take on the position, and if the Prime Brokers cannot cover them and also defaults, the NSCC will be next to attempt to settle all positions left over based on their [Recovery and Wind-down Plan (p42)](https://www.dtcc.com/~/media/Files/Downloads/legal/policy-and-compliance/NSCC_Disclosure_Framework.pdf)
 9. If NSCC cannot afford to close everything with the money reserved for this type of situation, they the Fed must navigate the remaining positions (potentially via printing money/bailout)
 
 # VIII. Hedgies, velkommen til helvete. Vi kommer for tårene dine.

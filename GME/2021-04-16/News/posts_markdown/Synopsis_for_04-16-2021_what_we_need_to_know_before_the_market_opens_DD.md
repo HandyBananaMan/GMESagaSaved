@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mrzks5/synopsis_for_04162021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mrzks5/synopsis_for_04162021_what_we_need_to_know_before/)
+#Title: Synopsis for 04-16-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mrzks5/synopsis_for_04162021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mrzks5/synopsis_for_04162021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -212,4 +213,4 @@ u/deepfuckingvalue MY BOY! <3
 
 Look at this thread, even if it's the only thing you read this weekend, fucking read.
 
-![https://www.reddit.com/r/Superstonk/comments/mscsb5/putting\_shills\_on\_blast\_a\_concerned\_biznessman/](https://www.reddit.com/r/Superstonk/comments/mscsb5/putting_shills_on_blast_a_concerned_biznessman/)
+[https://www.reddit.com/r/Superstonk/comments/mscsb5/putting\_shills\_on\_blast\_a\_concerned\_biznessman/](https://www.reddit.com/r/Superstonk/comments/mscsb5/putting_shills_on_blast_a_concerned_biznessman/)

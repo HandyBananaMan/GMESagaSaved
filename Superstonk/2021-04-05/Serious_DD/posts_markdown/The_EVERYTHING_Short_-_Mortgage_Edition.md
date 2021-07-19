@@ -1,5 +1,6 @@
-# Author: zipitrealgood
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/](https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/)
+#Title: The EVERYTHING Short - Mortgage Edition
+#Author: zipitrealgood
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/](https://www.reddit.com/r/Superstonk/comments/ml39bx/the_everything_short_mortgage_edition/)
 
 
 **Disclaimer: This is not financial advice, I am not a financial advisor, please take everything I say with a grain of salt and do your own due diligence research.**
@@ -65,11 +66,11 @@ What you need to understand are that Treasury Yields are up. When Treasury Yield
 
 &#x200B;
 
-[Everything Short PIE Chart - Repo Market](https://preview.redd.it/7j7zcbxxamr61.png?width=1362&format=png&auto=webp&s=7c58257264fd7c1163326b33cd1a85990b924aad)
+![Everything Short PIE Chart - Repo Market](https://preview.redd.it/7j7zcbxxamr61.png?width=1362&format=png&auto=webp&s=7c58257264fd7c1163326b33cd1a85990b924aad)
 
 **Other Background:**
 
-[Mortgage Process \(Simplified\) ](https://preview.redd.it/yrrbblpflsr61.png?width=2432&format=png&auto=webp&s=e32b11c3731884acb1ba9caa03ddb7be0c4927e3)
+![Mortgage Process \(Simplified\) ](https://preview.redd.it/yrrbblpflsr61.png?width=2432&format=png&auto=webp&s=e32b11c3731884acb1ba9caa03ddb7be0c4927e3)
 
 So first, some commentary suggested I didn't know how the basic concepts of mortgages work, here's a diagram of the SIMPLIFIED process. The Home Sales by Financing type breakout can be found in a chart below.
 
@@ -77,7 +78,7 @@ So first, some commentary suggested I didn't know how the basic concepts of mort
 
 A huge issue with rising real-estate prices, is the fact that [housing prices have sky-rocketed](https://www.cnbc.com/2021/03/30/federal-reserve-under-fire-as-home-prices-soar.html), whereas the Avg. Median US Income (after factoring in inflation), has remained stagnant. This means, that the underlying "asset" the median US home-buyers is purchasing, is not an asset at all, but rather a liability. Since they will require a larger mortgage, to purchase the home.
 
-[Median Household Income \(Adj. For Inflation is Blue Line\)](https://preview.redd.it/ylq4a5p78lr61.png?width=1201&format=png&auto=webp&s=5aec31285eab2747d37ea686874aa2799935877e)
+![Median Household Income \(Adj. For Inflation is Blue Line\)](https://preview.redd.it/ylq4a5p78lr61.png?width=1201&format=png&auto=webp&s=5aec31285eab2747d37ea686874aa2799935877e)
 
 &#x200B;
 
@@ -89,11 +90,11 @@ https://preview.redd.it/l5qlb2c3osr61.png?width=2210&format=png&auto=webp&s=7fb9
 
 Foreshadowing, the real issue is the FHA / VA mortgages, not your typical "Conventional" mortgage. In the chart below, you'll see that these two loan types are higher than their Housing Market crash levels.
 
-[Mortgage Delinquencies by Type](https://preview.redd.it/kw7z980p5lr61.png?width=1416&format=png&auto=webp&s=914719aa71d688a9d5ddd74b8200011f23d26016)
+![Mortgage Delinquencies by Type](https://preview.redd.it/kw7z980p5lr61.png?width=1416&format=png&auto=webp&s=914719aa71d688a9d5ddd74b8200011f23d26016)
 
 Why this is important, is because how large of the mortgage market these two loan types are (see graph below). As you can see, these's two types represent at any given time roughly \~24% of the total market.
 
-[Market Share by Financing Type](https://preview.redd.it/dadorhfy5lr61.png?width=1408&format=png&auto=webp&s=e636f1416712a82922769bb3679f1893abddffc3)
+![Market Share by Financing Type](https://preview.redd.it/dadorhfy5lr61.png?width=1408&format=png&auto=webp&s=e636f1416712a82922769bb3679f1893abddffc3)
 
 &#x200B;
 
@@ -107,7 +108,7 @@ https://preview.redd.it/wxykny5zqsr61.png?width=2333&format=png&auto=webp&s=904d
 
 The FHA loans alone are going delinquent in concentrated metro areas (see chart below). Once the government forbearance protection expires (Right now, this will happen around July, but they can extending and continue to do so), you'll see a flood of foreclosures coming from the FHA's.
 
-[Metros FHA Delinquency Rates](https://preview.redd.it/nuy71dcn5lr61.png?width=1142&format=png&auto=webp&s=b894c4aaeb49ad62b82cd0074d3612ce37d84271)
+![Metros FHA Delinquency Rates](https://preview.redd.it/nuy71dcn5lr61.png?width=1142&format=png&auto=webp&s=b894c4aaeb49ad62b82cd0074d3612ce37d84271)
 
 &#x200B;
 
@@ -123,7 +124,7 @@ As you can see in the chart below, over 14% of the 2020 Mortgage demand is due t
 
 Factoring in FHA delinquencies, should housing prices decline as aforementioned, these "investors" will be looking to offload their newly acquired 2nd homes, as they will start to lose money on their investments, and will add fuel to the flame when it spirals.
 
-[2nd Home \/ Investor Mortgage Applications as a Share of All Applications](https://preview.redd.it/8ffqjck2alr61.png?width=1161&format=png&auto=webp&s=215cd9019c13c652f518a2930b7d2fc7fc0761f7)
+![2nd Home \/ Investor Mortgage Applications as a Share of All Applications](https://preview.redd.it/8ffqjck2alr61.png?width=1161&format=png&auto=webp&s=215cd9019c13c652f518a2930b7d2fc7fc0761f7)
 
 Therefore, when overall housing prices go down, those who are overextended by buying investment properties or 2nd homes, will also sell to cut their losses. Expediting the home value decreases in the area. As the value of the homes continue to decrease, the default risks rise (even on what would be considered "safe").  As risk levels rise, investors who buy the MBS tranches will slow (It's important to callout that the government has been buying up MBS's, but they aren't the whole pie).
 
@@ -212,7 +213,7 @@ Okay, but you might say, 4% forbearance ain't bad right? What's the industry sta
 
 &#x200B;
 
-[From $GHLD 10-K](https://preview.redd.it/z0uitybrdmr61.png?width=2458&format=png&auto=webp&s=5f61efbf3495a175549e3937653ca32a353de230)
+![From $GHLD 10-K](https://preview.redd.it/z0uitybrdmr61.png?width=2458&format=png&auto=webp&s=5f61efbf3495a175549e3937653ca32a353de230)
 
 https://preview.redd.it/oeg27l7namr61.png?width=1565&format=png&auto=webp&s=ec0d2cad164fea884d70294dc12399a7e0170669
 

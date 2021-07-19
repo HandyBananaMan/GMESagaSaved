@@ -1,3 +1,4 @@
+<h1>Title: Is GME's price related to the Reverse Repo Rate in some way? - Lets find out! - Brought to you by the Superstonk Quants 🦍👨‍💻🧐🚀</h1>
 <h1>Author: orangecatmasterrace</h1>
 <h1>Post URL: <a href="https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/">https://www.reddit.com/r/DDintoGME/comments/nype4f/is_gmes_price_related_to_the_reverse_repo_rate_in/</a></h1>
 <p>Hi everyone! I'm u/orangecatmasterrace - a longtime reddit lurker, but I've been involved in GME since January. I'm posting here as I don't yet have enough karma to post directly to r/Superstonk. I wanted to share an analysis that I, along with the incredibly talented apes at <a href="https://www.superstonkquant.org/">Superstonk Quants</a> pulled together over the past couple days. We're the group that initially banded together to aid u/HomeDepotHank69 in his <a href="https://www.reddit.com/r/Superstonk/comments/nu9qq9/hanks_big_bang_quant_apes_glitch_the_simulation/?utm_source=share&amp;utm_medium=web2x&amp;context=3">quest for data-driven DD</a>.</p>
@@ -12,11 +13,11 @@
 <p>Ok! So now that you're all a tad bit wrinklier about working with time series data, I want to run you through what I found through the course of my analysis.</p>
 <p>First, I loaded up the GME OHLC and Reverse Repo data from 1/1/2020 through 6/10/2021, and wanted to make sure I could reproduce the scatter plots that u/bobsmith808 pulled together in his analysis in order to validate I was using the same data :) Reproducibility is important here!</p>
 <p>I plotted the GME Open price against the Reverse Repo Daily Totals, and arrived at a very similar looking dinosaur(?)-shaped plot. </p>
-<p><a href="https://preview.redd.it/9qy00vbdry471.png?width=763&amp;format=png&amp;auto=webp&amp;s=ed89a492727673f4634b9084ce464fbde8fce805">🦕 says rawr</a></p>
+<p><img alt="🦕 says rawr" src="https://preview.redd.it/9qy00vbdry471.png?width=763&amp;format=png&amp;auto=webp&amp;s=ed89a492727673f4634b9084ce464fbde8fce805" /></p>
 <p>Ok, so now that we know we're looking at the same thing, lets start to use the methodology that u/braaaaiiinnnsss shared in his post to determine if a relationship exists here. </p>
 <p>I applied an <a href="https://www.rdocumentation.org/packages/forecast/versions/8.15/topics/Arima">ARIMA model</a> to the GME Open price to see if there was any reasonable lag in GME's price that could have a relationship with the Reverse Repo. Basically, what I wanted to look for here was if GME's Price changing (both direction and magnitude) could be related to the Reverse Repo at some leading or lagging interval. The ARIMA model gives me values called residuals, which are the differences between each of the daily GME Open prices. Running this model controls for autocorrelation and allows us to run a CCF (cross-correlation) between the model's residuals and the Reverse Repo Daily Totals.</p>
 <p>After running the CCF, here's what we get: </p>
-<p><a href="https://preview.redd.it/7ndp686try471.png?width=735&amp;format=png&amp;auto=webp&amp;s=b719c9feb750cc2ecf8fa9fb8c12a6e109bde73a">The lines Mason! What do they mean?!</a></p>
+<p><img alt="The lines Mason! What do they mean?!" src="https://preview.redd.it/7ndp686try471.png?width=735&amp;format=png&amp;auto=webp&amp;s=b719c9feb750cc2ecf8fa9fb8c12a6e109bde73a" /></p>
 <p>These might look like a whole bunch of useless lines, but these lines tell us...<em>things!</em> What we're looking at here is how strong of a relationship the changes in GME's price has with the Reverse Repo Daily Totals, at various daily offsets (lags), both forward and backward. </p>
 <p><strong>BUT</strong> – In order for a statistically significant relationship to exist, we'd have to see one of these lines extending past the blue dotted line. That's our threshold for significance at the p=0.05 level. </p>
 <p>Since none of the vertical lines crossed the blue dotted lines, we can initially assume that these 2 variables are not correlated with each other, at least at any level of statistical significance. </p>
@@ -38,7 +39,7 @@
 <p>This plot shows the degree at which the two differenced variables are related to each other, at each of the 60-day rolling windows over time. each point along the line represents a window of 60 days, advancing through time, left to right. The closer the correlation line is to the bright red or blue lines at -1 and 1, the stronger the relationship between the variables, either negative or positive. The closer to the light blue center line, the weaker the relationship.</p>
 <p>Since the points are between 0.5 and -0.5, mostly along the center line at 0, we can assume that the GME Open price and the RRP Daily Totals are generally not strongly correlated with each other, <em>particularly so</em> after the January run-up.</p>
 <p>If a correlation actually existed there, we'd see those black dots much closer to either of the red lines, and it might look something like.... oh, I don't know.... the comparison between GME and AMC? 😏</p>
-<p><a href="https://preview.redd.it/qefqa015uy471.png?width=1198&amp;format=png&amp;auto=webp&amp;s=a43a2b3dbf2e9ba8bec872c43416246b671005fa">.98 is a VERY strong correlation during that window 😤</a></p>
+<p><img alt=".98 is a VERY strong correlation during that window 😤" src="https://preview.redd.it/qefqa015uy471.png?width=1198&amp;format=png&amp;auto=webp&amp;s=a43a2b3dbf2e9ba8bec872c43416246b671005fa" /></p>
 <p>...but that's the subject of my next DD for another day 😏🚀</p>
 <p>Anyways! I didn't want to stop with just <strong><em>one comparison.</em></strong></p>
 <p>I wanted to see if potentially the number of Reverse Repo Counterparties might have some kind of relationship, even if the Totals themselves didn't. So I ran a similar analysis with differenced values for GME's Open again along with the Counterparties, and here's the result: </p>
@@ -53,7 +54,7 @@
 <p>But worry not fellow apes! Just because the Reverse Repo isn't statistically related to GME's price movements doesn't mean the squeeze ain't gonna squoze!</p>
 <p>The exciting part about these analyses is that they've been a catalyst for the Superstonk Quants to develop a methodology for running these comparisons. We're planning to share more results of this approach very soon!</p>
 <p>In the meantime, if you'd like to check out the code along with a brief summary of the analysis, we've hosted the R markdown on the Superstonk Quants website <a href="https://rrpgme.superstonkquant.org/">here</a>!</p>
-<p>Additionally, the full R code is available on our <img alt="Github repo" src="https://github.com/SuperstonkQuants/reddit_RRPGME_corr" />!</p>
+<p>Additionally, the full R code is available on our <a href="https://github.com/SuperstonkQuants/reddit_RRPGME_corr">Github repo</a>!</p>
 <p>If there's one thing that I've taken away from doing this work so far, its that:</p>
 <p><strong>APES ARE TRULY STRONGER TOGETHER</strong> 🐒🦍🦧💎🙌🚀🚀🚀🌝</p>
 <p><strong>BUCKLE UP.</strong></p>

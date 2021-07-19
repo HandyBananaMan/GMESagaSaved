@@ -1,5 +1,6 @@
-# Author: archer_it
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/](https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/)
+#Title: RC’s tweet is an anagram: “MOASS NEAR. BUY DIP. RCHN.”
+#Author: archer_it
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/](https://www.reddit.com/r/Superstonk/comments/nnhk5r/rcs_tweet_is_an_anagram_moass_near_buy_dip_rchn/)
 
 
 Fellow Apes,  
@@ -35,7 +36,7 @@ edit 4: several users have proposed the idea that the announcement will be the m
 
 Sep 2020: RC Ventures acquired 10% stake in GME
 
-Nov 2020: RC Ventures sends a spicy, big-D-swinging letter to GameStop’s Board of Director (if you have never read it, do yourself a favor: ![check it out here](https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf) and get your tits even more jacked)
+Nov 2020: RC Ventures sends a spicy, big-D-swinging letter to GameStop’s Board of Director (if you have never read it, do yourself a favor: [check it out here](https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf) and get your tits even more jacked)
 
 Dec 2020: RC Ventures ups its stake in GameStop to 12.9%
 

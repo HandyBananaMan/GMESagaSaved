@@ -1,5 +1,6 @@
-# Author: DigitalArts
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/](https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/)
+#Title: While We're Having A Party, Two New Rules Just Posted On DTCC's Site
+#Author: DigitalArts
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/](https://www.reddit.com/r/Superstonk/comments/nble59/while_were_having_a_party_two_new_rules_just/)
 
 
 I have no clue what are in these, but they sound juicy. 🤷‍♂️ Anyone know anything about these? This isn't the 801 we've waited for I know that.
@@ -14,7 +15,7 @@ SR-FICC-2021-801
 
 &#x200B;
 
-EDIT: Was posted yesterday but didn't seem to get much visibility.  Original post: ![https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003\_ficc2021801\_just\_added\_may\_12\_2021/](https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003_ficc2021801_just_added_may_12_2021/)
+EDIT: Was posted yesterday but didn't seem to get much visibility.  Original post: [https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003\_ficc2021801\_just\_added\_may\_12\_2021/](https://www.reddit.com/r/Superstonk/comments/naxfrl/ficc2021003_ficc2021801_just_added_may_12_2021/)
 
 Credit: u/ReverseTickleMonster
 

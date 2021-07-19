@@ -1,5 +1,6 @@
-# Author: Purple-Artichoke-687
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/](https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/)
+#Title: Running my daily SEC.gov search for my beloved stock to see what's new with it and here's what came out (06-29)
+#Author: Purple-Artichoke-687
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/](https://www.reddit.com/r/Superstonk/comments/oa7lj0/running_my_daily_secgov_search_for_my_beloved/)
 
 
 The search: [https://www.sec.gov/edgar/search/#/q=gamestop&dateRange=all&startdt=2021-06-28&enddt=2021-06-29](https://www.sec.gov/edgar/search/#/q=gamestop&dateRange=all&startdt=2021-06-28&enddt=2021-06-29)
@@ -12,7 +13,7 @@ But them I ran my script to update the NPORT-P data dump for 30 apr since some n
 
 And I was astonished of the data!
 
-[Yes, you read that right. They have more shares on loan than they hold.](https://preview.redd.it/il9sn9rw87871.png?width=1078&format=png&auto=webp&s=13c3dbd0b919843d2446abc97a51fc79bacd3b14)
+![Yes, you read that right. They have more shares on loan than they hold.](https://preview.redd.it/il9sn9rw87871.png?width=1078&format=png&auto=webp&s=13c3dbd0b919843d2446abc97a51fc79bacd3b14)
 
 Now, we really need an adult here! Did these guys just filed with the SEC that they loaned more shares than they own?
 
@@ -46,4 +47,4 @@ Search [etf.com](https://etf.com): [https://www.etf.com/XSVM#overview](https://w
 
 Official website: [https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM](https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM) No Mention on the GME position
 
-Checked the web archive. Just an archive on Jan 20, 2021: ![http://web.archive.org/web/20210120095023/https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM](http://web.archive.org/web/20210120095023/https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM) No mention on the GME position.
+Checked the web archive. Just an archive on Jan 20, 2021: [http://web.archive.org/web/20210120095023/https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM](http://web.archive.org/web/20210120095023/https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Institutional&ticker=XSVM) No mention on the GME position.

@@ -1,5 +1,6 @@
-# Author: rehmanabdur23
-# Post URL: [https://www.reddit.com/r/GME/comments/m93qns/want_gme_to_rocket/](https://www.reddit.com/r/GME/comments/m93qns/want_gme_to_rocket/)
+#Title: Want GME to rocket?
+#Author: rehmanabdur23
+#Post URL: [https://www.reddit.com/r/GME/comments/m93qns/want_gme_to_rocket/](https://www.reddit.com/r/GME/comments/m93qns/want_gme_to_rocket/)
 
 
 GME will inevitably rocket. It may take a week, a month, many months, but it will rocket.

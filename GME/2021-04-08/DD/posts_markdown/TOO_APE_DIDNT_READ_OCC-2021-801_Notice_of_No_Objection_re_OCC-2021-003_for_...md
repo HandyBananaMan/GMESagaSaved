@@ -1,5 +1,6 @@
-# Author: Antioch_Orontes
-# Post URL: [https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/](https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/)
+#Title: 🦍💬 [TOO APE DIDN’T READ] OCC-2021-801 Notice of No Objection re: OCC-2021-003 for kids who can't read good and who wanna learn how to do other stuff good too, ft. SEC comments & Susquehanna International Group
+#Author: Antioch_Orontes
+#Post URL: [https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/](https://www.reddit.com/r/GME/comments/mn5nsy/too_ape_didnt_read_occ2021801_notice_of_no/)
 
 
 # 🦍💬  "OCC? Notice of no objection? What's the difference between 801 and 003? Please turn the big words into little words."
@@ -60,7 +61,7 @@ You can read all comments, including theirs, [right here.](https://www.sec.gov/c
 
 # 🦍💬  "I'd like to send in a comment too. How do I get in on the action?"
 
-If you would like to submit comments of your own, you can do so at ![this link](https://www.sec.gov/rules/sro/occ.htm) by clicking on the “Submit comments on SR-OCC-2021-003” link. Please try not to be literal screeching chimps and put your polite clothes on, it's a good opportunity to present the image of a diligent and thoughtful retail investor that isn't a degenerate and uninformed gambler to the general public. 
+If you would like to submit comments of your own, you can do so at [this link](https://www.sec.gov/rules/sro/occ.htm) by clicking on the “Submit comments on SR-OCC-2021-003” link. Please try not to be literal screeching chimps and put your polite clothes on, it's a good opportunity to present the image of a diligent and thoughtful retail investor that isn't a degenerate and uninformed gambler to the general public. 
 
 # 🦍💬 "My brain remains woefully smooth, and I yearn for knowledge."
 

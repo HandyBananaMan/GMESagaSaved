@@ -1,5 +1,6 @@
-# Author: Pent1111
-# Post URL: [https://www.reddit.com/r/GME/comments/mi5cf1/citadels_business_plan_either_gme_bankrupts_or/](https://www.reddit.com/r/GME/comments/mi5cf1/citadels_business_plan_either_gme_bankrupts_or/)
+#Title: Citadel's business plan: either GME bankrupts or hold the US Government hostage for a bailout
+#Author: Pent1111
+#Post URL: [https://www.reddit.com/r/GME/comments/mi5cf1/citadels_business_plan_either_gme_bankrupts_or/](https://www.reddit.com/r/GME/comments/mi5cf1/citadels_business_plan_either_gme_bankrupts_or/)
 
 
 These last two months, the enemy has not made sense to me.  They keep digging a bigger and bigger hole. A hole that goes nowhere. They could have covered  their positions for a bargain at $40 in February. But they shorted more.  and more and more and more.  And not just GME, XRT and all the rest.

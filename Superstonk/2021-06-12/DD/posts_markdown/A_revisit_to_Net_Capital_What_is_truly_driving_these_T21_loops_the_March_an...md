@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/](https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/)
+#Title: A revisit to Net Capital. What is truly driving these T+21 loops, the March and June gamma runs, and how skyrocketing ETF FTDs might cause big price movements in the coming weeks.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/](https://www.reddit.com/r/Superstonk/comments/ny2ov4/a_revisit_to_net_capital_what_is_truly_driving/)
 
 
 &#x200B;
@@ -18,7 +19,7 @@ GME shorts and Reverse Repo Market go **brrrrrrrr**.
 
 **TLDR: Sorry I'm too lazy right now. About to post this and go to sleep.  😎**
 
-[Kenny And The Boys](https://preview.redd.it/p9ruup81br471.png?width=1016&format=png&auto=webp&s=459845688e21d10000f45ba7e81c9de8a6839321)
+![Kenny And The Boys](https://preview.redd.it/p9ruup81br471.png?width=1016&format=png&auto=webp&s=459845688e21d10000f45ba7e81c9de8a6839321)
 
 My previous post about [Net Capital](https://www.reddit.com/r/Superstonk/comments/n4h832/major_deep_itm_call_option_dates_a_massive_net/) was thinking that we'd see significant price movement T+14 days after April 16th options expirations. That didn't happen, so I tossed it out of the window. (Criand, you dumb bitch)
 
@@ -39,7 +40,7 @@ For a while now it's been theorized ([with some pretty damn good evidence](https
 
 u/basketas87 posted about this surge of ETF FTDs in "[New data shows a large increase of ETF FTDs](https://www.reddit.com/r/DDintoGME/comments/nx013v/new_data_shows_a_large_increase_of_etf_ftds/)":
 
-[GME Price Vs. GME FTDs and ETF FTDs \(which contain GME\); Source: \/u\/basketas87](https://preview.redd.it/h7iq2v4njq471.png?width=1122&format=png&auto=webp&s=b4fbbca80002197058a20c5d8654e08ba8b4dbae)
+![GME Price Vs. GME FTDs and ETF FTDs \(which contain GME\); Source: \/u\/basketas87](https://preview.redd.it/h7iq2v4njq471.png?width=1122&format=png&auto=webp&s=b4fbbca80002197058a20c5d8654e08ba8b4dbae)
 
 You can immediately see the ETF FTDs absolutely **SKYROCKETED** just before the cutoff of the SEC FTD bi-monthly report. **We don't even know how high this has gone in the following days or if its come crashing back down**. **Remember - these are aggregate. We don't sum up the FTDs between dates. Whatever the number is upon a date is the current total of FTDs reported.**
 
@@ -47,7 +48,7 @@ For a date-by-date tracking for these FTDs between January and the end of March,
 
 > I selected GME and 19 ETFs containing GME. I chose to only look at the ETFs that contain the most GME shares and had large numbers of FTDs in 2021. - /u/broccaaa
 
-[Aggregate FTDs for GME; GME and ETFs; Source: \/u\/broccaaa](https://preview.redd.it/choe9jjris471.png?width=1709&format=png&auto=webp&s=3e907654b1e054734098c010839ec5ad07ab0633)
+![Aggregate FTDs for GME; GME and ETFs; Source: \/u\/broccaaa](https://preview.redd.it/choe9jjris471.png?width=1709&format=png&auto=webp&s=3e907654b1e054734098c010839ec5ad07ab0633)
 
 Some notable aggregate FTD dates from this chart:
 
@@ -68,7 +69,7 @@ Or in other words, you must have enough capital to not be "margin-called". In th
 
 The very interesting part of this rule comes down to how they're calculating Net Capital in regards to short securities:
 
-[Net Capital Rule; Short Securities Deduction From Net Capital Per \\"Days After Discovery\\"](https://preview.redd.it/jzzkxo2qsq471.png?width=1311&format=png&auto=webp&s=9b26ce9297defa1c10492f9d1e2b2c6a1bc07252)
+![Net Capital Rule; Short Securities Deduction From Net Capital Per \\"Days After Discovery\\"](https://preview.redd.it/jzzkxo2qsq471.png?width=1311&format=png&auto=webp&s=9b26ce9297defa1c10492f9d1e2b2c6a1bc07252)
 
 What this basically means is that after the short security difference is found to be unresolved after discovery (think FTD popping up is the "discovery"), then it's going to slowly start eating away at their net capital the longer it remains unresolved/undelivered:
 
@@ -112,7 +113,7 @@ And of course, following April 16 options expirations, the ETF FTDs start to sky
 
 First, I'll plot out the T+21 Net Capital loop so that it isn't **too** cluttered:
 
-[Plotted Net Capital \\"T+21\\" Cycle, December 22 to July 26](https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7)
+![Plotted Net Capital \\"T+21\\" Cycle, December 22 to July 26](https://preview.redd.it/xh4u2ugmfs471.png?width=1438&format=png&auto=webp&s=85188eccc2bf3841bb98e37e5be98b8badcc01c7)
 
 Upon December 22, the clock starts ticking. It's possible that at this point the price was too high for them to **NOT** worry about Net Capital any more, and they had to start can-kicking and forced buy-ins.
 
@@ -120,7 +121,7 @@ Each loop is separated T+21 because it appears that they cannot sustain higher t
 
 To get a closer look of the potential effects of the various Threshold amounts (T+7 (25%), T+14 (50%), T+21 (75%)) I've zoomed in on March 25th to May 25th. **ENHANCE**!
 
-[Plotted Net Capital \\"T+21\\" Cycle, March 25 to May 25, Price Spikes Prior to Each Threshold \(T+7, T+14\) Date](https://preview.redd.it/p6q5gox9fs471.png?width=1438&format=png&auto=webp&s=4da6c3ed2e8547ccd755b95ee895be235cbf9d44)
+![Plotted Net Capital \\"T+21\\" Cycle, March 25 to May 25, Price Spikes Prior to Each Threshold \(T+7, T+14\) Date](https://preview.redd.it/p6q5gox9fs471.png?width=1438&format=png&auto=webp&s=4da6c3ed2e8547ccd755b95ee895be235cbf9d44)
 
 In the above it's **unlikely** but there is a chance that they have too many FTDs to shuffle around by the time Net Capital 25% (T+7) Threshold hits. This could initiate some buy-in pressure on or before that date, typically the day before, as outlined in the **light green** circle. The day before because they don't want those positions to be 50% upon the next day. They must be resolved **BEFORE**.
 
@@ -139,7 +140,7 @@ There's a potential relationship to be seen with these insane FTD dates. Now thi
 
 I say I'm unsure because I only see one data point here so far and somewhat of a second data point from the price run-up we've been seeing the past few days.
 
-[Plotted Net Capital \\"T+21\\" Cycle, December 22 to July 26, and FTD Spike Relationship](https://preview.redd.it/424mtt66sq471.png?width=1433&format=png&auto=webp&s=7b11bb6a0a8f06bafb2471e7dfc0b64c90f1cb1a)
+![Plotted Net Capital \\"T+21\\" Cycle, December 22 to July 26, and FTD Spike Relationship](https://preview.redd.it/424mtt66sq471.png?width=1433&format=png&auto=webp&s=7b11bb6a0a8f06bafb2471e7dfc0b64c90f1cb1a)
 
 In the above picture, look at January 29th's FTD spike. Plotting the full 28 days of Net Capital out where 100% of the debts would be accounted for, that lands it on March 11th. They want to resolve this **before** March 11th, while the debts are still 75% accounted for. Remember that date? March 10th? I sure do. This **could** be why we saw the price spike, and why T+35 is incorrect in theory. But, it appears the major option dates still play a role, because of the May 12th FTD spike that just occurred, which followed April 16th options. Likewise, the January 15th options may have initiated the FTD spikes around January 29th and February 2nd.
 
@@ -153,7 +154,7 @@ This could also very well explain what was going on with AMC. (Don't freak out o
 
 AMC has gone on an absolute RUN. It increased nearly 70% in one day. Take a look at the following chart now that you know about Net Capital and the different T+7, T+14, T+21, T+28 Thresholds:
 
-[AMC Behavior from May 12th to June 24th](https://preview.redd.it/xn0tukmw4r471.png?width=1434&format=png&auto=webp&s=a679b5628fd370944ba680b6de0bf5e6dcadd35a)
+![AMC Behavior from May 12th to June 24th](https://preview.redd.it/xn0tukmw4r471.png?width=1434&format=png&auto=webp&s=a679b5628fd370944ba680b6de0bf5e6dcadd35a)
 
 Damn. Did they just GIVE UP on AMC and decide that it's too much to deal with? Do they not have enough capital to deal with both GME and AMC (and possibly other short meme stocks)? I think so, because this lines up quite well. They had to fix Net Capital for AMC by T+7 (25%) Threshold on June 4th probably because it was too expensive to handle alongside GME, and GME is the one they **really** need to keep their ammo for.
 

@@ -1,5 +1,6 @@
-# Author: LWKD
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/](https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/)
+#Title: To all the apes just waking up! All the bullish news from yesterday summed up!
+#Author: LWKD
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/](https://www.reddit.com/r/Superstonk/comments/nwh8iw/to_all_the_apes_just_waking_up_all_the_bullish/)
 
 
 To all the Euro apes, Asian apes ADU's (Apes down under, who already have been working a whole morning jacked). Here are some bullish bullet points about all the news that came out yesterday. But beware you could become too jacked. So all this is not financial advice.
@@ -32,7 +33,7 @@ https://preview.redd.it/b1yef32gwd471.png?width=960&format=png&auto=webp&s=5b028
 
 The SEC has [requested](https://www.reddit.com/r/Superstonk/comments/nw5jh8/sec_apparently_is_investigating_trading_activity/) a voluntary production of documents regarding unknown info. What could that be about? Guess what, maybe about voting, a stop the count or to be blunt; a overvote because of lots and lots of naked shares? Who knows? But get your hats on and strap in because loads and loads of DD will be out the coming days and weeks!
 
-\- Back to ![Elliot Waves](https://www.reddit.com/r/Superstonk/comments/nw84nw/elliot_waves_and_gme_why_tomorrow_should_be/), this ape doesn't understand a word. But also bullish. How much bullishness do we need? I can not be more jacked, can I?
+\- Back to [Elliot Waves](https://www.reddit.com/r/Superstonk/comments/nw84nw/elliot_waves_and_gme_why_tomorrow_should_be/), this ape doesn't understand a word. But also bullish. How much bullishness do we need? I can not be more jacked, can I?
 
 &#x200B;
 

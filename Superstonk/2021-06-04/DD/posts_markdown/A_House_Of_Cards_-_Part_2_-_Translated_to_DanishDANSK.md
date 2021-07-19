@@ -1,5 +1,6 @@
-# Author: jimmijoness
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/](https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/)
+#Title: A House Of Cards - Part 2 - Translated to Danish/DANSK
+#Author: jimmijoness
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/](https://www.reddit.com/r/Superstonk/comments/ns3cbh/a_house_of_cards_part_2_translated_to_danishdansk/)
 
 
   
@@ -47,7 +48,7 @@ DET HER ER LIGE PRÆCIS, HVAD DER SKER:
 
 https://preview.redd.it/kzmv55mrl8371.jpg?width=348&format=pjpg&auto=webp&s=ee8984446618478f43a6c1d5775124b4991996c8
 
-[](https://translate.google.com/website?sl=en&tl=da&ajax=1&u=https://preview.redd.it/c1n24ypq5k171.jpg?width%3D348%26format%3Dpjpg%26auto%3Dwebp%26s%3D2401d50c3ec1197e08564be1ffbd643558e52b6a)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+![](https://translate.google.com/website?sl=en&tl=da&ajax=1&u=https://preview.redd.it/c1n24ypq5k171.jpg?width%3D348%26format%3Dpjpg%26auto%3Dwebp%26s%3D2401d50c3ec1197e08564be1ffbd643558e52b6a)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 GameStop er/var offer for short selling med det formål at presse prisen ned. Jeg diskuterede dette emne med [Dr. T](https://translate.google.com/website?sl=en&tl=da&ajax=1&u=https://www.youtube.com/watch?v%3DfGVY2Kco8ng)rimbath og [Carl Hagberg](https://translate.google.com/website?sl=en&tl=da&ajax=1&u=https://www.youtube.com/watch?v%3DKHnpPfWdf78) i [vores AMA'er.](https://translate.google.com/website?sl=en&tl=da&ajax=1&u=https://www.youtube.com/watch?v%3DKHnpPfWdf78) Hver transaktion har to sider - en købs og en salgs side. Short selling øger *udbuddet* af aktier kunstigt og får prisen til at falde. Når dette sker, kan prisen kun stige, hvis *efterspørgslen* overstiger stigningen i udbuddet.
 
@@ -317,7 +318,7 @@ a. $120,000 FINE
 
 a. $600,000 FINE (SEVERAL OTHER ISSUES REPORTED IN ADDITION TO SHORTS)
 
-27. ![HSBC Securities (USA) INC.](https://files.brokercheck.finra.org/firm/firm_19585.pdf) | Disclosure 26 – “FIRM EXECUTED SHORT SALE TRANSACTIONS AND FAILED TO MARK THEM AS SHORT… HSBC SECURITIES HAD A FAIL-TO-DELIVER SECURITY FOR 13 CONSECUTIVE SETTLEMENT DAYS AND FAILED TO IMMEDIATELY CLOSE OUT THE FTD POSITION… THE FIRM CONTINUED TO HAVE A FTD IN THE SECURITY AT A CLEARING AGENCY ON 79 ADDITIONAL SETTLEMENT DAYS…”
+27. [HSBC Securities (USA) INC.](https://files.brokercheck.finra.org/firm/firm_19585.pdf) | Disclosure 26 – “FIRM EXECUTED SHORT SALE TRANSACTIONS AND FAILED TO MARK THEM AS SHORT… HSBC SECURITIES HAD A FAIL-TO-DELIVER SECURITY FOR 13 CONSECUTIVE SETTLEMENT DAYS AND FAILED TO IMMEDIATELY CLOSE OUT THE FTD POSITION… THE FIRM CONTINUED TO HAVE A FTD IN THE SECURITY AT A CLEARING AGENCY ON 79 ADDITIONAL SETTLEMENT DAYS…”
 
 a. $65,000 FINE
 

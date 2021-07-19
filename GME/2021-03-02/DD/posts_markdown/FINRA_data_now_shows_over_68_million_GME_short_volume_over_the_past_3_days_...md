@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/lw2a06/finra_data_now_shows_over_68_million_gme_short/](https://www.reddit.com/r/GME/comments/lw2a06/finra_data_now_shows_over_68_million_gme_short/)
+#Title: FINRA data now shows over 68 million GME short volume over the past 3 days. Even while on the SSR List, short volume represented 57% of all volume today and for the past 6 days straight! 💎✋💎🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/lw2a06/finra_data_now_shows_over_68_million_gme_short/](https://www.reddit.com/r/GME/comments/lw2a06/finra_data_now_shows_over_68_million_gme_short/)
 
 
 &#x200B;
@@ -165,4 +166,4 @@ THEY ARE DOING EVERYTHING THEY CAN TO STOP THIS ROCKET JUST LIKE LAST TIME, BUT 
 
 &#x200B;
 
- ![PS for those wondering what's happening at $130 today. My first meme video!](https://www.reddit.com/r/GME/comments/lwam6g/can_we_break_130_meanwhile_at_your_local_hedge/?utm_source=share&utm_medium=web2x&context=3)
+ [PS for those wondering what's happening at $130 today. My first meme video!](https://www.reddit.com/r/GME/comments/lwam6g/can_we_break_130_meanwhile_at_your_local_hedge/?utm_source=share&utm_medium=web2x&context=3)

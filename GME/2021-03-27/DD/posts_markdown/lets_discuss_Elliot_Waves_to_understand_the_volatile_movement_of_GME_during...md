@@ -1,5 +1,6 @@
-# Author: thisonedudeyouknow
-# Post URL: [https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/](https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/)
+#Title: let's discuss Elliot Waves to understand the volatile movement of GME during this MOASS and where the fuck we are in this trillion-dollar-wealth-transfer-shit-storm-hedge-fund-take-down
+#Author: thisonedudeyouknow
+#Post URL: [https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/](https://www.reddit.com/r/GME/comments/meumz4/lets_discuss_elliot_waves_to_understand_the/)
 
 
 first off... this is GME... nothing about this is normal and shit could change at literally any moment due to shares being recalled or other hedge fund tactics' fuckin everything up.
@@ -22,7 +23,7 @@ Elliot Waves are made up of smaller Elliot Waves and also contribute to larger E
 
 &#x200B;
 
-[Elliot Wave Example](https://preview.redd.it/uufs805hzop61.png?width=2773&format=png&auto=webp&s=f4214ba07c9527813b87ec87d527bde564ec432d)
+![Elliot Wave Example](https://preview.redd.it/uufs805hzop61.png?width=2773&format=png&auto=webp&s=f4214ba07c9527813b87ec87d527bde564ec432d)
 
 Okay, now how does this relate to GME?
 
@@ -30,7 +31,7 @@ Below is a screenshot of GME price action where each candle is **1 day**
 
 &#x200B;
 
-[Daily Price Action of GME where January 28th is the 5 & 1 of the Elliot Wave Theory](https://preview.redd.it/uioh2mfu0pp61.png?width=2389&format=png&auto=webp&s=b3e11ad326729f3a3a70ee4e4f2a7607e7929069)
+![Daily Price Action of GME where January 28th is the 5 & 1 of the Elliot Wave Theory](https://preview.redd.it/uioh2mfu0pp61.png?width=2389&format=png&auto=webp&s=b3e11ad326729f3a3a70ee4e4f2a7607e7929069)
 
 As we can see on January 28th we hit an all-time-high. This would mean - correlating to the Elliot Wave Theory that the peak of the Impulse Wave is the **5 and also the 1** (Red Theory) of a new **Larger Scale Impulse Wave**.
 

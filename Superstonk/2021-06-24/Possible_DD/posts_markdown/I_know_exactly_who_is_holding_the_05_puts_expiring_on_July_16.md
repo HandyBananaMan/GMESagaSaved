@@ -1,5 +1,6 @@
-# Author: nuer228
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o776lz/i_know_exactly_who_is_holding_the_05_puts/](https://www.reddit.com/r/Superstonk/comments/o776lz/i_know_exactly_who_is_holding_the_05_puts/)
+#Title: I know exactly who is holding the 0.5$ puts expiring on July 16
+#Author: nuer228
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o776lz/i_know_exactly_who_is_holding_the_05_puts/](https://www.reddit.com/r/Superstonk/comments/o776lz/i_know_exactly_who_is_holding_the_05_puts/)
 
 
 So you know those 'worthless' 0.5$ 148,426 puts that are expiring on July 16? I may know exactly who owns those:

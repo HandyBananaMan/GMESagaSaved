@@ -1,5 +1,6 @@
-# Author: TheGameIsAboutGlory1
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl10gy/my_ultimate_confirmation_biasthe_strongest/](https://www.reddit.com/r/Superstonk/comments/nl10gy/my_ultimate_confirmation_biasthe_strongest/)
+#Title: My ultimate confirmation bias...the strongest evidence that makes me positive that GME will infinity squeeze.....the New York Mets
+#Author: TheGameIsAboutGlory1
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl10gy/my_ultimate_confirmation_biasthe_strongest/](https://www.reddit.com/r/Superstonk/comments/nl10gy/my_ultimate_confirmation_biasthe_strongest/)
 
 
 For those of you who are unaware, the New York Mets are basically baseball's version of Murphy's Law. Literally anything that can go wrong for them, will indeed go wrong.

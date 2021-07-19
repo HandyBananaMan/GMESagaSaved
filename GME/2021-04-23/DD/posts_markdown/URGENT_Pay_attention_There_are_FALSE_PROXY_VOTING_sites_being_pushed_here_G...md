@@ -1,5 +1,6 @@
-# Author: thet-shirtguy
-# Post URL: [https://www.reddit.com/r/GME/comments/mx0rb6/urgent_pay_attention_there_are_false_proxy_voting/](https://www.reddit.com/r/GME/comments/mx0rb6/urgent_pay_attention_there_are_false_proxy_voting/)
+#Title: *URGENT* Pay attention! There are FALSE PROXY VOTING sites being pushed here. Go to gamestop.com to find the correct one.
+#Author: thet-shirtguy
+#Post URL: [https://www.reddit.com/r/GME/comments/mx0rb6/urgent_pay_attention_there_are_false_proxy_voting/](https://www.reddit.com/r/GME/comments/mx0rb6/urgent_pay_attention_there_are_false_proxy_voting/)
 
 
 Scroll to the bottom of their site, click on corporate, then Investor relations. The voting site listed is the correct site.

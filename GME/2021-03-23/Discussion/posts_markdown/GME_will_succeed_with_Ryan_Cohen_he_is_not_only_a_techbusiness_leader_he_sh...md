@@ -1,5 +1,6 @@
-# Author: Ibbladn
-# Post URL: [https://www.reddit.com/r/GME/comments/mbet5w/gme_will_succeed_with_ryan_cohen_he_is_not_only_a/](https://www.reddit.com/r/GME/comments/mbet5w/gme_will_succeed_with_ryan_cohen_he_is_not_only_a/)
+#Title: GME will succeed with Ryan Cohen he is not only a tech/business leader he shows compassion to his customers.
+#Author: Ibbladn
+#Post URL: [https://www.reddit.com/r/GME/comments/mbet5w/gme_will_succeed_with_ryan_cohen_he_is_not_only_a/](https://www.reddit.com/r/GME/comments/mbet5w/gme_will_succeed_with_ryan_cohen_he_is_not_only_a/)
 
 
 I am not sure how many you are familiar with Chewy as it was a pet company.   Chewy had a policy that if your pet passed away after ordering food or toys, etc they would refund your money.  This practice was started back when Ryan Cohen owned the company and still continues today because it received so much positive feedback even though he sold it.  So think about that customer service. 

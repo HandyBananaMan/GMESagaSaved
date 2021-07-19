@@ -1,5 +1,6 @@
-# Author: jumpster81
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)
+#Title: Amazon, Bain Capital and Citadel Bust Out the Competition
+#Author: jumpster81
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/](https://www.reddit.com/r/Superstonk/comments/np33hr/amazon_bain_capital_and_citadel_bust_out_the/)
 
 
 What is a bust out?
@@ -108,7 +109,7 @@ Quick example:
 
 &#x200B;
 
-[Bain Had it out for toy companies for some reason](https://preview.redd.it/7b3w8co4bg271.jpg?width=416&format=pjpg&auto=webp&s=af91917f4dcbd9adc43834aae644d0916d76f2b5)
+![Bain Had it out for toy companies for some reason](https://preview.redd.it/7b3w8co4bg271.jpg?width=416&format=pjpg&auto=webp&s=af91917f4dcbd9adc43834aae644d0916d76f2b5)
 
 Bain Capital acquired KB Toys in 2002 through a Leveraged Buy Out (LBO) under the guise of turning the company around, but this was just a front for their real intentions, you guessed it, a bust out. As soon as Bain had control of the company they issued massive bonuses to executives, bleeding the company of its cash. This would go on until the business declared bankruptcy,  KB Toys filed for chapter 11 in 2004, 2 years after Bain came in to “Turn around” KB toys.
 
@@ -142,7 +143,7 @@ When TRU was fully busted out and tapped out for cash and usefulness it was liqu
 
 &#x200B;
 
-[These companies couldn't care less about the Communities and the people they hurt when these schemes are implemented](https://preview.redd.it/7lpymp3heg271.jpg?width=1200&format=pjpg&auto=webp&s=3e3842e23d94fab479dc24fa5f52e41ae92360f5)
+![These companies couldn't care less about the Communities and the people they hurt when these schemes are implemented](https://preview.redd.it/7lpymp3heg271.jpg?width=1200&format=pjpg&auto=webp&s=3e3842e23d94fab479dc24fa5f52e41ae92360f5)
 
 So who benefits the most from this? Retailers such as WalMart, Target, and of course, Amazon.
 
@@ -252,4 +253,4 @@ Bain capital explained by Tony Soprano
 
 This explains what Bain does VERY well 
 
-Thank you to u/![AceoFiSpades](https://www.reddit.com/user/AceoFiSpades/)
+Thank you to u/[AceoFiSpades](https://www.reddit.com/user/AceoFiSpades/)

@@ -1,5 +1,6 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/](https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/)
+#Title: Michael Burry Handed us the Missing Piece on a Silver Plate... | How Financial Institutions are Using US Treasury Securities Nearly Caused the Market to Collapse and What Does it Mean for Us?
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/](https://www.reddit.com/r/GME/comments/mil875/michael_burry_handed_us_the_missing_piece_on_a/)
 
 
 Alright, this took a long time to write, and was all thanks to Michael Burry (MB) linking [this](https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-outs-of-collateral-re-use-20181221.htm) in his profile, then mysteriously removing it less than a day later. This post will have a lot of parallels to [the EVERYTHING short](https://www.reddit.com/r/GME/comments/mgucv2/the_everything_short/). 
@@ -14,7 +15,7 @@ Alrighty then, hold on for a big read. You’ll feel educated af after reading t
 
 &#x200B;
 
-[Visualisation of how repos work](https://preview.redd.it/d0reff3wnrq61.png?width=573&format=png&auto=webp&s=519bb6f2e833f064f79fddf7a004a7a9834393ff)
+![Visualisation of how repos work](https://preview.redd.it/d0reff3wnrq61.png?width=573&format=png&auto=webp&s=519bb6f2e833f064f79fddf7a004a7a9834393ff)
 
 This visualisation is saying that repos and reverse are the same transactions, but titled differently based on which side of the transaction you’re on.
 
@@ -85,7 +86,7 @@ Thanks again to u/atobitt for the screenshots. The below is a more in-depth expl
 
 &#x200B;
 
-[Thanks u\/atobitt for these.](https://preview.redd.it/tq7zu2c8orq61.png?width=1122&format=png&auto=webp&s=dd9d17788ecd02f9221470de9b1cee4104fbb16b)
+![Thanks u\/atobitt for these.](https://preview.redd.it/tq7zu2c8orq61.png?width=1122&format=png&auto=webp&s=dd9d17788ecd02f9221470de9b1cee4104fbb16b)
 
 There was a great case study done on this, and I value it thanks to the invaluable quotes from [market participants](https://www.ardea.com.au/repo-dislocations-a-case-study-in-market-inefficiency/#:~:text=The%20freezing%2Dup%20of%20repo,Financial%20Crisis%20(GFC).%E2%80%9D&text=The%20repo%20market%20is%20an,of%20the%20global%20financial%20system). For a more dry read, head on over to this [federal reserve link](https://www.federalreserve.gov/econres/notes/feds-notes/what-happened-in-money-markets-in-september-2019-20200227.htm#:~:text=In%20the%20repo%20market%2C%20there,supply%20mismatch%20in%20the%20market) however.
 
@@ -107,7 +108,7 @@ The side effect of this type of program means a banks excess reserves are not re
 
 &#x200B;
 
-[Never actually seen this movie](https://preview.redd.it/2w73gsnborq61.png?width=766&format=png&auto=webp&s=1347dfa5b09c1376cdeb146964b25df1ce9353ed)
+![Never actually seen this movie](https://preview.redd.it/2w73gsnborq61.png?width=766&format=png&auto=webp&s=1347dfa5b09c1376cdeb146964b25df1ce9353ed)
 
 Hop on in kids, let’s head back to pre-GFC times.
 
@@ -137,7 +138,7 @@ So what does the Fed decide to do next? Fed goes BRRR.
 
 The effective [federal funds rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) below is the rate at which commercial banks can borrow and lend their excess reserves to each other overnight.
 
-[BRRRRRR](https://preview.redd.it/o69kymakorq61.png?width=793&format=png&auto=webp&s=a8f1f1e54d135e4bc8bc84cb936879fcf6f4123e)
+![BRRRRRR](https://preview.redd.it/o69kymakorq61.png?width=793&format=png&auto=webp&s=a8f1f1e54d135e4bc8bc84cb936879fcf6f4123e)
 
 To delve into a little deeper why higher reserves mean a more stable rate, what we’re really saying is that banks can turn a profit from pricing inefficiencies in the market. If they did not have the HQLA restriction as on example, they may have been able to shift assets around on their balance sheet when they see the repo rate start to creep higher to make a nice dime off it.
 
@@ -159,7 +160,7 @@ Alright, back to Michael Burry. He put a link in his profile for about a day, ma
 
 &#x200B;
 
-[He trying to tell us something... but what?](https://preview.redd.it/5z91e19norq61.png?width=298&format=png&auto=webp&s=92790b3d797c6e9b96c0289361948f0cde24ee0d)
+![He trying to tell us something... but what?](https://preview.redd.it/5z91e19norq61.png?width=298&format=png&auto=webp&s=92790b3d797c6e9b96c0289361948f0cde24ee0d)
 
 Why did he link this and what’s in it? Why is the timing so convenient? Alot of what’s discussed in the linked federal reserve notes is scarily similar to what u/atobitt was touching on. It’s all about the circulation of collateral, so let’s dig into it.
 
@@ -216,7 +217,7 @@ u/oaf_king owns my pug now. Below is a chart of their balance sheets going back 
 
 &#x200B;
 
-[https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/1wrnobvxiuq61.png?width=598&format=png&auto=webp&s=9100cb9fb1d84ce7076b818697fcd441d66c9a66)
+![https:\/\/sec.report\/CIK\/0001284170](https://preview.redd.it/1wrnobvxiuq61.png?width=598&format=png&auto=webp&s=9100cb9fb1d84ce7076b818697fcd441d66c9a66)
 
 Note, the blue and red line are extremely close to each other, which is why you don't see the repo series in the chart easily.
 
@@ -232,7 +233,7 @@ Because they are greedy and have been re-using collateral to create collateral c
 
 &#x200B;
 
-[Fed Rates](https://preview.redd.it/1v8c59nzorq61.png?width=1165&format=png&auto=webp&s=39d13e39064ff0bb8633b83cffa01328e2f82bd8)
+![Fed Rates](https://preview.redd.it/1v8c59nzorq61.png?width=1165&format=png&auto=webp&s=39d13e39064ff0bb8633b83cffa01328e2f82bd8)
 
 **Why did 2020 see a greater than 100% increase?**
 
@@ -248,7 +249,7 @@ Shithead B: Win win, \*snorts cocaine\*
 
 &#x200B;
 
-[Fed Rates](https://preview.redd.it/rtmi75m2prq61.png?width=1163&format=png&auto=webp&s=9b16c51abcca48ced50e03d6edb4aed9f8c5bbfa)
+![Fed Rates](https://preview.redd.it/rtmi75m2prq61.png?width=1163&format=png&auto=webp&s=9b16c51abcca48ced50e03d6edb4aed9f8c5bbfa)
 
 # Translate What this means into Monke Please
 
@@ -280,7 +281,7 @@ I believe this is the second thing Mr MB was trying to bring to our attention, w
 
 &#x200B;
 
-[Fig 2a. https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/ins-and-outs-of-collateral-re-use-20181221.htm](https://preview.redd.it/hy1dovq8prq61.png?width=1142&format=png&auto=webp&s=a36b4f908cb30c98052f07dfaf99d0552ed57a3f)
+![Fig 2a. https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/ins-and-outs-of-collateral-re-use-20181221.htm](https://preview.redd.it/hy1dovq8prq61.png?width=1142&format=png&auto=webp&s=a36b4f908cb30c98052f07dfaf99d0552ed57a3f)
 
 Above we have a graph that shows the incoming and outgoing collateral, focus on the NON dotted lines. Of the outgoing collateral, around 65-70% of the collateral is being reused or as we say “rehypothecated”. It’s also representing close to $2 trillion.
 
@@ -290,7 +291,7 @@ This [paper](https://www.federalreserve.gov/econres/notes/feds-notes/ins-and-out
 
 &#x200B;
 
-[Fig 2b, 2c. https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/ins-and-outs-of-collateral-re-use-20181221.htm](https://preview.redd.it/zvpxdbqcprq61.png?width=1149&format=png&auto=webp&s=d1744077eba56d1606c903cff947165f4782c5f6)
+![Fig 2b, 2c. https:\/\/www.federalreserve.gov\/econres\/notes\/feds-notes\/ins-and-outs-of-collateral-re-use-20181221.htm](https://preview.redd.it/zvpxdbqcprq61.png?width=1149&format=png&auto=webp&s=d1744077eba56d1606c903cff947165f4782c5f6)
 
 Focus on the right side, as we’re mainly interested in rehypothecated products.
 
@@ -299,7 +300,7 @@ Focus on the right side, as we’re mainly interested in rehypothecated products
 
 &#x200B;
 
-[Fig 3a, link above](https://preview.redd.it/xb9i5yjhprq61.png?width=1153&format=png&auto=webp&s=ddcd5b7360b7eec0c209e153f9789b0b1cd52b11)
+![Fig 3a, link above](https://preview.redd.it/xb9i5yjhprq61.png?width=1153&format=png&auto=webp&s=ddcd5b7360b7eec0c209e153f9789b0b1cd52b11)
 
 Fucking feel the onion mate, this is a subset of the first graph, focused on Treasury securities only. I nearly spat out my tea when I saw this.
 
@@ -309,7 +310,7 @@ The tiny amount of HGLA treasury securities held pretty much suggest that the ma
 
 &#x200B;
 
-[Fig 3b, 3c](https://preview.redd.it/jfpqys2lprq61.png?width=1159&format=png&auto=webp&s=66024cc24f4ef56dae44d82dc62d352ce14ffbd2)
+![Fig 3b, 3c](https://preview.redd.it/jfpqys2lprq61.png?width=1159&format=png&auto=webp&s=66024cc24f4ef56dae44d82dc62d352ce14ffbd2)
 
 One last layer of onion to peel, I swear.  There’s two observations which are interesting and one brings flashbacks.
 
@@ -335,7 +336,7 @@ Well, I’ve seen [this movie before](https://www.imdb.com/title/tt1596363/), on
 
 &#x200B;
 
-[fig 6d](https://preview.redd.it/j2m80f7qprq61.png?width=981&format=png&auto=webp&s=0c9320844dbc1d3213c0e72bab7e0a319c80c816)
+![fig 6d](https://preview.redd.it/j2m80f7qprq61.png?width=981&format=png&auto=webp&s=0c9320844dbc1d3213c0e72bab7e0a319c80c816)
 
 Another fucking chart jsmar?? Yes. Last one, I promise.
 
@@ -423,7 +424,7 @@ Important Note From Me: **I do not personally agree** with the conclusions drawn
 
 &#x200B;
 
-[Thanks u\/oaf\_king](https://preview.redd.it/2yvq0984iuq61.png?width=598&format=png&auto=webp&s=fa16b562283ab989547c50fc22cf4c4f9944da6d)
+![Thanks u\/oaf\_king](https://preview.redd.it/2yvq0984iuq61.png?width=598&format=png&auto=webp&s=fa16b562283ab989547c50fc22cf4c4f9944da6d)
 
 Note, the blue and red line are extremely close to each other, which is why you don't see the repos.
 
@@ -439,4 +440,4 @@ Speculate away apes.
 
 **Resource Edit:** If there is one thing you do after reading this, watch the following video.
 
-![https://www.youtube.com/watch?v=PHe0bXAIuk0](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+[https://www.youtube.com/watch?v=PHe0bXAIuk0](https://www.youtube.com/watch?v=PHe0bXAIuk0)

@@ -1,12 +1,13 @@
-# Author: Insertions_Coma
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/)
+#Title: DFV's Cat Uno Tweet, and What he was Trying to Tell us About the 21 FTD Cycle - FTD Cycle Finally Explained DD
+#Author: Insertions_Coma
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/)
 
 
 First off I bet you are wondering how you could possibly have a DD post on a tweet. Well, the tweet in question is the one tweet from DFV that I believe he was trying to drop us a major hint on what he is looking at. But nobody here seemed to ever be able to decipher it.
 
 I believe I have deciphered it, and you won't believe what I found after months of pondering this tweet. This is not just simply confirmation bias. This is decoding the tweet and then researching what data we have to support it.
 
-[DFV Tweet 4\/9](https://preview.redd.it/ry2vy4qod6071.png?width=1500&format=png&auto=webp&s=fd5a55a8bc9c62e44a77a303d34dfd529527df16)
+![DFV Tweet 4\/9](https://preview.redd.it/ry2vy4qod6071.png?width=1500&format=png&auto=webp&s=fd5a55a8bc9c62e44a77a303d34dfd529527df16)
 
 # First, we will start off with the obvious.
 
@@ -46,7 +47,7 @@ What really makes this interesting, is the day DFV tweeted the cats playing UNO.
 
 Also:
 
-[Look what else he posted on 4\/9 just before the cats playing UNO. \\"What do we say to the god of death?\\" \\"Not today\\"](https://preview.redd.it/5vrxppelu6071.png?width=601&format=png&auto=webp&s=cdb18a8d1ee30766089a85b6fca74d146e6fadd9)
+![Look what else he posted on 4\/9 just before the cats playing UNO. \\"What do we say to the god of death?\\" \\"Not today\\"](https://preview.redd.it/5vrxppelu6071.png?width=601&format=png&auto=webp&s=cdb18a8d1ee30766089a85b6fca74d146e6fadd9)
 
 &#x200B;
 
@@ -108,7 +109,7 @@ Read that again, "***the appropriate closeout horizon for a position depends on 
 
 Ya know, I kinda recall seeing a few posts about [low trade size in OTC markets](https://www.reddit.com/r/Superstonk/comments/n5qp96/ama_followup/)... /s
 
-[Courtesy of David Lauer himself](https://preview.redd.it/k38yriexm6071.png?width=1219&format=png&auto=webp&s=17a23251a3ad9f0e7ed4bed54a8b23485b3610f4)
+![Courtesy of David Lauer himself](https://preview.redd.it/k38yriexm6071.png?width=1219&format=png&auto=webp&s=17a23251a3ad9f0e7ed4bed54a8b23485b3610f4)
 
 u/dlauer notes that the overall volume of OTC has not increased, however, the transaction size has dropped massively. **According to the calculation to determine OTC risk, the smaller the trades, the less margin requirement you will have.**
 
@@ -128,4 +129,4 @@ I am completely open to *constructive* criticism and if anything in here is prov
 
 Edit 1: For some extra tit-jacking, here is [Ryan Cohens Tweet from today.](https://twitter.com/ryancohen/status/1395047208748261379) A heart emoji. Also expressed as < 3, or in English, less than three. Less than 3 what, Ryan? Tradng Days?
 
-Tit-jacking edit 2: ![Here is RC's tweet referencing 10 days.](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/gys6tey?utm_source=share&utm_medium=web2x&context=3)
+Tit-jacking edit 2: [Here is RC's tweet referencing 10 days.](https://www.reddit.com/r/Superstonk/comments/ngoodu/dfvs_cat_uno_tweet_and_what_he_was_trying_to_tell/gys6tey?utm_source=share&utm_medium=web2x&context=3)

@@ -1,5 +1,6 @@
-# Author: c-digs
-# Post URL: [https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/)
+#Title: SR-OCC-2021-004 Finalizes This Week; Is This the Convergence?
+#Author: c-digs
+#Post URL: [https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/](https://www.reddit.com/r/GME/comments/napco9/srocc2021004_finalizes_this_week_is_this_the/)
 
 
 **TL;DR:**
@@ -15,11 +16,11 @@
 
 [SR-OCC-2021-004](https://www.sec.gov/rules/sro/occ/2021/34-91445.pdf) ("OCC-004") was filed on **March 31, 2021:**
 
-[SR-OCC-2021-004 filing date](https://preview.redd.it/uv0h05ka8py61.png?width=660&format=png&auto=webp&s=15413aa698d043a6aa336887e2c204bebdfff2a3)
+![SR-OCC-2021-004 filing date](https://preview.redd.it/uv0h05ka8py61.png?width=660&format=png&auto=webp&s=15413aa698d043a6aa336887e2c204bebdfff2a3)
 
 With a date of effectiveness **45 calendar days** after the date of filing.
 
-[See page 12 of SR-OCC-2021-004](https://preview.redd.it/yg4uj8yyzoy61.png?width=672&format=png&auto=webp&s=d7c681f570c9c4a60344f2e5a564c73da0c2db8b)
+![See page 12 of SR-OCC-2021-004](https://preview.redd.it/yg4uj8yyzoy61.png?width=672&format=png&auto=webp&s=d7c681f570c9c4a60344f2e5a564c73da0c2db8b)
 
 That would put the date at **May 15, 2021** or this Saturday.  ( u/StatisticianActive48 points out that this could alternatively be **May 21, 2021** instead since the actual publication to the Federal Register was on April 6, 2021 ).
 
@@ -30,25 +31,25 @@ One of two things will happen in the next ~~two~~ few days:
 
 [On April 5, 2021, I wrote the following](https://www.reddit.com/r/Superstonk/comments/mkvgew/why_are_we_trading_sideways_why_is_the_borrow/):
 
-[My closing thoughts from that earlier post; my only regret is not selling covered calls!  I had a very strong sense that NOTHING would be allowed to substantially move the price of GME until OCC-004 was in place.](https://preview.redd.it/8idzdd3ybpy61.png?width=696&format=png&auto=webp&s=feac234cffaef648a76c6e177a16ae63f166aae2)
+![My closing thoughts from that earlier post; my only regret is not selling covered calls!  I had a very strong sense that NOTHING would be allowed to substantially move the price of GME until OCC-004 was in place.](https://preview.redd.it/8idzdd3ybpy61.png?width=696&format=png&auto=webp&s=feac234cffaef648a76c6e177a16ae63f166aae2)
 
 For those that have not followed my posts in the past, the OCC is the **Options Clearing Corporation** which functions similarly to the DTCC except its for options.  My thought is that **OCC-004 is a critical piece of the puzzle** to prepare for the first major margin calls that will initiate the squeeze as it opens up the asset auction qualifications and procedures once an OCC member defaults as a result.
 
 The reason why this is important is **market stability** and I believe that this is one of the reasons why we have been trading sideways since March 16th:
 
-[Two notable bands where we've been trading for two months now.](https://preview.redd.it/upypeusd3py61.png?width=1634&format=png&auto=webp&s=dab31a39e45d157143ac2518369567af478f827a)
+![Two notable bands where we've been trading for two months now.](https://preview.redd.it/upypeusd3py61.png?width=1634&format=png&auto=webp&s=dab31a39e45d157143ac2518369567af478f827a)
 
 It is also likely one of the reasons why many big players like [Berkshire](https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-sells-stocks-reduces-buybacks-q1-earnings-2021-5-1030373389) and BlackRock are moving into cash heavy positions.
 
 When an OCC member -- ***like Citadel*** \-- fails, the member's assets are used as collateral to obtain **immediate liquidity** to keep the markets and OCC functioning.  These assets are then auctioned off to recover the funds used to inject that liquidity.  The thinking is that the more bidders at auction, the more likely it is that the assets will be sold closer to market value and prevent a market-wide collapse of asset prices (this is kind of already happening these past two days...).
 
-[Key lines on page 7](https://preview.redd.it/tcx9fgcz1py61.png?width=584&format=png&auto=webp&s=ef6a6c8d165494565cfb6b25d6d328b795a56b47)
+![Key lines on page 7](https://preview.redd.it/tcx9fgcz1py61.png?width=584&format=png&auto=webp&s=ef6a6c8d165494565cfb6b25d6d328b795a56b47)
 
 It also minimizes OCC members' exposure to that default if they can recover more cash through the auction process.  [Remember, OCC members include: Bank of America, Charles Schwab, Citadel, Credit Suisse, Deutsche Bank, Goldman Sachs, Interactive Brokers, JP Morgan, Robinhood, TD Ameritrade, UBS, Vanguard, and many others](https://www.theocc.com/Company-Information/Member-Directory) who don't want to pay for the mistakes of a few of their members.
 
 Additionally, the changes in OCC-004 result in ***non-OCC members*** having an easier path to bidding at auction (remember: firms like Fidelity, Berkshire, and BlackRock are **NOT** OCC members) as part of this process to qualify more bidders.
 
-[Pages 4 and 5](https://preview.redd.it/qn9xn8sj2py61.png?width=604&format=png&auto=webp&s=1fc96eb1d50dba621f3dcf215353cc491fae0f65)
+![Pages 4 and 5](https://preview.redd.it/qn9xn8sj2py61.png?width=604&format=png&auto=webp&s=1fc96eb1d50dba621f3dcf215353cc491fae0f65)
 
 My conjecture is that all of DTCC, OCC, and SEC ^(those "postponed" closed-door meetings?) have been buying time to prepare for the fallout of the squeeze so what we see with the price manipulation around GME is not solely due to the action of the shorts, but all of the key market players as a whole to contain this fallout from potentially multiple members of DTCC and OCC failing.
 
@@ -57,7 +58,7 @@ The recent actions by Bezos and Gates may also be related as they seek to protec
 To watch for this regulatory activity, check here:
 
 * SEC What's New page which is updated daily usually after noon: [https://www.sec.gov/news/whatsnew/wn-today.shtml](https://www.sec.gov/news/whatsnew/wn-today.shtml)
-* SEC OCC Rulemaking page: ![https://www.sec.gov/rules/sro/occ.htm](https://www.sec.gov/rules/sro/occ.htm)
+* SEC OCC Rulemaking page: [https://www.sec.gov/rules/sro/occ.htm](https://www.sec.gov/rules/sro/occ.htm)
 
 Are we guaranteed to launch immediately after OCC-004?  No.  But I think that the likeliness of launch *feels* imminent with the multiple incidents we are observing this week, the market pullback, and the sudden rise in overall volatility.  I think it will also depend on how far along they are with their pool of bidders.
 

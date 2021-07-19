@@ -1,5 +1,6 @@
-# Author: Magistricide
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/](https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/)
+#Title: Etoro statistics show that retail owns about 75 million shares on April 15th.
+#Author: Magistricide
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/](https://www.reddit.com/r/Superstonk/comments/nw7t2u/etoro_statistics_show_that_retail_owns_about_75/)
 
 
 First of all, I would like to apologize for my last post. It would seem I had made a mistake. I'm not exactly sure where the numbers were wrong, but they are in conflict with this calculation, which I believe is far more accurate.
@@ -8,9 +9,9 @@ Now, let's get into things.
 
 Etoro has made the following claims. It has 1.5% of eligible GME voters, 63% of eligible voters voted, and the number of shares voted is 709,497.
 
-[Disappointed by this voter turnout.](https://preview.redd.it/ff24i1mgdb471.jpg?width=638&format=pjpg&auto=webp&s=25fdff7cb5b9680093e3dfdc8a4593af67d5792c)
+![Disappointed by this voter turnout.](https://preview.redd.it/ff24i1mgdb471.jpg?width=638&format=pjpg&auto=webp&s=25fdff7cb5b9680093e3dfdc8a4593af67d5792c)
 
-[This number is straight from GME themselves](https://preview.redd.it/ky02idrgdb471.jpg?width=515&format=pjpg&auto=webp&s=c9005ec0c27137e4270e949b64cce19f0a4f4b28)
+![This number is straight from GME themselves](https://preview.redd.it/ky02idrgdb471.jpg?width=515&format=pjpg&auto=webp&s=c9005ec0c27137e4270e949b64cce19f0a4f4b28)
 
 **Let's do some fast math.**
 
@@ -34,7 +35,7 @@ As I do not believe there are tens of thousands of institutions that own a signi
 
 According to Etoro, as of April, retail owns \~75 million shares out of the \~41 million float. I know that myself, along with **many others, purchased more shares after April.**
 
-**However, according to this filing, the top 6 institutions + insider ownership accounts for \~39.5 million shares, leaving only \~31.5 million shares up for grabs.** ![**https://news.gamestop.com/node/18846/html**](https://news.gamestop.com/node/18846/html)
+**However, according to this filing, the top 6 institutions + insider ownership accounts for \~39.5 million shares, leaving only \~31.5 million shares up for grabs.** [**https://news.gamestop.com/node/18846/html**](https://news.gamestop.com/node/18846/html)
 
 Ding Dong the price is wrong. 
 

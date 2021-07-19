@@ -1,5 +1,6 @@
-# Author: schfier
-# Post URL: [https://www.reddit.com/r/GME/comments/miy38o/if_you_are_not_convinced_in_the_company_because/](https://www.reddit.com/r/GME/comments/miy38o/if_you_are_not_convinced_in_the_company_because/)
+#Title: if you are not convinced in the company because of no Moab or whatever. REMEMBER THAT PEOPLE FROM AMAZON, GOOGLE, CHEWY, JUST GOT CONVINCED, JOINED THE BOARD AND ARE LITERALLY PUTTING THEIR NAME ON THE LINE. i don't care about your mother of all conspiracies.
+#Author: schfier
+#Post URL: [https://www.reddit.com/r/GME/comments/miy38o/if_you_are_not_convinced_in_the_company_because/](https://www.reddit.com/r/GME/comments/miy38o/if_you_are_not_convinced_in_the_company_because/)
 
 
  Mr. Wilke brings nearly two decades of branding, consumer goods and e-commerce experience to GameStop. **He joins from Amazon, where he spent the past seven years holding a variety of senior roles across segments such as Amazon Fresh, Prime Pantry and Worldwide Private Brands.** 

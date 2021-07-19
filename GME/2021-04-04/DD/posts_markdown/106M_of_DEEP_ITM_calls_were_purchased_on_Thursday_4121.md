@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/)
+#Title: $106M of DEEP ITM calls were purchased on Thursday (4/1/21)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/](https://www.reddit.com/r/GME/comments/mk6e2q/106m_of_deep_itm_calls_were_purchased_on_thursday/)
 
 
 Happy Easter Apes,

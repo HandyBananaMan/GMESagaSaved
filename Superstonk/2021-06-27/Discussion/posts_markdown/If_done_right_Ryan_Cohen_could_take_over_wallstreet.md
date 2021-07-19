@@ -1,5 +1,6 @@
-# Author: trollwallstreet
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o97nlw/if_done_right_ryan_cohen_could_take_over/](https://www.reddit.com/r/Superstonk/comments/o97nlw/if_done_right_ryan_cohen_could_take_over/)
+#Title: If done right, Ryan Cohen could take over wallstreet
+#Author: trollwallstreet
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o97nlw/if_done_right_ryan_cohen_could_take_over/](https://www.reddit.com/r/Superstonk/comments/o97nlw/if_done_right_ryan_cohen_could_take_over/)
 
 
 You guys are thinking to small.  GameStop releases a etherium clone with 10 coins for every share.  All GameStop holders install app and redeem their code to receive coins.  Shorts are fucked.

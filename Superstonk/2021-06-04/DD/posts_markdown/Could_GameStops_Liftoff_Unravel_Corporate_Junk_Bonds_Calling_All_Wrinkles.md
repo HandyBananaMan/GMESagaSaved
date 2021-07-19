@@ -1,5 +1,6 @@
-# Author: Get-It-Got
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/](https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/)
+#Title: Could GameStop's Liftoff Unravel Corporate Junk Bonds? Calling All Wrinkles!!!
+#Author: Get-It-Got
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/](https://www.reddit.com/r/Superstonk/comments/ns7k6q/could_gamestops_liftoff_unravel_corporate_junk/)
 
 
 You like pizza parties? I like pizza parties and I bet you do too. So why the fuck weren't we invited to the pizza party Blackrock and company are throwing on June 18?
@@ -38,15 +39,15 @@ Wow, I thought. I'd like to see these options in action. So I started searching 
 
 June 4:
 
-[A little bit of action here, but nothing crazy.](https://preview.redd.it/juvavg9nc9371.png?width=1184&format=png&auto=webp&s=dda80a88f983fb1338618ea649a7f344db07c4be)
+![A little bit of action here, but nothing crazy.](https://preview.redd.it/juvavg9nc9371.png?width=1184&format=png&auto=webp&s=dda80a88f983fb1338618ea649a7f344db07c4be)
 
 June 11:
 
-[Again, not much to see here.](https://preview.redd.it/22c35w3uc9371.png?width=1180&format=png&auto=webp&s=e504bbc79939f1cdabcbdadbb6a5c77c96daf374)
+![Again, not much to see here.](https://preview.redd.it/22c35w3uc9371.png?width=1180&format=png&auto=webp&s=e504bbc79939f1cdabcbdadbb6a5c77c96daf374)
 
 June 25:
 
-[Again, nothing doing.](https://preview.redd.it/h889570zc9371.png?width=1178&format=png&auto=webp&s=bd4efe093ee87cc95a9ecd12f60e2fac1b02a3ee)
+![Again, nothing doing.](https://preview.redd.it/h889570zc9371.png?width=1178&format=png&auto=webp&s=bd4efe093ee87cc95a9ecd12f60e2fac1b02a3ee)
 
 Wait, what about June 18? I forgot June 18:
 
@@ -70,7 +71,7 @@ https://preview.redd.it/t959c1pme9371.jpg?width=643&format=pjpg&auto=webp&s=31c0
 
 Another thing ... in looking at the different positions between Citadel and Blackrock ... if they are not buddies and they're not planning on playing nice, Citadel looks vulnerable when it comes to Facebook. It's Citadel's largest share position by $$$$ amount ($850MM), and Blackrock owns $46B in FB. In one fell swoop, Blackrock could recall all its shares while at the same time dumping/tanking FB. What would you do then, Mr. Mayo? There's no fudging share value like with options ([https://www.reddit.com/r/Superstonk/comments/nfczb2/even\_more\_cheat\_codes\_so\_much\_options\_fuckery/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nfczb2/even_more_cheat_codes_so_much_options_fuckery/?utm_source=share&utm_medium=web2x&context=3)). If FB tanks, it would be hard for Citadel to make that go away on their balance sheet. Furthermore, both BR and Citadel have been reducing their FB positions. You know who else has been reducing their position in Facebook? Our boy MZ:
 
-[Why no like FB anymore, Mark?](https://preview.redd.it/j02f8eszf9371.png?width=1500&format=png&auto=webp&s=7c043af7ba2619185fe354a163dd58b249a4ab6b)
+![Why no like FB anymore, Mark?](https://preview.redd.it/j02f8eszf9371.png?width=1500&format=png&auto=webp&s=7c043af7ba2619185fe354a163dd58b249a4ab6b)
 
 Yeah, all that red ... it's him. He's been dumping 50K-70K shares a day since November. Sustained selling. Very sustained selling.
 
@@ -100,6 +101,6 @@ Edit #3: Other DD worth checking out:
 
 [https://www.reddit.com/r/Superstonk/comments/nrk98j/something\_about\_sears/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nrk98j/something_about_sears/?utm_source=share&utm_medium=web2x&context=3)
 
-![https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty\_consumer\_survey\_data\_not\_reddit\_data/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty_consumer_survey_data_not_reddit_data/?utm_source=share&utm_medium=web2x&context=3)
+[https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty\_consumer\_survey\_data\_not\_reddit\_data/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/Superstonk/comments/nxxc87/thirdparty_consumer_survey_data_not_reddit_data/?utm_source=share&utm_medium=web2x&context=3)
 
 &#x200B;

@@ -1,8 +1,9 @@
-# Author: redditcommentary
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqmwn0/apologies_if_not_appropriate_in_ddgme_urgent/](https://www.reddit.com/r/DDintoGME/comments/nqmwn0/apologies_if_not_appropriate_in_ddgme_urgent/)
+#Title: Apologies if Not Appropriate in DD.GME - Urgent Request from Japanese Apes Calling for TWEETSTORM SUPPORT | Hashtag #楽天証券無能 (Rakuten Securities incompetent)
+#Author: redditcommentary
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqmwn0/apologies_if_not_appropriate_in_ddgme_urgent/](https://www.reddit.com/r/DDintoGME/comments/nqmwn0/apologies_if_not_appropriate_in_ddgme_urgent/)
 
 
-![u/StupidMonsters](https://www.reddit.com/user/StupidMonsters/):
+[u/StupidMonsters](https://www.reddit.com/user/StupidMonsters/):
 
 https://preview.redd.it/e2ij9t0f8s271.jpg?width=750&format=pjpg&auto=webp&s=894e42f580c47134c04a674fb0d74c6c88b57fb0
 

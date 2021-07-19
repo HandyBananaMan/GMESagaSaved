@@ -1,5 +1,6 @@
-# Author: Dan_Bren
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvv0t9/no_deep_itm_call_blocks_purchased_today_421/](https://www.reddit.com/r/Superstonk/comments/mvv0t9/no_deep_itm_call_blocks_purchased_today_421/)
+#Title: NO DEEP ITM CALL BLOCKS PURCHASED TODAY (4/21)
+#Author: Dan_Bren
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvv0t9/no_deep_itm_call_blocks_purchased_today_421/](https://www.reddit.com/r/Superstonk/comments/mvv0t9/no_deep_itm_call_blocks_purchased_today_421/)
 
 
 What up Apes,

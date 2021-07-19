@@ -1,5 +1,6 @@
-# Author: Dannyboi93
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nynoc8/yall_need_to_watch_episode_4_of_billions_because/](https://www.reddit.com/r/Superstonk/comments/nynoc8/yall_need_to_watch_episode_4_of_billions_because/)
+#Title: Y'all need to watch Episode 4 of Billions because it shows exactly what is happening now, but on the other side of the fence.
+#Author: Dannyboi93
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nynoc8/yall_need_to_watch_episode_4_of_billions_because/](https://www.reddit.com/r/Superstonk/comments/nynoc8/yall_need_to_watch_episode_4_of_billions_because/)
 
 
 I just started watching billions recently and I'm super surprised that there isn't more references in this sub with memes and other stuff.

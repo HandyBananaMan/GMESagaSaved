@@ -1,10 +1,11 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/](https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/)
+#Title: My broker just called me and wanted to know how I was doing? Did I need anything and thank me for being a customer. He admitted he looked at my account. I jokingly said, you are just checking in with me because you know I'm about to be rich. His mmhmm chuckle said it all, I'm bullish as fuck!
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/](https://www.reddit.com/r/Superstonk/comments/nw498k/my_broker_just_called_me_and_wanted_to_know_how_i/)
 
 
 &#x200B;
 
-[How I'm feeling after that call....](https://preview.redd.it/5juvpfcrha471.jpg?width=512&format=pjpg&auto=webp&s=5cb153f2139227e3ecc0b9c82f24aeeeb362469e)
+![How I'm feeling after that call....](https://preview.redd.it/5juvpfcrha471.jpg?width=512&format=pjpg&auto=webp&s=5cb153f2139227e3ecc0b9c82f24aeeeb362469e)
 
 &#x200B;
 
@@ -38,4 +39,4 @@ Mr. Furlong is a veteran e-commerce leader with significant experience implement
 
 1st Quarter Results
 
-![https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results](https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results)
+[https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results](https://news.gamestop.com/news-releases/news-release-details/gamestop-releases-first-quarter-2021-financial-results)

@@ -1,5 +1,6 @@
-# Author: v7o
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oi3zj0/theres_a_lot_of_new_dd_appearing_showing_that/](https://www.reddit.com/r/Superstonk/comments/oi3zj0/theres_a_lot_of_new_dd_appearing_showing_that/)
+#Title: There's a lot of new "DD" appearing showing that we're going to the moon this week.
+#Author: v7o
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oi3zj0/theres_a_lot_of_new_dd_appearing_showing_that/](https://www.reddit.com/r/Superstonk/comments/oi3zj0/theres_a_lot_of_new_dd_appearing_showing_that/)
 
 
 In amongst a sea of Lego memes I'm noticing the only DD posts are all hyping up this week as the beginning of the MOASS. Whilst I'm hyped af for all these yummy dates as well, I will remain zen and hold as I have done for 6 months. A lot of these posts explaining we're going to the moon this week don't really carry much information at all and with them being so hard to find in amongst so many Lego memes it's almost as if we're experiencing a pretty intense shill attack... I'll trust in Satori for now but the closer we get to the MOASS the more diluted this sub seems to become. If we hit $350 soon we might very well trigger a few margin calls but you're still not selling! Trust In The Stock (TITS) and just know we're going much much higher than $350...

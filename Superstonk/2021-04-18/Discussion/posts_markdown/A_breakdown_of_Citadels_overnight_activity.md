@@ -1,5 +1,6 @@
-# Author: Longjumping_College
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/](https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/)
+#Title: A breakdown of Citadel's overnight activity
+#Author: Longjumping_College
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/](https://www.reddit.com/r/Superstonk/comments/mtgr19/a_breakdown_of_citadels_overnight_activity/)
 
 
 Last night, Citadel worked through the night. Their phone traffic started ~1 hour before crypto crashed (no comment on that yet, just noting timing). They kept going, phone traffic increased enough that people drove to verify indeed lights were on. 
@@ -27,7 +28,7 @@ Later [confirmation Kenny boy worked til almost sun up](https://www.reddit.com/r
 
 Oh if you are curious, [JPMorgan was a busy boy too](https://www.reddit.com/r/Superstonk/comments/mt6rx7/citadel_working_late_spinoff_jp_morgan_has_a_red/)
 
-Let's not [leave out, BofA having a rough night also.](https://i.gyazo.com/95a15c236e76fa6a225cea50017d4d01.png)
+Let's not ![leave out, BofA having a rough night also.](https://i.gyazo.com/95a15c236e76fa6a225cea50017d4d01.png)
 
 &nbsp;
 
@@ -142,4 +143,4 @@ The [entire London banking district is throwing a 3AM block party it appears](ht
 
 [Citadel is still up and at it](https://www.reddit.com/r/Superstonk/comments/mtsr31/why/)
 
-Ok so.. ![the lawyers that represented the Federal Reserve Bank in 2008 are awake at midnight](https://www.reddit.com/r/Superstonk/comments/mtszx0/leading_law_firm_in_financial_services_regulation/)... *that's fine right?*
+Ok so.. [the lawyers that represented the Federal Reserve Bank in 2008 are awake at midnight](https://www.reddit.com/r/Superstonk/comments/mtszx0/leading_law_firm_in_financial_services_regulation/)... *that's fine right?*

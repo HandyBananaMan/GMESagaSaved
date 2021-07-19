@@ -1,5 +1,6 @@
-# Author: Blanderson_Snooper
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/](https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/)
+#Title: 🦍🦍 Compilation of MOASS and Exit Strategy DDs and Advice 🦍🦍
+#Author: Blanderson_Snooper
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/](https://www.reddit.com/r/DDintoGME/comments/n69qhp/compilation_of_moass_and_exit_strategy_dds_and/)
 
 
 It is time, my fellow Apes, to drown out the noise and focus on our individual exit strategies and preparations for the MOASS and the rest of our lives.
@@ -120,7 +121,7 @@ u/dodecaphonecism \- [Attorneys and You: A Guide for the Newly Rich](https://www
 
 u/Soluna7827 \- [Post-MOASS: An In-Depth Examination of Financial Advisors, Tax Attorneys, Certified Public Accountants, & Wills](https://www.reddit.com/r/Superstonk/comments/mutuhv/postmoass_an_indepth_examination_of_financial/)
 
-u/DamsellinDistress \- ![Being Rich is Easy, Staying Rich Isn't - Harsh Truths](https://www.reddit.com/r/Superstonk/comments/n3wdy1/being_rich_is_easy_staying_rich_isnt_harsh_truths/)
+u/DamsellinDistress \- [Being Rich is Easy, Staying Rich Isn't - Harsh Truths](https://www.reddit.com/r/Superstonk/comments/n3wdy1/being_rich_is_easy_staying_rich_isnt_harsh_truths/)
 
 &#x200B;
 

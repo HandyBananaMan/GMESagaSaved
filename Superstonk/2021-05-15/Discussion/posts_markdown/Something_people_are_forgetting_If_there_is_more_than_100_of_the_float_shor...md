@@ -1,5 +1,6 @@
-# Author: Jabarumba
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ndf8xw/something_people_are_forgetting_if_there_is_more/](https://www.reddit.com/r/Superstonk/comments/ndf8xw/something_people_are_forgetting_if_there_is_more/)
+#Title: Something people are forgetting: If there is more than 100% of the float shorted, when HF buys a share, it doesn't back into the float and create more liquidity. It gets cancelled against a naked short/synthetic share.
+#Author: Jabarumba
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ndf8xw/something_people_are_forgetting_if_there_is_more/](https://www.reddit.com/r/Superstonk/comments/ndf8xw/something_people_are_forgetting_if_there_is_more/)
 
 
 I have this weird feeling that people think paperhands are going to create enough liquidity that more shares can be bought/sold/rebought/resold by HF and get out of their massive short position, little by little. Nope. They need to cancel out each naked short/synthetic share. Every share they buy will get cancelled out. AND, when that's done, they need to re-buy a ratio of the 'real' shares they shorted. They are truly fucked even if just r/Superstonk apes HODL. Think. Please. The shares need to be cancelled, not just rebought. Relax. We got this. Buy. HODL. Vote.

@@ -1,5 +1,6 @@
-# Author: PennyStockPariah
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o2rubu/what_msm_got_right_about_the_move_to_the_russell/](https://www.reddit.com/r/Superstonk/comments/o2rubu/what_msm_got_right_about_the_move_to_the_russell/)
+#Title: What MSM got right about the move to the Russell 1000 and why it's good for Apes
+#Author: PennyStockPariah
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o2rubu/what_msm_got_right_about_the_move_to_the_russell/](https://www.reddit.com/r/Superstonk/comments/o2rubu/what_msm_got_right_about_the_move_to_the_russell/)
 
 
 So a little while ago this article came out:

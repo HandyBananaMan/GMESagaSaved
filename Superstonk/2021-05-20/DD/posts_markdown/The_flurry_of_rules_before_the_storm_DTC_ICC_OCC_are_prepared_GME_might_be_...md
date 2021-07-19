@@ -1,5 +1,6 @@
-# Author: Criand
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/](https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/)
+#Title: The flurry of rules before the storm. DTC, ICC, OCC are prepared. GME might be hitting T+35 and T+21 crossover next week, pulling the house of cards down.
+#Author: Criand
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/](https://www.reddit.com/r/Superstonk/comments/ngru15/the_flurry_of_rules_before_the_storm_dtc_icc_occ/)
 
 
 # 0. Preface
@@ -152,7 +153,7 @@ The first T+35 spike is more significant than the T+21 spikes. Check it out. **I
 
 **Please note: T+35 is CALENDAR days. T+21 is BUSINESS days. Take a look at the above DD for the walkthrough of this timing.**
 
-[GME T+35 and T+21 Loop](https://preview.redd.it/nmg3oj2nn7071.png?width=1436&format=png&auto=webp&s=589a978f5c90d3ff1ad5d71e7ea40d92e89eeae5)
+![GME T+35 and T+21 Loop](https://preview.redd.it/nmg3oj2nn7071.png?width=1436&format=png&auto=webp&s=589a978f5c90d3ff1ad5d71e7ea40d92e89eeae5)
 
 Guess what? This happens in AMC too. You can apply this to KOSS as well, and find the same exact patterns. Anyone want to have fun and check more meme stocks? Be my guest!
 

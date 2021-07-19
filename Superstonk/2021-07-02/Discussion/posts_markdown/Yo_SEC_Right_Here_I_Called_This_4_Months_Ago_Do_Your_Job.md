@@ -1,5 +1,6 @@
-# Author: ThatGuyOnTheReddits
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oc41je/yo_sec_right_here_i_called_this_4_months_ago_do/](https://www.reddit.com/r/Superstonk/comments/oc41je/yo_sec_right_here_i_called_this_4_months_ago_do/)
+#Title: Yo SEC, Right Here. I Called This 4 Months Ago... Do Your Job...
+#Author: ThatGuyOnTheReddits
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oc41je/yo_sec_right_here_i_called_this_4_months_ago_do/](https://www.reddit.com/r/Superstonk/comments/oc41je/yo_sec_right_here_i_called_this_4_months_ago_do/)
 
 
 (*allegedly...*)

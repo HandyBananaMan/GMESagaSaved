@@ -1,5 +1,6 @@
-# Author: nibbie1998
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mw2p3j/analysis_gme_percentage_of_float_trading_on_otc/](https://www.reddit.com/r/Superstonk/comments/mw2p3j/analysis_gme_percentage_of_float_trading_on_otc/)
+#Title: ANALYSIS - GME percentage of float trading on OTC market is 234 TIMES HIGHER than Dow 30 stocks!
+#Author: nibbie1998
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mw2p3j/analysis_gme_percentage_of_float_trading_on_otc/](https://www.reddit.com/r/Superstonk/comments/mw2p3j/analysis_gme_percentage_of_float_trading_on_otc/)
 
 
 Hey Apes!
@@ -30,7 +31,7 @@ Stock float data: [https://finance.yahoo.com/](https://finance.yahoo.com/)
 
 OTC trading data: [https://otctransparency.finra.org/otctransparency/OtcIssueData](https://otctransparency.finra.org/otctransparency/OtcIssueData)
 
-Dow 30 stocks: ![https://www.cnbc.com/dow-30/](https://www.cnbc.com/dow-30/)
+Dow 30 stocks: [https://www.cnbc.com/dow-30/](https://www.cnbc.com/dow-30/)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: CoffeeLaxative
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/](https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/)
+#Title: Compilation of All DD, TA, Rules & Regulations, News, and more! ALL-IN-ONE STOP for DAILY Wrinkles 🔥🚀
+#Author: CoffeeLaxative
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/](https://www.reddit.com/r/Superstonk/comments/ncqh06/compilation_of_all_dd_ta_rules_regulations_news/)
 
 
 I will update this post everyday since I'm here 24/7 anyways (so save it!), with weekly posts (keep an eye out!). Any suggestions / additions / corrections ? Please let me know, apes & ants & other international species 🤝
@@ -251,4 +252,4 @@ Updated: 2021-05-16 @ 10:37 pm EST
 * Dr. Susanne Trimbath, PhD - April 29, 2021 : [Livestream](https://youtu.be/fGVY2Kco8ng), [Transcript Part 1](https://www.reddit.com/r/Superstonk/comments/n1vubv/stonky_news_special_report_dr_susanne_trimbath/), [Transcript Part 2](https://www.reddit.com/r/Superstonk/comments/n1vvcy/stonky_news_special_report_dr_susanne_trimbath/) and [Book](https://www.amazon.com/Naked-Short-Greedy-Streets-Failure-ebook/dp/B08XXXRH7T/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1619727582&sr=8-2) (Naked, Short and Greedy: Wall Street's Failure to Deliver)
 * Dave Lauer - May 5, 2021 : [Livestream](https://youtu.be/AYct0XX0uTU), [Transcript Part 1](https://www.reddit.com/r/Superstonk/comments/n7234n/david_lauer_ama_transcriptsummary/) and [Transcript Part 2](https://www.reddit.com/r/Superstonk/comments/n7295i/david_lauer_ama_transcript_summary_22/)
 * Carl Hagberg, Retail Shareholder Rights Expert - May 12, 2021: [Livestream](https://youtu.be/KHnpPfWdf78), [Transcript Part 1](https://www.reddit.com/r/Superstonk/comments/nce9kq/carl_hagberg_ama_transcriptsummary_12/) and [Transcript Part 2](https://www.reddit.com/r/Superstonk/comments/nceapj/carl_hagberg_ama_transcriptsummary_22/)
-* Lucy Komisar, Investigative Journalist: [Livestream](https://youtu.be/wKXWvEpnN34) and ![The Komisar Scoop Website](https://www.thekomisarscoop.com/)
+* Lucy Komisar, Investigative Journalist: [Livestream](https://youtu.be/wKXWvEpnN34) and [The Komisar Scoop Website](https://www.thekomisarscoop.com/)

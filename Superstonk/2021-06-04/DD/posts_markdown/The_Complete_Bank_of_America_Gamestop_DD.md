@@ -1,5 +1,6 @@
-# Author: gfountyyc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/)
+#Title: The Complete Bank of America Gamestop DD
+#Author: gfountyyc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/](https://www.reddit.com/r/Superstonk/comments/nsioql/the_complete_bank_of_america_gamestop_dd/)
 
 
 TL/DR It's possible that Bank of America is holding the biggest bag in the Gamestop saga
@@ -44,23 +45,23 @@ Citadel specializes in Option naked shorting, and because of GME they have an ev
 
 &#x200B;
 
-[ Citadels Liabilities ](https://preview.redd.it/81qoys0o3c371.png?width=1849&format=png&auto=webp&s=59f520ffac6c99438bdc71bea8828f316bbe5dae)
+![ Citadels Liabilities ](https://preview.redd.it/81qoys0o3c371.png?width=1849&format=png&auto=webp&s=59f520ffac6c99438bdc71bea8828f316bbe5dae)
 
 **Notes from the financial statement for Sussqhana and Citadel**
 
 &#x200B;
 
-[ Susqhannas note makes it perfectly clear that the assist and liability are just on paper, the clearing broker can just sell their shit when needed ](https://preview.redd.it/tlwr054q3c371.png?width=1795&format=png&auto=webp&s=00e5f2da6bc822929f8ba9256bced17c3f073183)
+![ Susqhannas note makes it perfectly clear that the assist and liability are just on paper, the clearing broker can just sell their shit when needed ](https://preview.redd.it/tlwr054q3c371.png?width=1795&format=png&auto=webp&s=00e5f2da6bc822929f8ba9256bced17c3f073183)
 
 Let's check what Citadel says about its Prime Broker ---->
 
 &#x200B;
 
-[ Who is holding Citadel's bag of shit? ](https://preview.redd.it/jo04yu7s3c371.png?width=924&format=png&auto=webp&s=c73e6bf6450d7cf5da415329d838cffc5fb8d463)
+![ Who is holding Citadel's bag of shit? ](https://preview.redd.it/jo04yu7s3c371.png?width=924&format=png&auto=webp&s=c73e6bf6450d7cf5da415329d838cffc5fb8d463)
 
 &#x200B;
 
-[T his is also found in Citadels 2020 Annual Finacial report \\"A substantial portion of Citadels' options clearing and Financing activities are with BAML\\" ](https://preview.redd.it/cs6ttvrt3c371.png?width=444&format=png&auto=webp&s=ba2786ba9188af17b17ecb9ca7a48db6f9d7aacb)
+![T his is also found in Citadels 2020 Annual Finacial report \\"A substantial portion of Citadels' options clearing and Financing activities are with BAML\\" ](https://preview.redd.it/cs6ttvrt3c371.png?width=444&format=png&auto=webp&s=ba2786ba9188af17b17ecb9ca7a48db6f9d7aacb)
 
 BAML (which stands for BANK OF AMERICA MERRIL LYNCH) or now BAC is the prime and clearing broker for 96.69% of all the net derivative assets of Citadel Securities? They are holding the 57.6 Billion Bag on Citadel Poo... 32,386 Billion of it in options, with a ton of those, are going to explode in their face or be worthless.
 
@@ -118,7 +119,7 @@ The net change in cash from derivative assets/liabilities from 2020 to 2021 was 
 
 &#x200B;
 
-[ Page 47 on their recent Q-10 ](https://preview.redd.it/jcvzlpcm4c371.png?width=1151&format=png&auto=webp&s=09ab13adba7b697d552f7f95ff86da2b7495ecd7)
+![ Page 47 on their recent Q-10 ](https://preview.redd.it/jcvzlpcm4c371.png?width=1151&format=png&auto=webp&s=09ab13adba7b697d552f7f95ff86da2b7495ecd7)
 
 [https://investor.bankofamerica.com/regulatory-and-other-filings/all-sec-filings/content/0000070858-21-000063/0000070858-21-000063.pdf](https://investor.bankofamerica.com/regulatory-and-other-filings/all-sec-filings/content/0000070858-21-000063/0000070858-21-000063.pdf)
 
@@ -134,7 +135,7 @@ Who else thought it was total bullshit when the media spewed out that Reddit was
 
 It seems that our beloved Roaring Kitty knows something is up with Bank of America as well. In his recent Twitter post, he shows a scene from Baby Driver (A great film, check it out). It would appear there has been a Gamestop logo inserted just above a Bank of America ATM. Interesting stuff.
 
-[ Bank of America ATM and the GME logo ](https://preview.redd.it/f50ifldw4c371.png?width=900&format=png&auto=webp&s=53bf109cb1cffed95cffd3907d1a1a25e8c94da5)
+![ Bank of America ATM and the GME logo ](https://preview.redd.it/f50ifldw4c371.png?width=900&format=png&auto=webp&s=53bf109cb1cffed95cffd3907d1a1a25e8c94da5)
 
 **The closed locations:**
 
@@ -150,7 +151,7 @@ Chukumba said [GameStop](https://www.youtube.com/watch?v=zSoA7T-XCKg&t=39s) need
 
 [https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20322372/gamestop-analysts-react-to-q4-earnings-company-needs-some-magic-beans-and-pixie-dus](https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20322372/gamestop-analysts-react-to-q4-earnings-company-needs-some-magic-beans-and-pixie-dus)
 
-**Conclusion:** Based on all the evidence provided above, I asked the question, who else could be the biggest big holder at the end of all this? If Archegos is a much smaller hedge fund and contributed to 10+ Billion dollars in losses to Credit Suesse, then I speculate that the losses from the margin calling of Citadel and Susquehanna could be magnitudes larger. If you also consider the short selling of securities from BofA itself, it is entirely possible for 100+ Billion dollars in losses. Let me know what you think. Again big shout out to ![u/alert\_piano341](https://www.reddit.com/u/alert_piano341/) for their help/contributions.
+**Conclusion:** Based on all the evidence provided above, I asked the question, who else could be the biggest big holder at the end of all this? If Archegos is a much smaller hedge fund and contributed to 10+ Billion dollars in losses to Credit Suesse, then I speculate that the losses from the margin calling of Citadel and Susquehanna could be magnitudes larger. If you also consider the short selling of securities from BofA itself, it is entirely possible for 100+ Billion dollars in losses. Let me know what you think. Again big shout out to [u/alert\_piano341](https://www.reddit.com/u/alert_piano341/) for their help/contributions.
 
 **Note**: If someone could get me some Bloomberg shots for a few of the major banks that would be great! Ideally BofA, JPM, GS please and thanks.
 

@@ -1,5 +1,6 @@
-# Author: Dekeiy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/](https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/)
+#Title: What you need to know about the Russell 1000-3000 Indexes and Reconstitution Day.
+#Author: Dekeiy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/](https://www.reddit.com/r/Superstonk/comments/nx4dqc/what_you_need_to_know_about_the_russell_10003000/)
 
 
 Good evening fellow apes.
@@ -14,9 +15,9 @@ The Russell 1000 contains companies ranked #1 - #1000, Russell 2000 contains com
 
 Here is an overview of the Russell Indexes:
 
-[Overview Russel Indexes](https://preview.redd.it/lccu8bxvgj471.png?width=1391&format=png&auto=webp&s=6feffc10f6496ddb112c2695766743d8cacc825c)
+![Overview Russel Indexes](https://preview.redd.it/lccu8bxvgj471.png?width=1391&format=png&auto=webp&s=6feffc10f6496ddb112c2695766743d8cacc825c)
 
-[Description of Russel Indexes](https://preview.redd.it/0xolurlxgj471.png?width=1356&format=png&auto=webp&s=16a5ad3a886c4afda5ff3b4c389eaed18889a5b0)
+![Description of Russel Indexes](https://preview.redd.it/0xolurlxgj471.png?width=1356&format=png&auto=webp&s=16a5ad3a886c4afda5ff3b4c389eaed18889a5b0)
 
 [Source](https://content.ftserussell.com/sites/default/files/support_document/FTSE%20Russell%20Product%20Guide%20Oct%202019%20Single.pdf)
 
@@ -72,7 +73,7 @@ Research has shown ([Source](https://academic.oup.com/rfs/article/28/1/212/16809
 
 # BUT WILL THE SHORTS NEED TO COVER???
 
-Well, frankly, I am not sure what happens to a synthetic short position if the underlying is removed from the ETF (btw if you want to read more about shorting through ETFs see this ![post](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)). Hedgies would possibly be forced to cover, only to reconcile everybody's books. But I wouldn't put it past them to be able to kick the can down the road again.
+Well, frankly, I am not sure what happens to a synthetic short position if the underlying is removed from the ETF (btw if you want to read more about shorting through ETFs see this [post](https://www.reddit.com/r/GME/comments/lp37ll/short_selling_etfs_what_it_does_how_it_affects/)). Hedgies would possibly be forced to cover, only to reconcile everybody's books. But I wouldn't put it past them to be able to kick the can down the road again.
 
 But what I DO know is that the buying pressure on that day will be significant and put some hedgies in boiling water.
 

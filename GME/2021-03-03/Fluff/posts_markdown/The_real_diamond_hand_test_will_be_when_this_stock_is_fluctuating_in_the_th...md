@@ -1,5 +1,6 @@
-# Author: throwthestrawberry
-# Post URL: [https://www.reddit.com/r/GME/comments/lxafn1/the_real_diamond_hand_test_will_be_when_this/](https://www.reddit.com/r/GME/comments/lxafn1/the_real_diamond_hand_test_will_be_when_this/)
+#Title: The real diamond hand test will be when this stock is fluctuating in the thousands.
+#Author: throwthestrawberry
+#Post URL: [https://www.reddit.com/r/GME/comments/lxafn1/the_real_diamond_hand_test_will_be_when_this/](https://www.reddit.com/r/GME/comments/lxafn1/the_real_diamond_hand_test_will_be_when_this/)
 
 
 It won't reach 100k without going to 10k, back to 8k, to 9k, to 7k, to 12k, to 9k, to 20k etc etc.

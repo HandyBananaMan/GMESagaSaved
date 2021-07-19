@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzzb65/quick_update_from_hank_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/mzzb65/quick_update_from_hank_ftd_cycle/)
+#Title: Quick update from Hank - FTD Cycle
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzzb65/quick_update_from_hank_ftd_cycle/](https://www.reddit.com/r/Superstonk/comments/mzzb65/quick_update_from_hank_ftd_cycle/)
 
 
 **\*\*\*\*\*\*\*\*\*\* Not a financial advisor. Not financial advice\*\*\*\*\*\*\*\*\*\***

@@ -1,5 +1,6 @@
-# Author: battorusobaku
-# Post URL: [https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/](https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/)
+#Title: Regarding the 3.5m GME Common Stock offering - bullish! 🚀
+#Author: battorusobaku
+#Post URL: [https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/](https://www.reddit.com/r/GME/comments/mki8hp/regarding_the_35m_gme_common_stock_offering/)
 
 
 Everyone has seen the news that GME is offering 3,5m in new common stock to raise capital. 
@@ -23,7 +24,7 @@ This is basically Gamestop trying to capitalize on the price right now, because 
 >	
 >Sales for the five-week March 2021 period increased approximately 18% from prior year
 
-![https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks)
+[https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks](https://gamestop.gcs-web.com/news-releases/news-release-details/gamestop-announces-preliminary-sales-results-first-nine-weeks)
 
 This is bullish as fuck. We did it apes, Gamestop is transforming right in front of our eyes and the ecommerce sales are coming in. With all the free marketing Gamestop has received in the last months and the super loyal userbase it has around it now, GME is now a great value play and also in a great short squeeze position.
 

@@ -1,5 +1,6 @@
-# Author: AlexanderHood
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/)
+#Title: May 19th Update on the Married-Put Forensic Analysis
+#Author: AlexanderHood
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/](https://www.reddit.com/r/Superstonk/comments/ngp969/may_19th_update_on_the_marriedput_forensic/)
 
 
 If you're feeling blue cause of all the red, I have some confirmation for your bias right here. :)
@@ -137,7 +138,7 @@ The rate the SI in increasing is clearly unsustainable. The DTCC needs to margin
 
 [Barchart Options](https://www.barchart.com/stocks/quotes/GME/options?expiration=2021-05-21-m&moneyness=allRows)
 
-![Stonk Tracker](https://gme.crazyawesomecompany.com)
+[Stonk Tracker](https://gme.crazyawesomecompany.com)
 
 **Required** 
 

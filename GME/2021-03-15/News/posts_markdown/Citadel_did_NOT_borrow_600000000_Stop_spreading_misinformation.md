@@ -1,5 +1,6 @@
-# Author: SyntacticLuster
-# Post URL: [https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/](https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/)
+#Title: Citadel did NOT borrow $600,000,000. Stop spreading misinformation!!!
+#Author: SyntacticLuster
+#Post URL: [https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/](https://www.reddit.com/r/GME/comments/m5yrqu/citadel_did_not_borrow_600000000_stop_spreading/)
 
 
 Citadel Securities issued 600 Million convertible bonds.
@@ -26,4 +27,4 @@ Be aware these bonds do not grant them capital unless they have purchasers. This
 
 EDIT 2: post to link correcting and clarifying the difference between volume in bonds and volume in an underlying asset. Thanks to u/International_Gold20 for the wrinkles.
 
- ![(1) Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds. : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 
+ [(1) Citadel did NOT issue $60 billion worth of bonds. It is $600 million worth of bonds. : GME (reddit.com)](https://www.reddit.com/r/GME/comments/m5zt6n/citadel_did_not_issue_60_billion_worth_of_bonds/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) 

@@ -1,5 +1,6 @@
-# Author: BadassTrader
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/](https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/)
+#Title: IS THIS THE FINAL BOSS? John Petry and Ken Griffin Billionaires Boys Club - And the Puppet Master behind it all???
+#Author: BadassTrader
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/](https://www.reddit.com/r/Superstonk/comments/nzkzi5/is_this_the_final_boss_john_petry_and_ken_griffin/)
 
 
 (Shameless PLUG: Follow me on Twtter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
@@ -48,7 +49,7 @@ And even closer to Kenny's gaff
 
 &#x200B;
 
-[\(Could easily pop around for a cup of tea\)](https://preview.redd.it/7wpgbmq0t7571.png?width=2555&format=png&auto=webp&s=c940633bb3865cfb7e5da6c64797ecc1337feac7)
+![\(Could easily pop around for a cup of tea\)](https://preview.redd.it/7wpgbmq0t7571.png?width=2555&format=png&auto=webp&s=c940633bb3865cfb7e5da6c64797ecc1337feac7)
 
 But realistically... proximity in New York means nothing.
 
@@ -162,7 +163,7 @@ EDIT 3: Part 2: [https://www.reddit.com/r/Superstonk/comments/nzrtsq/billionaire
 
 &#x200B;
 
-Edit 4: BBC Part 3: ![https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires\_boys\_club\_part\_3\_the\_big\_boys\_i\_just/](https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires_boys_club_part_3_the_big_boys_i_just/)
+Edit 4: BBC Part 3: [https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires\_boys\_club\_part\_3\_the\_big\_boys\_i\_just/](https://www.reddit.com/r/Superstonk/comments/nzxjra/billionaires_boys_club_part_3_the_big_boys_i_just/)
 
 &#x200B;
 

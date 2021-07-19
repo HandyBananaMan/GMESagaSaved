@@ -1,5 +1,6 @@
-# Author: saintganesh
-# Post URL: [https://www.reddit.com/r/GME/comments/m98311/stop_with_the_options_buy_n_hodl_shares/](https://www.reddit.com/r/GME/comments/m98311/stop_with_the_options_buy_n_hodl_shares/)
+#Title: STOP WITH THE OPTIONS, BUY N HODL SHARES 💎🙌💎
+#Author: saintganesh
+#Post URL: [https://www.reddit.com/r/GME/comments/m98311/stop_with_the_options_buy_n_hodl_shares/](https://www.reddit.com/r/GME/comments/m98311/stop_with_the_options_buy_n_hodl_shares/)
 
 
 This is the safest way

@@ -1,5 +1,6 @@
-# Author: birchcliff
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n77cdr/the_reasons_why_i_am_bullish_on_gme_and_how_i_am/](https://www.reddit.com/r/DDintoGME/comments/n77cdr/the_reasons_why_i_am_bullish_on_gme_and_how_i_am/)
+#Title: The reasons why I am Bullish on GME (and how I am able to sleep at night)
+#Author: birchcliff
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n77cdr/the_reasons_why_i_am_bullish_on_gme_and_how_i_am/](https://www.reddit.com/r/DDintoGME/comments/n77cdr/the_reasons_why_i_am_bullish_on_gme_and_how_i_am/)
 
 
 Hello fellow apes,

@@ -1,5 +1,6 @@
-# Author: Boringhate
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/](https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/)
+#Title: DTCC THE FINAL BOSS : Black hole liquidity
+#Author: Boringhate
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/](https://www.reddit.com/r/Superstonk/comments/mwba7s/dtcc_the_final_boss_black_hole_liquidity/)
 
 
 **V.2**
@@ -202,7 +203,7 @@ however I can not find much information on him other than his letters
 
 [Sec letter 2 Pdf](https://www.sec.gov/rules/sro/nasd/nasd2005112/jdecosta112405.pdf)
 
-![google link with many results of his letters -if you're feeling like learning from the master](https://www.google.com/search?q=dr+Jim+Decosta+sec&rlz=1C1UEAD_enCA942CA942&oq=dr&aqs=chrome.0.69i59j69i57j0i433l2j46i433j69i60l2j69i61.4127j0j4&sourceid=chrome&ie=UTF-8)
+[google link with many results of his letters -if you're feeling like learning from the master](https://www.google.com/search?q=dr+Jim+Decosta+sec&rlz=1C1UEAD_enCA942CA942&oq=dr&aqs=chrome.0.69i59j69i57j0i433l2j46i433j69i60l2j69i61.4127j0j4&sourceid=chrome&ie=UTF-8)
 
 &#x200B;
 

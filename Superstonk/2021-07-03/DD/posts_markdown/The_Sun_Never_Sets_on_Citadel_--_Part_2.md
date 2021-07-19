@@ -1,5 +1,6 @@
-# Author: swede_child_of_mine
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/)
+#Title: The Sun Never Sets on Citadel -- Part 2
+#Author: swede_child_of_mine
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/](https://www.reddit.com/r/Superstonk/comments/od4bb1/the_sun_never_sets_on_citadel_part_2/)
 
 
 [Part 1](https://www.reddit.com/r/Superstonk/comments/o2xz48/the_sun_never_sets_on_citadel_part_1/)
@@ -45,11 +46,11 @@ Citadel’s influence on the market is all due to one quality:  **Volume.**
   
 Volume is king.  There is no way to understate it.  
 
-* Remember [this chart?](https://i.redd.it/idkn9cchpn571.png)  Citadel and Virtu’s combined volume being larger than any exchange is only the beginning; it’s our starting point.  
+* Remember ![this chart?](https://i.redd.it/idkn9cchpn571.png)  Citadel and Virtu’s combined volume being larger than any exchange is only the beginning; it’s our starting point.  
   
 Do you want to know why it’s taking so long to MOASS?  
   
-* Look at this [tweet estimating the fees the MMs make off of volume.](https://i.redd.it/0ruptccy0u871.png) -  [sauce](https://twitter.com/EricBalchunas/status/1354775322445701128)
+* Look at this ![tweet estimating the fees the MMs make off of volume.](https://i.redd.it/0ruptccy0u871.png) -  [sauce](https://twitter.com/EricBalchunas/status/1354775322445701128)
 * MMs made an estimated $350M+ in four days.  January 27 (the “sneeze”) [volume was 24.8 billion equities traded](https://www.marketsmedia.com/us-equity-trading-volume-reaches-record/) for a single day.
 
  * (we now know the MMs also took the full income of the shares they sold since they were selling pledged shares and never delivered)
@@ -91,7 +92,7 @@ What a fuckin’ paradox.
 
 * If confirmed, this implies major brokerages are becoming or already are reliant on Citadel for basic, essential functions.
 
-[WHAT. THE. FUCK.](https://www.reactiongifs.com/wp-content/uploads/2013/10/tom-delonge-wtf1.gif)
+![WHAT. THE. FUCK.](https://www.reactiongifs.com/wp-content/uploads/2013/10/tom-delonge-wtf1.gif)
   
 Let me it say again another way: we are at a point where **MAJOR BROKERAGES AND EVEN EXCHANGES DO NOT KNOW HOW TO FUNCTION WITHOUT CITADEL.**
 
@@ -242,23 +243,23 @@ Citadel Connect.
 
 *Wait, what?*  
   
-**[Citadel Connect](https://i.redd.it/v35705zpru871.png).**  
+**![Citadel Connect](https://i.redd.it/v35705zpru871.png).**  
 
 That’s right.  You’ve been in these subs for 6 months and you haven’t heard of **Citadel Connect**? Citadel’s “not a Dark Pool” Dark Pool?  (That’s not by coincidence, btw).
 
 &nbsp;
 
-[***MOTHERFUCKER WHAT?!?!***](https://i.redd.it/wy0fpnnb0u871.jpg)
+![***MOTHERFUCKER WHAT?!?!***](https://i.redd.it/wy0fpnnb0u871.jpg)
 
 
 
 Citadel Connect is an SDP, not an ATS. The difference is the reporting requirements.  SDPs do not have to make the disclosures that either the exchanges or even the ATSs (a.k.a. Dark Pools) have to.
 
-* (FINRA once took a look at [regulating SDPs](https://www.sec.gov/rules/sro/finra/2019/34-86315.pdf), but decided [not to](https://i.redd.it/328lgq1s1v871.png)).
+* (FINRA once took a look at [regulating SDPs](https://www.sec.gov/rules/sro/finra/2019/34-86315.pdf), but decided ![not to](https://i.redd.it/328lgq1s1v871.png)).
 
 &nbsp;
 
-[Yep.](https://media0.giphy.com/media/UvtKiyeWYEhRC/giphy.gif?cid=ecf05e47d9juouou9jrbshblwc2adl6q17tv6g424rp2kvoi&rid=giphy.gif&ct=g)
+![Yep.](https://media0.giphy.com/media/UvtKiyeWYEhRC/giphy.gif?cid=ecf05e47d9juouou9jrbshblwc2adl6q17tv6g424rp2kvoi&rid=giphy.gif&ct=g)
 
 There is a laughable amount of search results for Citadel Connect on Google.  There are no images of it that I could find.  I believe it is an API-type feed that plugs into existing order systems.  But I couldn’t tell you based on searches.  I found no documentation – just allusions to its features.
 
@@ -292,7 +293,7 @@ Citadel has a massive network of sales connections through its Market Maker pres
 
 * **Citadel has a market advantage with its volume of clients.**  
   
-Citadel Connect integrates into existing ATSs and client dashboards (here’s an example from [BNP Paribas](https://i.redd.it/dojfd7lyru871.png) - [sauce](https://globalmarkets.cib.bnpparibas/app/uploads/sites/4/2021/05/execution-venues-us-version.pdf)).  Like Greg’s testimonial, I suspect it’s easy for just about any financial firm to deal directly with Citadel.  
+Citadel Connect integrates into existing ATSs and client dashboards (here’s an example from ![BNP Paribas](https://i.redd.it/dojfd7lyru871.png) - [sauce](https://globalmarkets.cib.bnpparibas/app/uploads/sites/4/2021/05/execution-venues-us-version.pdf)).  Like Greg’s testimonial, I suspect it’s easy for just about any financial firm to deal directly with Citadel.  
 
 * **Citadel has an ease of access advantage.**
   
@@ -325,7 +326,7 @@ But… do you get it?  Have you figured it out?
 
 Citadel is [internalizing](https://www.investopedia.com/terms/i/internalization.asp) a substantial volume of transactions from the marketplace.  It’s conducting the transactions inside its own walls, acting AS the venue in itself.  
 
-**Said another way, Citadel is “black box”-ing the transaction market, and it’s doing so at a [massive volume](https://i.redd.it/drdcsznn0u871.png) - [sauce](https://www.rblt.com/market-reports/let-there-be-light-us-edition-24).**
+**Said another way, Citadel is “black box”-ing the transaction market, and it’s doing so at a ![massive volume](https://i.redd.it/drdcsznn0u871.png) - [sauce](https://www.rblt.com/market-reports/let-there-be-light-us-edition-24).**
 
 *Okay, so it sounds like Citadel is just buying and selling from multiple parties, and making a profit off the spread.  Every firm does that, though, right?  It’s just arbitrage, it doesn’t make them an exchange.*
 
@@ -355,7 +356,7 @@ This “rich-get-richer” advantage is known as a “virtuous cycle” (hah –
 
 Apes, I told you I would follow up on “how” and “why” I missed on Citadel not being an MM across the EU.  
 
-The EU marketplace is structured differently than the American markets, with different rules and roles.  I knew Citadel had a massive presence in the EU, I just missed the role.  I think you can put together [why](https://i.redd.it/axa0gpvap1971.png).
+The EU marketplace is structured differently than the American markets, with different rules and roles.  I knew Citadel had a massive presence in the EU, I just missed the role.  I think you can put together ![why](https://i.redd.it/axa0gpvap1971.png).
 
 ***
 
@@ -423,7 +424,7 @@ Which implies that somewhere, at some point, a deal was reached, tacitly or expl
 
 &nbsp;
 
-**![WHAT THE FUCK.](https://i.giphy.com/media/kGweWfIbaezO8/giphy.webp)  I have no words.**
+**[WHAT THE FUCK.](https://i.giphy.com/media/kGweWfIbaezO8/giphy.webp)  I have no words.**
 
 &nbsp;
 

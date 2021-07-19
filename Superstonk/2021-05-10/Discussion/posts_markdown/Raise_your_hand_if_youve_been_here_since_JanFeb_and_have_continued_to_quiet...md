@@ -1,5 +1,6 @@
-# Author: HappyBus8759
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n9eds5/raise_your_hand_if_youve_been_here_since_janfeb/](https://www.reddit.com/r/Superstonk/comments/n9eds5/raise_your_hand_if_youve_been_here_since_janfeb/)
+#Title: Raise your hand if you’ve been here since Jan/Feb and have continued to quietly buy more and hold through all of the fuckery we are witnessing everyday 🙋💎🙌🏻🚀🚀🚀🚀🚀
+#Author: HappyBus8759
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n9eds5/raise_your_hand_if_youve_been_here_since_janfeb/](https://www.reddit.com/r/Superstonk/comments/n9eds5/raise_your_hand_if_youve_been_here_since_janfeb/)
 
 
 Everyday for the last 4/5 months hundreds of thousands if not millions of people all over the globe have been buying and holding GME, yet the price either stagnates or goes down. In what other scenario is this even possible? 

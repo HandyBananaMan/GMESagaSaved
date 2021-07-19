@@ -1,5 +1,6 @@
-# Author: tallulha
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/njy584/stop_spreading_news_about_crypto_friends_are/](https://www.reddit.com/r/Superstonk/comments/njy584/stop_spreading_news_about_crypto_friends_are/)
+#Title: Stop spreading news about crypto friends are joining us. They're not.
+#Author: tallulha
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/njy584/stop_spreading_news_about_crypto_friends_are/](https://www.reddit.com/r/Superstonk/comments/njy584/stop_spreading_news_about_crypto_friends_are/)
 
 
 I've seen countless of posts as of today where multiple people are posting about how r/cryptocurrency redditors are joining us. They're not. It comes from [this post](https://www.reddit.com/r/CryptoCurrency/comments/njegof/the_real_reason_crypto_is_tanking/) posted on the cryptocurrency subreddit, and [another post from here](https://www.reddit.com/r/Superstonk/comments/njjiy4/the_reason_crypto_is_tanking/) showing a screenshot of it. If we all want some more wrinkles on our brains, maybe check the post for yourself and see all the comments being in disagreement of it? You can easily see that the post has over 4000 awards as of this moment, and it's obvious it's not from their own redditors, seeing that the amount of awards and the traction the post got was after it was mentioned over here. The post got real traction after it was posted over in r/superstonk. Everyone seems to believe that we managed to get the cryptocurrency subreddit on our own side, but check this out:

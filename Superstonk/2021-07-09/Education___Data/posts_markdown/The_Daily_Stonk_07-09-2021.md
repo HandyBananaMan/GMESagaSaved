@@ -1,5 +1,6 @@
-# Author: iamaneditor
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/](https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/)
+#Title: The Daily Stonk 07-09-2021
+#Author: iamaneditor
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/](https://www.reddit.com/r/Superstonk/comments/ogsizi/the_daily_stonk_07092021/)
 
 
 &#x200B;
@@ -22,7 +23,7 @@ The reverse repo's for today
 
 &#x200B;
 
-[credit u\/pctracer](https://preview.redd.it/esauihymt5a71.png?width=715&format=png&auto=webp&s=ce596099a4c8b7cc4fc9674e812a6ee6dbe46512)
+![credit u\/pctracer](https://preview.redd.it/esauihymt5a71.png?width=715&format=png&auto=webp&s=ce596099a4c8b7cc4fc9674e812a6ee6dbe46512)
 
 **Our papa, RC tweeted this yesterday.**
 
@@ -50,11 +51,11 @@ https://preview.redd.it/p3qa0ohkt5a71.png?width=1169&format=png&auto=webp&s=3817
 
 &#x200B;
 
-[ It's tinfoil at best but still interesting to speculate about](https://preview.redd.it/q86g7kait5a71.png?width=960&format=png&auto=webp&s=d26d4b249ffe5388483e8e5511f8062a69e5bc6f)
+![ It's tinfoil at best but still interesting to speculate about](https://preview.redd.it/q86g7kait5a71.png?width=960&format=png&auto=webp&s=d26d4b249ffe5388483e8e5511f8062a69e5bc6f)
 
 &#x200B;
 
-[credit u\/JimmyWithTheJokes](https://preview.redd.it/ir6kcenxt5a71.png?width=802&format=png&auto=webp&s=92968f49e40e1b04ae6d2f7a741fd6f5c499674f)
+![credit u\/JimmyWithTheJokes](https://preview.redd.it/ir6kcenxt5a71.png?width=802&format=png&auto=webp&s=92968f49e40e1b04ae6d2f7a741fd6f5c499674f)
 
 **GAMESTOP'S FULFILLMENT CENTER IN YORK, PA**
 
@@ -62,15 +63,15 @@ https://preview.redd.it/p3qa0ohkt5a71.png?width=1169&format=png&auto=webp&s=3817
 
 &#x200B;
 
-[credit  u\/TDETLES](https://preview.redd.it/43b4pse9u5a71.png?width=1728&format=png&auto=webp&s=54b51c8fef77928a7bc6b4fcf2ffc424bfacaf1f)
+![credit  u\/TDETLES](https://preview.redd.it/43b4pse9u5a71.png?width=1728&format=png&auto=webp&s=54b51c8fef77928a7bc6b4fcf2ffc424bfacaf1f)
 
 **THANKS TO ALL APES WHO SUPPORTED THIS!**
 
-[credit  u\/brandinoooooo](https://preview.redd.it/5fax7crfu5a71.png?width=1080&format=png&auto=webp&s=533eb017b84f9bbc9e7dd3f842ee525cdf0c6e6d)
+![credit  u\/brandinoooooo](https://preview.redd.it/5fax7crfu5a71.png?width=1080&format=png&auto=webp&s=533eb017b84f9bbc9e7dd3f842ee525cdf0c6e6d)
 
 &#x200B;
 
-[credit  u\/slackjawedyoker](https://preview.redd.it/o9ory1vsu5a71.png?width=1383&format=png&auto=webp&s=a70b7f4d323c01e8f1dd9ca41bbbab353cb3c319)
+![credit  u\/slackjawedyoker](https://preview.redd.it/o9ory1vsu5a71.png?width=1383&format=png&auto=webp&s=a70b7f4d323c01e8f1dd9ca41bbbab353cb3c319)
 
 https://preview.redd.it/ho3tzo0dv5a71.png?width=554&format=png&auto=webp&s=d6583e29a1aa0aa68bad9150211fd6b706895c09
 
@@ -130,4 +131,4 @@ Edit 2:
 
  [u/PWNWTFBBQ](https://www.reddit.com/user/PWNWTFBBQ/)'s post about Shorting Algorithm
 
-![https://www.reddit.com/r/Superstonk/comments/ogjkao/i\_think\_i\_figured\_out\_the\_shorting\_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)
+[https://www.reddit.com/r/Superstonk/comments/ogjkao/i\_think\_i\_figured\_out\_the\_shorting\_algorithm/](https://www.reddit.com/r/Superstonk/comments/ogjkao/i_think_i_figured_out_the_shorting_algorithm/)

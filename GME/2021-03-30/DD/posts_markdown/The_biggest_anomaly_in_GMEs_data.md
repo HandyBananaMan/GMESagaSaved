@@ -1,12 +1,13 @@
-# Author: 33a
-# Post URL: [https://www.reddit.com/r/GME/comments/mgo0go/the_biggest_anomaly_in_gmes_data/](https://www.reddit.com/r/GME/comments/mgo0go/the_biggest_anomaly_in_gmes_data/)
+#Title: The biggest anomaly in GME's data
+#Author: 33a
+#Post URL: [https://www.reddit.com/r/GME/comments/mgo0go/the_biggest_anomaly_in_gmes_data/](https://www.reddit.com/r/GME/comments/mgo0go/the_biggest_anomaly_in_gmes_data/)
 
 
 By now many people have noticed that the borrow fee for GME is very low.  But I think a lot of people still don't realize how low this number actually is.  We can compare GME to other hard to borrow stocks last week.
 
 [Trader's insight recently put out a report of the top 15 hardest to borrow stocks, and GME made the list at position number 3](https://www.tradersinsight.news/traders-insight/securities/securities-lending/securities-lending-report-3-22-21-3-26-21/)
 
-By pulling data from [iBorrowDesk](http://iborrowdesk.com/) and ![FinViz](https://finviz.com/), we can compare our favorite ticker to some of these other stocks and get a sense of what is going on with GME.
+By pulling data from [iBorrowDesk](http://iborrowdesk.com/) and [FinViz](https://finviz.com/), we can compare our favorite ticker to some of these other stocks and get a sense of what is going on with GME.
 
 ----
 

@@ -1,5 +1,6 @@
-# Author: commentsonyankees
-# Post URL: [https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/](https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/)
+#Title: Current Gamestop CEO's Vesting Schedule. 2 Weeks And Then Cohen's Turn?
+#Author: commentsonyankees
+#Post URL: [https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/](https://www.reddit.com/r/GME/comments/mhfqa2/current_gamestop_ceos_vesting_schedule_2_weeks/)
 
 
 I've never submitted DD before, but I commented this in the daily chat and decided to dig a little deeper.

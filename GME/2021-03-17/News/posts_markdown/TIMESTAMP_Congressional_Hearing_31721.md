@@ -1,5 +1,6 @@
-# Author: ka99
-# Post URL: [https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/](https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/)
+#Title: TIMESTAMP: Congressional Hearing 3/17/21
+#Author: ka99
+#Post URL: [https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/](https://www.reddit.com/r/GME/comments/m79s43/timestamp_congressional_hearing_31721/)
 
 
  *Added 'quick & dirty' written sound bites to help people navigate.*
@@ -324,6 +325,6 @@ Rep. Anthony Gonzalez (OH-16)
 
 Rep. Van Taylor (TX-3)
 
-![https://youtu.be/imRzHXRq80I?t=16198](https://youtu.be/imRzHXRq80I?t=16198)
+[https://youtu.be/imRzHXRq80I?t=16198](https://youtu.be/imRzHXRq80I?t=16198)
 
 *Wall Street Journal article, T1 & T2, losing benefit of netting; execution of large trade, broken into chunks, lose ability to net those transactions in T0, every one will need to be looked at.*

@@ -1,5 +1,6 @@
-# Author: ihatedmyboss
-# Post URL: [https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/](https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/)
+#Title: $GME Price Significantly Jumps EVERY 21-22nd trading day since December 2020. Linked possibly to Citadel's failure-to-deliver. Shorts have NOT covered **
+#Author: ihatedmyboss
+#Post URL: [https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/](https://www.reddit.com/r/GME/comments/mfk7xa/gme_price_significantly_jumps_every_2122nd/)
 
 
 &#x200B;
@@ -78,7 +79,7 @@ Me just a dumb ape who has a brain as smooth as the buns on this filet o' fishy:
 
 &#x200B;
 
-[LOL! This is a fish sammich from McDonald's for those asking 😂😂](https://preview.redd.it/pav0v0v8pmu61.jpg?width=500&format=pjpg&auto=webp&s=8be24aeb1e7b31a4fe48079be274896bb1c34ffc)
+![LOL! This is a fish sammich from McDonald's for those asking 😂😂](https://preview.redd.it/pav0v0v8pmu61.jpg?width=500&format=pjpg&auto=webp&s=8be24aeb1e7b31a4fe48079be274896bb1c34ffc)
 
 &#x200B;
 
@@ -108,7 +109,7 @@ This is something I noticed in Feb, and the price jump has been consistent since
 
 &#x200B;
 
-[REMINDER: market will be closed Friday, April 2nd.](https://preview.redd.it/sitybl06k0v61.png?width=600&format=png&auto=webp&s=4327b96dcd3d4088f296cdce2851a946b9b32c10)
+![REMINDER: market will be closed Friday, April 2nd.](https://preview.redd.it/sitybl06k0v61.png?width=600&format=png&auto=webp&s=4327b96dcd3d4088f296cdce2851a946b9b32c10)
 
 &#x200B;
 
@@ -140,7 +141,7 @@ Now, let's put this theory into action and take a look at $GME's price jump sinc
 
 &#x200B;
 
-[\~ $7 price jump from the Dec 21st closing price](https://preview.redd.it/2bkzgsiek0v61.png?width=894&format=png&auto=webp&s=6db34284c029da30bf46ca8e0623ebabdc08ce0d)
+![\~ $7 price jump from the Dec 21st closing price](https://preview.redd.it/2bkzgsiek0v61.png?width=894&format=png&auto=webp&s=6db34284c029da30bf46ca8e0623ebabdc08ce0d)
 
 &#x200B;
 
@@ -164,7 +165,7 @@ Now, if you count the # of trading days from **December 22** (when the price sta
 
 &#x200B;
 
-[\~ $116 price jump from the Jan 21st closing price](https://preview.redd.it/dzrcl984l0v61.png?width=894&format=png&auto=webp&s=5e83339b52bc4323718962469614131a062d1bb8)
+![\~ $116 price jump from the Jan 21st closing price](https://preview.redd.it/dzrcl984l0v61.png?width=894&format=png&auto=webp&s=5e83339b52bc4323718962469614131a062d1bb8)
 
 &#x200B;
 
@@ -192,7 +193,7 @@ Moving on, it happens yet again in **February.**
 
 &#x200B;
 
-[\~ $140 price jump from the Feb 23rd closing price](https://preview.redd.it/bmz95jycl0v61.png?width=916&format=png&auto=webp&s=4780ce2df9522563e8abef9835906c2aec611a56)
+![\~ $140 price jump from the Feb 23rd closing price](https://preview.redd.it/bmz95jycl0v61.png?width=916&format=png&auto=webp&s=4780ce2df9522563e8abef9835906c2aec611a56)
 
 &#x200B;
 
@@ -216,7 +217,7 @@ Here we go again in **March**, we see the same pattern:
 
 &#x200B;
 
-[\~ $98 price jump from the Mar 24th closing price](https://preview.redd.it/bpo4e29nl0v61.png?width=921&format=png&auto=webp&s=72a1adc3220f05058ffe65bed839cefcfb69988a)
+![\~ $98 price jump from the Mar 24th closing price](https://preview.redd.it/bpo4e29nl0v61.png?width=921&format=png&auto=webp&s=72a1adc3220f05058ffe65bed839cefcfb69988a)
 
 &#x200B;
 
@@ -292,7 +293,7 @@ There were over 6k options expiring at the **$200 strike price**, and Shitadel m
 
 &#x200B;
 
-[\~ $37 price jump from the April 23rd closing price. After hours jumped to $198 on 4\/26-- this would make it a \~$47 price jump](https://preview.redd.it/8dejfl37c5171.png?width=917&format=png&auto=webp&s=75a53af49735e2d46774d4d67e8e5c290d154e2a)
+![\~ $37 price jump from the April 23rd closing price. After hours jumped to $198 on 4\/26-- this would make it a \~$47 price jump](https://preview.redd.it/8dejfl37c5171.png?width=917&format=png&auto=webp&s=75a53af49735e2d46774d4d67e8e5c290d154e2a)
 
 &#x200B;
 

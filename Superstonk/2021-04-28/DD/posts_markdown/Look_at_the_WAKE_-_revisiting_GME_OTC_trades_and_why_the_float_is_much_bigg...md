@@ -1,5 +1,6 @@
-# Author: Doom_Douche
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/](https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/)
+#Title: Look at the WAKE! - revisiting GME OTC trades and why the float is much bigger than anyone expects
+#Author: Doom_Douche
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/](https://www.reddit.com/r/Superstonk/comments/n0lmln/look_at_the_wake_revisiting_gme_otc_trades_and/)
 
 
 Hello SuperStonk,
@@ -70,7 +71,7 @@ TLDR: The float is fucking huge yo
 
 Edit 1: Here is a google drive link to the data if anyone wants to play with it
 
-![https://drive.google.com/file/d/1AZmDKXiovguRP4vrrdPaInXKq-R3XPK9/view?usp=sharing](https://drive.google.com/file/d/1AZmDKXiovguRP4vrrdPaInXKq-R3XPK9/view?usp=sharing)
+[https://drive.google.com/file/d/1AZmDKXiovguRP4vrrdPaInXKq-R3XPK9/view?usp=sharing](https://drive.google.com/file/d/1AZmDKXiovguRP4vrrdPaInXKq-R3XPK9/view?usp=sharing)
 
 Edit 2: To be clear when I say the "Float is bigger than anyone expects" I am referencing the Ph(loat) not the reported true float. The Ph(loat) is comprised of mostly synthetic shares combined with the real float of 54 mil and not being reported as there is no publicly available metric to calculate synthetic shares. This means the short interest is still well over 100% and likely much.... much... more than that.
 

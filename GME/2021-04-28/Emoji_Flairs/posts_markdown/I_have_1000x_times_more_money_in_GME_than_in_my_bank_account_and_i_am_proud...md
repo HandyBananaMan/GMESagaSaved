@@ -1,5 +1,6 @@
-# Author: AffectionateShop293
-# Post URL: [https://www.reddit.com/r/GME/comments/n0ri68/i_have_1000x_times_more_money_in_gme_than_in_my/](https://www.reddit.com/r/GME/comments/n0ri68/i_have_1000x_times_more_money_in_gme_than_in_my/)
+#Title: I have 1000x times more money in GME than in my bank account and i am proud to HOLD 💎🙌🏻
+#Author: AffectionateShop293
+#Post URL: [https://www.reddit.com/r/GME/comments/n0ri68/i_have_1000x_times_more_money_in_gme_than_in_my/](https://www.reddit.com/r/GME/comments/n0ri68/i_have_1000x_times_more_money_in_gme_than_in_my/)
 
 
 Europoor here, i got kicked out of my shitty job in November because of the pandemic and since then i am living of the welfare system feeling like a leech, but i literally felt too bad and depressed to take a new shitty job, where people tell you that you should be happy since you earn a couple cents more than minimum wage.

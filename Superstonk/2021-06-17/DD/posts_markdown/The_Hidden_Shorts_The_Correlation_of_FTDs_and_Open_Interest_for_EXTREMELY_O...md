@@ -1,5 +1,6 @@
-# Author: Jonathan_McFall
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/](https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/)
+#Title: The Hidden Shorts: The Correlation of FTDs and Open Interest for EXTREMELY OTM Put Options
+#Author: Jonathan_McFall
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/](https://www.reddit.com/r/Superstonk/comments/o1sggl/the_hidden_shorts_the_correlation_of_ftds_and/)
 
 
 **My dearest apes,**
@@ -16,7 +17,7 @@ Coincidentally \*wink wink\*, there just so happens to be some really insane stu
 
 &#x200B;
 
-[from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/put-call-ratios](https://preview.redd.it/bsxz0n0f9s571.png?width=1157&format=png&auto=webp&s=00894296b776243a7257e58a317e226c85700409)
+![from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/put-call-ratios](https://preview.redd.it/bsxz0n0f9s571.png?width=1157&format=png&auto=webp&s=00894296b776243a7257e58a317e226c85700409)
 
 &#x200B;
 
@@ -26,7 +27,7 @@ This is the options data for all of the currently existing $GME options. There a
 
 &#x200B;
 
-[from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/options?moneyness=allRows&view=stacked&expiration=2021-07-16-m](https://preview.redd.it/85976zk0as571.png?width=1157&format=png&auto=webp&s=7d7071a130a47b22977aad47d2dd8b6d835c4102)
+![from: https:\/\/www.barchart.com\/stocks\/quotes\/GME\/options?moneyness=allRows&view=stacked&expiration=2021-07-16-m](https://preview.redd.it/85976zk0as571.png?width=1157&format=png&auto=webp&s=7d7071a130a47b22977aad47d2dd8b6d835c4102)
 
 &#x200B;
 
@@ -36,7 +37,7 @@ This is the options data for all of the currently existing $GME options. There a
 
 &#x200B;
 
-[from: ThinkOrSwim platform](https://preview.redd.it/4vmae7syas571.png?width=1546&format=png&auto=webp&s=2cdd8cf91984923c4a2c5000acc7dbf7c60ee1e0)
+![from: ThinkOrSwim platform](https://preview.redd.it/4vmae7syas571.png?width=1546&format=png&auto=webp&s=2cdd8cf91984923c4a2c5000acc7dbf7c60ee1e0)
 
 &#x200B;
 
@@ -56,7 +57,7 @@ So here was my process. I am going to get FTD data from pre-January-run-up to Ap
 
 Here is what I am working with:
 
-[from: my brain](https://preview.redd.it/2jl7v64gds571.png?width=1064&format=png&auto=webp&s=f74833a9d05ba9b1c67249cf20d1849fa644eef4)
+![from: my brain](https://preview.redd.it/2jl7v64gds571.png?width=1064&format=png&auto=webp&s=f74833a9d05ba9b1c67249cf20d1849fa644eef4)
 
 &#x200B;
 

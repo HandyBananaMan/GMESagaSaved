@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/](https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/)
+#Title: Hank Returns.... WITH SOME FTD CYCLE DD
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/](https://www.reddit.com/r/Superstonk/comments/myxei0/hank_returns_with_some_ftd_cycle_dd/)
 
 
 **\*\*\*\*\*\*\*\*\*\*\*\*\*I am not a financial advisor, this is not financial advice\*\*\*\*\*\*\*\*\*\*\*\*\***
@@ -34,7 +35,7 @@ That was a serious understatement of how in-depth I went in that DD, so if you a
 
 # HOW DID I GET HERE? (YOUR MEAT SMELLS GOOD)
 
-[FYI that's not actually me](https://preview.redd.it/hdkqyscvoiv61.png?width=468&format=png&auto=webp&s=32ffd80452aceb4cb4a2529086cf84578337ac66)
+![FYI that's not actually me](https://preview.redd.it/hdkqyscvoiv61.png?width=468&format=png&auto=webp&s=32ffd80452aceb4cb4a2529086cf84578337ac66)
 
 Many of you are probably thinking that I'm going in too deep on this, that you could find a correlation like this with any stock, and that I'm just a retard (which is true), and that is definitely a fair point. However, the reason why I believe that there is more than ~~meets~~ meats the eye with GME is because of how strange its price movement is:
 
@@ -52,7 +53,7 @@ So, why FTDs? FTDs are at the heart of abusive shorting, which most of us believ
 
 Here is the official HomeDepotHank69 response to the recent influx of shill activity:
 
-[BOOM. Problem solved](https://preview.redd.it/xn6ff3m7oiv61.png?width=850&format=png&auto=webp&s=4e870ea865d9b39415523eb7c856e494215477ca)
+![BOOM. Problem solved](https://preview.redd.it/xn6ff3m7oiv61.png?width=850&format=png&auto=webp&s=4e870ea865d9b39415523eb7c856e494215477ca)
 
 No seriously, fuck shills. Be careful of these creatures.
 
@@ -100,7 +101,7 @@ https://preview.redd.it/zcea9bs1oiv61.png?width=299&format=png&auto=webp&s=14b8e
 
 Yes, apes, there's more. I went even further into the data. I downloaded the price and volume history of GME from Yahoo Finance and put it into an excel spreadsheet. I then ran some formulas on it and did some conditional formatting so that it would highlight certain values. I found that about 2 days before the start/end of every period there is a day that is between -1% to 1% in price change on extremely low volume. Many of you pointed out that GME has done this the last few times before jumping, so I dug further and found this, which struck me as very odd because it even did this in the face of high volume periods. So, what does this mean? Honestly, I'm not entirely sure. It could be a complete coincidence. One possible explanation is that shorts try to stabilize the price on these days to ensure that they can get a good price when they have to buy into the next FTD cycle but idk if that makes sense. I wanna hear what the comments have to say about this one.
 
-Moreover, there's a whole other dimension to this, which is the abusive shorting taking place regarding ETFs containing GME. I don't want to get into that here because it will take far too long and because there was some near-perfect DD from these beautiful apes: [u/augrr](https://www.reddit.com/u/augrr/) and ![u/turdfurg23](https://www.reddit.com/u/turdfurg23/)
+Moreover, there's a whole other dimension to this, which is the abusive shorting taking place regarding ETFs containing GME. I don't want to get into that here because it will take far too long and because there was some near-perfect DD from these beautiful apes: [u/augrr](https://www.reddit.com/u/augrr/) and [u/turdfurg23](https://www.reddit.com/u/turdfurg23/)
 
 I'd encourage you to check out those posts as they do a great job of explaining that, which only adds to our case. Moreover, there is also a new OCC rule being put in place soon that could limit synthetic longs (I'll try to get more on that, but if you are up to date on it please say so in the comments!)
 

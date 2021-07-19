@@ -1,5 +1,6 @@
-# Author: nibbie1998
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6mvf/latest_failuretodeliver_data_from_all_72_etfs/](https://www.reddit.com/r/Superstonk/comments/ms6mvf/latest_failuretodeliver_data_from_all_72_etfs/)
+#Title: LATEST Failure-To-Deliver data from ALL 72 ETFs CONTAINING GME! ETFs containing 99% of all FTDs!
+#Author: nibbie1998
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ms6mvf/latest_failuretodeliver_data_from_all_72_etfs/](https://www.reddit.com/r/Superstonk/comments/ms6mvf/latest_failuretodeliver_data_from_all_72_etfs/)
 
 
 Hello, this morning u/rensole did a request in his synopsis to analyse all the Failure-To-Delivers contained in the ETFs. So I made a Python script where I get all the latest FTD data from the 72 ETFs including GME. I will from now on post the FTD data for you apes. I hope you guys enjoy it! 🦍🦍
@@ -24,7 +25,7 @@ ETF data: [https://www.etf.com/stock/GME](https://www.etf.com/stock/GME)
 
 Failure-To-Deliver data: [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
 
-Cleaned FTD data: ![CleanedData](https://github.com/NibbieHub/FailureToDelivers/blob/main/data/cleaned/GMEandETFsLast.csv)
+Cleaned FTD data: [CleanedData](https://github.com/NibbieHub/FailureToDelivers/blob/main/data/cleaned/GMEandETFsLast.csv)
 
 Repo: 
 (https://github.com/NibbieHub/FailureToDelivers)

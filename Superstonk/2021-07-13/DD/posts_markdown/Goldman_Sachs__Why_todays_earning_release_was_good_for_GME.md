@@ -1,12 +1,15 @@
-# Author: Munoz10594
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/)
+#Title: Goldman Sachs & Why todays earning release was good for GME
+#Author: Munoz10594
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/)
 
 
 Alright. So my last post kind of blew up, and I'm glad it got the conversation started about the earnings reports coming out this week from the banks. Got some requests to follow it up with a run-down of other earnings. Might not be able to do them all in timely fashion, but I'll do my best.
 
 This is my run-down on the portion of Investment Banking and Global Markets portion of Goldman Sachs earnings report. I've seen some people get this confused with their overall performance. This is not indicative of other earnings in the earnings report and just an overview of the net revenue for the investment banking portion of the banks earnings. I hope this clears the air for some that may have been confused by my last post.
 
-EDIT: Link to my post on JP Morgan Chase Investment Bank:  [(52) JP Morgan &amp;amp;amp; Why todays earnings release was good for GME : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/) 
+EDIT: Link to my post on JP Morgan Chase Investment Bank:  [(52) JP Morgan &amp;amp;amp; Why todays earnings release was good for GME : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/)
+
+Edit2: Link to post on Bank Of America: https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/
 
 **TL;DR: Goldman Sachs net revenue fell double digit percentages compared to Q1 2021. However, a common theme among these banks is that they required deposits for their investors to meet margin, lower margins/profit from the Bond market, and more investor leverage in derivative markets (aka options). In other words, the house of cards is crumbling and we've been watching it this entire time and we called it. Enter cheat-code: SHOW ME THE MONEY**
 
@@ -42,4 +45,4 @@ Obligatory F in the comments for Goldman Sachs.
 
 Sources:
 
-1. ![2Q21 GS Earnings Release (goldmansachs.com)](https://www.goldmansachs.com/media-relations/press-releases/current/pdfs/2021-q2-results.pdf)
+1. [2Q21 GS Earnings Release (goldmansachs.com)](https://www.goldmansachs.com/media-relations/press-releases/current/pdfs/2021-q2-results.pdf)

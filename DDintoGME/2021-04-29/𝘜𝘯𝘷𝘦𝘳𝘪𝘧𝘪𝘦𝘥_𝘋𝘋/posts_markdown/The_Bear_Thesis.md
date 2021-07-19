@@ -1,5 +1,6 @@
-# Author: ayyyybro
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/](https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/)
+#Title: The Bear Thesis
+#Author: ayyyybro
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/](https://www.reddit.com/r/DDintoGME/comments/n16n48/the_bear_thesis/)
 
 
 Sup Apes,
@@ -72,7 +73,7 @@ For starters I think you should check out the updates that have been made to the
 
 &#x200B;
 
-As for me, I like the stock, and if it goes back down to $40, [I’ve got a couple ideas around my strategy](https://imgur.com/a/ZYteh65).
+As for me, I like the stock, and if it goes back down to $40, ![I’ve got a couple ideas around my strategy](https://imgur.com/a/ZYteh65).
 
 &#x200B;
 
@@ -133,7 +134,7 @@ I bought at the peak in January with hopes of doubling my money and making a qui
 
 For better or worse, I will not sell on the way up.
 
-If you’ve seen my other posts you’ll know what I believe the best exit strategy is. ![Here it is again](https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/):
+If you’ve seen my other posts you’ll know what I believe the best exit strategy is. [Here it is again](https://www.reddit.com/r/GME/comments/mmo9kw/from_fake_shares_to_millionaires_common/):
 
 https://preview.redd.it/wahtg4f3w4w61.png?width=730&format=png&auto=webp&s=444c6baacdfd1806b6d625a30a873da91632bae6
 

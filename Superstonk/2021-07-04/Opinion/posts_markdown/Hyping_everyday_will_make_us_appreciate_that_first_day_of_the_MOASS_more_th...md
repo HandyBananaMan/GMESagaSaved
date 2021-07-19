@@ -1,5 +1,6 @@
-# Author: 1FuzzyPickle
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odzlm3/hyping_everyday_will_make_us_appreciate_that/](https://www.reddit.com/r/Superstonk/comments/odzlm3/hyping_everyday_will_make_us_appreciate_that/)
+#Title: Hyping everyday will make us appreciate that first day of the MOASS more than anything.
+#Author: 1FuzzyPickle
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odzlm3/hyping_everyday_will_make_us_appreciate_that/](https://www.reddit.com/r/Superstonk/comments/odzlm3/hyping_everyday_will_make_us_appreciate_that/)
 
 
 Think about it, it’s the morning of the MOASS. The premarket opens, not much happens. You think it’s just another day of sideways trading. Then all of a sudden the spike happens. It hits $350 in a matter of seconds.  $420. $500. $750. $1000. 

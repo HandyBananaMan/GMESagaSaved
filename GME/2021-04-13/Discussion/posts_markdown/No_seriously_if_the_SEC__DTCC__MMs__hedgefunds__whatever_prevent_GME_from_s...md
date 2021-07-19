@@ -1,5 +1,6 @@
-# Author: DinosaurNool
-# Post URL: [https://www.reddit.com/r/GME/comments/mpw7b5/no_seriously_if_the_sec_dtcc_mms_hedgefunds/](https://www.reddit.com/r/GME/comments/mpw7b5/no_seriously_if_the_sec_dtcc_mms_hedgefunds/)
+#Title: No seriously, if the SEC / DTCC / MMs / hedgefunds / whatever prevent GME from squeezing I will remove all of my investments from the US stock market, and any person I encounter who is even remotely involved or interested in investing there I will actively discourage and warn them not to do so.
+#Author: DinosaurNool
+#Post URL: [https://www.reddit.com/r/GME/comments/mpw7b5/no_seriously_if_the_sec_dtcc_mms_hedgefunds/](https://www.reddit.com/r/GME/comments/mpw7b5/no_seriously_if_the_sec_dtcc_mms_hedgefunds/)
 
 
 I'm sick to the stomach will all of this. The blatant price manipulation, the media manipulation, the lack of regulatory policing or enforcement. It's pathetic and infuriating, disheartening and disillusioning. A total breakdown of trust in this Market. 

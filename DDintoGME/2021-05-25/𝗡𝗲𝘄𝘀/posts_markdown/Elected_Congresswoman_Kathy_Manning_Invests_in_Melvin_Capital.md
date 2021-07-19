@@ -1,5 +1,6 @@
-# Author: ckkusa
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkt7oh/elected_congresswoman_kathy_manning_invests_in/](https://www.reddit.com/r/DDintoGME/comments/nkt7oh/elected_congresswoman_kathy_manning_invests_in/)
+#Title: Elected Congresswoman Kathy Manning Invests in Melvin Capital
+#Author: ckkusa
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkt7oh/elected_congresswoman_kathy_manning_invests_in/](https://www.reddit.com/r/DDintoGME/comments/nkt7oh/elected_congresswoman_kathy_manning_invests_in/)
 
 
 After Melvin Capital ~~testified~~ lied on 2/18/21, Congresswoman Katharine Manning (D) of North Carolina, decided to invest in Melvin Capital 2-weeks after the hearings. What do you think Ms. Manning did prior to being *elected by the people* to Congress? I'm sure you can take a wild guess...

@@ -1,5 +1,6 @@
-# Author: F4hype
-# Post URL: [https://www.reddit.com/r/GME/comments/m7763l/prediction_citadel_will_drop_the_bomb_themselves/](https://www.reddit.com/r/GME/comments/m7763l/prediction_citadel_will_drop_the_bomb_themselves/)
+#Title: Prediction - citadel will drop the bomb themselves out of spite
+#Author: F4hype
+#Post URL: [https://www.reddit.com/r/GME/comments/m7763l/prediction_citadel_will_drop_the_bomb_themselves/](https://www.reddit.com/r/GME/comments/m7763l/prediction_citadel_will_drop_the_bomb_themselves/)
 
 
 This is pure speculation to the point of shitposting, but after seeing how hard Ken just got left out to dry in the hearing I believe that this truly spited man is right now collecting liquid capital to start the squeeze himself. 

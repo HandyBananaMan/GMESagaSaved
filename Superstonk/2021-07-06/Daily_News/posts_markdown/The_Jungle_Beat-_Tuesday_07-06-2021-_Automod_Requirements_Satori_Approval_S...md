@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/](https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/)
+#Title: The Jungle Beat- Tuesday 07-06-2021- Automod Requirements, Satori Approval, Superstonk Bot, and more 🎮 !powerup! 🛑
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/](https://www.reddit.com/r/Superstonk/comments/of36nb/the_jungle_beat_tuesday_07062021_automod/)
 
 
 *The Jungle Beat will be posted every trading day at 4:20 pm NYSE time!*
@@ -50,7 +51,7 @@ The apes of [r/Superstonk](https://www.reddit.com/r/Superstonk/) sincerely appre
 
 &#x200B;
 
-[credit u\/cleareyeswow](https://preview.redd.it/ke2vpvng6m971.png?width=1596&format=png&auto=webp&s=22c05205385e9c33a02732a4639f494be17d8b46)
+![credit u\/cleareyeswow](https://preview.redd.it/ke2vpvng6m971.png?width=1596&format=png&auto=webp&s=22c05205385e9c33a02732a4639f494be17d8b46)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -94,7 +95,7 @@ also peep the actual Gamestop ticker- GME in the token code 👀
 
 &#x200B;
 
-[credit  u\/xcantdj](https://preview.redd.it/x9fara0w8m971.png?width=840&format=png&auto=webp&s=e8524c2a69ac491c8e3053fd8ab701ec002c4f75)
+![credit  u\/xcantdj](https://preview.redd.it/x9fara0w8m971.png?width=840&format=png&auto=webp&s=e8524c2a69ac491c8e3053fd8ab701ec002c4f75)
 
 &#x200B;
 
@@ -246,7 +247,7 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 **IF THERE IS SOMETHING BIG GOING ON WHILE THE OUTAGE IS HAPPENING WE MAY ALSO UTILIZE THE "EMERGENCY BROADCAST SYSTEM" TO RELAY INFO:**
 
-![SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

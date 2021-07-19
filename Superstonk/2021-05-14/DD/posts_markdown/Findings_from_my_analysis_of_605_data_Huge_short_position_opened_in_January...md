@@ -1,5 +1,6 @@
-# Author: Bladeace
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1h4o/findings_from_my_analysis_of_605_data_huge_short/](https://www.reddit.com/r/Superstonk/comments/nc1h4o/findings_from_my_analysis_of_605_data_huge_short/)
+#Title: Findings from my analysis of 605 data: Huge short position opened in January. Expanded in February and March. Has not been closed.
+#Author: Bladeace
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nc1h4o/findings_from_my_analysis_of_605_data_huge_short/](https://www.reddit.com/r/Superstonk/comments/nc1h4o/findings_from_my_analysis_of_605_data_huge_short/)
 
 
 **TA;DR: I looked at the 605 data - Citadel’s short position is so huge it’s distorted the order flow. It’s so massive you can see it merely by looking at where the GME orders are being executed. It also shows they haven’t closed.**
@@ -28,7 +29,7 @@ This is the theory I set out to test - has anyone opened a large naked short pos
 
 **Order flow data** ***(OK TO SKIP)*****:**
 
-![SEC rule 605](https://www.sec.gov/rules/final/34-43590.htm) requires market centers to release data on the orders they execute. This data excludes most retail sales and multiple forms of conditional sales. However, it does include a substantial portion of the volume, enough to give us information on which market center is executing orders for a particular security during a given month. Crucially, for my purposes, it allows us to identify broad trends in the order flow between these market centers. In most cases, this data is not very helpful because it is missing most of the interesting information (for example, it won’t distinguish between short and long sales). However, in my case it’s perfect because I do not want to rely on any information except the volume - I don’t want my findings to rely on Citadel accurately reporting anything else.
+[SEC rule 605](https://www.sec.gov/rules/final/34-43590.htm) requires market centers to release data on the orders they execute. This data excludes most retail sales and multiple forms of conditional sales. However, it does include a substantial portion of the volume, enough to give us information on which market center is executing orders for a particular security during a given month. Crucially, for my purposes, it allows us to identify broad trends in the order flow between these market centers. In most cases, this data is not very helpful because it is missing most of the interesting information (for example, it won’t distinguish between short and long sales). However, in my case it’s perfect because I do not want to rely on any information except the volume - I don’t want my findings to rely on Citadel accurately reporting anything else.
 
 It’s worth stressing that ***rule 605 data excludes most retail orders***. This is important for us because we already know Citadel is handling most GME retail orders. The short position Citadel has, supposedly, opened is so huge that the distortion in order flow caused would extend beyond retail orders, which makes 605 data the perfect place to look.
 

@@ -1,5 +1,6 @@
-# Author: DFVFan
-# Post URL: [https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/](https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/)
+#Title: Ken Griffin makes $68M a month after taxes . That was in 2015. He should make more now. That's why my floor is $69M.
+#Author: DFVFan
+#Post URL: [https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/](https://www.reddit.com/r/GME/comments/ni2sb2/ken_griffin_makes_68m_a_month_after_taxes_that/)
 
 
 [https://www.cnbc.com/2015/03/03/ken-griffin-makes-68m-a-month-after-taxes-ex-wife-says.html](https://www.cnbc.com/2015/03/03/ken-griffin-makes-68m-a-month-after-taxes-ex-wife-says.html)
@@ -19,7 +20,7 @@ Dias’ filing is sure to escalate their ongoing dispute over child support, in 
 
 Dias says she’s adhering to Illinois law, which requires Griffin to fund the three children’s lifestyle as it was during their parents’ marriage. She says the expenses such as the jets and groceries are simply an accounting of all the couple’s child-related expenses while they were married.
 
-Read More![Why 1 percenters are like one-hit wonders](https://www.cnbc.com/2015/02/25/why-1-percenters-are-like-one-hit-wonders.html)  
+Read More[Why 1 percenters are like one-hit wonders](https://www.cnbc.com/2015/02/25/why-1-percenters-are-like-one-hit-wonders.html)  
 
 
 “Ken’s false incredulity as to the cost of his children’s lifestyle—a lifestyle which he established and continues to enjoy with the children—is pure hypocrisy.”

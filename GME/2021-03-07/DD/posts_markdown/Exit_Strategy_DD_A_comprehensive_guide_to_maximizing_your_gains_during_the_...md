@@ -1,5 +1,6 @@
-# Author: WardenElite
-# Post URL: [https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/)
+#Title: Exit Strategy DD: A comprehensive guide to maximizing your gains during the GME short squeeze. Advice from a day and swing trader.
+#Author: WardenElite
+#Post URL: [https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/](https://www.reddit.com/r/GME/comments/m073v6/exit_strategy_dd_a_comprehensive_guide_to/)
 
 
 &#x200B;
@@ -268,7 +269,7 @@ Lastly for this edit, why am I sharing my exit strategy? Traders are compelled t
 
 **Edit 4:** Seems my image links were messed up and it was just showing preview image links instead of the actual images. I fixed that issue.
 
-**Edit 5:** Checkout triangles applied to today's chart (3/8):  ![https://www.reddit.com/r/GME/comments/m0j3cf/ladies\_and\_gentlemen\_the\_triangle\_has\_spoken\_we/](https://www.reddit.com/r/GME/comments/m0j3cf/ladies_and_gentlemen_the_triangle_has_spoken_we/)
+**Edit 5:** Checkout triangles applied to today's chart (3/8):  [https://www.reddit.com/r/GME/comments/m0j3cf/ladies\_and\_gentlemen\_the\_triangle\_has\_spoken\_we/](https://www.reddit.com/r/GME/comments/m0j3cf/ladies_and_gentlemen_the_triangle_has_spoken_we/)
 
 Summary of resources I used to learn:
 

@@ -1,5 +1,6 @@
-# Author: GIGAR
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0eshz/please_stop_calling_it_naked_shorting_call_it/](https://www.reddit.com/r/Superstonk/comments/o0eshz/please_stop_calling_it_naked_shorting_call_it/)
+#Title: Please stop calling it naked shorting - Call it what is is: COUNTEFEIT SHARES
+#Author: GIGAR
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0eshz/please_stop_calling_it_naked_shorting_call_it/](https://www.reddit.com/r/Superstonk/comments/o0eshz/please_stop_calling_it_naked_shorting_call_it/)
 
 
 I know we've all gotten used to the term "naked shorting", but we all know what it really is: Counterfeit shares.

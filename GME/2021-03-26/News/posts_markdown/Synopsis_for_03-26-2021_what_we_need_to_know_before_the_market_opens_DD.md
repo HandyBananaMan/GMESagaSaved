@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-26-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mdlif3/synopsis_for_03262021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -217,7 +218,7 @@ Edit 2:
 
 https://preview.redd.it/77c1y7lrbfp61.png?width=640&format=png&auto=webp&s=a1f1e62e5731925ddbe19eb6c6cf42d871c48127
 
-![https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/](https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/)
+[https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/](https://www.financemagnates.com/institutional-forex/finra-slaps-275k-fine-on-citadel-securities-for-reporting-violations/)
 
 &#x200B;
 

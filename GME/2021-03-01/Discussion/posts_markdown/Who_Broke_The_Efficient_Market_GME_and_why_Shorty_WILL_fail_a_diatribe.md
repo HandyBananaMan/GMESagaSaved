@@ -1,5 +1,6 @@
-# Author: baconara
-# Post URL: [https://www.reddit.com/r/GME/comments/lvlx71/who_broke_the_efficient_market_gme_and_why_shorty/](https://www.reddit.com/r/GME/comments/lvlx71/who_broke_the_efficient_market_gme_and_why_shorty/)
+#Title: Who Broke The Efficient Market, GME and why Shorty WILL fail: a diatribe
+#Author: baconara
+#Post URL: [https://www.reddit.com/r/GME/comments/lvlx71/who_broke_the_efficient_market_gme_and_why_shorty/](https://www.reddit.com/r/GME/comments/lvlx71/who_broke_the_efficient_market_gme_and_why_shorty/)
 
 
 This is not a discussion about the MOASS, or probabilities, or option chains. There are no positions here, only a curse. Shorty's interns can take it as they will.

@@ -1,5 +1,6 @@
-# Author: picaresquervnant
-# Post URL: [https://www.reddit.com/r/GME/comments/nil4mp/i_am_not_a_smart_ape_but_i_am_an_art_ape_welcome/](https://www.reddit.com/r/GME/comments/nil4mp/i_am_not_a_smart_ape_but_i_am_an_art_ape_welcome/)
+#Title: I am not a smart ape, but I am an art ape. Welcome to the f*ckin show.
+#Author: picaresquervnant
+#Post URL: [https://www.reddit.com/r/GME/comments/nil4mp/i_am_not_a_smart_ape_but_i_am_an_art_ape_welcome/](https://www.reddit.com/r/GME/comments/nil4mp/i_am_not_a_smart_ape_but_i_am_an_art_ape_welcome/)
 
 
 https://v.redd.it/qngdzw6qxo071

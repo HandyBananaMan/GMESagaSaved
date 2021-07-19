@@ -1,5 +1,6 @@
-# Author: DracoFinance
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/](https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/)
+#Title: The "Dip Machine" and the 6/2 spike..
+#Author: DracoFinance
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/](https://www.reddit.com/r/DDintoGME/comments/nqt026/the_dip_machine_and_the_62_spike/)
 
 
 The "Dip Machine" tweet seemed a little odd to me.  Most likely it was a reference to the ever-broken McD's soft-serve machines.  But maybe it wasn't.  
@@ -14,4 +15,4 @@ And as I'm writing this, there was another spike at 14:15ET that pushed the pric
   
 This is rampant speculation, but it really feels to me like the Dip Machine is indeed broken and someone is poking it with a stick to be sure.  
   
-EDIT:  Thanks to /u/NinjaLip for pointing out the DD by /u/myplayprofile , ![I got what you Quant](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/?utm_medium=android_app&utm_source=share) that shows a solid causation between the spike and AMC's halt.
+EDIT:  Thanks to /u/NinjaLip for pointing out the DD by /u/myplayprofile , [I got what you Quant](https://www.reddit.com/r/Superstonk/comments/nqzo1o/i_got_what_you_quant_6221_trading_analysis_and_a/?utm_medium=android_app&utm_source=share) that shows a solid causation between the spike and AMC's halt.

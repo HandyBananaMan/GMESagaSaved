@@ -1,8 +1,9 @@
-# Author: SpaceCooper
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nx2ylo/guys_i_think_i_found_something_regarding_gmes/](https://www.reddit.com/r/DDintoGME/comments/nx2ylo/guys_i_think_i_found_something_regarding_gmes/)
+#Title: GUYS! I think I found something! Regarding GME‘s transition to the Russell 1000
+#Author: SpaceCooper
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nx2ylo/guys_i_think_i_found_something_regarding_gmes/](https://www.reddit.com/r/DDintoGME/comments/nx2ylo/guys_i_think_i_found_something_regarding_gmes/)
 
 
-**Edit:** Some people pointed to u/dlauers [comment](https://i.redd.it/a0f4ruqh9i471.png). Still considering the membership move as bullish one, though.
+**Edit:** Some people pointed to u/dlauers ![comment](https://i.redd.it/a0f4ruqh9i471.png). Still considering the membership move as bullish one, though.
 
 I can’t post on superstonk (karma) therefore I try this platform. This is my first DD and I am open to criticism and hope that wrinklier brains than mine can review this finding. 
 
@@ -24,7 +25,7 @@ To quote Wikipedia:
 
 Russell Investment, who founded the index, was bought by the London Stock Exchange Group in 2014. 
 
-If you click on the “Frank Russell Company” link in the article you get directly redirected to the [LSEG article](https://en.m.wikipedia.org/wiki/London_Stock_Exchange_Group) even though ![Russell Investments](https://en.m.wikipedia.org/wiki/Russell_Investments) has its own Wikipedia article.
+If you click on the “Frank Russell Company” link in the article you get directly redirected to the [LSEG article](https://en.m.wikipedia.org/wiki/London_Stock_Exchange_Group) even though [Russell Investments](https://en.m.wikipedia.org/wiki/Russell_Investments) has its own Wikipedia article.
 
 But back to LSEG. They are in fact a publicly traded company, so let’s have a look at the biggest shareholder of the company:
 

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/mgbzmj/synopsis_for_03302021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mgbzmj/synopsis_for_03302021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-30-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/mgbzmj/synopsis_for_03302021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/mgbzmj/synopsis_for_03302021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -199,4 +200,4 @@ Additionally, the Company made two other executive hires:
 * **Tom Petersen, Vice President of Merchandising** – Mr. Petersen, who previously served as Chewy’s Vice President of Merchandising, started March 29, 2021. He has also held senior marketing and merchandising roles at specialty retailers such as Artenza and Corro. In his new role, Mr. Petersen will help drive vendor relations, product management and related merchandising initiatives.  
 
 
-![https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html](https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html)
+[https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html](https://ca.finance.yahoo.com/news/gamestop-appoints-chief-growth-officer-104500636.html)

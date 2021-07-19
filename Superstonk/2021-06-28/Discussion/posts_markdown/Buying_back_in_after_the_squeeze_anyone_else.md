@@ -1,5 +1,6 @@
-# Author: oldwestprospector
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o9us1o/buying_back_in_after_the_squeeze_anyone_else/](https://www.reddit.com/r/Superstonk/comments/o9us1o/buying_back_in_after_the_squeeze_anyone_else/)
+#Title: Buying back in after the squeeze, anyone else?
+#Author: oldwestprospector
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o9us1o/buying_back_in_after_the_squeeze_anyone_else/](https://www.reddit.com/r/Superstonk/comments/o9us1o/buying_back_in_after_the_squeeze_anyone_else/)
 
 
 I think I know the answer to that question, GME and Superstonk has made weekdays I usually dread so much better. Once the squeeze happens I plan on buying many more shares than I can afford right now. 

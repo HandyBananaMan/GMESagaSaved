@@ -1,5 +1,6 @@
-# Author: ThisGuyFyuks
-# Post URL: [https://www.reddit.com/r/GME/comments/nvhlgm/the_floor_is_not_25_million/](https://www.reddit.com/r/GME/comments/nvhlgm/the_floor_is_not_25_million/)
+#Title: The floor is NOT 25 Million
+#Author: ThisGuyFyuks
+#Post URL: [https://www.reddit.com/r/GME/comments/nvhlgm/the_floor_is_not_25_million/](https://www.reddit.com/r/GME/comments/nvhlgm/the_floor_is_not_25_million/)
 
 
 I keep seeing it posted here, but please remember, they shorted 140% of the stock.

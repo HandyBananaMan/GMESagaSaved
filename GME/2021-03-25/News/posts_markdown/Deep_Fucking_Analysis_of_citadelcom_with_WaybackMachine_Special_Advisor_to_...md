@@ -1,5 +1,6 @@
-# Author: rudyb0y
-# Post URL: [https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/](https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/)
+#Title: Deep Fucking Analysis of citadel.com with WaybackMachine: Special Advisor to the CEO and a Global Treasurer ARE GONE
+#Author: rudyb0y
+#Post URL: [https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/](https://www.reddit.com/r/GME/comments/mcvqcm/deep_fucking_analysis_of_citadelcom_with/)
 
 
 Hey guys,
@@ -12,7 +13,7 @@ The first thing they did on Jan 28th was removing the Contact page from their si
 
 &#x200B;
 
-[Jan 15th 2021 on the left. Feb 19th 2021 on the right.](https://preview.redd.it/e25nyfluk5p61.png?width=3842&format=png&auto=webp&s=5f395d9c235614914a4e6fd19ab2db1f932ea747)
+![Jan 15th 2021 on the left. Feb 19th 2021 on the right.](https://preview.redd.it/e25nyfluk5p61.png?width=3842&format=png&auto=webp&s=5f395d9c235614914a4e6fd19ab2db1f932ea747)
 
 &#x200B;
 
@@ -20,7 +21,7 @@ The first thing they did on Jan 28th was removing the Contact page from their si
 
 Perry Vais, Global Treasurer and Mark Stainton, Kenny's Special Advisor are gone. Bye-bye.
 
-[Jan 20th 2021 on the left. Mar 21st on the right.](https://preview.redd.it/jd81dicam5p61.png?width=3838&format=png&auto=webp&s=5ce5d51e861537a5d7bed69eb1a079f937155d02)
+![Jan 20th 2021 on the left. Mar 21st on the right.](https://preview.redd.it/jd81dicam5p61.png?width=3838&format=png&auto=webp&s=5ce5d51e861537a5d7bed69eb1a079f937155d02)
 
 &#x200B;
 

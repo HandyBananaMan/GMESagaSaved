@@ -1,10 +1,11 @@
-# Author: khashi1
-# Post URL: [https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/](https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/)
+#Title: ***What a rare opportunity this community has with GameStop! There really have only been 5 MAJOR squeezes in the modern area. Come learn and be amazed!!
+#Author: khashi1
+#Post URL: [https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/](https://www.reddit.com/r/GME/comments/mippnw/what_a_rare_opportunity_this_community_has_with/)
 
 
 # 
 
-[https://preview.redd.it/k8rr39qztsq61.jpg?width=3200&format=pjpg&auto=webp&s=e9e9a53b4e354d65d8373aefe5577bda41563962](https://preview.redd.it/k8rr39qztsq61.jpg?width=3200&format=pjpg&auto=webp&s=e9e9a53b4e354d65d8373aefe5577bda41563962)
+![https://preview.redd.it/k8rr39qztsq61.jpg?width=3200&format=pjpg&auto=webp&s=e9e9a53b4e354d65d8373aefe5577bda41563962](https://preview.redd.it/k8rr39qztsq61.jpg?width=3200&format=pjpg&auto=webp&s=e9e9a53b4e354d65d8373aefe5577bda41563962)
 
 # Welcome Apes to a fun little class on Short Squeezes and why this might be the last of them (Edit:  Should be Modern Era...at least you know I really am an Ape....lol)
 

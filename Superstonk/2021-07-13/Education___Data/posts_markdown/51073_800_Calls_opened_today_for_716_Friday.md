@@ -1,10 +1,11 @@
-# Author: SpeedoCheeto
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/](https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/)
+#Title: 51,073 $800 Calls opened today for 7/16 Friday
+#Author: SpeedoCheeto
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/](https://www.reddit.com/r/Superstonk/comments/ojx2qx/51073_800_calls_opened_today_for_716_friday/)
 
 
 &#x200B;
 
-[  👀 whew lad  👀 ](https://preview.redd.it/pf0qxuydy3b71.png?width=1480&format=png&auto=webp&s=c108fed863beb4caea63badab099bcc84f4964a1)
+![  👀 whew lad  👀 ](https://preview.redd.it/pf0qxuydy3b71.png?width=1480&format=png&auto=webp&s=c108fed863beb4caea63badab099bcc84f4964a1)
 
 Anyone with wrinkles wanna explain why I shouldn't stay so jacked it hurts?
 
@@ -22,4 +23,4 @@ For the smooth (me):
 >  
 >Volume reflects a running total throughout the trading day, and open interest is updated just once per day.
 
-![https://www.investopedia.com/ask/answers/050615/what-difference-between-open-interest-and-volume.asp](https://www.investopedia.com/ask/answers/050615/what-difference-between-open-interest-and-volume.asp)
+[https://www.investopedia.com/ask/answers/050615/what-difference-between-open-interest-and-volume.asp](https://www.investopedia.com/ask/answers/050615/what-difference-between-open-interest-and-volume.asp)

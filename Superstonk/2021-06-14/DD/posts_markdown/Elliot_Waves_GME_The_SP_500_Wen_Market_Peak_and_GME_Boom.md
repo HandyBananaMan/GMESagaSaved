@@ -1,5 +1,6 @@
-# Author: possibly6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/](https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/)
+#Title: Elliot Waves, GME, The S&P 500, Wen Market Peak and GME Boom?
+#Author: possibly6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/](https://www.reddit.com/r/Superstonk/comments/o02fnr/elliot_waves_gme_the_sp_500_wen_market_peak_and/)
 
 
 Sup Apes
@@ -22,7 +23,7 @@ normal stocks have a positive beta, usually around 1.0, meaning if the market (S
 
 &#x200B;
 
-[wut mean?](https://preview.redd.it/n7lrg439xb571.png?width=1061&format=png&auto=webp&s=e51aed75d2fdb2b5569ef74f533758c86c96046a)
+![wut mean?](https://preview.redd.it/n7lrg439xb571.png?width=1061&format=png&auto=webp&s=e51aed75d2fdb2b5569ef74f533758c86c96046a)
 
 There have been many great thesis's drafted regarding GME boom = market crash, which I think are completely true. In short, the market crash makes GME moon, or GME moon causes the market crash. why? I know people have noticed the wild crip toe fluctuations and drops, this is partly attributed to capital requirements, meaning if shorts don't post collateral by x time on x date, marge comes a calling.
 
@@ -40,13 +41,13 @@ Below is a monthly view of SPY:
 
 &#x200B;
 
-[monthly](https://preview.redd.it/zcixym1ryb571.png?width=2806&format=png&auto=webp&s=77a13dc04e487c3bc835b2ce7effece18a133f5e)
+![monthly](https://preview.redd.it/zcixym1ryb571.png?width=2806&format=png&auto=webp&s=77a13dc04e487c3bc835b2ce7effece18a133f5e)
 
 This is our SUPER CYCLE, starting from the low of the 08 fin crisis. Now let's zoom in and see where we're at on a smaller scale:
 
 &#x200B;
 
-[4 hr compressed](https://preview.redd.it/uaddjcq9zb571.png?width=2798&format=png&auto=webp&s=bb59c92f783dea2038c2bbf9683035802e2b61ee)
+![4 hr compressed](https://preview.redd.it/uaddjcq9zb571.png?width=2798&format=png&auto=webp&s=bb59c92f783dea2038c2bbf9683035802e2b61ee)
 
 Remember, the order for wave cycles is grand super cycle, super cycle, cycle, primary, intermediate, and so on. What's important is you can distinguish where we are at in any cycle. For SPY, we are actually in the 5th wave of our 5th wave of our 5th wave... can anyone tell me what that means?
 
@@ -64,11 +65,11 @@ So, my working thesis is that the top of the stock market is not only predictabl
 
 Speaking of GME, a little update on the waaavvveees:
 
-[4hr](https://preview.redd.it/ps95juwk0c571.png?width=2756&format=png&auto=webp&s=fc84bd970491b8f31d3facb099aea623cec08ad0)
+![4hr](https://preview.redd.it/ps95juwk0c571.png?width=2756&format=png&auto=webp&s=fc84bd970491b8f31d3facb099aea623cec08ad0)
 
 &#x200B;
 
-[1hr](https://preview.redd.it/b7c7cfbm0c571.png?width=2812&format=png&auto=webp&s=79ac4557d86f4ade0aca08e93d85a2feac5a737d)
+![1hr](https://preview.redd.it/b7c7cfbm0c571.png?width=2812&format=png&auto=webp&s=79ac4557d86f4ade0aca08e93d85a2feac5a737d)
 
 Do note, we have not actually hit the 61.8% retracement of our cycle 1 (201), we under no circumstances have to hit that for the structure to be valid. In fact, the structure is valid unless we break under 112.83 (bottom of cycle 1), so I wouldn't worry about that at all haha. I'm still waiting for a significant move to give updated GME upside targets, tis a waiting game for now. What's new? Wish I had more time, need more shares.
 

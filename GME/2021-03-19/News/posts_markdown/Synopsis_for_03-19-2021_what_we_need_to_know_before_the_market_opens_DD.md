@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m8ddpj/synopsis_for_03192021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m8ddpj/synopsis_for_03192021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-19-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m8ddpj/synopsis_for_03192021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m8ddpj/synopsis_for_03192021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -265,4 +266,4 @@ Edit 4:
 
 Be sure to give this a read, been posted about 2 weeks ago but still holds true
 
-![https://www.reddit.com/r/GME/comments/lzxbzm/be\_adamant\_some\_reminders\_for\_managing\_behavior/](https://www.reddit.com/r/GME/comments/lzxbzm/be_adamant_some_reminders_for_managing_behavior/)
+[https://www.reddit.com/r/GME/comments/lzxbzm/be\_adamant\_some\_reminders\_for\_managing\_behavior/](https://www.reddit.com/r/GME/comments/lzxbzm/be_adamant_some_reminders_for_managing_behavior/)

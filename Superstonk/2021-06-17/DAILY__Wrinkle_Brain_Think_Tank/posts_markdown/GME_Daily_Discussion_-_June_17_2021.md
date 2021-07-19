@@ -1,5 +1,6 @@
-# Author: AutoModerator
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/](https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/)
+#Title: $GME Daily Discussion - June 17, 2021
+#Author: AutoModerator
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/](https://www.reddit.com/r/Superstonk/comments/o1rs5f/gme_daily_discussion_june_17_2021/)
 
 
 This is the official $GME Megathread for r/Superstonk. Please keep ALL conversations contained to Gamestop and related topics.
@@ -26,6 +27,6 @@ Check out our [**flair system**](https://www.reddit.com/r/Superstonk/comments/mr
 
 **Want to learn more?** [**Check out our extensive Wiki**](https://www.reddit.com/r/Superstonk/wiki/index) **and** [**FAQ**](https://www.reddit.com/r/Superstonk/wiki/index/faq)
 
-Please review the ![**Superstonk Rules**](https://www.reddit.com/r/Superstonk/wiki/index/rules) before commenting or posting on r/Superstonk.
+Please review the [**Superstonk Rules**](https://www.reddit.com/r/Superstonk/wiki/index/rules) before commenting or posting on r/Superstonk.
 
 *Daily discussion threads are created at 4:00 a.m. EDT*

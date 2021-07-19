@@ -1,5 +1,6 @@
-# Author: lighthouse30130
-# Post URL: [https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/](https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/)
+#Title: THE MOASS WON'T HAPPEN UNTIL OPTIONS ARE NOT REGULATED: DTC-2021-005 JUST CHANGED THE GAME
+#Author: lighthouse30130
+#Post URL: [https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/](https://www.reddit.com/r/GME/comments/mibedc/the_moass_wont_happen_until_options_are_not/)
 
 
 # ERRATUM ON TITLE: THE MOASS WON'T HAPPEN UNTIL OPTIONS ARE REGULATED.
@@ -153,4 +154,4 @@ Edit 5:I was invited to speak about this DD on a nice Ape YT channel today.[Here
 
 EDITS 5:  
 An article from the TOKENIST just literally confirmed my DD.  I suspect this guy literally copied-pasted it.  
-![Is WSB Reddit Army About to Make a Comeback with Tweaked Trading Rules?](https://tokenist.com/is-wsb-reddit-army-about-to-make-a-comeback-with-tweaked-trading-rules/)
+[Is WSB Reddit Army About to Make a Comeback with Tweaked Trading Rules?](https://tokenist.com/is-wsb-reddit-army-about-to-make-a-comeback-with-tweaked-trading-rules/)

@@ -1,5 +1,6 @@
-# Author: Andromeda_2480
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohgf57/yall_are_killing_me_with_these_amazing_lego_memes/](https://www.reddit.com/r/Superstonk/comments/ohgf57/yall_are_killing_me_with_these_amazing_lego_memes/)
+#Title: Y'all are killing me with these amazing LEGO memes! I'm literally laughing out loud with every post and they get better and funnier! THANK YOU SUPERSTONK RETARDS! ♥️
+#Author: Andromeda_2480
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohgf57/yall_are_killing_me_with_these_amazing_lego_memes/](https://www.reddit.com/r/Superstonk/comments/ohgf57/yall_are_killing_me_with_these_amazing_lego_memes/)
 
 
 Just that, wanted to appreciate and thank you all for putting a smile on me nonstop while I'm scrolling through superstonk. :') 

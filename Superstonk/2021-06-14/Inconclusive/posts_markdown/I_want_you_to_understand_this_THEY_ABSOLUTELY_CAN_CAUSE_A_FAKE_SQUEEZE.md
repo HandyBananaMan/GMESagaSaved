@@ -1,5 +1,6 @@
-# Author: utopian_potential
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nzhs3o/i_want_you_to_understand_this_they_absolutely_can/](https://www.reddit.com/r/Superstonk/comments/nzhs3o/i_want_you_to_understand_this_they_absolutely_can/)
+#Title: I want you to understand this. THEY ABSOLUTELY *CAN* CAUSE A FAKE SQUEEZE
+#Author: utopian_potential
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nzhs3o/i_want_you_to_understand_this_they_absolutely_can/](https://www.reddit.com/r/Superstonk/comments/nzhs3o/i_want_you_to_understand_this_they_absolutely_can/)
 
 
 TL:DR. The DTCC as a collective can absolutely cause a fake squeeze. This is not a squeeze until its 100,000+ and it is not the MOASS until its 1,000,000+ and how far it goes is entirely dependent on how much apes decide to diamond hand.

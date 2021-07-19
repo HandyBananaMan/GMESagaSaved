@@ -1,5 +1,6 @@
-# Author: mmilad
-# Post URL: [https://www.reddit.com/r/GME/comments/n2k8nj/150million_gme_shares_shorted_apes_own_the_float/](https://www.reddit.com/r/GME/comments/n2k8nj/150million_gme_shares_shorted_apes_own_the_float/)
+#Title: 150million+ GME shares shorted? APES OWN THE FLOAT. Trajectory changed to Pluto.
+#Author: mmilad
+#Post URL: [https://www.reddit.com/r/GME/comments/n2k8nj/150million_gme_shares_shorted_apes_own_the_float/](https://www.reddit.com/r/GME/comments/n2k8nj/150million_gme_shares_shorted_apes_own_the_float/)
 
 
 

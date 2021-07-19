@@ -1,5 +1,6 @@
-# Author: Get-It-Got
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/](https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/)
+#Title: Google Consumer Survey Follow-Up: ***193.7 Million Shares Held By U.S. Retail Investors; N=700***
+#Author: Get-It-Got
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/](https://www.reddit.com/r/Superstonk/comments/of9pys/google_consumer_survey_followup_1937_million/)
 
 
 Hello Everyone,
@@ -14,7 +15,7 @@ FYI, as this is a randomized sample from a massive pool of participants, combini
 
 Here's how things shook out:
 
-[\*\*U.S. retail only. Doesn't include foreign retail, insiders, ETFs\/mutual funds, institutional investors, family firms, hedge funds ... or those juicy open shorts.](https://preview.redd.it/5i7269716p971.png?width=1706&format=png&auto=webp&s=7c956f8084d0b63281c9abc00128488b92593530)
+![\*\*U.S. retail only. Doesn't include foreign retail, insiders, ETFs\/mutual funds, institutional investors, family firms, hedge funds ... or those juicy open shorts.](https://preview.redd.it/5i7269716p971.png?width=1706&format=png&auto=webp&s=7c956f8084d0b63281c9abc00128488b92593530)
 
 \~If I've made any math error in the above, I assure you it wasn't intentional, but I'd appreciate it if you could kindly point out my mistake so I can correct.\~
 
@@ -50,4 +51,4 @@ As you can see, these results pretty closely align with the initial 700 sample (
 
 Here's a link to the survey (I'm not sure if the owner wants to be named, but I am asking ... if they are okay with that, I will update once I hear back):
 
-![https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true)
+[https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true](https://surveys.google.com/reporting/question?hl=en-US&survey=emu6442dcciv66jbwetrmxrea4&question=1&raw=true&transpose=false&tab=chart&synonyms=true)

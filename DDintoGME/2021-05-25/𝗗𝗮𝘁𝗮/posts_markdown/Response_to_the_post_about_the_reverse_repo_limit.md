@@ -1,5 +1,6 @@
-# Author: BlindAsBalls
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/](https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/)
+#Title: Response to the post about the reverse repo limit
+#Author: BlindAsBalls
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/](https://www.reddit.com/r/DDintoGME/comments/nkmoi9/response_to_the_post_about_the_reverse_repo_limit/)
 
 
 I saw the [post](https://www.reddit.com/r/DDintoGME/comments/nk9979/reverse_repo_overnight_lending_will_hit_the_upper/?utm_medium=android_app&utm_source=share) about the reverse repo limit (very well written btw u/HODLTheLineMyFriend) but read some conflicting statements in the comments, so I decided to go on my first solo fact checking tour and looked if these numbers were actually correct.
@@ -54,7 +55,7 @@ END OF EDIT SECTION
 
 \--------------------------------------------------------------------
 
-Source of SOMA value: ![https://www.newyorkfed.org/markets/soma-holdings](https://www.newyorkfed.org/markets/soma-holdings)
+Source of SOMA value: [https://www.newyorkfed.org/markets/soma-holdings](https://www.newyorkfed.org/markets/soma-holdings)
 
 
 

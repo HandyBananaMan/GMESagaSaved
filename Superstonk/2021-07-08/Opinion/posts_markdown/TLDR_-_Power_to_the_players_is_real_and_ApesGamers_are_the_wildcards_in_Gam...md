@@ -1,8 +1,9 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/](https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/)
+#Title: TL:DR - Power to the players is real and Apes/Gamers are the wildcards in GameStop turning the NFT Marketplace and metaverse into a money printing press.
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/](https://www.reddit.com/r/Superstonk/comments/ogfwxn/tldr_power_to_the_players_is_real_and_apesgamers/)
 
 
-[Hello r\/Superstonk, Jellyfish here! ](https://i.redd.it/p6o856kjt1a71.gif)
+![Hello r\/Superstonk, Jellyfish here! ](https://i.redd.it/p6o856kjt1a71.gif)
 
 Before I get to the hype I have prepared for [r/Superstonk](https://www.reddit.com/r/Superstonk/), I want to take a moment to share my personal hype.
 
@@ -18,7 +19,7 @@ Rather than dogpiling in and hyping things out of proportion, the community dug 
 
 The point is, Apes forced me and the other crypto writers to focus our message even further, but in return, Apes have upheld the other end of the bargain—you are interacting, engaging, and most importantly asking questions to challenge your understanding of the material in the comments and in personal messages.
 
-[I love the smell of crayons being snorted in the morning](https://i.redd.it/xvzeh78st1a71.gif)
+![I love the smell of crayons being snorted in the morning](https://i.redd.it/xvzeh78st1a71.gif)
 
 &#x200B;
 
@@ -30,7 +31,7 @@ I'm proud of Apes and the [r/Superstonk](https://www.reddit.com/r/Superstonk/) c
 
 [And come on now, you know I can't talk about something without trying to inject something about inflation into it somehow, right?](https://reddit.com/link/ogfwxn/video/fux43ikvt1a71/player)
 
-[We now return to our regular scheduled hype post](https://i.redd.it/99g55lext1a71.gif)
+![We now return to our regular scheduled hype post](https://i.redd.it/99g55lext1a71.gif)
 
 **Because of all this learning, I believe** [**r/Superstonk**](https://www.reddit.com/r/Superstonk/) **is waking up to the value proposition of NFTs/the metaverse and I believe this is where the true power to the player is.**
 
@@ -86,11 +87,11 @@ And People are doing all of this already! Axie crossed 250,000 daily active play
 
 https://preview.redd.it/kw072bahu1a71.png?width=1456&format=png&auto=webp&s=0b17ab4ce34de819eddb153daef35d8e041475de
 
-[They got nothing on r\/Superstonk](https://preview.redd.it/dxj9fmgiu1a71.png?width=417&format=png&auto=webp&s=521f12e63ef3d691506fe3a1028f7911eed3f45b)
+![They got nothing on r\/Superstonk](https://preview.redd.it/dxj9fmgiu1a71.png?width=417&format=png&auto=webp&s=521f12e63ef3d691506fe3a1028f7911eed3f45b)
 
 Ok Jellyfish, I get there are some people using it, but you know:
 
-[I got you fam, let’s look at June!](https://i.redd.it/ziawyt7qu1a71.gif)
+![I got you fam, let’s look at June!](https://i.redd.it/ziawyt7qu1a71.gif)
 
 Protocol Revenue
 

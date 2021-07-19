@@ -1,5 +1,6 @@
-# Author: smncurrie
-# Post URL: [https://www.reddit.com/r/GME/comments/m9evcw/i_dont_want_a_lambo/](https://www.reddit.com/r/GME/comments/m9evcw/i_dont_want_a_lambo/)
+#Title: I don’t want a lambo.
+#Author: smncurrie
+#Post URL: [https://www.reddit.com/r/GME/comments/m9evcw/i_dont_want_a_lambo/](https://www.reddit.com/r/GME/comments/m9evcw/i_dont_want_a_lambo/)
 
 
 I don’t want things,

@@ -1,5 +1,6 @@
-# Author: Door_Public
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/](https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/)
+#Title: SR-NSCC-2021-801 CONFIRMATION (MAY THE 4TH BE WITH YOU)
+#Author: Door_Public
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/](https://www.reddit.com/r/Superstonk/comments/n49zl5/srnscc2021801_confirmation_may_the_4th_be_with_you/)
 
 
 1. Congratulations to everyone wo had bought the dip in the disccounts of today.
@@ -41,7 +42,7 @@ For the people who doesn´t read my last post:
 
 &#x200B;
 
-[Spanish calendar](https://preview.redd.it/zotyzrjukzw61.png?width=668&format=png&auto=webp&s=9d9de4a9d995ca49dd9080a16264b0d0bd1b8274)
+![Spanish calendar](https://preview.redd.it/zotyzrjukzw61.png?width=668&format=png&auto=webp&s=9d9de4a9d995ca49dd9080a16264b0d0bd1b8274)
 
 So may be we are going to have "May the 4th be with you".
 
@@ -69,4 +70,4 @@ I really believe that they want to start doing the right and correct things.
 
 ## 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-Edit:  ![Timelines for NSCC-801 and NSCC-002 approvals](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)
+Edit:  [Timelines for NSCC-801 and NSCC-002 approvals](https://www.reddit.com/r/Superstonk/comments/n445l7/timelines_for_nscc801_and_nscc002_approvals/)

@@ -1,5 +1,6 @@
-# Author: LiveNDiiirect
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojewv5/my_favorite_quality_about_this_community_isnt_the/](https://www.reddit.com/r/Superstonk/comments/ojewv5/my_favorite_quality_about_this_community_isnt_the/)
+#Title: My favorite quality about this community isn’t the memes, the diamond hands, the camaraderie. No, my favorite part of this sub is the dedication to critically review each and every piece of information shared in order to seek the truth, even if it doesn’t necessarily help our narrative.
+#Author: LiveNDiiirect
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojewv5/my_favorite_quality_about_this_community_isnt_the/](https://www.reddit.com/r/Superstonk/comments/ojewv5/my_favorite_quality_about_this_community_isnt_the/)
 
 
 Time and time again I am astounded at the level of critical peer review here. Headlines that get many of us excited are often disproven, or at least handed a heavy grain of salt in the comment section. While some of that may be mistaken as FUD, oftentimes what I see is generally very solid critique. What this shows me, personally, is that when there is legitimately positive news and substantive quantitative research shared here, WE KNOW that what we see is genuinely a reason to get excited about GME.

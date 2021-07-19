@@ -1,5 +1,6 @@
-# Author: Gloomy-Huckleberry-6
-# Post URL: [https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/](https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/)
+#Title: 2021-03-30 -- Possible Pressure
+#Author: Gloomy-Huckleberry-6
+#Post URL: [https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/](https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/)
 
 
 # EDIT 1:
@@ -22,7 +23,7 @@ Someone had some UBER-CLASSY and amazing DD. It is only MILDLY related to this, 
 
 # New and Improved, ... PRESSURE!
 
-[https://preview.redd.it/5fmpk5jhg8q61.png?width=908&format=png&auto=webp&s=5bd0b174e0827a4ae95e83a12e86295bc25aae67](https://preview.redd.it/5fmpk5jhg8q61.png?width=908&format=png&auto=webp&s=5bd0b174e0827a4ae95e83a12e86295bc25aae67)
+![https://preview.redd.it/5fmpk5jhg8q61.png?width=908&format=png&auto=webp&s=5bd0b174e0827a4ae95e83a12e86295bc25aae67](https://preview.redd.it/5fmpk5jhg8q61.png?width=908&format=png&auto=webp&s=5bd0b174e0827a4ae95e83a12e86295bc25aae67)
 
 # TLDR:
 

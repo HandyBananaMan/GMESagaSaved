@@ -1,5 +1,6 @@
-# Author: khashi1
-# Post URL: [https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/](https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/)
+#Title: ***GME: I found a light at the end of the tunnel. Thoughts for Earnings tomorrow and trying to piece together research from this last weekend. I do think there is an endgame coming up in the close future (Some of this is Speculation but there are pieces coming together that make sense)
+#Author: khashi1
+#Post URL: [https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/](https://www.reddit.com/r/GME/comments/masgrx/gme_i_found_a_light_at_the_end_of_the_tunnel/)
 
 
 # 🚀  🚀 [💎🙌](https://www.reddit.com/r/GME/search?q=flair_name%3A%22%F0%9F%92%8E%F0%9F%99%8C%22&restrict_sr=1) 🚀  🚀 Hi Apes, Hedge Funds Interns, Low level SEC people being stuck reading about $CUM, $ASS, $MOON each week, Long Dong Kong's Interns, etc,
@@ -27,7 +28,7 @@ Now, in this dystopian world of no laws.....we have close to no short interest a
 
 # [https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-change-location-annual-meeting-stockholders](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-change-location-annual-meeting-stockholders)
 
-(Last years was June 12, so my guess would be around the same timeframe this year.  I repeat I'm not putting dates on here.  After reading this DD from  [u/atobitt](https://www.reddit.com/user/atobitt/) I think we might be safe to assume that Blackrock might be calling back their shares.  ![https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))
+(Last years was June 12, so my guess would be around the same timeframe this year.  I repeat I'm not putting dates on here.  After reading this DD from  [u/atobitt](https://www.reddit.com/user/atobitt/) I think we might be safe to assume that Blackrock might be calling back their shares.  [https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf))
 
 \*\*\*\*\*\*\*I'm not a lawyer and I'm happy to make edits if I interpreted anything incorrectly. Please just let me know and I'll fix anything I messed up.\*\*\*Ok, so if you made it this far here: this is the possible end game for the Shorts. ***There is one ultimate thing that could happen that would COMPLETELY and utterly fuck the shorts:*** **GameStop calling back ALL of their shares for their annual AGM/or an emergency meeting etc.**
 
@@ -84,7 +85,7 @@ So I'm telling you now.  I don't care what happens tomorrow.  I'm looking long t
 
 Some have mentioned that there might be possible collusion between the lenders (blackrock) and borrowers (citadel). This could explain why they didn’t recall their shares last year, and could explain why the borrow fee isn’t increasing even though availability is decreasing. Blackrock has an interest in preserving the solvency of citadel and other shorts. If this is the case, a share recall might not trigger a squeeze, if the lenders waive the recall again. I personally am waiting for the approval of the DTCC supplemental liquidity requirement amendment. Once this happens any catalyst could create enough organic buying pressure to generate a gamma squeeze that could lead to the shorts being margin called.
 
-![https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+[https://www.reddit.com/r/GME/comments/m7o7iy/blackrock\_bagholders\_inc/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m7o7iy/blackrock_bagholders_inc/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 **TLDR:** Basically Earnings is tomorrow. I expect they to do some fuckery this week. I see a light at the end of the tunnel in the form of the Shareholders: Annual General Meeting. I'm not putting a date on anything but there will be a time a couple weeks before the annual meeting that they have to collect/count GME shares. Which means that EVERYONE who wants a vote would have to "return" shares to GME to be counted. **This means: Real shares will have to make their way back to their original owners if their owners would like to vote before the June meeting.** Not giving a date!   Just saying some potential light at the end of the tunnel.
 

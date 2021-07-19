@@ -1,5 +1,6 @@
-# Author: Blanderson_Snooper
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/](https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/)
+#Title: Ultimate Wargame Theory: The Beginning - Total Return Swaps, RRPs, and the Voltron Fund
+#Author: Blanderson_Snooper
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/](https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/)
 
 
 I have been working on the Ultimate Wargame Theory for almost two months now. Then today I had an aha moment:
@@ -16,11 +17,10 @@ This wargame short story will also serve as a foundation for what’s to come, b
 4. I explain the mechanics behind this financial leviathan, and how it might explain why the market is so overleveraged as well as connect it to the arbitrage profit machine explained in [Where are the Shares](https://www.reddit.com/r/Superstonk/comments/nt8ot8/rip_uleavemeanon_where_are_the_shares_part_1/)?
 5. I identify nearly 100 hedge funds connected by more than 1,500 securities since 1999, for the first time defining our enemy at its actual scale
 
-[https://preview.redd.it/6oydghxerza71.jpg?width=572&format=pjpg&auto=webp&s=a95ea83a119b8ca9c4d01bfe6f4f9fa1559a64b0](https://preview.redd.it/6oydghxerza71.jpg?width=572&format=pjpg&auto=webp&s=a95ea83a119b8ca9c4d01bfe6f4f9fa1559a64b0)
+![https://preview.redd.it/6oydghxerza71.jpg?width=572&format=pjpg&auto=webp&s=a95ea83a119b8ca9c4d01bfe6f4f9fa1559a64b0](https://preview.redd.it/6oydghxerza71.jpg?width=572&format=pjpg&auto=webp&s=a95ea83a119b8ca9c4d01bfe6f4f9fa1559a64b0)
 
 A huge thanks to all the investigators and DD authors that have helped me make and confirm the connections I've found. There are too many to call out, and I'll link to the work of as many as I can find in these Ultimate Wargame posts. Everything we do here is built off our collective effort to uncover and understand information in a system that makes it very hard to do so. Much love to you all.
 
-Mods, if there is anything rulebreaking here please let me know and I will fix it. I've struggled to present this research here for reasons that will become obvious, but I think this post conforms to the latest rules. I support all of the measures you all have taken recently to protect the community, and don't wish to break them.
 
 💎🙌💎💓🦍🚀🚀🌜
 
@@ -55,7 +55,7 @@ Since it’s fucking up the market and could devastate the global economy, you�
 
 Here's my smoothbrain translation of that into an image.
 
-[https://preview.redd.it/6nnvzlhgrza71.jpg?width=1280&format=pjpg&auto=webp&s=e7de759b71a8013ad6e67a9102c3d1064914011d](https://preview.redd.it/6nnvzlhgrza71.jpg?width=1280&format=pjpg&auto=webp&s=e7de759b71a8013ad6e67a9102c3d1064914011d)
+![https://preview.redd.it/6nnvzlhgrza71.jpg?width=1280&format=pjpg&auto=webp&s=e7de759b71a8013ad6e67a9102c3d1064914011d](https://preview.redd.it/6nnvzlhgrza71.jpg?width=1280&format=pjpg&auto=webp&s=e7de759b71a8013ad6e67a9102c3d1064914011d)
 
 Just a couple of things to know before we get to the meat of things.
 
@@ -72,7 +72,7 @@ Let’s say the set rate is 2%, like in the Investopedia example. Kenny has basi
 
 Ok, so why would the banks take him up on this? Well, for one, the set rate is often based on LIBOR, which had steadily been declining throughout 2019, and then crashed due to COVID-19 economic policies. LIBOR, again from Investopedia is "a benchmark interest rate at which major global banks lend to one another in the international interbank market for short-term loans."
 
-[https://preview.redd.it/9jlugywhrza71.jpg?width=1378&format=pjpg&auto=webp&s=73fd24ee33c3a57c9f5c0ea2053bd53ce84dbf7d](https://preview.redd.it/9jlugywhrza71.jpg?width=1378&format=pjpg&auto=webp&s=73fd24ee33c3a57c9f5c0ea2053bd53ce84dbf7d)
+![https://preview.redd.it/9jlugywhrza71.jpg?width=1378&format=pjpg&auto=webp&s=73fd24ee33c3a57c9f5c0ea2053bd53ce84dbf7d](https://preview.redd.it/9jlugywhrza71.jpg?width=1378&format=pjpg&auto=webp&s=73fd24ee33c3a57c9f5c0ea2053bd53ce84dbf7d)
 
 Kenny doesn’t care that LIBOR is low, in fact that’s his lure to the banks. They get a cheap set rate against a low-risk Asset, who could refuse?
 
@@ -80,7 +80,7 @@ Also, LIBOR is notorious for being used in [financial derivatives crimes in the 
 
 Let’s take a closer look at it from both sides. (EDIT: Before we do, I want to link to [this series of comments that takes issue with my breakdown of TRS](https://www.reddit.com/r/Superstonk/comments/ojh2eh/ultimate_wargame_theory_the_beginning_total/h51wl41?utm_source=share&utm_medium=web2x&context=3). I'm too smooth and tired to figure it out, so for now I'm linking to the comment. If some wrinkles come in and clarify, I'll edit the post to reflect it.)
 
-[https://preview.redd.it/y8shajglrza71.jpg?width=1232&format=pjpg&auto=webp&s=29ed6398d3ffcf5fe8863a604c2a68ea9ab6ac27](https://preview.redd.it/y8shajglrza71.jpg?width=1232&format=pjpg&auto=webp&s=29ed6398d3ffcf5fe8863a604c2a68ea9ab6ac27)
+![https://preview.redd.it/y8shajglrza71.jpg?width=1232&format=pjpg&auto=webp&s=29ed6398d3ffcf5fe8863a604c2a68ea9ab6ac27](https://preview.redd.it/y8shajglrza71.jpg?width=1232&format=pjpg&auto=webp&s=29ed6398d3ffcf5fe8863a604c2a68ea9ab6ac27)
 
 # Citadel (Payer)
 
@@ -114,11 +114,11 @@ This is an understatement here, because we know Kenny’s plan is to short some 
 
 I don’t know if you know this, but stonks only go up. At least, that’s been the trend in the DJI and NDX for the past few years. Betting that a random bundle of, say, 50 stocks is going to appreciate over time is a good bet.
 
-[Dow Jones Industrial Average](https://preview.redd.it/gl6alynmrza71.jpg?width=702&format=pjpg&auto=webp&s=23dcb87651a3ba7da97c0074f2b5826b31da094e)
+![Dow Jones Industrial Average](https://preview.redd.it/gl6alynmrza71.jpg?width=702&format=pjpg&auto=webp&s=23dcb87651a3ba7da97c0074f2b5826b31da094e)
 
 &#x200B;
 
-[NDX Nasdaq 100 Index](https://preview.redd.it/1182gv6rrza71.jpg?width=1177&format=pjpg&auto=webp&s=21b611a1c27891af45d02b9d6f76386af7f1bbc3)
+![NDX Nasdaq 100 Index](https://preview.redd.it/1182gv6rrza71.jpg?width=1177&format=pjpg&auto=webp&s=21b611a1c27891af45d02b9d6f76386af7f1bbc3)
 
 * **Assumes systematic/market risk**
 
@@ -134,7 +134,7 @@ This just means that for the Asset in question, the owner (SHF) has no risk of d
 
 That was a lot, so let’s bring back the financial relationship chart and you can put it all together yourself.
 
-[https://preview.redd.it/mxffaaftrza71.jpg?width=1232&format=pjpg&auto=webp&s=38b16156efbeadb8647530fdc67db486be12761b](https://preview.redd.it/mxffaaftrza71.jpg?width=1232&format=pjpg&auto=webp&s=38b16156efbeadb8647530fdc67db486be12761b)
+![https://preview.redd.it/mxffaaftrza71.jpg?width=1232&format=pjpg&auto=webp&s=38b16156efbeadb8647530fdc67db486be12761b](https://preview.redd.it/mxffaaftrza71.jpg?width=1232&format=pjpg&auto=webp&s=38b16156efbeadb8647530fdc67db486be12761b)
 
 **tl;dr:** In early 2020, Kenny thought he’d trapped the banks and planned to make a ton of money off them, no one being the wiser because it was hidden in ETFs with dozens of other stocks.
 
@@ -152,11 +152,11 @@ In [June](https://www.sec.gov/Archives/edgar/data/0001326380/000092189520001762/
 
 On December 17th , RC Ventures [increases its stake to 12.9%](https://www.sec.gov/Archives/edgar/data/1326380/000119380520001571/e620151_sc13da-gamestop.htm). Let’s look at Gamestop’s chart for the back half of the year.
 
-[https://preview.redd.it/qmm4rfjvrza71.jpg?width=1407&format=pjpg&auto=webp&s=b37cceffe6027c68bcbbd759ae7464a70cfc1fa5](https://preview.redd.it/qmm4rfjvrza71.jpg?width=1407&format=pjpg&auto=webp&s=b37cceffe6027c68bcbbd759ae7464a70cfc1fa5)
+![https://preview.redd.it/qmm4rfjvrza71.jpg?width=1407&format=pjpg&auto=webp&s=b37cceffe6027c68bcbbd759ae7464a70cfc1fa5](https://preview.redd.it/qmm4rfjvrza71.jpg?width=1407&format=pjpg&auto=webp&s=b37cceffe6027c68bcbbd759ae7464a70cfc1fa5)
 
 The next 13D filed by Gamestop was on January 10th, [outlining the provisions of RC’s agreement](https://www.sec.gov/Archives/edgar/data/1326380/000119380521000031/e620202_sc13da-gamestop.htm) with the current board.
 
-[https://preview.redd.it/clf49a6yrza71.jpg?width=1885&format=pjpg&auto=webp&s=394cd26915458dd203097b0fe976d3eb137406fd](https://preview.redd.it/clf49a6yrza71.jpg?width=1885&format=pjpg&auto=webp&s=394cd26915458dd203097b0fe976d3eb137406fd)
+![https://preview.redd.it/clf49a6yrza71.jpg?width=1885&format=pjpg&auto=webp&s=394cd26915458dd203097b0fe976d3eb137406fd](https://preview.redd.it/clf49a6yrza71.jpg?width=1885&format=pjpg&auto=webp&s=394cd26915458dd203097b0fe976d3eb137406fd)
 
 I put the end date of RC's Standstill Restrictions at February 9th, which is 120 days prior to the first anniversary of the 2021 meeting. Had we found this earlier, maybe we would have voted Sherman out last month after all. RC just couldn’t say otherwise. Anyway.
 
@@ -203,7 +203,7 @@ Then it reveals this (which may or may not be boilerplate language for proxy vot
 
 &#x200B;
 
-[It's managers all the way down](https://preview.redd.it/lbr1dqx2sza71.jpg?width=1878&format=pjpg&auto=webp&s=a9267e1131004a08162074e491a18fe323dfca32)
+![It's managers all the way down](https://preview.redd.it/lbr1dqx2sza71.jpg?width=1878&format=pjpg&auto=webp&s=a9267e1131004a08162074e491a18fe323dfca32)
 
 There it is. Six weeks into this research, and I’ve found a succinct, legal description of what we’re up against. Once we’re done with the filings, I’ll blow the whole thing wide open.
 
@@ -229,7 +229,7 @@ In the [original Wargame Theory](https://www.reddit.com/r/Superstonk/comments/mv
 
 **We are not just facing Citadel, but a global network of banks, hedge funds, family offices, and other financial institutions who have created a de facto private stock market** and hold the fate of thousands of companies, trillions of dollars, and perhaps entire countries in their hands. I call this the Voltron Fund, but it is *not* a cosmic defender.
 
-[https://preview.redd.it/jcskiqp6sza71.jpg?width=486&format=pjpg&auto=webp&s=946e8cd8f39d5f30c39257fea63da175a17f3072](https://preview.redd.it/jcskiqp6sza71.jpg?width=486&format=pjpg&auto=webp&s=946e8cd8f39d5f30c39257fea63da175a17f3072)
+![https://preview.redd.it/jcskiqp6sza71.jpg?width=486&format=pjpg&auto=webp&s=946e8cd8f39d5f30c39257fea63da175a17f3072](https://preview.redd.it/jcskiqp6sza71.jpg?width=486&format=pjpg&auto=webp&s=946e8cd8f39d5f30c39257fea63da175a17f3072)
 
 This monster is completely divorced from normal market mechanics because of its interconnectedness. **I believe there is a universal algorithm, Voltron’s Sword, managing the assets not of one of these companies, but all of them.** If one institution needs net capital, they get it from another with room to spare. If they need a loophole, they transfer the problem to a type of institution that can bury it in different loopholes and regulations. Sometimes they just ship it offshore, to a regulatory black hole like Luxembourg, Bermuda, or the Cayman Islands.
 
@@ -261,7 +261,7 @@ The first thing I found was an amazing correlation between the portfolios of all
 
 &#x200B;
 
-[https://preview.redd.it/glwli0k9sza71.jpg?width=1542&format=pjpg&auto=webp&s=0bf1ff1a7b0864ed0c3a1410dc2f588f600157a9](https://preview.redd.it/glwli0k9sza71.jpg?width=1542&format=pjpg&auto=webp&s=0bf1ff1a7b0864ed0c3a1410dc2f588f600157a9)
+![https://preview.redd.it/glwli0k9sza71.jpg?width=1542&format=pjpg&auto=webp&s=0bf1ff1a7b0864ed0c3a1410dc2f588f600157a9](https://preview.redd.it/glwli0k9sza71.jpg?width=1542&format=pjpg&auto=webp&s=0bf1ff1a7b0864ed0c3a1410dc2f588f600157a9)
 
 This doesn’t even include the Abdiel Global Management fund, which [took a 29% stake in Fastly in 2019](https://www.sec.gov/Archives/edgar/data/1508239/000119312519227993/d791811dsc13da.htm) and continues to move Voltron-affiliated stocks around between its various funds as recently as June. Abdiel is registered in the Cayman Islands, but run out of New York by a former Goldman Sachs employee, and is correlated in many other ways.
 
@@ -287,7 +287,7 @@ A 13F-HR is where a fund discloses all of its holdings, so a typical section wil
 
 &#x200B;
 
-[Who are all those flowers for, Kenny?](https://preview.redd.it/71wfj7qbsza71.jpg?width=1538&format=pjpg&auto=webp&s=020299b5a8b9f88daf7da8b28ffce8ebe81725a0)
+![Who are all those flowers for, Kenny?](https://preview.redd.it/71wfj7qbsza71.jpg?width=1538&format=pjpg&auto=webp&s=020299b5a8b9f88daf7da8b28ffce8ebe81725a0)
 
 And for a while that’s where I was looking, because I couldn’t believe how well these portfolios were coordinating (I’ll have a separate post detailing some of my findings). But then I started looking at the Cover Pages for the filings, and that’s where things got REALLY interesting. Remember Dimensional Fund’s explanation above?
 
@@ -310,7 +310,7 @@ For example, here’s the Q1 2021 cover page for Advisors Asset Management, an a
 
 &#x200B;
 
-[Sorry for the whitespace, I didn't feel like fixing it](https://preview.redd.it/3x78qciesza71.jpg?width=920&format=pjpg&auto=webp&s=54b3c89ea01ade234303433468773fdd8c830ff5)
+![Sorry for the whitespace, I didn't feel like fixing it](https://preview.redd.it/3x78qciesza71.jpg?width=920&format=pjpg&auto=webp&s=54b3c89ea01ade234303433468773fdd8c830ff5)
 
 Managing $6.5 billion right outside Austin, TX, [location of so many data centers affiliated to the Voltron Fund](https://www.reddit.com/r/GME/comments/mhyv94/connecting_the_puzzle_pieces_the_failed_bet/)? Wut doin'?
 
@@ -493,7 +493,7 @@ It's much, but it ain't honest.
 
 **Total Assets Under Management?** My guess, in the tens of trillions. Some of the funds manage $30-50 billion themselves, and there's at least $10 trillion completely off the books in family funds according to the Financial Review article I linked earlier.
 
-[https://preview.redd.it/evwbhsrhsza71.jpg?width=455&format=pjpg&auto=webp&s=0b3ea9d2f6b4263aaa739b76fdb44cf1d5374236](https://preview.redd.it/evwbhsrhsza71.jpg?width=455&format=pjpg&auto=webp&s=0b3ea9d2f6b4263aaa739b76fdb44cf1d5374236)
+![https://preview.redd.it/evwbhsrhsza71.jpg?width=455&format=pjpg&auto=webp&s=0b3ea9d2f6b4263aaa739b76fdb44cf1d5374236](https://preview.redd.it/evwbhsrhsza71.jpg?width=455&format=pjpg&auto=webp&s=0b3ea9d2f6b4263aaa739b76fdb44cf1d5374236)
 
 # Conclusions
 
@@ -526,7 +526,7 @@ This may explain why we didn’t see an end of quarter spike last month, because
 &#x200B;
 
 * The shorts got hidden in January by the Married Puts and other mechanisms we have identified, but that’s the last time that was going to happen on that scale
-* The Voltron’s Sword algorithm determines that someone needs to go, and so Archegos gets the call (remember, ![Archegos is a biblical term meaning “a sacrifice, one who goes first,”](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)) and that causes the March runup
+* The Voltron’s Sword algorithm determines that someone needs to go, and so Archegos gets the call (remember, [Archegos is a biblical term meaning “a sacrifice, one who goes first,”](https://www.reddit.com/r/Superstonk/comments/ng4ja0/wargame_theory_ii_the_mother_of_all_fud_moafud/)) and that causes the March runup
 * While they’re waiting for the Archegos fallout to appear, the Voltron Fund fragments its holdings and prepares to use a series of Total Return Swaps to keep the price under control when it shoots up as a result (similar to how they shut down January, but through a different mechanism)
 * Right after that, in mid-March, is when RRPs start to rumble and they’ve been basically growing ever since, as the TRS’s leak more and more cash into their counterparty banks. By sacrificing Archegos and keeping the price steady, they have been able to draw out the charade much longer
 * They keep the price flat and money flowing through HFT shenanigans between members, and they keep the shorts hidden using TRS swaps and non-reporting family funds

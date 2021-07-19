@@ -1,5 +1,6 @@
-# Author: ant962
-# Post URL: [https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/](https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/)
+#Title: Vlad and friends been very bad boys(and girls).
+#Author: ant962
+#Post URL: [https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/](https://www.reddit.com/r/GME/comments/mmk4pj/vlad_and_friends_been_very_bad_boysand_girls/)
 
 
 Obligatory I am not a financial advisor, this is not financial advice and 🚀🚀🚀
@@ -16,7 +17,7 @@ Because darkpools are independently owned, and lazily regulated, it's quite easy
 
 Back in March when the OTC DP was exposed; it confirmed what some Apes always suspected: **Citadel** and co were abusing DP's to hide the real numbers to keep GME's stockprice from rising.
 
-[January 2021](https://preview.redd.it/jw3ycjuv4ur61.jpg?width=720&format=pjpg&auto=webp&s=8551bbda1e4d0391e18730e308ef613daa104a27)
+![January 2021](https://preview.redd.it/jw3ycjuv4ur61.jpg?width=720&format=pjpg&auto=webp&s=8551bbda1e4d0391e18730e308ef613daa104a27)
 
 The numbers from the bigshots were so insane that the smaller players were overlooked. I didn't — and wouldn't have — pay any attention to the smaller fish, that is until a certain Bulgarian boy — the  savior of the retail investor — showed up to swim.
 
@@ -28,7 +29,7 @@ The numbers from the bigshots were so insane that the smaller players were overl
 
 &#x200B;
 
-[February 2021](https://preview.redd.it/r5c7oc925ur61.jpg?width=720&format=pjpg&auto=webp&s=63fc63cb8d80a2044fbca329798ba63629710cc1)
+![February 2021](https://preview.redd.it/r5c7oc925ur61.jpg?width=720&format=pjpg&auto=webp&s=63fc63cb8d80a2044fbca329798ba63629710cc1)
 
 That's right **Robinhood** is trading on the same DP as Citadel. Now I guess that's not too surprising considering Vlad and Ken's... "close" relationship. What I found to be truly surprising was the astonishing level of Vlad's DP abuse when compared with Ken. While KenKen has an average of roughly 50 shares to every trade — Which is an already disgusting level of DP abuse — vlad has damn near a perfect 1 to 1 ratio. Based on what's already known about stock price manipulation using darkpools, and considering that most small-time GME traders on robinhood buy 1 share at a time — it's safe to assume that some point in February everytime someone purchased a GME share on robinhood it was likely acquired from the darkpool. Actually, I can't say for sure if every retail share was obtained from darkpools, but the numbers are worrying.
 

@@ -1,5 +1,6 @@
-# Author: Door_Public
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/](https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/)
+#Title: The SR-NSCC-2021-801 CAN be approved AUTOMATICALLY this week. (MAY THE 4TH BE WITH YOU).
+#Author: Door_Public
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/](https://www.reddit.com/r/Superstonk/comments/n3gxsq/the_srnscc2021801_can_be_approved_automatically/)
 
 
 1. Sorry for my english
@@ -79,7 +80,7 @@ So my next step is the most simple go to the calendar and count 60 days after 03
 
 &#x200B;
 
-[Sorry It's in spanish and i can't change it. \(march, april and may\)](https://preview.redd.it/tenu6n8wyrw61.png?width=668&format=png&auto=webp&s=1b65bc61e9e8d02d09278df1d1366e8c6c3b0762)
+![Sorry It's in spanish and i can't change it. \(march, april and may\)](https://preview.redd.it/tenu6n8wyrw61.png?width=668&format=png&auto=webp&s=1b65bc61e9e8d02d09278df1d1366e8c6c3b0762)
 
 And 60 days after is the 05/04/2021.
 
@@ -113,4 +114,4 @@ She has a letter of 2008 supporting our Queenkong Susanne Trimbath.
 
 https://preview.redd.it/oisayeqmqvw61.png?width=314&format=png&auto=webp&s=e3fbb2e46f302e7bd607d4942389df3b94622520
 
-![LETTER](https://www.sec.gov/comments/sr-ficc-2007-04/ficc200704-2.pdf)
+[LETTER](https://www.sec.gov/comments/sr-ficc-2007-04/ficc200704-2.pdf)

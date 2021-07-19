@@ -1,5 +1,6 @@
-# Author: bitterbottles
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mxgzvw/the_squeeze_may_take_weeks_hedge_funds_have_2_5/](https://www.reddit.com/r/Superstonk/comments/mxgzvw/the_squeeze_may_take_weeks_hedge_funds_have_2_5/)
+#Title: The SQUEEZE may take WEEKS. Hedge Funds have 2 - 5 days to meet their MARGIN CALL.
+#Author: bitterbottles
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mxgzvw/the_squeeze_may_take_weeks_hedge_funds_have_2_5/](https://www.reddit.com/r/Superstonk/comments/mxgzvw/the_squeeze_may_take_weeks_hedge_funds_have_2_5/)
 
 
 Hedgies can take up 5 days to meet their margin call, if they can't and their assets are liquidated then we can expect the price to jump and other hedgies receive margin calls which could take UP TO another 5 days.

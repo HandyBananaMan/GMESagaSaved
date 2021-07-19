@@ -1,10 +1,11 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/](https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/)
+#Title: Superstonk Daily DD- Thursday 05-06-2021 Congressional Hearing Day!! 🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/](https://www.reddit.com/r/Superstonk/comments/n647ne/superstonk_daily_dd_thursday_05062021/)
 
 
 *Sorry y'all I'm still figuring out titles! I'll use this title format from now on to make it easier to find!!*
 
-[Banner Submission by u\/Zwakenberg HARAMBE FINALIST 🏆](https://preview.redd.it/nnos4u468fx61.png?width=1250&format=png&auto=webp&s=b9e6e2f24e02e78e25327dd3be5a0c5d19f40733)
+![Banner Submission by u\/Zwakenberg HARAMBE FINALIST 🏆](https://preview.redd.it/nnos4u468fx61.png?width=1250&format=png&auto=webp&s=b9e6e2f24e02e78e25327dd3be5a0c5d19f40733)
 
 # Good Morning Superstonk!!!
 
@@ -69,7 +70,7 @@ A little detail from Gary Gensler's statement, since we've all been wondering wh
 
 **Also check out the section on Social Media (dat us)**
 
-[👀GARY GENSLER JUST CONFIRMED FUD AND SHILLS ARE A THING!👀 ](https://preview.redd.it/lthhqrjfbex61.png?width=797&format=png&auto=webp&s=f29d03824c18e0ddcfd3b0e57fd827b5d9912698)
+![👀GARY GENSLER JUST CONFIRMED FUD AND SHILLS ARE A THING!👀 ](https://preview.redd.it/lthhqrjfbex61.png?width=797&format=png&auto=webp&s=f29d03824c18e0ddcfd3b0e57fd827b5d9912698)
 
 # "To be clear, I'm not concerned about regular investors exercising their free speech online. I'm more concerned about bad actors potentially taking advantage of influential platforms."
 
@@ -103,13 +104,13 @@ https://preview.redd.it/6uztvolt2fx61.jpg?width=1095&format=pjpg&auto=webp&s=5c8
 
 **So not only are we continuing to see entire minute candles with zero volume like we did yesterday, this time happening TWICE.....**
 
-[2 whole minutes with 0 volume on WeBull Lvl 2 yesterday](https://preview.redd.it/ze4pnx5vsex61.png?width=1237&format=png&auto=webp&s=0994ec83b2763e966c64517afee62ba9a9c08085)
+![2 whole minutes with 0 volume on WeBull Lvl 2 yesterday](https://preview.redd.it/ze4pnx5vsex61.png?width=1237&format=png&auto=webp&s=0994ec83b2763e966c64517afee62ba9a9c08085)
 
 &#x200B;
 
 [**We also saw NEGATIVE 1MILLION VOLUME HAPPEN BEFORE OUR VERY EYES....**](https://www.reddit.com/r/Superstonk/comments/n5pk8v/negative_1_million_volume_after_hours/?utm_source=share&utm_medium=web2x&context=3)
 
-[NEGATIVE 1 MILLION VOLUME WOT THE HECC](https://preview.redd.it/gvcrvzcdtex61.png?width=960&format=png&auto=webp&s=277bc258803a50c171dc1072143452ed73a29170)
+![NEGATIVE 1 MILLION VOLUME WOT THE HECC](https://preview.redd.it/gvcrvzcdtex61.png?width=960&format=png&auto=webp&s=277bc258803a50c171dc1072143452ed73a29170)
 
 The negative 1 million drop caused the daily volume across all reported channels to fall to just a measly 1.7 million. That's the lowest it's been since... like... ever.
 
@@ -135,7 +136,7 @@ As with anything, nothing changes if you don't VOTE!!
 
 &#x200B;
 
-[You heard it from Dr. T: \\"Carl Hagberg is Original Gangsta'\\"!](https://preview.redd.it/wq58zyqvfex61.jpg?width=1024&format=pjpg&auto=webp&s=1cce2845e5a7ad313010f32d9ca057a070aadca7)
+![You heard it from Dr. T: \\"Carl Hagberg is Original Gangsta'\\"!](https://preview.redd.it/wq58zyqvfex61.jpg?width=1024&format=pjpg&auto=webp&s=1cce2845e5a7ad313010f32d9ca057a070aadca7)
 
 # 💎 [Watch this OG Naked Short Selling documentary right heckin now](https://youtu.be/Kpyhnmd-ZbU) 💎
 
@@ -153,7 +154,7 @@ We are so thrilled to have someone with extensive knowledge and experience with 
 
 # Voting
 
-[Oh lawd they votin](https://preview.redd.it/nii0hze4dex61.png?width=900&format=png&auto=webp&s=0369a2daf01c9d094c759e36bc407cf319b67258)
+![Oh lawd they votin](https://preview.redd.it/nii0hze4dex61.png?width=900&format=png&auto=webp&s=0369a2daf01c9d094c759e36bc407cf319b67258)
 
 Fidelity users, TDA, WeBull, Vanguard, Schwab, and more all reported being able to get their hands on their control number and vote as of yesterday. Feel free to drop a comment below if you have already voted and want to show that off! (I'll even give some voting flairs if you want!)
 
@@ -236,10 +237,10 @@ There is no sense of urgency, this will come when it comes, be a week, be it a m
 
 We don't care, just be nice and lets make this community as Excellent as we can.
 
-[It's Gary Gensler with a steel chair!!](https://preview.redd.it/2upth82j5ex61.png?width=591&format=png&auto=webp&s=4688949a968e850317aab6c956b051036ea69f57)
+![It's Gary Gensler with a steel chair!!](https://preview.redd.it/2upth82j5ex61.png?width=591&format=png&auto=webp&s=4688949a968e850317aab6c956b051036ea69f57)
 
 # In the event of another Reddit blackout, please follow our socials on Twitter and don't forget the Superstonk Live YouTube
 
 [**https://twitter.com/PinkCatsOnAcid**](https://twitter.com/PinkCatsOnAcid)
 
-![**https://twitter.com/RedChessQueen99**](https://twitter.com/RedChessQueen99)
+[**https://twitter.com/RedChessQueen99**](https://twitter.com/RedChessQueen99)

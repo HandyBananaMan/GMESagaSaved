@@ -1,5 +1,6 @@
-# Author: hell-mitc
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/](https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/)
+#Title: Theory that Citadel & Susquehanna are Internalizing Trades Through OTC, Borrowing & Lending Through Themselves to the NYSE.
+#Author: hell-mitc
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/](https://www.reddit.com/r/Superstonk/comments/nb6ayd/theory_that_citadel_susquehanna_are_internalizing/)
 
 
 Ok, I guess it isn't really a theory. I've kind of proved it here. But didn't want to come off too strong.
@@ -189,10 +190,10 @@ References:
 12. [https://www.investopedia.com/terms/n/nyse.asp](https://www.investopedia.com/terms/n/nyse.asp)
 13. [https://www.nyse.com/markets/liquidity-programs](https://www.nyse.com/markets/liquidity-programs)
 14. [https://link.springer.com/chapter/10.1007/978-3-540-85711-2\_21](https://link.springer.com/chapter/10.1007/978-3-540-85711-2_21)
-15. [https://i.redd.it/q4cythnt8jf61.jpg](https://i.redd.it/q4cythnt8jf61.jpg)
+15. ![https://i.redd.it/q4cythnt8jf61.jpg](https://i.redd.it/q4cythnt8jf61.jpg)
 16. [https://www.investopedia.com/articles/basics/03/103103.asp](https://www.investopedia.com/articles/basics/03/103103.asp)
 17. [https://www.sec.gov/litigation/apdocuments/3-17189-event-9.pdf](https://www.sec.gov/litigation/apdocuments/3-17189-event-9.pdf)
-18. ![https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13](https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13)
+18. [https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13](https://www.sec.gov/edgar/search/#/q=seritage&dateRange=custom&ciks=0001310067&entityName=SEARS%2520HOLDINGS%2520CORP%2520(SHLDQ)%2520(CIK%25200001310067)&startdt=2015-05-01&enddt=2021-05-13)
 
 TLDR: Read the title.
 

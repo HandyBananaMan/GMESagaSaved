@@ -1,5 +1,6 @@
-# Author: Dave_Tribbiani
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl38qw/today_was_just_a_21_ftd_cycle_not_a_squeeze_of/](https://www.reddit.com/r/Superstonk/comments/nl38qw/today_was_just_a_21_ftd_cycle_not_a_squeeze_of/)
+#Title: Today was just a 21 FTD cycle, NOT a squeeze of any kind. In 21 trading days from today, we'll see another big green dildo like today. But when they actually have to COVER... green giant dildo to the moon.
+#Author: Dave_Tribbiani
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl38qw/today_was_just_a_21_ftd_cycle_not_a_squeeze_of/](https://www.reddit.com/r/Superstonk/comments/nl38qw/today_was_just_a_21_ftd_cycle_not_a_squeeze_of/)
 
 
 THIS WAS NOT A SQUEEZE OR GAMMA SQUEEZE OR ANYTHING LIKE THAT

@@ -1,5 +1,6 @@
-# Author: DerButterkex
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/](https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/)
+#Title: The Mainstream Media changed its narrative rapidly and we need to think about why
+#Author: DerButterkex
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/](https://www.reddit.com/r/Superstonk/comments/nuk6nk/the_mainstream_media_changed_its_narrative/)
 
 
 Dear Apes,
@@ -74,7 +75,7 @@ CNBC/Interactive Brokers then:
 
 CNBC/Interactive Brokers now:
 
-![https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr\_chairman\_thomas\_peterffy\_warns\_tempted\_short/](https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr_chairman_thomas_peterffy_warns_tempted_short/)
+[https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr\_chairman\_thomas\_peterffy\_warns\_tempted\_short/](https://www.reddit.com/r/Superstonk/comments/nufmzc/ibkr_chairman_thomas_peterffy_warns_tempted_short/)
 
 &#x200B;
 

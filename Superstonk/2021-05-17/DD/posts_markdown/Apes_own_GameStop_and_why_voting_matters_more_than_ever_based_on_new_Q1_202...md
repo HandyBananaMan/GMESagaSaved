@@ -1,5 +1,6 @@
-# Author: eyeoftheotter
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nes8ow/apes_own_gamestop_and_why_voting_matters_more/](https://www.reddit.com/r/Superstonk/comments/nes8ow/apes_own_gamestop_and_why_voting_matters_more/)
+#Title: Apes own GameStop and why voting matters more than ever (based on new Q1 2021 data)
+#Author: eyeoftheotter
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nes8ow/apes_own_gamestop_and_why_voting_matters_more/](https://www.reddit.com/r/Superstonk/comments/nes8ow/apes_own_gamestop_and_why_voting_matters_more/)
 
 
 Hello Apes, I've compiled the latest insider and institutional ownership data for Q1 2021. TL;DR is at the end.
@@ -61,4 +62,4 @@ As always, none of this is financial advice. I just like the stock. Do your own 
 Data compiled from:
 
 * [https://news.gamestop.com/financial-information/sec-filings](https://news.gamestop.com/financial-information/sec-filings) (Insider Data)
-* ![https://fintel.io/so/us/gme](https://fintel.io/so/us/gme) (Institutional Data)
+* [https://fintel.io/so/us/gme](https://fintel.io/so/us/gme) (Institutional Data)

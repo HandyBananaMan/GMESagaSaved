@@ -1,5 +1,6 @@
-# Author: BlackBlades
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/odoc8e/archegos_and_why_trading_with_leverage_margin/](https://www.reddit.com/r/Superstonk/comments/odoc8e/archegos_and_why_trading_with_leverage_margin/)
+#Title: Archegos, And Why Trading With Leverage = Margin Calls/Liquidation
+#Author: BlackBlades
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/odoc8e/archegos_and_why_trading_with_leverage_margin/](https://www.reddit.com/r/Superstonk/comments/odoc8e/archegos_and_why_trading_with_leverage_margin/)
 
 
 Credit Suisse saying trillions are going to change hands seems timely since they got screwed by JP Morgan and Goldman Sachs in May. 

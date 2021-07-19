@@ -1,5 +1,6 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nxk08y/change_my_mind_gamestop_is_quickly_becoming_the/](https://www.reddit.com/r/Superstonk/comments/nxk08y/change_my_mind_gamestop_is_quickly_becoming_the/)
+#Title: Change my mind: GameStop is quickly becoming the most valuable asset on the market because of this growing community and low float. You have constant buying pressure on a stock with no shares. Hear me out......!!
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nxk08y/change_my_mind_gamestop_is_quickly_becoming_the/](https://www.reddit.com/r/Superstonk/comments/nxk08y/change_my_mind_gamestop_is_quickly_becoming_the/)
 
 
 # 
@@ -166,6 +167,6 @@ Love you all
 
 Part 1: [https://www.youtube.com/watch?v=rexpWI0nJTc&t=336s](https://www.youtube.com/watch?v=rexpWI0nJTc&t=336s)
 
-Part 2: ![https://www.youtube.com/watch?v=xw05sDpFL3s](https://www.youtube.com/watch?v=xw05sDpFL3s)
+Part 2: [https://www.youtube.com/watch?v=xw05sDpFL3s](https://www.youtube.com/watch?v=xw05sDpFL3s)
 
 &#x200B;

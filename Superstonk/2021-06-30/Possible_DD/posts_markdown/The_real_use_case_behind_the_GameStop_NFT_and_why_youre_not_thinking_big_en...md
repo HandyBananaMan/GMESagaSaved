@@ -1,12 +1,13 @@
-# Author: DropDeadDevon
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/](https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/)
+#Title: The real use case behind the GameStop NFT, and why you're not thinking big enough
+#Author: DropDeadDevon
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/](https://www.reddit.com/r/Superstonk/comments/ob8zgz/the_real_use_case_behind_the_gamestop_nft_and_why/)
 
 
  Hello everyone, there's been a lot of talk lately about what GameStop could possibly announce in relation to the [NFT teaser](https://nft.gamestop.com/). Most of the discussion I've seen has been about GameStop issuing a c r y p t o dividend ala Overstock, as discussed in this [DD](https://www.reddit.com/r/GME/comments/n0vtbu/how_gamestop_could_issue_crypto_dividends_and/). While I believe this is definitely possible, I also believe there is something much bigger they could do with it. This post was prompted by this comment from u/JustTheBigMan 
 
 &#x200B;
 
-[Microtransactions](https://preview.redd.it/yeknixpoeh871.png?width=685&format=png&auto=webp&s=42bd539014174cb4412f8ef25ea037d1fbad4327)
+![Microtransactions](https://preview.redd.it/yeknixpoeh871.png?width=685&format=png&auto=webp&s=42bd539014174cb4412f8ef25ea037d1fbad4327)
 
   The  big money in gaming is here, in **microtransactions**. As a fellow gamer, I do hate it. But as a GameStop shareholder, I absolutely think they  should take advantage of it. People would shell out thousands for an exclusive skin/weapon used by their favorite streamer/Esports competitor. Even more if it was sold in an auction setting. 
 
@@ -18,7 +19,7 @@ Genshin Impact is another great example. It is a free to play game and generated
 
 This video from 5 years ago shows off some of the most expensive virtual items ever sold, and these are not NFT’s. [https://youtu.be/VUNRl3kAATk](https://youtu.be/VUNRl3kAATk). If you'd rather read then here is a similar [article](https://www.looper.com/339732/the-most-expensive-in-game-purchase-in-gaming-history/). If you’re not a gamer, I highly recommend checking out the above just to get an idea of what lengths certain gamers are willing to go, and to find out why someone spent $6 million on a virtual planet in Entropia Universe.
 
-How is GameStop going to make money besides game sales? How about by taking a cut of every Fornite skin sold through their marketplace. Or every weapon skin pack in the new Call of Duty. How about by creating an entirely new market for gaming collectors items. A signature adds extreme value to [art](https://seasideart.com/blogs/blog/artist-signatures-how-do-they-impact-the-value-of-art), [books](https://blog.bookstellyouwhy.com/bid/230218/How-a-Signature-Increases-a-Book-s-Value), and ![sports memorabilia](https://www.psacard.com/smrpriceguide/sports-autograph-values/2/). Just imagine what it could do for gaming. 
+How is GameStop going to make money besides game sales? How about by taking a cut of every Fornite skin sold through their marketplace. Or every weapon skin pack in the new Call of Duty. How about by creating an entirely new market for gaming collectors items. A signature adds extreme value to [art](https://seasideart.com/blogs/blog/artist-signatures-how-do-they-impact-the-value-of-art), [books](https://blog.bookstellyouwhy.com/bid/230218/How-a-Signature-Increases-a-Book-s-Value), and [sports memorabilia](https://www.psacard.com/smrpriceguide/sports-autograph-values/2/). Just imagine what it could do for gaming. 
 
 &#x200B;
 

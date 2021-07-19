@@ -1,5 +1,6 @@
-# Author: Free_Stick_
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o5i5r2/im_surprised_at_how_many_apes_are_spreading_news/](https://www.reddit.com/r/Superstonk/comments/o5i5r2/im_surprised_at_how_many_apes_are_spreading_news/)
+#Title: I’m surprised at how many apes are spreading news about White Glacier Capital when it’s coming from the MEDIA..
+#Author: Free_Stick_
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o5i5r2/im_surprised_at_how_many_apes_are_spreading_news/](https://www.reddit.com/r/Superstonk/comments/o5i5r2/im_surprised_at_how_many_apes_are_spreading_news/)
 
 
 I feel like this was what everyone was warned about. The media is going to suggest HFS are going bankrupt etc etc.

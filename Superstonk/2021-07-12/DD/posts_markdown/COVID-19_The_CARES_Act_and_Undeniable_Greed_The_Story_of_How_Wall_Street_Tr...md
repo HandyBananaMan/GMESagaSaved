@@ -1,40 +1,43 @@
-# Author: Freadom6
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/](https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/)
+#Title: COVID-19, The CARES Act, and Undeniable Greed: The Story of How Wall Street Tried to Bankrupt Businesses with Money Meant to Save Businesses (GME Centric)
+#Author: Freadom6
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/](https://www.reddit.com/r/Superstonk/comments/oiwpxj/covid19_the_cares_act_and_undeniable_greed_the/)
 
 
-Obligatory: This should not be confused with financial advise. I do not offer finanicial advice or services. I am simply pointing out connections I am making through data and deductive reasoning. 
+Obligatory: This should not be confused with financial advise. I do not offer finanicial advice or services. I am simply pointing out connections I am making through data and deductive reasoning.
 
-**TL;dr** Prepare yourself for this next sentence, take a deep breath… How would you feel if I told you investment firms were given LARGE DOLLAR AMOUNTS in Paycheck Protection Program (PPP) “forgivable” loans (the money designed to keep businesses afloat during the pandemic) and the data and timing is indicating they used those funds to try to bankrupt businesses, including GME? Errrrmm… Scoots chair around uncomfortably… Because that is what I am about to tell you through these many words (and some pictures). Roughly $1.5 Billion worth of PPP loans went out to the “Industry” of “Investment Advice” through 12/1/2020.   
+**TL;dr** Prepare yourself for this next sentence, take a deep breath… How would you feel if I told you investment firms were given LARGE DOLLAR AMOUNTS in Paycheck Protection Program (PPP) “forgivable” loans (the money designed to keep businesses afloat during the pandemic) and the data and timing is indicating they used those funds to try to bankrupt businesses, including GME? Errrrmm… Scoots chair around uncomfortably… Because that is what I am about to tell you through these many words (and some pictures). Roughly $1.5 Billion worth of PPP loans went out to the “Industry” of “Investment Advice” through 12/1/2020.
 
 ["Investment Advice" Industry Loan Data](https://www.federalpay.org/paycheck-protection-program/industries/investment-advice)
 
-[PPP Loan Forgiveness Requirements](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-loan-forgiveness) 
+[PPP Loan Forgiveness Requirements](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-loan-forgiveness)
 
 # GME & MEME STOCKS HIT BOTTOM 4/2 & 4/3 of 2020
 
 I originally began this journey into the great cesspool of our market system to compare GME monthly close prices to FINRA’s reported margin debt, and while I did find the information I was looking for to show the continued correlation between GME and the current margin debt I slowly began to realize that was no longer the information I was seeking (I will make a margin debt post later this week). Why? Because looking at this information caused me to see that GME hit its bottom, in regard to share price, on April 3rd, 2020 after a 6 day skid beginning on March 27th, 2020 (I’m about to be sinful, avert your eyes if necessary, the movie company hit its bottom on April 2nd, 2020 after a 5 day skid beginning on March 27th, 2020, and Black Berry hit it’s low on 4/3/2020 as well). In case this was a whole market slide I checked out some other tickers and found some other stock prices fell slightly, but most remained relatively flat compared to GME and the meme stocks.
 
-[GME Share Price Movement \(and volume\) Credit: www.investing.com](https://preview.redd.it/utb3wshkfta71.jpg?width=660&format=pjpg&auto=webp&s=abe10fbed10dc955d82fc529a285b47d6aae1d63)
+&#x200B;
 
-[Share Price Movement 3/26/20 - 4/3/20 Credit: www.investing.com](https://preview.redd.it/d4zs1pnigta71.jpg?width=332&format=pjpg&auto=webp&s=e51a5e1389d66b035ebee3fa1d04c814d319fbd0)
+![www.investing.com](https://preview.redd.it/ykjoj85kxnb71.png?width=663&format=png&auto=webp&s=6deda55fbe71e1db20d6e92f4a3196b73222543a)
+
+![www.investing.com](https://preview.redd.it/1rq9fieoxnb71.png?width=332&format=png&auto=webp&s=8854f8c479ec52bc46f6fbd7bec27db0e9c8ab25)
 
 # CARES ACT
 
 So, why is March 27th, 2020, of any importance? Because on that day, “The Coronavirus Aid, Relief, and Economic Security (CARES) Act (2020)… provided fast and direct economic assistance for American workers, families, small businesses, and industries” was signed into law.  [CARES ACT](https://home.treasury.gov/policy-issues/coronavirus/about-the-cares-act)
 
-So now you are saying to yourself, yeah, but Hedge Funds were ineligible from receiving the funding even though they applied for it in mass amounts so why should I care? Because it appears that many firms investing in the market were QUITE ELIGIBLE as the below information is going to point out, and the data is indicating they used those funds or the anticipation of those funds to hammer GME and meme stocks with short selling from 3/27/20 – 4/3/20. 
+So now you are saying to yourself, yeah, but Hedge Funds were ineligible from receiving the funding even though they applied for it in mass amounts so why should I care? Because it appears that many firms investing in the market were QUITE ELIGIBLE as the below information is going to point out, and the data is indicating they used those funds or the anticipation of those funds to hammer GME and meme stocks with short selling from 3/27/20 – 4/3/20.
 
-Let us reiterate, the money designed to keep small businesses afloat during the COVID-19 Winter of Discontent was used by firms investing in the stock market. What is worse, the data is showing that some of these firms were using the funds to short GME & meme stocks. 
+Let us reiterate, the money designed to keep small businesses afloat during the COVID-19 Winter of Discontent was used by firms investing in the stock market. What is worse, the data is showing that some of these firms were using the funds to short GME & meme stocks.
 
 # FOX BUSINESS ARTICLE 4/18/2020
 
-Now, we’ll take a look to a Fox Business article from 4/18/2020, written by: Charlie Gasparino (He is active on social media, but I’m not sure what he’s up to these days aside from hating retail investors): 
+Now, we’ll take a look to a Fox Business article from 4/18/2020, written by: Charlie Gasparino (He is active on social media, but I’m not sure what he’s up to these days aside from hating retail investors):
 
 [Stimulus Intended to Help Coronavirus-Ravaged Small Businesses Instead Rewarding Hedge Funds, Brokerages](https://www.foxbusiness.com/money/stimulus-intended-to-help-coronavirus-ravaged-small-businesses-instead-rewarding-hedge-funds-brokerages)
 
 *“The bank was receiving applications (for PPP Loans) not just from those barely solvent mom-and-pop businesses like* [*restaurants*](https://www.foxbusiness.com/category/food-drinks)*, salons and family-run* [*factories*](https://www.foxbusiness.com/category/industries) *shuttered amid the nationwide pandemic shutdown that the legislation was supposed to help.*
 
-*Flowing into his system were applications from businesses no one would consider small, or even barely solvent:* ***Midsized hedge funds****,* ***brokerage businesses,*** *small law firms, all outfits that are making money, much of it through fee income, and many operating remotely almost as if nothing had changed.*
+*Flowing into his system were applications from businesses no one would consider small, or even barely solvent:* ***Midsized hedge funds***\*,\* ***brokerage businesses,*** *small law firms, all outfits that are making money, much of it through fee income, and many operating remotely almost as if nothing had changed.*
 
 ***How could this be? What the banker discovered was that with less than 500*** [***employees***](https://www.foxbusiness.com/category/jobs)***, financial firms and other high-end businesses are technically qualified for low-interest federally guaranteed loans under the broad parameters of the government's Payroll Protection Program (PPP).***
 
@@ -46,7 +49,7 @@ Now, we’ll take a look to a Fox Business article from 4/18/2020, written by: C
 
 ***“What's going to happen is a class divide we haven't seen in years," the banker told FOX Business. "Remember Occupy Wall Street?" he asked, referring to the sometimes violent protest movement after the 2008 financial collapse and bank bailouts. "These protests will be bigger and more violent because the economic problems are worse and the disparity of the money is favoring Wall Street even more.””***
 
-Fuck me… I do not think my words are needed in summarizing this article. In case the article is now mysteriously updated I have taken screenshots of the entire article and will post them if necessary. Check the article out for additional details. 
+Fuck me… I do not think my words are needed in summarizing this article. In case the article is now mysteriously updated I have taken screenshots of the entire article and will post them if necessary. Check the article out for additional details.
 
 Here is a MarketWatch Article from 4/15/2020 reiterating some main points:  ["It’s a complete abomination" says Wall Street money manager about hedge funds applying for bailouts from small-business recovery funds](https://www.marketwatch.com/story/its-a-complete-abomination-says-wall-street-money-manager-about-hedge-funds-applying-for-bailouts-from-small-business-recovery-funds-2020-04-14)
 
@@ -74,7 +77,7 @@ Armed with this information I decided to dig into the latest 2021 13F filings th
 2. Shares: 100 (put)
 3. Loan Amount: $2M - $5 Million (approved on 4/7/2020)
 
-All of these loans were approved in early April, 2020, meaning they were filed even earlier, before the PPP was signed into law on 4/24/2020, and look at how close those dates are to the implementation of the CARES Act and the GME tumble from 3/27/2020 – 4/3/2020. LOOK HOW CLOSE. AND all these companies have open PUT positions in GME as of the last filing. Betting GME share price will go down. How did they receive funding when other small businesses were exempt and ended up going bankrupt? They directly or indirectly used the money designed to keep the economy and struggling businesses afloat to open put positions in GME? WTF? 
+All of these loans were approved in early April, 2020, meaning they were filed even earlier, before the PPP was signed into law on 4/24/2020, and look at how close those dates are to the implementation of the CARES Act and the GME tumble from 3/27/2020 – 4/3/2020. LOOK HOW CLOSE. AND all these companies have open PUT positions in GME as of the last filing. Betting GME share price will go down. How did they receive funding when other small businesses were exempt and ended up going bankrupt? They directly or indirectly used the money designed to keep the economy and struggling businesses afloat to open put positions in GME? WTF?
 
 Now, things feel interesting. So, I decided to go even further down this slime covered cavern and look at 13F filings from 2020-Q2 (when GME hit its lowest close price) to see if any funds with actual shares in GME had received any loans and was unsurprised, but genuinely angry. I went “A” - “B” alphabetically through the list and found 3 companies who had shares in GME in 2020-Q2 that still have positions today (I skimmed through and saw plenty more later in the alphabet, I just have a hard time counting letters that high due to my intellectual inconsistencies):
 
@@ -110,4 +113,4 @@ I’m unsure how to conclude this post aside from: Buy/HODL. The day is coming.
 
 Tanks fo’ reedin’.
 
-Edit: Thanks to u/Evorus_Krayde for getting me to u/Doggoonewild post: ![Citadel Alum Charged with $2.4M PPP Loan Scam](https://www.reddit.com/r/Superstonk/comments/mw3jd3/citadel_alum_charged_with_24m_ppp_loan_scam/?utm_medium=android_app&utm_source=share)
+Edit: Thanks to u/Evorus_Krayde for getting me to u/Doggoonewild post: [Citadel Alum Charged with $2.4M PPP Loan Scam](https://www.reddit.com/r/Superstonk/comments/mw3jd3/citadel_alum_charged_with_24m_ppp_loan_scam/?utm_medium=android_app&utm_source=share)

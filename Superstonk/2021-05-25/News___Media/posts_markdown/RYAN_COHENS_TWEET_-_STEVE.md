@@ -1,5 +1,6 @@
-# Author: SoreLoserOfDumbtown
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkpgea/ryan_cohens_tweet_steve/](https://www.reddit.com/r/Superstonk/comments/nkpgea/ryan_cohens_tweet_steve/)
+#Title: RYAN COHENS TWEET - S.T.E.V.E.!!!!!!!!!!!!!!!
+#Author: SoreLoserOfDumbtown
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkpgea/ryan_cohens_tweet_steve/](https://www.reddit.com/r/Superstonk/comments/nkpgea/ryan_cohens_tweet_steve/)
 
 
 Hahahahaha! I can’t stop laughing! 😂😂👏

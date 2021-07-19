@@ -1,5 +1,6 @@
-# Author: Kidette
-# Post URL: [https://www.reddit.com/r/GME/comments/mjaasi/my_mom_has_been_living_out_of_her_car_for_the/](https://www.reddit.com/r/GME/comments/mjaasi/my_mom_has_been_living_out_of_her_car_for_the/)
+#Title: My mom has been living out of her car for the past 3 years. I can't wait to give her a house, a brand new car, and a few million dollars to retire with.
+#Author: Kidette
+#Post URL: [https://www.reddit.com/r/GME/comments/mjaasi/my_mom_has_been_living_out_of_her_car_for_the/](https://www.reddit.com/r/GME/comments/mjaasi/my_mom_has_been_living_out_of_her_car_for_the/)
 
 
 My mother and father divorced when I was born, after she found out he was cheating on her. After they left my fate up to the flip of a coin (seriously), my mom packed our things and moved to the states with me. I've only known life with her.

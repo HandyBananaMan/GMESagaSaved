@@ -1,10 +1,11 @@
-# Author: Alert_Piano341
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/](https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/)
+#Title: Ryan Cohens Letter to the Board....My north Star
+#Author: Alert_Piano341
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/](https://www.reddit.com/r/Superstonk/comments/nd18ee/ryan_cohens_letter_to_the_boardmy_north_star/)
 
 
 &#x200B;
 
-[This is Ryan](https://preview.redd.it/2h4w124ttaz61.png?width=512&format=png&auto=webp&s=d5dac5eb080b02be3f4c18dbb68d86bf1b0782ab)
+![This is Ryan](https://preview.redd.it/2h4w124ttaz61.png?width=512&format=png&auto=webp&s=d5dac5eb080b02be3f4c18dbb68d86bf1b0782ab)
 
 He started buying GME in 8/28/2020
 
@@ -48,4 +49,4 @@ What do you think will happen when Ryan Cohen harnesses the full power of the Ga
 
 **TLDR- I believe in RC, DFV believed in RC....RC is the reason GME is happening.  The business transformation is going to be written about for years......oh and the squeeze is nice too**
 
-  ![https://m.youtube.com/watch?v=DrHCqaXvpzM#menu](https://m.youtube.com/watch?v=DrHCqaXvpzM#menu)
+  [https://m.youtube.com/watch?v=DrHCqaXvpzM#menu](https://m.youtube.com/watch?v=DrHCqaXvpzM#menu)

@@ -1,5 +1,6 @@
-# Author: let_it_bernnn
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/oish4t/is_citadel_pumping_obscure_stocks_to_survive/](https://www.reddit.com/r/DDintoGME/comments/oish4t/is_citadel_pumping_obscure_stocks_to_survive/)
+#Title: Is Citadel pumping obscure stocks to survive?
+#Author: let_it_bernnn
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/oish4t/is_citadel_pumping_obscure_stocks_to_survive/](https://www.reddit.com/r/DDintoGME/comments/oish4t/is_citadel_pumping_obscure_stocks_to_survive/)
 
 
 Citadels Lifeline - Pump N Dumps?! 

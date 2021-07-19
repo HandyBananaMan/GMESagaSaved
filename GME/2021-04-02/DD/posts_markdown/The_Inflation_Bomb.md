@@ -1,5 +1,6 @@
-# Author: Ren3666
-# Post URL: [https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/](https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/)
+#Title: The Inflation Bomb
+#Author: Ren3666
+#Post URL: [https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/](https://www.reddit.com/r/GME/comments/miq4gj/the_inflation_bomb/)
 
 
 Disclaimer: I wonder if anyone considers this a nuclear bomb, even though it is coming from me, I was baffled the whole time. I don´t even want you to believe me, rather I would prefer it if you prove me wrong, but here we are, so take this with an infusion of natrium chloride. It may feel cold in the beginning, but the chill will have spread throughout your body, when you reach the end.
@@ -48,7 +49,7 @@ I think you already expected this, but if M1 exists, there must be M2 too, right
 
 Just for comparison reasons, other countries aren´t doing better. Not only does stock go up but also money.
 
-[By Wikideas1 - Own work https:\/\/fred.stlouisfed.org\/graph\/?g=1ajW#0, CC BY-SA 4.0, https:\/\/commons.wikimedia.org\/w\/index.php?curid=81774885](https://preview.redd.it/lsswfagfhsq61.png?width=3273&format=png&auto=webp&s=7dc829a66df74216ce3df75cdc5331f659e427e5)
+![By Wikideas1 - Own work https:\/\/fred.stlouisfed.org\/graph\/?g=1ajW#0, CC BY-SA 4.0, https:\/\/commons.wikimedia.org\/w\/index.php?curid=81774885](https://preview.redd.it/lsswfagfhsq61.png?width=3273&format=png&auto=webp&s=7dc829a66df74216ce3df75cdc5331f659e427e5)
 
 There is also M0 & M3 btw, but this will just sand your brain at this point.
 
@@ -102,11 +103,11 @@ But hey, don´t call it QE. Federal Reserve Board Chairman Ben Bernanke doesn´t
 
 Edit 1:
 
-[Thanks to u\/VolkspanzerIsME for this information this was an unexpected outcome - Everything always goes full circle apparently](https://preview.redd.it/cab981dycuq61.png?width=923&format=png&auto=webp&s=6f46f9457c92e22264a17a51809459d8050fec85)
+![Thanks to u\/VolkspanzerIsME for this information this was an unexpected outcome - Everything always goes full circle apparently](https://preview.redd.it/cab981dycuq61.png?width=923&format=png&auto=webp&s=6f46f9457c92e22264a17a51809459d8050fec85)
 
 Edit 2:
 
-[Thanks to u\/NoseBurner seems like there is some more digging to do](https://preview.redd.it/qoxss7yjgwq61.png?width=933&format=png&auto=webp&s=c6350b90e10b88b010ef1f2df007ab29b0b35bb9)
+![Thanks to u\/NoseBurner seems like there is some more digging to do](https://preview.redd.it/qoxss7yjgwq61.png?width=933&format=png&auto=webp&s=c6350b90e10b88b010ef1f2df007ab29b0b35bb9)
 
 https://preview.redd.it/ycbl08causq61.png?width=1217&format=png&auto=webp&s=71afe5e0d653d2fd8c53572d994b86a614c0adac
 

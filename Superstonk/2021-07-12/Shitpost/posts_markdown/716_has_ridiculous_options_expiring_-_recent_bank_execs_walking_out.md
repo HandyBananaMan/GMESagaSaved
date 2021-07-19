@@ -1,5 +1,6 @@
-# Author: kitties-plus-titties
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj7jrt/716_has_ridiculous_options_expiring_recent_bank/](https://www.reddit.com/r/Superstonk/comments/oj7jrt/716_has_ridiculous_options_expiring_recent_bank/)
+#Title: 7/16 has ridiculous options expiring - recent bank execs walking out..
+#Author: kitties-plus-titties
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj7jrt/716_has_ridiculous_options_expiring_recent_bank/](https://www.reddit.com/r/Superstonk/comments/oj7jrt/716_has_ridiculous_options_expiring_recent_bank/)
 
 
 I'm not saying anything especially dates - cause no dates.

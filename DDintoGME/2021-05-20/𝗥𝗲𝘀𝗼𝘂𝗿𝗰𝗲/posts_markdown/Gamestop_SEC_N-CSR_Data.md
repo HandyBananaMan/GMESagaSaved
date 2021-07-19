@@ -1,5 +1,6 @@
-# Author: Rehypothecator
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/](https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/)
+#Title: Gamestop SEC N-CSR Data
+#Author: Rehypothecator
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/](https://www.reddit.com/r/DDintoGME/comments/nhhrkd/gamestop_sec_ncsr_data/)
 
 
 # [Link to collated SEC N-CSR Data](https://docs.google.com/spreadsheets/d/1QvnU6EcEJA2hm7539xTPYjlmjX22xH31P20ewJO_EGI/edit?usp=sharing)
@@ -14,7 +15,7 @@ There seemed to be an incomplete and inaccessible data resource for some Gamesto
 
 **Methods**
 
-So I went through all the SEC N-CSR forms from 2021-01-01 through to 2021-05-20 ![HERE](https://sec.report/Document/Search/). Searched for "gamestop", and tabulated all of them under fund and portfolio (if applicable).
+So I went through all the SEC N-CSR forms from 2021-01-01 through to 2021-05-20 [HERE](https://sec.report/Document/Search/). Searched for "gamestop", and tabulated all of them under fund and portfolio (if applicable).
 
 N-CSR data is supposed to be uploaded a maximum of 60 days after the end of each quarter. I removed any redundant filings in the period of the search (some had already filed twice). While some aren't super recent, they should be updated by may 30th (60 days after end of Q1).
 

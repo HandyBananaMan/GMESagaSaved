@@ -1,5 +1,6 @@
-# Author: broken-neurons
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o31mie/building_an_nft_blockchain_based_digital_stock/](https://www.reddit.com/r/Superstonk/comments/o31mie/building_an_nft_blockchain_based_digital_stock/)
+#Title: Building an NFT blockchain based digital stock market for the games market
+#Author: broken-neurons
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o31mie/building_an_nft_blockchain_based_digital_stock/](https://www.reddit.com/r/Superstonk/comments/o31mie/building_an_nft_blockchain_based_digital_stock/)
 
 
 This is my thesis on what I think GameStop is, or should be building. 

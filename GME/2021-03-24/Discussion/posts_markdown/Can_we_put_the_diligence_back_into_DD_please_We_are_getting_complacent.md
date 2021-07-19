@@ -1,5 +1,6 @@
-# Author: unloud
-# Post URL: [https://www.reddit.com/r/GME/comments/mckxra/can_we_put_the_diligence_back_into_dd_please_we/](https://www.reddit.com/r/GME/comments/mckxra/can_we_put_the_diligence_back_into_dd_please_we/)
+#Title: Can we put the "diligence" back into DD please? We are getting complacent.
+#Author: unloud
+#Post URL: [https://www.reddit.com/r/GME/comments/mckxra/can_we_put_the_diligence_back_into_dd_please_we/](https://www.reddit.com/r/GME/comments/mckxra/can_we_put_the_diligence_back_into_dd_please_we/)
 
 
 What good is DD if we don't vet it?

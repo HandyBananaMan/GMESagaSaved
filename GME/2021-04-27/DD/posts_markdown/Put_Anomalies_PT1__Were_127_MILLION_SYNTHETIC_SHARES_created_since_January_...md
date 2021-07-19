@@ -1,5 +1,6 @@
-# Author: dejf2
-# Post URL: [https://www.reddit.com/r/GME/comments/mzre4k/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/GME/comments/mzre4k/put_anomalies_pt1_were_127_million_synthetic/)
+#Title: Put Anomalies PT1 — Were 127 MILLION+ SYNTHETIC SHARES created since January, or is this data ‘nothing to worry about’? Why were 1.094 MILLION worthless PUTS traded on March3&4? Was it linked to the open interest? Findings of a 2-week market-data-driven and white paper investigation.
+#Author: dejf2
+#Post URL: [https://www.reddit.com/r/GME/comments/mzre4k/put_anomalies_pt1_were_127_million_synthetic/](https://www.reddit.com/r/GME/comments/mzre4k/put_anomalies_pt1_were_127_million_synthetic/)
 
 
 # Tl;Dr: There is an Explain Like I'm Ape section at the bottom.
@@ -196,7 +197,7 @@ This activity crops up on some other days, but not to this level.
 
 # March 3rd and 4th were real anomalies:
 
-[ Options Trading volume suspicious on grounds of volume far exceeding Open Interest, 11JAN-8APR ](https://preview.redd.it/th5hkeq4lqv61.png?width=1676&format=png&auto=webp&s=fdc7a017ef3b4c2da83a6e33bb4ddfe5c9017401)
+![ Options Trading volume suspicious on grounds of volume far exceeding Open Interest, 11JAN-8APR ](https://preview.redd.it/th5hkeq4lqv61.png?width=1676&format=png&auto=webp&s=fdc7a017ef3b4c2da83a6e33bb4ddfe5c9017401)
 
 # How out of the ordinary is this?
 

@@ -1,8 +1,9 @@
-# Author: Dismal-Jellyfish
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/](https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/)
+#Title: A deep dive into some more of the data released this week. Some of it is bleak, but there is HOPE in here! 🚀🚀🚀🚀
+#Author: Dismal-Jellyfish
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/](https://www.reddit.com/r/Superstonk/comments/od9tt1/a_deep_dive_into_some_more_of_the_data_released/)
 
 
-[Hello, r\/Superstonk Jellyfish here!  ](https://i.redd.it/k2eixqtt63971.gif)
+![Hello, r\/Superstonk Jellyfish here!  ](https://i.redd.it/k2eixqtt63971.gif)
 
 I want to continue [trying to tie data](https://www.reddit.com/r/Superstonk/comments/od11xo/a_dive_into_lina_khans_first_meeting_as_ftc_chair/) from posts this week together. Specifically, the [jobs report](https://www.reddit.com/r/Superstonk/comments/ocjp7f/us_department_of_labor_june_update_in_june_2021/) and [census report](https://www.reddit.com/r/Superstonk/comments/ocj7ko/us_census_bureau_household_pulse_survey_62_of/).
 
@@ -22,15 +23,15 @@ The fact that the average is still rising despite the influx of lower-paid worke
 
 Still, even with the big 850k + jobs report, we're still down 9 million jobs from before the pandemic started--remember [the head of the Minneapolis Fed Neel Kasharki](https://www.reddit.com/r/Superstonk/comments/oblqlb/us_bureau_of_economic_analysis_bea_announced/h3oilba) says people returning to work will tamper inflation...(this has me working on another inflation post though, so if you like that topic, stay tuned!)
 
-[credit u\/assman323232](https://preview.redd.it/n8gzi3of79971.jpg?width=700&format=pjpg&auto=webp&s=69f5c4254ba86c826b4eecc399445cddebc02c12)
+![credit u\/assman323232](https://preview.redd.it/n8gzi3of79971.jpg?width=700&format=pjpg&auto=webp&s=69f5c4254ba86c826b4eecc399445cddebc02c12)
 
 Breaking the numbers in the jobs report down further, the leisure and hospitality industry jumped by 343,000 jobs in June, after having added 306,000 jobs in May, since restaurants and hotels are desperately trying to bring on workers. Yet, total employment in the sector was still down by about 2.18 million people, compared to the peak in February 2020, before the pandemic ‘started’.
 
-[https:\/\/fred.stlouisfed.org\/graph\/?g=SJz](https://preview.redd.it/4svave2b93971.png?width=1463&format=png&auto=webp&s=189299a331156b4bb5881d2200d7d3d59ea8d028)
+![https:\/\/fred.stlouisfed.org\/graph\/?g=SJz](https://preview.redd.it/4svave2b93971.png?width=1463&format=png&auto=webp&s=189299a331156b4bb5881d2200d7d3d59ea8d028)
 
 Employment in manufacturing up 15,000 jobs following 39,000 jobs added in May, amid widespread complaints by manufacturers that they’re having trouble filling orders because they’re having trouble “finding suitable candidates for current vacancies,” [according to the HIS Markit Manufacturing PMI](https://www.markiteconomics.com/Public/Home/PressRelease/0501c114d9194cb889d175b0ba828bf1).
 
-[https:\/\/fred.stlouisfed.org\/series\/MANEMP](https://preview.redd.it/8vxcq4dg93971.png?width=1461&format=png&auto=webp&s=8f0f37594c0cb3294ca281bbdf67d7af733716cc)
+![https:\/\/fred.stlouisfed.org\/series\/MANEMP](https://preview.redd.it/8vxcq4dg93971.png?width=1461&format=png&auto=webp&s=8f0f37594c0cb3294ca281bbdf67d7af733716cc)
 
 # So it is labor shortages and not just material shortages causing issues.
 
@@ -70,7 +71,7 @@ But look what the Apes of r/Superstonk have accomplished float-wise with 500,000
 
 Let’s say it’s only 10 million sitting at home (because fraud is *that* rampant?) and they all decide to buy two shares at $202.80 for $405.60 (the last bit of discretionary income they have left say, since 3 stimmies were sure enough to cover us all through this, right ???).
 
-[you can see the 3 stimmy spikes... ](https://preview.redd.it/emc3uax8a3971.png?width=1459&format=png&auto=webp&s=0886880ed03cd8cf03ac9e1f486935e28bdb1c0f)
+![you can see the 3 stimmy spikes... ](https://preview.redd.it/emc3uax8a3971.png?width=1459&format=png&auto=webp&s=0886880ed03cd8cf03ac9e1f486935e28bdb1c0f)
 
 That’s a hole that gets 20 million shares deeper and now with something enforcement agencies and politicians fear the most—more voices. Voices that will garner more MSM attention, which will perpetuate more buying…
 

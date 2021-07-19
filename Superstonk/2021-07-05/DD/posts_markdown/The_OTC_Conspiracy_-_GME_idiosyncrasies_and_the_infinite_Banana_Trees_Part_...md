@@ -1,5 +1,6 @@
-# Author: nayboyer2
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/](https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/)
+#Title: The OTC Conspiracy - GME, idiosyncrasies, and the infinite Banana Trees (Part 1)
+#Author: nayboyer2
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/](https://www.reddit.com/r/Superstonk/comments/oejtty/the_otc_conspiracy_gme_idiosyncrasies_and_the/)
 
 
 # "Let's take another dive into that Dark Pool data
@@ -78,7 +79,7 @@ FINRA somehow thinks it's fair and reasonable to release this "top secret data" 
 
 **A normal November and a December dial-up**
 
-[In November and December, GME OTC trades accounted for 0.11&#37; and 0.17&#37; of participants total OTC trading activity](https://preview.redd.it/gvkmrk5smh971.png?width=1580&format=png&auto=webp&s=ce9c3b62c8794e8a2cb2ef5301b070cba1fcb46d)
+![In November and December, GME OTC trades accounted for 0.11&#37; and 0.17&#37; of participants total OTC trading activity](https://preview.redd.it/gvkmrk5smh971.png?width=1580&format=png&auto=webp&s=ce9c3b62c8794e8a2cb2ef5301b070cba1fcb46d)
 
 **November:**
 
@@ -110,7 +111,7 @@ In December, we already see these numbers begin to skew.  GME was 0.13% of share
 
 **The January Jump-Off**
 
-[In January, GME OTC trades accounted for 1.85&#37; of all OTC trades for these participants.  GME shares accounted for 0.51&#37; of all OTC shares traded](https://preview.redd.it/b9v5q2oqk9971.png?width=1770&format=png&auto=webp&s=15926b50d64846a4da254cc245025db4fd9e279c)
+![In January, GME OTC trades accounted for 1.85&#37; of all OTC trades for these participants.  GME shares accounted for 0.51&#37; of all OTC shares traded](https://preview.redd.it/b9v5q2oqk9971.png?width=1770&format=png&auto=webp&s=15926b50d64846a4da254cc245025db4fd9e279c)
 
 **January:**
 
@@ -149,7 +150,7 @@ Their only chance at remaining solvent was to turn off the buy button, kick the 
 
 **The February Fuckery was Afoot**
 
-[Robinhood enters the fray in February, making 772,000 trades with 774,600 shares](https://preview.redd.it/szdozinfk9971.png?width=1773&format=png&auto=webp&s=408609baf93e5a3a253daf1b49bc21a6e28649c4)
+![Robinhood enters the fray in February, making 772,000 trades with 774,600 shares](https://preview.redd.it/szdozinfk9971.png?width=1773&format=png&auto=webp&s=408609baf93e5a3a253daf1b49bc21a6e28649c4)
 
 **February**
 
@@ -186,7 +187,7 @@ This was likely in an effort to try to mitigate the increase in price from havin
 
 **I thought this deserved a closer look.**
 
-[February Fuckery was afoot during the week of 2\/22.  Robinhood made almost 24&#37; of the GME OTC trades that week, more than even Citadel and trailing only Virtu](https://preview.redd.it/ci4tbrc4a9971.png?width=1715&format=png&auto=webp&s=0b2049cab89ede5ab148f33a867774c890431c51)
+![February Fuckery was afoot during the week of 2\/22.  Robinhood made almost 24&#37; of the GME OTC trades that week, more than even Citadel and trailing only Virtu](https://preview.redd.it/ci4tbrc4a9971.png?width=1715&format=png&auto=webp&s=0b2049cab89ede5ab148f33a867774c890431c51)
 
 **Robinhood** accounted for almost **24% of GME's weekly OTC trades**, trailing only Virtu.  They made more GME OTC trades than **Citadel**.  GME accounted for almost 17.5% of their total OTC shares and almost **18.7%** of their total OTC trades.
 
@@ -220,7 +221,7 @@ I could keep going with February Fuckery, but let's move on to The March Manipul
 
 **The March Manipulation**
 
-[Robinhood upped the ante with 1.656 million trades using 1.658 million shares.  The total percent of OTC trades that was GME increased for the 5th straight month to 2.32&#37;.](https://preview.redd.it/ponb5hgvj9971.png?width=1621&format=png&auto=webp&s=8799c8667e212f9fc0a61ca930fa8c82228fc9ce)
+![Robinhood upped the ante with 1.656 million trades using 1.658 million shares.  The total percent of OTC trades that was GME increased for the 5th straight month to 2.32&#37;.](https://preview.redd.it/ponb5hgvj9971.png?width=1621&format=png&auto=webp&s=8799c8667e212f9fc0a61ca930fa8c82228fc9ce)
 
 **March:**
 
@@ -250,7 +251,7 @@ The idiosyncrasies between % of total shares (0.30%) and % of total trades (**2.
 
 **The week of March 8th was kind of wacky:**
 
-[Robinhood leads the entire GME OTC in Trades](https://preview.redd.it/z2yxmkqj8a971.png?width=1638&format=png&auto=webp&s=82e40b3b4208b6c5f88ddada08f96cd27d021d1f)
+![Robinhood leads the entire GME OTC in Trades](https://preview.redd.it/z2yxmkqj8a971.png?width=1638&format=png&auto=webp&s=82e40b3b4208b6c5f88ddada08f96cd27d021d1f)
 
 **Robinhood** was **1.00%** of the weekly OTC shares, but used those 765,000 shares to make over 763,000 trades, which was **25.78%** of the weekly total.  They made more OTC trades than any other participant.  GME was almost **20%** of their total OTC shares and almost **21%** of their total OTC trades.  
 
@@ -274,19 +275,19 @@ GME was only 0.36% of **Citadel's** OTC shares, but **4.16%** of their total OTC
 
 Monthly GME OTC trades September - March
 
-[Huge increase in GME OTC trades](https://preview.redd.it/72uezos4dh971.png?width=699&format=png&auto=webp&s=8e742a99fde0798cfd6f2d0b435517d2dfddbdf6)
+![Huge increase in GME OTC trades](https://preview.redd.it/72uezos4dh971.png?width=699&format=png&auto=webp&s=8e742a99fde0798cfd6f2d0b435517d2dfddbdf6)
 
 Weekly GME OTC Trades (late September - March)
 
-[These weeks seem to stand out...](https://preview.redd.it/g6b7rhlbhh971.png?width=1004&format=png&auto=webp&s=cd6de72fae89ad38c842e13a69ff3cb574f65621)
+![These weeks seem to stand out...](https://preview.redd.it/g6b7rhlbhh971.png?width=1004&format=png&auto=webp&s=cd6de72fae89ad38c842e13a69ff3cb574f65621)
 
 GME monthly Shares/Trade OTC from September - March
 
-[Shrinking shares\/trade](https://preview.redd.it/kuohghnugh971.png?width=745&format=png&auto=webp&s=0047c2b43cf6d878f2ab42a52367c81526125272)
+![Shrinking shares\/trade](https://preview.redd.it/kuohghnugh971.png?width=745&format=png&auto=webp&s=0047c2b43cf6d878f2ab42a52367c81526125272)
 
 GME Shares/Trade OTC vs. Entire OTC Marketplace (including GME) - November - March
 
-[Shrinking shares\/trade - Spoiler alert, it's only getting worse...](https://preview.redd.it/moaplsfrgh971.png?width=983&format=png&auto=webp&s=329a69fd0e09fc69f38a60578cf8ce3880660a04)
+![Shrinking shares\/trade - Spoiler alert, it's only getting worse...](https://preview.redd.it/moaplsfrgh971.png?width=983&format=png&auto=webp&s=329a69fd0e09fc69f38a60578cf8ce3880660a04)
 
 Lastly, using an estimated GME Float of 26.7 million (January - March before share offerings), and comparing it to a few other stocks (see [OTC Conspiracy Part 2](https://www.reddit.com/r/Superstonk/comments/n5q76p/the_otc_conspiracy_part_2_shining_some_light_into/) for more info and examples):
 

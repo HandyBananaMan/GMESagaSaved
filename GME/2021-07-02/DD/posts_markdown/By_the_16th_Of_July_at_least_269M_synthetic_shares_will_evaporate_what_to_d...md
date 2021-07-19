@@ -1,5 +1,6 @@
-# Author: moeldevs
-# Post URL: [https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/](https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/)
+#Title: By the 16th Of July, at least 26.9M synthetic shares will evaporate, what to do dear shorties?
+#Author: moeldevs
+#Post URL: [https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/](https://www.reddit.com/r/GME/comments/ockznm/by_the_16th_of_july_at_least_269m_synthetic/)
 
 
 **Introduction:**
@@ -22,7 +23,7 @@ In fact, by analyzing the put options open interest of the 16th Of July, we can 
 
 &#x200B;
 
-[Puts for the July 16th ordered by strike price](https://preview.redd.it/ulqfrlmogv871.jpg?width=922&format=pjpg&auto=webp&s=3b7fd08cf514ec63bddb18d1a8462fa8f6f47b80)
+![Puts for the July 16th ordered by strike price](https://preview.redd.it/ulqfrlmogv871.jpg?width=922&format=pjpg&auto=webp&s=3b7fd08cf514ec63bddb18d1a8462fa8f6f47b80)
 
 As you can see, the biggest open interest (active open contracts) has a **strike price of  0.50$!!!**
 
@@ -58,4 +59,4 @@ I let you answer the question yourself!!!
 
 Edit1 :Not financial advice in any shape, way, or form!!
 
-Edit2: Some comments suggest that those contracts were probably sold by bulls when the price was below 10/20 usd. Well, I don't think so as the 0.50$ contract for example reached the max price/volume on the 27th of January as you can see ![here](https://finance.yahoo.com/quote/GME210716P00000500?p=GME210716P00000500). We all know what happened on the 27th Of January and what was the price back then!
+Edit2: Some comments suggest that those contracts were probably sold by bulls when the price was below 10/20 usd. Well, I don't think so as the 0.50$ contract for example reached the max price/volume on the 27th of January as you can see [here](https://finance.yahoo.com/quote/GME210716P00000500?p=GME210716P00000500). We all know what happened on the 27th Of January and what was the price back then!

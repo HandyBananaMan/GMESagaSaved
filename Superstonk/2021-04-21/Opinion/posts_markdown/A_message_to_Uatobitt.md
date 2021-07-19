@@ -1,5 +1,6 @@
-# Author: spikeone2017
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvn2l0/a_message_to_uatobitt/](https://www.reddit.com/r/Superstonk/comments/mvn2l0/a_message_to_uatobitt/)
+#Title: A message to U/atobitt
+#Author: spikeone2017
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvn2l0/a_message_to_uatobitt/](https://www.reddit.com/r/Superstonk/comments/mvn2l0/a_message_to_uatobitt/)
 
 
 You're exposing some deep deep shit. Please stay safe brother . The elite don't like dirt uncovered. 

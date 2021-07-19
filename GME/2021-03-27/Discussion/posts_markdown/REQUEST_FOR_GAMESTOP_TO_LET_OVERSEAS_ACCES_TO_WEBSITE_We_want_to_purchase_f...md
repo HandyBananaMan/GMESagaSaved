@@ -1,5 +1,6 @@
-# Author: Soggy_Match_9177
-# Post URL: [https://www.reddit.com/r/GME/comments/megg9m/request_for_gamestop_to_let_overseas_acces_to/](https://www.reddit.com/r/GME/comments/megg9m/request_for_gamestop_to_let_overseas_acces_to/)
+#Title: REQUEST FOR GAMESTOP TO LET OVERSEAS ACCES TO WEBSITE! We want to purchase from your store, Ryan!!
+#Author: Soggy_Match_9177
+#Post URL: [https://www.reddit.com/r/GME/comments/megg9m/request_for_gamestop_to_let_overseas_acces_to/](https://www.reddit.com/r/GME/comments/megg9m/request_for_gamestop_to_let_overseas_acces_to/)
 
 
 I would love visibility so we can let Gamestop see this!

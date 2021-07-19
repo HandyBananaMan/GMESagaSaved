@@ -1,5 +1,6 @@
-# Author: Cactusjacques713
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o42bfm/big_banks_lost_a_lot_of_value_on_january_14th_but/](https://www.reddit.com/r/Superstonk/comments/o42bfm/big_banks_lost_a_lot_of_value_on_january_14th_but/)
+#Title: Big banks lost a lot of value on JANUARY 14th, but GME has started rising A WEEK LATER ON JANUARY 21! The big banks lost again at least 7.5% of value last week. Coincidence? I Think not.
+#Author: Cactusjacques713
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o42bfm/big_banks_lost_a_lot_of_value_on_january_14th_but/](https://www.reddit.com/r/Superstonk/comments/o42bfm/big_banks_lost_a_lot_of_value_on_january_14th_but/)
 
 
 I noticed that all the big bank stocks lost a lot of value on January 14th, but GME hasn't risen until around January 20/21 a week later.

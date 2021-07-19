@@ -1,5 +1,6 @@
-# Author: sydneyfriendlycub
-# Post URL: [https://www.reddit.com/r/GME/comments/mvmasy/dtcc_needs_to_disappear_sec_needs_a_serious/](https://www.reddit.com/r/GME/comments/mvmasy/dtcc_needs_to_disappear_sec_needs_a_serious/)
+#Title: DTCC needs to disappear. SEC needs a serious reform. Blockchain system needs to be implemented. Wealth needs to be distributed.
+#Author: sydneyfriendlycub
+#Post URL: [https://www.reddit.com/r/GME/comments/mvmasy/dtcc_needs_to_disappear_sec_needs_a_serious/](https://www.reddit.com/r/GME/comments/mvmasy/dtcc_needs_to_disappear_sec_needs_a_serious/)
 
 
 

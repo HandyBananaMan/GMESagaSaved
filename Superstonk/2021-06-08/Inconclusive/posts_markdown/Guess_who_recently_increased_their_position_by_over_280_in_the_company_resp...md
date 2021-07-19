@@ -1,5 +1,6 @@
-# Author: jfreelandcincy
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9z1f/guess_who_recently_increased_their_position_by/](https://www.reddit.com/r/Superstonk/comments/nv9z1f/guess_who_recently_increased_their_position_by/)
+#Title: Guess who recently increased their position by over 280% in the company responsible for our Reddit outage today? Hint: Kenny Boy
+#Author: jfreelandcincy
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nv9z1f/guess_who_recently_increased_their_position_by/](https://www.reddit.com/r/Superstonk/comments/nv9z1f/guess_who_recently_increased_their_position_by/)
 
 
 Edit: Some Apes are making good points regarding this being an unlikely connection. I will leave the post up unless a mod asks me to remove it, but likely a coincidence Apes. ALTHOUGH the timing and the chart similarities are just fucking weird. 

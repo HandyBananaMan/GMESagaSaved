@@ -1,5 +1,6 @@
-# Author: lickybum
-# Post URL: [https://www.reddit.com/r/GME/comments/mfrdsj/how_10000000_million_per_share_is_achievable/](https://www.reddit.com/r/GME/comments/mfrdsj/how_10000000_million_per_share_is_achievable/)
+#Title: HOW $10,000,000 MILLION PER SHARE IS ACHIEVABLE (QUANTUM PHYSICIST ANALYSIS) v2(updated)
+#Author: lickybum
+#Post URL: [https://www.reddit.com/r/GME/comments/mfrdsj/how_10000000_million_per_share_is_achievable/](https://www.reddit.com/r/GME/comments/mfrdsj/how_10000000_million_per_share_is_achievable/)
 
 
 &#x200B;

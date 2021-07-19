@@ -1,5 +1,6 @@
-# Author: HomeDepotHank69
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/](https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/)
+#Title: GME Magnum Opus update: The day of reckoning
+#Author: HomeDepotHank69
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/](https://www.reddit.com/r/Superstonk/comments/mvdk5a/gme_magnum_opus_update_the_day_of_reckoning/)
 
 
 **CRUCIAL UPDATE:** If my theory is correct, I will be renaming this "the theory of hank"
@@ -118,7 +119,7 @@ The reason why u/nuulss comment got me so interested is because my original thes
 
 Ok, so first here is SEC regulation SHO, which discusses shorting, naked shorting, and FTDs:
 
-![https://www.sec.gov/investor/pubs/regsho.htm](https://www.sec.gov/investor/pubs/regsho.htm)
+[https://www.sec.gov/investor/pubs/regsho.htm](https://www.sec.gov/investor/pubs/regsho.htm)
 
 Essentially, what I've gathered from this about FTDs is that brokers/MMs have a certain number of days to resolve a FTD (which they can do with another borrowed share, which is why we're in this mess). The key numbers are T+2, T+3, T+5, T+6, T+13. T refers to the day you executed, so just think of it as day you shorted + x days later. There are certain exceptions for market making activity as well, which I am having trouble understanding (ape brain lmao). However, the comment was about T+21, which I have not seen anything about. If anyone has information on this please let me know (but please don't just add 13+6+2 and say "LoOk uNcLe HaNk i sOlVeD tHe PuZzLe"). Again, this is just a rough outline of the theory that I will probably post about in the future.
 

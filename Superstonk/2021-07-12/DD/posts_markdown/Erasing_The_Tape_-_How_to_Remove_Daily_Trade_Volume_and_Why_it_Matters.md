@@ -1,5 +1,6 @@
-# Author: myplayprofile
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/](https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/)
+#Title: "Erasing The Tape" - How to Remove Daily Trade Volume and Why it Matters
+#Author: myplayprofile
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/](https://www.reddit.com/r/Superstonk/comments/oj1tjl/erasing_the_tape_how_to_remove_daily_trade_volume/)
 
 
 While the whole world was having a big old COVID reopening party, a few autistics and apes saw the giant lie at the heart of the stonk markets, and they saw it by doing something the rest of the suckers never thought to do - They looked. Insert obligatory shoutout to u/atobitt u/criand u/homedepothank69 u/broccaaa and the many other DD authors in this sub that have and continue to 👀.
@@ -10,19 +11,19 @@ TA:DR - Volume CAN be kept off the data feed, and certain trades are not publish
 
 &#x200B;
 
-[Remember that moment in \\"The Big Short\\"?](https://preview.redd.it/5jsomx48kta71.png?width=888&format=png&auto=webp&s=098a8b7ad80c66876cbe4b3cc33e62c4d213f8bc)
+![Remember that moment in \\"The Big Short\\"?](https://preview.redd.it/5jsomx48kta71.png?width=888&format=png&auto=webp&s=098a8b7ad80c66876cbe4b3cc33e62c4d213f8bc)
 
 Ever heard of the term "Painting the Tape"? It's one of the many well known market manipulation tactics *"whereby market players attempt to influence the price of a security by buying and selling it among themselves to create the appearance of substantial trading activity. The goal of painting the tape is to create the illusion of an increased interest in a stock to trick investors into buying shares, which would drive the price higher"* [\- From Investopedia](https://www.investopedia.com/terms/p/paintingthetape.asp). Painting the tape is so 2019 though, and in 2021 the market fuckery has reached new heights, and since the "Reverse Uno" has been played, to fully understand GME, your mind needs to travel through the "Tenet Turnstile" and begin thinking about everything in reverse, like it's opposite day, or a reciprocal. What's the opposite of "painting the tape"? I would like to present the lesser known tactic of "Erasing the tape", which has not even gotten it's own Investopedia page yet.
 
 &#x200B;
 
-[DFV 4\/9\/21 \\"Reverse Uno\\" Tweet - https:\/\/twitter.com\/TheRoaringKitty\/status\/1380611475757236226\/photo\/1](https://preview.redd.it/d2i3ev79nta71.png?width=1500&format=png&auto=webp&s=e6bd7e1f27ea60d545f719e92416b97a4f38c5dd)
+![DFV 4\/9\/21 \\"Reverse Uno\\" Tweet - https:\/\/twitter.com\/TheRoaringKitty\/status\/1380611475757236226\/photo\/1](https://preview.redd.it/d2i3ev79nta71.png?width=1500&format=png&auto=webp&s=e6bd7e1f27ea60d545f719e92416b97a4f38c5dd)
 
 Before getting into the "HOW", first let's apply some critical thinking and try and answer "Why would someone want to suppress the volume of a stonk?" The first clue comes from "Painting the Tape" - 2 or more parties can trade a stonk between themselves to begin pumping the stonk higher, increasing reported trade volume on the tape, and "outside interest" in the stonk begins to rise the higher the volume and price goes, eventually making a headline on CNBC or other MSM, further increasing interests and volume, whereby the original parties that "painted the tape" hope to be able to exit the position at a higher price. The second clue comes from the nature of short squeezes and how both volume and price explode higher as the squeeze is being squoze. In regards to GME, every spike higher in price since Jan has had a surge in volume, followed by a slow churn lower in price and volume until the cycle repeats. i.e. Today (7/12/21) was the lowest volume (1,572,297 shares) since last July. Volume is the enemy of the shorts, and keeping volume down helps keep the price down, and gives the SHF's and Kenny G "one more day' of solvency. After volume spiked above 100 million shares in Jan and Feb, GME volume has fallen substantially, only passing 20 mil shares twice since May!
 
  
 
-[GME Chart since 1\/4\/21 - OBV flatlined higher, while volume remains at levels for ants](https://preview.redd.it/4i69cz7dvta71.png?width=1245&format=png&auto=webp&s=8d106d97f7a88f4422a539c53743337faadf6686)
+![GME Chart since 1\/4\/21 - OBV flatlined higher, while volume remains at levels for ants](https://preview.redd.it/4i69cz7dvta71.png?width=1245&format=png&auto=webp&s=8d106d97f7a88f4422a539c53743337faadf6686)
 
 Now, this fall off in volume since the Jan "sneeze" higher could be completely natural and explained by theories such as "everyone that wants to buy GME has, they are all in, and the 💎🖐 are being shown by low volume that 🦍 aren't selling." For me personally, I don't fit into this narrative as I've quadrupled my holdings and recently added a comma to my X's, but I'm a small fish in a vast ocean. I do not think I'm alone, and I think the statement above is not accurate. My 🧠 is pretty smooth though, and I have been struggling to wrap my head around where the volume has gone, especially after the wrinkles of u/dlauer have cleared up many things regarding dark pools through posts like [THIS](https://www.reddit.com/r/Superstonk/comments/o70lid/dark_pools_price_discovery_and_short/) \- so I started digging, found a rabbit hole, and still in the process of finding out how deep it goes.
 

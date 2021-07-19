@@ -1,5 +1,6 @@
-# Author: Sgt-GiggleFarts
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/](https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/)
+#Title: The Importance of 0.786 Retracement During Volatile Times
+#Author: Sgt-GiggleFarts
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/](https://www.reddit.com/r/Superstonk/comments/oft832/the_importance_of_0786_retracement_during/)
 
 
 TL;DR:
@@ -18,7 +19,7 @@ When a security is volatile, we have a different set of indicators we look for t
 
 &#x200B;
 
-[Gaps in Price movement indicate high volatility, meaning we need to look for the 78.6&#37; retracement before the trend reversal.](https://preview.redd.it/5y1x7lbs3v971.jpg?width=2551&format=pjpg&auto=webp&s=cf6148569482a39f520c106810a29c77b5848786)
+![Gaps in Price movement indicate high volatility, meaning we need to look for the 78.6&#37; retracement before the trend reversal.](https://preview.redd.it/5y1x7lbs3v971.jpg?width=2551&format=pjpg&auto=webp&s=cf6148569482a39f520c106810a29c77b5848786)
 
 Fib ratios and GME:
 
@@ -26,10 +27,10 @@ Now, many people will argue that TA has no place in our world of GME do to the h
 
 &#x200B;
 
-[Notice how we finished a gap fill after the 61.8&#37; retracement. Also, the initial 0.786 level of the Fib extension was retested twice.](https://preview.redd.it/ga18mjwm4v971.jpg?width=2551&format=pjpg&auto=webp&s=b879fcf0c658120af81bbc4e7cf0d23d261997c9)
+![Notice how we finished a gap fill after the 61.8&#37; retracement. Also, the initial 0.786 level of the Fib extension was retested twice.](https://preview.redd.it/ga18mjwm4v971.jpg?width=2551&format=pjpg&auto=webp&s=b879fcf0c658120af81bbc4e7cf0d23d261997c9)
 
 **What does this mean?**
 
 This, my friends, my family, and my fellow gorillas, is where I must admit I have no idea. All I can say is this 78.6% retracement is BULLISH AF, and to Buy and Hodl. I am a smooth brain who is not an expert or financial advisor lol
 
-Edit: new ![post](https://www.reddit.com/r/Superstonk/comments/ogdgjd/todays_price_action_so_far_fib_ratios/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  today
+Edit: new [post](https://www.reddit.com/r/Superstonk/comments/ogdgjd/todays_price_action_so_far_fib_ratios/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)  today

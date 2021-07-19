@@ -1,12 +1,15 @@
-# Author: Munoz10594
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/)
+#Title: JP Morgan & Why todays earnings release was good for GME
+#Author: Munoz10594
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/](https://www.reddit.com/r/Superstonk/comments/ojrn47/jp_morgan_why_todays_earnings_release_was_good/)
 
 
 Alright guys. We had our first day of earnings season, and while the banks posted big earnings there's reason for pessimism moving into the 2nd half of the year.  I'll be focusing on the corporate investment bank portion of the earnings in this post. This is my best attempt at foreshadowing what's to come based on how their investments performed and what we could expect from other banks based on JP Morgan Chase Corporate &amp;amp; Investment Banks earnings report. I am not perfect and this could be completely wrong, but I'm confident in my analysis and open to criticism. If this was posted earlier I apologize. Just got off work and had some time to sift through the earnings and thought this was important.
 
 EDIT: Link to my post on Goldman Sachs...  [(59) Goldman Sachs &amp;amp; Why todays earning release was good for GME : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/ojuvh1/goldman_sachs_why_todays_earning_release_was_good/) 
 
-**TL;DR: JP Morgan Chase Investment Bank posted a net revenue loss of nearly $1 billion in whats been a bullish market. Real revenue slumps couldve been much larger if not offset by other factors. Moreover, They are compressing margins and thus warned hedge funds of margin calls/liquidations. They also pulled out of the Depository Trust Company (DTC) for their Municipal Bond Dealer, possibly due to a 44% net revenue decrease. In other words, the house of cards is crumbling and we've been watching it this entire time and we called it. Enter cheat-code: SHOW ME THE MONEY**
+Edit2: Link to post on Bank Of America: https://www.reddit.com/r/Superstonk/comments/okjs13/bank_of_america_why_todays_earning_release_was/
+
+**TL;DR: JP Morgan Chase Investment Bank posted a net revenue slump of nearly $1 billion in whats been a bullish market. Real revenue slumps couldve been much larger if not offset by other factors. Moreover, They are compressing margins and thus warned hedge funds of margin calls/liquidations. They also pulled out of the Depository Trust Company (DTC) for their Municipal Bond Dealer, possibly due to a 44% net revenue decrease. In other words, the house of cards is crumbling and we've been watching it this entire time and we called it. Enter cheat-code: SHOW ME THE MONEY**
 
 JP Morgan Chase Investment Bank posted a net revenue decrease of 9% in Q2 2021 with net revenue of $13 Billion. Q1 saw a net revenue of $5.74 Billion and Q2 was $4.99 Billion.
 
@@ -33,4 +36,4 @@ Sources:
 1. [(43) JP MORGAN WARNS HEDGE FUNDS TO EXPECT MARGIN CALLS🚀🚀🚀🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/ojdfqi/jp_morgan_warns_hedge_funds_to_expect_margin_calls/)
 2. [JP Morgan warns hedge funds to expect intraday margin calls - Risk.net](https://www.risk.net/investing/7853221/jp-morgan-warns-hedge-funds-to-expect-intraday-margin-calls)
 3. [To: (dtcc.com)](https://www.dtcc.com/-/media/Files/pdf/2021/7/13/15625-21.pdf)
-4. ![2Q21 Earnings Press Release (jpmorganchase.com)](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2021/2nd-quarter/e5628b2a-f923-4c04-8008-58236a2f7999.pdf)
+4. [2Q21 Earnings Press Release (jpmorganchase.com)](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2021/2nd-quarter/e5628b2a-f923-4c04-8008-58236a2f7999.pdf)

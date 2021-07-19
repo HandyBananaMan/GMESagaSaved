@@ -1,5 +1,6 @@
-# Author: TheCaptainCog
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
+#Title: [Final Update] Superstonk users ALONE hold between 27 million and 35 million shares. No, really.
+#Author: TheCaptainCog
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/](https://www.reddit.com/r/Superstonk/comments/mzuodo/final_update_superstonk_users_alone_hold_between/)
 
 
 **TL:DR; after doing two polls and comparing to another user's results, I estimate superstonk users own between 27 million and 35 million shares of GME.**

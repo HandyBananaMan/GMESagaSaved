@@ -1,5 +1,6 @@
-# Author: brenjerman
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhkgpb/fact_checking_senate_bank_committee_article/](https://www.reddit.com/r/Superstonk/comments/nhkgpb/fact_checking_senate_bank_committee_article/)
+#Title: Fact Checking Senate Bank Committee Article Claims - How rare is it for big bank CEOs to get together before the senate committee? 🚀🦧
+#Author: brenjerman
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhkgpb/fact_checking_senate_bank_committee_article/](https://www.reddit.com/r/Superstonk/comments/nhkgpb/fact_checking_senate_bank_committee_article/)
 
 
 # Fact Checks

@@ -1,5 +1,6 @@
-# Author: Ladakhi_khaki
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/](https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/)
+#Title: Mother Of All Sheep Studies Update: Lambs to the slaughter!
+#Author: Ladakhi_khaki
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/](https://www.reddit.com/r/Superstonk/comments/o0cbli/mother_of_all_sheep_studies_update_lambs_to_the/)
 
 
 **Good Morning (Bore da) from Wales!**
@@ -20,7 +21,7 @@ I kept a passing interest in the GME ticker whilst away but I've long since lear
 
 **It's almost time for the spring lambs to be sent to market** \- as such they are quite literally 'lambs to the slaughter' and when that day comes it will be a bullish signal of MOASS, since GME has a negative beta correlation to OLV (Operating Lamb volume). A reminder that negative beta tells us what has happened, not what will happen - so no mint sauce until market day.
 
-[Expect after hours movements once straw dumping ceases](https://preview.redd.it/b9oygveh2f571.png?width=1024&format=png&auto=webp&s=0b5f6e4a567d0634e0a04709d5b9b0d86388ebaf)
+![Expect after hours movements once straw dumping ceases](https://preview.redd.it/b9oygveh2f571.png?width=1024&format=png&auto=webp&s=0b5f6e4a567d0634e0a04709d5b9b0d86388ebaf)
 
 **Short Grass has not been covered -** We've enjoyed a spell of hot weather and that has exposed farmer Gryff Gryffyn's less than cunning plan to hide the short grass OTM (On the moor). Said moorland is becoming parched and the shorter grass is rapidly becoming ungrazebale , to such an extent that it may not even be mowed, or 'trimmed' on the usual T-21 cycle. Sheep are thus grazing on longer grass and farmer Gryffyn can be seen frantically laying synthetic turf on the more exposed areas of the field. **Desperate Stuff, and Bullish.**
 
@@ -28,11 +29,11 @@ I kept a passing interest in the GME ticker whilst away but I've long since lear
 
 ***This has had two effects:*** Firstly the straw suppresses the long grass around the feeders as the sheep converge to feed on it. Secondly, the straw leads to sideways grazing, as sheep move from their usually more volatile behaviours to a carefully orchestrated rotation between straw feeder and traditional grazing.
 
-[Bullish manoeuvres  - caption left should read 'flimsy field wall'](https://preview.redd.it/vmokutms3f571.png?width=4000&format=png&auto=webp&s=03ffdd4e3f4eb77301dc15f59658643ea889b209)
+![Bullish manoeuvres  - caption left should read 'flimsy field wall'](https://preview.redd.it/vmokutms3f571.png?width=4000&format=png&auto=webp&s=03ffdd4e3f4eb77301dc15f59658643ea889b209)
 
 **Edit 1:** I've been asked to share my analysis of the impact of RC Float Tweet on 25 May, so I've included that below. If any quant apes want to go deeper, I'll send you the files.
 
-[Self Explanatory](https://preview.redd.it/ncd26qq05f571.png?width=2048&format=png&auto=webp&s=7501bb03af0e74c55eef707a14e69200ad744dd4)
+![Self Explanatory](https://preview.redd.it/ncd26qq05f571.png?width=2048&format=png&auto=webp&s=7501bb03af0e74c55eef707a14e69200ad744dd4)
 
 **TLDR:**
 

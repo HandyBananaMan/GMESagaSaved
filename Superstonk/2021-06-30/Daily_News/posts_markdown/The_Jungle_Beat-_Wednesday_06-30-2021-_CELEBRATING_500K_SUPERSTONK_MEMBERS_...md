@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/](https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/)
+#Title: The Jungle Beat- Wednesday 06-30-2021- CELEBRATING 500K SUPERSTONK MEMBERS WITH FLAIRS!! 🥳🎊🚀🚀🚀
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/](https://www.reddit.com/r/Superstonk/comments/ob5ndf/the_jungle_beat_wednesday_06302021_celebrating/)
 
 
 &#x200B;
@@ -78,7 +79,7 @@ https://preview.redd.it/tw7o24lbkg871.png?width=696&format=png&auto=webp&s=95bc8
 
 https://preview.redd.it/n5tpd23dkg871.png?width=594&format=png&auto=webp&s=8bd263e4a0e604fcbbfa385b61f5d96b66bc7118
 
-[dat us](https://preview.redd.it/ys6paakkkg871.png?width=1200&format=png&auto=webp&s=b2b214124942fe7bc59f8530884eb31c44d78166)
+![dat us](https://preview.redd.it/ys6paakkkg871.png?width=1200&format=png&auto=webp&s=b2b214124942fe7bc59f8530884eb31c44d78166)
 
 &#x200B;
 
@@ -98,7 +99,7 @@ https://preview.redd.it/lvcz75kc7g871.png?width=960&format=png&auto=webp&s=63c43
 
 &#x200B;
 
-[Sooooo close to unlocking the Trillion Achievement! credit u\/canispeaktoyourmangr ](https://preview.redd.it/stbeqw227g871.png?width=960&format=png&auto=webp&s=d355547b553667acf8bfcbeb55452433d2327e03)
+![Sooooo close to unlocking the Trillion Achievement! credit u\/canispeaktoyourmangr ](https://preview.redd.it/stbeqw227g871.png?width=960&format=png&auto=webp&s=d355547b553667acf8bfcbeb55452433d2327e03)
 
 &#x200B;
 
@@ -128,7 +129,7 @@ Super dope read and we appreciate the work of wrinkly apes like J to educate us 
 
 &#x200B;
 
-[credit u\/LLMOONJ ](https://preview.redd.it/6xtfgyjl0g871.png?width=640&format=png&auto=webp&s=2fa73247535c33927aaf2116518897058987d73a)
+![credit u\/LLMOONJ ](https://preview.redd.it/6xtfgyjl0g871.png?width=640&format=png&auto=webp&s=2fa73247535c33927aaf2116518897058987d73a)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -194,7 +195,7 @@ Please remember apes, as you are interacting with Gamestop Social Media, that th
 
 **IF THERE IS SOMETHING BIG GOING ON WHILE THE OUTAGE IS HAPPENING WE MAY ALSO UTILIZE THE "EMERGENCY BROADCAST SYSTEM" TO RELAY INFO:**
 
-![SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
+[SuperstonkLive YouTube - Emergency Broadcast System](https://www.youtube.com/channel/UCI4EET9NJPWxUuXGlG6fxPA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

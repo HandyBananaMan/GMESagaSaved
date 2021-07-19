@@ -1,5 +1,6 @@
-# Author: TheRadishBros
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/](https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/)
+#Title: "tip of the Glacier", a weird phrase in a DD that has received renewed attention
+#Author: TheRadishBros
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/](https://www.reddit.com/r/Superstonk/comments/oau233/tip_of_the_glacier_a_weird_phrase_in_a_dd_that/)
 
 
 A recent [possible DD] (https://www.reddit.com/r/Superstonk/comments/oapj59/blackrock_addition_to_the_russell_prospectus_cant/) has been doing the rounds recently, resurrecting interest in a curious series of three DD posts, created by an Anonymous user who claims to have just a few months experience, but a penchant for puzzle-solving. However, if you read his insights (and I encourage you to do so), I think it's very likely that this user has some connection to the industry; his clear explanation of shady and complex processes could only be created by somebody with an in-depth understanding of the topics he's discussing. Add that to the sudden disappearance of the user, and the potentially linked revelations to the "Game on Anon" phrase, as identified by /u/3for100Specials, in this post ( https://www.reddit.com/r/Superstonk/comments/nxlw8v/a_dd_drop_from_last_weekend_which_predicted_and/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf ) it all sounds curious, to say the least. 
@@ -11,7 +12,7 @@ In Part 1 and Part 2 of the three-part DD, /u/leavemeanon uses the phrase "tip o
 
 1) The commonly used phrase is "tip of the iceberg": On a quick search, I cannot find the "glacier" variant to be an accepted alteration ANYWHERE. I mean, it's close enough to iceberg that we can understand what he's trying to say, but isn't it strange that he's effectively created a new phrase in a post that otherwise doesn't appear to contain unusual/cryptic styles of writing (in fact, the OP has gone out of his way to explain everything in a very clear way). 
 
-2) He uses the phrase TWICE -- the second time in **bold**: please refer to the screenshots of [DD number 1](http://prntscr.com/17mqf58) and ![DD number 2](http://prntscr.com/17mqnmt). He doubles-down on his unusual phrase, almost purposely bringing attention to it in Part 2.
+2) He uses the phrase TWICE -- the second time in **bold**: please refer to the screenshots of [DD number 1](http://prntscr.com/17mqf58) and [DD number 2](http://prntscr.com/17mqnmt). He doubles-down on his unusual phrase, almost purposely bringing attention to it in Part 2.
 
 3) The "Glacier" is a capital letter: OP would have made a conscious decision to not only use the Glacier variant of the phrase (that may not even exist), but also spell the out-of-place phrase with a capital letter. To me, this is the clearest evidence that /u/leavemeanon is making some kind of reference to another event that popped up on this sub a few months ago (and apes who have been here a while already know exactly what I'm referring to at this point).
 

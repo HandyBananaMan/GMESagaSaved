@@ -1,5 +1,6 @@
-# Author: JustBeingPunny
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvpk4t/reminder_today_is_important_because_its_the/](https://www.reddit.com/r/Superstonk/comments/nvpk4t/reminder_today_is_important_because_its_the/)
+#Title: REMINDER - Today is important because it's the shareholder's meeting/earnings. It was NEVER a prediction for the MOASS.
+#Author: JustBeingPunny
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvpk4t/reminder_today_is_important_because_its_the/](https://www.reddit.com/r/Superstonk/comments/nvpk4t/reminder_today_is_important_because_its_the/)
 
 
 This is a reminder that the significance of this date was never to believe that today's shareholders meeting would spark the MOASS immediately. Nor expect the price to sky rocket straight away.

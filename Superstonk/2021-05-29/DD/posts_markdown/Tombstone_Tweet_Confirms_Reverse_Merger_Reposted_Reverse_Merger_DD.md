@@ -1,10 +1,11 @@
-# Author: Alert_Piano341
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/](https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/)
+#Title: Tombstone Tweet Confirms Reverse Merger? Reposted Reverse Merger DD
+#Author: Alert_Piano341
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/](https://www.reddit.com/r/Superstonk/comments/nnmb4c/tombstone_tweet_confirms_reverse_merger_reposted/)
 
 
 &#x200B;
 
-[RC TOMBSTONE TWEET](https://preview.redd.it/a5aarkz9v1271.png?width=400&format=png&auto=webp&s=b066fbf4ef1a4432597d4f7b16cc8a76c66fcadb)
+![RC TOMBSTONE TWEET](https://preview.redd.it/a5aarkz9v1271.png?width=400&format=png&auto=webp&s=b066fbf4ef1a4432597d4f7b16cc8a76c66fcadb)
 
 "A tombstone is a written advertisement that gives investors basic details about an upcoming public offering."
 
@@ -16,7 +17,7 @@ Reposting Merger DD
 
 &#x200B;
 
-[Reverse Merger](https://preview.redd.it/e3snbmofv1271.png?width=1264&format=png&auto=webp&s=919faa2369537a443fc935d3c012f6a33d6c1d78)
+![Reverse Merger](https://preview.redd.it/e3snbmofv1271.png?width=1264&format=png&auto=webp&s=919faa2369537a443fc935d3c012f6a33d6c1d78)
 
 &#x200B;
 
@@ -68,7 +69,7 @@ Remember Citadel Securities is the DMM for GME right now if they change their cu
 
 &#x200B;
 
-[SHortsplan was never to cover](https://preview.redd.it/wf27b5zmv1271.png?width=1027&format=png&auto=webp&s=7d5deba3ced045bc5fc1f253eff80fcbded6c947)
+![SHortsplan was never to cover](https://preview.redd.it/wf27b5zmv1271.png?width=1027&format=png&auto=webp&s=7d5deba3ced045bc5fc1f253eff80fcbded6c947)
 
 I have been writing a DD where I believe that Citadel and SUS has been stashing their Naked options sales or Naked short sales in [Sold not yet purchased liabilities](https://www.reddit.com/r/DDintoGME/comments/n6mj3h/knight_capital_groupthe_precursor_to_citadel_part/) which are Ballooning.  Citadel has no clothes describes the naked shorting done by Citadel securities the best.
 
@@ -96,7 +97,7 @@ Do you like apples?
 
 &#x200B;
 
-[RC ownes 6.2 Million Shares of APPLE](https://preview.redd.it/e8odbhlsv1271.png?width=853&format=png&auto=webp&s=06a3cc0a60e8194e09a9447b0ded0a4341407c5e)
+![RC ownes 6.2 Million Shares of APPLE](https://preview.redd.it/e8odbhlsv1271.png?width=853&format=png&auto=webp&s=06a3cc0a60e8194e09a9447b0ded0a4341407c5e)
 
 **Tinfoil Hat time-**
 
@@ -132,11 +133,11 @@ he points out in the letter Game stop is failing and squandering a Golden opport
 
 &#x200B;
 
-[He knows they were short](https://preview.redd.it/scab9wkzv1271.png?width=660&format=png&auto=webp&s=b9f725728fae915bb9d29290f488615df253e175)
+![He knows they were short](https://preview.redd.it/scab9wkzv1271.png?width=660&format=png&auto=webp&s=b9f725728fae915bb9d29290f488615df253e175)
 
 &#x200B;
 
-[Would not be bought off with board seets](https://preview.redd.it/qmplk5s0w1271.png?width=721&format=png&auto=webp&s=e4d30c5d9af4543323226b880565cd030b227e99)
+![Would not be bought off with board seets](https://preview.redd.it/qmplk5s0w1271.png?width=721&format=png&auto=webp&s=e4d30c5d9af4543323226b880565cd030b227e99)
 
 \- On 12-21-2020 RC aquires more [GME](https://sec.report/Document/0001193805-20-001571/) he now owns 12.9%, [DFV](https://twitter.com/TheRoaringKitty/status/1341074590534152192) eagle eyes it a notes Ryan switched attorneys, thanks DFV you look at everything
 
@@ -156,7 +157,7 @@ Standstill period for stock ownership, and it changes the definition of an inter
 
 &#x200B;
 
-[He is approved to buy 20&#37; of the stock to date...but has not](https://preview.redd.it/o06xtk8bw1271.png?width=1643&format=png&auto=webp&s=12d6681ed5eed7e199bd3aba19cd9e3e24e2f683)
+![He is approved to buy 20&#37; of the stock to date...but has not](https://preview.redd.it/o06xtk8bw1271.png?width=1643&format=png&auto=webp&s=12d6681ed5eed7e199bd3aba19cd9e3e24e2f683)
 
 \-James Bell Resigns 2/23
 
@@ -170,7 +171,7 @@ Standstill period for stock ownership, and it changes the definition of an inter
 
 &#x200B;
 
-[He can now do the merger](https://preview.redd.it/7b1quvhiw1271.png?width=1547&format=png&auto=webp&s=c343b164761359be5620c78033880031bcee9252)
+![He can now do the merger](https://preview.redd.it/7b1quvhiw1271.png?width=1547&format=png&auto=webp&s=c343b164761359be5620c78033880031bcee9252)
 
 GME 4/19/21- Announces CEO succession plan ( I don't think it matters if its Ryan or not, Ryan is steering the ship another person would just bring in added brain power and experience)
 
@@ -192,4 +193,4 @@ Ryan Cohen buys in August, wrights a letter in November and in less than 6 month
 
 Orginal Post on reverse merger( POsted 3 weeks ago)
 
-![https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan\_cohens\_kill\_shotthe\_reverse\_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)
+[https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan\_cohens\_kill\_shotthe\_reverse\_merger/](https://www.reddit.com/r/Superstonk/comments/n7bv2h/ryan_cohens_kill_shotthe_reverse_merger/)

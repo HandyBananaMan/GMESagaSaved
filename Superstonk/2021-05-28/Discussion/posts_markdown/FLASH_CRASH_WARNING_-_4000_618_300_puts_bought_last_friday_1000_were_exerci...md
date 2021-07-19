@@ -1,5 +1,6 @@
-# Author: trust-theprocess
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/)
+#Title: FLASH CRASH WARNING - 4000 6/18 300 puts bought last friday, 1000 were exercised on monday to cause the end of day mini-crash
+#Author: trust-theprocess
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/](https://www.reddit.com/r/Superstonk/comments/nmxze3/flash_crash_warning_4000_618_300_puts_bought_last/)
 
 
 As the DD has shown they use ITM puts as an expensive last resort to drop the price. Those 4000 puts cost over 51 million.
@@ -18,7 +19,7 @@ Want to address this:
  
 **How do ITM puts drop the price?**
 
-I see a lot of people asking this, I read it in ![this DD](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/), basically all options put pressure on the price, calls = upward pressure (see January gamma squeeze), and puts = downward.
+I see a lot of people asking this, I read it in [this DD](https://www.reddit.com/r/Superstonk/comments/nc1lny/ive_estimated_the_current_si_based_on_the_si/), basically all options put pressure on the price, calls = upward pressure (see January gamma squeeze), and puts = downward.
 
 How does it go down if the strike they're exercising is higher than the stock is trading and someone has to buy it from you at 300? The same way it goes up when ITM calls are exercised at a lower strike than the current price and someone has to sell it to you at 200. What are the mechanics that make it work that way? I have no idea, I'm as retarded as the next ape
 

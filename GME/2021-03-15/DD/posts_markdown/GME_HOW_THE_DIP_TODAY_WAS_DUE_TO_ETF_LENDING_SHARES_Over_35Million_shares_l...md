@@ -1,5 +1,6 @@
-# Author: CoastalHotDog835
-# Post URL: [https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/](https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/)
+#Title: $GME: HOW THE DIP TODAY WAS DUE TO ETF LENDING SHARES (Over 3.5Million shares lent out) DD
+#Author: CoastalHotDog835
+#Post URL: [https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/](https://www.reddit.com/r/GME/comments/m5z3q8/gme_how_the_dip_today_was_due_to_etf_lending/)
 
 
 *Welcome back and it feels good to be writing up posts again. I was asked to write up the recent relation between ETF's and the GME dip's we've been witnessing in the last several trading days.* ***I have included a TLDR for the crayon eating apes with an attention span of a 2-month-old dog.*** 
@@ -27,7 +28,7 @@ Now I'm not claiming today's red day was entirely due to etf's being shorted or 
 
 &#x200B;
 
-[Notice how the assets in XRT plummet suddenly after the first short squeeze? ](https://preview.redd.it/17et6f62ran61.png?width=688&format=png&auto=webp&s=1fcb89c0022cbfab1688cf686fd4469a5a6c3e4a)
+![Notice how the assets in XRT plummet suddenly after the first short squeeze? ](https://preview.redd.it/17et6f62ran61.png?width=688&format=png&auto=webp&s=1fcb89c0022cbfab1688cf686fd4469a5a6c3e4a)
 
  *By law, a fund can have no more than one-third of its total assets in securities on loan. Few ETFs or other funds ever reach that ceiling, and ETFs are considered to be more conservative lenders than other funds. Market makers are continually creating new ETF shares (by presenting the fund with a basket of securities represented in the ETF) and redeeming others (and getting the underlying securities in return), so the number of ETF shares outstanding fluctuates. Because the supply isn't fixed, there really is no impact on performance when an ETF is net short, industry participants say. The prices of ETF shares typically stay very close to the value of the underlying holdings.*
 
@@ -37,15 +38,15 @@ Credit to u/hkzor for providing these images:
 
 &#x200B;
 
-[ETF IWM: 6.5M available last week to 4M today](https://preview.redd.it/ymtslyf6san61.png?width=347&format=png&auto=webp&s=227a69cf7afd19a820a61d91d266da219438f15b)
+![ETF IWM: 6.5M available last week to 4M today](https://preview.redd.it/ymtslyf6san61.png?width=347&format=png&auto=webp&s=227a69cf7afd19a820a61d91d266da219438f15b)
 
 &#x200B;
 
-[ETF XRT: 1.3M available last week to 850k today](https://preview.redd.it/jf6hojkcsan61.png?width=388&format=png&auto=webp&s=8356b1c474fb8ea77e775db15cc61fe6f8ef2bfb)
+![ETF XRT: 1.3M available last week to 850k today](https://preview.redd.it/jf6hojkcsan61.png?width=388&format=png&auto=webp&s=8356b1c474fb8ea77e775db15cc61fe6f8ef2bfb)
 
 &#x200B;
 
-[ETF IJR: 900k last week to 500k today](https://preview.redd.it/y3cncrbksan61.png?width=434&format=png&auto=webp&s=689e63b472520b3f8b172169e0ca3fe2755c96ca)
+![ETF IJR: 900k last week to 500k today](https://preview.redd.it/y3cncrbksan61.png?width=434&format=png&auto=webp&s=689e63b472520b3f8b172169e0ca3fe2755c96ca)
 
 Just taking into account **Three** ETF lendings, **you could see 3.35 Million shares were borrowed in today's trading session.**
 
@@ -65,7 +66,7 @@ ETF's are a growing force in financial markets and constitute almost 25% of US e
 
 &#x200B;
 
-[The daily volume of FTD traded in the past](https://preview.redd.it/3qfkenw8van61.png?width=588&format=png&auto=webp&s=9ba254a6863de1bd6cb04602450b91c889de66cc)
+![The daily volume of FTD traded in the past](https://preview.redd.it/3qfkenw8van61.png?width=588&format=png&auto=webp&s=9ba254a6863de1bd6cb04602450b91c889de66cc)
 
 &#x200B;
 

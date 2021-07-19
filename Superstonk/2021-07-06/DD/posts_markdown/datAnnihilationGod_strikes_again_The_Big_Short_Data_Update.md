@@ -1,11 +1,12 @@
-# Author: AnnihilationGod
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/](https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/)
+#Title: datAnnihilationGod strikes again: The Big Short Data Update
+#Author: AnnihilationGod
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/](https://www.reddit.com/r/Superstonk/comments/oett6i/datannihilationgod_strikes_again_the_big_short/)
 
 
 \- - - GME Master Sheet Beta Version added (end of post)  - - - 8. July 2021  
 
 
-[Difference between old and new version.](https://preview.redd.it/atmcrl4wxy971.png?width=1448&format=png&auto=webp&s=94d7edbb9af0cfa57ec8f43949d2bf36636d70b8)
+![Difference between old and new version.](https://preview.redd.it/atmcrl4wxy971.png?width=1448&format=png&auto=webp&s=94d7edbb9af0cfa57ec8f43949d2bf36636d70b8)
 
   
 
@@ -21,7 +22,7 @@ After some more reserach and many hours of downloading, searching and structurin
 
 &#x200B;
 
-[Me finding more data, realising its not over yet.](https://preview.redd.it/kw2oaftjvk971.png?width=930&format=png&auto=webp&s=3f1f1fc7f2d688c22bbc4ae51eb0d8afebcd467b)
+![Me finding more data, realising its not over yet.](https://preview.redd.it/kw2oaftjvk971.png?width=930&format=png&auto=webp&s=3f1f1fc7f2d688c22bbc4ae51eb0d8afebcd467b)
 
 **So, what is new about the data, or - what can be found in the new data set**
 
@@ -103,7 +104,7 @@ Download from Google Drive: [https://drive.google.com/file/d/15MejWGU68dGMIc7tRl
 
 VirusTotal.com Scan: [https://www.virustotal.com/gui/file/d29d7fadd705abf926ba221ed5b25a9ca655fc9b87570e02866abdca12e7628a/detection](https://www.virustotal.com/gui/file/d29d7fadd705abf926ba221ed5b25a9ca655fc9b87570e02866abdca12e7628a/detection)
 
-[Me waiting for the uploads to complete that the data can finally go public - but I just got a countryside internet connection.....](https://preview.redd.it/ayydtdd4vk971.png?width=720&format=png&auto=webp&s=6cb5643467f1ff2b80b48917fe358f61d115e70e)
+![Me waiting for the uploads to complete that the data can finally go public - but I just got a countryside internet connection.....](https://preview.redd.it/ayydtdd4vk971.png?width=720&format=png&auto=webp&s=6cb5643467f1ff2b80b48917fe358f61d115e70e)
 
 Concerns I have regarding the data set:Perhaps some of you already observed that some market codes (Last Column in every file) are the same - but the reported numbers are not.This raises the question, if all data has to be used or if some files could contain other market information without tell us about this fact.
 
@@ -121,7 +122,7 @@ Look at the bottom of the thread.
 
 &#x200B;
 
-[But perhaps you keep in mind that out there are a lot charities doing great work you can support.](https://preview.redd.it/77o5w0uzuk971.png?width=1081&format=png&auto=webp&s=4670b6913941eedbb4447c4baf01303f2831e956)
+![But perhaps you keep in mind that out there are a lot charities doing great work you can support.](https://preview.redd.it/77o5w0uzuk971.png?width=1081&format=png&auto=webp&s=4670b6913941eedbb4447c4baf01303f2831e956)
 
 So thats it.If you got any questions, reach out to me!
 
@@ -135,7 +136,7 @@ Your
 
 &#x200B;
 
-[datAnnihilationGod](https://preview.redd.it/pwuaj1fzyk971.jpg?width=1920&format=pjpg&auto=webp&s=68f945a74e2b708d88552bb8a13e1befd23ddf2c)
+![datAnnihilationGod](https://preview.redd.it/pwuaj1fzyk971.jpg?width=1920&format=pjpg&auto=webp&s=68f945a74e2b708d88552bb8a13e1befd23ddf2c)
 
 PS: My daily Short Volume Ratio Update for GME can be found on twitter: Annihil4tionGod  
 
@@ -148,4 +149,4 @@ ADD: 8. July 2021
 [**https://easyupload.io/k9nxhz**](https://t.co/elO4P3HPe7?amp=1)   
 
 
-**Virus Total Scan:** ![**https://virustotal.com/gui/file/11bce3f31f8fe8ba982f6e6cc01b3ec140ad03156675169f6d47309a56ca549d/detection**](https://t.co/uHqX9WEcbb?amp=1) 
+**Virus Total Scan:** [**https://virustotal.com/gui/file/11bce3f31f8fe8ba982f6e6cc01b3ec140ad03156675169f6d47309a56ca549d/detection**](https://t.co/uHqX9WEcbb?amp=1) 

@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/](https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/)
+#Title: Today was intentionally a flat day to make short sellers bleed their reserve stock giving them less ammo during the gamma squeeze. Strap in for tomorrow / Monday! 🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/](https://www.reddit.com/r/GME/comments/m316k5/today_was_intentionally_a_flat_day_to_make_short/)
 
 
 [Click here for my post about Friday!](https://www.reddit.com/r/GME/comments/m3yeh7/day_2_of_battleground_gme_after_the_mornings/?utm_source=share&utm_medium=web2x&context=3)
@@ -74,13 +75,13 @@ https://preview.redd.it/hz8wkoyxqgm61.png?width=3189&format=png&auto=webp&s=57af
 
 &#x200B;
 
-[Stop it! That tickles!](https://preview.redd.it/g3ir2tvougm61.png?width=1024&format=png&auto=webp&s=195895bc082684b076e1cdc739a1e6f73007f9c2)
+![Stop it! That tickles!](https://preview.redd.it/g3ir2tvougm61.png?width=1024&format=png&auto=webp&s=195895bc082684b076e1cdc739a1e6f73007f9c2)
 
 **---------- Update: What a flat price does for 0DTE (zero days to expire) options**
 
 Thanks u/zirdc for sending me the tweet below that talks a about how keeping the price flat is important to have full access to Friday's options!
 
-![https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20](https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20)
+[https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20](https://twitter.com/KjetillStjerne/status/1370230554445156354?s=20)
 
 https://preview.redd.it/iq2zg6i82mm61.png?width=592&format=png&auto=webp&s=b9fa2cb526f30e565c895d11af401fc68958415c
 

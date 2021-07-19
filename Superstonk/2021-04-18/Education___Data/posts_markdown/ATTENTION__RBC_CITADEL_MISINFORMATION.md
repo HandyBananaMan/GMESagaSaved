@@ -1,5 +1,6 @@
-# Author: Rugby97
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/](https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/)
+#Title: ATTENTION 🐵: RBC, CITADEL, MISINFORMATION
+#Author: Rugby97
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/](https://www.reddit.com/r/Superstonk/comments/mt8syk/attention_rbc_citadel_misinformation/)
 
 
 Edit1: This has gotten more traction than I anticipated. Thanks for all the awards, I do this for the sub so that everybody can stay in line and not get carried away. I plan on doing an occasional "DD POLICE" Episode going forward, where I'll recap and face fuck any dd I can prove wrong or support ones I can further verify. Feel free to inbox me things you're sus about or want confirmed.
@@ -24,7 +25,7 @@ Sup you stupid cucks
 
 &#x200B;
 
-[It's TIME TO STOP with misinformation & date expectations](https://preview.redd.it/x8n3l0b2pyt61.png?width=1920&format=png&auto=webp&s=96c4773149cb216db53f699a6f7e37f833c11fce)
+![It's TIME TO STOP with misinformation & date expectations](https://preview.redd.it/x8n3l0b2pyt61.png?width=1920&format=png&auto=webp&s=96c4773149cb216db53f699a6f7e37f833c11fce)
 
 Yet again I've been summoned from my shitty fucking sleep schedule to save you from some more misinfo.
 
@@ -45,7 +46,7 @@ Going to make this very fucking clear for those in the back or that are too lazy
 
 &#x200B;
 
-[At roughly 1800 EDT we say $RY trade 896 shares @ $33.75 \(total value: \~$30k\)](https://preview.redd.it/q81oa7g5pyt61.png?width=660&format=png&auto=webp&s=1823830e886c4280f0e5bfe34971accc0cc67c49)
+![At roughly 1800 EDT we say $RY trade 896 shares @ $33.75 \(total value: \~$30k\)](https://preview.redd.it/q81oa7g5pyt61.png?width=660&format=png&auto=webp&s=1823830e886c4280f0e5bfe34971accc0cc67c49)
 
 "The Royal Bank of Canada has direct ties with Citadel, this is very easily verified, you can look it up yourself."^((0:40 in video))
 
@@ -69,11 +70,11 @@ Oh, btw, in the comments the poster referred to this article as evidence of Cita
 
 &#x200B;
 
-[chill the fuck out](https://preview.redd.it/jq7gi978pyt61.png?width=1275&format=png&auto=webp&s=93933c0e1fcf0932dfc48d4bdad48a1df3028d7c)
+![chill the fuck out](https://preview.redd.it/jq7gi978pyt61.png?width=1275&format=png&auto=webp&s=93933c0e1fcf0932dfc48d4bdad48a1df3028d7c)
 
 &#x200B;
 
-[disclaimer: he \(probably?\) didn't say this](https://preview.redd.it/jsvxrpn9pyt61.png?width=1280&format=png&auto=webp&s=51d42d56d8ed975a0c92fe66c7d1b0158fb039b5)
+![disclaimer: he \(probably?\) didn't say this](https://preview.redd.it/jsvxrpn9pyt61.png?width=1280&format=png&auto=webp&s=51d42d56d8ed975a0c92fe66c7d1b0158fb039b5)
 
 &#x200B;
 
@@ -105,15 +106,15 @@ So in real conclusions to the conclusions here, a random “Auto-Callable Contin
 
 &#x200B;
 
-[TLCR: Prospectus Filings are just a financial document to disclose or describe trades.](https://preview.redd.it/91k4caiysyt61.png?width=483&format=png&auto=webp&s=ed696ce9a98d4b99eff0333cf74ed738e696ccc3)
+![TLCR: Prospectus Filings are just a financial document to disclose or describe trades.](https://preview.redd.it/91k4caiysyt61.png?width=483&format=png&auto=webp&s=ed696ce9a98d4b99eff0333cf74ed738e696ccc3)
 
 &#x200B;
 
-[Taken from the RBC Prospectus Filing](https://preview.redd.it/rgg92ts6vyt61.png?width=698&format=png&auto=webp&s=8ea608c7becd330eef9e38a0c2eeede7615b7104)
+![Taken from the RBC Prospectus Filing](https://preview.redd.it/rgg92ts6vyt61.png?width=698&format=png&auto=webp&s=8ea608c7becd330eef9e38a0c2eeede7615b7104)
 
 &#x200B;
 
-[qwik mafs](https://preview.redd.it/qbbmes8ruyt61.png?width=653&format=png&auto=webp&s=cdf9137939bbbcc1fd8b08055f46e3713b9206bd)
+![qwik mafs](https://preview.redd.it/qbbmes8ruyt61.png?width=653&format=png&auto=webp&s=cdf9137939bbbcc1fd8b08055f46e3713b9206bd)
 
 Okay. So the numbers line up with my 3.0 explanation for apes. But what about Callable Fixed Rate Notes? Well, here's an explanation from RBC themselves:  [Callable Fixed Rate Notes](https://www.rbccm.com/assets/rbccm/docs/expertise/fixed-income/us/rbc-callable-fixed-rate-notes-fact-sheet.pdf) (TLCR: They are call options)
 
@@ -147,7 +148,7 @@ Expect another post from me within a few days tackling another bullshit lazy dd.
 
 &#x200B;
 
-[Sit back, relax. You waited xx years for this moment you can wait a few more days\/weeks\/months. Stop setting expectations for this Monday, or 4\/20 or ANY day. The longer this goes on the more shorts CuckFunds put out there and the harder we blow the fucking ozone into oblivion on our way to 🌙](https://preview.redd.it/be7ys9ibpyt61.png?width=1920&format=png&auto=webp&s=b07ba514283e279bb2fc1ccd2c23e05687ccf597)
+![Sit back, relax. You waited xx years for this moment you can wait a few more days\/weeks\/months. Stop setting expectations for this Monday, or 4\/20 or ANY day. The longer this goes on the more shorts CuckFunds put out there and the harder we blow the fucking ozone into oblivion on our way to 🌙](https://preview.redd.it/be7ys9ibpyt61.png?width=1920&format=png&auto=webp&s=b07ba514283e279bb2fc1ccd2c23e05687ccf597)
 
 &#x200B;
 
@@ -159,4 +160,4 @@ Have a great Sunday! -Rugby
 
 DATES=FUD [Blackrock & 4D Chess](https://www.reddit.com/r/Superstonk/comments/msez57/blackrock_4d_chess/)
 
-DD POLICE ep.1 ![SEC Rule 15c3-3](https://www.reddit.com/r/Superstonk/comments/mtl77t/dd_police_ep_1_sec_rule_15c33/)
+DD POLICE ep.1 [SEC Rule 15c3-3](https://www.reddit.com/r/Superstonk/comments/mtl77t/dd_police_ep_1_sec_rule_15c33/)

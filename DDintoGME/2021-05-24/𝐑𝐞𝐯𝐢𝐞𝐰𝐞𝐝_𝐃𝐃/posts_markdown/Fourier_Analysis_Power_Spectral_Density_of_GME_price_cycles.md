@@ -1,5 +1,6 @@
-# Author: positive_root
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/)
+#Title: Fourier Analysis: Power Spectral Density of GME price cycles
+#Author: positive_root
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/](https://www.reddit.com/r/DDintoGME/comments/njt2q9/fourier_analysis_power_spectral_density_of_gme/)
 
 
 Hey everybody, I've been lurking for a while, thought I might have something to contribute to the hivemind. I'm submitting this late at night California time cause it took me a while, it turned out to be very long. Anyway, good morning Euro friends! Can't wait to visit you all again someday!
@@ -12,7 +13,7 @@ Here's a meme to explain some of the deep secrets of statistical analysis:
 
 &#x200B;
 
-[Stats](https://preview.redd.it/ei0uzlf751171.jpg?width=590&format=pjpg&auto=webp&s=c4bf87786cf8a90809253558712ff5c39da29deb)
+![Stats](https://preview.redd.it/ei0uzlf751171.jpg?width=590&format=pjpg&auto=webp&s=c4bf87786cf8a90809253558712ff5c39da29deb)
 
 Ok so the first question here is how to slice and dice our data. A Fourier analysis requires an unbroken series of consecutive samples of the signal for which you wish to know the power associated with any variable cycles in that signal. That is, if you want to know how much amplitude power is associated with price movements on a 30-day time-scale, you would need an unbroken series of prices many times longer than 30 days. This is because if you only had a random stretch of 60 days, for example, you would only be likely to catch one 30 day-cycle in the middle. If you had data for a consecutive stretch of 120 trading days, you could see 3, maybe 4 cycles with 30-day periods depending on when the cycle starts.
 
@@ -32,9 +33,9 @@ Now, a short primer on how to interpret the types of figures I'm about to show y
 
 &#x200B;
 
-[Cool cool cool, spectrally flat](https://preview.redd.it/wafp2qfyp0171.jpg?width=2813&format=pjpg&auto=webp&s=76863332efe1bf675d480de88d075e9d6efdbc42)
+![Cool cool cool, spectrally flat](https://preview.redd.it/wafp2qfyp0171.jpg?width=2813&format=pjpg&auto=webp&s=76863332efe1bf675d480de88d075e9d6efdbc42)
 
-What we see for the Before Times and the Short Period is a "spectrally flat" slope, consistent with statistical noise. There is no particular cycle with a peak that stands above the crowd, if you will. The power spectral densities (PSDs) plotted in blue and green above seem like they have a lot of noise for periods of a few days, and then become big loopy waves out at the long time scales of 100-day periods and beyond. The messiest part is over-sampled, but those long cycles are significant fractions of the total signal length, and power associated with a potential cycle at those long ranges can "alias" themselves out (under-sampled). So don't read too much into the far right side, but do consider the left side and the middle. We discussed this before when thinking about looking for a 30-day pattern with only a 60 day stretch, but here we have 400 and 800 day stretches of days. Note that 10\^0 = 1 day. I note this looks to me like ![pink noise](https://en.wikipedia.org/wiki/Pink_noise), I have no idea what to make of that but it's very interesting.
+What we see for the Before Times and the Short Period is a "spectrally flat" slope, consistent with statistical noise. There is no particular cycle with a peak that stands above the crowd, if you will. The power spectral densities (PSDs) plotted in blue and green above seem like they have a lot of noise for periods of a few days, and then become big loopy waves out at the long time scales of 100-day periods and beyond. The messiest part is over-sampled, but those long cycles are significant fractions of the total signal length, and power associated with a potential cycle at those long ranges can "alias" themselves out (under-sampled). So don't read too much into the far right side, but do consider the left side and the middle. We discussed this before when thinking about looking for a 30-day pattern with only a 60 day stretch, but here we have 400 and 800 day stretches of days. Note that 10\^0 = 1 day. I note this looks to me like [pink noise](https://en.wikipedia.org/wiki/Pink_noise), I have no idea what to make of that but it's very interesting.
 
 The y-axis shows the power per cycle associated with any cycle, and the x-axis shows the period of that cycle. The fact that the units on the y-axis are decibels per cycle per day is supposed to clue you in that dB is a type of log-scale. The x-axis is log scale too. What we see for both the Before Times and the Short Period is a generally constant slope of higher power at longer and longer timescales. Note that this doesn't tell us anything about the trend of price, whether generally up or down, Fourier analysis does not care about that. It only tells us the power associated with cycles of variable periods unrelated to background rising or falling trends. Before August 2020 there were no predictable cycles.
 
@@ -44,13 +45,13 @@ Now, the result you've been waiting for, here are the PSDs for the Ape Days, and
 
 &#x200B;
 
-[T+2 days is wack](https://preview.redd.it/3co2m0imu0171.jpg?width=2813&format=pjpg&auto=webp&s=76a3239f8fdc0e6c1073738b7767eb4048ce9718)
+![T+2 days is wack](https://preview.redd.it/3co2m0imu0171.jpg?width=2813&format=pjpg&auto=webp&s=76a3239f8fdc0e6c1073738b7767eb4048ce9718)
 
 Here are some annotations to guide your eye and go with the following discussion:
 
 &#x200B;
 
-[My discrete transform is tingling](https://preview.redd.it/qe0ju7j0v0171.jpg?width=1623&format=pjpg&auto=webp&s=8055e15d7e92ec611a931326ff5a46d7339dc872)
+![My discrete transform is tingling](https://preview.redd.it/qe0ju7j0v0171.jpg?width=1623&format=pjpg&auto=webp&s=8055e15d7e92ec611a931326ff5a46d7339dc872)
 
 In the above figure, I color as orange the PSD of price movements during the most recent 200 trading days (Ape Days). In blue, I plot the PSD associated with 200 trading days during the Before Times, as a comparison to show what a normal 200-day period would look like. This helps us be sure that the Ape Days are indeed unusual. In black, I plot a shorter period of the 115 Ape Days of 2020 only.
 
@@ -66,4 +67,4 @@ This Fourier analysis indicates that, given a certain price movement in GME (up 
 
 TL;DR: The appearance of a strong FTD cycle at both 20-something and 30-something trading days over the past year is supported by Fourier analysis. The analysis also showed a curious shift in price amplitude power from less than 2-days to longer than 2-days. Something's wonky with the T+2 cycle.
 
-Edit: Just wanted to add a link because I was thinking of a slightly different interpretation of what I've done here, I basically turned GME's price into a sound, and during the before times, it was all ![pink noise](https://en.wikipedia.org/wiki/Pink_noise)... and then sometime around the end of 2020, it starts to beat, at a rate curiously similar to the FTD cycle...
+Edit: Just wanted to add a link because I was thinking of a slightly different interpretation of what I've done here, I basically turned GME's price into a sound, and during the before times, it was all [pink noise](https://en.wikipedia.org/wiki/Pink_noise)... and then sometime around the end of 2020, it starts to beat, at a rate curiously similar to the FTD cycle...

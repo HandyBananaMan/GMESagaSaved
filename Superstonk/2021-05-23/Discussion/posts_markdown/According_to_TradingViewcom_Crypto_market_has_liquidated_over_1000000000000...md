@@ -1,10 +1,11 @@
-# Author: KFC_just
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/](https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/)
+#Title: According to TradingView.com, Crypto market has liquidated over $1,000,000,000,000 USD since May. The price of GME has no limit.
+#Author: KFC_just
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/](https://www.reddit.com/r/Superstonk/comments/nj5beh/according_to_tradingviewcom_crypto_market_has/)
 
 
 # TL;DR: Pretty picture show hedgies r fukt.
 
-[1Trillion gone from Crypto since May 2021](https://preview.redd.it/vvr25m60ku071.png?width=2048&format=png&auto=webp&s=0eb9c9f529beb404146c59563a9efc161919386f)
+![1Trillion gone from Crypto since May 2021](https://preview.redd.it/vvr25m60ku071.png?width=2048&format=png&auto=webp&s=0eb9c9f529beb404146c59563a9efc161919386f)
 
 So i have seen several posts debating firstly the potential size of the collective payout that is going to come for GME, and secondly what the maximum price that will actually be paid for GME is likely to be.
 

@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/makbuh/synopsis_for_03222021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/makbuh/synopsis_for_03222021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-22-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/makbuh/synopsis_for_03222021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/makbuh/synopsis_for_03222021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -54,7 +55,7 @@ Fuckery, is afoot.
 
 &#x200B;
 
-[Sup Melvin](https://preview.redd.it/p7y5rg1lujo61.jpg?width=535&format=pjpg&auto=webp&s=4530cbeeaaba0eaab02bdd4220b2763e9ea34d27)
+![Sup Melvin](https://preview.redd.it/p7y5rg1lujo61.jpg?width=535&format=pjpg&auto=webp&s=4530cbeeaaba0eaab02bdd4220b2763e9ea34d27)
 
 # To Squeeze or not to Squeeze,
 
@@ -124,11 +125,11 @@ https://preview.redd.it/wukcvigyxjo61.png?width=640&format=png&auto=webp&s=3cc1b
 
 So a smart ape u/zakataha found this:
 
-[2020](https://preview.redd.it/yqi8yqceyjo61.png?width=294&format=png&auto=webp&s=8c6732c4b5fd889bb307faa8a8b983aa085278c9)
+![2020](https://preview.redd.it/yqi8yqceyjo61.png?width=294&format=png&auto=webp&s=8c6732c4b5fd889bb307faa8a8b983aa085278c9)
 
 &#x200B;
 
-[2021](https://preview.redd.it/xi9hlq4fyjo61.png?width=292&format=png&auto=webp&s=72c2a3c7fe20841d1fe4a25af2bf29f683fa3520)
+![2021](https://preview.redd.it/xi9hlq4fyjo61.png?width=292&format=png&auto=webp&s=72c2a3c7fe20841d1fe4a25af2bf29f683fa3520)
 
 [https://www.reddit.com/r/GME/comments/m9enm6/i\_believe\_that\_the\_next\_annual\_date\_is\_june\_10/?utm\_source=share&utm\_medium=ios\_app&utm\_name=iossmf](https://www.reddit.com/r/GME/comments/m9enm6/i_believe_that_the_next_annual_date_is_june_10/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
@@ -296,7 +297,7 @@ Edit 1:
 
 ETF holdings update
 
-![https://www.reddit.com/r/GME/comments/makcor/etf\_holdings\_of\_gme\_compiled\_current\_as\_of\_22\_mar/](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/)
+[https://www.reddit.com/r/GME/comments/makcor/etf\_holdings\_of\_gme\_compiled\_current\_as\_of\_22\_mar/](https://www.reddit.com/r/GME/comments/makcor/etf_holdings_of_gme_compiled_current_as_of_22_mar/)
 
 &#x200B;
 

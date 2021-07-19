@@ -1,5 +1,6 @@
-# Author: SqueezeMyStonk
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n1s6zn/my_biggest_concern_is_that_the_sec_will_intervene/](https://www.reddit.com/r/Superstonk/comments/n1s6zn/my_biggest_concern_is_that_the_sec_will_intervene/)
+#Title: My biggest concern is that the SEC WILL intervene during the MOASS. I want the squeeze to be allowed to be resolved by the free market and not by any government or regulatory intervention.
+#Author: SqueezeMyStonk
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n1s6zn/my_biggest_concern_is_that_the_sec_will_intervene/](https://www.reddit.com/r/Superstonk/comments/n1s6zn/my_biggest_concern_is_that_the_sec_will_intervene/)
 
 
 I'm seeing a sudden spike in posts trying to push for the SEC to intervene. This is pretty sus to me. First of all, flooding the sub with a unified talking point is the playbook that shills use as part of their propaganda strategy. We've seen it before from topics ranging from pump and dumps with silver and other stocks, to when they try to foment divisiveness based on popular users, to stupid shit like trying to scare us with taxes. The shills, HFs, and whatever PR firm they might have hired are so obvious with their message bombing campaigns that any time I see an unnatural rise in one particular topic I am sus of the intent of that messaging.
@@ -34,7 +35,7 @@ So no, we don't want the fuckin SEC or any other body to intervene during the MO
 
 Finally, these calls to urgently act in some way to force the SEC to intervene are not only sus but ignores the fact that actions are already being undertaken that do indeed seem to favor retail investors and the free market. JUST BUY, HODL, AND WAIT!
 
-The new DTCC, DTC, OTCC, and NSCC rules are already in motion and highly suggest that the market is preparing for the MOASS to occur. So no "urgent" intervention is needed nor wanted. The rules are already changing and the MOASS needs to be allowed to be resolved via the free market so proper tendies will be given. I know apes may be impatient but check out this good DD regarding the upper time limit for the new rules to be in place and how they will benefit retail investors and the MOASS result: ![https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc\_and\_gme\_why\_share\_price\_doesnt\_matter\_right/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/?utm_source=share&utm_medium=web2x&context=3)
+The new DTCC, DTC, OTCC, and NSCC rules are already in motion and highly suggest that the market is preparing for the MOASS to occur. So no "urgent" intervention is needed nor wanted. The rules are already changing and the MOASS needs to be allowed to be resolved via the free market so proper tendies will be given. I know apes may be impatient but check out this good DD regarding the upper time limit for the new rules to be in place and how they will benefit retail investors and the MOASS result: [https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc\_and\_gme\_why\_share\_price\_doesnt\_matter\_right/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/DDintoGME/comments/n21ml0/amc_and_gme_why_share_price_doesnt_matter_right/?utm_source=share&utm_medium=web2x&context=3)
 
 So who would benefit from the SEC intervening during the MOASS? The Shorts. The HFs. I think it's their last ditch effort to try to squirm out of paying what apes are going to force them to pay.
 

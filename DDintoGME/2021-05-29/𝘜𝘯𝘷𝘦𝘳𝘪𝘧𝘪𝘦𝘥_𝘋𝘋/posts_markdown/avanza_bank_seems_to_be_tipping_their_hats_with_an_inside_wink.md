@@ -1,5 +1,6 @@
-# Author: nighthawkshatchet
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nnwswt/avanza_bank_seems_to_be_tipping_their_hats_with/](https://www.reddit.com/r/DDintoGME/comments/nnwswt/avanza_bank_seems_to_be_tipping_their_hats_with/)
+#Title: avanza bank seems to be tipping their hats with an inside wink
+#Author: nighthawkshatchet
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nnwswt/avanza_bank_seems_to_be_tipping_their_hats_with/](https://www.reddit.com/r/DDintoGME/comments/nnwswt/avanza_bank_seems_to_be_tipping_their_hats_with/)
 
 
 i read some of the most useful dd i've seen in some time today, as it pertains to the gme situation. [u/InForTheSqueeze](https://www.reddit.com/user/InForTheSqueeze/)  posted their mathematical calculations concerning how big the float is.  their calculations indicate that retail owns between 238% and 316%  percent of the float. this calculation is based on the swedish broker's  Avanza banks tweet claiming that they have 22,032 owners who own 322,545  shares of gme. the most important part of this tweet is that this  constitutes **.4%** of the total ownership of the stock. this seems to be based on about 70,000,000 shares more or less.
@@ -26,4 +27,4 @@ disclosing that this was also posted on superstank, but memes and shitposts reig
 
 &#x200B;
 
-edit: this is a comment from u/![DBRASCO1891](https://www.reddit.com/user/DBRASCO1891/) "Avanza is only for swedes. Avanza buys shares from the US via an  custodian bank.. BNP paribas.. yeah I know.. I have my worries as well.  But thats the reality! So we swedes who buys through this custodian  probably gets counted in the "unknown" on bloomberg terminal."
+edit: this is a comment from u/[DBRASCO1891](https://www.reddit.com/user/DBRASCO1891/) "Avanza is only for swedes. Avanza buys shares from the US via an  custodian bank.. BNP paribas.. yeah I know.. I have my worries as well.  But thats the reality! So we swedes who buys through this custodian  probably gets counted in the "unknown" on bloomberg terminal."

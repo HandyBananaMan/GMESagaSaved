@@ -1,5 +1,6 @@
-# Author: AJDillonsMiddleLeg
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/](https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/)
+#Title: We aren't even grasping how big the NFT news is yet
+#Author: AJDillonsMiddleLeg
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/](https://www.reddit.com/r/Superstonk/comments/nl1qq0/we_arent_even_grasping_how_big_the_nft_news_is_yet/)
 
 
 Yeah, it's a big deal. Remember the NFT stock craze a couple months ago? Everyone was rushing to pump out NFT news. Most of those companies haven't actually developed any NFTs yet.
@@ -26,7 +27,7 @@ I'm confident striking this section out at this point, as the 58mil inventory wa
 
 Edit within an edit, editception if you will: it's been pointed out that the 58million max tokens may not be the official GME token, but that there is an official GME token with currently 0 inventory launching on 7/14.
 
-u/teacoat___ put together ![a good summary of all of the available info on the token](https://www.reddit.com/r/Superstonk/comments/nl0lk1/gme_token_info/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) and they are updating it as new info comes in.
+u/teacoat___ put together [a good summary of all of the available info on the token](https://www.reddit.com/r/Superstonk/comments/nl0lk1/gme_token_info/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) and they are updating it as new info comes in.
 
 If GameStop does a crypto dividend it would force shorts to do one of two things:
 

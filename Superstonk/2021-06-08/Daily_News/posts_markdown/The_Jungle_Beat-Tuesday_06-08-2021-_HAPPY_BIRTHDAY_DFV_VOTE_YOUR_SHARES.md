@@ -1,5 +1,6 @@
-# Author: pinkcatsonacid
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/](https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/)
+#Title: The Jungle Beat-Tuesday 06-08-2021- HAPPY BIRTHDAY DFV!! VOTE YOUR SHARES!!
+#Author: pinkcatsonacid
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/](https://www.reddit.com/r/Superstonk/comments/nvdlm2/the_jungle_beattuesday_06082021_happy_birthday/)
 
 
 # FROM EVERYONE AT SUPERSTONK, HAPPY FUCKING BIRTHDAY TO THE MAN, THE MYTH, THE LEGEND, KEITH GILL AKA u/deepfuckingvalue AKA THE ROARING KITTY!! 
@@ -54,7 +55,7 @@ Alright apes! The time has come for Gamestop's Annual Shareholder Meeting! Remem
 
 &#x200B;
 
-[June me @ January me- LOOK AT US](https://preview.redd.it/vji1ncyspu371.jpg?width=1080&format=pjpg&auto=webp&s=e4d01bafa33dfa7ba8a5fd74e17460896748a9e3)
+![June me @ January me- LOOK AT US](https://preview.redd.it/vji1ncyspu371.jpg?width=1080&format=pjpg&auto=webp&s=e4d01bafa33dfa7ba8a5fd74e17460896748a9e3)
 
 I want us all to have realistic expectations for the meeting... and I want to make it **perfectly** clear that this meeting is **not** the place to gather and have Woodstonk. (I promise that's a coming major event after MOASS!) But it *is* kinda the center of our Superstonk universe for the time being, and the mods wanted to make sure to have coverage of the day's events, including the shareholder meeting from 11:00-11:15 am Eastern, and the QE Report later at 5:00 pm Eastern.
 
@@ -200,7 +201,7 @@ The appreciation is very much appreciated, but our work is never truly done. Mor
 
 &#x200B;
 
-[ SATORI dev, 2021 colourised ](https://preview.redd.it/8uqyy2nm92471.png?width=400&format=png&auto=webp&s=9fa877a494897aae3a5bc1f2804b8e14d958c1a6)
+![ SATORI dev, 2021 colourised ](https://preview.redd.it/8uqyy2nm92471.png?width=400&format=png&auto=webp&s=9fa877a494897aae3a5bc1f2804b8e14d958c1a6)
 
 &#x200B;
 
@@ -256,7 +257,7 @@ Please refer to [this post](https://www.reddit.com/r/Superstonk/comments/nojpde/
 
 &#x200B;
 
-[NO hax for you Kenny](https://preview.redd.it/lv8hr16aa2471.png?width=400&format=png&auto=webp&s=21be93d4aed66633b51bf54c599b6232e464ad5d)
+![NO hax for you Kenny](https://preview.redd.it/lv8hr16aa2471.png?width=400&format=png&auto=webp&s=21be93d4aed66633b51bf54c599b6232e464ad5d)
 
 &#x200B;
 
@@ -300,7 +301,7 @@ Mods have carefully considered what to do during a reddit blackout and advise th
 
 [https://twitter.com/u\_sharkbaitlol](https://twitter.com/u_sharkbaitlol)
 
-![https://twitter.com/BradduckF](https://twitter.com/BradduckF) 
+[https://twitter.com/BradduckF](https://twitter.com/BradduckF) 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

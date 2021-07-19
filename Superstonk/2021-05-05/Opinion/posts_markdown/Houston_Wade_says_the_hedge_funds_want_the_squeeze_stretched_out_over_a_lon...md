@@ -1,5 +1,6 @@
-# Author: PeterSunYoungKi
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/n5b75j/houston_wade_says_the_hedge_funds_want_the/](https://www.reddit.com/r/Superstonk/comments/n5b75j/houston_wade_says_the_hedge_funds_want_the/)
+#Title: Houston Wade says, "the hedge funds want the squeeze stretched out over a long period of time and are going to fight tooth and nail to try and crawl out of this. To insure they all go bankrupt, we want the squeeze to be short, violent, and with absolutely massive volume"
+#Author: PeterSunYoungKi
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/n5b75j/houston_wade_says_the_hedge_funds_want_the/](https://www.reddit.com/r/Superstonk/comments/n5b75j/houston_wade_says_the_hedge_funds_want_the/)
 
 
 Wade explains that the only chance the hedge funds make it out of this is if they stretch out the squeeze over months and years to make people lose interest and sell. 

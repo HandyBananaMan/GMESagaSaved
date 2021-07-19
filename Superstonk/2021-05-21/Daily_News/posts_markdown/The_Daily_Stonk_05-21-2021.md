@@ -1,5 +1,6 @@
-# Author: AutoModerator
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/](https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/)
+#Title: The Daily Stonk 05-21-2021
+#Author: AutoModerator
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/](https://www.reddit.com/r/Superstonk/comments/nhoms3/the_daily_stonk_05212021/)
 
 
 &#x200B;
@@ -60,7 +61,7 @@ Also on the repo market (something you've undoubtedly seen mentioned a few times
 
 &#x200B;
 
-[Can you smell that?](https://preview.redd.it/0j9nrhrr2g071.png?width=640&format=png&auto=webp&s=b6b47d56194563e63f6c34762a344eda64ad15b1)
+![Can you smell that?](https://preview.redd.it/0j9nrhrr2g071.png?width=640&format=png&auto=webp&s=b6b47d56194563e63f6c34762a344eda64ad15b1)
 
 # 004
 
@@ -174,4 +175,4 @@ backups:
 
 [https://twitter.com/PinkCatsOnAcid](https://twitter.com/PinkCatsOnAcid)
 
-![https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)
+[https://twitter.com/RedChessQueen99](https://twitter.com/RedChessQueen99)

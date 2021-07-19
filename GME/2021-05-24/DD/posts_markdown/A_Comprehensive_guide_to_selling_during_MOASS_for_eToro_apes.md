@@ -1,5 +1,6 @@
-# Author: Tx3hc78
-# Post URL: [https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/](https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/)
+#Title: A Comprehensive guide to selling during MOASS for eToro apes
+#Author: Tx3hc78
+#Post URL: [https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/](https://www.reddit.com/r/GME/comments/nk30qk/a_comprehensive_guide_to_selling_during_moass_for/)
 
 
 # Introduction
@@ -152,7 +153,7 @@ Let's see how those offers could look during MOASS:
 
 &#x200B;
 
-[Pardon the crayons, last price is 200$ and the rest are in millions.](https://preview.redd.it/l5u9gpa5l3171.png?width=159&format=png&auto=webp&s=8e280177fb22d0fd1f0f80c5452ec78fdc2f5685)
+![Pardon the crayons, last price is 200$ and the rest are in millions.](https://preview.redd.it/l5u9gpa5l3171.png?width=159&format=png&auto=webp&s=8e280177fb22d0fd1f0f80c5452ec78fdc2f5685)
 
 So MOASS has started, liquidity is at zero, no one is selling, buying is temporary restricted and there are only apes vs HFs.
 
@@ -235,7 +236,7 @@ For example let's say you have set TP to $980 and the current price is $150. MOA
 
 &#x200B;
 
-[Official statement from eToro team.](https://preview.redd.it/jbsqpqkho3171.png?width=662&format=png&auto=webp&s=c2d2eb11b77f7ae7edff47d8b28c2c11759d5a00)
+![Official statement from eToro team.](https://preview.redd.it/jbsqpqkho3171.png?width=662&format=png&auto=webp&s=c2d2eb11b77f7ae7edff47d8b28c2c11759d5a00)
 
 Please take a look at what these fucking retards are posting:
 

@@ -1,5 +1,6 @@
-# Author: Environmental-Camp28
-# Post URL: [https://www.reddit.com/r/GME/comments/mo2nfu/there_is_no_way_in_hell_they_covered_their_shorts/](https://www.reddit.com/r/GME/comments/mo2nfu/there_is_no_way_in_hell_they_covered_their_shorts/)
+#Title: There is no way in HELL they covered their shorts. 🚀🚀🚀Explanation from an ex-auditor point of view
+#Author: Environmental-Camp28
+#Post URL: [https://www.reddit.com/r/GME/comments/mo2nfu/there_is_no_way_in_hell_they_covered_their_shorts/](https://www.reddit.com/r/GME/comments/mo2nfu/there_is_no_way_in_hell_they_covered_their_shorts/)
 
 
 I am editing my post to mention this fellow, his comment makes a lot of sense. We could both be right so I thought I should mention it:

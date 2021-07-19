@@ -1,5 +1,6 @@
-# Author: sfjetsetter
-# Post URL: [https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/](https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/)
+#Title: Naked shorting in GME and how the pieces suddenly fit together
+#Author: sfjetsetter
+#Post URL: [https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/](https://www.reddit.com/r/GME/comments/lglll1/naked_shorting_in_gme_and_how_the_pieces_suddenly/)
 
 
 TLDR: Naked shorting appears prevalent in GME, and if so is likely aided by DTCC, whom by extension may have shut down the short squeeze on 1/28 because it would've caused a *massive* scandal. I know ape can't read but I implore you to read the whole thing (originally wasn't going to add a TLDR but decided to add it just so more people understand even just a little bit)
@@ -57,4 +58,4 @@ From everything I’ve seen, as someone who has been an observer and a participa
 
 **This brings up another interesting thought experiment. On 1/28 when the price was 450+ and shorts were likely under 100, if we assume prime brokers allowed naking shorting in GME, then if they margin called the shorts, they would go down as well as shorts would not be able to pay and brokers would be holding the bag. They have every incentive in this case to NOT margin call because doing so might also taken them down, instead the most logical option would be to make a backroom deal which is what I personally think likely happened.**
 
-Edit 2: A ![compelling theory](https://www.reddit.com/r/Wallstreetbetsnew/comments/lglkwv/naked_shorting_in_gme_and_how_the_pieces_suddenly/gmsll2k/) put forth by someone on what the 800 dollar calls were for and how they could be used to cancel out naked shorts includes data/graphs, recommend giving it a read
+Edit 2: A [compelling theory](https://www.reddit.com/r/Wallstreetbetsnew/comments/lglkwv/naked_shorting_in_gme_and_how_the_pieces_suddenly/gmsll2k/) put forth by someone on what the 800 dollar calls were for and how they could be used to cancel out naked shorts includes data/graphs, recommend giving it a read

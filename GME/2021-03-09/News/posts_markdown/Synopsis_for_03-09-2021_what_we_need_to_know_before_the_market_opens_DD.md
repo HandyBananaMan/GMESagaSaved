@@ -1,5 +1,6 @@
-# Author: rensole
-# Post URL: [https://www.reddit.com/r/GME/comments/m13lxb/synopsis_for_03092021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m13lxb/synopsis_for_03092021_what_we_need_to_know_before/)
+#Title: Synopsis for 03-09-2021 what we need to know before the market opens DD
+#Author: rensole
+#Post URL: [https://www.reddit.com/r/GME/comments/m13lxb/synopsis_for_03092021_what_we_need_to_know_before/](https://www.reddit.com/r/GME/comments/m13lxb/synopsis_for_03092021_what_we_need_to_know_before/)
 
 
 Good morning San Diago,
@@ -94,7 +95,7 @@ yesterdays news, nothing on GME?
 
 &#x200B;
 
-[this is here to show a stock can go high, not saying this will happen or this was due to a squeeze, this was due to a reverse stock split.](https://preview.redd.it/b4e3sz4i4zl61.jpg?width=1080&format=pjpg&auto=webp&s=7fc39f25227339cce01518cb471c719926b6f76a)
+![this is here to show a stock can go high, not saying this will happen or this was due to a squeeze, this was due to a reverse stock split.](https://preview.redd.it/b4e3sz4i4zl61.jpg?width=1080&format=pjpg&auto=webp&s=7fc39f25227339cce01518cb471c719926b6f76a)
 
 # Can we reach X price?
 
@@ -208,7 +209,7 @@ So trust them now when you are winning.
 
 &#x200B;
 
-[a guy telling papa DFV that his investment was bad just a week ago](https://preview.redd.it/30actf4j8zl61.jpg?width=960&format=pjpg&auto=webp&s=bad3e094439b249405c5a4a3b1b1e95da0fa18e0)
+![a guy telling papa DFV that his investment was bad just a week ago](https://preview.redd.it/30actf4j8zl61.jpg?width=960&format=pjpg&auto=webp&s=bad3e094439b249405c5a4a3b1b1e95da0fa18e0)
 
 &#x200B;
 
@@ -250,7 +251,7 @@ Also March 10th Is Mario day, Mar10
 
 &#x200B;
 
-[yeet](https://preview.redd.it/lxfedqit9zl61.jpg?width=659&format=pjpg&auto=webp&s=af2f403083e45891317a6d9de48ac966c6455683)
+![yeet](https://preview.redd.it/lxfedqit9zl61.jpg?width=659&format=pjpg&auto=webp&s=af2f403083e45891317a6d9de48ac966c6455683)
 
 Remember we are seeing the price go up now, it can also go down. They will try everything to get people to paperhand, just ignore it and set price alerts it wont get interesting until it reaches the 10k mark.
 
@@ -324,4 +325,4 @@ Edit 4:
 
 #  DFV tweeted!
 
-![https://twitter.com/TheRoaringKitty/status/1369307339568873473](https://twitter.com/TheRoaringKitty/status/1369307339568873473)
+[https://twitter.com/TheRoaringKitty/status/1369307339568873473](https://twitter.com/TheRoaringKitty/status/1369307339568873473)

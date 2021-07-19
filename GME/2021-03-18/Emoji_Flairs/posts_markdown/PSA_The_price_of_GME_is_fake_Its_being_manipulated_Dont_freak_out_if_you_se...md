@@ -1,5 +1,6 @@
-# Author: bruiserb1172
-# Post URL: [https://www.reddit.com/r/GME/comments/m7pn1q/psa_the_price_of_gme_is_fake_its_being/](https://www.reddit.com/r/GME/comments/m7pn1q/psa_the_price_of_gme_is_fake_its_being/)
+#Title: PSA: The price of GME is fake. It’s being manipulated. Don’t freak out if you see dips (sales) today or tomorrow. Short’s know about March 19th. They will be out in full force. Stay strong. Love you all 🙌💎
+#Author: bruiserb1172
+#Post URL: [https://www.reddit.com/r/GME/comments/m7pn1q/psa_the_price_of_gme_is_fake_its_being/](https://www.reddit.com/r/GME/comments/m7pn1q/psa_the_price_of_gme_is_fake_its_being/)
 
 
 The game is rigged. We all know this. 

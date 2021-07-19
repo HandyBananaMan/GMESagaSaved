@@ -1,5 +1,6 @@
-# Author: redchessqueen99
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/](https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/)
+#Title: 🎥 r/Superstonk Live 6/9 Programming 👨‍🚀 GameStop Shareholder Meeting
+#Author: redchessqueen99
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/](https://www.reddit.com/r/Superstonk/comments/nvrab6/rsuperstonk_live_69_programming_gamestop/)
 
 
 Today's the day! Happy 6/9 everyone! We have a jam-packed day full of live streaming in order to cover the GameStop Annual Shareholders Meeting for the year 2021. Learn all about it from [GameStop's news release](https://investor.gamestop.com/news-releases/news-release-details/gamestop-announces-first-quarter-fiscal-2021-earnings-release).
@@ -18,7 +19,7 @@ And finally, make sure you check the Stickied section of r/Superstonk for any cr
 
 # r/Superstonk Live - GameStop Annual Shareholder Meeting
 
-[Apeish.](https://preview.redd.it/i9xl9zddd7471.png?width=4001&format=png&auto=webp&s=701f90db8c81d59d91a6a11ad62e3c27621b8450)
+![Apeish.](https://preview.redd.it/i9xl9zddd7471.png?width=4001&format=png&auto=webp&s=701f90db8c81d59d91a6a11ad62e3c27621b8450)
 
 **💎** [**WATCH HERE**](https://youtu.be/a4SicgRYTmk) **💎 live @ 10:00 a.m. Eastern (9:00 a.m. Central)**
 
@@ -44,7 +45,7 @@ The meeting starts at 11:00 a.m. Eastern (10:00 a.m. Central) and lasts for 15 m
 
 # Monkey Business Premiere
 
-[Yea, if you could #ookookook that'd be great.](https://preview.redd.it/670wahvcd7471.png?width=4001&format=png&auto=webp&s=ee76cf78466c0fb9a7fa55bc9e99dd1086a0b29b)
+![Yea, if you could #ookookook that'd be great.](https://preview.redd.it/670wahvcd7471.png?width=4001&format=png&auto=webp&s=ee76cf78466c0fb9a7fa55bc9e99dd1086a0b29b)
 
 **💎** [**WATCH HERE**](https://youtu.be/UDKC_oXqhGM)**💎 live @ 4:20 p.m. Eastern (3:20 p.m. Central, 8:20 p.m. UTC)**
 
@@ -58,7 +59,7 @@ This panel will from one and a half to two hours, or longer if needed. We also p
 
 # Power to the Players, but please behave...
 
-[Monke do a business.](https://preview.redd.it/1qvyj7glf7471.jpg?width=900&format=pjpg&auto=webp&s=1893de62025e22dc7cf28cb5ef67e22fc2213b9c)
+![Monke do a business.](https://preview.redd.it/1qvyj7glf7471.jpg?width=900&format=pjpg&auto=webp&s=1893de62025e22dc7cf28cb5ef67e22fc2213b9c)
 
 Please, for the love of DFV, represent us responsibly if you are attending this meeting. Retail investors receive enough flack from the mainstream media without adding pranksters at shareholder meetings to the list. Please dress appropriately and be respectful of everyone there.
 

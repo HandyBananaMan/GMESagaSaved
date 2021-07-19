@@ -1,5 +1,6 @@
-# Author: MartoPolo
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nei95i/a_string_of_events_are_unfolding_that_cannot_be/](https://www.reddit.com/r/Superstonk/comments/nei95i/a_string_of_events_are_unfolding_that_cannot_be/)
+#Title: A string of events are unfolding that cannot be stopped
+#Author: MartoPolo
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nei95i/a_string_of_events_are_unfolding_that_cannot_be/](https://www.reddit.com/r/Superstonk/comments/nei95i/a_string_of_events_are_unfolding_that_cannot_be/)
 
 
 Disclaimer: I'm a smooth brainer with a lot of time.

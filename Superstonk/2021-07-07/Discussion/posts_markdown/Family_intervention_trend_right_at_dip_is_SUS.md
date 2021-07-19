@@ -1,5 +1,6 @@
-# Author: Guardian_Arias
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/og08y5/family_intervention_trend_right_at_dip_is_sus/](https://www.reddit.com/r/Superstonk/comments/og08y5/family_intervention_trend_right_at_dip_is_sus/)
+#Title: Family intervention trend right at dip is SUS!
+#Author: Guardian_Arias
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/og08y5/family_intervention_trend_right_at_dip_is_sus/](https://www.reddit.com/r/Superstonk/comments/og08y5/family_intervention_trend_right_at_dip_is_sus/)
 
 
 Just noticing a potential psychological assault forming within this sub. 

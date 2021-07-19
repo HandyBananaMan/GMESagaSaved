@@ -1,5 +1,6 @@
-# Author: Lolly_Jaw
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/)
+#Title: MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 26/04/21
+#Author: Lolly_Jaw
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/myuu35/morning_news_and_obligatory_memes_from_mediape/)
 
 
 **Hi-diddly-doo fellow Aperino's!**
@@ -8,7 +9,7 @@
 
 **I hope you are comfy with a nice hot (or cold) drink, ready for your digest - it will be long - as per usual.**
 
-[HAPPY MONDAY!](https://preview.redd.it/1x1ky75atdv61.png?width=848&format=png&auto=webp&s=eed76651356cbab2060168287108256c1302b8b5)
+![HAPPY MONDAY!](https://preview.redd.it/1x1ky75atdv61.png?width=848&format=png&auto=webp&s=eed76651356cbab2060168287108256c1302b8b5)
 
 **Just a tiny modification to my presentation, all text which is taken from an author will** **~~start with an indent~~**  **(Edit: That didn't work!) be in speech marks, as opposed to my previous layout where I modified it all in italics. Anything I write myself will be in bold.**
 
@@ -84,7 +85,7 @@ Crayons make nice pictures! "
 
 **ELIA: Ape thinks flag picture not for long dead vice president but for the flag we see in GME.**
 
-[\\"Bullish Pennant Windsock\\"](https://preview.redd.it/m8m4knqv7hv61.png?width=1554&format=png&auto=webp&s=d3d3ef5194473b0b26168f9ce04e107fb20ebb91)
+![\\"Bullish Pennant Windsock\\"](https://preview.redd.it/m8m4knqv7hv61.png?width=1554&format=png&auto=webp&s=d3d3ef5194473b0b26168f9ce04e107fb20ebb91)
 
 [GME Pennant! (NEWLY Decoded Message from Ryan Cohen Tweet) : GME (reddit.com)](https://www.reddit.com/r/GME/comments/myipc1/gme_pennant_newly_decoded_message_from_ryan_cohen/)
 
@@ -94,7 +95,7 @@ Crayons make nice pictures! "
 
 " Here is a different way to look at the OTC GME data. It should be abundantly clear that what is going on in the OTC dark pools is extremely abnormal. Citadel and Virtu market makers seem to be doing a whole lot of OTC trading. How did they get hundreds of millions of shares? What about Two Sigma? Why are the same entities trading so much volume so frequently in the OTC marketplace? Why did the number of shares / trade decrease so drastically beginning 1/25? Winter is coming. Are any of them wearing any clothes??? "
 
-[OTC high frequency trading.](https://preview.redd.it/6vlk7jc59hv61.png?width=638&format=png&auto=webp&s=7ac40d6b2be568fd93f5870866af7b6791563455)
+![OTC high frequency trading.](https://preview.redd.it/6vlk7jc59hv61.png?width=638&format=png&auto=webp&s=7ac40d6b2be568fd93f5870866af7b6791563455)
 
 "Robinhood stepped up again with some serious high frequency OTC trading. Did anything happen that week? Oh yeah, the GME price experienced a huge drop from 280 to 210 on 3/15 and then to around 172 on 3/16. They didn't switch things up at all from their previous attacks. 297,276 shares traded 297,194 times for an average of 1.00 shares/trade. "
 
@@ -108,7 +109,7 @@ Crayons make nice pictures! "
 
 [**u/YoungUrk**](https://www.reddit.com/user/YoungUrk/) **posts:**
 
-[Board recommends us to vote for all the six nominees.](https://preview.redd.it/r5bzu72rxhv61.png?width=640&format=png&auto=webp&s=2496364f846a038323eb64c68ecd31fcd5a4806a)
+![Board recommends us to vote for all the six nominees.](https://preview.redd.it/r5bzu72rxhv61.png?width=640&format=png&auto=webp&s=2496364f846a038323eb64c68ecd31fcd5a4806a)
 
 **ELIA: All members of banana boat stock agree all members should be voted for by apes.**
 
@@ -140,7 +141,7 @@ The “ants” are testing their political power by demanding regulatory changes
 
 [South Korea’s retail investor army declares war on short-sellers : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myaka1/south_koreas_retail_investor_army_declares_war_on/)
 
-[GME make us Stronk.](https://preview.redd.it/ozaa97y8khv61.png?width=650&format=png&auto=webp&s=79a202c50620d4098ae7fe960f2f2fedeb54d4f9)
+![GME make us Stronk.](https://preview.redd.it/ozaa97y8khv61.png?width=650&format=png&auto=webp&s=79a202c50620d4098ae7fe960f2f2fedeb54d4f9)
 
 \-----------------------------------------
 
@@ -176,7 +177,7 @@ Anyways, given the weak performance in last year's Q1, GameStop could potentiall
 
 [This is the Last Week for GameStop's Q1 2021 Fiscal Quarter! : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/myhxcl/this_is_the_last_week_for_gamestops_q1_2021/)
 
-[ u\/RafaelNobre posted this image, created by the artist Banksy.](https://preview.redd.it/itp2r097phv61.png?width=640&format=png&auto=webp&s=d99266be537482b471b0a8060494b1fe47970a62)
+![ u\/RafaelNobre posted this image, created by the artist Banksy.](https://preview.redd.it/itp2r097phv61.png?width=640&format=png&auto=webp&s=d99266be537482b471b0a8060494b1fe47970a62)
 
 \-----------------------------------------
 
@@ -226,7 +227,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/Dragon747**](https://www.reddit.com/user/Dragon747/) **Shares:**
 
-[Oh no. We all know what it means when CNBC is pushing something.](https://preview.redd.it/617sl0i6vhv61.png?width=640&format=png&auto=webp&s=cb6309976e78e084d9b722fea16022062e85ce01)
+![Oh no. We all know what it means when CNBC is pushing something.](https://preview.redd.it/617sl0i6vhv61.png?width=640&format=png&auto=webp&s=cb6309976e78e084d9b722fea16022062e85ce01)
 
 **ELIA: CNBC are paid by snakey HF. When CNBC says something positive about something, usually opposite happens for snakes to get innocent ape bananas.**
 
@@ -240,7 +241,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/nbrix**](https://www.reddit.com/user/nbrix/) **Posts:**
 
-[LOL. Who did this?](https://preview.redd.it/tx2rzzwvvhv61.png?width=640&format=png&auto=webp&s=b932999d57332e99b7cae3081f5d24d42356e08a)
+![LOL. Who did this?](https://preview.redd.it/tx2rzzwvvhv61.png?width=640&format=png&auto=webp&s=b932999d57332e99b7cae3081f5d24d42356e08a)
 
 [Checked Glassdoor for any job postings... You beautiful bastards didn't let me down. : GME (reddit.com)](https://www.reddit.com/r/GME/comments/mymfsu/checked_glassdoor_for_any_job_postings_you/)
 
@@ -248,7 +249,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/feltdumbmightdelete**](https://www.reddit.com/user/feltdumbmightdelete/) **posts:**
 
-[Hahaha. So true!](https://preview.redd.it/g43a9zc4whv61.png?width=960&format=png&auto=webp&s=e14de175659fe14dc0030fe9b733a1047089b86d)
+![Hahaha. So true!](https://preview.redd.it/g43a9zc4whv61.png?width=960&format=png&auto=webp&s=e14de175659fe14dc0030fe9b733a1047089b86d)
 
 [the latest estimations are in : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxza6y/the_latest_estimations_are_in/?utm_medium=android_app&utm_source=share)
 
@@ -256,7 +257,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/OutdoorAdventurer**](https://www.reddit.com/user/OutdoorAdventurer/) **posts:**
 
-[What we will all be drinking on the moon!](https://preview.redd.it/hwowyc3cwhv61.png?width=640&format=png&auto=webp&s=cf287f2f55f164fd31f93e6cfa769cb0ac587e8c)
+![What we will all be drinking on the moon!](https://preview.redd.it/hwowyc3cwhv61.png?width=640&format=png&auto=webp&s=cf287f2f55f164fd31f93e6cfa769cb0ac587e8c)
 
 [(3) Cocktail at my local steakhouse!! 🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxwhg9/cocktail_at_my_local_steakhouse/?utm_medium=android_app&utm_source=share)
 
@@ -264,7 +265,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/forbiddenloser**](https://www.reddit.com/user/forbiddenloser/) **Posts:**
 
-[So true. Every day the plot thickens for the ultimate epic tale.](https://preview.redd.it/ldao4bliwhv61.png?width=700&format=png&auto=webp&s=f972eda014ad1d0a4c837f7174b158696d3de128)
+![So true. Every day the plot thickens for the ultimate epic tale.](https://preview.redd.it/ldao4bliwhv61.png?width=700&format=png&auto=webp&s=f972eda014ad1d0a4c837f7174b158696d3de128)
 
 [ 🌚 🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/my2x8y/_/?utm_medium=android_app&utm_source=share)
 
@@ -272,7 +273,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/ApprehensiveLevel-2**](https://www.reddit.com/user/ApprehensiveLevel-2/) **posts:**
 
-[Love Mark Cuban. Wise man with very wise words.](https://preview.redd.it/lesop98wwhv61.png?width=640&format=png&auto=webp&s=f3422b13950e16dff735f1d90ea5b348692a27a2)
+![Love Mark Cuban. Wise man with very wise words.](https://preview.redd.it/lesop98wwhv61.png?width=640&format=png&auto=webp&s=f3422b13950e16dff735f1d90ea5b348692a27a2)
 
 [ Just a bit of reassurance that Mark fucking Cuban believed in the little guy winning. “Changing the game is ALWAYS messy” : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/my7sin/just_a_bit_of_reassurance_that_mark_fucking_cuban/?utm_medium=android_app&utm_source=share)
 
@@ -280,7 +281,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 [**u/1980sTokyo**](https://www.reddit.com/user/1980sTokyo/) **posts:**
 
-[So true. Hold strong apes. And when in doubt - zoom out.](https://preview.redd.it/9g0l5ntpwhv61.png?width=548&format=png&auto=webp&s=a4c0f5cc4585fdf6021b8762d0869221dd85a7a1)
+![So true. Hold strong apes. And when in doubt - zoom out.](https://preview.redd.it/9g0l5ntpwhv61.png?width=548&format=png&auto=webp&s=a4c0f5cc4585fdf6021b8762d0869221dd85a7a1)
 
 [Just gonna leave this here for fellow Diamond hand apes 💎🙌🚀🚀 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mxvben/just_gonna_leave_this_here_for_fellow_diamond/?utm_medium=android_app&utm_source=share)
 
@@ -290,7 +291,7 @@ He is basically saying all the pro-HFT people that say HFT’s “improve liquid
 
 \-----------------------------------------
 
-[   Meme by MrAldo2752](https://preview.redd.it/fe0kn2h9ihv61.png?width=566&format=png&auto=webp&s=c72a3b09b34f7efb4067adce9f4ec6b6d496e5f1)
+![   Meme by MrAldo2752](https://preview.redd.it/fe0kn2h9ihv61.png?width=566&format=png&auto=webp&s=c72a3b09b34f7efb4067adce9f4ec6b6d496e5f1)
 
 **Guest weatherman** [**Sa0t0me**](https://www.reddit.com/user/Sa0t0me/) **predicts:**
 
@@ -330,4 +331,4 @@ Looking at my magical machine-bob, looks like we start the day with some confirm
 
 [~~(2) MORNING NEWS NAME POLL : Superstonk (reddit.com)~~](https://www.reddit.com/r/Superstonk/comments/mz2ewr/morning_news_name_poll/)
 
-![ MORNING NEWS NAME POLL ROUND 2 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mz4275/morning_news_name_poll_round_2/) 
+[ MORNING NEWS NAME POLL ROUND 2 : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mz4275/morning_news_name_poll_round_2/) 

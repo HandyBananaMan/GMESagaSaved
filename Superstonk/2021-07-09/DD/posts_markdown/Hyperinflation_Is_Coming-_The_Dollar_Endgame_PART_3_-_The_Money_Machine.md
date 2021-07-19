@@ -1,5 +1,6 @@
-# Author: peruvian_bull
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/)
+#Title: Hyperinflation Is Coming- The Dollar Endgame PART 3 - "The Money Machine"
+#Author: peruvian_bull
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/](https://www.reddit.com/r/Superstonk/comments/ogzoco/hyperinflation_is_coming_the_dollar_endgame_part/)
 
 
 **I am getting increasingly worried about the amount of warning signals that are flashing red for hyperinflation- I believe the process has already begun, as I will lay out in this paper. The first stages of hyperinflation begin slowly, and as this is an exponential process, most people will not grasp the true extent of it until it is too late.** I know I’m going to gloss over a lot of stuff going over this, sorry about this but I need to fit it all into four posts without giving everyone a 400 page treatise on macro-economics to read. Counter-DDs and opinions welcome. This is going to be a lot longer than a normal DD, but I promise the pay-off is worth it, knowing the history is key to understanding where we are today.
@@ -36,7 +37,7 @@ Part Four: Financial Gravity & the Fed’s Dilemma- “At World’s End” <
 
 &#x200B;
 
-[The Impossible Object](https://preview.redd.it/4f6leb97u7a71.png?width=621&format=png&auto=webp&s=1510c2e35a7ddb551b91f773b534454eb04f0862)
+![The Impossible Object](https://preview.redd.it/4f6leb97u7a71.png?width=621&format=png&auto=webp&s=1510c2e35a7ddb551b91f773b534454eb04f0862)
 
 “The global financial markets walk on the razor’s edge between empiricism and what you see is not what you think. The Impossible Object in art is an illustration that highlights the limitations of human perception and is an appropriate construct for our modern capitalist dystopia\*\*. **The fundamental characteristic of the impossible object is uncertainty of perception. Is it feasible for a real waterfall to flow into itself; or a triangle to twist itself in both directions? Modern financial markets are a game of impossible objects.\*\***
 
@@ -52,7 +53,7 @@ So, they came up with an innovative solution. Instead of handing over coins to t
 
 &#x200B;
 
-[Early Venetian Banks](https://preview.redd.it/7m6dwadbu7a71.png?width=540&format=png&auto=webp&s=2ff1bce0f82affd05fb25afe13cd3905fc3d716d)
+![Early Venetian Banks](https://preview.redd.it/7m6dwadbu7a71.png?width=540&format=png&auto=webp&s=2ff1bce0f82affd05fb25afe13cd3905fc3d716d)
 
 [The banks quickly saw a loophole](https://www.mercatus.org/publications/monetary-policy/fractional-reserve-banking)\- no one was auditing their vaults, and comparing how much gold was there versus how many notes the bank had issued. The financiers immediately began to issue more notes than gold in the vault. **This system would work fine as long as every customer had confidence in their banknote and believed that the gold backing their coins was actually there.**
 
@@ -66,7 +67,7 @@ This money is given to Person #1, who takes this loan and buys some paint for hi
 
 &#x200B;
 
-[Fractional Reserve Banking](https://preview.redd.it/mg5mvzdgu7a71.png?width=621&format=png&auto=webp&s=c4b38b5cc8349a22b39f6e038de906b4aeb0be11)
+![Fractional Reserve Banking](https://preview.redd.it/mg5mvzdgu7a71.png?width=621&format=png&auto=webp&s=c4b38b5cc8349a22b39f6e038de906b4aeb0be11)
 
 All along the way, the bank is able to take the same dollar bills and re-loan it out through multiple transactions (a la rehypothecation), and charge interest on the loans it creates. **This is essentially a near- infinite money glitch in the system, and allows banks to make exorbitant profits,** like [JP Morgan making over $12B in Q4 2020 alone](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2020/4th-quarter/276305ed-730d-4acc-887c-1671d6c39e53.pdf). **However, this process also serves to GREATLY increase systemic risk- in the example above, one single $1000 transaction is turned into what APPEARS as $3,439 in bank accounts, but is actually just credit, re-deposited and re-borrowed over and over again.**
 
@@ -74,13 +75,13 @@ All along the way, the bank is able to take the same dollar bills and re-loan it
 
 &#x200B;
 
-[Money Rehypothecation](https://preview.redd.it/vbzys1iju7a71.png?width=616&format=png&auto=webp&s=6f9031fd218bb645ec619fbb3442588d8e06338b)
+![Money Rehypothecation](https://preview.redd.it/vbzys1iju7a71.png?width=616&format=png&auto=webp&s=6f9031fd218bb645ec619fbb3442588d8e06338b)
 
 Typically, the majority of a banks’ capital provided to businesses will be business loans, lines of credit, or venture financing. These business loans will be put to work to expand factories, build new products, hire workers, or create intellectual property- generally things that expand economic growth.
 
 &#x200B;
 
-[Most of the money exists as debt](https://preview.redd.it/ogqr9ubnu7a71.png?width=618&format=png&auto=webp&s=61c1dfb9e988f1ac18da86c367f1fb4906f7757e)
+![Most of the money exists as debt](https://preview.redd.it/ogqr9ubnu7a71.png?width=618&format=png&auto=webp&s=61c1dfb9e988f1ac18da86c367f1fb4906f7757e)
 
 This effectively means that the vast majority of what we “think” of as money,[ is not cash, but credit.](https://getmoneyrich.com/economy-and-short-term-debt-cycles/) Most funds in the system, thus, exist in the form of debt.
 
@@ -92,7 +93,7 @@ There are two main cycles- the long term “super” cycle, which lasts between 
 
 &#x200B;
 
-[Debt Cycles](https://preview.redd.it/hz3efxltu7a71.png?width=554&format=png&auto=webp&s=31d2c3fb4c8c6e22b563723847267feed31ed448)
+![Debt Cycles](https://preview.redd.it/hz3efxltu7a71.png?width=554&format=png&auto=webp&s=31d2c3fb4c8c6e22b563723847267feed31ed448)
 
 The credit cycle undergoes both expansionary and contractionary phases. Let’s take a look at the four phases of a typical [credit cycle](https://www.investopedia.com/terms/c/credit-cycle.asp).
 
@@ -108,7 +109,7 @@ Let’s look at the US as an example. As you can [see below](https://blogs.cfain
 
 &#x200B;
 
-[Bankruptcy Cycles](https://preview.redd.it/bszlb98wu7a71.png?width=609&format=png&auto=webp&s=9fe0f78c85e4a5d0cb4311e9c7ce273069acbab2)
+![Bankruptcy Cycles](https://preview.redd.it/bszlb98wu7a71.png?width=609&format=png&auto=webp&s=9fe0f78c85e4a5d0cb4311e9c7ce273069acbab2)
 
 # The Great Depression
 
@@ -124,25 +125,25 @@ One cause was the practice of counting checks in the process of collection as pa
 
 Bankers at the time referred to the reserves composed of float as fictitious reserves (again, rehypothecation anyone?). The quantity of fictitious reserves rose throughout the 1920s and peaked just before the financial crisis in 1930. **This meant that the banking system as a whole had fewer cash (or real) reserves available in emergencies.**
 
-[Bank Run \(Suspension of Accts\)](https://preview.redd.it/0zn082jfv7a71.png?width=621&format=png&auto=webp&s=93feba293b300dcc2878e402144b9647b67a13cd)
+![Bank Run \(Suspension of Accts\)](https://preview.redd.it/0zn082jfv7a71.png?width=621&format=png&auto=webp&s=93feba293b300dcc2878e402144b9647b67a13cd)
 
 **Another issue was the inability to mobilize bank reserves in times of crisis.** Nonmember banks kept a portion of their reserves as cash in their vaults and the bulk of their reserves as deposits in “correspondent banks” in designated cities. Many, but not all, of the ultimate correspondents belonged to the Federal Reserve System.
 
 This reserve pyramid limited country banks’ access to reserves during times of crisis. When a bank needed cash, because its customers were panicking and withdrawing funds en masse, the **bank had to turn to its correspondent, which might be faced with requests from many banks simultaneously or might be beset by depositor runs itself.**
 
-[Bank Suspensions](https://preview.redd.it/dca38vzkv7a71.png?width=639&format=png&auto=webp&s=9f3a808d29d1da1fe48a6c7adb37a5617a94c768)
+![Bank Suspensions](https://preview.redd.it/dca38vzkv7a71.png?width=639&format=png&auto=webp&s=9f3a808d29d1da1fe48a6c7adb37a5617a94c768)
 
 On November 7, 1930, one of Caldwell’s (a large financial conglomerate that lost millions in stock market speculation) principal subsidiaries, the Bank of Tennessee (Nashville) closed its doors. On November 12 and 17, Caldwell affiliates in Knoxville, Tennessee, and Louisville, Kentucky, also failed.
 
 The failures of these institutions triggered a correspondent bank cascade that forced scores of commercial banks to suspend operations. In communities where these banks closed, depositors panicked and withdrew funds en masse from other banks. **Panic spread from town to town. Within a few weeks, hundreds of banks suspended operations. About one-third of these organizations reopened within a few months, but the majority were liquidated** ([Source](https://www.federalreservehistory.org/essays/banking-panics-1930-31)). Businesses that relied on loan financing started to collapse, and unemployment started to climb.
 
-[Soup Line](https://preview.redd.it/nc8mr0yov7a71.png?width=621&format=png&auto=webp&s=067a8cf9a4450b0f83516349305423f0a8a4b77a)
+![Soup Line](https://preview.redd.it/nc8mr0yov7a71.png?width=621&format=png&auto=webp&s=067a8cf9a4450b0f83516349305423f0a8a4b77a)
 
 What followed was a protracted period of bank runs and panics lasting for years. Contrary to common belief, not all bank runs happened at the same time- some banks experienced one or two runs- others more than that. **The Great Depression was a series of panics, rather, that culminated in a near-complete collapse of the banking system and a ban on gold as legal tender by FDR in** [**Executive Order 6102**](https://en.wikipedia.org/wiki/Executive_Order_6102)**.**
 
 In the wake of the crisis, several key financial reforms were made. Among them were the creation of FDIC ([Federal Deposit Insurance Corporation](https://www.investopedia.com/terms/f/fdic.asp)) which was created in 1933 to “insure” bank deposits with government funds. This, it was hypothesized, would stop bank runs and restore confidence in the system. Another reform was the creation of the [Glass- Steagall Act](https://www.federalreservehistory.org/essays/glass-steagall-act), a key legal provision that forced commercial and investment banks to remain separate entities.
 
-[Signing of Glass-Steagall](https://preview.redd.it/9vjwadgrv7a71.png?width=539&format=png&auto=webp&s=6ae445fd88ae1b67eb88ccbff5f778324a6ae1c5)
+![Signing of Glass-Steagall](https://preview.redd.it/9vjwadgrv7a71.png?width=539&format=png&auto=webp&s=6ae445fd88ae1b67eb88ccbff5f778324a6ae1c5)
 
 **However, both of these in time would serve to further increase risk, not reduce it.** The FDIC, for example, insured $100k (later updated to $250K during 2008) of bank deposits. This was supposedly done for the benefit of the client, but many overlook that it also greatly benefited the bank. When you deposit cash into a bank, it is an asset to you- but to the bank, this is a liability- it represents a cash amount that they will have to pay out to you upon your request. **By insuring the deposit, the bank gets essentially free insurance on their liabilities, which allows them to justify taking more leverage.**
 
@@ -156,6 +157,6 @@ In the wake of the crisis, several key financial reforms were made. Among them w
 
 &#x200B;
 
-**(Side note: I’ve been accused of being a shill/FUD spreader for the first two posts- please know this is NOT my intention! I cleared this series with Mods, (**![**PROOF**](https://drive.google.com/file/d/1HlM0vR0Mguo83k6KKKQg5HKyCZaLrOHQ/view?usp=sharing)**) (THIS IS A GOOGLE DRIVE LINK, I WASNT SURE HOW ELSE TO SHARE IT) but if you think this is FUD/SHILLY then downvote/comment and we can discuss further.)**
+**(Side note: I’ve been accused of being a shill/FUD spreader for the first two posts- please know this is NOT my intention! I cleared this series with Mods, (**[**PROOF**](https://drive.google.com/file/d/1HlM0vR0Mguo83k6KKKQg5HKyCZaLrOHQ/view?usp=sharing)**) (THIS IS A GOOGLE DRIVE LINK, I WASNT SURE HOW ELSE TO SHARE IT) but if you think this is FUD/SHILLY then downvote/comment and we can discuss further.)**
 
 Also, inflation is GOOD FOR GME> EQUITY PRICES GO UP, SHORTS MUST COVER!!

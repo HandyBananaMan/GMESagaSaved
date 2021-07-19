@@ -1,5 +1,6 @@
-# Author: knutolee
-# Post URL: [https://www.reddit.com/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/](https://www.reddit.com/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/)
+#Title: SEC Failure-To-Deliver Analysis 2021-01-25 to 2021-01-29 GME vs. XRT
+#Author: knutolee
+#Post URL: [https://www.reddit.com/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/](https://www.reddit.com/r/GME/comments/ll6f1y/sec_failuretodeliver_analysis_20210125_to/)
 
 
 Hey all,

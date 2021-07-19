@@ -1,5 +1,6 @@
-# Author: anonfthehfs
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oa95k8/open_letter_to_thosethem_at_the_top_we_see_you_we/](https://www.reddit.com/r/Superstonk/comments/oa95k8/open_letter_to_thosethem_at_the_top_we_see_you_we/)
+#Title: *****Open letter to "THOSE/THEM" at the top. WE SEE YOU: We see your lies, your corruption, your back scratching, your rule changes, your control of the media, your attempts to spin, your attempts to distract, and guess what, WE AREN'T LEAVING. Every day this problem grows bigger..... *****
+#Author: anonfthehfs
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oa95k8/open_letter_to_thosethem_at_the_top_we_see_you_we/](https://www.reddit.com/r/Superstonk/comments/oa95k8/open_letter_to_thosethem_at_the_top_we_see_you_we/)
 
 
 # 

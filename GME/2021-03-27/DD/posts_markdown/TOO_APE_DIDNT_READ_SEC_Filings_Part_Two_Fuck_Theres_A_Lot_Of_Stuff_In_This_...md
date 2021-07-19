@@ -1,5 +1,6 @@
-# Author: Antioch_Orontes
-# Post URL: [https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
+#Title: 🦍💬 [TOO APE DIDN’T READ] SEC Filings Part Two: Fuck There's A Lot Of Stuff In This One (guest appearance by the Federal Reserve)
+#Author: Antioch_Orontes
+#Post URL: [https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/](https://www.reddit.com/r/GME/comments/mecfwi/too_ape_didnt_read_sec_filings_part_two_fuck/)
 
 
 Hey everybody, holy moly what a week. By the time you read this it’ll probably be Saturday morning, because I’ve been working on this between work and bunkering down for tornadoes.
@@ -80,7 +81,7 @@ I ain't gotta do this one, u/luridess went absolutely buckwild on it. Y'all have
 
 [https://www.sec.gov/news/closedmeetings/2021/ssamtg032521.htm](https://www.sec.gov/news/closedmeetings/2021/ssamtg032521.htm)
 
-u/Conscious-Sea-5937 already did this one with hella citations: ![https://www.reddit.com/r/GME/comments/mdegxq/re\_sec\_closed\_meeting\_today\_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
+u/Conscious-Sea-5937 already did this one with hella citations: [https://www.reddit.com/r/GME/comments/mdegxq/re\_sec\_closed\_meeting\_today\_3252021/](https://www.reddit.com/r/GME/comments/mdegxq/re_sec_closed_meeting_today_3252021/)
 
 I'll do a *reeeeally* quick one:
 

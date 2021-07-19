@@ -1,5 +1,6 @@
-# Author: the-truth-time
-# Post URL: [https://www.reddit.com/r/GME/comments/m0efnm/cohen_to_make_announcementbloomberg_on_board/](https://www.reddit.com/r/GME/comments/m0efnm/cohen_to_make_announcementbloomberg_on_board/)
+#Title: Cohen to make announcement-Bloomberg on Board
+#Author: the-truth-time
+#Post URL: [https://www.reddit.com/r/GME/comments/m0efnm/cohen_to_make_announcementbloomberg_on_board/](https://www.reddit.com/r/GME/comments/m0efnm/cohen_to_make_announcementbloomberg_on_board/)
 
 
 Watching Bloomberg & the old man said - "what's gong on here with Gamestop" - up to 150+ pre-market

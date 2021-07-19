@@ -1,10 +1,11 @@
-# Author: Macnassmat
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/](https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/)
+#Title: Airship/Blimp to fly **DURING** NY Mets vs SD Padres @ Citi Field 4:10pm ET Fri, Jun 11th 2021. Message targeting NAKED SHORT SELLERS/HFS and promoting r/Superstonk to help spread awareness FOR THE PEOPLE!! This is our time and maybe even our LAST to STAND THE F*CK UP!! **INQUIRY/QUOTE COMING SOON**
+#Author: Macnassmat
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/](https://www.reddit.com/r/Superstonk/comments/nkd952/airshipblimp_to_fly_during_ny_mets_vs_sd_padres/)
 
 
 &#x200B;
 
-[No caption needed...](https://preview.redd.it/af4680svq5171.png?width=850&format=png&auto=webp&s=220d5483aecf875ac4174b8b4dac29efd76a4881)
+![No caption needed...](https://preview.redd.it/af4680svq5171.png?width=850&format=png&auto=webp&s=220d5483aecf875ac4174b8b4dac29efd76a4881)
 
 Would like to start off with giving a very special thank you to all of those who helped with last aerial banner that flew over Oracle Park & Chase center in SF before Giants vs Dodgers and Warriors vs Mavericks games on Friday May 21st, 2021.
 
@@ -16,7 +17,7 @@ https://preview.redd.it/lha5d96b57171.png?width=696&format=png&auto=webp&s=bed3a
 
 &#x200B;
 
-[Credit: u\/Over\_Reaction2918](https://preview.redd.it/67p2rk8f57171.png?width=960&format=png&auto=webp&s=36b78abf5843ddfc350c8e1bed8fbeb699d96734)
+![Credit: u\/Over\_Reaction2918](https://preview.redd.it/67p2rk8f57171.png?width=960&format=png&auto=webp&s=36b78abf5843ddfc350c8e1bed8fbeb699d96734)
 
 Due to air restrictions could not have last plane fly over during game.
 
@@ -96,4 +97,4 @@ In case it needs to be shortened:
 
 # edit: For security reasons not accepting private messages, please communicate with me here in the comments.
 
-# Official link for donations from ![aerialmessages.com](https://aerialmessages.com) coming soon!
+# Official link for donations from [aerialmessages.com](https://aerialmessages.com) coming soon!

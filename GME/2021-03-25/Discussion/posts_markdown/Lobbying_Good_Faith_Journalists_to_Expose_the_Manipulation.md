@@ -1,5 +1,6 @@
-# Author: Undead_Og
-# Post URL: [https://www.reddit.com/r/GME/comments/mcz58q/lobbying_good_faith_journalists_to_expose_the/](https://www.reddit.com/r/GME/comments/mcz58q/lobbying_good_faith_journalists_to_expose_the/)
+#Title: Lobbying Good Faith Journalists to Expose the Manipulation
+#Author: Undead_Og
+#Post URL: [https://www.reddit.com/r/GME/comments/mcz58q/lobbying_good_faith_journalists_to_expose_the/](https://www.reddit.com/r/GME/comments/mcz58q/lobbying_good_faith_journalists_to_expose_the/)
 
 
 THANK YOU FOR THE AWARDS!  IT HELPS PROMOTE THE POST AND INSPIRE THIS APE!

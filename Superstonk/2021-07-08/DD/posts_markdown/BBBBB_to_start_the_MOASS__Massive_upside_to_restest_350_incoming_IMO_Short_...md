@@ -1,5 +1,6 @@
-# Author: katarinawinemixer
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/](https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/)
+#Title: B.B.B.B.B. to start the M.O.A.S.S ? Massive upside to restest $350 incoming IMO [Short TA]
+#Author: katarinawinemixer
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/](https://www.reddit.com/r/Superstonk/comments/ogjcee/bbbbb_to_start_the_moass_massive_upside_to/)
 
 
 **TL;DR: 1D bounced off the bottom Bollinger band today which has resulted in an upside reversal 100% of the time since JAN 2020.**
@@ -14,7 +15,7 @@ As you can see below, every time a 1D candle touches down on the bottom Bollinge
 
 &#x200B;
 
-[GME 1D Chart](https://preview.redd.it/qn98p0m733a71.jpg?width=5187&format=pjpg&auto=webp&s=61a2744ea9c6d41b460e43fe7f442e62e672dfd5)
+![GME 1D Chart](https://preview.redd.it/qn98p0m733a71.jpg?width=5187&format=pjpg&auto=webp&s=61a2744ea9c6d41b460e43fe7f442e62e672dfd5)
 
 What you may notice off the bat is that **BOUNCE 1** on 4/13 resulted in a limp (but still nice) reversal to a tame upside of *42.42%* ( Low of $132 to High of $188) while **BOUNCE 2** on 5/11 resulted in a strong reversal to an upside of *152.49%* (Low of 136.50 to High of 344.66).
 

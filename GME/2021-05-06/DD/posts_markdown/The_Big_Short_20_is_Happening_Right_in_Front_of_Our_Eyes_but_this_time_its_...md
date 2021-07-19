@@ -1,5 +1,6 @@
-# Author: bmwannonymous
-# Post URL: [https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/](https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/)
+#Title: The Big Short 2.0 is Happening Right in Front of Our Eyes, but this time, it's in the Commercial Mortgage-Backed Securities Market; and how it might relate to $GME
+#Author: bmwannonymous
+#Post URL: [https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/](https://www.reddit.com/r/GME/comments/n6m5e7/the_big_short_20_is_happening_right_in_front_of/)
 
 
 Before reading this, I highly recommend watching this video (only 13 minutes):
@@ -42,7 +43,7 @@ Edit TLDR: **There is a strong possibility that the same tactics that caused the
 
 Edit: credit to u/Link4355, here is the link to an article written by Ryan Grim relating to this: [https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/](https://theintercept.com/2021/04/20/wall-street-cmbs-dollar-general-ladder-capital/)
 
-Credit to u/EnthusiasmPutrid1406, link to podcast on topic: ![https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/](https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/)
+Credit to u/EnthusiasmPutrid1406, link to podcast on topic: [https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/](https://theintercept.com/2021/04/23/deconstructed-whistleblower-financial-crisis/)
 
 ^(this is not financial advice)
 

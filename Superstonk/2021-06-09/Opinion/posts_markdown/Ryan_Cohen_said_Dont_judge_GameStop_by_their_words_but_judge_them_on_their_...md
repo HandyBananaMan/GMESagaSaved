@@ -1,5 +1,6 @@
-# Author: Kokushi
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nwboje/ryan_cohen_said_dont_judge_gamestop_by_their/](https://www.reddit.com/r/Superstonk/comments/nwboje/ryan_cohen_said_dont_judge_gamestop_by_their/)
+#Title: Ryan Cohen said “Don’t judge GameStop by their words, but judge them on their actions”
+#Author: Kokushi
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nwboje/ryan_cohen_said_dont_judge_gamestop_by_their/](https://www.reddit.com/r/Superstonk/comments/nwboje/ryan_cohen_said_dont_judge_gamestop_by_their/)
 
 
 Now call me a tin-foiled hat conspiracy theorist butttt after reading about the normalised votes it just hit me.

@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/mb18u2/definitive_proof_that_gmes_price_has_been/](https://www.reddit.com/r/GME/comments/mb18u2/definitive_proof_that_gmes_price_has_been/)
+#Title: Definitive proof that GME's price has been artificially deflated, that apes are💎✋ and that total buying pressure has actually INCREASED by 24%! This rocket is ready to pop! 💎✋🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/mb18u2/definitive_proof_that_gmes_price_has_been/](https://www.reddit.com/r/GME/comments/mb18u2/definitive_proof_that_gmes_price_has_been/)
 
 
 Hello my fellow Apes 🦍🦍🦍,
@@ -81,7 +82,7 @@ The **red line is what I think the OBV SHOULD look like for the current stock pr
 
 **Stake:** Shares in GME
 
-![This is an update to my previous post on OBV and I have had several people ask for an update.](https://www.reddit.com/r/GME/comments/m6fjld/the_ultimate_fud_killer_definitive_proof_that/)
+[This is an update to my previous post on OBV and I have had several people ask for an update.](https://www.reddit.com/r/GME/comments/m6fjld/the_ultimate_fud_killer_definitive_proof_that/)
 
 &#x200B;
 

@@ -1,5 +1,6 @@
-# Author: thabat
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/](https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/)
+#Title: Counting The Shares - 144% counting ONLY top 31 institutions + top 10 ETFs + Superstonk poll.
+#Author: thabat
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/](https://www.reddit.com/r/Superstonk/comments/mwr22h/counting_the_shares_144_counting_only_top_31/)
 
 
 Following this rabbit hole:
@@ -134,7 +135,7 @@ Adding in DFV: 200k shares = **8,007,772 extra** shares.
 
 Goldman Sachs as of April 1st lists 900k shares according to
 
-![https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n)
+[https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n](https://www.gsam.com/content/dam/gsam/pdfs/us/en/fund-resources/full-portfolio-holdings/small-cap-equity-insights-holdings.pdf?sa=n&rd=n)
 
 ("Per end date" 1/31/2021 but pdf says still good as of April 1st. They also own 12m of AMC for some reason)
 

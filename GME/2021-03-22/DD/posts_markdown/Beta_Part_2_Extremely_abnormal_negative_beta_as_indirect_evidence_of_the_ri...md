@@ -1,5 +1,6 @@
-# Author: animasoul
-# Post URL: [https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/](https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/)
+#Title: Beta Part 2: Extremely abnormal negative beta as indirect evidence of the risk management of shorts that have not covered
+#Author: animasoul
+#Post URL: [https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/](https://www.reddit.com/r/GME/comments/mau3dk/beta_part_2_extremely_abnormal_negative_beta_as/)
 
 
 Yay, I just noticed that the mods only require an account to be 30 days old now, so this is my first post in r/GME. It is also intended to complete my first post about beta, originally posted in r/Wallstreetbetsnew.
@@ -80,7 +81,7 @@ What changed in the drivers of the market? The hand of a giant squid? A manipula
 
 &#x200B;
 
-[Stepping through the looking glass into the alternative world of the shorts](https://preview.redd.it/ky613adr1oo61.jpg?width=206&format=pjpg&auto=webp&s=ed7454a49f7e86014c55e4cd6ba7a61f04f3dd08)
+![Stepping through the looking glass into the alternative world of the shorts](https://preview.redd.it/ky613adr1oo61.jpg?width=206&format=pjpg&auto=webp&s=ed7454a49f7e86014c55e4cd6ba7a61f04f3dd08)
 
 ***Curiouser and curiouser***\*\*: If long GME is -2 ß, then short GME must be +2 ß\*\*
 

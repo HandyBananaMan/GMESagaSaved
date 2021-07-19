@@ -1,5 +1,6 @@
-# Author: LambSauce666
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/mqq55r/keep_quiet_during_the_squeeze_prematurely/](https://www.reddit.com/r/Superstonk/comments/mqq55r/keep_quiet_during_the_squeeze_prematurely/)
+#Title: KEEP QUIET during the squeeze — Prematurely celebrating will cause HUGE emotional pressure to sell if it dips at all before reaching your floor (of 10 mil)
+#Author: LambSauce666
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/mqq55r/keep_quiet_during_the_squeeze_prematurely/](https://www.reddit.com/r/Superstonk/comments/mqq55r/keep_quiet_during_the_squeeze_prematurely/)
 
 
 Credit to u/JerryTheGiraffe820 for the idea regarding FUD caused by family and friends. Very good topic of discussion

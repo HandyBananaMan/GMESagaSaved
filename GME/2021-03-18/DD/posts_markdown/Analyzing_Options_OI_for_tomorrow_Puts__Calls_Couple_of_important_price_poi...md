@@ -1,5 +1,6 @@
-# Author: Dwellerofthecrags
-# Post URL: [https://www.reddit.com/r/GME/comments/m81nei/analyzing_options_oi_for_tomorrow_puts_calls/](https://www.reddit.com/r/GME/comments/m81nei/analyzing_options_oi_for_tomorrow_puts_calls/)
+#Title: Analyzing Options OI for tomorrow (Puts & Calls). Couple of important price points to pay attention to. Definitely looks like there could some big battles on the horizon so buckle up and HOLD on! 💎🙌
+#Author: Dwellerofthecrags
+#Post URL: [https://www.reddit.com/r/GME/comments/m81nei/analyzing_options_oi_for_tomorrow_puts_calls/](https://www.reddit.com/r/GME/comments/m81nei/analyzing_options_oi_for_tomorrow_puts_calls/)
 
 
 TL;DR I'm a smooth brain but I find this information fascinating and think there could be some pretty good action around several price points tomorrow. I believe this to be the reason shorts loaded up and longs have remained patient. Both are ready for the possibility of an epic battle. Would love to have more wrinkly brained apes contribute to the information here.

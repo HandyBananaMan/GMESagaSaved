@@ -1,5 +1,6 @@
-# Author: Cuttingwater_
-# Post URL: [https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/](https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/)
+#Title: The concept of 'Max Pain' and why this is probably the reason the 'Whales' decided to not push up the price on Friday after they met resistance. They wanted to inflict the maximum pain on shorts while spending the least amount of money. way to rub 🧂 in the wound! 💎✋🚀🚀🚀
+#Author: Cuttingwater_
+#Post URL: [https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/](https://www.reddit.com/r/GME/comments/mejp0k/the_concept_of_max_pain_and_why_this_is_probably/)
 
 
 Hello my fellow Apes 🦍🦍🦍,
@@ -32,7 +33,7 @@ Manually calculating the max pain price is an arduous process (literally summing
 
 One of them is [maximum-pain.com](http://maximum-pain.com/options) and another is [Swaggystocks.com](https://swaggystocks.com/dashboard/options-max-pain/GME).
 
-I prefer the look of [maximum-pain.com](https://maximum-pain.com) however it seems you can not look at historicals and now they only have April 1st data. Luckily I still had a tab open with ![Swaggystocks.com](https://Swaggystocks.com), so I will use graphs from them.
+I prefer the look of [maximum-pain.com](https://maximum-pain.com) however it seems you can not look at historicals and now they only have April 1st data. Luckily I still had a tab open with [Swaggystocks.com](https://Swaggystocks.com), so I will use graphs from them.
 
 &#x200B;
 

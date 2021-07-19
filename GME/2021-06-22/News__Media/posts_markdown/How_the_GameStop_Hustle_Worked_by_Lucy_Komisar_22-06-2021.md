@@ -1,5 +1,6 @@
-# Author: TheDudeIsOutThere
-# Post URL: [https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/](https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/)
+#Title: How the GameStop Hustle Worked by Lucy Komisar 22-06-2021
+#Author: TheDudeIsOutThere
+#Post URL: [https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/](https://www.reddit.com/r/GME/comments/o5oj0y/how_the_gamestop_hustle_worked_by_lucy_komisar/)
 
 
  I just came across this good article by Lucy Komisar:
@@ -22,4 +23,4 @@ Here’s how it works.
 
 The SEC allows traders to *short* a stock, which means to sell it even if they don’t own it, hoping to buy it back later at a lower price and bank the difference. Short sellers borrow the stock, usually from a broker, who either has it in their inventory, borrows it from another broker, or vows to “locate” the stock when the time comes and cover the short."
 
-![Continue Reading here](https://prospect.org/power/how-the-gamestop-hustle-worked/)
+[Continue Reading here](https://prospect.org/power/how-the-gamestop-hustle-worked/)

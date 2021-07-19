@@ -1,5 +1,6 @@
-# Author: dentisttft
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/](https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/)
+#Title: Deeper dive into ETF FTDs and T+35
+#Author: dentisttft
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/](https://www.reddit.com/r/Superstonk/comments/ofi0yw/deeper_dive_into_etf_ftds_and_t35/)
 
 
 *This post is for education purposes only. Not financial advice.*
@@ -26,7 +27,7 @@ I’ve gotten a lot of good information about ETFs using this video: [https://ww
 
 Market Makers are allowed to fail-to-deliver ETF shares and hold them as failures for three extra days in the name of liquidity! It is due to a market maker exception allowing this. The way this looks is: (a) trade date, (b) becomes a FTD on T+2, (c) allowed T+3 more days of holding it as an FTD, (d) cover the FTD on the sixth day (in our case, opening puts to delay T+35 more days).
 
-[MM’s are allowed to keep FTDs open for a few extra days.](https://preview.redd.it/3khunklh8s971.png?width=632&format=png&auto=webp&s=af873b5aab526ee1bb885794851a208312d437ce)
+![MM’s are allowed to keep FTDs open for a few extra days.](https://preview.redd.it/3khunklh8s971.png?width=632&format=png&auto=webp&s=af873b5aab526ee1bb885794851a208312d437ce)
 
 ***Important Note:*** In the video he mentions T+6 a lot, but in the footnote of his paper he points out the rule is actually T+5, but they collected all of their data before the rule was changed. So they presented it with T+6 still.
 
@@ -34,7 +35,7 @@ They don’t HAVE to keep it open for the extra days, but they often do. Looking
 
 &#x200B;
 
-[The darker green signifies a higher weighted amount of FTDs within the ETF.](https://preview.redd.it/m2se9inm8s971.png?width=1328&format=png&auto=webp&s=230da391dd110850c884d027b0f21fba91e9870f)
+![The darker green signifies a higher weighted amount of FTDs within the ETF.](https://preview.redd.it/m2se9inm8s971.png?width=1328&format=png&auto=webp&s=230da391dd110850c884d027b0f21fba91e9870f)
 
 &#x200B;
 
@@ -48,7 +49,7 @@ If an AP borrows ETF shares and pays a small fee, they can break groups of ETF s
 
 Here is a graph showing the day-to-day number of shares in existence of the three GME ETF’s with the most FTDs.
 
-[XRT and IWM shares outstanding drop at the end of January while XSVM is steadily climbing over time.](https://preview.redd.it/85e90mur8s971.png?width=892&format=png&auto=webp&s=e7ba654d253bc83d1b8536d332860ad31496da54)
+![XRT and IWM shares outstanding drop at the end of January while XSVM is steadily climbing over time.](https://preview.redd.it/85e90mur8s971.png?width=892&format=png&auto=webp&s=e7ba654d253bc83d1b8536d332860ad31496da54)
 
 *\*\*\**
 
@@ -62,13 +63,13 @@ When GME drops 10% during regular trading hours compared to the closing price of
 
 Here is a chart of the ETFs weighted by the GME weighting within the ETF as of the beginning of June. I didn’t adjust the weights over time, but hopefully this should get pretty close. Ignore the units, just look at the relative sizes.
 
-[FTDs counts from the more shorted ETFs](https://preview.redd.it/w432hjy19s971.png?width=891&format=png&auto=webp&s=40c53affede24ce37ddf8acc8beab9288a475272)
+![FTDs counts from the more shorted ETFs](https://preview.redd.it/w432hjy19s971.png?width=891&format=png&auto=webp&s=40c53affede24ce37ddf8acc8beab9288a475272)
 
 And here is the same chart with SSR days marked in green.
 
 &#x200B;
 
-[Green boxes around SSR periods.](https://preview.redd.it/4n9yk0w59s971.png?width=891&format=png&auto=webp&s=cf08aace6c62a10bad5ee76b5677938ab1d1e798)
+![Green boxes around SSR periods.](https://preview.redd.it/4n9yk0w59s971.png?width=891&format=png&auto=webp&s=cf08aace6c62a10bad5ee76b5677938ab1d1e798)
 
 This chart is a little confusing and not super obvious, but the important part is that ETF FTDs go up after a 5 day delay due to operational shorting.
 
@@ -80,7 +81,7 @@ It gets taken care of the same way as I explained in my original T+35 theory DD.
 
 The difference is that GME FTDs start the 34 timer when they show up as FTDs while ETF FTDs don’t start the 34 day timer until they get cleared.
 
-[Start the 34 day countdown on the day the ETF’s FTDs drop.](https://preview.redd.it/sz0zqklj9s971.png?width=834&format=png&auto=webp&s=52cfa8213e6485da19e0097bb9b25398438f9a32)
+![Start the 34 day countdown on the day the ETF’s FTDs drop.](https://preview.redd.it/sz0zqklj9s971.png?width=834&format=png&auto=webp&s=52cfa8213e6485da19e0097bb9b25398438f9a32)
 
 &#x200B;
 
@@ -88,7 +89,7 @@ But let’s continue with my old T+35 DD and first let’s double check that put
 
 &#x200B;
 
-[Three different days where a lot of FTDs are “cleared”.](https://preview.redd.it/6jb1s8hq9s971.png?width=716&format=png&auto=webp&s=e655d9fc9cf2e9f8e5e6fe033d710e95275c7160)
+![Three different days where a lot of FTDs are “cleared”.](https://preview.redd.it/6jb1s8hq9s971.png?width=716&format=png&auto=webp&s=e655d9fc9cf2e9f8e5e6fe033d710e95275c7160)
 
 &#x200B;
 
@@ -96,9 +97,9 @@ So let's look for puts. They are almost always on the first monthly expiration t
 
 &#x200B;
 
-[ Puts opened on Feb 1](https://preview.redd.it/28vugmmy9s971.png?width=1565&format=png&auto=webp&s=8193d13ea0b56f48545d073178a9913db2ff23ca)
+![ Puts opened on Feb 1](https://preview.redd.it/28vugmmy9s971.png?width=1565&format=png&auto=webp&s=8193d13ea0b56f48545d073178a9913db2ff23ca)
 
-[ Puts on Feb 4](https://preview.redd.it/va7x74dz9s971.png?width=892&format=png&auto=webp&s=a969728ad8de054dcbff09ef55380d9b52bd4b76)
+![ Puts on Feb 4](https://preview.redd.it/va7x74dz9s971.png?width=892&format=png&auto=webp&s=a969728ad8de054dcbff09ef55380d9b52bd4b76)
 
 &#x200B;
 
@@ -106,7 +107,7 @@ So let's look for puts. They are almost always on the first monthly expiration t
 
 Now that puts have been confirmed to be opened, it's time to check out what XRT does after 34 days. If the puts for XRT are opened from Feb 1 to Feb 4, then T+35 would give the 34 day cover to be 3/5 to 3/10.
 
-[T+35 of ETF FTD leads to a jump](https://preview.redd.it/ow9v8ny8as971.png?width=939&format=png&auto=webp&s=2785b90b52103276ef518bf21f2aea5454bf8324)
+![T+35 of ETF FTD leads to a jump](https://preview.redd.it/ow9v8ny8as971.png?width=939&format=png&auto=webp&s=2785b90b52103276ef518bf21f2aea5454bf8324)
 
 &#x200B;
 
@@ -114,7 +115,7 @@ Cool, the good ol' T+35 jump. And we all know what happened to GME during those 
 
 &#x200B;
 
-[It doesn’t move.](https://preview.redd.it/6gopjc3fas971.png?width=994&format=png&auto=webp&s=0571b6e71700273bad93164bf325f14536895e4e)
+![It doesn’t move.](https://preview.redd.it/6gopjc3fas971.png?width=994&format=png&auto=webp&s=0571b6e71700273bad93164bf325f14536895e4e)
 
 &#x200B;
 
@@ -151,7 +152,7 @@ When GME is going up, ETFs get shorted and the price of a lot of underlying stoc
 
 Let’s look at one last chart. I *attempted to* line up the ETF FTDs with their T+35 cover dates on SPY.
 
-[ETF FTDs with their T+35 dates on SPY. ](https://preview.redd.it/9qszoed8bs971.png?width=987&format=png&auto=webp&s=cb2643e327fa06c591673f59a23ff4f9301396ff)
+![ETF FTDs with their T+35 dates on SPY. ](https://preview.redd.it/9qszoed8bs971.png?width=987&format=png&auto=webp&s=cb2643e327fa06c591673f59a23ff4f9301396ff)
 
 ETF FTDs line up with rises in SPY. Pretty cool, eh?
 
@@ -169,13 +170,13 @@ Another ape by the name of u/BurningMist plotted cumulative FTD value vs GME sto
 
 &#x200B;
 
->There also seems to be a relation with the cumulative GME FTD notional value and the daily low price 35 days later. I summed up the $ value of all cumulative GME FTDS from 12/1/20 until 6/15/21 and if you plot that vs the log price 35 days later you get [this](https://i.imgur.com/Gjyp5Rk.png). I also made another trendline from 1-4-21 to 6-15-21 and got [this](https://i.imgur.com/rMJhUDe.png).  
+>There also seems to be a relation with the cumulative GME FTD notional value and the daily low price 35 days later. I summed up the $ value of all cumulative GME FTDS from 12/1/20 until 6/15/21 and if you plot that vs the log price 35 days later you get ![this](https://i.imgur.com/Gjyp5Rk.png). I also made another trendline from 1-4-21 to 6-15-21 and got ![this](https://i.imgur.com/rMJhUDe.png).  
 >  
->I've been running on the exponential increase assumption before now but using T+35 instead follows the price closer than an exponential increase over time has been able to. I used that slope and intercept from the 1-4-21 graph to predict the GME log10 price 35 days later and then plotted it with the trendline of the GME log10 price over time in this [graph](https://i.imgur.com/KwSlhTZ.png). I used an average increase of $5,500,000 per day after 7-18-21 to project until 9-1-21. Not exactly sure why the cumulative GME FTD $ follows the price 35 days later but thought I would share.
+>I've been running on the exponential increase assumption before now but using T+35 instead follows the price closer than an exponential increase over time has been able to. I used that slope and intercept from the 1-4-21 graph to predict the GME log10 price 35 days later and then plotted it with the trendline of the GME log10 price over time in this ![graph](https://i.imgur.com/KwSlhTZ.png). I used an average increase of $5,500,000 per day after 7-18-21 to project until 9-1-21. Not exactly sure why the cumulative GME FTD $ follows the price 35 days later but thought I would share.
 
 &#x200B;
 
-[GME’s price plotted against cumulative FTD notional value](https://preview.redd.it/9w08xnpzbs971.png?width=1766&format=png&auto=webp&s=4e80f7d033a49b1945c4497ba2a6a84681a1498c)
+![GME’s price plotted against cumulative FTD notional value](https://preview.redd.it/9w08xnpzbs971.png?width=1766&format=png&auto=webp&s=4e80f7d033a49b1945c4497ba2a6a84681a1498c)
 
 &#x200B;
 
@@ -199,7 +200,7 @@ pce\~\~
 
 My Twitter has some random daily thoughts/price predictions that don’t require a full post.
 
-![https://twitter.com/dentisttft](https://twitter.com/dentisttft)
+[https://twitter.com/dentisttft](https://twitter.com/dentisttft)
 
 &#x200B;
 

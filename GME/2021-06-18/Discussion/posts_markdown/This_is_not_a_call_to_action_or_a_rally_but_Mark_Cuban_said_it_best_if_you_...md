@@ -1,5 +1,6 @@
-# Author: JustAnuthaLooser
-# Post URL: [https://www.reddit.com/r/GME/comments/o2hiow/this_is_not_a_call_to_action_or_a_rally_but_mark/](https://www.reddit.com/r/GME/comments/o2hiow/this_is_not_a_call_to_action_or_a_rally_but_mark/)
+#Title: This is not a call to action, or a rally, but: Mark Cuban, said it best, if you truly want to make a difference.. then support the company as well as buying the stock, it's simple, really. A stock right now is $200+ you're telling me you can't afford a $15 pro membership? Sus.
+#Author: JustAnuthaLooser
+#Post URL: [https://www.reddit.com/r/GME/comments/o2hiow/this_is_not_a_call_to_action_or_a_rally_but_mark/](https://www.reddit.com/r/GME/comments/o2hiow/this_is_not_a_call_to_action_or_a_rally_but_mark/)
 
 
 I know a lot of you ARE in fact doing this and that's pretty fucking sweet, kudos to you! Apes together strong!

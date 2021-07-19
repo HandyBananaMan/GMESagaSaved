@@ -1,5 +1,6 @@
-# Author: No1Important_4real
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/](https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/)
+#Title: In death by 1000 cuts, SHF just received their 999 cut
+#Author: No1Important_4real
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/](https://www.reddit.com/r/Superstonk/comments/o0mn0y/in_death_by_1000_cuts_shf_just_received_their_999/)
 
 
 **EDIT 06/25:** I have made a follow up post as soon as the numbers came out: [https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000\_cuts\_how\_its\_going\_reported\_si\_at\_967\_million/](https://www.reddit.com/r/Superstonk/comments/o7fiyf/1000_cuts_how_its_going_reported_si_at_967_million/)
@@ -68,9 +69,9 @@ I hope you're still with me, we're almost there....
 
 &#x200B;
 
-[Pretty pictures](https://preview.redd.it/g49n3z9peh571.png?width=1866&format=png&auto=webp&s=45312c14e7656455d6791d0e765be717c4eed00e)
+![Pretty pictures](https://preview.redd.it/g49n3z9peh571.png?width=1866&format=png&auto=webp&s=45312c14e7656455d6791d0e765be717c4eed00e)
 
-[Scary numbers!](https://preview.redd.it/zlu198bxvh571.png?width=308&format=png&auto=webp&s=b1b91ba7bd00b5f164716d4d5390fd666b18dd7b)
+![Scary numbers!](https://preview.redd.it/zlu198bxvh571.png?width=308&format=png&auto=webp&s=b1b91ba7bd00b5f164716d4d5390fd666b18dd7b)
 
 Here is a chart of settlement dates, the high that resulted from the date, and the low a day or two previous to the high. The highs are always (except for in 2 exceptions) the day BEFORE settlement. For the two exceptions, the high was two days before settlement. The lows occur before the high within a day or two. Lastly is the percent increase.
 
@@ -108,7 +109,7 @@ What's that I hear you saying over you bowl of cheerios with no milk? "Oh, but t
 
 I don't want to tell you jack shit about me, who I am or what I do in the real world, but I do have personal experience on this front, I do know what I'm talking about. The SEC may have their thumbs up their asses but if you fuck the dog too much, they will have no choice but to prosecute you. You can stick a finger or two in, but when you go balls deep there will be consequences.
 
-![https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities\_Fraud\_FY19.pdf](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities_Fraud_FY19.pdf)
+[https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities\_Fraud\_FY19.pdf](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Securities_Fraud_FY19.pdf)
 
 Fraud, actual fucking fraud, not the stupid ass bullshit people on here like to call fraud, but REAL fucking fraud gets the government wet. USDAs will jump on them, it's a slam dunk easy case, the government gets to collect a bunch of sweet cash from their restitution payments, probation offices get to toss them onto the low risk caseload and check in with them a couple times a year. Everyone on the federal side wins. Again, I don't want to say too much but I know what I'm talking about on this topic, these assholes get prosecuted, they get years of probation and sometimes small stints in prison. Worst of all, you lose your ability to EVER practice finance again. Scarlett letter, they're fucked.
 

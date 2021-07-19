@@ -1,5 +1,6 @@
-# Author: NorthBalance
-# Post URL: [https://www.reddit.com/r/GME/comments/md69vo/dd_why_gme_went_up_today_and_how_citadel_may/](https://www.reddit.com/r/GME/comments/md69vo/dd_why_gme_went_up_today_and_how_citadel_may/)
+#Title: DD: WHY GME WENT UP TODAY AND HOW CITADEL MAY CRASH THE ENTIRE MARKET BY NAKED SHORTING GME THROUGH ETFS
+#Author: NorthBalance
+#Post URL: [https://www.reddit.com/r/GME/comments/md69vo/dd_why_gme_went_up_today_and_how_citadel_may/](https://www.reddit.com/r/GME/comments/md69vo/dd_why_gme_went_up_today_and_how_citadel_may/)
 
 
 **TL;DR: Citadel is naked shorting ETFs (Operational Shorting) containing GME to drive down the price, in the first drop in Feb they shorted XRT, and in the past week they have shorted the entire Russell 2000 (IWM). Read the whole thing to learn why this irresponsible action may lead to the crash of the ENTIRE MARKET.**
@@ -143,4 +144,4 @@ Evans, Richard B. and Moussawi, Rabih and Pagano, Michael S. and Sedunov, John, 
 
 **SEC Fail to Deliver Data**
 
-![https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)
+[https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)

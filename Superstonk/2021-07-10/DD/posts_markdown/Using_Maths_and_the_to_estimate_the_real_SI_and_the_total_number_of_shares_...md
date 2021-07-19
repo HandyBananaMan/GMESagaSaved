@@ -1,5 +1,6 @@
-# Author: ThrilHouse83
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/](https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/)
+#Title: Using Maths and the to estimate the real SI and the total number of shares shorted
+#Author: ThrilHouse83
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/](https://www.reddit.com/r/Superstonk/comments/ohqka0/using_maths_and_the_to_estimate_the_real_si_and/)
 
 
 Hi all, I wanted to repost this fantastic DD from yesterday that seems to have gotten completely lost in the avalanche of karma farming lego meme's. All credit goes to [u/nydus\_erdos](https://www.reddit.com/user/nydus_erdos/). This is part two of his series, both posts are top tier IMO and deserve more love. You can find them here:
@@ -109,7 +110,7 @@ I DID NOT MAKE THIS! IT WAS ORIGINALLY POSTED BY u/MisterFinishLine.! [https://w
 
 &#x200B;
 
-[Time Frame](https://preview.redd.it/8pzd9plt4ga71.png?width=1085&format=png&auto=webp&s=86a0ec858c26316fb0add3ca0df57313fab5a6dd)
+![Time Frame](https://preview.redd.it/8pzd9plt4ga71.png?width=1085&format=png&auto=webp&s=86a0ec858c26316fb0add3ca0df57313fab5a6dd)
 
 \-----------------------------------------------------------------------------------------------
 
@@ -143,15 +144,15 @@ With buy pressure pretty much neutralized. Its hard for me to judge the how much
 
 FINNERTY FORMULAS
 
-[Quantity Shorted](https://preview.redd.it/xax47cpu4ga71.png?width=919&format=png&auto=webp&s=ae6de0da936ab3191b25da1f014a733d7c288d51)
+![Quantity Shorted](https://preview.redd.it/xax47cpu4ga71.png?width=919&format=png&auto=webp&s=ae6de0da936ab3191b25da1f014a733d7c288d51)
 
 VARIABLE *B*
 
-[Elasticity](https://preview.redd.it/al41sdvv4ga71.png?width=977&format=png&auto=webp&s=de833e2bca03a4b97528fb651e94fc85e5bfff22)
+![Elasticity](https://preview.redd.it/al41sdvv4ga71.png?width=977&format=png&auto=webp&s=de833e2bca03a4b97528fb651e94fc85e5bfff22)
 
 &#x200B;
 
-[Variable B](https://preview.redd.it/2bx6yj6x4ga71.png?width=851&format=png&auto=webp&s=3525b0733c687395d3d919a577478837c17290e4)
+![Variable B](https://preview.redd.it/2bx6yj6x4ga71.png?width=851&format=png&auto=webp&s=3525b0733c687395d3d919a577478837c17290e4)
 
 &#x200B;
 
@@ -159,7 +160,7 @@ VARIABLE *A*
 
 &#x200B;
 
-[Variable A](https://preview.redd.it/rhkmakma5ga71.png?width=980&format=png&auto=webp&s=33ece2edace98830a32933bdaae3cd52946f6196)
+![Variable A](https://preview.redd.it/rhkmakma5ga71.png?width=980&format=png&auto=webp&s=33ece2edace98830a32933bdaae3cd52946f6196)
 
 &#x200B;
 
@@ -167,7 +168,7 @@ VARIABLE *H*
 
 &#x200B;
 
-[Variable H](https://preview.redd.it/du6kmnfc5ga71.png?width=949&format=png&auto=webp&s=02b0223ad8d9f7de69ac1c96c0a53071a753a5bd)
+![Variable H](https://preview.redd.it/du6kmnfc5ga71.png?width=949&format=png&auto=webp&s=02b0223ad8d9f7de69ac1c96c0a53071a753a5bd)
 
 &#x200B;
 

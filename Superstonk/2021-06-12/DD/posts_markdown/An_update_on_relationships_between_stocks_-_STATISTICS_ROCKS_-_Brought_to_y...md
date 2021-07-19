@@ -1,5 +1,6 @@
-# Author: xpurplexamyx
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/](https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/)
+#Title: An update on relationships between stocks - STATISTICS ROCKS! - Brought to you by the SuperstonkQuants 🦍🥼🔬🚀
+#Author: xpurplexamyx
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/](https://www.reddit.com/r/Superstonk/comments/nym1ua/an_update_on_relationships_between_stocks/)
 
 
 Edit: Some folks have asked for a TA;DR. It's sorta hard to distill this post down into a mere sentence, but I'll try to channel my smooth brain:
@@ -108,7 +109,7 @@ I WAS SO HAPPY WHEN I SAW THIS. I tested a bunch of other stocks (and simulated 
 
 &#x200B;
 
-[Replication of Q1: Comparison of GME, AMC, BBBY, KOSS, NAKD, NOK, and VIX](https://preview.redd.it/cicfdenqvx471.png?width=3032&format=png&auto=webp&s=200877f436463a02b344f0f1dd5aa8011279b80c)
+![Replication of Q1: Comparison of GME, AMC, BBBY, KOSS, NAKD, NOK, and VIX](https://preview.redd.it/cicfdenqvx471.png?width=3032&format=png&auto=webp&s=200877f436463a02b344f0f1dd5aa8011279b80c)
 
 *Ed note:* [*Q1 bitbucket repo is here*](https://github.com/SuperstonkQuants/q1_correlations)
 
@@ -127,6 +128,6 @@ Now that we have a good method for correlations, there is a lot we can do! First
 * We want to use this method for crypto data (which is even messier than stock data) as many of you have suggested.
 * WHATEVER ELSE YOU COME UP WITH
 
-Our strength comes from the hive mind, so I hope many of you can use these tools to ask your own questions. The code will be ![available on the github](https://github.com/SuperstonkQuants/statistics_rocks), so go have a look (and also check out all the other amazing stuff there).
+Our strength comes from the hive mind, so I hope many of you can use these tools to ask your own questions. The code will be [available on the github](https://github.com/SuperstonkQuants/statistics_rocks), so go have a look (and also check out all the other amazing stuff there).
 
 The more we know, the better prepared we will be to make sure the world is a better place. I love all you sexy, hairy apes <3 and a shoutout to the mods who are doing an AMAZING job.

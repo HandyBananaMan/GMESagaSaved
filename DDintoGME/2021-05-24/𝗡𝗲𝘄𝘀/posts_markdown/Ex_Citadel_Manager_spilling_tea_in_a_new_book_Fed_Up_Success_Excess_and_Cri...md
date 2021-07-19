@@ -1,5 +1,6 @@
-# Author: wkowdyw
-# Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/](https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/)
+#Title: Ex Citadel Manager spilling tea in a new book: Fed Up! Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
+#Author: wkowdyw
+#Post URL: [https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/](https://www.reddit.com/r/DDintoGME/comments/nk3nn0/ex_citadel_manager_spilling_tea_in_a_new_book_fed/)
 
 
 \--- start of article ---
@@ -28,6 +29,6 @@ Colin Lancaster, the author of Fed Up!, is a 25-year Wall Street professional wh
 
 Lancaster has often been quoted in The Wall Street Journal, The New York Times, and the Financial Times. A graduate of Princeton University and Marquette University Law School, he and his wife divide their time between London and Miami.
 
-Source: ![https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/](https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/)
+Source: [https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/](https://communitynewspapers.com/biscayne-bay/fed-up-fascinating-tale-of-immense-wealth-tough-choices-and-compromised-values/)
 
 \--- end of article ---

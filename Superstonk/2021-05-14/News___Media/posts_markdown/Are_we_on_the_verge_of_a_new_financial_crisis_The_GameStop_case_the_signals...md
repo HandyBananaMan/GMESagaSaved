@@ -1,5 +1,6 @@
-# Author: EA_LT
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/ncgojw/are_we_on_the_verge_of_a_new_financial_crisis_the/](https://www.reddit.com/r/Superstonk/comments/ncgojw/are_we_on_the_verge_of_a_new_financial_crisis_the/)
+#Title: Are we on the verge of a new financial crisis? The GameStop case, the signals of Hedge Funds and the rise of cryptocurrencies (translated from Italian)
+#Author: EA_LT
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/ncgojw/are_we_on_the_verge_of_a_new_financial_crisis_the/](https://www.reddit.com/r/Superstonk/comments/ncgojw/are_we_on_the_verge_of_a_new_financial_crisis_the/)
 
 
 Hi everyone,
@@ -208,7 +209,7 @@ Archegos served as an alarm bell for the system to wake up and act to protect it
 
 Edit: formatting.
 
-![Link to original](https://www.futurimagazine.it/scenari/siamo-sullorlo-di-una-nuova-crisi-finanziaria-il-caso-gamestop-i-segnali-degli-hedge-funds-e-lascesa-delle-criptovalute/)
+[Link to original](https://www.futurimagazine.it/scenari/siamo-sullorlo-di-una-nuova-crisi-finanziaria-il-caso-gamestop-i-segnali-degli-hedge-funds-e-lascesa-delle-criptovalute/)
 
 Thanks for the awards! 💎🙌
 

@@ -1,5 +1,6 @@
-# Author: ninche60
-# Post URL: [https://www.reddit.com/r/Superstonk/comments/oce1sc/i_think_we_are_over_thinking_the_741_time_stamps/](https://www.reddit.com/r/Superstonk/comments/oce1sc/i_think_we_are_over_thinking_the_741_time_stamps/)
+#Title: I think we are over thinking the 7:41 time stamps. I think it’s simply trying to tell us there were 741 million shares counted. Godzilla!
+#Author: ninche60
+#Post URL: [https://www.reddit.com/r/Superstonk/comments/oce1sc/i_think_we_are_over_thinking_the_741_time_stamps/](https://www.reddit.com/r/Superstonk/comments/oce1sc/i_think_we_are_over_thinking_the_741_time_stamps/)
 
 
 Both tweets were the last day of the month after voting was finalized and probably audited. His second tweet at the end of the month is to tell us this is not a coincidence. 

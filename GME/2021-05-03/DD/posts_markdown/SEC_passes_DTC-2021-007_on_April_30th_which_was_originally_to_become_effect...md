@@ -1,5 +1,6 @@
-# Author: creakfast
-# Post URL: [https://www.reddit.com/r/GME/comments/n466af/sec_passes_dtc2021007_on_april_30th_which_was/](https://www.reddit.com/r/GME/comments/n466af/sec_passes_dtc2021007_on_april_30th_which_was/)
+#Title: SEC passes DTC-2021-007 on April 30th, which was originally to become effective on July 9th, 2021. Clarifying misunderstandings and connecting the dots with 'The EVERYTHING Short.' (Not financial advice)
+#Author: creakfast
+#Post URL: [https://www.reddit.com/r/GME/comments/n466af/sec_passes_dtc2021007_on_april_30th_which_was/](https://www.reddit.com/r/GME/comments/n466af/sec_passes_dtc2021007_on_april_30th_which_was/)
 
 
 What's good shareholders, creakfast here. I like to go back and forth w/ posting memes and DTCC rule filings. Today happens to be a rule following day. 
@@ -16,7 +17,7 @@ In this [post](https://www.reddit.com/r/Superstonk/comments/n25kw4/srdtc2021007_
 
 &#x200B;
 
-[From SEC website](https://preview.redd.it/b9fda9vmlyw61.png?width=1254&format=png&auto=webp&s=6a37e8c8a3aaf157db9e298733397f2c7ea9e590)
+![From SEC website](https://preview.redd.it/b9fda9vmlyw61.png?width=1254&format=png&auto=webp&s=6a37e8c8a3aaf157db9e298733397f2c7ea9e590)
 
 &#x200B;
 

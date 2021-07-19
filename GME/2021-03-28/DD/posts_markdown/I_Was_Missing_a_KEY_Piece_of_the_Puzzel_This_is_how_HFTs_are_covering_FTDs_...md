@@ -1,5 +1,6 @@
-# Author: jsmar18
-# Post URL: [https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/)
+#Title: I Was Missing a KEY Piece of the Puzzel. This is how HFTs are covering FTDs and Why the TD TOS "Bugs" are NOT What We Think They Are.
+#Author: jsmar18
+#Post URL: [https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/)
 
 
 **3/29 Edit:** Just want to say, almost everything on this subreddit is speculative. DD researchers do their best to bring new information to light, however the financial market is one of the most complex artificial ecosystems humans have created. You can't resonably expect everything to be right, it's okay to be wrong, as long as we acknowledge it and take it in our stride. We're bayesian thinkers by nature afterall (or at least i like to think so).
@@ -333,6 +334,6 @@ Edit: Readability changes
 
 Edit: Thanks the the suport everyone. I've just woken up - so i'll go through your comments today and respond. Keep in mind there are nearly a thousand, if you have a valid point or really want to ask, PM me!
 
-**Edit:** Checkout my ![collaborators comment](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/gsl7jsq?utm_source=share&utm_medium=web2x&context=3) in regards to ALO in particular, thanks u/SmithEchoes
+**Edit:** Checkout my [collaborators comment](https://www.reddit.com/r/GME/comments/mf1f6n/i_was_missing_a_key_piece_of_the_puzzel_this_is/gsl7jsq?utm_source=share&utm_medium=web2x&context=3) in regards to ALO in particular, thanks u/SmithEchoes
 
 Edit: Added acronym legend, sorry for those newer apes for using a bunch of them without saying what they were.
