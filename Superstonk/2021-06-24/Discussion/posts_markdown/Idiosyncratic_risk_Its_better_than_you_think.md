@@ -1,3 +1,4 @@
+# Title: Idiosyncratic risk. It’s better than you think
 # Author: halflistic_
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o6yqkp/idiosyncratic_risk_its_better_than_you_think/](https://www.reddit.com/r/Superstonk/comments/o6yqkp/idiosyncratic_risk_its_better_than_you_think/)
 

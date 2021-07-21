@@ -1,3 +1,4 @@
+# Title: The Counter to the Everything Short Correction
 # Author: karasuuchiha
 # Post URL: [https://www.reddit.com/r/GME/comments/ml2w7u/the_counter_to_the_everything_short_correction/](https://www.reddit.com/r/GME/comments/ml2w7u/the_counter_to_the_everything_short_correction/)
 
@@ -104,4 +105,4 @@ In reality, people should already be in jail for this because they have/been bre
 
 🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗
 
-![Part 2: World War 3](https://www.reddit.com/r/GME/comments/mm959z/world_war_3_longs_vs_shorts/?utm_medium=android_app&utm_source=share)
+[Part 2: World War 3](https://www.reddit.com/r/GME/comments/mm959z/world_war_3_longs_vs_shorts/?utm_medium=android_app&utm_source=share)

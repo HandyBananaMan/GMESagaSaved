@@ -1,0 +1,122 @@
+# Title: Counterfeiting Shares - Explaining Illegal Naked Shorting and Stock Manipulation (Part 2 of 2)
+# Author: Antifogmatic_Head
+# Post URL: [https://www.reddit.com/r/GME/comments/ly2bnt/counterfeiting_shares_explaining_illegal_naked/](https://www.reddit.com/r/GME/comments/ly2bnt/counterfeiting_shares_explaining_illegal_naked/)
+
+
+# This is Part 2 of 2 (a reformatting of [this](http://counterfeitingstock.com/CounterfeitingStock.html#:~:text=Naked%20Short%20%E2%80%94%20This%20is%20an,the%20company%2C%20is%20considered%20counterfeit) absolute fuckery of a website). [Read Part 1 of 2 here.](https://www.reddit.com/r/GME/comments/ly2697/counterfeiting_shares_explaining_illegal_naked/?utm_source=share&utm_medium=web2x&context=3)
+
+If you want to **understand** the criminal activity that caused this naked short mess in the first place, **know** the powers we are up against, and **learn** how to stop them from continuing to manipulate our financial system for their own gain in the future, **then you had better read this**.
+
+# The Anatomy of a Short Attack
+
+Abusive shorting are not random acts of a renegade hedge funds, but rather a coordinated business plan that is carried out by a collusive consortium of hedge funds and prime brokers, with help from their friends at the DTCC and major clearinghouses. Potential target companies are identified, analyzed and prioritized. The attack is planned to its most minute detail.
+
+The plan consists of taking a large short position, then crushing the stock price, and, if possible, putting the company into bankruptcy. Bankrupting the company is a short home-run because they never have to buy real shares to cover and they don't pay taxes on the ill-gotten gain.
+
+When it is time to drive the stock price down, a blitzkrieg is unleashed against the company by a cabal of short hedge funds and prime brokers. The playbook is very similar from attack to attack, and the participating prime brokers and lead shorts are fairly consistent as well.
+
+Typical tactics include the following:
+
+**1. Flooding the offer side of the board**
+
+Ultimately the price of a stock is found at the balance point where supply (offer) and demand (bid) for the shares find equilibrium. This equation happens every day for every stock traded. On days when more people want to buy than want to sell, the price goes up, and, conversely, when shares offered for sale exceed the demand, the price goes down.
+
+The shorts manipulate the laws of supply and demand by flooding the offer side with counterfeit shares. They will do what has been called a short down ladder. It works as follows: Short A will sell a counterfeit share at $10. Short B will purchase that counterfeit share covering a previously open position. Short B will then offer a short (counterfeit) share at $9. Short A will hit that offer, or short B will come down and hit Short A's $9 bid. Short A buys the share for $9, covering his open $10 short and booking a $1 profit.
+
+By repeating this process the shorts can put the stock price in a downward spiral. If there happens to be significant long buying, then the shorts draw from their reserve of “strategic fails-to-deliver” and flood the market with an avalanche of counterfeit shares that overwhelm the buy side demand. Attack days routinely see eighty percent or more of the shares offered for sale as counterfeit. Company news days are frequently attack days since the news will “mask” the extraordinarily high volume.
+
+It doesn't matter whether it is good news or bad news.Flooding the market with shares requires foot soldiers to swamp the market with counterfeit shares. An off-shore hedge fund devised a remarkably effective incentive program to motivate the traders at certain broker dealers. Each trader was given a debit card to a bank account that only he could access. The trader's performance was tallied, and, based upon the number of shares moved and the other “success” parameters, the hedge fund would wire money into the bank account daily. At the end of each day, the traders went to an ATM and drew out their bribe. Instant gratification.
+
+Global Links Corporation is an example of how wholesale counterfeiting of shares will decimate a company's stock price. Global Links is a company that provides computer services to the real estate industry. By early 2005, their stock price had dropped to a fraction of a cent. At that point, an investor, Robert Simpson, purchased 100%+ of Global Links' 1,158,064 issued and outstanding shares. He immediately took delivery of his shares and filed the appropriate forms with the SEC, disclosing he owned all of the company's stock. His total investment was $5205. The share price was $.00434. The day after he acquired all of the company's shares, the volume on the over-the-counter market was 37 million shares.
+
+The following day saw 22 million shares change hands — all without Simpson trading a single share. It is possible that the SEC has been conducting a secret investigation, but that would be difficult without the company's involvement. It is more likely the SEC has not done anything about this fraud.Massive counterfeiting can drive the stock price down in a matter of hours on extremely high volume. This is called “crashing” the stock and a successful “crash” is a one-day drop of twenty-percent or a thirty-five percent drop in a week.In order to make the crash “stick” or make it more effective, it is done concurrently with all or most of the following:
+
+2. **Media assault**
+
+The shorts, in order to realize their profit, must ultimately purchase real shares at a price much cheaper than what they shorted at. These real shares come from the investing public who panics and sells into the manipulation. Panic is induced with assistance from the financial media.The shorts have “friendly” reporters with the Dow Jones News Agency, the Wall Street Journal, Barrons, the New York Times, Gannett Publications (USA Today and the Arizona Republic), CNBC and others. The common thread: A number of the “friendly” reporters worked for The Street.com, an Internet advisory service that hedge-fund managers David Rocker and Jim Cramer owned. This alumni association supported the short attack by producing slanted, libelous, innuendo laden stories that disparaged the company, as it was being crashed.One of the more outrageous stories was a front-page story in USA Today during a short crash of TASER's stock price in June 2005. The story was almost a full page and the reporter concluded that TASER's electrical jolt was the same as an electric chair — proof positive that TASERs did indeed cause innocent people to die. To reach that conclusion the reporter over estimated the TASER's amperage by a factor of one million times. This “mistake” was made despite a detailed technical briefing by TASER to seven USA Today editors two weeks prior to the story. The explanation “Due to a mathematical error” appeared three days later — after the damage was done to the stock price.Jim Cramer, in a video-taped interview with The Street.com, best described the media function:\*“When (shorting) ... The hedge fund mode is to not do anything remotely truthful, because the truth is so against your view, (so the hedge funds) create a new 'truth' that is development of the fiction — you hit the brokerage houses with a series of orders (a short down ladder that pushes the price down), then we go to the press. You have a vicious cycle down — it's a pretty good game.”\*This interview, which is more like a confession, was never supposed to get on the air, however, it somehow ended up on YouTube. Cramer and The Street.com have made repeated efforts, with some success, to get it taken off of YouTube.
+
+3. **Analyst Reports**
+
+Some alleged independent analysts were actually paid by the shorts to write slanted negative ratings reports. The reports, which were represented as being independent, were ghost written by the shorts and disseminated to coincide with a short attack.
+
+There is congressional testimony in the matter of Gradiant Analytic and Rocker Partners that expands upon this. These libelous reports would then become a story in the aforementioned “friendly” media. All were designed to panic small investors into selling their stock into the manipulation:
+
+1. **Planting moles in target companies —** The shorts plant “moles” inside target companies. The moles can be as high as directors or as low as janitors. They steal confidential information, which is fed to the shorts who may feed it to the friendly media. The information may not be true, may be out of context, or the stolen documents may be altered. Things that are supposed to be confidential, like SEC preliminary inquiries, end up as front-page news with the short-friendly media.
+2. **Frivolous SEC investigations —** The shorts “leak” tips to the SEC about “corporate malfeasance” by the target company. The SEC, which can take months processing Freedom of Information Act requests, swoops in as the supposed “confidential inquiry” is leaked to the short media.The plethora of corporate rules means the SEC may ultimately find minor transgressions or there may be no findings. Occasionally they do uncover an Enron, but the initial leak can be counted on to drive the stock price down by twenty-five percent. The announcement of no or little findings comes months later, but by then the damage that has been done to the stock price is irreversible. The San Francisco office of the SEC appears to be particularly close to the short community.
+3. **Class Action lawsuits —** Based upon leaked stories of SEC investigations or other media exposes, a handful of law firms immediately file class-action shareholder suits. Milberg Weiss, before they were disbanded as a result of a Justice Department investigation, could be counted on to file a class-action suit against a company that was under short attack. Allegations of accounting improprieties that were made in the complaint would be reported as being the truth by the short friendly media, again causing panic among small investors.
+4. **Interfering with target company's customers, financings, etc. —** If the shorts became aware of clients, customers or financings that the target company was working on, they would call and tell lies or otherwise attempt to persuade the customer to abandon the transaction. Allegedly the shorts have gone so far as to bribe public officials to dissuade them from using a company's product.
+5. **Pulling margin from long customers** — The clearinghouses and broker dealers who finance margin accounts will suddenly pull all long margin availability, citing very transparent reasons for the abrupt change in lending policy. This causes a flood of margin selling, which further drives the stock price down and gets the shorts the cheap long shares that they need to cover.
+6. **Paid bashers —** The shorts will hire paid bashers who “invade” the message boards of the company. The bashers disguise themselves as legitimate investors and try to persuade or panic small investors into selling into the manipulation.
+
+This is not every dirty trick that the shorts use when they are crashing the stock. Almost every victim company experiences most or all of these tactics.
+
+# How Pervasive Is This?
+
+At any given point in time more than 100 emerging companies are under attack as described above. This is not to be confused with the day-to-day shorting that occurs in virtually every stock, which is purportedly about thirty percent of the daily volume.
+
+The success rate for short attacks is over ninety percent - a success being defined as putting the company into bankruptcy or driving the stock price to pennies. It is estimated that 1000 small companies have been put out of business by the shorts. Admittedly, not every small company deserves to succeed, but they do deserve a level playing field.
+
+The secrecy that surrounds the shorts, the prime brokers, the DTCC and the regulatory agencies makes it impossible to accurately estimate how much money has been stolen from the investing public by these predators, but the total is measured in billions of dollars. The problem is also international in scope.
+
+# Who Profits from this Illicit Activity?
+
+The short answer is everyone who participates. Specifically:
+
+1. **The shorts —** They win over ninety percent of the time. Their return on investment is enormous because they don't put any capital up when they sell short — they get cash from the sale delivered to their account. As long as the stock price remains under their short sale price, it is all profit on no investment.
+2. **The prime brokers —** The shorts need the prime brokers to aid in counterfeiting shares, which is the cornerstone of the fraud. Not only do the prime brokers get sales commissions and interest on margin accounts, they charge the shorts “interest” on borrowed shares. This can be as high as five percent per week. The prime brokers allegedly make eight to ten billion dollars a year from their short stock lend program. The prime brokers also actively short the victim companies, making large trading profits.
+3. **The DTCC —** A significant amount of the counterfeiting occurs at the DTCC level. They charge the shorts “interest” on borrowed shares, whether it is a legitimate stock borrow or counterfeit shares, as is the case in a vast majority of shares of a company under attack. The amount of profit that the DTCC receives is unknown because it is a private company owned by the prime brokers
+
+&#x200B;
+
+# The Cover Up
+
+The securities industry, certain “respected” members of corporate America who like the profits from illegal shorting, certain criminal elements and our federal government do not want the public to become aware of this problem.
+
+***The reason for the cover up is money.***
+
+Everyone, including our elected officials, gets lots of money. Consequently there is an active campaign to keep a lid on information. The denial about these illegal practices comes from the industry, the DTCC, the SEC and certain members of Congress. They are always delivered in blanket generalities. If indeed there is no problem, as they claim, then why don't they show us the evidence instead of actively and aggressively fighting or deflecting every attempt at obtaining information that is easily accessible for them and impossible for companies and investors? Accusers are counter attacked as being sour-grapes losers, lunatics or opportunistic lawyers trying to unjustly enrich themselves. Death threats are not an unheard of occurrence, although it doesn't appear that anyone has been “whacked” so far.
+
+The securities industry counters with a campaign of misinformation. For example, they proudly pointed out that only one percent of the dollar volume of listed shares are fails-to-deliver. What they don't mention:
+
+* that the fails-to-deliver are concentrated in companies being attacked
+* for companies under attack, for every disclosed fail-to-deliver there maybe ten to forty times that number of undisclosed counterfeit shares
+* companies under attack have seen their stock price depressed to a small fraction of the price of an average share, therefore the fails-to-deliver as a percentage of number of shares is considerably higher than as a percentage of dollar volume
+* the examples cited are limited to listed companies, but much of the abuse occurs in the over the counter market, regional exchanges and on unregulated foreign exchanges that allow naked shorting of American companies, who are not even aware they are traded on the foreign exchanges.
+
+# Why does this continue to happen?
+
+It is no accident that the most pervasive financial fraud in the history of this country continues unabated. The securities industry advances its agenda on multiple fronts:
+
+1. The truth about counterfeiting remains locked away with the perpetrators of the fraud. The prime brokers, hedge funds, the SEC and the DTCC are shrouded in secrecy. They actively and aggressively resist requests for the truth, be it with a subpoena or otherwise. Congressional subpoenas are treated with almost as much disdain as civil subpoenas.
+2. The body of securities law at the federal level is so stacked in favor of the industry that it is almost impossible to successfully sue for securities fraud in federal court.For example, in a normal fraud case, a complaint can be filed based upon “information and belief” that a fraud has been committed. The court then allows the plaintiff to subpoena evidence and depose witnesses, including the defendants. From this discovery, the plaintiff then attempts to prove his case.Federal securities fraud cases can't be filed based upon “information and belief”; you must have evidence first in order to not have the complaint immediately dismissed for failure to state a cause of action. This information is not available from the defendants (see above) without subpoenas, but you can't issue a subpoena because the case gets dismissed before discovery is opened.This is only one example of the terrible inequities that exist in federal securities law.
+3. The SEC is supposed to protect the investing public from Wall Street predators. While the vast majority of SEC staffers are underpaid, overworked, honest civil servants, the top echelons of the SEC frequently end up in high-paying Wall Street jobs. The five-person Board of Governors, who oversee the SEC, is dominated by the industry. The governors are presidential appointees and the industry usually fills three slots, frequently including the chairmanship.
+4. For those rare occasions when the SEC prosecutes an industry insider, the cases almost never go to a judgment or a criminal conviction. The securities company settles for a fine and no finding of guilt. The fine, which may seem like a large sum, is insignificant in the context of an industry that earned 35 billion dollars in 2006. Fines, settlements and legal expenses are just a cost of doing business for Wall Street.
+5. The root cause of the impossibly skewed federal laws and the ineffectiveness of the SEC and other regulatory bodies rests squarely with our elected officials. The securities industry contributes heavily to both parties at the presidential and congressional levels. As long as the public is passive about securities reform, our elected officials are happy to take the money, which at the federal level was 65 million dollars in 2006.The Democrats swept into power with a promise of ethics reform. Their majority in congress allowed Christopher Dodd (D-CT) to ascend to the chairmanship of the Senate Banking Committee, which regulates the securities industry. His largest single contributor ($175,400) in the first quarter of 2007 was (employees of) SAC Capital, a very aggressive short hedge fund. Are we surprised that Dodd has opposed additional regulation of hedge funds. They are virtually unregulated.
+6. Some states have their own securities laws and their own enforcement arm. Certain states including Connecticut, Illinois, Utah, Louisiana and others, have begun active enforcement of their own laws. The state laws are not nearly as pro industry as federal laws and plaintiffs are having success.To thwart this, the industry with the support of the SEC, is attempting to have the federal court system and federal agencies be the sole venue for securities matters. The SEC is working hand in hand with the industry to advance this theory of federal preemption, which would put all securities matters under federal law, all litigation in federal courts, and all enforcement with the SEC.The following are recent examples of how the SEC is advancing the industry agenda:
+
+* The San Francisco office of the SEC issued subpoenas to various short friendly media outlets after congressional hearings about David Rocker and Gradient Analytic. This investigation into the media involvement with the shorts was ended by the chairman of the SEC, Christopher Cox, who withdrew the subpoenas, apparently concluding that the First Amendment right to free speech protected participants in an alleged stock manipulation. Jim Cramer ripped up his subpoena on his television show, thumbing his nose at the SEC.
+* In early 2007, the SEC completely exonerated Gradient, citing Gradient's First Amendment rights.
+* The Nevada Supreme court heard a case captioned Nanopierce vs. DTCC. Nanopierce is an emerging company that was attacked by the shorts and subjected to massive counterfeiting of their stock by the DTCC. This state court case is close to opening discovery against the DTCC, so the industry is attempting to erase the lawsuit by arguing it should be in federal court — where it will be DOA. The SEC showed up as a friend of the defendant DTCC, and filed a brief in support of the DTCC efforts to remove the case to the federal court system.
+* Both houses of the Utah legislature passed a bill that required daily disclosure of fails-to-deliver, including identifying specific companies and the specific broker dealer positions in that company. The bill also outlawed naked shorting of companies domiciled in Utah. The industry threatened litigation based upon federal preemption and backed the state down. The bill was not signed into law.
+* A bill was introduced to the Arizona legislature that required disclosure similar to the Utah bill, but without the illegal naked shorting provision. This is the same information that the DTCC confidentially provides to the SEC. Certain prime broker's lobbying effort allegedly managed to get the bill stamped out in committee. The industries efforts to curtail state authority, is an effort to draw all securities matters under the federal umbrella, where small investors don't have a chance of obtaining justice.
+* In February 2007 the SEC determined that the hedge fund industry did not require any additional regulation — they are virtually unregulated. This may be the height of arrogance.
+
+&#x200B;
+
+# Sources
+
+Information used was obtained from public records; the SEC; the Leslie Boni Report to the SEC on shorting; evidence and testimony in court proceedings; conversations with attorneys who are involved in securities litigation; former SEC employees; conversations with management of victim companies; and first hand experience as investors in companies that have suffered short attacks. This website is sponsored by Citizens for Securities Reform.
+
+# What to Do?
+
+Many of our elected officials at the federal and state level do not understand most of what is contained in this paper. They must come to understand this fraud, and, more importantly, understand that their constituents are angry.
+
+Pass this information to everyone you know — put it in the public conscience. Then the citizenry needs to engage in a massive letter-writing campaign. Feel free to attach this report. Make sure your elected officials, at the federal level and state level know how you feel. Ultimately, votes in the home district will trump money from the outside.
+
+Here is the list of congresspeople who are members of the Financial Services Committee (who have 2 upcoming hearings with the fucktards from the hedge funds in March and April):[ https://financialservices.house.gov/about/committee-membership.htm](https://financialservices.house.gov/about/committee-membership.htm)
+
+Look up and CONTACT all these congressmen and women prior to the next congressional hearings (NOW): Maxine Waters, AOC, etc. ESPECIALLY THE ONES WHO LIVE IN YOUR GODDAMN STATE. Your vote and the influence you carry as a voter, and representative of a demographic they need for re-election, is important to them. Straight up threaten to vote the other side of the card in the next election if they don't do something about this.
+
+This is YOUR financial future at stake. Don’t let the boomers and the hedgies steal it from you. With this short squeeze, we are forcing through the greatest intergenerational transfer of wealth ever seen in human history. I have zero faith in the greed of hedge funds to learn their lesson. They will continue to manipulate the fabric of our economy again and again if we don't stop them. Let’s make sure we close these goddamn loopholes so this kind of shit never happens again and restore our generation's faith in our financial system.
+
+[u/thr0wthis4ccount4way](https://www.reddit.com/user/thr0wthis4ccount4way/) - r/GME DD sticky contender?

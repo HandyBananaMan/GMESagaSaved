@@ -1,3 +1,4 @@
+# Title: The Jungle Beat- Friday 06-25-2021- Finally Flair Friday! 💎🙌🚀
 # Author: pinkcatsonacid
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o7vqi6/the_jungle_beat_friday_06252021_finally_flair/](https://www.reddit.com/r/Superstonk/comments/o7vqi6/the_jungle_beat_friday_06252021_finally_flair/)
 
@@ -158,7 +159,7 @@ But I digress... no, we aren't meeting at Gangnam Style. Apparently that origina
 
 &#x200B;
 
-[ u\/thechaoschicken ](https://preview.redd.it/yjw1hs510h771.png?width=525&format=png&auto=webp&s=554ae7d442ca152ddd06954015116cddaeb2e443)
+![ u\/thechaoschicken ](https://preview.redd.it/yjw1hs510h771.png?width=525&format=png&auto=webp&s=554ae7d442ca152ddd06954015116cddaeb2e443)
 
 NOW DROP THOSE FLAIR REQUESTS IN THE COMMENTS!! 👇👇👇👇
 
@@ -168,7 +169,7 @@ NOW DROP THOSE FLAIR REQUESTS IN THE COMMENTS!! 👇👇👇👇
 
 &#x200B;
 
-[ u\/DReck417 ](https://preview.redd.it/j4w2aod40h771.png?width=998&format=png&auto=webp&s=9c6b4b3d1e9f073f21eb3dbc1cd4cc6992b7764a)
+![ u\/DReck417 ](https://preview.redd.it/j4w2aod40h771.png?width=998&format=png&auto=webp&s=9c6b4b3d1e9f073f21eb3dbc1cd4cc6992b7764a)
 
 &#x200B;
 

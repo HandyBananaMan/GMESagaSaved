@@ -1,3 +1,4 @@
+# Title: PSA: Peterffy (CEO of Interactive Brokers) was among the first to limit buys in GME. 🛑STOP🛑glorifying him, its FUD.
 # Author: creamy_surprise
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nuhupd/psa_peterffy_ceo_of_interactive_brokers_was_among/](https://www.reddit.com/r/Superstonk/comments/nuhupd/psa_peterffy_ceo_of_interactive_brokers_was_among/)
 

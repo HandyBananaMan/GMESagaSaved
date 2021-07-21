@@ -1,3 +1,4 @@
+# Title: 🚨 Final warning to secure your brokerage accounts before all eyes are on us apes. List of things to do below
 # Author: natep001001
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o65lq6/final_warning_to_secure_your_brokerage_accounts/](https://www.reddit.com/r/Superstonk/comments/o65lq6/final_warning_to_secure_your_brokerage_accounts/)
 

@@ -1,6 +1,6 @@
-#Title: 2021-03-30 -- Possible Pressure
-#Author: Gloomy-Huckleberry-6
-#Post URL: [https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/](https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/)
+# Title: 2021-03-30 -- Possible Pressure
+# Author: Gloomy-Huckleberry-6
+# Post URL: [https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/](https://www.reddit.com/r/GME/comments/mgroml/20210330_possible_pressure/)
 
 
 # EDIT 1:

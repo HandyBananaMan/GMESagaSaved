@@ -1,3 +1,4 @@
+# Title: Financial mafias and equity swaps – and how one prime broker rules them all 👁️
 # Author: animasoul
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/mqwyg3/financial_mafias_and_equity_swaps_and_how_one/](https://www.reddit.com/r/Superstonk/comments/mqwyg3/financial_mafias_and_equity_swaps_and_how_one/)
 
@@ -8,7 +9,7 @@ This moniker was coined by Matt Taibbi in his legendary article **“The Great A
 
 &#x200B;
 
-[Rolling Stone](https://preview.redd.it/c83ut5uul6t61.png?width=695&format=png&auto=webp&s=ffd812ad8cb836f82be1145d8756600258638c34)
+![Rolling Stone](https://preview.redd.it/c83ut5uul6t61.png?width=695&format=png&auto=webp&s=ffd812ad8cb836f82be1145d8756600258638c34)
 
 # GS is everywhere. So how is it involved in GameStop?
 
@@ -20,11 +21,11 @@ GME was not Melvin’s biggest short. Its biggest short was **GSX Techedu**. And
 
 &#x200B;
 
-[\\"Institutional Investor\\" website](https://preview.redd.it/apsmndg5m6t61.png?width=697&format=png&auto=webp&s=4e3993a8e799ca58fac7dc686284688f89f4467a)
+![\\"Institutional Investor\\" website](https://preview.redd.it/apsmndg5m6t61.png?width=697&format=png&auto=webp&s=4e3993a8e799ca58fac7dc686284688f89f4467a)
 
 &#x200B;
 
-[GSX Techedu squeezing in Jan](https://preview.redd.it/3iifcea7m6t61.png?width=844&format=png&auto=webp&s=54eb7fe5aa31471b91683a19ed6b6a7a7c03bd7e)
+![GSX Techedu squeezing in Jan](https://preview.redd.it/3iifcea7m6t61.png?width=844&format=png&auto=webp&s=54eb7fe5aa31471b91683a19ed6b6a7a7c03bd7e)
 
 Melvin had a levered **short** position in GSX Techedu financed by Goldman.
 
@@ -38,7 +39,7 @@ So Goldman was making money in prime broker fees on the same security on both th
 
 &#x200B;
 
-[No link - my post gets deleted](https://preview.redd.it/z85ya5llm6t61.png?width=791&format=png&auto=webp&s=23e430ed4b3ad11aceb8356ce2569e1165c83d5a)
+![No link - my post gets deleted](https://preview.redd.it/z85ya5llm6t61.png?width=791&format=png&auto=webp&s=23e430ed4b3ad11aceb8356ce2569e1165c83d5a)
 
 **Question 2:** Why would the big banks provide so much leverage to create such a massive long exposure in a fraudulent company? Unless they thought that the leverage could engineer a sure thing. 
 
@@ -46,7 +47,7 @@ So Goldman was making money in prime broker fees on the same security on both th
 
 &#x200B;
 
-[Bill's longs - until GS tanked them](https://preview.redd.it/org6uxgrm6t61.png?width=1008&format=png&auto=webp&s=1d4606eca73732c1928f0da6e3d89cd5e9feb0e5)
+![Bill's longs - until GS tanked them](https://preview.redd.it/org6uxgrm6t61.png?width=1008&format=png&auto=webp&s=1d4606eca73732c1928f0da6e3d89cd5e9feb0e5)
 
 # My speculative answer
 
@@ -62,7 +63,7 @@ GS was likely helping Bill to squeeze GSX but probably wasn’t planning on blow
 
 &#x200B;
 
-[Vampire squid](https://preview.redd.it/8d4roundn6t61.png?width=308&format=png&auto=webp&s=401f695a214fe4bfc2bcaff84ab15e997e606cd3)
+![Vampire squid](https://preview.redd.it/8d4roundn6t61.png?width=308&format=png&auto=webp&s=401f695a214fe4bfc2bcaff84ab15e997e606cd3)
 
   
 
@@ -70,7 +71,7 @@ So Melvin died, but was put on life support with a bailout from Citadel and Poin
 
 &#x200B;
 
-[Legendary](https://preview.redd.it/8f8u0ksgn6t61.png?width=564&format=png&auto=webp&s=5efab0a854cbc1844135cc2256b8929d946852d1)
+![Legendary](https://preview.redd.it/8f8u0ksgn6t61.png?width=564&format=png&auto=webp&s=5efab0a854cbc1844135cc2256b8929d946852d1)
 
   
 
@@ -78,17 +79,17 @@ This doesn’t change my theory so far, it just strengthens it. **TLDR if you ha
 
 &#x200B;
 
-[Macroaxis, 14 April 2021](https://preview.redd.it/d83nxi0sn6t61.png?width=738&format=png&auto=webp&s=edcfd167ba73601d2f92a7bf7edf4cac73b606ac)
+![Macroaxis, 14 April 2021](https://preview.redd.it/d83nxi0sn6t61.png?width=738&format=png&auto=webp&s=edcfd167ba73601d2f92a7bf7edf4cac73b606ac)
 
 &#x200B;
 
-[Macroaxis, 14 April 2021](https://preview.redd.it/xlycmnmtn6t61.png?width=734&format=png&auto=webp&s=e6449fd47fb995c8274c131b6a6576c4d192dd3e)
+![Macroaxis, 14 April 2021](https://preview.redd.it/xlycmnmtn6t61.png?width=734&format=png&auto=webp&s=e6449fd47fb995c8274c131b6a6576c4d192dd3e)
 
 I was going to share some sources but my posts gets deleted. Otherwise, you can find plenty on Goldman online if you google "Goldman" and "mafia" together.
 
 &#x200B;
 
-[No link](https://preview.redd.it/sc08ssy1o6t61.png?width=810&format=png&auto=webp&s=d60b87c3ba281a33d0e3ca9bb05e45ab2fe2a8e6)
+![No link](https://preview.redd.it/sc08ssy1o6t61.png?width=810&format=png&auto=webp&s=d60b87c3ba281a33d0e3ca9bb05e45ab2fe2a8e6)
 
 # Last question
 

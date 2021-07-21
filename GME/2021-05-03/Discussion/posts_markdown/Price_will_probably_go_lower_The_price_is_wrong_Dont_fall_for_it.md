@@ -1,3 +1,4 @@
+# Title: Price will probably go lower. The price is wrong. Don't fall for it.
 # Author: Lo0kingGlass
 # Post URL: [https://www.reddit.com/r/GME/comments/n4dyp3/price_will_probably_go_lower_the_price_is_wrong/](https://www.reddit.com/r/GME/comments/n4dyp3/price_will_probably_go_lower_the_price_is_wrong/)
 

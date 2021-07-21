@@ -1,3 +1,4 @@
+# Title: Lord of the Short Squeeze
 # Author: Noderpsy
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/ofy9et/lord_of_the_short_squeeze/](https://www.reddit.com/r/Superstonk/comments/ofy9et/lord_of_the_short_squeeze/)
 

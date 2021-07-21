@@ -1,3 +1,4 @@
+# Title: GME has become a hedging tool and should be owned by anyone invested in the markets for risk mitigation
 # Author: myplayprofile
 # Post URL: [https://www.reddit.com/r/GME/comments/n1ctl5/gme_has_become_a_hedging_tool_and_should_be_owned/](https://www.reddit.com/r/GME/comments/n1ctl5/gme_has_become_a_hedging_tool_and_should_be_owned/)
 

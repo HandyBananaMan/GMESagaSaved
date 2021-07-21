@@ -1,0 +1,6 @@
+# Title: r/ddintogme just went from 35k users to 46k...
+# Author: Sofiannn
+# Post URL: [https://www.reddit.com/r/DDintoGME/comments/ooh5xn/rddintogme_just_went_from_35k_users_to_46k/](https://www.reddit.com/r/DDintoGME/comments/ooh5xn/rddintogme_just_went_from_35k_users_to_46k/)
+
+
+Maybe I’m tweaking but I could of sworn we had 35k last night. Also, this sub gains like 150 people a day or something like that. This makes me suspicious after the drama in superstonk last week... I hope the accounts that joined recently aren’t shills...

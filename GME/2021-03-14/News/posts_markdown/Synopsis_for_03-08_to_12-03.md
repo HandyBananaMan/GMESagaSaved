@@ -1,3 +1,4 @@
+# Title: Synopsis for 03-08 to 12-03
 # Author: rensole
 # Post URL: [https://www.reddit.com/r/GME/comments/m4txe0/synopsis_for_0308_to_1203/](https://www.reddit.com/r/GME/comments/m4txe0/synopsis_for_0308_to_1203/)
 
@@ -442,7 +443,7 @@ So be level headed and expect fuckery, if everyone says the 19th (or any date) i
 
 &#x200B;
 
-# Backed up all my Dailies here: ![https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)
+# Backed up all my Dailies here: [https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)
 
 &#x200B;
 
@@ -589,4 +590,4 @@ https://preview.redd.it/1zmen12zfzm61.png?width=400&format=png&auto=webp&s=8d4eb
 
 Backups: [https://twitter.com/rensole](https://twitter.com/rensole)
 
-![https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)
+[https://gmebackup.tumblr.com/](https://gmebackup.tumblr.com/)

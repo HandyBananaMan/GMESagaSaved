@@ -1,3 +1,4 @@
+# Title: Connecting all the Dots While Dumbing it down to a Third Grade level:
 # Author: thomas798354
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nkgdwg/connecting_all_the_dots_while_dumbing_it_down_to/](https://www.reddit.com/r/Superstonk/comments/nkgdwg/connecting_all_the_dots_while_dumbing_it_down_to/)
 

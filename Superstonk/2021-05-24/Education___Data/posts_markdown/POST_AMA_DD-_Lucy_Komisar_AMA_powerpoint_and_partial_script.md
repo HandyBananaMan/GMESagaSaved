@@ -1,3 +1,4 @@
+# Title: POST AMA DD- Lucy Komisar AMA powerpoint and partial script
 # Author: pinkcatsonacid
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nke7sp/post_ama_dd_lucy_komisar_ama_powerpoint_and/](https://www.reddit.com/r/Superstonk/comments/nke7sp/post_ama_dd_lucy_komisar_ama_powerpoint_and/)
 
@@ -14,7 +15,7 @@ https://preview.redd.it/g8nivrt6l6171.jpg?width=677&format=pjpg&auto=webp&s=6010
 
 &#x200B;
 
-[Securities and Exchange Commission](https://preview.redd.it/p98qxh2476171.jpg?width=180&format=pjpg&auto=webp&s=463cc9d081a8fa5a35b8828dd41b6121dd2737ec)
+![Securities and Exchange Commission](https://preview.redd.it/p98qxh2476171.jpg?width=180&format=pjpg&auto=webp&s=463cc9d081a8fa5a35b8828dd41b6121dd2737ec)
 
 **THE SEC for Superstonk- Script By Lucy Komisar**
 
@@ -26,7 +27,7 @@ One reason for the stock market collapses in 1929 was watering stock. A meme wen
 
 &#x200B;
 
-[Ferdinand Pecora](https://preview.redd.it/l346v5i456171.jpg?width=470&format=pjpg&auto=webp&s=dbf1ac2b34080b60690ed448ed917fbce742f990)
+![Ferdinand Pecora](https://preview.redd.it/l346v5i456171.jpg?width=470&format=pjpg&auto=webp&s=dbf1ac2b34080b60690ed448ed917fbce742f990)
 
 **1932 Ferdinand Pecora** was an immigrant working class kid from Sicily who put himself through New York Law School. He was hired in 1932 by the Senate Banking Committee to investigate the causes of the crash, to do a whitewash, but he didn’t get the memo. His hearings exposed such practices as pools to support bank stock prices. Such as Let’s all coordinate trades to pump up the stock. Sound familiar? GameStop?  National City Bank (now Citibank) had hidden bad loans by packaging them into securities and selling them off to unwary investors. Sound familiar? Mortgage-backed securities that tanked? And that the bank sellers knew would tank?
 
@@ -38,7 +39,7 @@ Pecora wrote a memoir, Wall Street Under Oath. He said: "Bitterly hostile was Wa
 
 &#x200B;
 
-[Irving Pollack-  Father of the SEC Division of Enforcement](https://preview.redd.it/kulo5kk756171.jpg?width=354&format=pjpg&auto=webp&s=89e834a1f13f04b2d889fdc66e9156d0bab67db1)
+![Irving Pollack-  Father of the SEC Division of Enforcement](https://preview.redd.it/kulo5kk756171.jpg?width=354&format=pjpg&auto=webp&s=89e834a1f13f04b2d889fdc66e9156d0bab67db1)
 
 &#x200B;
 
@@ -80,7 +81,7 @@ RegSHO allowed an options market maker exception, called after the person who de
 
 &#x200B;
 
-[Bernie Madoff, who died in prison in Apr 2021](https://preview.redd.it/ndifb6fvk6171.png?width=1482&format=png&auto=webp&s=4b96285ed2e17c6fa057802f34861c4c532400c0)
+![Bernie Madoff, who died in prison in Apr 2021](https://preview.redd.it/ndifb6fvk6171.png?width=1482&format=png&auto=webp&s=4b96285ed2e17c6fa057802f34861c4c532400c0)
 
 In prison in 2012 Madoff told Forbes journalist Diana Henriques: “I fell into my crime of staying Naked Short. The fact that the prosecutor and Trustee seemed clueless of this is why my frustration is so great.” Clueless, or complicit? You just don’t go there.
 
@@ -98,7 +99,7 @@ The SEC said it was investigating the collapse of Bear Stearns. It had been mass
 
 &#x200B;
 
-[Ted Kaufman- former US Senator, Delaware](https://preview.redd.it/jca68d5g56171.jpg?width=330&format=pjpg&auto=webp&s=741e78b0f0b0ac9ab85b0f27f872316eabbca976)
+![Ted Kaufman- former US Senator, Delaware](https://preview.redd.it/jca68d5g56171.jpg?width=330&format=pjpg&auto=webp&s=741e78b0f0b0ac9ab85b0f27f872316eabbca976)
 
 &#x200B;
 
@@ -118,7 +119,7 @@ In 2009 staffers of the Senators met with the SEC’s Enforcement Division to fi
 
 &#x200B;
 
-[Ted Kaufman as long time advisor to the current President](https://preview.redd.it/m6a9h2jl56171.png?width=263&format=png&auto=webp&s=4074499e1301f9ad2712d1a806d20a0383873fa2)
+![Ted Kaufman as long time advisor to the current President](https://preview.redd.it/m6a9h2jl56171.png?width=263&format=png&auto=webp&s=4074499e1301f9ad2712d1a806d20a0383873fa2)
 
 **2010** Kaufman continued to try to fight naked short selling in the Dodd-Frank debate. SEC had been ordered by the Dodd-Frank law of 2010 11 years ago to require more transparency in short selling and stock lending. It has ignored it.
 
@@ -184,7 +185,7 @@ In 2009, the six optionsXpress customer accounts bought $5.7 billion worth of se
 
 &#x200B;
 
-[Gary Aguirre- Former Investigator for SEC & Whistleblower](https://preview.redd.it/si49uknr56171.jpg?width=206&format=pjpg&auto=webp&s=56bf1d0512b8fdfc9e42c662d506fd8bc85c821f)
+![Gary Aguirre- Former Investigator for SEC & Whistleblower](https://preview.redd.it/si49uknr56171.jpg?width=206&format=pjpg&auto=webp&s=56bf1d0512b8fdfc9e42c662d506fd8bc85c821f)
 
 &#x200B;
 
@@ -216,7 +217,7 @@ Mack, after being CEO Morgan Stanley, became CEO of Credit Suisse, then chair of
 
 &#x200B;
 
-[Mark Fickes](https://preview.redd.it/odru363cqa171.jpg?width=200&format=pjpg&auto=webp&s=852f95acbb1d5354e65c9f6b1fc32c131c93a32a)
+![Mark Fickes](https://preview.redd.it/odru363cqa171.jpg?width=200&format=pjpg&auto=webp&s=852f95acbb1d5354e65c9f6b1fc32c131c93a32a)
 
 &#x200B;
 
@@ -238,7 +239,7 @@ The question is whether freedom of the press extends to reporters whose articles
 
 &#x200B;
 
-[Chris Cox- Former SEC Chair](https://preview.redd.it/s650tr5z56171.jpg?width=330&format=pjpg&auto=webp&s=e085154954818611d3c78b7b0ed95a00a02303c7)
+![Chris Cox- Former SEC Chair](https://preview.redd.it/s650tr5z56171.jpg?width=330&format=pjpg&auto=webp&s=e085154954818611d3c78b7b0ed95a00a02303c7)
 
 &#x200B;
 
@@ -256,7 +257,7 @@ He was summoned to Washington to meet with the new SEC chair, Cris Cox. Ultimate
 
 &#x200B;
 
-[Gary Gensler- Current SEC Chair](https://preview.redd.it/8x1el37566171.jpg?width=988&format=pjpg&auto=webp&s=296865c7cefe2fbb38b2ce25f4e6730bb498fa2a)
+![Gary Gensler- Current SEC Chair](https://preview.redd.it/8x1el37566171.jpg?width=988&format=pjpg&auto=webp&s=296865c7cefe2fbb38b2ce25f4e6730bb498fa2a)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -274,7 +275,7 @@ https://preview.redd.it/x8tcjb0m96171.png?width=1234&format=png&auto=webp&s=051d
 
 \>LK: We saw in GameStop trickery using dark pool trades of single shares. We know -- even the SEC admits -- that brokers create fake options conversions shares. They will break every rule, helped by the SEC which chooses not to enforce or orders mild penalties.
 
-[now i want to play stardew valley](https://preview.redd.it/6prc9two96171.jpg?width=1079&format=pjpg&auto=webp&s=5901203d74c13d3f0177dc484a6838a6b62a12e6)
+![now i want to play stardew valley](https://preview.redd.it/6prc9two96171.jpg?width=1079&format=pjpg&auto=webp&s=5901203d74c13d3f0177dc484a6838a6b62a12e6)
 
 &#x200B;
 
@@ -284,7 +285,7 @@ https://preview.redd.it/x8tcjb0m96171.png?width=1234&format=png&auto=webp&s=051d
 
 &#x200B;
 
-[ ](https://preview.redd.it/iosfnjcv96171.jpg?width=1080&format=pjpg&auto=webp&s=dc409dc5f02241f1aa8d009096fcb65758e029a9)
+![ ](https://preview.redd.it/iosfnjcv96171.jpg?width=1080&format=pjpg&auto=webp&s=dc409dc5f02241f1aa8d009096fcb65758e029a9)
 
 *For clarification- The Hearings will be held: by U.S. Senate Committee on Banking, Housing, and Urban Affairs on May 26, and by the U.S. House Committee on Financial Services on May 27.*
 

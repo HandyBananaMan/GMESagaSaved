@@ -1,3 +1,4 @@
+# Title: I’m hoping we squeeze before I get fired
 # Author: Lusinious
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nbrhm2/im_hoping_we_squeeze_before_i_get_fired/](https://www.reddit.com/r/Superstonk/comments/nbrhm2/im_hoping_we_squeeze_before_i_get_fired/)
 

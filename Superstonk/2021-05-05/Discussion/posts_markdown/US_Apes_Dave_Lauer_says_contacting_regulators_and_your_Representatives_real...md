@@ -1,3 +1,4 @@
+# Title: US Apes: Dave Lauer says contacting regulators and your Representatives really does help. You can do it in less than 5 minutes using this template by texting SIGN PLFLYM to 50409. Every voice helps.
 # Author: Wingardienleviosah
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/n5u9e1/us_apes_dave_lauer_says_contacting_regulators_and/](https://www.reddit.com/r/Superstonk/comments/n5u9e1/us_apes_dave_lauer_says_contacting_regulators_and/)
 
@@ -30,7 +31,7 @@ Thank you for your time and attention to this important issue.
 
 Here is a screenshot of how the letter appears:
 
-[Via Resistbot](https://preview.redd.it/ac75wl9c3ex61.png?width=1024&amp;format=png&amp;auto=webp&amp;s=da3f80f6983f696e85c87416375c3bc23581c030)
+![Via Resistbot](https://preview.redd.it/ac75wl9c3ex61.png?width=1024&amp;format=png&amp;auto=webp&amp;s=da3f80f6983f696e85c87416375c3bc23581c030)
 
 The government is supposed to work and represent us. If we demand better, maybe they just might. Do your part in the democratic process and let your voice be heard by your representatives.
 

@@ -1,6 +1,6 @@
-#Title: Warning: There will NOT be a "fake squeeze" at $1,000
-#Author: thedav1d
-#Post URL: [https://www.reddit.com/r/GME/comments/m1vwt1/warning_there_will_not_be_a_fake_squeeze_at_1000/](https://www.reddit.com/r/GME/comments/m1vwt1/warning_there_will_not_be_a_fake_squeeze_at_1000/)
+# Title: Warning: There will NOT be a "fake squeeze" at $1,000
+# Author: thedav1d
+# Post URL: [https://www.reddit.com/r/GME/comments/m1vwt1/warning_there_will_not_be_a_fake_squeeze_at_1000/](https://www.reddit.com/r/GME/comments/m1vwt1/warning_there_will_not_be_a_fake_squeeze_at_1000/)
 
 
 #TL;DR : If you sell at $1,000 in the hopes of a dip from a massive short attack, YOU'LL MISS THE SQUEEZE.
