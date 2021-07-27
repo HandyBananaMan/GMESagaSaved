@@ -1,3 +1,4 @@
+# Title: Circle the wagons, because the hedgie shills are here in this sub, and they're getting smarter.
 # Author: youngsteveo
 # Post URL: [https://www.reddit.com/r/GME/comments/lwl5tq/circle_the_wagons_because_the_hedgie_shills_are/](https://www.reddit.com/r/GME/comments/lwl5tq/circle_the_wagons_because_the_hedgie_shills_are/)
 

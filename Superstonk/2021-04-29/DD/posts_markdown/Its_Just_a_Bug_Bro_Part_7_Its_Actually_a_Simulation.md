@@ -1,3 +1,4 @@
+# Title: It's Just a Bug, Bro Part 7: It's Actually a Simulation
 # Author: hell-mitc
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/n1j3nz/its_just_a_bug_bro_part_7_its_actually_a/](https://www.reddit.com/r/Superstonk/comments/n1j3nz/its_just_a_bug_bro_part_7_its_actually_a/)
 
@@ -50,7 +51,7 @@ There are a couple other notable points with regard to these new filings:
 
 There are some weird things going on through Citadel at the moment, and Suspecthanna is on another level with more funds being funneled to their parent company than a cute pornstar who is about to do anal for the first time.
 
-[Above \*\*\*\*\* were filed 16 Feb](https://preview.redd.it/nhc67ktce7w61.png?width=1055&format=png&auto=webp&s=430680937e1a87baa2bb92005cc8dfb218ff7422)
+![Above \*\*\*\*\* were filed 16 Feb](https://preview.redd.it/nhc67ktce7w61.png?width=1055&format=png&auto=webp&s=430680937e1a87baa2bb92005cc8dfb218ff7422)
 
 Did I mention that Citadel changed legal signatories on Feb 1? Huge red flag I would think. It was also filed with one of their *LARGEST* SPAC ownership filings, tucked away and hidden. JAWS (fitting that they are the only billion dollar SPAC on the list). Oh, and the JAWS benefactor? His name appears twice on this list (it seems to be the only one).
 

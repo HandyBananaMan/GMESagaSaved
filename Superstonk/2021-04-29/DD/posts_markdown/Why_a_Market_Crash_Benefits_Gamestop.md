@@ -1,3 +1,4 @@
+# Title: Why a Market Crash Benefits Gamestop
 # Author: According_Bee2757
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/n11nbe/why_a_market_crash_benefits_gamestop/](https://www.reddit.com/r/Superstonk/comments/n11nbe/why_a_market_crash_benefits_gamestop/)
 
@@ -91,7 +92,7 @@ Let's discuss the bread and butter of how hedge funds borrow cash to trade with.
 
 &#x200B;
 
-[Leverage does not change the outcome.](https://preview.redd.it/56pol32z23w61.png?width=960&format=png&auto=webp&s=75c1077c1263b7ec4e224bab09ad947b9021238f)
+![Leverage does not change the outcome.](https://preview.redd.it/56pol32z23w61.png?width=960&format=png&auto=webp&s=75c1077c1263b7ec4e224bab09ad947b9021238f)
 
 &#x200B;
 
@@ -122,7 +123,7 @@ So the critics among you will say, "yeah, well, good luck thinking that the hedg
 
 &#x200B;
 
-[Leverage of up to 20:1?!](https://preview.redd.it/lkawo71z43w61.png?width=776&format=png&auto=webp&s=e0077911eee5b71561f1f447be7ea1591c6c9d44)
+![Leverage of up to 20:1?!](https://preview.redd.it/lkawo71z43w61.png?width=776&format=png&auto=webp&s=e0077911eee5b71561f1f447be7ea1591c6c9d44)
 
 Now I accept that in this case, this is extreme leverage, but the premise is the same, the leveraging caused a margin call which then sparked the sell-off of their stocks.
 
@@ -148,9 +149,9 @@ The process as I understand it will happen as follows with thanks to u/OnlyGoesU
 
 &#x200B;
 
-[FINRA confirming this process](https://preview.redd.it/s9tsaa6673w61.jpg?width=745&format=pjpg&auto=webp&s=c8c47c216c3d6946e1e0930dcd926885142d01ae)
+![FINRA confirming this process](https://preview.redd.it/s9tsaa6673w61.jpg?width=745&format=pjpg&auto=webp&s=c8c47c216c3d6946e1e0930dcd926885142d01ae)
 
-![FINRA Sauce](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)
+[FINRA Sauce](https://www.finra.org/investors/learn-to-invest/advanced-investing/understanding-margin-accounts)
 
 # Part 8: Putting it all Together
 

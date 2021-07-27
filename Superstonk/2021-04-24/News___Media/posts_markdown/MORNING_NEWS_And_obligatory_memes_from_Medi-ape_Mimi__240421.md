@@ -1,3 +1,4 @@
+# Title: MORNING NEWS (And obligatory memes) from Medi-ape Mimi. 👨‍🚀 24/04/21
 # Author: Lolly_Jaw
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/mxidiw/morning_news_and_obligatory_memes_from_mediape/](https://www.reddit.com/r/Superstonk/comments/mxidiw/morning_news_and_obligatory_memes_from_mediape/)
 
@@ -16,7 +17,7 @@ So you can put a face to the text, here is a picture of me vs non-GME nurses.
 
 &#x200B;
 
-[Credit: u\/ChudBomB](https://preview.redd.it/b2k3u6ilt3v61.png?width=413&format=png&auto=webp&s=9519d1bb3874b28e47c9f0ef53f660074b14ba6d)
+![Credit: u\/ChudBomB](https://preview.redd.it/b2k3u6ilt3v61.png?width=413&format=png&auto=webp&s=9519d1bb3874b28e47c9f0ef53f660074b14ba6d)
 
 **A little foreword:**
 
@@ -56,7 +57,7 @@ Here is an extract:
 
 *"The main purpose of this work is to help wrinkle-lemited apes in understanding and learning important principles of technical analysis, in the process of elaborating on the current market conditions, and how these are relevant to GME technically. As it was mentioned in the post title, the tools that were used for creating this TA on SPY include: market cycles analysis, for setting a suitable framework; Elliot waves theory as a method of ordering major market movements; Fibonacci retracement for identifying the key, magnetic support and resistance levels; and a sweet 150 moving average to predict the potential bottom of the bear market. "*
 
-[Elliot wave characteristics](https://preview.redd.it/zm5inpzrt3v61.png?width=1345&format=png&auto=webp&s=3c1229399b2266a0277ed555fa76700315f79917)
+![Elliot wave characteristics](https://preview.redd.it/zm5inpzrt3v61.png?width=1345&format=png&auto=webp&s=3c1229399b2266a0277ed555fa76700315f79917)
 
 **Read more here:**
 
@@ -86,7 +87,7 @@ Here is an extract:
 
 [**u/donkeydougie**](https://www.reddit.com/user/donkeydougie/) **Posts:**
 
-[It's so true. Anyone saying otherwise doesn't understand the situation or is a shill.](https://preview.redd.it/py3jvmpay3v61.png?width=640&format=png&auto=webp&s=96b2c3db7c54e00cee5d2a0b5da0a496c3dc0d12)
+![It's so true. Anyone saying otherwise doesn't understand the situation or is a shill.](https://preview.redd.it/py3jvmpay3v61.png?width=640&format=png&auto=webp&s=96b2c3db7c54e00cee5d2a0b5da0a496c3dc0d12)
 
 [(1) Anyone who is posting about retail losing motivation, getting bored, believing in conspiracy theories are either shills or inadvertently spreading FUD because they don't know wtf they are talking about. So just STOP. NOONE IS SELLING. Nothing has changed since January. BUY. HODL. PATIENCE. : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mx2itj/anyone_who_is_posting_about_retail_losing/)
 
@@ -108,7 +109,7 @@ Here is an extract:
 
 &#x200B;
 
-[u\/Ewba](https://preview.redd.it/riy0jupvt3v61.png?width=426&format=png&auto=webp&s=7176aeb52848d8131cc5fb7c1e455f874b07716f)
+![u\/Ewba](https://preview.redd.it/riy0jupvt3v61.png?width=426&format=png&auto=webp&s=7176aeb52848d8131cc5fb7c1e455f874b07716f)
 
 &#x200B;
 
@@ -118,7 +119,7 @@ Here is an extract:
 
 &#x200B;
 
-[Screenshot of a certain stock plummeting. We have seen a correlation between this stock and GME.](https://preview.redd.it/0jsjqi6xt3v61.png?width=1242&format=png&auto=webp&s=b50e41029f75aac73813e069352fddcf21b0e806)
+![Screenshot of a certain stock plummeting. We have seen a correlation between this stock and GME.](https://preview.redd.it/0jsjqi6xt3v61.png?width=1242&format=png&auto=webp&s=b50e41029f75aac73813e069352fddcf21b0e806)
 
 [(1) Crypto Is free falling tonight! Somebody is looking for cash. Could it be Shitadel? Could it be Retail? Find out tomorrow on the next episode of Diamond Ball Z : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mwm6yx/crypto_is_free_falling_tonight_somebody_is/?utm_medium=android_app&utm_source=share)
 
@@ -152,9 +153,9 @@ Here is an extract:
 
 &#x200B;
 
-[Notice of meeting](https://preview.redd.it/iloqqsj2u3v61.png?width=1089&format=png&auto=webp&s=75fc53348c8ffec79dd57df293ba357cd43a7b19)
+![Notice of meeting](https://preview.redd.it/iloqqsj2u3v61.png?width=1089&format=png&auto=webp&s=75fc53348c8ffec79dd57df293ba357cd43a7b19)
 
-[Extract from Notice](https://preview.redd.it/wdqvetc3u3v61.png?width=1787&format=png&auto=webp&s=81d6214aae28ae5d78ec3576e5f4e94c997cb579)
+![Extract from Notice](https://preview.redd.it/wdqvetc3u3v61.png?width=1787&format=png&auto=webp&s=81d6214aae28ae5d78ec3576e5f4e94c997cb579)
 
 **If you are unable to vote yet do not worry! The author goes on to say:**
 
@@ -192,7 +193,7 @@ Here is an extract:
 
 &#x200B;
 
-[Bullish as hell!](https://preview.redd.it/x2w4rza8u3v61.png?width=640&format=png&auto=webp&s=9c7359f34a7dcb077b3820c20d984029f07f077d)
+![Bullish as hell!](https://preview.redd.it/x2w4rza8u3v61.png?width=640&format=png&auto=webp&s=9c7359f34a7dcb077b3820c20d984029f07f077d)
 
 \-----------------------------------------
 
@@ -206,13 +207,13 @@ Here is an extract:
 
 *The goal of this DD is to show the correlation between some MASSIVELY shorted stocks that have yet to cover as of 4/22 and Citadel's involvement within the OTC/Dark Pools. "*
 
-[LOL](https://preview.redd.it/u0gacuuau3v61.png?width=546&format=png&auto=webp&s=8884411c5bd6a49429e385cb806d517d2371ef5a)
+![LOL](https://preview.redd.it/u0gacuuau3v61.png?width=546&format=png&auto=webp&s=8884411c5bd6a49429e385cb806d517d2371ef5a)
 
 *"Let's start with the tendie man, $GME as our reference. Remember that the short data for $GME is MASSIVELY INACCURATE because they have only pretended to cover by buying ITM calls."*
 
 &#x200B;
 
-[Ortex](https://preview.redd.it/h3gi6v5cu3v61.png?width=1719&format=png&auto=webp&s=52dd40c038973c44eec4abb31c8cd73140b4c3c4)
+![Ortex](https://preview.redd.it/h3gi6v5cu3v61.png?width=1719&format=png&auto=webp&s=52dd40c038973c44eec4abb31c8cd73140b4c3c4)
 
 **More f\*\*kery exposed here:**
 
@@ -256,19 +257,19 @@ First *we had Melvin and citadel taking big hits bc of GME, in late jan/early fe
 
 **This was a long one. If you read it, good ape, here is a meme! If you didn't... well, maybe you can't read. And that's okay. Enjoy meme anyway!**
 
-[u\/joeygallinal](https://preview.redd.it/b1b6b3leu3v61.png?width=640&format=png&auto=webp&s=3bfc79b02e9e57875f1142c30f4840ee1a61c3e6)
+![u\/joeygallinal](https://preview.redd.it/b1b6b3leu3v61.png?width=640&format=png&auto=webp&s=3bfc79b02e9e57875f1142c30f4840ee1a61c3e6)
 
 \-----------------------------------------
 
 [**u/keneno89**](https://www.reddit.com/user/keneno89/) **Posts:**
 
-[Ridiculous.](https://preview.redd.it/qeu6bhoku3v61.png?width=960&format=png&auto=webp&s=93dfe54180b5e87f03f6f7c7adb64dc205a37d68)
+![Ridiculous.](https://preview.redd.it/qeu6bhoku3v61.png?width=960&format=png&auto=webp&s=93dfe54180b5e87f03f6f7c7adb64dc205a37d68)
 
 \-----------------------------------------
 
 [**u/ComplexMycologist818**](https://www.reddit.com/user/ComplexMycologist818/) **Posts:**
 
-[They will hang on to every thread!](https://preview.redd.it/u4jfmbfpu3v61.png?width=640&format=png&auto=webp&s=ae6ecf1eea6a54cd36056fcfb81272d299654610)
+![They will hang on to every thread!](https://preview.redd.it/u4jfmbfpu3v61.png?width=640&format=png&auto=webp&s=ae6ecf1eea6a54cd36056fcfb81272d299654610)
 
 \-----------------------------------------
 
@@ -304,7 +305,7 @@ First *we had Melvin and citadel taking big hits bc of GME, in late jan/early fe
 
 [**u/00stingray**](https://www.reddit.com/user/00stingray/) **Posts:**
 
-[You hear that shills? This can be YOU!](https://preview.redd.it/ptd5vo1mw3v61.png?width=1080&format=png&auto=webp&s=a9d47286b15edf791d16cf339fa5c962fee9ddb5)
+![You hear that shills? This can be YOU!](https://preview.redd.it/ptd5vo1mw3v61.png?width=1080&format=png&auto=webp&s=a9d47286b15edf791d16cf339fa5c962fee9ddb5)
 
 \-----------------------------------------
 
@@ -316,7 +317,7 @@ First *we had Melvin and citadel taking big hits bc of GME, in late jan/early fe
 
 &#x200B;
 
-[Don't you love this? This is us. I am proud to wear this badge.](https://preview.redd.it/qam42hi2x3v61.png?width=960&format=png&auto=webp&s=8acccd23d10273c782476b21dfc9288f460cb8dc)
+![Don't you love this? This is us. I am proud to wear this badge.](https://preview.redd.it/qam42hi2x3v61.png?width=960&format=png&auto=webp&s=8acccd23d10273c782476b21dfc9288f460cb8dc)
 
 [(1) APE BUREAU INVESTIGATION aka ABI. Since we’re doing a better job than the SEC. \*Finished edit\* : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mx0vtd/ape_bureau_investigation_aka_abi_since_were_doing/?utm_medium=android_app&utm_source=share)
 
@@ -336,7 +337,7 @@ Also, what happened to rocket and diamond hand emojis?
 
 [**u/martinmcfly1885**](https://www.reddit.com/user/martinmcfly1885/) **reminds us:**
 
-[Mr.Cuban, who wrote this during his AMA.](https://preview.redd.it/xq3a58wfx3v61.png?width=960&format=png&auto=webp&s=57e896e7def375393b46d02b1dbb963176dd94a4)
+![Mr.Cuban, who wrote this during his AMA.](https://preview.redd.it/xq3a58wfx3v61.png?width=960&format=png&auto=webp&s=57e896e7def375393b46d02b1dbb963176dd94a4)
 
 "The stock market is a device for transferring money from the impatient to the patient." - Warren Buffett.  -  u/[billb392](https://www.reddit.com/user/billb392/)
 
@@ -358,13 +359,13 @@ Also, what happened to rocket and diamond hand emojis?
 
 [**u/kim2oden**](https://www.reddit.com/user/kim2oden/) **Posts:**
 
-[Could you imagine being the winner?](https://preview.redd.it/8i2odqxwx3v61.png?width=640&format=png&auto=webp&s=60b689682665a6264d3ffdc231e3b3ce041a7bbe)
+![Could you imagine being the winner?](https://preview.redd.it/8i2odqxwx3v61.png?width=640&format=png&auto=webp&s=60b689682665a6264d3ffdc231e3b3ce041a7bbe)
 
 \-----------------------------------------
 
 [**u/Financial\_Green9120**](https://www.reddit.com/user/Financial_Green9120/) **Posts:**
 
-[WE MOON EVERY DAY AND ANY DAY.](https://preview.redd.it/v8neyp2az3v61.png?width=750&format=png&auto=webp&s=747856e3ffcc23e4b928bc94a5c0268881719244)
+![WE MOON EVERY DAY AND ANY DAY.](https://preview.redd.it/v8neyp2az3v61.png?width=750&format=png&auto=webp&s=747856e3ffcc23e4b928bc94a5c0268881719244)
 
 \-----------------------------------------
 
@@ -386,7 +387,7 @@ Apes can I get a 💎 for my sisters cat who is having an operation right now? H
 
 **I will conclude this with saying that if you need a prescription for memes, please follow the link below:**
 
-![MEME Compilation - 22/04/21 - Nurse Mimi's Prescriptive Memes (Daily Dose). : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mw5j43/meme_compilation_220421_nurse_mimis_prescriptive/gvg5ghd/?context=3)
+[MEME Compilation - 22/04/21 - Nurse Mimi's Prescriptive Memes (Daily Dose). : Superstonk (reddit.com)](https://www.reddit.com/r/Superstonk/comments/mw5j43/meme_compilation_220421_nurse_mimis_prescriptive/gvg5ghd/?context=3)
 
 **Lots of love,**
 

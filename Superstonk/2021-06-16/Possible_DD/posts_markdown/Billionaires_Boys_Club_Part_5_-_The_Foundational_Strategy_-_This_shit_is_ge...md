@@ -1,3 +1,4 @@
+# Title: Billionaire's Boys Club Part 5 - The Foundational Strategy - This shit is getting SCARY Apes!
 # Author: BadassTrader
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/o16cbm/billionaires_boys_club_part_5_the_foundational/](https://www.reddit.com/r/Superstonk/comments/o16cbm/billionaires_boys_club_part_5_the_foundational/)
 
@@ -26,7 +27,7 @@
 
 (THIS IS GME RELATED)
 
-(Shameless PLUG: Follow me on Twitter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twitter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
 
 \------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -414,7 +415,7 @@ Remember, there are lots of beautiful things out there including this community 
 
 **LET ME KNOW WHAT YOU THINK OF THIS SERIES AS IT REALLY HELPS KEEP ME MOTIVATED!**
 
-(Shameless PLUG: Follow me on Twtter for more GME fun: ![https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
+(Shameless PLUG: Follow me on Twtter for more GME fun: [https://twitter.com/BadassTrader69](https://twitter.com/BadassTrader69) )
 
 &#x200B;
 

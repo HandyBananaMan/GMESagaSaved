@@ -1,3 +1,4 @@
+# Title: Is the new shill campaign just trying to make us look stupid?
 # Author: Kangaroosexy23
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/nytql1/is_the_new_shill_campaign_just_trying_to_make_us/](https://www.reddit.com/r/Superstonk/comments/nytql1/is_the_new_shill_campaign_just_trying_to_make_us/)
 

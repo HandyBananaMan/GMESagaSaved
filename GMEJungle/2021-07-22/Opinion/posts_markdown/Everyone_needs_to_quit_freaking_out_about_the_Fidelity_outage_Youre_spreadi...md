@@ -1,0 +1,6 @@
+# Title: Everyone needs to quit freaking out about the Fidelity outage. You’re spreading Fear Uncertainty and Doubt. Your Fidelity account has a 1.25 million insurance policy including hacks.
+# Author: Simulation_Glitch
+# Post URL: [https://www.reddit.com/r/GMEJungle/comments/oplc3m/everyone_needs_to_quit_freaking_out_about_the/](https://www.reddit.com/r/GMEJungle/comments/oplc3m/everyone_needs_to_quit_freaking_out_about_the/)
+
+
+I know because I asked. Their insurance is through Lloyds of London.  I asked all this a few months ago. I wanted to know for when the MOASS happened. Interesting thing I also learned is they are not a bank so it’s not FDIC insured from my understanding. Remember they are private and family owned still. They said they will act as a bank though even allowing direct deposit (about the most apeish thing I can think of to do is direct deposit your paycheck into your brokerage account). They will even give you a ATM card that you can use at any ATM and they will reimburse you for any fees. I don’t know how that’s profitable for them but that’s what they told me. Blew my mind kind of. Stay fucking Zen. Buy Hold Repeat.
