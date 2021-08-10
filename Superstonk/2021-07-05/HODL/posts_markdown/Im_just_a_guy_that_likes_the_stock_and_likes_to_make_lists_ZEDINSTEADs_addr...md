@@ -1,16 +1,17 @@
+# Title: I'm just a guy that likes the stock and likes to make lists. ZEDINSTEAD's address book of Guys and Girls has reached 100 apes!
 # Author: zedinstead
 # Post URL: [https://www.reddit.com/r/Superstonk/comments/oek6xl/im_just_a_guy_that_likes_the_stock_and_likes_to/](https://www.reddit.com/r/Superstonk/comments/oek6xl/im_just_a_guy_that_likes_the_stock_and_likes_to/)
 
 
-[Hey SuperStonk](https://imgur.com/ZzQ4pcW)
+![Hey SuperStonk](https://imgur.com/ZzQ4pcW)
 
-Do you like lists? I sure do. I'm ZedInstead and I'm retarded. I can't write DD and numbers hurt my smooth brain but I do have a specific set of skills. These are [my feelings towards Ken Griffen](https://imgur.com/OCVKM6G).
+Do you like lists? I sure do. I'm ZedInstead and I'm retarded. I can't write DD and numbers hurt my smooth brain but I do have a specific set of skills. These are ![my feelings towards Ken Griffen](https://imgur.com/OCVKM6G).
 
 Currently I have three projects going.
 
 1. The Forrest Gump GME Meme Movie: [Part 25 was posted last week](https://old.reddit.com/r/Superstonk/comments/o9vidq/the_forrest_gump_gme_meme_movie_here_is_part_25/) - If you haven't watched yet, start from the beginning(full scene list in comments). Still working on 3 more scenes so stay tuned!
 2. SuperStonk Guide: [Issue 14 was posted Friday morning](https://www.reddit.com/r/Superstonk/comments/oc98t6/i_wonder_what_regularly_scheduled_programs_are_on/) - Comment in the latest issue to be on the super awesome subscription service! 
-3. The List: The ![OG list can be found here](https://old.reddit.com/r/Superstonk/comments/nzzpdy/i_guess_im_the_guy_that_makes_lists_now_so_lets/). Let's talk about the new list!
+3. The List: The [OG list can be found here](https://old.reddit.com/r/Superstonk/comments/nzzpdy/i_guess_im_the_guy_that_makes_lists_now_so_lets/). Let's talk about the new list!
 
 It started out as my own personal address book of the wrinkle brains. Then the joke started going around about how "we've got a guy for that" and "we know a girl for this" so I posted my list and there was some interest in it as a resource and I've continued building it. Now its grown to 100 apes and includes several sections. It is way for me to recognize apes who regularly contribute to the community and most of all, its fun. Let me also say that every ape out there is important no matter how often they post or how low-quality of a meme they create or even just the ninja apes that are out there lurking, your just being here is awesome and you make this place amazing.
 
@@ -118,6 +119,8 @@ Daily Reverse Repo Update guy – u/pctracer
 Table guy - u/LeftHandedWave
 
 Graph guy - u/MJL_16
+
+Treasury Balance Guy - u/DR7KE
 
 Daily Bank Chart guy - u/gameyy
 
@@ -292,6 +295,8 @@ Voice Actor guy - u/PB2Tico
 
 Cinema Quality Hype guy - u/jedimuppet
 
+3D Animator guy - u/GlassGoose4PSN
+
 Hype Daddy guy - u/SlawBoss
 
 
@@ -364,7 +369,7 @@ Today's Deal of the Day guy - u/_King_Cav27_
 
 OG Live Thread guy - u/Corno4825
 
-OG Infinity Pool guy - u/BluPrince
+OG Forever Pond guy - u/BluPrince
 
 The Dude guy - u/wtt90
  (also goes by his dudeness, duder, or el dudorino)

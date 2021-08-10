@@ -1,6 +1,6 @@
-#Title: Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga
-#Author: Golden_D9
-#Post URL: [https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
+# Title: Here is a Complete Compilation Documenting the Existence of Every Market Manipulation Tactic Used by Hedge Funds in this GameStop Saga
+# Author: Golden_D9
+# Post URL: [https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/](https://www.reddit.com/r/Superstonk/comments/n8mizw/here_is_a_complete_compilation_documenting_the/)
 
 
 **TL;DR** To all the shills screaming "SuPeRsToNk iS lItErAlLy QaNoN", here is a complete list of market manipulation tactics used by Hedgies so far as documented by PhDs, professors, CEOs, and people that are generally in all accounts way smarter than you. Enjoy. **💎🙌 🚀**

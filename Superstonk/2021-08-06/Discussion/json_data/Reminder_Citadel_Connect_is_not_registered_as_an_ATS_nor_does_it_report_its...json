@@ -1,0 +1,17 @@
+{
+    "author": "TwoCylToilet",
+    "created_utc": 1628269750.0,
+    "distinguished": null,
+    "edited": 1628314826.0,
+    "id": "ozaygk",
+    "text_only": true,
+    "flair_text": "Discussion \ud83e\udd8d",
+    "name": "t3_ozaygk",
+    "num_comments": 31,
+    "permalink": "/r/Superstonk/comments/ozaygk/reminder_citadel_connect_is_not_registered_as_an/",
+    "score": 842,
+    "selftext": "Edit: Unregistered dark pools are also known as SDP/Single-Dealer Platforms\n\nEdit: u/SubParMarioBro commented below that Citadel Connect does report their volume to FINRA, however AFAIK the mayo pool is not subject to RegATS.\n\nEdit: u/WisePhantom has noted that the FINRA volume is of Citadel LLC and not of Citadel Connect, so there isn't actually any reporting happening.\n\nI think we now need to be precise in our language regarding off-exchange trading via internalisers such as Citadel Connect. While registered alternative trading systems (ATS) or registered dark pools have to report their trading volume to FINRA (as mentioned by Dave Lauer), I believe what he alluded to is that Citadel Connect does not report their trades.\n\nI don't think there are any good reasons why ANY volume should be routed through unregistered dark pools. While it's technically a legal grey area, unregistered dark pools require no reporting, and are largely unregulated.\n\nFact: Naked Shorting is counterfeiting.\n\nFact: Shorts covering (via options or otherwise) and closing (buying shorted shares to deliver) are not the same.\n\nOpinion: (Non-naked) Short selling is bad for the securities market and the economy.\n\nOpinion: Dark pools are bad for the securities market and the economy.\n\nWhy did I just randomly state some facts and opinions? Because opinions are just that; opinions. We could be discussing the merits and pitfalls of registered ATS's until the cows come home, but there are undoubtedly good faith reasons for dark pools and shorting to exist. However, there are no good reasons for unregistered dark pools to continue to exist other than for Citadel (and other market makers') benefit. Not to forget the secret ingredient of crime.\n\nFact: Registered dark pools eventually report all trades to FINRA.\n\nFact: Unregistered dark pools do not have any legal obligation to report volume to FINRA.\n\nThe sooner that this last fact is well known by every retail investor, the sooner unregistered dark pools such as Citadel Connect will stop being another tool to manipulate the market.\n\nI also believe that unregistered dark pool, registered ATS, and lit exchange volumes should be clearly differentiated in DDs, data, and discussions to circumvent FUD and confusion within our conversations.\n\nPlease correct this smooth brain ape if there are any concepts that I may have misunderstood. The last thing I want to do here is to spread any misinformation. \n\nP.S. Feel free to coin an alternative, more concise (apeier) term for \"unregistered dark pool\" within Superstonk. Perhaps something like \"cess pool\" or \"mayo pool\". Idk, you guys have fun.\n\nTA;DR Unregistered dark pools should be illegal change my mind.",
+    "title": "Reminder: Citadel Connect is not registered as an ATS, nor does it report it's trading volume to FINRA. We should be precise with language with referring to unregistered dark pools and their volumes, and differentiate it from registered ATS's and volumes.",
+    "upvote_ratio": 0.99,
+    "url": "https://www.reddit.com/r/Superstonk/comments/ozaygk/reminder_citadel_connect_is_not_registered_as_an/"
+}
